@@ -1,0 +1,338 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>财务处</title><META Name="keywords" Content="财务处" />
+
+    <link href="css/style.css" rel="stylesheet" type="text/css" />
+    
+
+
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="index.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1440896720)</script>
+</head>
+
+<body>
+    <div id="head">
+        <div id="logo">
+            <a href=""><img src="images/logo.jpg" width="663" height="98" /></a>
+        </div>
+        <div id="text">
+            电话：2291164，传真：2290458<br />
+            纳税人识别号：1245000049867145XC
+        </div>
+    </div>
+    <div id="menu"><!--#begineditable name="网站导航" action="" layout="" tpltype="" contype="" clone="" viewid="200861" contentviewid="" tagname="网站导航"--><div id="menu">
+        <ul>
+                        <li><a href="index.htm" title="首页" class="unactive">首页</a></li>            
+            <li><a href="infolist.jsp?urltype=tree.TreeTempUrl&wbtreeid=1004" title="部门简介" class="unactive">部门简介</a></li>            
+            <li><a href="infolist.jsp?urltype=tree.TreeTempUrl&wbtreeid=1003" title="机构设置" class="unactive">机构设置</a></li>            
+            <li><a href="infolist.jsp?urltype=tree.TreeTempUrl&wbtreeid=1005" title="通知公告" class="unactive">通知公告</a></li>            
+            <li><a href="infolist.jsp?urltype=tree.TreeTempUrl&wbtreeid=1006" title="工作动态" class="unactive">工作动态</a></li>            
+            <li><a href="infolist.jsp?urltype=tree.TreeTempUrl&wbtreeid=1007" title="规章制度" class="unactive">规章制度</a></li>            
+            <li><a href="infolist.jsp?urltype=tree.TreeTempUrl&wbtreeid=1008" title="办事流程" class="unactive">办事流程</a></li>            
+            <li><a href="infolist.jsp?urltype=tree.TreeTempUrl&wbtreeid=1009" title="下载专区" class="unactive">下载专区</a></li>            
+            <li><a href="infolist.jsp?urltype=tree.TreeTempUrl&wbtreeid=1013" title="党建专栏" class="unactive">党建专栏</a></li>            
+        </ul>
+    </div>
+
+<!--#endeditable--></div>
+    <div id="ad">
+        <img src="images/head.jpg" width="1218" height="338" />
+    </div>
+    
+    <div id="topcontent">
+        <div id="login">
+            <img src="images/login.jpg" width="697" height="377" border="0" usemap="#Map" />
+            <map name="Map" id="Map">
+                <area shape="rect" coords="88,59,253,95" href="http://172.16.64.245:81/" title="财务综合平台" target="_blank" />
+                <area shape="rect" coords="267,56,431,97" href="http://cwcx.guet.edu.cn/unifee/AlterPay/Login?returnUrl=http%3A%2F%2Fcwcx.guet.edu.cn%2Funifee%2FAlterPay%2FFindBatch" title="统一收费平台缴费端" target="_blank" />
+                <area shape="rect" coords="88,126,219,165" href="http://cwcx.guet.edu.cn/xfzxqcx/" title="学费查询" target="_blank" />
+                <area shape="rect" coords="268,127,399,164" href="http://172.16.64.245:8082/gzcx" title="工资查询" target="_blank" />
+                <area shape="rect" coords="445,127,573,165" href="http://172.16.64.245:8082/lkqr/Payment" title="来款确认" target="_blank" />
+                <area shape="rect" coords="446,55,611,96" href="https://cwcx.guet.edu.cn/budget/" title="预算管理平台" target="_blank" />
+  <area shape="rect" coords="88,187,259,227" href="http://172.16.64.245:8082/unifee/" title="收费管理管理端" target="_blank" />
+<area shape="rect" coords="355,187,800,225" href="http://172.16.64.245:8082/cwgl/main.htm" title="2014" target="_blank" />
+
+            </map>
+        </div>
+        <div id="notice2">
+            <div class="caption2">通知公告 <a href="infolist.jsp?urltype=tree.TreeTempUrl&wbtreeid=1005" class="more" target="">MORE+&nbsp;&nbsp;</a></div>
+            <div class="list2"><!--#begineditable name="通知公告列表" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/tpltitlelist.jsp" tpltype="1" contype="news" clone="" viewid="200925" contentviewid="" tagname="通知公告列表"--><script language="javascript" src="/system/resource/js/dynclicks.js"></script><ul>
+    <li><a class="news" href="info/1005/1466.htm" target="_blank" title="【疫情防控】桂林电子科技大学疫情防控工作领导小组通告（第6号）">【疫情防控】桂林电子科技大学疫情防控工作领导小组通告（第6...</a><span>2020-03-02</span></li>
+    <li><a class="news" href="info/1005/1463.htm" target="_blank" title="【疫情防控】财务处防疫期间办事指南（新版）">【疫情防控】财务处防疫期间办事指南（新版）</a><span>2020-03-01</span></li>
+    <li><a class="news" href="info/1005/1462.htm" target="_blank" title="【疫情防控】财务处防疫期间办事指南">【疫情防控】财务处防疫期间办事指南</a><span>2020-02-22</span></li>
+    <li><a class="news" href="info/1005/1455.htm" target="_blank" title="【疫情防控】桂林电子科技大学疫情防控工作领导小组通告（第5号）">【疫情防控】桂林电子科技大学疫情防控工作领导小组通告（第5...</a><span>2020-02-19</span></li>
+    <li><a class="news" href="info/1005/1454.htm" target="_blank" title="【疫情防控】桂林电子科技大学疫情防控工作领导小组通告（第4号）">【疫情防控】桂林电子科技大学疫情防控工作领导小组通告（第4...</a><span>2020-02-14</span></li>
+    <li><a class="news" href="info/1005/1453.htm" target="_blank" title="【疫情防控】桂林电子科技大学疫情防控工作领导小组通告（第3号）">【疫情防控】桂林电子科技大学疫情防控工作领导小组通告（第3...</a><span>2020-02-12</span></li>
+    <li><a class="news" href="info/1005/1442.htm" target="_blank" title="财务处关于变更寒假值班的通知">财务处关于变更寒假值班的通知</a><span>2020-02-02</span></li>
+    <li><a class="news" href="info/1005/1452.htm" target="_blank" title="【疫情防控】桂林电子科技大学疫情防控工作领导小组通告（第2号）">【疫情防控】桂林电子科技大学疫情防控工作领导小组通告（第2...</a><span>2020-02-01</span></li>
+</ul><script>_showDynClickBatch(['dynclicks_u1_1466','dynclicks_u1_1463','dynclicks_u1_1462','dynclicks_u1_1455','dynclicks_u1_1454','dynclicks_u1_1453','dynclicks_u1_1442','dynclicks_u1_1452'],[1466,1463,1462,1455,1454,1453,1442,1452],"wbnews", 1440896720)</script>
+<!--#endeditable--></div>
+            
+        </div>
+    </div>
+    <div id="line"><img src="images/line.jpg" width="1218" height="70" /></div>
+
+    <div id="main">
+        
+
+
+<div class="block">
+    <div class="block_l"><div class="caption">工作动态 <a href="infolist.jsp?urltype=tree.TreeTempUrl&wbtreeid=1006" class="more" target="">MORE+&nbsp;&nbsp;</a></div>
+        <div class="list">
+            <ul><!--#begineditable name="工作动态列表" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/tpltitlelist.jsp" tpltype="1" contype="news" clone="" viewid="200927" contentviewid="" tagname="工作动态列表"--><ul>
+    <li><a class="news" href="info/1006/1492.htm" target="_blank" title="【疫情防控】建设银行桂林分行向学校捐赠疫情防疫物资">【疫情防控】建设银行桂林分行向学校捐赠疫情防疫物资</a><span>2020/04/03</span></li>
+    <li><a class="news" href="info/1006/1471.htm" target="_blank" title="财务处校庆工作组召开第一次工作会议">财务处校庆工作组召开第一次工作会议</a><span>2020/03/13</span></li>
+    <li><a class="news" href="info/1006/1465.htm" target="_blank" title="【疫情防控】疫情防控，服务随行--财务处多举措全力做好疫情防控服务">【疫情防控】疫情防控，服务随行--财务处多举措全力做好疫情防控...</a><span>2020/03/06</span></li>
+    <li><a class="news" href="info/1006/1421.htm" target="_blank" title="财务处举办个人所得税汇算清缴专题培训会（图）">财务处举办个人所得税汇算清缴专题培训会（图）</a><span>2019/12/16</span></li>
+    <li><a class="news" href="info/1006/1417.htm" target="_blank" title="曹辉景总会计师带领财务处学习组赴区内高校考察学习（图）">曹辉景总会计师带领财务处学习组赴区内高校考察学习（图）</a><span>2019/12/13</span></li>
+</ul><script>_showDynClickBatch(['dynclicks_u2_1492','dynclicks_u2_1471','dynclicks_u2_1465','dynclicks_u2_1421','dynclicks_u2_1417'],[1492,1471,1465,1421,1417],"wbnews", 1440896720)</script>
+<!--#endeditable--></ul>
+        </div></div>
+    <div class="block_r2">
+        <div id="block_text">
+            学校账号<br />
+            全称：桂林电子科技大学<br />
+            账号：2103215209249017694<br />
+            开户行：工商银行桂林分行屏风支行<br /><br />
+            纳税人识别号：1245000049867145XC<br />
+            联系地址电话：桂林市金鸡路1号 07732291187
+        </div>
+    </div>
+</div>
+<div class="block">
+    <div class="block_l">
+        <div class="caption">规章制度 <a href="infolist.jsp?urltype=tree.TreeTempUrl&wbtreeid=1007" class="more" target="">MORE+&nbsp;&nbsp;</a></div>
+        <div class="list">
+            <ul><!--#begineditable name="规章制度列表" action="" layout="" tpltype="" contype="" clone="" viewid="200928" contentviewid="" tagname="规章制度列表"--><ul>
+    <li><a class="news" href="info/1007/1482.htm" target="_blank" title="桂电财〔2019〕13号--关于印发《桂林电子科技大学预算管理办法》的通知">桂电财〔2019〕13号--关于印发《桂林电子科技大学预算管理办法》...</a><span>2019/12/31</span></li>
+    <li><a class="news" href="info/1007/1481.htm" target="_blank" title="桂电财〔2019〕8号--关于印发《桂林电子科技大学会计委派管理办法》的通知">桂电财〔2019〕8号--关于印发《桂林电子科技大学会计委派管理办法...</a><span>2019/12/31</span></li>
+    <li><a class="news" href="info/1007/1365.htm" target="_blank" title="桂财行〔2014〕29号--广西壮族自治区本级外宾接待经费管理办法">桂财行〔2014〕29号--广西壮族自治区本级外宾接待经费管理办法</a><span>2019/11/01</span></li>
+    <li><a class="news" href="info/1007/1362.htm" target="_blank" title="桂财行〔2014〕27号--广西壮族自治区因公临时出国经费管理办法">桂财行〔2014〕27号--广西壮族自治区因公临时出国经费管理办法</a><span>2019/10/24</span></li>
+    <li><a class="news" href="info/1007/1334.htm" target="_blank" title="桂电财〔2019〕6号--关于印发《桂林电子科技大学二级学院预算管理办法》的通知">桂电财〔2019〕6号--关于印发《桂林电子科技大学二级学院预算管理...</a><span>2019/07/11</span></li>
+</ul><script>_showDynClickBatch(['dynclicks_u3_1482','dynclicks_u3_1481','dynclicks_u3_1365','dynclicks_u3_1362','dynclicks_u3_1334'],[1482,1481,1365,1362,1334],"wbnews", 1440896720)</script>
+<!--#endeditable--></ul>
+        </div>
+    </div>
+    <div class="block_r">
+        <div class="caption">办事流程 <a href="infolist.jsp?urltype=tree.TreeTempUrl&wbtreeid=1008" class="more" target="">MORE+&nbsp;&nbsp;</a></div>
+        <div class="list">
+            <ul><!--#begineditable name="办事流程列表" action="" layout="" tpltype="" contype="" clone="" viewid="200930" contentviewid="" tagname="办事流程列表"--><ul>
+    <li><a class="news" href="info/1008/1368.htm" target="_blank" title="出国（境）报销要求及流程">出国（境）报销要求及流程</a><span>2019/11/01</span></li>
+    <li><a class="news" href="info/1008/1189.htm" target="_blank" title="公务卡办理及常见问答（2018版）">公务卡办理及常见问答（2018版）</a><span>2018/05/03</span></li>
+    <li><a class="news" href="info/1008/1188.htm" target="_blank" title="公务卡办理流程">公务卡办理流程</a><span>2017/09/01</span></li>
+    <li><a class="news" href="info/1008/1187.htm" target="_blank" title="业务处理窗口简介">业务处理窗口简介</a><span>2017/09/01</span></li>
+    <li><a class="news" href="info/1008/1185.htm" target="_blank" title="各类报销流程">各类报销流程</a><span>2017/07/15</span></li>
+</ul><script>_showDynClickBatch(['dynclicks_u4_1368','dynclicks_u4_1189','dynclicks_u4_1188','dynclicks_u4_1187','dynclicks_u4_1185'],[1368,1189,1188,1187,1185],"wbnews", 1440896720)</script>
+<!--#endeditable--></ul>
+        </div>
+    </div>
+</div>
+<div class="block">
+    <div class="block_l">
+        <div class="caption">下载专区 <a href="infolist.jsp?urltype=tree.TreeTempUrl&wbtreeid=1009" class="more" target="">MORE+&nbsp;&nbsp;</a></div>
+        <div class="list">
+            <ul><!--#begineditable name="下载专区列表" action="" layout="" tpltype="" contype="" clone="" viewid="200929" contentviewid="" tagname="下载专区列表"--><ul>
+    <li><a class="news" href="info/1009/1291.htm" target="_blank" title="现金支付情况说明书">现金支付情况说明书</a><span>2019/05/07</span></li>
+    <li><a class="news" href="info/1009/1181.htm" target="_blank" title="桂林电子科技大学原始票据粘贴单">桂林电子科技大学原始票据粘贴单</a><span>2019/04/25</span></li>
+    <li><a class="news" href="info/1009/1179.htm" target="_blank" title="学生差旅费报销说明表">学生差旅费报销说明表</a><span>2018/05/22</span></li>
+    <li><a class="news" href="info/1009/1174.htm" target="_blank" title="生产实习报账">生产实习报账</a><span>2017/10/30</span></li>
+    <li><a class="news" href="info/1009/1163.htm" target="_blank" title="桂林电子科技大学国内公务接待审批单及接待清单">桂林电子科技大学国内公务接待审批单及接待清单</a><span>2017/10/13</span></li>
+</ul><script>_showDynClickBatch(['dynclicks_u5_1291','dynclicks_u5_1181','dynclicks_u5_1179','dynclicks_u5_1174','dynclicks_u5_1163'],[1291,1181,1179,1174,1163],"wbnews", 1440896720)</script>
+<!--#endeditable--></ul>
+        </div>
+    </div>
+    <div class="block_r">
+        <div class="caption">党建专栏 <a href="infolist.jsp?urltype=tree.TreeTempUrl&wbtreeid=1013" class="more" target="">MORE+&nbsp;&nbsp;</a></div>
+        <div class="list">
+            <ul><!--#begineditable name="党建专栏列表" action="" layout="" tpltype="" contype="" clone="" viewid="200931" contentviewid="" tagname="党建专栏列表"--><ul>
+    <li><a class="news" href="info/1013/1491.htm" target="_blank" title="【疫情防控】财务处党支部开展专题理论学习">【疫情防控】财务处党支部开展专题理论学习</a><span>2020/04/03</span></li>
+    <li><a class="news" href="info/1013/1415.htm" target="_blank" title="财务处党支部召开专题民主生活会和专题组织生活会（图）">财务处党支部召开专题民主生活会和专题组织生活会（图）</a><span>2019/12/13</span></li>
+    <li><a class="news" href="info/1013/1382.htm" target="_blank" title="【不忘初心、牢记使命】财务处党支部和工会与保卫处党支部开展“不忘初心、牢记使命”主题教育活动（图）">【不忘初心、牢记使命】财务处党支部和工会与保卫处党支部开展“...</a><span>2019/11/25</span></li>
+    <li><a class="news" href="info/1013/1416.htm" target="_blank" title="财务处党支部召开“不忘初心、牢记使命”主题教育第七次会议（图）">财务处党支部召开“不忘初心、牢记使命”主题教育第七次会议（图）</a><span>2019/11/25</span></li>
+    <li><a class="news" href="info/1013/1383.htm" target="_blank" title="【不忘初心、牢记使命】财务处党支部召开调研成果交流会议（图）">【不忘初心、牢记使命】财务处党支部召开调研成果交流会议（图）</a><span>2019/11/18</span></li>
+</ul><script>_showDynClickBatch(['dynclicks_u6_1491','dynclicks_u6_1415','dynclicks_u6_1382','dynclicks_u6_1416','dynclicks_u6_1383'],[1491,1415,1382,1416,1383],"wbnews", 1440896720)</script>
+<!--#endeditable--></ul>
+        </div>
+    </div>
+</div>
+
+    </div>
+    <div id="addr"><img src="images/addr.jpg" width="1218" height="168" /></div>    
+</body>
+</html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>财务处</title><META Name="keywords" Content="财务处" />
+
+    <link href="css/style.css" rel="stylesheet" type="text/css" />
+    
+
+
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="index.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1440896720)</script>
+</head>
+
+<body>
+    <div id="head">
+        <div id="logo">
+            <a href=""><img src="images/logo.jpg" width="663" height="98" /></a>
+        </div>
+        <div id="text">
+            电话：2291164，传真：2290458<br />
+            纳税人识别号：1245000049867145XC
+        </div>
+    </div>
+    <div id="menu"><!--#begineditable name="网站导航" action="" layout="" tpltype="" contype="" clone="" viewid="200861" contentviewid="" tagname="网站导航"--><div id="menu">
+        <ul>
+                        <li><a href="index.htm" title="首页" class="unactive">首页</a></li>            
+            <li><a href="infolist.jsp?urltype=tree.TreeTempUrl&wbtreeid=1004" title="部门简介" class="unactive">部门简介</a></li>            
+            <li><a href="infolist.jsp?urltype=tree.TreeTempUrl&wbtreeid=1003" title="机构设置" class="unactive">机构设置</a></li>            
+            <li><a href="infolist.jsp?urltype=tree.TreeTempUrl&wbtreeid=1005" title="通知公告" class="unactive">通知公告</a></li>            
+            <li><a href="infolist.jsp?urltype=tree.TreeTempUrl&wbtreeid=1006" title="工作动态" class="unactive">工作动态</a></li>            
+            <li><a href="infolist.jsp?urltype=tree.TreeTempUrl&wbtreeid=1007" title="规章制度" class="unactive">规章制度</a></li>            
+            <li><a href="infolist.jsp?urltype=tree.TreeTempUrl&wbtreeid=1008" title="办事流程" class="unactive">办事流程</a></li>            
+            <li><a href="infolist.jsp?urltype=tree.TreeTempUrl&wbtreeid=1009" title="下载专区" class="unactive">下载专区</a></li>            
+            <li><a href="infolist.jsp?urltype=tree.TreeTempUrl&wbtreeid=1013" title="党建专栏" class="unactive">党建专栏</a></li>            
+        </ul>
+    </div>
+
+<!--#endeditable--></div>
+    <div id="ad">
+        <img src="images/head.jpg" width="1218" height="338" />
+    </div>
+    
+    <div id="topcontent">
+        <div id="login">
+            <img src="images/login.jpg" width="697" height="377" border="0" usemap="#Map" />
+            <map name="Map" id="Map">
+                <area shape="rect" coords="88,59,253,95" href="http://172.16.64.245:81/" title="财务综合平台" target="_blank" />
+                <area shape="rect" coords="267,56,431,97" href="http://cwcx.guet.edu.cn/unifee/AlterPay/Login?returnUrl=http%3A%2F%2Fcwcx.guet.edu.cn%2Funifee%2FAlterPay%2FFindBatch" title="统一收费平台缴费端" target="_blank" />
+                <area shape="rect" coords="88,126,219,165" href="http://cwcx.guet.edu.cn/xfzxqcx/" title="学费查询" target="_blank" />
+                <area shape="rect" coords="268,127,399,164" href="http://172.16.64.245:8082/gzcx" title="工资查询" target="_blank" />
+                <area shape="rect" coords="445,127,573,165" href="http://172.16.64.245:8082/lkqr/Payment" title="来款确认" target="_blank" />
+                <area shape="rect" coords="446,55,611,96" href="https://cwcx.guet.edu.cn/budget/" title="预算管理平台" target="_blank" />
+  <area shape="rect" coords="88,187,259,227" href="http://172.16.64.245:8082/unifee/" title="收费管理管理端" target="_blank" />
+<area shape="rect" coords="355,187,800,225" href="http://172.16.64.245:8082/cwgl/main.htm" title="2014" target="_blank" />
+
+            </map>
+        </div>
+        <div id="notice2">
+            <div class="caption2">通知公告 <a href="infolist.jsp?urltype=tree.TreeTempUrl&wbtreeid=1005" class="more" target="">MORE+&nbsp;&nbsp;</a></div>
+            <div class="list2"><!--#begineditable name="通知公告列表" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/tpltitlelist.jsp" tpltype="1" contype="news" clone="" viewid="200925" contentviewid="" tagname="通知公告列表"--><script language="javascript" src="/system/resource/js/dynclicks.js"></script><ul>
+    <li><a class="news" href="info/1005/1466.htm" target="_blank" title="【疫情防控】桂林电子科技大学疫情防控工作领导小组通告（第6号）">【疫情防控】桂林电子科技大学疫情防控工作领导小组通告（第6...</a><span>2020-03-02</span></li>
+    <li><a class="news" href="info/1005/1463.htm" target="_blank" title="【疫情防控】财务处防疫期间办事指南（新版）">【疫情防控】财务处防疫期间办事指南（新版）</a><span>2020-03-01</span></li>
+    <li><a class="news" href="info/1005/1462.htm" target="_blank" title="【疫情防控】财务处防疫期间办事指南">【疫情防控】财务处防疫期间办事指南</a><span>2020-02-22</span></li>
+    <li><a class="news" href="info/1005/1455.htm" target="_blank" title="【疫情防控】桂林电子科技大学疫情防控工作领导小组通告（第5号）">【疫情防控】桂林电子科技大学疫情防控工作领导小组通告（第5...</a><span>2020-02-19</span></li>
+    <li><a class="news" href="info/1005/1454.htm" target="_blank" title="【疫情防控】桂林电子科技大学疫情防控工作领导小组通告（第4号）">【疫情防控】桂林电子科技大学疫情防控工作领导小组通告（第4...</a><span>2020-02-14</span></li>
+    <li><a class="news" href="info/1005/1453.htm" target="_blank" title="【疫情防控】桂林电子科技大学疫情防控工作领导小组通告（第3号）">【疫情防控】桂林电子科技大学疫情防控工作领导小组通告（第3...</a><span>2020-02-12</span></li>
+    <li><a class="news" href="info/1005/1442.htm" target="_blank" title="财务处关于变更寒假值班的通知">财务处关于变更寒假值班的通知</a><span>2020-02-02</span></li>
+    <li><a class="news" href="info/1005/1452.htm" target="_blank" title="【疫情防控】桂林电子科技大学疫情防控工作领导小组通告（第2号）">【疫情防控】桂林电子科技大学疫情防控工作领导小组通告（第2...</a><span>2020-02-01</span></li>
+</ul><script>_showDynClickBatch(['dynclicks_u1_1466','dynclicks_u1_1463','dynclicks_u1_1462','dynclicks_u1_1455','dynclicks_u1_1454','dynclicks_u1_1453','dynclicks_u1_1442','dynclicks_u1_1452'],[1466,1463,1462,1455,1454,1453,1442,1452],"wbnews", 1440896720)</script>
+<!--#endeditable--></div>
+            
+        </div>
+    </div>
+    <div id="line"><img src="images/line.jpg" width="1218" height="70" /></div>
+
+    <div id="main">
+        
+
+
+<div class="block">
+    <div class="block_l"><div class="caption">工作动态 <a href="infolist.jsp?urltype=tree.TreeTempUrl&wbtreeid=1006" class="more" target="">MORE+&nbsp;&nbsp;</a></div>
+        <div class="list">
+            <ul><!--#begineditable name="工作动态列表" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/tpltitlelist.jsp" tpltype="1" contype="news" clone="" viewid="200927" contentviewid="" tagname="工作动态列表"--><ul>
+    <li><a class="news" href="info/1006/1492.htm" target="_blank" title="【疫情防控】建设银行桂林分行向学校捐赠疫情防疫物资">【疫情防控】建设银行桂林分行向学校捐赠疫情防疫物资</a><span>2020/04/03</span></li>
+    <li><a class="news" href="info/1006/1471.htm" target="_blank" title="财务处校庆工作组召开第一次工作会议">财务处校庆工作组召开第一次工作会议</a><span>2020/03/13</span></li>
+    <li><a class="news" href="info/1006/1465.htm" target="_blank" title="【疫情防控】疫情防控，服务随行--财务处多举措全力做好疫情防控服务">【疫情防控】疫情防控，服务随行--财务处多举措全力做好疫情防控...</a><span>2020/03/06</span></li>
+    <li><a class="news" href="info/1006/1421.htm" target="_blank" title="财务处举办个人所得税汇算清缴专题培训会（图）">财务处举办个人所得税汇算清缴专题培训会（图）</a><span>2019/12/16</span></li>
+    <li><a class="news" href="info/1006/1417.htm" target="_blank" title="曹辉景总会计师带领财务处学习组赴区内高校考察学习（图）">曹辉景总会计师带领财务处学习组赴区内高校考察学习（图）</a><span>2019/12/13</span></li>
+</ul><script>_showDynClickBatch(['dynclicks_u2_1492','dynclicks_u2_1471','dynclicks_u2_1465','dynclicks_u2_1421','dynclicks_u2_1417'],[1492,1471,1465,1421,1417],"wbnews", 1440896720)</script>
+<!--#endeditable--></ul>
+        </div></div>
+    <div class="block_r2">
+        <div id="block_text">
+            学校账号<br />
+            全称：桂林电子科技大学<br />
+            账号：2103215209249017694<br />
+            开户行：工商银行桂林分行屏风支行<br /><br />
+            纳税人识别号：1245000049867145XC<br />
+            联系地址电话：桂林市金鸡路1号 07732291187
+        </div>
+    </div>
+</div>
+<div class="block">
+    <div class="block_l">
+        <div class="caption">规章制度 <a href="infolist.jsp?urltype=tree.TreeTempUrl&wbtreeid=1007" class="more" target="">MORE+&nbsp;&nbsp;</a></div>
+        <div class="list">
+            <ul><!--#begineditable name="规章制度列表" action="" layout="" tpltype="" contype="" clone="" viewid="200928" contentviewid="" tagname="规章制度列表"--><ul>
+    <li><a class="news" href="info/1007/1482.htm" target="_blank" title="桂电财〔2019〕13号--关于印发《桂林电子科技大学预算管理办法》的通知">桂电财〔2019〕13号--关于印发《桂林电子科技大学预算管理办法》...</a><span>2019/12/31</span></li>
+    <li><a class="news" href="info/1007/1481.htm" target="_blank" title="桂电财〔2019〕8号--关于印发《桂林电子科技大学会计委派管理办法》的通知">桂电财〔2019〕8号--关于印发《桂林电子科技大学会计委派管理办法...</a><span>2019/12/31</span></li>
+    <li><a class="news" href="info/1007/1365.htm" target="_blank" title="桂财行〔2014〕29号--广西壮族自治区本级外宾接待经费管理办法">桂财行〔2014〕29号--广西壮族自治区本级外宾接待经费管理办法</a><span>2019/11/01</span></li>
+    <li><a class="news" href="info/1007/1362.htm" target="_blank" title="桂财行〔2014〕27号--广西壮族自治区因公临时出国经费管理办法">桂财行〔2014〕27号--广西壮族自治区因公临时出国经费管理办法</a><span>2019/10/24</span></li>
+    <li><a class="news" href="info/1007/1334.htm" target="_blank" title="桂电财〔2019〕6号--关于印发《桂林电子科技大学二级学院预算管理办法》的通知">桂电财〔2019〕6号--关于印发《桂林电子科技大学二级学院预算管理...</a><span>2019/07/11</span></li>
+</ul><script>_showDynClickBatch(['dynclicks_u3_1482','dynclicks_u3_1481','dynclicks_u3_1365','dynclicks_u3_1362','dynclicks_u3_1334'],[1482,1481,1365,1362,1334],"wbnews", 1440896720)</script>
+<!--#endeditable--></ul>
+        </div>
+    </div>
+    <div class="block_r">
+        <div class="caption">办事流程 <a href="infolist.jsp?urltype=tree.TreeTempUrl&wbtreeid=1008" class="more" target="">MORE+&nbsp;&nbsp;</a></div>
+        <div class="list">
+            <ul><!--#begineditable name="办事流程列表" action="" layout="" tpltype="" contype="" clone="" viewid="200930" contentviewid="" tagname="办事流程列表"--><ul>
+    <li><a class="news" href="info/1008/1368.htm" target="_blank" title="出国（境）报销要求及流程">出国（境）报销要求及流程</a><span>2019/11/01</span></li>
+    <li><a class="news" href="info/1008/1189.htm" target="_blank" title="公务卡办理及常见问答（2018版）">公务卡办理及常见问答（2018版）</a><span>2018/05/03</span></li>
+    <li><a class="news" href="info/1008/1188.htm" target="_blank" title="公务卡办理流程">公务卡办理流程</a><span>2017/09/01</span></li>
+    <li><a class="news" href="info/1008/1187.htm" target="_blank" title="业务处理窗口简介">业务处理窗口简介</a><span>2017/09/01</span></li>
+    <li><a class="news" href="info/1008/1185.htm" target="_blank" title="各类报销流程">各类报销流程</a><span>2017/07/15</span></li>
+</ul><script>_showDynClickBatch(['dynclicks_u4_1368','dynclicks_u4_1189','dynclicks_u4_1188','dynclicks_u4_1187','dynclicks_u4_1185'],[1368,1189,1188,1187,1185],"wbnews", 1440896720)</script>
+<!--#endeditable--></ul>
+        </div>
+    </div>
+</div>
+<div class="block">
+    <div class="block_l">
+        <div class="caption">下载专区 <a href="infolist.jsp?urltype=tree.TreeTempUrl&wbtreeid=1009" class="more" target="">MORE+&nbsp;&nbsp;</a></div>
+        <div class="list">
+            <ul><!--#begineditable name="下载专区列表" action="" layout="" tpltype="" contype="" clone="" viewid="200929" contentviewid="" tagname="下载专区列表"--><ul>
+    <li><a class="news" href="info/1009/1291.htm" target="_blank" title="现金支付情况说明书">现金支付情况说明书</a><span>2019/05/07</span></li>
+    <li><a class="news" href="info/1009/1181.htm" target="_blank" title="桂林电子科技大学原始票据粘贴单">桂林电子科技大学原始票据粘贴单</a><span>2019/04/25</span></li>
+    <li><a class="news" href="info/1009/1179.htm" target="_blank" title="学生差旅费报销说明表">学生差旅费报销说明表</a><span>2018/05/22</span></li>
+    <li><a class="news" href="info/1009/1174.htm" target="_blank" title="生产实习报账">生产实习报账</a><span>2017/10/30</span></li>
+    <li><a class="news" href="info/1009/1163.htm" target="_blank" title="桂林电子科技大学国内公务接待审批单及接待清单">桂林电子科技大学国内公务接待审批单及接待清单</a><span>2017/10/13</span></li>
+</ul><script>_showDynClickBatch(['dynclicks_u5_1291','dynclicks_u5_1181','dynclicks_u5_1179','dynclicks_u5_1174','dynclicks_u5_1163'],[1291,1181,1179,1174,1163],"wbnews", 1440896720)</script>
+<!--#endeditable--></ul>
+        </div>
+    </div>
+    <div class="block_r">
+        <div class="caption">党建专栏 <a href="infolist.jsp?urltype=tree.TreeTempUrl&wbtreeid=1013" class="more" target="">MORE+&nbsp;&nbsp;</a></div>
+        <div class="list">
+            <ul><!--#begineditable name="党建专栏列表" action="" layout="" tpltype="" contype="" clone="" viewid="200931" contentviewid="" tagname="党建专栏列表"--><ul>
+    <li><a class="news" href="info/1013/1491.htm" target="_blank" title="【疫情防控】财务处党支部开展专题理论学习">【疫情防控】财务处党支部开展专题理论学习</a><span>2020/04/03</span></li>
+    <li><a class="news" href="info/1013/1415.htm" target="_blank" title="财务处党支部召开专题民主生活会和专题组织生活会（图）">财务处党支部召开专题民主生活会和专题组织生活会（图）</a><span>2019/12/13</span></li>
+    <li><a class="news" href="info/1013/1382.htm" target="_blank" title="【不忘初心、牢记使命】财务处党支部和工会与保卫处党支部开展“不忘初心、牢记使命”主题教育活动（图）">【不忘初心、牢记使命】财务处党支部和工会与保卫处党支部开展“...</a><span>2019/11/25</span></li>
+    <li><a class="news" href="info/1013/1416.htm" target="_blank" title="财务处党支部召开“不忘初心、牢记使命”主题教育第七次会议（图）">财务处党支部召开“不忘初心、牢记使命”主题教育第七次会议（图）</a><span>2019/11/25</span></li>
+    <li><a class="news" href="info/1013/1383.htm" target="_blank" title="【不忘初心、牢记使命】财务处党支部召开调研成果交流会议（图）">【不忘初心、牢记使命】财务处党支部召开调研成果交流会议（图）</a><span>2019/11/18</span></li>
+</ul><script>_showDynClickBatch(['dynclicks_u6_1491','dynclicks_u6_1415','dynclicks_u6_1382','dynclicks_u6_1416','dynclicks_u6_1383'],[1491,1415,1382,1416,1383],"wbnews", 1440896720)</script>
+<!--#endeditable--></ul>
+        </div>
+    </div>
+</div>
+
+    </div>
+    <div id="addr"><img src="images/addr.jpg" width="1218" height="168" /></div>    
+</body>
+</html>

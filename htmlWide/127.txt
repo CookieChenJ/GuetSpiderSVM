@@ -1,0 +1,1289 @@
+<HTML><HEAD><TITLE>集成电路与系统研究所</TITLE><META Name="keywords" Content="集成电路与系统研究所,集成电路与微纳器件研究所" />
+
+
+
+<META content="text/html; charset=UTF-8" http-equiv="Content-Type"><LINK rel="stylesheet" type="text/css" href="style/css.css"><script language="javascript"> 
+setInterval(test,3000); 
+var array=new Array(); 
+var index=0; 
+var array= new Array("images/33.jpg","images/hechang.jpg","images/2014.JPG","images/2015.JPG","images/banner_12.JPG","images/huojiang1.jpg","images/2016.JPG","images/huojiang2.jpg","images/bisai.jpg","images/biyezhao2019.jpg","images/2017.JPG","images/2018.JPG","images/2019.jpg","images/book2.jpg","images/huojiang3.jpg","images/huojiang4.jpg","images/20190927-1.JPG","images/20190927_2.JPG","images/baogao1.jpg","images/baogao2.jpg","images/tushu.jpg","images/201910222.jpg","images/201910223.jpg","images/201910224.jpg"); 7
+function test() 
+{ var myimg=document.getElementById("imgs"); 
+if(index==array.length-1) 
+{ index=0; }else{ index++; } 
+myimg.src=array[index]; 
+} 
+</script>
+
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="index.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1447960670)</script>
+</HEAD>
+<BODY>&nbsp; 
+<TABLE cellspacing="0" cellpadding="0" width="1200" align="center" background="images/logo5_4.png" border="0">
+<TBODY>
+<TR>
+<TD height="109" width="661">&nbsp;</TD>
+<TD width="319">
+<TABLE cellspacing="0" cellpadding="0" width="100%" align="center" border="0">
+<TBODY>
+<TR>
+<TD valign="top" align="right" style="padding-right: 10px"></TD></TR></TBODY></TABLE>
+<TABLE cellspacing="0" cellpadding="0" width="100%" align="center" border="0">
+<TBODY>
+<TR>
+<TD height="46" valign="bottom" align="right"><!--#begineditable clone="0" namechanged="0" order="0" ispublic="0" tagname="主页|收藏" viewid="39874" contentviewid="" contype="" stylesysid="" layout="" action="" name="主页|收藏"--><script language="javascript">
+function dosuba39874a()
+{
+    try{
+		var ua = navigator.userAgent.toLowerCase();
+		if(ua.indexOf("msie 8")>-1)
+		{
+			window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE8
+		}else if(ua.toLowerCase().indexOf("rv:")>-1)
+        {
+            window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE11+
+        }else{
+			if (document.all) 
+			{
+				window.external.addFavorite(document.location.href, document.title);
+			}else if(window.sidebar)
+			{
+				window.sidebar.addPanel( document.title, document.location.href, "");//firefox
+			}
+			else
+			{
+				alert(hotKeysa39874a());
+			}
+		}
+
+    }
+    catch (e){alert("无法自动添加到收藏夹，请使用 Ctrl + d 手动添加");}
+}
+function hotKeysa39874a() 
+{
+	var ua = navigator.userAgent.toLowerCase(); 
+	var str = "";    
+	var isWebkit = (ua.indexOf('webkit') != - 1); 
+	var isMac = (ua.indexOf('mac') != - 1);     
+	if (ua.indexOf('konqueror') != - 1) 
+	{  
+		str = 'CTRL + B'; // Konqueror   
+	} 
+	else if (window.home || isWebkit || isMac) 
+	{        
+		str = (isMac ? 'Command/Cmd' : 'CTRL') + ' + D'; // Netscape, Safari, iCab, IE5/Mac   
+	}
+	return ((str) ? '无法自动添加到收藏夹，请使用' + str + '手动添加' : str);
+}
+function setHomepagea39874a()
+{
+	var url = document.location.href;
+    if (document.all)
+    {
+        document.body.style.behavior='url(#default#homepage)';
+        document.body.setHomePage(url);
+    }
+    else if (window.sidebar)
+    {
+        if(window.netscape)
+        {
+             try{
+                  netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+             }catch (e){
+                   alert("该操作被浏览器拒绝，如果想启用该功能，请在地址栏内输入 about:config,然后将项 signed.applets.codebase_principal_support 值该为true");
+             }
+    	}
+	var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components. interfaces.nsIPrefBranch);
+	prefs.setCharPref('browser.startup.homepage',url);
+	}
+	else
+	{
+		alert("浏览器不支持自动设为首页，请手动设置");
+	}
+}
+</script><table><tr><td style="font-size:9pt"><A href="javascript:setHomepagea39874a()"><span class="font39874">设为首页</span></A>&nbsp;<span class="splitcharstyle39874"> | </span>&nbsp;<A onclick="javascript:dosuba39874a();" href="#"><span class="font39874">加入收藏</span></A></td></tr></table><!--#endeditable--></TD></TR></TBODY></TABLE><!--#begineditable clone="0" namechanged="0" order="1" ispublic="0" tagname="简单检索" viewid="163674" contentviewid="" contype="" stylesysid="" layout="" action="" name="简单检索"-->
+
+
+
+
+
+
+<script language="javascript" src="/system/resource/js/base64.js"></script>
+<script language="javascript" src="/system/resource/js/formfunc.js"></script>
+<form action="ssjgy.jsp?wbtreeid=1001" method="post" name="a163674a" target="_blank" onsubmit="return subsearchdataa163674a()" style="display: inline;">
+ <input type="hidden" name="Find" value="find">
+ <input type="hidden" name="entrymode" value="1">
+ <input type="hidden" id="INTEXT2" name="INTEXT2" value="">
+ <input type="hidden" name="news_search_code">
+ <table border="0" cellspacing="0" cellpadding="5">
+  <tr>
+   <td Valign="middle" nowrap="nowrap" height="22">
+    <font class="leaderfont163674"> </font>
+    
+        <input type="hidden" name="wbtreeids" value="0">
+    </td><td><span id="intextspana163674a"></span><iframe id="intextframea163674a" src="about:blank" scrolling="no" frameborder="0" style="position:absolute;top:0px;left:0px;display:none;"></iframe><input size="18" name="INTEXT" class="querystyle163674">
+   </td>
+   <td align="absmiddle" nowrap="nowrap" height="1">
+   <input type="image" src="images/an_sousuo.gif" valign="bottom" style="cursor: hand"></td>
+  </tr>
+  
+ </table>
+</form>
+<script>
+String.prototype.trim= function()       
+{              
+    var t = this.replace(/(^\s*)|(\s*$)/g, "");     
+    return t.replace(/(^　*)|(　*$)/g, "");     
+}
+ 
+function subsearchdataa163674a()
+{ 
+	
+	if(document.a163674a.INTEXT.value.trim()=="")
+	{
+		alert("请输入查询关键字！");
+		return false;
+	}
+	
+	
+    if(checkDataa163674a(document.a163674a))
+    {
+       return true;  
+    }
+    return false;
+}       
+</script>
+
+<script> 
+function checkDataa163674a(formname)
+{
+	if(formname.INTEXT.value.trim()=="")
+	{
+		alert("请输入查询关键字！");
+		return false;
+	}
+
+	var  base64 = new Base64();
+    if(window.toFF==1)
+        {
+            var ssvalue = formname.INTEXT.value;
+            formname.INTEXT2.value = Simplized(ssvalue);
+            formname.INTEXT2.value = base64.encode(formname.INTEXT2.value);
+        }else
+        formname.INTEXT2.value = formname.INTEXT.value;
+        formname.INTEXT2.value = base64.encode(formname.INTEXT2.value);
+       return true;
+}
+</script>
+<!--#endeditable-->
+<TABLE cellspacing="0" cellpadding="0" width="100%" align="center" border="0">
+<TBODY>
+<TR>
+<TD align="right"></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+<TABLE cellspacing="0" cellpadding="0" width="1200" align="center" background="images/dh_bg1.jpg" border="0">
+<TBODY>
+<TR>
+<TD height="32" align="center"><!--#begineditable clone="0" namechanged="0" order="2" ispublic="0" tagname="网站导航" viewid="39889" contentviewid="" contype="" stylesysid="" layout="" action="" name="网站导航"--><style type="text/css">
+td.b1_2_{FONT-SIZE:9pt;}
+td.b2_2_{FONT-SIZE:9pt;BACKGROUND-IMAGE: url(images/dh_rdbg.gif);}
+td.b3_2_{FONT-SIZE:9pt;BACKGROUND-COLOR: #eff8fe;}
+td.b4_2_{FONT-SIZE:9pt;BACKGROUND-COLOR: #e8f0fb;}
+a.menu0_2_:link {TEXT-DECORATION: none;};
+a.menu0_2_:visited { TEXT-DECORATION: none;};
+a.menu0_2_:hover {TEXT-DECORATION: none;};
+a.menu0_2_:active {TEXT-DECORATION: none;};
+table.tb1_2_{FONT-SIZE:9pt;border:0;}
+span.s1_2_{COLOR: #98FF00;FONT-SIZE: 10pt;TEXT-DECORATION: none;}
+span.s2_2_{FONT-SIZE: 9pt;COLOR: #cc0000;LINE-HEIGHT: 160%;}
+span.s10_2_{FONT-SIZE: 9pt;TEXT-DECORATION: none;COLOR: #ffffff;}
+span.s20_2_{FONT-SIZE: 9pt;COLOR: #222222;LINE-HEIGHT: 160%;}
+</style>
+<SCRIPT language="javascript"> 
+ var showfix_2_ = 1;
+ var isvertical_2_ = false;
+</SCRIPT>
+<script language="javascript" src="/system/resource/js/menu/text.js"></script>
+<TABLE id="t1_2_" cellSpacing="0" cellPadding="0" border="0" height="0" width="890"><TR><TD valign="center"></TD><TD valign="middle" height="30" width="90" nowrap class="b1_2_" align="center" id="a_2_1001" onmouseover="tshowLayers('1001','b2_2_', '_2_')" onmouseout="thideLayers('1001','b1_2_', '_2_','false','true')"><a class="menu0_2_" href="index.htm"><span class="currentfontStyle39889">&nbsp;首    页&nbsp;</span></a></TD><TD valign="center"></TD><TD valign="middle" width="90" nowrap class="b1_2_" align="center" id="a_2_1096" onmouseover="tshowLayers('1096','b2_2_', '_2_')" onmouseout="thideLayers('1096','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1096"><span class="fontstyle39889">&nbsp;研究所概况&nbsp;</span></a></TD><TD valign="center"></TD><TD valign="middle" width="90" nowrap class="b1_2_" align="center" id="a_2_1087" onmouseover="tshowLayers('1087','b2_2_', '_2_')" onmouseout="thideLayers('1087','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1087"><span class="fontstyle39889">&nbsp;新闻资讯&nbsp;</span></a></TD><TD valign="center"></TD><TD valign="middle" width="90" nowrap class="b1_2_" align="center" id="a_2_1114" onmouseover="tshowLayers('1114','b2_2_', '_2_')" onmouseout="thideLayers('1114','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1114"><span class="fontstyle39889">&nbsp;科研团队&nbsp;</span></a></TD><TD valign="center"></TD><TD valign="middle" width="90" nowrap class="b1_2_" align="center" id="a_2_1126" onmouseover="tshowLayers('1126','b2_2_', '_2_')" onmouseout="thideLayers('1126','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1126"><span class="fontstyle39889">&nbsp;学科建设&nbsp;</span></a></TD><TD valign="center"></TD><TD valign="middle" width="90" nowrap class="b1_2_" align="center" id="a_2_1130" onmouseover="tshowLayers('1130','b2_2_', '_2_')" onmouseout="thideLayers('1130','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1130"><span class="fontstyle39889">&nbsp;科研平台&nbsp;</span></a></TD><TD valign="center"></TD><TD valign="middle" width="90" nowrap class="b1_2_" align="center" id="a_2_1136" onmouseover="tshowLayers('1136','b2_2_', '_2_')" onmouseout="thideLayers('1136','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1136"><span class="fontstyle39889">&nbsp;科研项目&nbsp;</span></a></TD><TD valign="center"></TD><TD valign="middle" width="90" nowrap class="b1_2_" align="center" id="a_2_1058" onmouseover="tshowLayers('1058','b2_2_', '_2_')" onmouseout="thideLayers('1058','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1058"><span class="fontstyle39889">&nbsp;科研成果&nbsp;</span></a></TD><TD valign="center"></TD><TD valign="middle" width="90" nowrap class="b1_2_" align="center" id="a_2_1143" onmouseover="tshowLayers('1143','b2_2_', '_2_')" onmouseout="thideLayers('1143','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1143"><span class="fontstyle39889">&nbsp;人才培养&nbsp;</span></a></TD><TD valign="center"></TD><TD valign="middle" width="90" nowrap class="b1_2_" align="center" id="a_2_1147" onmouseover="tshowLayers('1147','b2_2_', '_2_')" onmouseout="thideLayers('1147','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1147"><span class="fontstyle39889">&nbsp;合作交流&nbsp;</span></a></TD><TD valign="center"></TD><TD valign="middle" width="90" nowrap class="b1_2_" align="center" id="a_2_1152" onmouseover="tshowLayers('1152','b2_2_', '_2_')" onmouseout="thideLayers('1152','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1152"><span class="fontstyle39889">&nbsp;教学改革&nbsp;</span></a></TD></TR></TR><TR><td align="left" nowrap><DIV class="main_2_" id="layer_2_1001" onmouseover="tshownull('1001','b2_2_', '_2_')" onmouseout="thideLayers('1001','b1_2_', '_2_','false')" style="z-index:99999;display: none; POSITION: absolute;"><TABLE align="center" class="tb1_2_" cellSpacing="0" cellPadding="0" border="0"><tr><TD height="30" align="left" nowrap onmouseover="TOVT(this,'b4_2_', '_2_');" onmouseout="TOUT(this,'b3_2_', '_2_');" class="b3_2_">
+<A class="menu0_2_" href="index/map.htm"><span class="ejfontstyle39889">&nbsp;网站地图&nbsp;</span></a></TD></tr></table></div></td><td></td><td align="left" nowrap><DIV class="main_2_" id="layer_2_1096" onmouseover="tshownull('1096','b2_2_', '_2_')" onmouseout="thideLayers('1096','b1_2_', '_2_','true')" style="z-index:99999;display: none; POSITION: absolute;"><TABLE align="center" class="tb1_2_" cellSpacing="0" cellPadding="0" border="0"><tr><TD height="30" align="left" nowrap onmouseover="TOVT(this,'b4_2_', '_2_');" onmouseout="TOUT(this,'b3_2_', '_2_');" class="b3_2_">
+<A class="menu0_2_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1097"><span class="ejfontstyle39889">&nbsp;研究所简介&nbsp;</span></a></TD></tr><tr><TD height="30" align="left" nowrap onmouseover="TOVT(this,'b4_2_', '_2_');" onmouseout="TOUT(this,'b3_2_', '_2_');" class="b3_2_">
+<A class="menu0_2_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1098"><span class="ejfontstyle39889">&nbsp;所长简介&nbsp;</span></a></TD></tr><tr><TD height="30" align="left" nowrap onmouseover="TOVT(this,'b4_2_', '_2_');" onmouseout="TOUT(this,'b3_2_', '_2_');" class="b3_2_">
+<A class="menu0_2_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1099"><span class="ejfontstyle39889">&nbsp;机构设置&nbsp;</span></a></TD></tr><tr><TD height="30" align="left" nowrap onmouseover="TOVT(this,'b4_2_', '_2_');" onmouseout="TOUT(this,'b3_2_', '_2_');" class="b3_2_">
+<A class="menu0_2_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1100"><span class="ejfontstyle39889">&nbsp;研究所宣传片&nbsp;</span></a></TD></tr></table></div></td><td></td><td align="left" nowrap><DIV class="main_2_" id="layer_2_1087" onmouseover="tshownull('1087','b2_2_', '_2_')" onmouseout="thideLayers('1087','b1_2_', '_2_','true')" style="z-index:99999;display: none; POSITION: absolute;"><TABLE align="center" class="tb1_2_" cellSpacing="0" cellPadding="0" border="0"><tr><TD height="30" align="left" nowrap onmouseover="TOVT(this,'b4_2_', '_2_');" onmouseout="TOUT(this,'b3_2_', '_2_');" class="b3_2_">
+<A class="menu0_2_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1080"><span class="ejfontstyle39889">&nbsp;通知公告&nbsp;</span></a></TD></tr><tr><TD height="30" align="left" nowrap onmouseover="TOVT(this,'b4_2_', '_2_');" onmouseout="TOUT(this,'b3_2_', '_2_');" class="b3_2_">
+<A class="menu0_2_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1082"><span class="ejfontstyle39889">&nbsp;所内动态&nbsp;</span></a></TD></tr><tr><TD height="30" align="left" nowrap onmouseover="TOVT(this,'b4_2_', '_2_');" onmouseout="TOUT(this,'b3_2_', '_2_');" class="b3_2_">
+<A class="menu0_2_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1460"><span class="ejfontstyle39889">&nbsp;图片资讯&nbsp;</span></a></TD></tr><tr><TD height="30" align="left" nowrap onmouseover="TOVT(this,'b4_2_', '_2_');" onmouseout="TOUT(this,'b3_2_', '_2_');" class="b3_2_">
+<A class="menu0_2_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1194"><span class="ejfontstyle39889">&nbsp;研究所资讯&nbsp;</span></a></TD></tr><tr><TD height="30" align="left" nowrap onmouseover="TOVT(this,'b4_2_', '_2_');" onmouseout="TOUT(this,'b3_2_', '_2_');" class="b3_2_">
+<A class="menu0_2_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1086"><span class="ejfontstyle39889">&nbsp;业内资讯&nbsp;</span></a></TD></tr></table></div></td><td></td><td align="left" nowrap><DIV class="main_2_" id="layer_2_1114" onmouseover="tshownull('1114','b2_2_', '_2_')" onmouseout="thideLayers('1114','b1_2_', '_2_','true')" style="z-index:99999;display: none; POSITION: absolute;"><TABLE align="center" class="tb1_2_" cellSpacing="0" cellPadding="0" border="0"><tr><TD height="30" align="left" nowrap onmouseover="TOVT(this,'b4_2_', '_2_');" onmouseout="TOUT(this,'b3_2_', '_2_');" class="b3_2_">
+<A class="menu0_2_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1115"><span class="ejfontstyle39889">&nbsp;教授&nbsp;</span></a></TD></tr><tr><TD height="30" align="left" nowrap onmouseover="TOVT(this,'b4_2_', '_2_');" onmouseout="TOUT(this,'b3_2_', '_2_');" class="b3_2_">
+<A class="menu0_2_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1116"><span class="ejfontstyle39889">&nbsp;副教授&nbsp;</span></a></TD></tr><tr><TD height="30" align="left" nowrap onmouseover="TOVT(this,'b4_2_', '_2_');" onmouseout="TOUT(this,'b3_2_', '_2_');" class="b3_2_">
+<A class="menu0_2_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1117"><span class="ejfontstyle39889">&nbsp;讲师或工程师&nbsp;</span></a></TD></tr></table></div></td><td></td><td align="left" nowrap><DIV class="main_2_" id="layer_2_1126" onmouseover="tshownull('1126','b2_2_', '_2_')" onmouseout="thideLayers('1126','b1_2_', '_2_','true')" style="z-index:99999;display: none; POSITION: absolute;"><TABLE align="center" class="tb1_2_" cellSpacing="0" cellPadding="0" border="0"><tr><TD height="30" align="left" nowrap onmouseover="TOVT(this,'b4_2_', '_2_');" onmouseout="TOUT(this,'b3_2_', '_2_');" class="b3_2_">
+<A class="menu0_2_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1127"><span class="ejfontstyle39889">&nbsp;重点学科&nbsp;</span></a></TD></tr><tr><TD height="30" align="left" nowrap onmouseover="TOVT(this,'b4_2_', '_2_');" onmouseout="TOUT(this,'b3_2_', '_2_');" class="b3_2_">
+<A class="menu0_2_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1128"><span class="ejfontstyle39889">&nbsp;CSIP广西分中心&nbsp;</span></a></TD></tr><tr><TD height="30" align="left" nowrap onmouseover="TOVT(this,'b4_2_', '_2_');" onmouseout="TOUT(this,'b3_2_', '_2_');" class="b3_2_">
+<A class="menu0_2_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1129"><span class="ejfontstyle39889">&nbsp;研究方向&nbsp;</span></a></TD></tr></table></div></td><td></td><td align="left" nowrap><DIV class="main_2_" id="layer_2_1130" onmouseover="tshownull('1130','b2_2_', '_2_')" onmouseout="thideLayers('1130','b1_2_', '_2_','true')" style="z-index:99999;display: none; POSITION: absolute;"><TABLE align="center" class="tb1_2_" cellSpacing="0" cellPadding="0" border="0"><tr><TD height="30" align="left" nowrap onmouseover="TOVT(this,'b4_2_', '_2_');" onmouseout="TOUT(this,'b3_2_', '_2_');" class="b3_2_">
+<A class="menu0_2_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1131"><span class="ejfontstyle39889">&nbsp;IC设计与测试平台&nbsp;</span></a></TD></tr><tr><TD height="30" align="left" nowrap onmouseover="TOVT(this,'b4_2_', '_2_');" onmouseout="TOUT(this,'b3_2_', '_2_');" class="b3_2_">
+<A class="menu0_2_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1133"><span class="ejfontstyle39889">&nbsp;仪器设备&nbsp;</span></a></TD></tr><tr><TD height="30" align="left" nowrap onmouseover="TOVT(this,'b4_2_', '_2_');" onmouseout="TOUT(this,'b3_2_', '_2_');" class="b3_2_">
+<A class="menu0_2_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1134"><span class="ejfontstyle39889">&nbsp;软件平台&nbsp;</span></a></TD></tr></table></div></td><td></td><td align="left" nowrap><DIV class="main_2_" id="layer_2_1136" onmouseover="tshownull('1136','b2_2_', '_2_')" onmouseout="thideLayers('1136','b1_2_', '_2_','true')" style="z-index:99999;display: none; POSITION: absolute;"><TABLE align="center" class="tb1_2_" cellSpacing="0" cellPadding="0" border="0"><tr><TD height="30" align="left" nowrap onmouseover="TOVT(this,'b4_2_', '_2_');" onmouseout="TOUT(this,'b3_2_', '_2_');" class="b3_2_">
+<A class="menu0_2_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1137"><span class="ejfontstyle39889">&nbsp;完成（国家级）&nbsp;</span></a></TD></tr><tr><TD height="30" align="left" nowrap onmouseover="TOVT(this,'b4_2_', '_2_');" onmouseout="TOUT(this,'b3_2_', '_2_');" class="b3_2_">
+<A class="menu0_2_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1138"><span class="ejfontstyle39889">&nbsp;完成（省部级）&nbsp;</span></a></TD></tr><tr><TD height="30" align="left" nowrap onmouseover="TOVT(this,'b4_2_', '_2_');" onmouseout="TOUT(this,'b3_2_', '_2_');" class="b3_2_">
+<A class="menu0_2_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1139"><span class="ejfontstyle39889">&nbsp;完成（地厅级）&nbsp;</span></a></TD></tr><tr><TD height="30" align="left" nowrap onmouseover="TOVT(this,'b4_2_', '_2_');" onmouseout="TOUT(this,'b3_2_', '_2_');" class="b3_2_">
+<A class="menu0_2_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1140"><span class="ejfontstyle39889">&nbsp;在研（国家级）&nbsp;</span></a></TD></tr><tr><TD height="30" align="left" nowrap onmouseover="TOVT(this,'b4_2_', '_2_');" onmouseout="TOUT(this,'b3_2_', '_2_');" class="b3_2_">
+<A class="menu0_2_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1141"><span class="ejfontstyle39889">&nbsp;在研（省部级）&nbsp;</span></a></TD></tr><tr><TD height="30" align="left" nowrap onmouseover="TOVT(this,'b4_2_', '_2_');" onmouseout="TOUT(this,'b3_2_', '_2_');" class="b3_2_">
+<A class="menu0_2_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1142"><span class="ejfontstyle39889">&nbsp;在研（其他）&nbsp;</span></a></TD></tr></table></div></td><td></td><td align="left" nowrap><DIV class="main_2_" id="layer_2_1058" onmouseover="tshownull('1058','b2_2_', '_2_')" onmouseout="thideLayers('1058','b1_2_', '_2_','true')" style="z-index:99999;display: none; POSITION: absolute;"><TABLE align="center" class="tb1_2_" cellSpacing="0" cellPadding="0" border="0"><tr><TD height="30" align="left" nowrap onmouseover="TOVT(this,'b4_2_', '_2_');" onmouseout="TOUT(this,'b3_2_', '_2_');" class="b3_2_">
+<A class="menu0_2_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1159"><span class="ejfontstyle39889">&nbsp;芯片成果&nbsp;</span></a></TD></tr><tr><TD height="30" align="left" nowrap onmouseover="TOVT(this,'b4_2_', '_2_');" onmouseout="TOUT(this,'b3_2_', '_2_');" class="b3_2_">
+<A class="menu0_2_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1089"><span class="ejfontstyle39889">&nbsp;学术论文&nbsp;</span></a></TD></tr><tr><TD height="30" align="left" nowrap onmouseover="TOVT(this,'b4_2_', '_2_');" onmouseout="TOUT(this,'b3_2_', '_2_');" class="b3_2_">
+<A class="menu0_2_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1090"><span class="ejfontstyle39889">&nbsp;专利授权&nbsp;</span></a></TD></tr><tr><TD height="30" align="left" nowrap onmouseover="TOVT(this,'b4_2_', '_2_');" onmouseout="TOUT(this,'b3_2_', '_2_');" class="b3_2_">
+<A class="menu0_2_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1091"><span class="ejfontstyle39889">&nbsp;教材及专著出版&nbsp;</span></a></TD></tr></table></div></td><td></td><td align="left" nowrap><DIV class="main_2_" id="layer_2_1143" onmouseover="tshownull('1143','b2_2_', '_2_')" onmouseout="thideLayers('1143','b1_2_', '_2_','true')" style="z-index:99999;display: none; POSITION: absolute;"><TABLE align="center" class="tb1_2_" cellSpacing="0" cellPadding="0" border="0"><tr><TD height="30" align="left" nowrap onmouseover="TOVT(this,'b4_2_', '_2_');" onmouseout="TOUT(this,'b3_2_', '_2_');" class="b3_2_">
+<A class="menu0_2_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1144"><span class="ejfontstyle39889">&nbsp;学位与学科&nbsp;</span></a></TD></tr><tr><TD height="30" align="left" nowrap onmouseover="TOVT(this,'b4_2_', '_2_');" onmouseout="TOUT(this,'b3_2_', '_2_');" class="b3_2_">
+<A class="menu0_2_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1145"><span class="ejfontstyle39889">&nbsp;在读研究生&nbsp;</span></a></TD></tr><tr><TD height="30" align="left" nowrap onmouseover="TOVT(this,'b4_2_', '_2_');" onmouseout="TOUT(this,'b3_2_', '_2_');" class="b3_2_">
+<A class="menu0_2_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1146"><span class="ejfontstyle39889">&nbsp;毕业研究生&nbsp;</span></a></TD></tr></table></div></td><td></td><td align="left" nowrap><DIV class="main_2_" id="layer_2_1147" onmouseover="tshownull('1147','b2_2_', '_2_')" onmouseout="thideLayers('1147','b1_2_', '_2_','true')" style="z-index:99999;display: none; POSITION: absolute;"><TABLE align="center" class="tb1_2_" cellSpacing="0" cellPadding="0" border="0"><tr><TD height="30" align="left" nowrap onmouseover="TOVT(this,'b4_2_', '_2_');" onmouseout="TOUT(this,'b3_2_', '_2_');" class="b3_2_">
+<A class="menu0_2_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1148"><span class="ejfontstyle39889">&nbsp;委托设计服务&nbsp;</span></a></TD></tr><tr><TD height="30" align="left" nowrap onmouseover="TOVT(this,'b4_2_', '_2_');" onmouseout="TOUT(this,'b3_2_', '_2_');" class="b3_2_">
+<A class="menu0_2_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1149"><span class="ejfontstyle39889">&nbsp;委托测试服务&nbsp;</span></a></TD></tr><tr><TD height="30" align="left" nowrap onmouseover="TOVT(this,'b4_2_', '_2_');" onmouseout="TOUT(this,'b3_2_', '_2_');" class="b3_2_">
+<A class="menu0_2_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1150"><span class="ejfontstyle39889">&nbsp;IC设计培训&nbsp;</span></a></TD></tr><tr><TD height="30" align="left" nowrap onmouseover="TOVT(this,'b4_2_', '_2_');" onmouseout="TOUT(this,'b3_2_', '_2_');" class="b3_2_">
+<A class="menu0_2_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1151"><span class="ejfontstyle39889">&nbsp;合作单位与项目&nbsp;</span></a></TD></tr></table></div></td><td></td><td align="left" nowrap><DIV class="main_2_" id="layer_2_1152" onmouseover="tshownull('1152','b2_2_', '_2_')" onmouseout="thideLayers('1152','b1_2_', '_2_','true')" style="z-index:99999;display: none; POSITION: absolute;"><TABLE align="center" class="tb1_2_" cellSpacing="0" cellPadding="0" border="0"><tr><TD height="30" align="left" nowrap onmouseover="TOVT(this,'b4_2_', '_2_');" onmouseout="TOUT(this,'b3_2_', '_2_');" class="b3_2_">
+<A class="menu0_2_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1153"><span class="ejfontstyle39889">&nbsp;教改项目&nbsp;</span></a></TD></tr><tr><TD height="30" align="left" nowrap onmouseover="TOVT(this,'b4_2_', '_2_');" onmouseout="TOUT(this,'b3_2_', '_2_');" class="b3_2_">
+<A class="menu0_2_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1154"><span class="ejfontstyle39889">&nbsp;教改论文&nbsp;</span></a></TD></tr><tr><TD height="30" align="left" nowrap onmouseover="TOVT(this,'b4_2_', '_2_');" onmouseout="TOUT(this,'b3_2_', '_2_');" class="b3_2_">
+<A class="menu0_2_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1155"><span class="ejfontstyle39889">&nbsp;教材出版&nbsp;</span></a></TD></tr><tr><TD height="30" align="left" nowrap onmouseover="TOVT(this,'b4_2_', '_2_');" onmouseout="TOUT(this,'b3_2_', '_2_');" class="b3_2_">
+<A class="menu0_2_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1156"><span class="ejfontstyle39889">&nbsp;教学成果&nbsp;</span></a></TD></tr></table></div></td><td></td></TR></table><!--#endeditable--></TD></TR></TBODY></TABLE>
+<TABLE height="10" cellspacing="0" cellpadding="0" width="980" align="center" border="0">
+<TBODY>
+<TR>
+<TD></TD></TR></TBODY></TABLE>
+<TABLE cellspacing="0" cellpadding="0" width="980" align="center" bgcolor="#e3f2e3" border="0">
+<TBODY>
+<TR>
+<TD height="200" width="613"><IMG id="imgs" src="images/banner_1.jpg" width="610" height="213" style="height: 623px; width: 851px"> </TD>
+<TD valign="top" background="images/banner_bg1.jpg" width="487" style="background-repeat: no-repeat; background-position: right top">
+<TABLE cellspacing="0" cellpadding="0" width="333" align="center" border="0" style="border-bottom: #666666 1px solid">
+<TBODY>
+<TR>
+<TD height="29" valign="bottom" width="10"></TD>
+<TD valign="bottom" width="85">
+<TABLE height="22" cellspacing="0" cellpadding="0" width="75" align="center" border="0">
+<TBODY>
+<TR>
+<TD id="1_1" height="22" valign="bottom" background="images/here.gif" width="107" align="center" style="background: url(images/here.gif)"><SPAN id="td_1_1" onmouseover="showtab(1,1,3)" style="font-size: 12px; cursor: hand; font-weight: bold; color: #006600; padding-top: 10px; line-height: 18px">通知公告</SPAN></TD></TR></TBODY></TABLE></TD>
+<TD valign="bottom" width="85">
+<TABLE height="22" cellspacing="0" cellpadding="0" width="75" align="center" border="0">
+<TBODY>
+<TR>
+<TD id="1_2" height="22" valign="bottom" background="images/there.gif" width="107" align="center" style="background: url(images/there.gif)"><SPAN id="td_1_2" onmouseover="showtab(1,2,3)" style="font-size: 12px; cursor: hand; font-weight: bold; color: #000000; line-height: 18px">图片资讯</SPAN></TD></TR></TBODY></TABLE></TD>
+<TD valign="bottom" width="85">
+<TABLE height="22" cellspacing="0" cellpadding="0" width="75" align="center" border="0">
+<TBODY>
+<TR>
+<TD id="1_3" height="22" valign="bottom" background="images/there.gif" width="107" align="center" style="background: url(images/there.gif)"><SPAN id="td_1_3" onmouseover="showtab(1,3,3)" style="font-size: 12px; cursor: hand; font-weight: bold; color: #000000; line-height: 18px">所内动态</SPAN></TD></TR></TBODY></TABLE></TD>
+<TD width="68">&nbsp;</TD></TR></TBODY></TABLE>
+<TABLE height="5" cellspacing="0" cellpadding="0" width="333" align="center" border="0">
+<TBODY>
+<TR>
+<TD></TD></TR></TBODY></TABLE>
+<TABLE id="tab_1_1" cellspacing="0" cellpadding="0" width="333" align="center" border="0">
+<TBODY>
+<TR>
+<TD height="145"><!--#begineditable clone="0" namechanged="0" order="3" ispublic="0" tagname="通知公告" viewid="39877" contentviewid="" contype="" stylesysid="" layout="" action="" name="通知公告"--><table width="100%" cellspacing="3" cellpadding="0">
+  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont39877"><img src="images/ico_02.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1080/1352.htm" class="c39877" title="2019年下半年第一次学术活动">
+        2019年下半年第一次学术活动
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle39877" width="1%" nowrap>2019/09/26</td></tr><tr><td colspan="4" height="2" style="background-image:url(images/xhx.gif)"></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont39877"><img src="images/ico_02.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1080/1351.htm" class="c39877" title="IC所2019年下半年报告安排表">
+        IC所2019年下半年报告安排表
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle39877" width="1%" nowrap>2019/09/18</td></tr><tr><td colspan="4" height="2" style="background-image:url(images/xhx.gif)"></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont39877"><img src="images/ico_02.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1080/1346.htm" class="c39877" title="研究所网站更新">
+        研究所网站更新
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle39877" width="1%" nowrap>2019/09/17</td></tr><tr><td colspan="4" height="2" style="background-image:url(images/xhx.gif)"></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont39877"><img src="images/ico_02.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1080/1262.htm" class="c39877" title="学术活动通知（2018.6.2）">
+        学术活动通知（2018.6.2）
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle39877" width="1%" nowrap>2018/06/04</td></tr><tr><td colspan="4" height="2" style="background-image:url(images/xhx.gif)"></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont39877"><img src="images/ico_02.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1080/1222.htm" class="c39877" title="后半学期的学术报告安排">
+        后半学期的学术报告安排
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle39877" width="1%" nowrap>2018/05/17</td></tr><tr><td colspan="4" height="2" style="background-image:url(images/xhx.gif)"></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont39877"><img src="images/ico_02.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1080/1171.htm" class="c39877" title="学术活动通知">
+        学术活动通知
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle39877" width="1%" nowrap>2018/05/07</td></tr><tr><td colspan="4" height="2" style="background-image:url(images/xhx.gif)"></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont39877"><img src="images/ico_02.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1080/1137.htm" class="c39877" title="芯片测试">
+        芯片测试
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle39877" width="1%" nowrap>2018/05/03</td></tr><tr><td colspan="4" height="2" style="background-image:url(images/xhx.gif)"></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont39877"><img src="images/ico_02.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1080/1136.htm" class="c39877" title="学术活动">
+        学术活动
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle39877" width="1%" nowrap>2018/05/03</td></tr><tr><td colspan="4" height="2" style="background-image:url(images/xhx.gif)"></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont39877"><img src="images/ico_02.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1080/1135.htm" class="c39877" title="通知">
+        通知
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle39877" width="1%" nowrap>2018/05/03</td></tr><tr><td colspan="4" height="2" style="background-image:url(images/xhx.gif)"></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont39877"><img src="images/ico_02.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1080/1134.htm" class="c39877" title="报告题目：射频集成电路的机遇与挑战">
+        报告题目：射频集成电路的机遇与挑战
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle39877" width="1%" nowrap>2018/05/03</td></tr><tr><td colspan="4" height="2" style="background-image:url(images/xhx.gif)"></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont39877"><img src="images/ico_02.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1080/1041.htm" class="c39877" title="2018年上半年学术报告安排">
+        2018年上半年学术报告安排
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle39877" width="1%" nowrap>2018/04/29</td></tr><tr><td colspan="4" height="2" style="background-image:url(images/xhx.gif)"></td></tr>
+</table><!--#endeditable--></TD></TR>
+<TR>
+<TD align="right"><A class="text2" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1080">更多&gt;&gt;</A></TD></TR></TBODY></TABLE>
+<TABLE id="tab_1_2" cellspacing="0" cellpadding="0" width="333" align="center" border="0" style="display: none">
+<TBODY>
+<TR>
+<TD height="155"><!--#begineditable clone="0" namechanged="0" order="4" ispublic="0" tagname="图片资讯" viewid="39878" contentviewid="" contype="" stylesysid="" layout="" action="" name="图片资讯"--><table width="100%" cellspacing="2" cellpadding="0">
+  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont39878"><img src="images/ico_02.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1460/1206.htm" class="c39878" title="图片资讯1" target="_blank">
+        图片资讯1
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle39878" width="1%" nowrap>2018/05/09</td></tr><tr><td colspan="4" height="2" style="background-image:url(images/xhx.gif)"></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont39878"><img src="images/ico_02.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1460/1207.htm" class="c39878" title="图片资讯2" target="_blank">
+        图片资讯2
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle39878" width="1%" nowrap>2018/05/09</td></tr><tr><td colspan="4" height="2" style="background-image:url(images/xhx.gif)"></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont39878"><img src="images/ico_02.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1460/1208.htm" class="c39878" title="图片资讯3" target="_blank">
+        图片资讯3
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle39878" width="1%" nowrap>2018/05/09</td></tr><tr><td colspan="4" height="2" style="background-image:url(images/xhx.gif)"></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont39878"><img src="images/ico_02.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1460/1210.htm" class="c39878" title="图片资讯5" target="_blank">
+        图片资讯5
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle39878" width="1%" nowrap>2018/05/09</td></tr><tr><td colspan="4" height="2" style="background-image:url(images/xhx.gif)"></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont39878"><img src="images/ico_02.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1460/1376.htm" class="c39878" title="研究所召开学术会议（2019.10.24）" target="_blank">
+        研究所召开学术会议（2019.10.24）
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle39878" width="1%" nowrap>2019/10/25</td></tr><tr><td colspan="4" height="2" style="background-image:url(images/xhx.gif)"></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont39878"><img src="images/ico_02.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1460/1373.htm" class="c39878" title="研究生全国IC设计比赛获奖图片新闻" target="_blank">
+        研究生全国IC设计比赛获奖图片新闻
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle39878" width="1%" nowrap>2019/10/22</td></tr><tr><td colspan="4" height="2" style="background-image:url(images/xhx.gif)"></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont39878"><img src="images/ico_02.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1460/1366.htm" class="c39878" title="图片通讯8" target="_blank">
+        图片通讯8
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle39878" width="1%" nowrap>2019/10/16</td></tr><tr><td colspan="4" height="2" style="background-image:url(images/xhx.gif)"></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont39878"><img src="images/ico_02.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1460/1365.htm" class="c39878" title="图片通讯7" target="_blank">
+        图片通讯7
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle39878" width="1%" nowrap>2019/10/16</td></tr><tr><td colspan="4" height="2" style="background-image:url(images/xhx.gif)"></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont39878"><img src="images/ico_02.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1460/1332.htm" class="c39878" title="图片资讯6" target="_blank">
+        图片资讯6
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle39878" width="1%" nowrap>2019/09/02</td></tr><tr><td colspan="4" height="2" style="background-image:url(images/xhx.gif)"></td></tr>
+</table><!--#endeditable--></TD></TR>
+<TR>
+<TD align="right"><A class="text2" href="<span style='color:red;font-size:9pt'>转换链接错误</span>">更多&gt;&gt;</A></TD></TR></TBODY></TABLE>
+<TABLE id="tab_1_3" cellspacing="0" cellpadding="0" width="333" align="center" border="0" style="display: none">
+<TBODY>
+<TR>
+<TD height="155"><!--#begineditable clone="0" namechanged="0" order="5" ispublic="0" tagname="所内动态" viewid="39879" contentviewid="" contype="" stylesysid="" layout="" action="" name="所内动态"--><table width="100%" cellspacing="2" cellpadding="0">
+  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont39879"><img src="images/ico_02.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1082/1372.htm" class="c39879" title="我所三位研究生在“复微杯”全国大学生电子设计大赛上荣获模拟赛道二等奖。" target="_blank">
+        我所三位研究生在“复微杯”全国大...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle39879" width="1%" nowrap>2019/10/22</td></tr><tr><td colspan="4" height="2" style="background-image:url(images/xhx.gif)"></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont39879"><img src="images/ico_02.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1082/1364.htm" class="c39879" title="我所所长段吉海教授向桂电图书馆捐赠图书一批" target="_blank">
+        我所所长段吉海教授向桂电图书馆捐...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle39879" width="1%" nowrap>2019/10/16</td></tr><tr><td colspan="4" height="2" style="background-image:url(images/xhx.gif)"></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont39879"><img src="images/ico_02.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1082/1362.htm" class="c39879" title="研究所召开学术会议（2019.10.10）" target="_blank">
+        研究所召开学术会议（2019.10.10）
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle39879" width="1%" nowrap>2019/10/12</td></tr><tr><td colspan="4" height="2" style="background-image:url(images/xhx.gif)"></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont39879"><img src="images/ico_02.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1082/1354.htm" class="c39879" title="研究所召开2019年下半年第1次学术会议（2019.09.26）" target="_blank">
+        研究所召开2019年下半年第1次学术会...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle39879" width="1%" nowrap>2019/09/27</td></tr><tr><td colspan="4" height="2" style="background-image:url(images/xhx.gif)"></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont39879"><img src="images/ico_02.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1082/1243.htm" class="c39879" title="我所段吉海、韦保林两位教授获桂林电子科技大学2018年研究生课程建设项目3项" target="_blank">
+        我所段吉海、韦保林两位教授获桂林...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle39879" width="1%" nowrap>2018/05/18</td></tr><tr><td colspan="4" height="2" style="background-image:url(images/xhx.gif)"></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont39879"><img src="images/ico_02.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1082/1217.htm" class="c39879" title="研究所召开学术会议（2018.05.8）" target="_blank">
+        研究所召开学术会议（2018.05.8）
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle39879" width="1%" nowrap>2018/05/10</td></tr><tr><td colspan="4" height="2" style="background-image:url(images/xhx.gif)"></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont39879"><img src="images/ico_02.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1082/1113.htm" class="c39879" title="研究所召开学术会议（2018.04.24）" target="_blank">
+        研究所召开学术会议（2018.04.24）
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle39879" width="1%" nowrap>2018/05/02</td></tr><tr><td colspan="4" height="2" style="background-image:url(images/xhx.gif)"></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont39879"><img src="images/ico_02.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1082/1042.htm" class="c39879" title="研究所又一批次的芯片提交MPW流片" target="_blank">
+        研究所又一批次的芯片提交MPW流片
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle39879" width="1%" nowrap>2018/04/29</td></tr><tr><td colspan="4" height="2" style="background-image:url(images/xhx.gif)"></td></tr>
+</table><!--#endeditable--></TD></TR>
+<TR>
+<TD align="right"><A class="text2" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1082">更多&gt;&gt;</A></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+<TABLE height="10" cellspacing="0" cellpadding="0" width="980" align="center" border="0">
+<TBODY>
+<TR>
+<TD></TD></TR></TBODY></TABLE>
+<TABLE cellspacing="0" cellpadding="0" width="980" align="center" border="0">
+<TBODY>
+<TR>
+<TD height="250" valign="top">
+<TABLE cellspacing="0" cellpadding="0" width="400" align="center" background="images/title_bg4.gif" border="0">
+<TBODY>
+<TR>
+<TD height="22" width="14">&nbsp;</TD>
+<TD class="baise" width="293" align="left">&nbsp;研究所资讯</TD>
+<TD width="140"><A class="text2" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1087">更多&gt;&gt;</A></TD></TR></TBODY></TABLE>
+<TABLE cellspacing="5" cellpadding="0" width="420" align="center" border="0" style="height: 294px; width: 420px">
+<TBODY>
+<TR>
+<TD height="225" valign="top">
+<P><!--#begineditable clone="0" namechanged="0" order="6" ispublic="0" tagname="研究所资讯" viewid="39958" contentviewid="" contype="" stylesysid="" layout="" action="" name="研究所资讯"--><table width="100%" cellspacing="3" cellpadding="0">
+  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont39958">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1194/1331.htm" class="c39958" title="我所所长段吉海教授出版的新书发行" target="_blank">
+        我所所长段吉海教授出版的新书发行
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle39958" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont39958">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1194/1345.htm" class="c39958" title="我所硕士研究生黄秀玲刘俊昕孙晓菲团队获第三届全国大学生集成电路创新创业大赛华南赛区三等奖" target="_blank">
+        我所硕士研究生黄秀玲刘俊昕孙晓菲团队获第三届...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle39958" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont39958">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1194/1344.htm" class="c39958" title="我所硕士研究生崔鹏杨俊梁展荣团队获第三届全国大学生集成电路创新创业大赛华南赛区三等奖" target="_blank">
+        我所硕士研究生崔鹏杨俊梁展荣团队获第三届全国...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle39958" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont39958">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1194/1343.htm" class="c39958" title="我所硕士研究生林思宇王桉南李捷团队获第三届全国大学生集成电路创新创业大赛华南赛区三等奖" target="_blank">
+        我所硕士研究生林思宇王桉南李捷团队获第三届全...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle39958" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont39958">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1194/1342.htm" class="c39958" title="我所硕士研究生王涛涛符征裕翁浩然团队获第三届全国大学生集成电路创新创业大赛华南赛区三等奖" target="_blank">
+        我所硕士研究生王涛涛符征裕翁浩然团队获第三届...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle39958" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont39958">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1194/1375.htm" class="c39958" title="研究所召开学术会议（2019.10.24）" target="_blank">
+        研究所召开学术会议（2019.10.24）
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle39958" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont39958">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1194/1371.htm" class="c39958" title="我所三位研究生在在“复微杯”全国大学生电子设计大赛上荣获模拟赛道二等奖。" target="_blank">
+        我所三位研究生在在“复微杯”全国大学生电子设...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle39958" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont39958">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1194/1363.htm" class="c39958" title="我所所长段吉海教授向桂电图书馆捐赠图书一批" target="_blank">
+        我所所长段吉海教授向桂电图书馆捐赠图书一批
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle39958" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont39958">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1194/1361.htm" class="c39958" title="研究所召开学术会议（2019.10.10）" target="_blank">
+        研究所召开学术会议（2019.10.10）
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle39958" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont39958">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1194/1353.htm" class="c39958" title="研究所召开2019年下半年第1次学术会议（2019.09.26）" target="_blank">
+        研究所召开2019年下半年第1次学术会议（2019.09....
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle39958" width="1%" nowrap></td></tr>
+</table><!--#endeditable-->&nbsp; </P></TD></TR></TBODY></TABLE></TD>
+<TD valign="top">
+<TABLE cellspacing="0" cellpadding="0" width="500" align="center" background="images/title_bg4.gif" border="0">
+<TBODY>
+<TR>
+<TD height="22" width="14">&nbsp;</TD>
+<TD class="baise" width="293" align="left">业内资讯</TD>
+<TD width="140"><A class="text2" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1086">更多&gt;&gt;</A></TD></TR></TBODY></TABLE>
+<TABLE cellspacing="5" cellpadding="0" width="420" align="center" border="0">
+<TBODY>
+<TR>
+<TD height="225" valign="top">
+<P><!--#begineditable clone="0" namechanged="0" order="7" ispublic="0" tagname="业内资讯" viewid="39959" contentviewid="" contype="" stylesysid="" layout="" action="" name="业内资讯"--><table width="100%" cellspacing="2" cellpadding="0">
+  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont39959">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1086/1350.htm" class="c39959" title="国产DRAM年底将量产，但前路依旧漫漫" target="_blank">
+        国产DRAM年底将量产，但前路依旧漫...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle39959" width="1%" nowrap>2019/09/17</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont39959">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1086/1349.htm" class="c39959" title="美国厂商BLU发新机 搭载国产展锐芯片" target="_blank">
+        美国厂商BLU发新机 搭载国产展锐芯...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle39959" width="1%" nowrap>2019/09/17</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont39959">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1086/1348.htm" class="c39959" title="苹果IPhone11发布会被忽略的亮点：UWB超宽带技术" target="_blank">
+        苹果IPhone11发布会被忽略的亮点：U...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle39959" width="1%" nowrap>2019/09/17</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont39959">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1086/1347.htm" class="c39959" title="中国芯片路在何方? 魏少军 赵伟国：芯片人才匮乏，应鼓励更多非芯片人才转型到集成电路事业" target="_blank">
+        中国芯片路在何方? 魏少军 赵伟国：...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle39959" width="1%" nowrap>2019/09/17</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont39959">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1086/1261.htm" class="c39959" title="三星宣布5nm、4nm、3nm工艺！全新晶体管架构" target="_blank">
+        三星宣布5nm、4nm、3nm工艺！全新晶...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle39959" width="1%" nowrap>2018/05/26</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont39959">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1086/1182.htm" class="c39959" title="这几个原因使得无线充电迟迟未能普及" target="_blank">
+        这几个原因使得无线充电迟迟未能普及
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle39959" width="1%" nowrap>2018/05/03</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont39959">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1086/1183.htm" class="c39959" title="北斗导航手机芯片标准最快有望年底问世" target="_blank">
+        北斗导航手机芯片标准最快有望年底问世
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle39959" width="1%" nowrap>2018/05/03</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont39959">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1086/1184.htm" class="c39959" title="人工智能芯片行业深度报告——谁会成为下一个ARM FPGA大有可为" target="_blank">
+        人工智能芯片行业深度报告——谁会...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle39959" width="1%" nowrap>2018/05/03</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont39959">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1086/1185.htm" class="c39959" title="GlobalFoundries 2018年试产7nm工艺，已跟AMD开始合作？" target="_blank">
+        GlobalFoundries 2018年试产7nm工艺...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle39959" width="1%" nowrap>2018/05/03</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont39959">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1086/1186.htm" class="c39959" title="摩尔定律失效 我们还有什么方法让计算性能暴涨" target="_blank">
+        摩尔定律失效 我们还有什么方法让计...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle39959" width="1%" nowrap>2018/05/03</td></tr>
+</table><!--#endeditable-->&nbsp;</P></TD></TR></TBODY></TABLE></TD>
+<TD valign="top">
+<TABLE cellspacing="0" cellpadding="0" width="273" align="center" border="0">
+<TBODY>
+<TR>
+<TD><IMG src="images/kstd_01.gif" width="273" height="20"></TD></TR></TBODY></TABLE>
+<TABLE cellspacing="0" cellpadding="0" width="273" align="center" border="0" style="border-right: #0e8e47 1px solid; border-left: #0e8e47 1px solid">
+<TBODY>
+<TR>
+<TD height="225" align="center">
+<TABLE cellspacing="0" cellpadding="0" width="250" border="0">
+<TBODY>
+<TR>
+<TD height="90" align="center"><!--#begineditable clone="0" namechanged="0" order="8" ispublic="0" tagname="快速链接" viewid="39890" contentviewid="" contype="" stylesysid="" layout="" action="" name="快速链接"--><style type="text/css">
+td.b1_8_{FONT-SIZE:9pt;BACKGROUND-IMAGE: url(images/kstd_bg.gif);BACKGROUND-REPEAT: no-repeat;}
+td.b2_8_{FONT-SIZE:9pt;BACKGROUND-IMAGE: url(images/kstd_bg.gif);BACKGROUND-REPEAT: no-repeat;}
+td.b3_8_{FONT-SIZE:9pt;BACKGROUND-COLOR: #eff8fe;}
+td.b4_8_{FONT-SIZE:9pt;BACKGROUND-COLOR: #e8f0fb;}
+a.menu0_8_:link {TEXT-DECORATION: none;};
+a.menu0_8_:visited { TEXT-DECORATION: none;};
+a.menu0_8_:hover {TEXT-DECORATION: none;};
+a.menu0_8_:active {TEXT-DECORATION: none;};
+table.tb1_8_{FONT-SIZE:9pt;border:0;}
+span.s1_8_{COLOR: #cc0000;FONT-SIZE: 9pt;TEXT-DECORATION: none;}
+span.s2_8_{FONT-SIZE: 9pt;COLOR: #cc0000;LINE-HEIGHT: 160%;}
+span.s10_8_{COLOR: #222222;FONT-SIZE: 9pt;TEXT-DECORATION: none;}
+span.s20_8_{FONT-SIZE: 9pt;COLOR: #222222;LINE-HEIGHT: 160%;}
+</style>
+<SCRIPT language="javascript"> 
+ var showfix_8_ = 1;
+ var isvertical_8_ = false;
+</SCRIPT>
+
+<TABLE id="t1_8_" cellSpacing="0" cellPadding="0" border="0" height="83" width="253"><TR><TD valign="center"></TD><TD valign="middle" height="0" width="79" nowrap class="b1_8_" align="center" id="a_8_1009" onmouseover="tshowLayers('1009','b2_8_', '_8_')" onmouseout="thideLayers('1009','b1_8_', '_8_','true','true')"><a class="menu0_8_" href="http://gra.guet.edu.cn/category.aspx?category=1&subcategory=25" target="_blank"><span class="fontstyle39890">&nbsp;招生就业&nbsp;</span></a></TD><TD valign="center"></TD><TD valign="middle" width="79" nowrap class="b1_8_" align="center" id="a_8_1199" onmouseover="tshowLayers('1199','b2_8_', '_8_')" onmouseout="thideLayers('1199','b1_8_', '_8_','true','true')"><a class="menu0_8_" href="http://www.guet.edu.cn/dlwn/info/1081/1033.htm" target="_blank"><span class="fontstyle39890">&nbsp;师生风采&nbsp;</span></a></TD><TD valign="center"></TD><TD valign="middle" width="79" nowrap class="b1_8_" align="center" id="a_8_1200" onmouseover="tshowLayers('1200','b2_8_', '_8_')" onmouseout="thideLayers('1200','b1_8_', '_8_','true','true')"><a class="menu0_8_" href="http://www.guet.edu.cn/guidianqujing/" target="_blank"><span class="fontstyle39890">&nbsp;多彩校园&nbsp;</span></a></TD></TR></TR></table><!--#endeditable--></TD></TR></TBODY></TABLE>
+<TABLE cellspacing="0" cellpadding="0" width="250" border="0">
+<TBODY>
+<TR>
+<TD height="70" align="center"><!--#begineditable clone="0" namechanged="0" order="9" ispublic="0" tagname="图片链接" viewid="39880" contentviewid="" contype="" stylesysid="" layout="" action="" name="图片链接"-->
+
+
+
+
+<script language="javascript" src="/system/resource/js/dynclicks.js"></script>
+<table class="winstyle39880" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+    <td><a href="http://lib.guet.edu.cn/" target="_blank" onclick="_addDynClicks('wbimage',1447960670,1069)"><img src="images/icot_01.gif" width="50" height="45" hspace="5" vspace="2" border="0" alt="图书馆" title="图书馆"></a><div class="titlestyle39880" align="center">
+            图书馆
+             
+
+          </div></td>
+        <td><a href="http://www.guet.edu.cn/dlwn/jxgg.htm" target="_blank" onclick="_addDynClicks('wbimage',1447960670,1070)"><img src="images/icot_02.gif" width="50" height="45" hspace="5" vspace="2" border="0" alt="精品课程" title="精品课程"></a><div class="titlestyle39880" align="center">
+            精品课程
+             
+
+          </div></td>
+        <td><a href="https://www.2345.com/?38010" target="_blank" onclick="_addDynClicks('wbimage',1447960670,1072)"><img src="images/icot_04.gif" width="50" height="45" hspace="5" vspace="2" border="0" alt="新闻网" title="新闻网"></a><div class="titlestyle39880" align="center">
+            新闻网
+             
+
+          </div></td>
+        </tr>
+    </table><!--#endeditable--></TD></TR></TBODY></TABLE>
+<TABLE cellspacing="0" cellpadding="0" width="250" border="0">
+<TBODY>
+<TR>
+<TD height="55" valign="bottom" align="center">
+<TABLE cellspacing="0" cellpadding="0" width="250" align="center">
+<TBODY>
+<TR>
+<TD><!--#begineditable clone="0" namechanged="0" order="10" ispublic="0" tagname="推荐网站" viewid="39883" contentviewid="" contype="" stylesysid="" layout="" action="" name="推荐网站"-->    
+    
+    
+    
+  
+
+    
+<script language="javascript">    
+<!--    
+    function doLinksu10(o)    
+    {    
+        var link=document.getElementsByName("su10")[0];    
+        var index=link.selectedIndex;    
+        if (index==-1 || index>=link.options.length)    
+        {    
+          return;    
+        }    
+        var value = link.options[index].value;    
+        var obj = document.getElementById("hu10");    
+        obj.href = value;
+        var wburlid =link.options[index].getAttribute("aa39883aa");
+        _addDynClicks('wburl',1447960670,wburlid)
+            
+                     obj.target = "_blank"
+                    
+         if(document.all){
+          obj.click();     
+        }         
+         else 
+        { 
+          window.open(value);
+         }
+       
+       if(o.selectedIndex != 0)    
+       {    
+           o.selectedIndex = 0;    
+       }    
+    }    
+-->    
+</script>  
+<table>    
+    <tr><td align="center">    
+            <span class="titlestyle39883"></span> <a id="hu10"></a>    
+            <select name="su10" class="selectstyle39883" onChange="doLinksu10(this)">    
+                <option value="">　--推荐网站--</option>    
+                <option vsbhrefname="value" aa39883aa="31312" value="http://www.ime.tsinghua.edu.cn/publish/wdzs/index.html">清华大学微电子所    
+                <option vsbhrefname="value" aa39883aa="31313" value="http://iroi.seu.edu.cn/">东南大学射光所    
+                </select>    
+        </td><tr></table><!--#endeditable--></TD>
+<TD><!--#begineditable clone="0" namechanged="0" order="11" ispublic="0" tagname="校内链接" viewid="39884" contentviewid="" contype="" stylesysid="" layout="" action="" name="校内链接"-->    
+    
+    
+    
+  
+
+    
+<script language="javascript">    
+<!--    
+    function doLinksu11(o)    
+    {    
+        var link=document.getElementsByName("su11")[0];    
+        var index=link.selectedIndex;    
+        if (index==-1 || index>=link.options.length)    
+        {    
+          return;    
+        }    
+        var value = link.options[index].value;    
+        var obj = document.getElementById("hu11");    
+        obj.href = value;
+        var wburlid =link.options[index].getAttribute("aa39884aa");
+        _addDynClicks('wburl',1447960670,wburlid)
+            
+                     obj.target = "_blank"
+                    
+         if(document.all){
+          obj.click();     
+        }         
+         else 
+        { 
+          window.open(value);
+         }
+       
+       if(o.selectedIndex != 0)    
+       {    
+           o.selectedIndex = 0;    
+       }    
+    }    
+-->    
+</script>  
+<table>    
+    <tr><td align="center">    
+            <span class="titlestyle39884"></span> <a id="hu11"></a>    
+            <select name="su11" class="selectstyle39884" onChange="doLinksu11(this)">    
+                <option value="">　--校内链接--</option>    
+                <option vsbhrefname="value" aa39884aa="31030" value="http://www.guet.edu.cn">桂林电子科技大学    
+                <option vsbhrefname="value" aa39884aa="31031" value="http://iicmd.guet.edu.cn">集成电路与微纳器件研究所（旧版）    
+                <option vsbhrefname="value" aa39884aa="31183" value="http://www.guet.edu.cn/dept2/">信息与通信学院    
+                <option vsbhrefname="value" aa39884aa="31184" value="http://www.guet.edu.cn/dept2/#">广西精密导航与应用重点实验室    
+                </select>    
+        </td><tr></table><!--#endeditable--></TD></TR>
+<TR>
+<TD><!--#begineditable clone="0" namechanged="0" order="12" ispublic="0" tagname="友好院校" viewid="39885" contentviewid="" contype="" stylesysid="" layout="" action="" name="友好院校"-->    
+    
+    
+    
+  
+
+    
+<script language="javascript">    
+<!--    
+    function doLinksu12(o)    
+    {    
+        var link=document.getElementsByName("su12")[0];    
+        var index=link.selectedIndex;    
+        if (index==-1 || index>=link.options.length)    
+        {    
+          return;    
+        }    
+        var value = link.options[index].value;    
+        var obj = document.getElementById("hu12");    
+        obj.href = value;
+        var wburlid =link.options[index].getAttribute("aa39885aa");
+        _addDynClicks('wburl',1447960670,wburlid)
+            
+                     obj.target = "_blank"
+                    
+         if(document.all){
+          obj.click();     
+        }         
+         else 
+        { 
+          window.open(value);
+         }
+       
+       if(o.selectedIndex != 0)    
+       {    
+           o.selectedIndex = 0;    
+       }    
+    }    
+-->    
+</script>  
+<table>    
+    <tr><td align="center">    
+            <span class="titlestyle39885"></span> <a id="hu12"></a>    
+            <select name="su12" class="selectstyle39885" onChange="doLinksu12(this)">    
+                <option value="">　--友好院校--</option>    
+                <option vsbhrefname="value" aa39885aa="31188" value="https://eecs.berkeley.edu/">Berkeley Universtiy California    
+                <option vsbhrefname="value" aa39885aa="31197" value="https://ece.vt.edu">VT ECE    
+                <option vsbhrefname="value" aa39885aa="31311" value="http://www.seu.edu.cn">东南大学    
+                <option vsbhrefname="value" aa39885aa="31314" value="http://www.xidian.edu.cn/">西安电子科技大学    
+                <option vsbhrefname="value" aa39885aa="31315" value="http://www.uestc.edu.cn/">电子科技大学    
+                <option vsbhrefname="value" aa39885aa="31316" value="http://www.njupt.edu.cn/">南京邮电大学    
+                <option vsbhrefname="value" aa39885aa="31317" value="http://www.hdu.edu.cn/">杭州电子科技大学    
+                </select>    
+        </td><tr></table><!--#endeditable--></TD>
+<TD><!--#begineditable clone="0" namechanged="0" order="13" ispublic="0" tagname="友情链接" viewid="39886" contentviewid="" contype="" stylesysid="" layout="" action="" name="友情链接"-->    
+    
+    
+    
+  
+
+    
+<script language="javascript">    
+<!--    
+    function doLinksu13(o)    
+    {    
+        var link=document.getElementsByName("su13")[0];    
+        var index=link.selectedIndex;    
+        if (index==-1 || index>=link.options.length)    
+        {    
+          return;    
+        }    
+        var value = link.options[index].value;    
+        var obj = document.getElementById("hu13");    
+        obj.href = value;
+        var wburlid =link.options[index].getAttribute("aa39886aa");
+        _addDynClicks('wburl',1447960670,wburlid)
+            
+                     obj.target = "_blank"
+                    
+         if(document.all){
+          obj.click();     
+        }         
+         else 
+        { 
+          window.open(value);
+         }
+       
+       if(o.selectedIndex != 0)    
+       {    
+           o.selectedIndex = 0;    
+       }    
+    }    
+-->    
+</script>  
+<table>    
+    <tr><td align="center">    
+            <span class="titlestyle39886"></span> <a id="hu13"></a>    
+            <select name="su13" class="selectstyle39886" onChange="doLinksu13(this)">    
+                <option value="">　--友情链接--</option>    
+                <option vsbhrefname="value" aa39886aa="31029" value="http://iroi.seu.edu.cn/">东南大学射光所    
+                <option vsbhrefname="value" aa39886aa="31185" value="http://www.ime.tsinghua.edu.cn/publish/wdzs/index.html">清华大学微电子所    
+                <option vsbhrefname="value" aa39886aa="31186" value="http://sme.fudan.edu.cn/index.asp">复旦大学微电子学院    
+                <option vsbhrefname="value" aa39886aa="31187" value="http://www.isee.zju.edu.cn/ic/">浙江大学微电子研究所    
+                <option vsbhrefname="value" aa39886aa="31198" value="https://www.mics.ece.vt.edu">MICS ECE VT    
+                </select>    
+        </td><tr></table><!--#endeditable--></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+<TABLE cellspacing="0" cellpadding="0" width="273" align="center" border="0">
+<TBODY>
+<TR>
+<TD><IMG src="images/kstd_02.gif" width="273" height="3"></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+<TABLE cellspacing="0" cellpadding="0" width="100%" align="center" background="images/end_dhbg1.jpg" border="0" style="background-repeat: no-repeat; background-position: center top">
+<TBODY>
+<TR>
+<TD height="32" align="center"><FONT color="#ffffff" size="3" face="Arial Narrow">Institute of ICs&nbsp;&amp; Systems, GUET</FONT></TD></TR></TBODY></TABLE>
+<TABLE cellspacing="0" cellpadding="0" width="100%" align="center" background="images/end_bg.jpg" border="0" style="background-repeat: repeat-x; background-position: center top">
+<TBODY>
+<TR>
+<TD height="96">
+<TABLE cellspacing="0" cellpadding="0" width="980" align="center" background="images/endbg_bq.jpg" border="0">
+<TBODY>
+<TR>
+<TD height="96" align="center"><!--#begineditable clone="0" namechanged="0" order="14" ispublic="0" tagname="版权" viewid="39882" contentviewid="" contype="" stylesysid="" layout="" action="" name="版权"--><p style="text-align: center">集成电路与系统研究所&nbsp;&nbsp;地址：广西桂林市金鸡路1号<br /></p><!--#endeditable--></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE><script language="JavaScript" type="text/javascript">
+function showtab(m,n,count){
+ var strPic1="url(images/here.gif)";
+ var strPic2="url(images/there.gif)";                       
+    for(var i=1;i<=count;i++)
+    {
+     if (i==n){
+     getObject(m+'_'+i).style.background=strPic1;
+     getObject('td_'+m+'_'+i).style.color='#000000';
+     getObject('tab_'+m+'_'+i).style.display='';
+     }
+     else {
+     getObject(m+'_'+i).style.background=strPic2;
+     getObject('td_'+m+'_'+i).style.color='#006600';
+     getObject('tab_'+m+'_'+i).style.display='none';
+     }
+    }
+}
+function getObject(objectId) {
+    if(document.getElementById && document.getElementById(objectId)) {
+ return document.getElementById(objectId);
+    } else if (document.all && document.all(objectId)) {
+ return document.all(objectId);
+    } else if (document.layers && document.layers[objectId]) {
+ return document.layers[objectId];
+    } else {
+ return false;
+    }
+} 
+</script>
+
+</BODY></HTML>

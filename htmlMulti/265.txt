@@ -1,0 +1,904 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>广西云安全与云服务工程技术研究中心</title><META Name="keywords" Content="广西云安全与云服务工程技术研究中心" />
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="stylesheet" type="text/css" href="css/publice.css">
+    <script type="text/javascript" src="js/jquery-1.8.3.min.js"></script>
+    <script type="text/javascript" src="js/jquery.js"></script>
+    <script type="text/javascript" src="js/superslide.2.1.js"></script>
+    <script type="text/javascript" src="js/jquery.soChange.js"></script>
+    <script type="text/javascript" src="js/index.js"></script>
+    <script type="text/javascript">
+        $(function () {
+            $(".mainmenu dl").hide();
+            $("li.mainmenu").hover(function () {
+                $(this).find("dl").stop(true, true);
+                $(this).find("dl").slideDown();
+            }, function () {
+                $(this).find("dl").stop(true, true);
+                $(this).find("dl").slideUp();
+            });
+        })
+    </script>
+
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="index.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1033,'/index.jsp',-1,1411891294)</script>
+</head>
+<body style="position: relative">
+    <!--top s--><a href="http://webscan.360.cn/index/checkwebsite/url/scss.bupt.edu.cn" name="d1aa96141abaa877e8ad955b964f8fa6"></a>
+    <div class="topWrap clearfix">
+        <div style="width:100%;height:112px;background:url(img/top-bg.jpg) no-repeat center top">
+            <div class="topDiv">
+                <div class="logo">
+                    <!--#begineditable name="高校LOGO" viewid="201846" tagname="高校LOGO" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""-->
+<!-- 网站logo图片地址请在本组件"内容配置-网站logo"处填写 -->
+<div class="logo">
+<a href="index.htm" title="广西云安全与云服务工程技术研究中心"><img src="img/logo.png" width="511" height="112" border="0" alt="广西云安全与云服务工程技术研究中心" title="广西云安全与云服务工程技术研究中心"></a>
+</div><!--#endeditable-->
+                </div>
+                <div class="topR fr">
+                    <!--#begineditable name="头部文字链接" viewid="201847" tagname="头部文字链接" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><script language="javascript" src="/system/resource/js/dynclicks.js"></script><script language="javascript" src="/system/resource/js/openlink.js"></script><div class="topR_t fr" style="color:#fff;">
+     <a href="https://www.guet.edu.cn" style="color:#fff;">桂电主页</a>
+     
+</div>
+
+
+<!--#endeditable-->
+                </div>
+            </div>
+        </div>
+
+    </div>
+    <!--nav--><!--#begineditable name="主导航" viewid="201849" tagname="主导航" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><div class="navWrap  clearfix">
+    <div class="nav">
+    <ul>
+			<li>
+			<a class="link" href="index.htm">首页</a>
+						
+		</li>
+		<li class="mainmenu">
+		    <a class="link" href="sysga/zxjj.htm">中心概况</a>
+			<!--如果是导航字数很多，则加上 class="chang"，否则去掉即可-->
+			<dl>
+					<dd><a href="sysga/zxjj.htm">中心简介</a></dd>
+					<dd><a href="sysga/gcjswyh.htm">工程技术委员会</a></dd>
+					<dd><a href="sysga/gzzhi_d.htm">规章制度</a></dd>
+					<dd><a href="sysga/lx.htm">联系方式</a></dd>
+			</dl>
+		</li>
+		<li class="mainmenu">
+		    <a class="link" href="yjdui_w/ky.htm">研究队伍</a>
+			<!--如果是导航字数很多，则加上 class="chang"，否则去掉即可-->
+			<dl>
+					<dd><a href="yjdui_w/ky.htm">科研团队</a></dd>
+					<dd><a href="yjdui_w/bss.htm">博士生</a></dd>
+					<dd><a href="yjdui_w/sss.htm">硕士生</a></dd>
+			</dl>
+		</li>
+		<li class="mainmenu">
+		    <a class="link" href="<span style='color:red;font-size:9pt'>转换链接错误</span>">科学研究</a>
+			<!--如果是导航字数很多，则加上 class="chang"，否则去掉即可-->
+			<dl>
+					<dd><a href="kxyj/kyxm.htm">科研项目</a></dd>
+					<dd><a href="kxyj/lwzhu_zu.htm">论文著作</a></dd>
+					<dd><a href="kxyj/fm.htm">发明专利</a></dd>
+					<dd><a href="kxyj/hjcheng_gu.htm">获奖成果</a></dd>
+			</dl>
+		</li>
+		<li class="mainmenu">
+		    <a class="link" href="hzjiao_liu/xs.htm">合作交流</a>
+			<!--如果是导航字数很多，则加上 class="chang"，否则去掉即可-->
+			<dl>
+					<dd><a href="hzjiao_liu/xs.htm">学术报告</a></dd>
+					<dd><a href="hzjiao_liu/zb.htm">主办会议</a></dd>
+					<dd><a href="hzjiao_liu/wc.htm">外出交流</a></dd>
+			</dl>
+		</li>
+		<li class="mainmenu">
+		    <a class="link" href="kf/sq.htm">开放课题</a>
+			<!--如果是导航字数很多，则加上 class="chang"，否则去掉即可-->
+			<dl>
+					<dd><a href="kf/sq.htm">申请指南</a></dd>
+			</dl>
+		</li>
+		<li class="mainmenu">
+		    <a class="link" href="gzdong_ta/xwdong_tai.htm">工作动态</a>
+			<!--如果是导航字数很多，则加上 class="chang"，否则去掉即可-->
+			<dl>
+					<dd><a href="gzdong_ta/xwdong_tai.htm">新闻动态</a></dd>
+					<dd><a href="gzdong_ta/tzgong_gao.htm">通知公告</a></dd>
+			</dl>
+		</li>
+     
+    </ul>
+</div>
+</div>
+<script type="text/javascript">
+
+	$(".mainmenu dl").hide();
+
+</script><!--#endeditable--><!--banner-->
+
+    <div></div>
+    <!--container-->
+    <div class="vsb-box">
+        <div class="vsb-container container clearfix" containerid="2" columns="6">
+            <!--新闻信息-->
+            <div class="vsb-space new_inforBox new_inforBox2 fl" columns="4">
+                <div class="dynamic">
+                    <h2>新闻动态</h2><span><a href="<span style='color:red;font-size:9pt'>转换链接错误</span>"><img src="temp/more.png"></a></span>
+                </div>
+                <div class="newBox">
+                    <!--新闻信息-->
+                    <div class="new_pic new_pic1">
+                    <!--#begineditable name="图片切换" viewid="201838" tagname="图片切换" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><style type="text/css">
+ul,li{
+    padding:0;
+    margin:0;
+    list-style:none;}
+#flashBoxu_u3_{
+    width:310px;
+    height:174px;
+    border:0px solid #EEE;
+    position:relative;
+    margin-left: auto;
+    margin-right: auto;}
+#flashBoxu_u3_ img{
+    /*初始不要显示*/
+    display:none;
+    /*用边框来实现空位，因为margin和paading有时会引起些麻烦*/
+    border:0px solid #FFF;}
+#flashBoxu_u3_ ul{
+    position:absolute;
+    right:7px;
+    bottom:3px;
+    font:9px tahoma;}
+#flashBoxu_u3_ ul li{
+    display:block;
+    float:left;
+    width:12px;
+    height:12px;
+    line-height:12px;
+    margin-right:3px;
+    border:0px solid #999;
+    background:#F0F0F0;
+    text-align:center;
+    cursor:pointer;}
+#flashBoxu_u3_ ul li.hover{
+    border-color:red;
+    background:#FFE1E1;
+    color:red;}
+</style>
+<script type="text/javascript">
+function flashBoxCtrl(o){
+    this.obj=document.getElementById(o);
+    //这个私有方法虽然写了，但暂时没用到
+    function addListener(ele,eventName,functionBody){
+        if (ele.attachEvent){
+            ele.attachEvent("on"+eventName, functionBody);
+        }else if (ele.addEventListener){
+            ele.addEventListener("on"+eventName,functionBody, false);
+        }else{
+            return false;
+        }
+    }
+    //初始化
+    this.init=function(){
+        var objImg=this.obj.getElementsByTagName("img");
+        var tagLength=objImg.length;
+        if (tagLength>0){
+            var oUl=document.createElement("ul");
+            oUl.setAttribute("id",o+"numTag");
+            for (var i=0;i<tagLength;i++){
+                var oLi=oUl.appendChild(document.createElement("li"));
+                if (i==0){
+                    oLi.setAttribute("class","hover"); //初始化时把第一个设置为高亮
+                    oLi.setAttribute("className","hover");
+                }
+                //设置标签的数字
+                oLi.appendChild(document.createTextNode((i+1)));
+            }
+            this.obj.appendChild(oUl);
+            objImg[0].style.display="block";
+            //设置标签事件
+            var oTag=this.obj.getElementsByTagName("li");
+            for (var i=0;i<oTag.length;i++){
+                var flag = 0;
+                var temp = 0;
+                var timeout=null;
+                var step = function(){
+                    for (j=0;j<oTag.length;j++){
+                        oTag[j].className="";
+                        objImg[j].style.display="none";
+                    }
+                    this.className="hover";
+                    flag = flag>=oTag.length-1?0:flag+1;
+                    objImg[flag].style.display="block";
+                    oTag[flag].className = "hover";
+                    timeout = setTimeout(step,4000);
+                };
+                oTag[i].onmouseover=function(){
+                    for (j=0;j<oTag.length;j++){
+                        oTag[j].className="";
+                        objImg[j].style.display="none";
+                        temp = j;
+                    }
+                    this.className="hover";
+                    objImg[this.innerHTML-1].style.display="block";
+                    temp = this.innerHTML-1;
+                    flag = i;
+                    clearInterval(timeout);
+                }
+                oTag[i].onmouseout = function(){
+                    for (j=0;j<oTag.length;j++){
+                        oTag[j].className="";
+                        objImg[j].style.display="none";
+                    }
+                    flag = temp;
+                    objImg[temp].style.display="block";
+                    oTag[temp].className = "hover";
+                    timeout = setTimeout(step,4000);
+                }
+                if(i==0)
+                {
+                    timeout = setTimeout(step,4000);
+                }
+            }
+        }
+    };
+    //自动滚动的方法还没写
+    this.imgRoll=function(){};
+    //生成对象时自动加载init()方法以初始化对象
+    this.init();
+}
+</script>
+<table cellspacing="0" cellpadding="0" border="0"><tr><td><div id="flashBoxu_u3_"><img src="images/19/07/22/cdugszggsq/4.jpg" border="0" width="310" height="174" /><img src="images/19/07/22/cdugszggsq/3.jpg" border="0" width="310" height="174" /><img src="images/19/07/22/cdugszggsq/2.jpg" border="0" width="310" height="174" /><img src="images/19/07/22/cdugszggsq/1.jpg" border="0" width="310" height="174" /><img src="images/banner2.jpg" border="0" width="310" height="174" /></div></td></tr></table><SCRIPT language="JavaScript">new flashBoxCtrl("flashBoxu_u3_");</SCRIPT><!--#endeditable-->
+                    </div>
+                    <div class="new_list new_list3"><!--#begineditable name="标题列表-8条短日期" viewid="201906" tagname="标题列表-8条短日期" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><ul class="dynamic_list fr">
+
+</UL>
+<!--#endeditable--></div>
+                </div>
+            </div>
+
+            <!--通知公告-->
+            <div class="vsb-space informBox informBox3 fl" columns="2">
+                <div class="dynamic cleafix">
+                    <h2>通知公告</h2><span><a href=""><img src="temp/more.png"></a></span>
+                </div>
+                <!--#begineditable name="招生信息" viewid="201841" tagname="招生信息" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--><div class="infor_list">
+                <ul class="dynamic_list dynamic_list1" style="padding-top:10px;">
+
+            </ul>
+</div>
+
+
+
+
+
+
+<!--#endeditable-->
+            </div>
+        </div>
+
+        <div class="vsb-container container clearfix" containerid="2" columns="6">
+            <!--新闻信息4-->
+            <div class="vsb-space new_inforBox new_inforBoxa new_inforBoxa1 fl" columns="3">
+                <div class="dynamic cleafix">
+                    <h2>合作交流</h2><span><a href=""><img src="temp/more.png"></a></span>
+                </div>
+                <!--#begineditable name="首条蓝色字体带灰色摘要标题列表" viewid="201858" tagname="首条蓝色字体带灰色摘要标题列表" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""-->
+<!--#endeditable-->
+            </div>
+
+            <div class="vsb-space informBox informBox3 fl" columns="3">
+                <div class="dynamic cleafix">
+                    <h2>开放课题</h2><span><a href=""><img src="temp/more.png"></a></span>
+                </div>
+                <!--#begineditable name="就业信息" viewid="201845" tagname="就业信息" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp="true"--><div class="infor_list">
+                <ul class="dynamic_list dynamic_list1" style="padding-top:10px;">
+
+            </ul>
+    </div>
+
+
+
+
+
+
+<!--#endeditable-->
+            </div>
+
+        </div>
+
+        <!--foot-->
+        <div class="footWrap clearfix">
+            <!--#begineditable name="版权1" viewid="201902" tagname="版权1" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><div class="footDiv_one">
+        <div class="foot_one">
+            <p><div><span style="font-size: 14px">Copyright© 2019 All Rights Reserved. </span><span style="font-size: 16px">&nbsp;<span style="font-size: 14px"><span style="text-align: center; font-family: 微软雅黑, &#39;Microsoft YaHei&#39;; caret-color: rgb(44, 62, 80)">广西云安全与云服务工程技术研究中心</span><span style="font-family: 微软雅黑, &#39;Microsoft YaHei&#39;">版权所有&nbsp;桂ICP备05000961号&nbsp;</span></span></span></div></p>
+        </div>
+    </div><!--#endeditable-->
+
+        </div>
+
+        <script type="text/javascript">
+            $(function () {
+                $(".select").each(function () {
+                    var s = $(this);
+                    var z = parseInt(s.css("z-index"));
+                    var dt = $(this).children("dt");
+                    var dd = $(this).children("dd");
+                    var _show = function () { dd.slideDown(200); dt.addClass("cur"); s.css("z-index", z + 1); };   //展开效果
+                    var _hide = function () { dd.slideUp(200); dt.removeClass("cur"); s.css("z-index", z); };    //关闭效果
+                    dt.click(function () { dd.is(":hidden") ? _show() : _hide(); });
+                    dd.find("a").click(function () { dt.html($(this).html()); _hide(); });     //选择效果（如需要传值，可自定义参数，在此处返回对应的“value”值 ）
+                    $("body").click(function (i) { !$(i.target).parents(".select").first().is(s) ? _hide() : ""; });
+                })
+            });
+        </script>
+        <script type="text/javascript">
+            $(function () {
+                //切换对象为其他，这里为包含图片和标题的层
+                $('#change_32 div.changeDiv').soChange({//对象指向层，层内包含图片及标题
+                    thumbObj: '#change_32 .ul_change_a2 span',
+                    thumbNowClass: 'on'//自定义导航对象当前class为on
+                });
+            });
+        </script>
+        <script type="text/javascript">
+            function setContentTab(name, curr, n) {
+                for (i = 1; i <= n; i++) {
+                    var menu = document.getElementById(name + i);
+                    var cont = document.getElementById("con_" + name + "_" + i);
+                    if (menu != null) {
+                        menu.className = i == curr ? "up" : "";
+                    }
+                    if (i == curr) {
+                        if (cont != null) {
+                            cont.style.display = "block";
+                        }
+                    } else {
+                        if (cont != null) {
+                            cont.style.display = "none";
+                        }
+                    }
+                }
+            }
+        </script>
+        <script type="text/javascript">
+            $(".pic ul li").hover(function () {
+                $(this).stop(true).animate({ width: "848px" }, 500).siblings().stop(true).animate({ width: "50px" }, 500);
+            });
+        </script>
+
+    </div>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="zh-cmn">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+    <meta name="keywords"
+          content="WEBVPN,VPN,clientless vpn,网瑞达,北京网瑞达科技有限公司,资源访问控制系统,访问控制,堡垒机,SSLVPN,CASB,认证,成都网瑞达科技有限公司,图书馆认证,图书馆统计,图书馆下载分析,电子资源访问控制,论文下载,访问,图书馆"/>
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no">
+    <meta name="renderer" content="webkit">
+    <link rel="stylesheet" href="/wengine-vpn/js/css/normalize.css"/>
+    <link rel="stylesheet" href="/wengine-vpn/js/css/login.css"/>
+    <link rel="stylesheet" href="/wengine-vpn/js/layui/css/layui.css">
+    <title>桂林电子科技大学WebVPN</title>
+</head>
+<body>
+<div class="background">
+</div>
+<div class="main">
+    <div class="header">
+    
+        <div class="portal-logo">
+            <img style="height:100%" src="/wengine-vpn/js/image/logo.png"/>
+        </div>
+        <div class="portal-title">
+        桂林电子科技大学WebVPN
+        </div>
+    
+    </div>
+    <div class="container">
+        <div class="notice-panel">
+            <div class="notice-box">
+                <div class="notice-title">
+                通知
+                </div>
+                <div class="notice-break-line"></div>
+                <div class="notice-content">
+                <p>为了方便校外师生在外网访问内网和图书馆资源，开通了新版VPN，无需客户端安装，支持电脑和手机直接使用，为了获得更好的体验建议使用Chrome、Firefox、IE11、Edge、Safari等浏览器。</p><p>该VPN的账号密码为校园网出校认证的账号和密码。若忘记账号密码，可通过手机端关注“桂林电子科技大学智慧校园”微信公众号后进入公众号的“一站式服务大厅”来申请重置“上网密码”。</p><p>若您在知道账号密码情况下需要更改旧密码，请在登录VPN后进入https://drcom.guet.edu.cn/Self/login 来登录出校认证自助服务页面进行更改。</p>
+                </div>
+            </div>
+        </div>
+        <div class="login-panel">
+            <div class="login-box">
+            
+            <div id="nav" class="login-nav only-auth">
+            
+            
+                <div class="on" data-type="local" id="local">账号登录</div>
+            
+            
+            
+                
+            </div>
+                <form class="el-form el-form--label-top" method="POST" action="/do-login?local_login=true">
+                    <input name="auth_type" type="hidden" value="local"/>
+                    <div class="wechat-qrcode" style="margin-top: 20px">
+                        
+                    </div>
+                
+                    <div class="login-form-item">
+                        <div class="el-input user-input">
+                            <input autocomplete="new-password" id="user_name" placeholder="用户名"
+                                   type="text" name="username">
+                        </div>
+                    </div>
+                
+
+                    <div class="login-form-item sms-field" style="display:none;">
+                        <div class="el-input phone-code-input">
+                            <input autocomplete="new-code" placeholder="验证码" type="text" name="sms_code"
+                                   id="phone-code-input" style="flex:1">
+                            <div class="send-sms" id="send-sms">点击发送</div>
+                            <img id="help_mark" class="help-mark sms-wx-field"
+                                 src="/wengine-vpn/js/image/question-mark.png"/>
+                        </div>
+                    </div>
+
+                
+                    <div class="login-form-item password-field">
+                        <div class="el-input password-input">
+                            <input autocomplete="new-password" placeholder="密码" type="password" name="password">
+                        </div>
+                    </div>
+                
+                
+                    <div class="upper-login-field">
+                    
+                    
+                        <div class="remember-field">
+                            <input type="checkbox" name="remember_cookie" style="vertical-align: middle;"></span>
+                            <span>下次自动登录</span>
+                        </div>
+                    
+                    </div>
+
+                
+                    <button type="submit" class="el-button-login" style="margin-bottom:20px;">
+                        <span>登录</span>
+                    </button>
+                
+                </form>
+                <div class="link-field">
+                
+                    <a id="cas-login" class="link-login" href="/login?cas_login=true"
+                       style="text-decoration:none;color:white;">
+                        <img src="/wengine-vpn/js/image/cas.png" alt="">
+                        统一身份认证登录
+                    </a>
+                
+                
+                </div>
+                <div class="mobile-notice-panel">
+                    <div class="notice-box">
+                        <div class="notice-break-line"></div>
+                        <div class="notice-title">
+                        通知
+                        </div>
+                        <div class="notice-content">
+                        <p>为了方便校外师生在外网访问内网和图书馆资源，开通了新版VPN，无需客户端安装，支持电脑和手机直接使用，为了获得更好的体验建议使用Chrome、Firefox、IE11、Edge、Safari等浏览器。</p><p>该VPN的账号密码为校园网出校认证的账号和密码。若忘记账号密码，可通过手机端关注“桂林电子科技大学智慧校园”微信公众号后进入公众号的“一站式服务大厅”来申请重置“上网密码”。</p><p>若您在知道账号密码情况下需要更改旧密码，请在登录VPN后进入https://drcom.guet.edu.cn/Self/login 来登录出校认证自助服务页面进行更改。</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            </div>
+
+            <div id="wechat_tip" style="display:none;padding:10px">
+                <div style="font-size:16px">1. 请先扫描二维码并关注该服务公众号</div>
+                <img src="/wengine-vpn/js/image/wx.png" style="width:120px;height:120px;margin-left:15px;"/>
+                <div style="font-size:16px">2. 进入公众号点击”用户认证“进行认证</div>
+            </div>
+        </div>
+        <div class="footer" style="text-align: center;margin-top: 20px;margin-bottom: 10px;">
+        
+        </div>
+    </div>
+    <div class="second-login-layer" id="second_login_layer" style="display:none">
+        <div class="layer-form-title">
+            双重登录认证
+        </div>
+        <form id="second_login_form" class="layui-form">
+            <input type="hidden" name="username" autocomplete="off" value="">
+            <input type="hidden" class="phone-input" name="phone" autocomplete="off" value="">
+            <input type="hidden" name="token" autocomplete="off" value="">
+            <div class="layui-form-item">
+                <label class="layui-form-label">手机号</label>
+                <div class="layui-input-block">
+                    <input type="text" name="disable_phone" autocomplete="off" disabled class="layui-input"
+                           value="�������****" style="border:none">
+                </div>
+            </div>
+            <div class="layui-form-item">
+                <div class="layui-inline">
+                    <label class="layui-form-label">验证码</label>
+                    <div class="layui-input-inline" style="width:160px;">
+                        <input type="text" name="code" autocomplete="off" class="layui-input">
+                    </div>
+                </div>
+                <div class="layui-inline">
+                    <div class="layui-input-inline" style="width:60px;">
+                        <div class="layui-btn layui-btn-mormal send-message" style="background:#1B9EF3;">获取验证码</div>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <input type="button" id="submit_second_login" class="layui-btn layui-btn-mormal"
+                       style="background:#1B9EF3;float:right" value="继续登录"/>
+            </div>
+
+        </form>
+    </div>
+
+    <script type="text/javascript" src="/wengine-vpn/js/js/jquery.min.js"></script>
+    <script type="text/javascript" src="/wengine-vpn/js/layer-v3.1.1/layer.js"></script>
+    <script type="text/javascript" src="/wengine-vpn/js/layui/layui.js"></script>
+    <script type="text/javascript" src="//rescdn.qqmail.com/node/ww/wwopenmng/js/sso/wwLogin-1.0.0.js"></script>
+    <script type="text/javascript">
+        var token = ''
+        if (token != "") {
+            index = layer.open({
+                type: 1,
+                shade: 0.3,
+                title: false,
+                shadeClose: true,
+                closeBtn: 1,
+                scrollbar: false,
+                offset: '350px',
+                area: "460px",
+                content: $('#second_login_layer')
+            });
+        }
+
+        var logoutByOther = ''
+        if (logoutByOther != "") {
+            layer.msg("您的账号已经在其他地点登录，请检查账号密码是否泄漏");
+        }
+
+        var userName = ''
+        var logoutOtherToken = ''
+        if (logoutOtherToken != "") {
+            layer.confirm('该账号已经登录，继续登录将踢掉其他已登录账号', {
+                btn: ['继续', '取消'] 
+            }, function () {
+                $.ajax({
+                    url: "/do-confirm-login",
+                    data: {username: userName, logoutOtherToken: logoutOtherToken},
+                    dataType: 'json',
+                    type: 'POST',
+                    success: function (res) {
+                        if (res.success) {
+                            layer.msg("登录成功！");
+                            setTimeout(function () {
+                                window.location.href = res.data
+                            }, 1000);
+                        } else {
+                            layer.msg(res.data);
+                        }
+                    }
+                })
+            }, function () {
+                
+            });
+        }
+
+        var sec;
+        var intervalId = 0;
+        $(function () {
+            $('#user_name').focus();
+            
+            $('#send-sms').click(function () {
+                var user_name = $("#user_name").val()
+                var auth_type = $(".on").data('type')
+
+                var $that = $(this);
+                if(user_name.length != 11){
+                    layer.msg('您的手机号格式不正确,无法获得验证码！');
+                    return
+                }
+                if ($(this).hasClass('disabled')) {
+                    return;
+                }
+                window.clearInterval(intervalId);
+                $.post('/send-sms/', {username: user_name, auth_type: auth_type}, function (res) {
+                    if (res == "False") {
+                        layer.msg('您的账号无权登录,无法获得验证码！');
+                        return;
+                    }
+                });
+                sec = 59;
+                $that.html(sec);
+                $(this).addClass('disabled');
+                intervalId = setInterval(function () {
+                    counting = true;
+                    $that.html(sec);
+                    sec -= 1;
+                    if (sec < 0) {
+                        $that.removeClass('disabled');
+                        counting = false;
+                        $that.html('点击发送');
+                    }
+                }, 1000);
+            })
+
+            $('.send-message').click(function () {
+                var user_name = $($(this).parents("form").find(".phone-input")[0]).val()
+                var auth_type = "auth_sms"
+
+                var $that = $(this);
+                if ($(this).hasClass('disabled')) {
+                    return;
+                }
+                window.clearInterval(intervalId);
+                $.post('/send-sms/', {username: user_name, auth_type: auth_type, double_check: "send"}, function (res) {
+                    if (res == 'False') {
+                        layer.msg('无法获得验证码！');
+                    }
+                });
+                sec = 59;
+                $that.html(sec);
+                $(this).addClass('disabled');
+                intervalId = setInterval(function () {
+                    counting = true;
+                    $that.html(sec);
+                    sec -= 1;
+                    if (sec < 0) {
+                        $that.removeClass('disabled');
+                        counting = false;
+                        $that.html('获取验证码');
+                    }
+                }, 1000);
+            })
+
+            $('#submit_second_login').click(function () {
+                var data = $("#second_login_form").serialize();
+                $.ajax({
+                    url: "/do-second-login",
+                    data: data,
+                    dataType: 'json',
+                    type: 'POST',
+                    success: function (res) {
+                        if (res.success) {
+                            layer.msg("登录成功！");
+                            setTimeout(function () {
+                                window.location.href = res.data;
+                            }, 1000);
+                        } else {
+                            layer.msg(res.data);
+                        }
+                    }
+                })
+            });
+
+            $('#submit_confirm_login').click(function () {
+                var data = $("#confirm_login_form").serialize();
+                $.ajax({
+                    url: "/do-confirm-login",
+                    data: data,
+                    dataType: 'json',
+                    type: 'POST',
+                    success: function (res) {
+                        if (res.success) {
+                            layer.msg("登录成功！");
+                            setTimeout(function () {
+                                window.location.href = res.data
+                            }, 1000);
+                        } else {
+                            layer.msg(res.data);
+                        }
+                    }
+                })
+            });
+
+
+            var tab_name = 'local'
+            if (tab_name == 'auth_sms') {
+                delayClick("auth_sms")
+            } else if (tab_name == 'auth_wx_sms') {
+                delayClick("auth_wx_sms")
+            } else {
+                delayClick("local")
+            }
+
+            function delayClick(idName) {
+                setTimeout(
+                        function () {
+                            $("#" + idName + "").click()
+                        },
+                        100
+                )
+            }
+
+            $("#nav div").off("click").on("click", function () {
+                var index = $(this).index();
+                $(this).addClass("on").siblings().removeClass("on");
+                if ($(this).data('type') == 'local') {
+                    $('.password-field').show();
+                    $('.sms-field').hide();
+                    $('.el-button-login').show();
+                    $('input[name=auth_type]').val('local');
+                    $('#user_name').parent().removeClass('phone-input');
+                    $('#user_name').parent().removeClass('user-input');
+                    $('#user_name').parent().addClass('user-input');
+                    $('#user_name').attr('placeholder', "用户名");
+                    $('.user-input').show();
+                    $('.remember-field').show();
+                    $('.wechat-qrcode').hide();
+                } else if ($(this).data('type') == 'auth_sms') {
+                    $('.password-field').hide();
+                    $('.sms-field').show();
+                    $('.el-button-login').show();
+                    $('.sms-wx-field').hide();
+                    $('input[name=auth_type]').val('auth_sms');
+                    $('#user_name').parent().removeClass('user-input');
+                    $('#user_name').parent().addClass('phone-input');
+                    $('#user_name').attr('placeholder', "手机号");
+                    $('.phone-input').show();
+                    $('.remember-field').hide();
+                    $('.wechat-qrcode').hide();
+                } else if ($(this).data('type') == 'auth_web_wechat') {
+                    
+                } else {
+                    $('.sms-field').show();
+                    $('.sms-wx-field').show();
+                    $('.password-field').hide();
+                    $('input[name=auth_type]').val('auth_wx_sms');
+                    $('#user_name').parent().removeClass('user-input');
+                    $('#user_name').parent().addClass('phone-input');
+                    $('#user_name').attr('placeholder', "手机号");
+                    $('.phone-input').show();
+                    $('.el-button-login').show();
+                    $('.remember-field').hide();
+                    $('.wechat-qrcode').hide();
+                }
+            });
+
+            $('#help_mark').hover(function () {
+                var display_width = getWidth() / 2 + 50;
+                var display_height = getHeight() / 2;
+                if (display_width <= 416) {
+                    var offset = 'auto';
+                } else {
+                    var offset = [display_height + 'px', display_width + 'px'];
+                }
+                layer.open({
+                    type: 1,
+                    shade: 0,
+                    title: false,
+                    shadeClose: true,
+                    closeBtn: 0,
+                    offset: offset,
+                    area: ['320px'],
+                    content: $('#wechat_tip')
+                });
+
+            }, function () {
+                layer.closeAll();
+            });
+
+        });
+
+        
+        function getWidth() {
+            if (window.innerWidth) {
+                winWidth = window.innerWidth;
+            } else if ((document.body) && (document.body.clientWidth)) {
+                winWidth = document.body.clientWidth;
+            }
+            if (document.documentElement && document.documentElement.clientHeight && document.documentElement.clientWidth) {
+                winWidth = document.documentElement.clientWidth;
+            }
+            return winWidth;
+        }
+
+        
+        function getHeight() {
+            if (window.innerHeight) {
+                winHeight = window.innerHeight;
+            } else if ((document.body) && (document.body.clientHeight)) {
+                winHeight = document.body.clientHeight;
+            }
+            if (document.documentElement && document.documentElement.clientHeight && document.documentElement.clientWidth) {
+                winHeight = document.documentElement.clientHeight;
+            }
+            return winHeight;
+        }
+
+        function browserCheck() {
+            
+
+            var avail_browsers = ['IE11', 'Edge', 'Chrome', 'Firefox', 'Safari', 'Mobile']
+            
+            var isOpera = (!!window.opr && !!opr.addons) || !!window.opera || navigator.userAgent.indexOf(' OPR/') >= 0;
+
+            
+            var isFirefox = typeof InstallTrigger !== 'undefined';
+
+            
+            var isSafari = /constructor/i.test(window.HTMLElement) || (function (p) {
+                return p.toString() === "[object SafariRemoteNotification]";
+            })(!window['safari'] || (typeof safari !== 'undefined' && safari.pushNotification));
+
+            
+            var isIE =  false || !!document.documentMode;
+
+            
+            var isEdge = !isIE && !!window.StyleMedia;
+
+            
+            var isChrome = !!window.chrome && (!!window.chrome.webstore || !!window.chrome.runtime || !!window.chrome.loadTimes);
+
+            isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
+            for (var i in avail_browsers) {
+                switch (avail_browsers[i]) {
+                    case 'IE11':
+                        if (isIE && parseInt(document.documentMode) >= 8) {
+                            return true;
+                        }
+                        break;
+                    case 'Edge':
+                        if (isEdge) {
+                            return true;
+                        }
+                        break;
+                    case 'Chrome':
+                        if (isChrome) {
+                            return true;
+                        }
+                        break;
+                    case 'Firefox':
+                        if (isFirefox) {
+                            return true;
+                        }
+                        break;
+                    case 'Mobile':
+                        if (isMobile) {
+                            return true;
+                        }
+                        break;
+                    case 'Safari':
+                        if (isSafari) {
+                            return true;
+                        }
+                }
+
+            }
+            return false;
+        }
+
+        var isMobile = false;
+
+        var check = browserCheck()
+        if (!check) {
+            alert("您的浏览器无法正常打开WEBVPN界面，请更新您的浏览器")
+        }
+
+    </script>
+    
+
+</body>
+</html>

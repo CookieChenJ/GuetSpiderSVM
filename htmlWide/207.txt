@@ -1,0 +1,274 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>桂林电子科技大学MBA信息管理系统</title>
+<meta name="author" content="MBAChina" />
+                                   
+ <link type="text/css" rel="stylesheet" href="/public/css/bootstrap.css">  
+    
+  <link type="text/css" href="/public/default/css/common.css" rel="stylesheet"
+    />    
+<link type="text/css" rel="stylesheet" href="/public/default/css/base.css" />
+<link type="text/css" rel="stylesheet" href="/public/default/css/style.css" /> 
+<link type="text/css" rel="stylesheet" href="/public/default/css/art_style.css">  
+                                 
+ <link type="text/css" rel="stylesheet" href="/public/default/css/css.css" />
+     
+
+<link type="text/css" rel="stylesheet" href="/public/default/css/input.css" />
+<link type="text/css" rel="stylesheet" href="/public/default/css/oa.css">
+
+<script src="/public/default/js/jquery.min.js"></script>
+<script src="/public/js/plugins/form/jquery.form.min.js"></script>  
+<script src="/resource/js/lyc.js"></script>    
+<link rel="shortcut icon" href="/public/favicon.ico" type="image/x-icon" /> 
+</head>
+<script type="text/javascript">             
+   var HINDEX = '';                                     
+</script>
+<body>
+    <div id="header">
+        <div class="header_in clear">
+            <div  style="float:left;">  
+            <h1><img alt="桂林电子科技大学MBA教育中心" style="height:50px"  src="/public/default/images/logo.jpg" /></h1>
+            <span>MBA信息管理系统</span>  
+            </div>
+          <div  style="float:right;color:#fff">
+           <a style="line-height:50px" href="https://www.guet.edu.cn/mba/" target="_blank">桂林电子科技大学MBA教育中心</a> | 
+           <a style="line-height:50px" href="http://www.guet.edu.cn/" target="_blank">桂林电子科技大学</a>
+          </div>
+        </div>
+      
+    </div><style type="text/css">
+	h1{font-size:18px;font-weight:bold;text-align:center;}
+	.m-b-10{margin-bottom: 5px;}
+	input{outline: none;}
+	input[type=button]{
+		padding: 5px 10px;
+		background: #0068b7;
+		color: #FFFFFF;
+		border-radius: 4px;
+		outline: none;
+		margin-right: 15px;
+	}
+	.qx{
+		padding: 5px 10px;
+		background: #e1e1e1;
+		border-radius: 4px;
+		outline: none;
+	}
+	.btns{
+		margin-top: 50px;
+		padding: 20px 0 50px;
+		border-top: 1px solid #CCCCCC;
+	}
+	textarea{
+		width: 400px;
+		height: 100px;
+		padding: 10px;
+	}
+	.warning{
+		color:#F00;
+		font-weight:bold;
+	}
+</style>
+
+<body>
+
+
+	
+<div id="nav_content" class="clear">
+		
+			<div class="table_list">
+				<div class="tonglist_h" style="height: auto;padding-bottom: 0;">
+					<h1>MBA教室共享申请</h1>
+					<p>为提高使用率，勤正楼516室面向全校开放。如有使用冲突，优先满足MBA教学使用。在每年4月15日-5月15日、9月15日-10月15日（时间可能会调整，以当年教学计划安排为准）期间拒绝所有使用申请。<br/>
+					其他教室由于MBA全日制（脱产）班培养需要，已安排MBA教学任务，不对外开放。</p>
+				</div>				
+				<br/><br/>
+				<table class="table table-bordered table-hover">
+					<thead>
+					<tr>
+						<th>名称</th>
+						<th>地址</th>
+						<th>座位数</th>
+						<th>投影</th>
+						<th>空调</th>
+						<th>网络</th>
+					</tr>
+					</thead>
+					<tbody>						
+											<tr >
+							<td>10516</td>
+							<td>金鸡岭校区勤正楼516室</td>
+							<td>100</td>
+							<td>有</td>
+							<td>有</td>
+							<td>无线</td>
+						</tr>
+										</tbody>
+				</table>
+				<div class="tonglist_h" style="height: auto;padding-bottom: 0;">
+					<p>近期申请情况：</p>					
+				</div>				
+				<table class="table table-bordered table-hover">
+					<thead>
+						<tr style="background-color: rgb(230, 230, 230);">            
+							<th>名称</th>
+							<th>申请人</th>
+							<th>申请单位</th>
+							<th>使用日期</th>
+							<th>使用时间</th>
+							<th>审批情况</th>
+							<th>审批备注</th>
+						</tr>
+					</thead>
+					<tbody>									
+											<tr><td colspan="7"><span style="font-size: 20px;color: red;">暂无申请记录</span></td></tr>
+										</tbody>
+				</table>										
+				<p>说明：<br />
+				1.教室资源优先满足MBA教育使用，MBA教育中心使用期间不开放；校内单位间如有时间冲突，请自行协调，中心不负责协调事务；<br />
+				2.教室资源仅限校内使用，按照学校规定收取相应费用；审批通过后请到财务处办理转账手续，持凭条到MBA教育中心办理使用手续；<br />
+				3.教室使用按照“谁申请谁负责”的原则进行管理，如发生设备损坏或其他问题，由申请人负责赔偿处理；<br />
+				4.禁止在室内张贴横幅、宣传画等；未经允许不得随意更改室内设备状况，使用完后必须回复原状；务必保持室内外清洁，使用后完成清洁工作；<br />
+				5.除教室必要设施维护外，MBA教育中心不提供其他诸如会务等相关服务，请使用单位自行安排解决；<br />
+				6.申请人必须是校内在岗教职工，除MBA外学生申请一概拒绝；<br />
+				7.申请后请与MBA教育中心办公室联系确认，办理相关手续，联系电话：0773-2190801，联系人：古老师。<br/><br/>MBA教育中心办公室地址：金鸡岭校区勤正楼（10教）506室。<br />
+				</p>
+				<p style="margin: 10px 0;">请填写以下申请内容：</p>
+				<form action="" method="POST" id="applyclass">
+					<p class="m-b-10">教室名称</p>
+					<select name="cid" id="classname" >
+                        <option value="">请选择教室</option>
+														<option value="1">10516【金鸡岭校区勤正楼516室】</option>
+												</select>
+					<span style="color: red;display: none">*请选择教室</span>
+					<p class="m-b-10">申请人姓名</p>
+					<input type="text" name="user" id="user"
+						   value="">
+					<span style="color: red;display: none">*请填写申请人</span>
+					<p>所在单位/班级</p>
+					<input type="text" name="department" id="department" value="">
+					<span style="color: red;display: none">*请填写所在单位/班级</span>
+					<p class="m-b-10">联系电话</p>
+					<input type="text" name="tel" id="tel"
+						   value="">
+					<span style="color: red;display: none">*请填写联系电话</span>
+					<p class="m-b-10">使用日期</p>
+					<script src="/public/js/plugins/97date/WdatePicker.js"></script>
+					<input type="text" name="date" id="date" onclick="WdatePicker({minDate:new Date()})" value="2020-04-22"
+						   placeholder="年-月-日">
+					<span style="color: red;display: none">*请选择日期</span>
+					<p class="m-b-10">使用时间</p>
+					<select name="time" id="time">
+						<option value="">请选择时间</option>
+						<option value=1>上午(8:00-12:00)</option><option value=2>下午(14:30-18:00)</option><option value=3>晚上(19:00-21:00)</option><option value=4>全天</option>					</select>
+					<span style="color: red;display: none">*请选择使用时间</span>
+					<p class="m-b-10">教室使用内容</p>
+					<textarea class="ke-edit-textarea" name="other" id="other" hidefocus="true" style="width: 401px;height: 177px;"></textarea><br/>
+					  <span style="color: red;">*请填写教室使用内容，如有其他要求请一并填写。</span>
+                    <div class="btns">
+						<input type="button" onclick="submit_form()" value="保存提交" style="float: left;margin-right: 20px">
+						<input type="button"  value="取消" onclick="clear_input()" style="background:#3f4954;float: left;">
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>
+﻿<div id="footer">
+    <div class="footer_in clear">
+        <div class="address fl">
+                建议您使用谷歌、火狐、IE10以上浏览器或包含Chrome内核的双核浏览器访问本站。请勿使用手机浏览器访问。<br/>
+ 	            联系信息：【教务管理】0773-2190801 蒋老师 | 【学位管理】0773-2190801 刘老师 | 【学生工作】0773-2239024 古老师<br />CopyRight 2016-2020 © 桂林电子科技大学MBA教育中心 版权所有 | 技术支持：<a style="color:#535353" target="_blank" href="http://www.mbachina.com">MBAChina</a><br/>
+        </div>
+    </div>
+</div>                                        
+
+
+<script src="/public/js/plugins/layer/layer.min.js"></script>
+                                                                              
+<script src="/resource/js/artdialog/jquery.artDialog.js?skin=icons"></script>
+<script src="/resource/js/artdialog/iframeTools.js"></script>
+
+<script src="/public/default/js/my_artDialog.js"></script></body></html>
+<script type="text/javascript">
+	function clear_input(){
+		$("input[type!=button]").each(function(){
+			$(this).val('').focus();
+		})
+		$("select").each(function(){
+			$(this).val('').focus();
+		})
+	}
+	function submit_form(){
+		state = true;
+		if($('#classname').val()==''){
+			$('#classname').next().show();
+			location.href='#classname';
+			state = false;
+			return false;
+		}
+		if($('#user').val()==''){
+			$('#user').next().show();
+			location.href='#user';
+			state = false;
+			return false;
+		}
+		if($('#department').val()==''){
+			$('#department').next().show();
+			location.href='#department';
+			state = false;
+			return false;
+		}
+		if($('#tel').val()==''){
+			$('#tel').next().show();
+			location.href='#tel';
+			state = false;
+			return false;
+		}
+		if($('#date').val()==''){
+			$('#date').next().show();
+			location.href='#date';
+			state = false;
+			return false;
+		}
+		if($('#time').val()==''){
+			$('#time').next().show();
+			location.href='#time';
+			state = false;
+			return false;
+		}  
+        
+        if($('#other').val()==''){
+            $('#other').next().show();
+            location.href='#other';
+            state = false;
+            return false;
+        }                    
+		if(state == false){
+			art.artDialog.tips('请核对相关信息');
+			return false;
+		}else {
+			var formData = new FormData($("#applyclass")[0]);
+			$.ajax({
+				type: 'POST',
+				data: formData,
+				async: false,
+				cache: false,
+				dataType: 'json',
+				contentType: false,
+				processData: false,
+				success: function (msg) {
+					if (msg.state == 1) {
+						Art.Location(msg.info,'/index/applyclasslist')
+					}
+					else {
+						Art.Remark(msg.info,2,'error');
+					}
+				}
+			});
+		}
+	}
+</script>

@@ -1,0 +1,1846 @@
+<html><head><title>公告公示-就业网</title><META Name="keywords" Content="就业网" />
+
+
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta content="ie=edge" http-equiv="X-UA-Compatible"><!-- <link rel="stylesheet" type="text/css" href="/public/simpleboot/themes/bluesky/theme.min.css"/> --><link rel="stylesheet" type="text/css" href="css/common.css"><script src="js/jquery.min.js"></script>
+
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="/jy/jyzc.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1105,'/jyzc.jsp',-1,1445875082)</script>
+</head>
+<body ><header>
+<div class="center">
+<div class="top">欢迎访问桂林电子科技大学毕业生就业网！ </div></div>
+<div class="header"><img src="images/nav_bg.png"> 
+<div class="center">
+<h1 class="logo">
+<!-- 网站logo图片地址请在本组件"内容配置-网站logo"处填写 -->
+<a href="" title="就业网"><img src="images/index/registerlogo.png" width="320" height="240"   border="0" alt="就业网" title="就业网" ></a></h1>
+
+
+<div id="search"><script type="text/javascript">
+    function _nl_ys_check(){
+        
+        var keyword = document.getElementById('showkeycode165826').value;
+        if(keyword==null||keyword==""){
+            alert("请输入你要检索的内容！");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkeyword165826").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkeyword165826").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkeyword165826").value = base64.encode(document.getElementById("lucenenewssearchkeyword165826").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode165826"));
+        return true;
+    } 
+</script>
+<form action="search.jsp?wbtreeid=1105" method="post" id="au1a" name="au1a" onsubmit="return _nl_ys_check()" style="display: inline">
+ <input type="hidden" id="lucenenewssearchkeyword165826"  name="lucenenewssearchkeyword" value=""><input type="hidden" id="_lucenesearchtype165826"  name="_lucenesearchtype" value="1"><input type="hidden" id="searchScope165826"  name="searchScope" value="0">
+<input name='showkeycode' id="showkeycode165826" class="search" >
+ <input type="submit" align="absmiddle" class="button" value="搜索" style="cursor: hand">
+
+</form><script language="javascript" src="/system/resource/js/base64.js"></script><script language="javascript" src="/system/resource/js/formfunc.js"></script></div></div><nav class="link">
+
+
+<div class="center">						<ul>
+													<li class=""><a href="index.htm">首页</a></li>
+							<li class=""><a href="zhaopin.jsp?urltype=tree.TreeTempUrl&wbtreeid=1003">招聘信息</a></li>
+							<li class=""><a href="zyjs.htm">专业介绍</a></li>
+							<li class=""><a href="bys.jsp?urltype=tree.TreeTempUrl&wbtreeid=1095">用人单位服务指南</a></li>
+							<li class=""><a href="bys.jsp?urltype=tree.TreeTempUrl&wbtreeid=1006">毕业生资源介绍</a></li>
+							<li class=""><a href="jyzc.jsp?urltype=tree.TreeTempUrl&wbtreeid=1005">就业政策</a></li>
+							<li class=""><a href="jyzd.jsp?urltype=tree.TreeTempUrl&wbtreeid=1004">就业指导</a></li>
+							<li class=""><a href="zlxz.jsp?urltype=tree.TreeTempUrl&wbtreeid=1008">表格下载</a></li>
+							<li class=""><a href="jyzd.jsp?urltype=tree.TreeTempUrl&wbtreeid=1104">新闻中心</a></li>
+							<li class=""><a href="jyzc.jsp?urltype=tree.TreeTempUrl&wbtreeid=1105">公告公示</a></li>
+						</ul>	</div></nav></div></header><link rel="stylesheet" type="text/css" href="css/index.css"><link rel="stylesheet" type="text/css" href="css/common.css"><section>
+
+
+<div class="center"><div class="position">
+	当前位置:
+					<a href="index.htm">首页</a>                -
+			<a href="jyzc.jsp?urltype=tree.TreeTempUrl&wbtreeid=1105">公告公示</a></div><script language="javascript" src="/system/resource/js/dynclicks.js"></script><div class="jiuye">
+    <ul>
+        <li>标题</li>
+        <li>浏览量</li>
+        <li>发布时间</li>
+    </ul>
+    <ol>
+                <li>
+            <a href="info/1015/12161.htm">
+                <span>广西西部计划志愿者招募500人，每年补贴3.5万元</span>
+                <span></span>
+                <span><a></a><span id="dynclicks_u4_12161" name="dynclicks_u4_12161"></span></span>
+                <span>2020-04-15</span>   
+            </a>
+        </li>
+        <li>
+            <a href="info/1015/12145.htm">
+                <span>关于举办桂林电子科技大学2020届毕业生“文科综合类”线上双选…</span>
+                <span></span>
+                <span><a></a><span id="dynclicks_u4_12145" name="dynclicks_u4_12145"></span></span>
+                <span>2020-04-13</span>   
+            </a>
+        </li>
+        <li>
+            <a href="info/1015/12144.htm">
+                <span>桂林电子科技大学2020届毕业生“文科综合类”线上双选会邀请函</span>
+                <span></span>
+                <span><a></a><span id="dynclicks_u4_12144" name="dynclicks_u4_12144"></span></span>
+                <span>2020-04-13</span>   
+            </a>
+        </li>
+        <li>
+            <a href="info/1015/12143.htm">
+                <span>2020年桂林人社进校园暨桂林电子科技大学网络专场招聘会邀请函</span>
+                <span></span>
+                <span><a></a><span id="dynclicks_u4_12143" name="dynclicks_u4_12143"></span></span>
+                <span>2020-04-13</span>   
+            </a>
+        </li>
+        <li>
+            <a href="info/1015/12138.htm">
+                <span>招募季丨重磅！西部计划报名通道已开启！ </span>
+                <span></span>
+                <span><a></a><span id="dynclicks_u4_12138" name="dynclicks_u4_12138"></span></span>
+                <span>2020-04-13</span>   
+            </a>
+        </li>
+        <li>
+            <a href="info/1015/12105.htm">
+                <span>“千校万岗·就业有位来”广西专场（桂林站）</span>
+                <span></span>
+                <span><a></a><span id="dynclicks_u4_12105" name="dynclicks_u4_12105"></span></span>
+                <span>2020-04-07</span>   
+            </a>
+        </li>
+        <li>
+            <a href="info/1015/12179.htm">
+                <span>桂林电子科技大学“文科综合类”双选会参会企业名单</span>
+                <span></span>
+                <span><a></a><span id="dynclicks_u4_12179" name="dynclicks_u4_12179"></span></span>
+                <span>2020-04-19</span>   
+            </a>
+        </li>
+        <li>
+            <a href="info/1015/12159.htm">
+                <span>关于梨树霖等人换发协议书公示</span>
+                <span></span>
+                <span><a></a><span id="dynclicks_u4_12159" name="dynclicks_u4_12159"></span></span>
+                <span>2020-04-15</span>   
+            </a>
+        </li>
+        <li>
+            <a href="info/1015/12073.htm">
+                <span>桂林电子科技大学2020届毕业生春季第二场双选会企业名单</span>
+                <span></span>
+                <span><a></a><span id="dynclicks_u4_12073" name="dynclicks_u4_12073"></span></span>
+                <span>2020-03-30</span>   
+            </a>
+        </li>
+        <li>
+            <a href="info/1015/12054.htm">
+                <span>教育部24365校园招聘服务 就业创业公益直播课程（第二期）课程…</span>
+                <span></span>
+                <span><a></a><span id="dynclicks_u4_12054" name="dynclicks_u4_12054"></span></span>
+                <span>2020-03-27</span>   
+            </a>
+        </li>
+        <li>
+            <a href="info/1015/12053.htm">
+                <span>广西全面启动2020届高校毕业生线上招聘季活动</span>
+                <span></span>
+                <span><a></a><span id="dynclicks_u4_12053" name="dynclicks_u4_12053"></span></span>
+                <span>2020-03-27</span>   
+            </a>
+        </li>
+        <li>
+            <a href="info/1015/12050.htm">
+                <span>盘敏容换发就业协议书公示</span>
+                <span></span>
+                <span><a></a><span id="dynclicks_u4_12050" name="dynclicks_u4_12050"></span></span>
+                <span>2020-03-25</span>   
+            </a>
+        </li>
+        <li>
+            <a href="info/1015/12032.htm">
+                <span>关于举办桂林电子科技大学2020届毕业生春季第二场线上双选会的…</span>
+                <span></span>
+                <span><a></a><span id="dynclicks_u4_12032" name="dynclicks_u4_12032"></span></span>
+                <span>2020-03-23</span>   
+            </a>
+        </li>
+        <li>
+            <a href="info/1015/12033.htm">
+                <span>桂林电子科技大学2020届毕业生春季第二场场线上双选会邀请函</span>
+                <span></span>
+                <span><a></a><span id="dynclicks_u4_12033" name="dynclicks_u4_12033"></span></span>
+                <span>2020-03-23</span>   
+            </a>
+        </li>
+        <li>
+            <a href="info/1015/11974.htm">
+                <span>桂林电子科技大学2020届毕业生春季线上双选会参会企业名单</span>
+                <span></span>
+                <span><a></a><span id="dynclicks_u4_11974" name="dynclicks_u4_11974"></span></span>
+                <span>2020-03-18</span>   
+            </a>
+        </li>
+        <li>
+            <a href="info/1015/11963.htm">
+                <span>关于举办桂林电子科技大学2020届毕业生春季线上双选会的通知</span>
+                <span></span>
+                <span><a></a><span id="dynclicks_u4_11963" name="dynclicks_u4_11963"></span></span>
+                <span>2020-03-16</span>   
+            </a>
+        </li>
+        <li>
+            <a href="info/1015/11943.htm">
+                <span>桂林电子科技大学2020届毕业生春季首场线上双选会邀请函</span>
+                <span></span>
+                <span><a></a><span id="dynclicks_u4_11943" name="dynclicks_u4_11943"></span></span>
+                <span>2020-03-11</span>   
+            </a>
+        </li>
+        <li>
+            <a href="info/1015/11886.htm">
+                <span>教育部启动“24365校园联合招聘服务” 助力高校毕业生网上求职</span>
+                <span></span>
+                <span><a></a><span id="dynclicks_u4_11886" name="dynclicks_u4_11886"></span></span>
+                <span>2020-03-02</span>   
+            </a>
+        </li>
+        <li>
+            <a href="info/1015/11815.htm">
+                <span>桂林电子科技大学关于做好新型冠状病毒疫情防控期间毕业生就业…</span>
+                <span></span>
+                <span><a></a><span id="dynclicks_u4_11815" name="dynclicks_u4_11815"></span></span>
+                <span>2020-02-21</span>   
+            </a>
+        </li>
+        <li>
+            <a href="info/1015/11801.htm">
+                <span>桂林电子科技大学关于疫情防控期间校园招聘活动调整的通知</span>
+                <span></span>
+                <span><a></a><span id="dynclicks_u4_11801" name="dynclicks_u4_11801"></span></span>
+                <span>2020-02-20</span>   
+            </a>
+        </li>
+    </ol>
+    <div class="paging"><INPUT TYPE=hidden NAME=a165696actiontype id=a165696actiontype  VALUE=""><input type=hidden name=a165696o value="desc"><input type=hidden name=a165696k value="wbtop">
+<style type="text/css">
+.headStyle1kkjvea81f, .headStyle1kkjvea81f td, .headStyle1kkjvea81f div {font-size: 12px;font-family:宋体; color: #000000; margin-left: auto; margin-right: auto; line-height:14px;}
+.defaultButtonStyle {font-size: 12px;font-family:宋体; height:20px;color: #000000;BORDER: #AFD5F5 1px solid; margin: 0px;padding: 0px; FILTER:progid:DXImageTransform.Microsoft.Gradient(GradientType=0,StartColorStr=#ffffff, EndColorStr=#BDDBF7);  CURSOR: pointer; line-height:14px;background:-webkit-gradient(linear, 0 0, 0 100%, from(#ffffff), to(#BDDBF7));background: -moz-linear-gradient( top,#ffffff,#BDDBF7);background:-ms-linear-gradient(top,#ffffff 0%,#bddbf7 100%)}
+.defaultinputStyle {font-size: 12px;font-family:宋体; height:20px; border:1px solid #AFD5F5; line-height:14px;}
+.colHeader {font-size: 12px;font-family:宋体; line-height:14px;}
+.headStyle1kkjvea81f a, .pageList .this-page {font-size: 12px;font-family:宋体; display:inline-block; height:14px; padding: 2px 4px; border: solid 1px #AFD5F5; background: #fff; text-decoration: none; MARGIN-RIGHT: 1px;line-height:14px;}
+.headStyle1kkjvea81f a:visited {font-size: 12px;font-family:宋体; color: #000000; text-decoration: none; line-height:14px;}
+.headStyle1kkjvea81f .PrevDisabled {font-size: 12px;font-family:宋体; display:inline-block;height:14px;  margin-right: 3px; padding: 2px 4px; background: #fff;color:#ccc;border: solid 1px #AFD5F5; line-height:14px;}
+.headStyle1kkjvea81f .SelectList {font-size: 12px;font-family:宋体;line-height:14px;}
+.headStyle1kkjvea81f .Prev { font-size: 12px;font-family:宋体; margin-right: 3px; padding: 2px 4px;line-height:14px;}
+.headStyle1kkjvea81f .break {font-size: 12px;font-family:宋体; border: none; text-decoration: none; line-height:14px;}
+.headStyle1kkjvea81f .NextDisabled { font-size: 12px;font-family:宋体;display:inline-block; height:14px; margin-left: 2px; padding: 2px 4px;background: #fff;color:#ccc;border: solid 1px #AFD5F5; line-height:14px; }
+.headStyle1kkjvea81f .Next { font-size: 12px;font-family:宋体; margin-left: 2px; padding: 2px 4px;line-height:14px;}
+.headStyle1kkjvea81f .this-page {font-size: 12px;font-family:宋体;display:inline-block;height:14px;padding: 2px 4px; border: solid 1px #AFD5F5; background: #E1F0FD; font-weight: bold; color:black; MARGIN-RIGHT: 1px;line-height:14px;}
+.headStyle1kkjvea81f a:hover {font-size: 12px;font-family:宋体;color: black; background: #EFF7FE; border-color: #AFD5F5; text-decoration: none;line-height:14px;}
+.headStyle1kkjvea81f a:link {font-size: 12px;font-family:宋体;color: #000000; text-decoration: none;line-height:14px;}
+.headStyle1kkjvea81f a:active { font-size: 12px;font-family:宋体;color: black; text-decoration: none; background: #EFF7FE; line-height:14px;}
+</style><table cellspacing=0 cellpadding=0 border=0><TR><td colspan=0><table cellspacing=0 class=headStyle1kkjvea81f width="100%" cellpadding=1><tr valign=middle><TD nowrap align=left width=1% >共143条&nbsp;<input type=hidden name=a165696fc value="20">&nbsp;1/8&nbsp;</td><td nowrap align=left><div><span class=PrevDisabled>上页</span><span class=this-page>1</span><a href="?a165696t=8&a165696p=2&a165696c=20&urltype=tree.TreeTempUrl&wbtreeid=1105">2</a><a href="?a165696t=8&a165696p=3&a165696c=20&urltype=tree.TreeTempUrl&wbtreeid=1105">3</a><a href="?a165696t=8&a165696p=4&a165696c=20&urltype=tree.TreeTempUrl&wbtreeid=1105">4</a><a href="?a165696t=8&a165696p=5&a165696c=20&urltype=tree.TreeTempUrl&wbtreeid=1105">5</a><a href="?a165696t=8&a165696p=6&a165696c=20&urltype=tree.TreeTempUrl&wbtreeid=1105">6</a><span class=break>..</span><a href="?a165696t=8&a165696p=8&a165696c=20&urltype=tree.TreeTempUrl&wbtreeid=1105">8</a><a href="?a165696t=8&a165696p=2&a165696c=20&urltype=tree.TreeTempUrl&wbtreeid=1105" class="Next">下页</a></div></td><TD nowrap align=right></td></tr></table></td></tr></table></div>
+</div><script>_showDynClickBatch(['dynclicks_u4_12161','dynclicks_u4_12145','dynclicks_u4_12144','dynclicks_u4_12143','dynclicks_u4_12138','dynclicks_u4_12105','dynclicks_u4_12179','dynclicks_u4_12159','dynclicks_u4_12073','dynclicks_u4_12054','dynclicks_u4_12053','dynclicks_u4_12050','dynclicks_u4_12032','dynclicks_u4_12033','dynclicks_u4_11974','dynclicks_u4_11963','dynclicks_u4_11943','dynclicks_u4_11886','dynclicks_u4_11815','dynclicks_u4_11801'],[12161,12145,12144,12143,12138,12105,12179,12159,12073,12054,12053,12050,12032,12033,11974,11963,11943,11886,11815,11801],"wbnews", 1445875082)</script>
+
+
+
+<div class="jiuye-right">
+<div class="tel"><p><span>办公时间：</span></p>
+    <p>上午8:30-12:00  下午14:00-17:30（节假日除外）</p>
+    <p><span>办公电话：</span></p>
+    <p>就业指导服务中心 0773-2319102  <br> 邓老师 0773-2305923 </p>
+    <p>张老师 0773-2316183 <br>路老师 0773-230592 </p>
+    <p><span>邮编：</span>541004</p>
+    <p><span>邮箱：</span>jiuye@guet.edu.cn</p>
+    <p><span>地址：</span>桂林电子科技大学(花江校区)红亮学生活动中心</p></div><!-- <div class="relevant-articles">
+						<div class="title">文章推荐</div>
+						<ul>
+													</ul>
+					</div> --></div></div></section>
+<div class="clear"></div><footer>
+<div class="center">
+<div id="code"><img src="images/index/erwei.png"> </div>
+<div id="center">
+<ul>
+<li>友情链接: <script language="javascript" src="/system/resource/js/dynclicks.js"></script><script language="javascript" src="/system/resource/js/openlink.js"></script></li></ul>
+<div class="clear"></div><!-- 版权内容请在本组件"内容配置-版权"处填写 -->
+<p>::Copyright©2013 桂林电子科技大学大学生就业指导服务中心 All Right Reserved</p><p>地址：桂林电子科技大学花江校区大学生活动中心 电话:0773-2319102 传真:0773-2319102 邮编:541004</p><p>疑问及反馈请发E-mail:jiuye@guet.edu.cn</p></div></div></footer>
+
+</body></html>
+<!DOCTYPE html><html><head><title>国际合作与交流处 、国际学院</title><META Name="keywords" Content="国际合作与交流处 、国际学院,首页" />
+
+
+
+
+
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type"><link rel="stylesheet" type="text/css" href="dfiles/31365/css/gjxy_public.css"><link rel="stylesheet" type="text/css" href="dfiles/31365/css/gjxy_index.css"><link rel="stylesheet" type="text/css" href="dfiles/31365/css/zzsc.css"><script type="text/javascript" src="dfiles/31365/js/jquery.pack.js"></script><script type="text/javascript" src="dfiles/31365/js/jquery.superslide.js"></script><script type="text/javascript" src="dfiles/31365/js/jquery1.42.min.js"></script><script type="text/javascript" src="dfiles/31365/js/jquery.superslide.2.1.js"></script><script type="text/javascript" src="dfiles/31365/js/jquery.tools.min.js"></script>
+<style>
+.tj a{ color:red;}
+#left_c ul li #channel3789{color:#FF8C00; text-decoration: underline;}
+</style>
+
+<style>
+.tj a{ color:red;}
+</style>
+<!--<base href="#/">--><script>var $pageInfo = {publishmentSystemID : 1, channelID : 1, contentID : 0, siteUrl : "", homeUrl : "/home", currentUrl : "/", rootUrl : "", apiUrl : "/api"};</script>
+
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="index.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/vsbscreen.min.js" id="_vsbscreen" devices="pc|mobile|pad"></script>
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1011,'/index.jsp',-1,1411856311)</script>
+</head>
+<body>
+<div id="header" style="margin-bottom: 25px">
+<div id="top"><span>您可以选择网站语言版本：<a href="http://172.16.64.138:7070">English</a> | <a href="#">Chinese</a></span> </div>
+<div id="flash"><img src="dfiles/31365/images/top.jpg" width="1003" height="142"></div>
+<div class="sou">
+<div id="inav_sou"><!--#begineditable name="简单检索" viewid="167160" tagname="简单检索" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""-->
+
+
+
+
+
+<form action="seach.jsp?wbtreeid=1011" method="post" name="a167160a" onsubmit="return subsearchdataa167160a()" style="display: inline;">
+  <input type="hidden" name="Find" value="find"><input type="hidden" name="entrymode" value="1"><input type="hidden" id="INTEXT2" name="INTEXT2" value=""><input type="hidden" name="news_search_code">
+ <table border="0" cellspacing="1" cellpadding="0">
+      <tr>
+           <td Valign="middle" nowrap="nowrap" height="30">
+                 <span style="font-size:9pt;">站内搜索：</span>
+                  <input type="hidden" name="condition" value="0">   </td>
+                <td>
+                <span id="intextspana167160a"></span>
+                <!--<iframe id="intextframea167160a"   src="about:blank"   scrolling="no" frameborder="0" style="position:absolute;top:0px;left:0px;display:none;"></iframe>-->
+                <input size="10" name="INTEXT" style="height:30px">
+           </td>
+           <td align="absmiddle" nowrap="nowrap" height="1">
+                    <input type="image" src="images/sou.png" align="absmiddle" valign="bottom" style="cursor: hand">
+
+           </td>
+      </tr>
+ </table>
+</form>
+<script>
+String.prototype.trim= function()       
+{              
+    var t = this.replace(/(^\s*)|(\s*$)/g, "");     
+    return t.replace(/(^　*)|(　*$)/g, "");     
+}  
+function subsearchdataa167160a()
+{ 
+    if(document.a167160a.INTEXT.value.trim()=="")
+    {
+        alert("请输入查询关键字！");
+        return false;
+    }
+    if(checkDataa167160a(document.a167160a))
+    {
+       return true;  
+    }
+    return false;
+}       
+</script>
+
+    <script> 
+    function checkDataa167160a(formname)
+    {
+        if(a167160a.INTEXT.value.trim()=="")
+        {
+            alert("请输入查询关键字！");
+            return false;
+        }       
+        var  base64 = new Base64();
+        if(window.toFF==1)
+            {
+                var ssvalue = a167160a.INTEXT.value;
+                document.a167160a.INTEXT2.value = base64.encode(Simplized(ssvalue));
+            }else
+            document.a167160a.INTEXT2.value = base64.encode(document.a167160a.INTEXT.value);
+           return true;
+    }
+    </script>
+<script language="javascript" src="/system/resource/js/base64.js"></script> 
+<!--#endeditable--></div></div><!--导航开始--><!--#begineditable name="网站导航" viewid="167051" tagname="网站导航" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><ul id="nav" class="nav clearfix" style="padding-left:2px;">
+        <li class="nLi">
+        <h3>
+           <a href="index.htm" title="首页">     首页</a>
+	     <stl:yes></stl:yes>
+        </h3>
+      </li>
+    
+      <li class="nLi">
+        <h3>
+           <a href="xygk.htm" title="学院概况">     学院概况</a>
+	     <stl:yes></stl:yes>
+        </h3>
+	    
+                <ul class="sub">
+                <li><a a href="xygk/xyjj.htm" title="学院简介">学院简介</a></li>
+                <li><a a href="xygk/jgsz.htm" title="机构设置">机构设置</a></li>
+                <li><a a href="xygk/xrld.htm" title="现任领导">现任领导</a></li>
+                <li><a a href="xygk/wjsz.htm" title="外教师资">外教师资</a></li>
+                </ul>
+      </li>
+    
+      <li class="nLi">
+        <h3>
+           <a href="rcpy.htm" title="人才培养">     人才培养</a>
+	     <stl:yes></stl:yes>
+        </h3>
+	    
+                <ul class="sub">
+                <li><a a href="rcpy/lxszspy.htm" title="留学生招生培养">留学生招生培养</a></li>
+                <li><a a href="rcpy/a2_s_2xmpy.htm" title="2 十 2项目培养">2 十 2项目培养</a></li>
+                </ul>
+      </li>
+    
+      <li class="nLi">
+        <h3>
+           <a href="jxgl.htm" title="教学管理">     教学管理</a>
+	     <stl:yes></stl:yes>
+        </h3>
+	    
+                <ul class="sub">
+                <li><a a href="http://gedu.guet.edu.cn/" title="国际学院教务系统">国际学院教务系统</a></li>
+                <li><a a href="jxgl/jxdt.htm" title="教学动态">教学动态</a></li>
+                <li><a a href="jxgl/jxtz.htm" title="教学通知">教学通知</a></li>
+                <li><a a href="jxgl/xlxwsq.htm" title="学历学位申请">学历学位申请</a></li>
+                </ul>
+      </li>
+    
+      <li class="nLi">
+        <h3>
+           <a href="wsjl.htm" title="外事交流">     外事交流</a>
+	     <stl:yes></stl:yes>
+        </h3>
+	    
+                <ul class="sub">
+                <li><a a href="wsjl/zwhzbx.htm" title="中外合作办学">中外合作办学</a></li>
+                <li><a a href="wsjl/ygcf.htm" title="因公出访">因公出访</a></li>
+                <li><a a href="wsjl/lhsw.htm" title="来华事务">来华事务</a></li>
+                <li><a a href="wsjl/gjhy.htm" title="国际会议">国际会议</a></li>
+                <li><a a href="wsjl/cglx.htm" title="出国留学">出国留学</a></li>
+                <li><a a href="wsjl/zcfg.htm" title="政策法规">政策法规</a></li>
+                <li><a a href="wsjl/bmsp.htm" title="保密审批">保密审批</a></li>
+                </ul>
+      </li>
+    
+      <li class="nLi">
+        <h3>
+           <a href="djgz.htm" title="党建工作">     党建工作</a>
+	     <stl:yes></stl:yes>
+        </h3>
+	    
+                <ul class="sub">
+                <li><a a href="djgz/ztxx.htm" title="专题学习">专题学习</a></li>
+                <li><a a href="djgz/gzzd.htm" title="规章制度">规章制度</a></li>
+                <li><a a href="djgz/lddygl.htm" title="流动党员管理">流动党员管理</a></li>
+                <li><a a href="djgz/llxx.htm" title="理论学习">理论学习</a></li>
+                <li><a a href="djgz/jcdt.htm" title="基层动态">基层动态</a></li>
+                </ul>
+      </li>
+    
+      <li class="nLi">
+        <h3>
+           <a href="xsgz.htm" title="学生工作">     学生工作</a>
+	     <stl:yes></stl:yes>
+        </h3>
+	    
+                <ul class="sub">
+                <li><a a href="xsgz/gzdt.htm" title="工作动态">工作动态</a></li>
+                <li><a a href="xsgz/gzzd.htm" title="规章制度">规章制度</a></li>
+                <li><a a href="xsgz/txgz.htm" title="团学工作">团学工作</a></li>
+                <li><a a href="xsgz/xfjs.htm" title="学风建设">学风建设</a></li>
+                <li><a a href="xsgz/ybdt.htm" title="易班动态">易班动态</a></li>
+                <li><a a href="xsgz/stgl.htm" title="社团管理">社团管理</a></li>
+                <li><a a href="xsgz/jyzd.htm" title="就业指导">就业指导</a></li>
+                <li><a a href="xsgz/zlxz.htm" title="资料下载">资料下载</a></li>
+                </ul>
+      </li>
+    
+      <li class="nLi">
+        <h3>
+           <a href="xyxw.htm" title="学院新闻">     学院新闻</a>
+	     <stl:yes></stl:yes>
+        </h3>
+      </li>
+    
+      <li class="nLi">
+        <h3>
+           <a href="English.htm" title="English">     English</a>
+	     <stl:yes></stl:yes>
+        </h3>
+	    
+                <ul class="sub">
+                <li><a a href="English/Home.htm" title="Home">Home</a></li>
+                <li><a a href="English/About_US.htm" title="About US">About US</a></li>
+                <li><a a href="English/Students_Cultivation.htm" title="Students Cultivation">Students Cultivation</a></li>
+                <li><a a href="English/Scholarship.htm" title="Scholarship">Scholarship</a></li>
+                <li><a a href="English/News___Notice.htm" title="News &amp; Notice">News &amp; Notice</a></li>
+                <li><a a href="English/Laws___Regulations.htm" title="Laws &amp; Regulations">Laws &amp; Regulations</a></li>
+                <li><a a href="English/Download.htm" title="Download">Download</a></li>
+                <li><a a href="English/Contact_us.htm" title="Contact us">Contact us</a></li>
+                </ul>
+      </li>
+    
+</ul><!--#endeditable--><script id="jsID" type="text/javascript">
+            
+            jQuery("#nav").slide({ 
+                type:"menu",// 效果类型，针对菜单/导航而引入的参数（默认slide）
+                titCell:".nLi", //鼠标触发对象
+                targetCell:".sub", //titCell里面包含的要显示/消失的对象
+                effect:"slideDown", //targetCell下拉效果
+                delayTime:300 , //效果时间
+                triggerTime:0, //鼠标延迟触发时间（默认150）
+                returnDefault:true //鼠标移走后返回默认状态，例如默认频道是"预告片"，鼠标移走后会返回"预告片"（默认false）
+            });
+        </script><!--导航结束--></div>
+<div id="contaion">
+<div class="tb"></div>
+<div class="flash">
+<div class="banner">
+<div class="yh fl">
+<div class="scroll b1"><!--#begineditable name="首页幻灯片" viewid="167099" tagname="首页幻灯片" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><style type="text/css">
+ul,li{
+    padding:0;
+    margin:0;
+    list-style:none;}
+#flashBoxu_u2_{
+    width:1000px;
+    height:350px;
+    border:0px solid #EEE;
+    position:relative;
+    margin-left: auto;
+    margin-right: auto;}
+#flashBoxu_u2_ img{
+    /*初始不要显示*/
+    display:none;
+    /*用边框来实现空位，因为margin和paading有时会引起些麻烦*/
+    border:0px solid #FFF;}
+#flashBoxu_u2_ ul{
+    position:absolute;
+    right:7px;
+    bottom:3px;
+    font:9px tahoma;}
+#flashBoxu_u2_ ul li{
+    display:block;
+    float:left;
+    width:12px;
+    height:12px;
+    line-height:12px;
+    margin-right:3px;
+    border:0px solid #999;
+    background:#F0F0F0;
+    text-align:center;
+    cursor:pointer;}
+#flashBoxu_u2_ ul li.hover{
+    border-color:red;
+    background:#FFE1E1;
+    color:red;}
+</style>
+<script type="text/javascript">
+function flashBoxCtrl(o){
+    this.obj=document.getElementById(o);
+    //这个私有方法虽然写了，但暂时没用到
+    function addListener(ele,eventName,functionBody){
+        if (ele.attachEvent){
+            ele.attachEvent("on"+eventName, functionBody);
+        }else if (ele.addEventListener){
+            ele.addEventListener("on"+eventName,functionBody, false);
+        }else{
+            return false;
+        }
+    }
+    //初始化
+    this.init=function(){
+        var objImg=this.obj.getElementsByTagName("img");
+        var tagLength=objImg.length;
+        if (tagLength>0){
+            var oUl=document.createElement("ul");
+            oUl.setAttribute("id",o+"numTag");
+            for (var i=0;i<tagLength;i++){
+                var oLi=oUl.appendChild(document.createElement("li"));
+                if (i==0){
+                    oLi.setAttribute("class","hover"); //初始化时把第一个设置为高亮
+                    oLi.setAttribute("className","hover");
+                }
+                //设置标签的数字
+                oLi.appendChild(document.createTextNode((i+1)));
+            }
+            this.obj.appendChild(oUl);
+            objImg[0].style.display="block";
+            //设置标签事件
+            var oTag=this.obj.getElementsByTagName("li");
+            for (var i=0;i<oTag.length;i++){
+                var flag = 0;
+                var temp = 0;
+                var timeout=null;
+                var step = function(){
+                    for (j=0;j<oTag.length;j++){
+                        oTag[j].className="";
+                        objImg[j].style.display="none";
+                    }
+                    this.className="hover";
+                    flag = flag>=oTag.length-1?0:flag+1;
+                    objImg[flag].style.display="block";
+                    oTag[flag].className = "hover";
+                    timeout = setTimeout(step,4000);
+                };
+                oTag[i].onmouseover=function(){
+                    for (j=0;j<oTag.length;j++){
+                        oTag[j].className="";
+                        objImg[j].style.display="none";
+                        temp = j;
+                    }
+                    this.className="hover";
+                    objImg[this.innerHTML-1].style.display="block";
+                    temp = this.innerHTML-1;
+                    flag = i;
+                    clearInterval(timeout);
+                }
+                oTag[i].onmouseout = function(){
+                    for (j=0;j<oTag.length;j++){
+                        oTag[j].className="";
+                        objImg[j].style.display="none";
+                    }
+                    flag = temp;
+                    objImg[temp].style.display="block";
+                    oTag[temp].className = "hover";
+                    timeout = setTimeout(step,4000);
+                }
+                if(i==0)
+                {
+                    timeout = setTimeout(step,4000);
+                }
+            }
+        }
+    };
+    //自动滚动的方法还没写
+    this.imgRoll=function(){};
+    //生成对象时自动加载init()方法以初始化对象
+    this.init();
+}
+</script>
+<table cellspacing="0" cellpadding="0" border="0"><tr><td><div id="flashBoxu_u2_"><img src="63C5308F47C0B54004D49C1DC2E_01C70946_2733D.jpg" border="0" width="1000" height="350" /><img src="3747A32DC89DB38FC251D97798E_058738E7_15C90.jpg" border="0" width="1000" height="350" /></div></td></tr></table><SCRIPT language="JavaScript">new flashBoxCtrl("flashBoxu_u2_");</SCRIPT><!--#endeditable--></div></div></div></div>
+<img src="dfiles/31365/images/xyxw.jpg" width="91" height="27">
+<img src="dfiles/31365/images/daheng.jpg?d=0.8194232586982367" width="1003" height="12">
+
+<div class="Notice">
+<div class="title" style="height: 0px; width: 986px"><span class="gengduo"></span><span class="shu">&nbsp;</span> </div><!--#begineditable name="学院新闻" viewid="167143" tagname="学院新闻" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""-->
+<LINK href="/system/resource/style/component/news/list/imagechangenews.css" type="text/css" rel="stylesheet">
+<script language="javascript" src="/system/resource/js/news/imagechangenews.js"></script><script language="JavaScript">
+var u_u3_icn = new ImageChangeNews("u_u3_", 310, 178, 4, 2.0, true, false, false, true);
+
+//初始化图片, 并启动定时
+function u_u3_init_img()
+{
+
+    u_u3_icn.addimg("\/__local\/7\/E2\/6A\/0347C406DE9DC068809DFCB2205_F8B7C96F_8936.jpg", "info\/1044\/1287.htm", "校领导带队到国际学院指导...", "");
+
+    u_u3_icn.addimg("\/__local\/F\/D9\/64\/4536F3AC9A4DC5966CBE56E3B02_2615A154_11637.jpg", "info\/1044\/1281.htm", "【不忘初心、牢记使命】国...", "");
+
+    u_u3_icn.addimg("\/__local\/7\/4E\/35\/29F4889025FF6D6D7FC1C65BBC2_708BA666_8EF8.jpg", "info\/1044\/1275.htm", "国际学院开展主题党日活动", "");
+
+    u_u3_icn.addimg("\/__local\/D\/7B\/08\/FF982B1C58F3C28D23B1A188434_1BE285DE_105A0.jpg", "info\/1044\/1278.htm", "国际学院教工党支部党员主...", "");
+
+    u_u3_icn.addimg("\/__local\/E\/92\/06\/526C95BC597ED612DE3B68E3AC0_C9DBCB6F_ED1D.jpg", "info\/1044\/1274.htm", "国际学院开展“党员带头，...", "");
+
+    u_u3_icn.addimg("\/__local\/0\/B5\/E6\/05D80322E9A50EF332AB954A027_5F6FD96D_EAA3.png", "info\/1044\/1282.htm", "国际学院“果青工作室”庆...", "");
+
+    u_u3_icn.changeimg(0);
+}
+</script><table cellspacing="0" cellpadding="0" border="0" style="padding:0px margin:0px; border:0px">
+    <tr><td>
+        <div style="OVERFLOW: hidden;height:178px;width:310px">
+            <div id="u_u3_div" align="center" style="padding:0px;margin:0px;border:0px solid black;background-color:#000000;FILTER: progid:DXImageTransform.Microsoft.RevealTrans (duration=2.0,transition=23);height:178px;width:310px">
+                <div id="u_u3_imgdiv" style="padding:0px;border:0px;"><a id="u_u3_url" target="_blank"><img id="u_u3_pic" border="0" width="310" height="178" src="/system/resource/images/space.gif"></a></div>
+            </div>
+            <div style="filter:alpha(style=1,opacity=10,finishOpacity=80);width:310px;height:19px;text-align:right;top:-19px;position:relative;padding:0px;margin:0px;border:0px;">
+<a href="javascript:u_u3_icn.changeimg(0)" ; id="u_u3_selectNode0" class="imagechangenews_pnode" target="_self">1</a><a href="javascript:u_u3_icn.changeimg(1)" ; id="u_u3_selectNode1" class="imagechangenews_pnode" target="_self">2</a><a href="javascript:u_u3_icn.changeimg(2)" ; id="u_u3_selectNode2" class="imagechangenews_pnode" target="_self">3</a><a href="javascript:u_u3_icn.changeimg(3)" ; id="u_u3_selectNode3" class="imagechangenews_pnode" target="_self">4</a><a href="javascript:u_u3_icn.changeimg(4)" ; id="u_u3_selectNode4" class="imagechangenews_pnode" target="_self">5</a><a href="javascript:u_u3_icn.changeimg(5)" ; id="u_u3_selectNode5" class="imagechangenews_pnode" target="_self">6</a>
+            </div></div></td></tr>
+       
+    <tr><td height="25">
+        <div align="center" style="overflow:hidden;text-overflow:ellipsis;height:25px;width:310px;"><a target="_blank" class="titlestyle167143" id="u_u3_newstitle"></a></div>
+    </td></tr>
+<div align="left" display="none" style="overflow:hidden;text-overflow:ellipsis;height:0px;width:310px;padding-left:2px;padding-right:2px"><a target="_blank" class="summarystyle167143" id="u_u3_newssummary"></a></div>   
+</table><SCRIPT language="JavaScript">u_u3_init_img();</SCRIPT><!--#endeditable--></div>
+<div class="Txhd" style="width: 629px">
+<div style="width: 643px"><span class="gengduo"><a href="xyxw.htm" target="_blank">更多&gt;&gt; </a></span><!--<span class="shu"></span>--></div>
+<div class="content"><!--#begineditable name="学校要闻" viewid="167145" tagname="学校要闻" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><script language="javascript" src="/system/resource/js/dynclicks.js"></script><ul style="width:650px;">
+   <li><a href="info/1044/1345.htm" target="_blank" title="【疫情防控】海螺水泥公司为我校孔子学院捐赠疫情防控物资">【疫情防控】海螺水泥公司为我校孔子学院捐赠疫情防控物资</a><span class="date">[04-13]</span></li>
+   <li><a href="info/1044/1337.htm" target="_blank" title="【疫情防控】石梅：战“疫”中外国留学生的温暖守护者">【疫情防控】石梅：战“疫”中外国留学生的温暖守护者</a><span class="date">[03-03]</span></li>
+   <li><a href="info/1044/1336.htm" target="_blank" title="【疫情防控】学校对新冠肺炎疫情防控工作中表现突出的石梅同志进行通报表扬（图）">【疫情防控】学校对新冠肺炎疫情防控工作中表现突出的石梅同志进行通报表扬（图）</a><span class="date">[03-03]</span></li>
+   <li><a href="info/1044/1333.htm" target="_blank" title="【疫情防控】疫情当前，携手共度 ——爱尔兰国立科克大学致中国学子的一封信">【疫情防控】疫情当前，携手共度 ——爱尔兰国立科克大学致中国学子的一封信</a><span class="date">[02-24]</span></li>
+   <li><a href="https://www.guet.edu.cn/info/1151/51699.htm" target="_blank" title="【疫情防控】校长徐华蕊在新学期第一课上的讲课内容全文">【疫情防控】校长徐华蕊在新学期第一课上的讲课内容全文</a><span class="date">[02-24]</span></li>
+   <li><a href="info/1044/1331.htm" target="_blank" title="【疫情防控】校领导慰问留学生并指导疫情防控工作">【疫情防控】校领导慰问留学生并指导疫情防控工作</a><span class="date">[02-21]</span></li>
+</ul><script>_showDynClickBatch(['dynclicks_u4_1345','dynclicks_u4_1337','dynclicks_u4_1336','dynclicks_u4_1333','dynclicks_u4_1332','dynclicks_u4_1331'],[1345,1337,1336,1333,1332,1331],"wbnews", 1411856311)</script>
+<!--#endeditable--></div></div>
+<div class="Link">
+<div class="title"><span class="gengduo"><a href="tzgg.htm" target="_blank">更多&gt;&gt;</a></span><span class="shu" style="margin-left: -30px"></span>通知公告</div>
+<div class="content"><!--#begineditable name="通知公告" viewid="167150" tagname="通知公告" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><ul>
+   <li><a href="info/1042/1349.htm" target="_blank" title="国际学院/国合处/港澳台办公室外事科科长推荐人选公示">国际学院/国合处/港...</a><span class="date">[04-13]</span></li>
+   <li><a href="info/1042/1348.htm" target="_blank" title="国际学院/国合处/港澳台办公室办公室主任推荐人选公示">国际学院/国合处/港...</a><span class="date">[04-13]</span></li>
+   <li><a href="info/1042/1341.htm" target="_blank" title="国际学院教学科科长推荐人选公示">国际学院教学科科长...</a><span class="date">[04-03]</span></li>
+   <li><a href="info/1042/1292.htm" target="_blank" title="关于遴选2020/2021学年澳门特区政府内地研究生奖学金项目候选人的通知">关于遴选2020/2021学...</a><span class="date">[11-25]</span></li>
+   <li><a href="info/1042/1334.htm" target="_blank" title="桂林电子科技大学2020年免试招收台湾学生简章">桂林电子科技大学202...</a><span class="date">[02-28]</span></li>
+   <li><a href="info/1042/1289.htm" target="_blank" title="关于报送2020年度教职工因公临时出国（境）计划的通知">关于报送2020年度教...</a><span class="date">[11-22]</span></li>
+</ul><script>_showDynClickBatch(['dynclicks_u5_1349','dynclicks_u5_1348','dynclicks_u5_1341','dynclicks_u5_1292','dynclicks_u5_1334','dynclicks_u5_1289'],[1349,1348,1341,1292,1334,1289],"wbnews", 1411856311)</script>
+<!--#endeditable--></div></div>
+<div class="Report">
+<div class="title"><span class="gengduo"><a href="rcpy.htm" target="_blank">更多&gt;&gt;</a></span><span class="shu"></span>人才培养</div>
+<div class="content"><!--#begineditable name="人才培养" viewid="167148" tagname="人才培养" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><ul>
+   <li><a href="info/1059/1066.htm" target="_blank" title="工商管理( Business Administration)">工商管理( Business Administration)</a><span class="date">[04-15]</span></li>
+   <li><a href="info/1059/1060.htm" target="_blank" title="土木工程专业">土木工程专业</a><span class="date">[04-15]</span></li>
+   <li><a href="info/1059/1059.htm" target="_blank" title="机械电子工程专业">机械电子工程专业</a><span class="date">[04-15]</span></li>
+   <li><a href="info/1059/1057.htm" target="_blank" title="企业管理专业课程设置（硕士留学生）">企业管理专业课程设置（硕士留学生）</a><span class="date">[04-15]</span></li>
+   <li><a href="info/1059/1055.htm" target="_blank" title="跨文化传播管理学科硕士研究生培养方案 （2016国际学生）">跨文化传播管理学科硕士研究生培养方案 ...</a><span class="date">[04-15]</span></li>
+   <li><a href="info/1061/1052.htm" target="_blank" title="国际学院开展“我幸福，我快乐”心理行为素质拓展活动">国际学院开展“我幸福，我快乐”心理行...</a><span class="date">[04-15]</span></li>
+</ul><script>_showDynClickBatch(['dynclicks_u6_1066','dynclicks_u6_1060','dynclicks_u6_1059','dynclicks_u6_1057','dynclicks_u6_1055','dynclicks_u6_1052'],[1066,1060,1059,1057,1055,1052],"wbnews", 1411856311)</script>
+<!--#endeditable--></div></div>
+<div class="Academic">
+<div class="title"><span class="gengduo"><a href="wsjl.htm" target="_blank">更多&gt;&gt;</a></span><span class="shu"></span>外事交流</div>
+<div class="content"><!--#begineditable name="外事交流" viewid="167149" tagname="外事交流" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><ul>
+   <li><a href="info/1094/1347.htm" target="_blank" title="【疫情防控】海螺水泥公司为我校孔子学院捐赠疫情防控物资">【疫情防控】海螺水泥公司为我校孔子学...</a><span class="date">[04-13]</span></li>
+   <li><a href="info/1094/1343.htm" target="_blank" title="【疫情防控】我校向柬埔寨马德望省政府及孔子学院捐赠防疫物资">【疫情防控】我校向柬埔寨马德望省政府...</a><span class="date">[04-07]</span></li>
+   <li><a href="info/1070/1295.htm" target="_blank" title="桂林电子科技大学国际会议申办审批流程">桂林电子科技大学国际会议申办审批流程</a><span class="date">[12-03]</span></li>
+   <li><a href="info/1072/1305.htm" target="_blank" title="桂电〔2019〕27号《桂林电子科技大学本科生赴境外交流学习管理办法》">桂电〔2019〕27号《桂林电子科技大学本...</a><span class="date">[12-03]</span></li>
+   <li><a href="info/1072/1304.htm" target="_blank" title="桂电教〔2016〕20号《桂林电子科技大学全日制普通本科生赴国(境)外交流学习成绩管理办法（试行）》">桂电教〔2016〕20号《桂林电子科技大学...</a><span class="date">[12-03]</span></li>
+   <li><a href="info/1072/1303.htm" target="_blank" title="桂电学〔2016〕12号《桂林电子科技大学在校生海外访学助学金管理办法》">桂电学〔2016〕12号《桂林电子科技大学...</a><span class="date">[12-03]</span></li>
+</ul><script>_showDynClickBatch(['dynclicks_u7_1347','dynclicks_u7_1343','dynclicks_u7_1295','dynclicks_u7_1305','dynclicks_u7_1304','dynclicks_u7_1303'],[1347,1343,1295,1305,1304,1303],"wbnews", 1411856311)</script>
+<!--#endeditable--></div></div>
+<div class="Link" style="display: none">
+<div class="title">下载中心</div>
+<div class="content">
+<ul>
+<div class="ncmqxx">
+<div class="bdc">
+<li><a href="contents/134/172.html" target="_blank">入住确认单 </a><span class="date">[10-16]</span></li>
+<li><a href="contents/134/171.html" target="_blank">外国留学生申请表 </a><span class="date">[10-16]</span></li>
+<li><a href="contents/134/170.html" target="_blank">桂林电子科技大学出国（境）人员申请审批表...</a><span class="date">[10-16]</span></li>
+<li><a href="contents/134/169.html" target="_blank">外籍专业人员管理规定（暂行）</a><span class="date">[10-16]</span> </li></div></div></ul></div></div>
+<div class="Report" style="display: none">
+<div class="title"><span class="gengduo"><a href="channels/25.html" target="_blank">更多&gt;&gt;</a></span><span class="shu"></span>外事交流</div>
+<div class="content">
+<ul>
+<li><span class="date">[06-27]</span><a href="contents/191/852.html" target="_blank">1. 因公出国（涉密人员审批）</a>
+<li><span class="date">[03-05]</span><a href="contents/114/593.html" target="_blank">1.持因公护照出国（处级及以上领导...</a>
+<li><span class="date">[06-27]</span><a href="contents/191/850.html" target="_blank">2. 境外来访（保密审批）</a>
+<li><span class="date">[03-04]</span><a href="contents/114/594.html" target="_blank">2. 持因公护照出国 （普通教学科研...</a>
+<li><span class="date">[06-27]</span><a href="contents/191/849.html" target="_blank">1. 因公出国（涉密人员审批）</a>
+<li><span class="date">[03-03]</span><a href="contents/114/595.html" target="_blank">3. 特殊情况下持因私护照出国 （处...</a> </li></ul></div></div>
+<div class="Academic" style="display: none">
+<div class="title"><span class="gengduo"><a href="channels/27.html" target="_blank">更多&gt;&gt;</a></span><span class="shu"></span>学生工作</div>
+<div class="content">
+<ul>
+<li><span class="date">[11-03]</span><a href="contents/29/339.html" target="_blank">学生资助管理制度</a>
+<li><span class="date">[11-03]</span><a href="contents/49/332.html" target="_blank">免于执行《国家学生体质健康标准》...</a>
+<li><span class="date">[11-03]</span><a href="contents/29/338.html" target="_blank">学生工作资料、文档管理制度</a>
+<li><span class="date">[10-10]</span><a href="contents/49/325.html" target="_blank">桂电本科生申请外宿审批登记表</a>
+<li><span class="date">[11-03]</span><a href="contents/29/337.html" target="_blank">学生工作办公室助理管理办法</a>
+<li><span class="date">[10-27]</span><a href="contents/46/328.html" target="_blank">桂电国际学院“最美助班”投票轻应...</a> </li></ul></div></div>
+<div class="picMarquee-left">
+<div class="bd">
+<div class="tempWrap" style="overflow: hidden; width: 855px; position: relative"><!--#begineditable name="底部滚动图片" viewid="167101" tagname="底部滚动图片" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><script language="javascript" src="/system/resource/js/vsbpreloadimg.js"></script>
+<TABLE width="925" cellSpacing="0" cellPadding="0" align="center" border="0"> 
+    <TR><TD>
+        <DIV id="u_u8_demo" style="OVERFLOW:hidden;WIDTH:925px;COLOR:#ffffff"><TABLE cellSpacing="0" cellPadding="0" border="0">
+                <TR><TD id="u_u8_demo1" vAlign="top" width="925"><table border="0" cellpadding="0" cellspacing="0" width="925">
+                        <tr>
+
+                            <td valign="top" align="center" style="padding-left:10px;padding-right:10px"><div style="padding: 0px; width:154px"><table cellpadding="0" cellspacing="0" style="border:0px solid black;">
+                                    <tr><td width="154" height="118" valign="middle" align="center"><img name="u_u8_img" border="0" src="/system/resource/images/loading.gif" alt="校园活动" title="校园活动" hspace="0" vspace="0"></td></tr>
+                                </table></div><div style="padding-top:1px;padding-bottom:1px">
+                            <span class="titlestyle167101">校园活动</span>
+                            
+
+                          </div></td>
+                            <td valign="top" align="center" style="padding-left:10px;padding-right:10px"><div style="padding: 0px; width:154px"><table cellpadding="0" cellspacing="0" style="border:0px solid black;">
+                                    <tr><td width="154" height="118" valign="middle" align="center"><img name="u_u8_img" border="0" src="/system/resource/images/loading.gif" alt="留学生" title="留学生" hspace="0" vspace="0"></td></tr>
+                                </table></div><div style="padding-top:1px;padding-bottom:1px">
+                            <span class="titlestyle167101">留学生</span>
+                            
+
+                          </div></td>
+                            <td valign="top" align="center" style="padding-left:10px;padding-right:10px"><div style="padding: 0px; width:154px"><table cellpadding="0" cellspacing="0" style="border:0px solid black;">
+                                    <tr><td width="154" height="118" valign="middle" align="center"><img name="u_u8_img" border="0" src="/system/resource/images/loading.gif" alt="舞蹈大赛" title="舞蹈大赛" hspace="0" vspace="0"></td></tr>
+                                </table></div><div style="padding-top:1px;padding-bottom:1px">
+                            <span class="titlestyle167101">舞蹈大赛</span>
+                            
+
+                          </div></td>
+                            <td valign="top" align="center" style="padding-left:10px;padding-right:10px"><div style="padding: 0px; width:154px"><table cellpadding="0" cellspacing="0" style="border:0px solid black;">
+                                    <tr><td width="154" height="118" valign="middle" align="center"><img name="u_u8_img" border="0" src="/system/resource/images/loading.gif" alt="外教参与拔河比赛" title="外教参与拔河比赛" hspace="0" vspace="0"></td></tr>
+                                </table></div><div style="padding-top:1px;padding-bottom:1px">
+                            <span class="titlestyle167101">外教参与拔河比赛</span>
+                            
+
+                          </div></td>
+                            <td valign="top" align="center" style="padding-left:10px;padding-right:10px"><div style="padding: 0px; width:154px"><table cellpadding="0" cellspacing="0" style="border:0px solid black;">
+                                    <tr><td width="154" height="118" valign="middle" align="center"><img name="u_u8_img" border="0" src="/system/resource/images/loading.gif" alt="舞蹈大赛" title="舞蹈大赛" hspace="0" vspace="0"></td></tr>
+                                </table></div><div style="padding-top:1px;padding-bottom:1px">
+                            <span class="titlestyle167101">舞蹈大赛</span>
+                            
+
+                          </div></td>
+                            <td valign="top" align="center" style="padding-left:10px;padding-right:10px"><div style="padding: 0px; width:154px"><table cellpadding="0" cellspacing="0" style="border:0px solid black;">
+                                    <tr><td width="154" height="118" valign="middle" align="center"><img name="u_u8_img" border="0" src="/system/resource/images/loading.gif" alt="校园活动" title="校园活动" hspace="0" vspace="0"></td></tr>
+                                </table></div><div style="padding-top:1px;padding-bottom:1px">
+                            <span class="titlestyle167101">校园活动</span>
+                            
+
+                          </div></td>
+                            <td valign="top" align="center" style="padding-left:10px;padding-right:10px"><div style="padding: 0px; width:154px"><table cellpadding="0" cellspacing="0" style="border:0px solid black;">
+                                    <tr><td width="154" height="118" valign="middle" align="center"><img name="u_u8_img" border="0" src="/system/resource/images/loading.gif" alt="十大歌手" title="十大歌手" hspace="0" vspace="0"></td></tr>
+                                </table></div><div style="padding-top:1px;padding-bottom:1px">
+                            <span class="titlestyle167101">十大歌手</span>
+                            
+
+                          </div></td>
+                            <td valign="top" align="center" style="padding-left:10px;padding-right:10px"><div style="padding: 0px; width:154px"><table cellpadding="0" cellspacing="0" style="border:0px solid black;">
+                                    <tr><td width="154" height="118" valign="middle" align="center"><img name="u_u8_img" border="0" src="/system/resource/images/loading.gif" alt="留学生舞蹈" title="留学生舞蹈" hspace="0" vspace="0"></td></tr>
+                                </table></div><div style="padding-top:1px;padding-bottom:1px">
+                            <span class="titlestyle167101">留学生舞蹈</span>
+                            
+
+                          </div></td>
+                            <td valign="top" align="center" style="padding-left:10px;padding-right:10px"><div style="padding: 0px; width:154px"><table cellpadding="0" cellspacing="0" style="border:0px solid black;">
+                                    <tr><td width="154" height="118" valign="middle" align="center"><img name="u_u8_img" border="0" src="/system/resource/images/loading.gif" alt="十大歌手" title="十大歌手" hspace="0" vspace="0"></td></tr>
+                                </table></div><div style="padding-top:1px;padding-bottom:1px">
+                            <span class="titlestyle167101">十大歌手</span>
+                            
+
+                          </div></td>
+                            <td valign="top" align="center" style="padding-left:10px;padding-right:10px"><div style="padding: 0px; width:154px"><table cellpadding="0" cellspacing="0" style="border:0px solid black;">
+                                    <tr><td width="154" height="118" valign="middle" align="center"><img name="u_u8_img" border="0" src="/system/resource/images/loading.gif" alt="" title="" hspace="0" vspace="0"></td></tr>
+                                </table></div><div style="padding-top:1px;padding-bottom:1px">
+                            <span class="titlestyle167101"></span>
+                            
+
+                          </div></td></tr>
+           </table></TD> 
+          <TD id="u_u8_demo2" vAlign="top" width="925"></TD> 
+        </TR> 
+      </TABLE> 
+      </DIV> 
+    </TD> 
+  </TR> 
+</TABLE> 
+<SCRIPT language="javascript">
+    var u_u8_imgs = new VsbPreloadImgArray();
+    
+    //初始化图片
+    function u_u8_init_img()
+    {
+
+            u_u8_imgs.addImg("images\/19\/03\/23\/2ybtqvlpgw\/17132418947.png", "0", u_u8_onimgload);
+
+            u_u8_imgs.addImg("images\/19\/03\/23\/2ybtqvlpgw\/17132321570.png", "1", u_u8_onimgload);
+
+            u_u8_imgs.addImg("images\/19\/03\/23\/2ybtqvlpgw\/17131959306.png", "2", u_u8_onimgload);
+
+            u_u8_imgs.addImg("images\/19\/03\/23\/2ybtqvlpgw\/17131144827.png", "3", u_u8_onimgload);
+
+            u_u8_imgs.addImg("images\/19\/03\/23\/2ybtqvlpgw\/17121753674.jpg", "4", u_u8_onimgload);
+
+            u_u8_imgs.addImg("images\/19\/03\/23\/2ybtqvlpgw\/1785514685.jpg", "5", u_u8_onimgload);
+
+            u_u8_imgs.addImg("images\/19\/03\/23\/2ybtqvlpgw\/1785348744.jpg", "6", u_u8_onimgload);
+
+            u_u8_imgs.addImg("images\/19\/03\/23\/2ybtqvlpgw\/1713243288.png", "7", u_u8_onimgload);
+
+            u_u8_imgs.addImg("images\/19\/03\/23\/2ybtqvlpgw\/1713213404.png", "8", u_u8_onimgload);
+
+            u_u8_imgs.addImg("images\/19\/03\/23\/2ybtqvlpgw\/178531574.JPG", "9", u_u8_onimgload);
+
+    }
+    function u_u8_onimgload(img, imgid)
+    {
+        var imgobjs = document.getElementsByName("u_u8_img");
+        var imgindex = new Number(imgid);
+        
+        img.showImg(imgobjs[imgindex], 154, 118, true, true);
+        img.showImg(imgobjs[imgindex+ 10], 154, 118, true, true);
+    }
+
+
+    var u_u8_MyMar;
+    var u_u8_speed3;
+    var u_u8_move = true;
+    var u_u8_movenum = 0;
+    var u_u8_pos = null; //td位置组
+    
+    function u_u8_initpos()
+    {
+        u_u8_pos = new Array();
+        
+        var tds1 = document.getElementById("u_u8_demo1").childNodes[0].rows[0].cells;
+        
+        for(i = 0 ;i < tds1.length; i++)
+        {
+            u_u8_pos[u_u8_pos.length] = tds1[i].offsetLeft;
+        }
+        
+        var tds2 = document.getElementById("u_u8_demo2").childNodes[0].rows[0].cells;
+        var tds2offset = document.getElementById("u_u8_demo2").offsetLeft;
+        for(i = 0 ;i < tds2.length; i++)
+        {
+            u_u8_pos[u_u8_pos.length] = tds2[i].offsetLeft + tds2offset;
+        }
+    }
+    
+    function u_u8_getpos(scrollpos)
+    {
+        for(i = 0; i < u_u8_pos.length; i++)
+        {
+            if(scrollpos < u_u8_pos[i])
+                return i-1;
+        }
+    }
+
+
+    function u_u8_Marquee() 
+    { 
+        try 
+        { 
+            if(!u_u8_move)
+                return;
+            
+            var demoobj = document.getElementById("u_u8_demo");
+            var demo1obj = document.getElementById("u_u8_demo1");
+
+            //滚动步长
+            var scrollstep = 1
+            
+            //当前位置
+            var oldscrollLeft = demoobj.scrollLeft;
+            
+            //更新后的位置, 已考虑过回滚
+            var newscrollLeft = (oldscrollLeft + scrollstep)%demo1obj.scrollWidth;
+
+            
+            demoobj.scrollLeft = newscrollLeft; 
+            
+        } 
+        catch(e) 
+        { 
+        } 
+    } 
+
+    function u_u8_clearInterval()
+    {
+        clearInterval(u_u8_MyMar);
+    }
+    
+    function u_u8_setInterval()
+    {
+        u_u8_MyMar = setInterval(u_u8_Marquee,u_u8_speed3);
+    }
+    
+    function u_u8_stopmove()
+    {
+        u_u8_move = false;
+    }
+
+    function u_u8_startmove()
+    {
+        u_u8_move = true;
+    }
+    
+    function u_u8_init()
+    {
+        u_u8_speed3 = 50;
+        if(u_u8_speed3 < 1)
+        {
+            u_u8_speed3 = 1;
+        }
+        
+        document.getElementById("u_u8_demo").onmouseover = u_u8_stopmove;
+        document.getElementById("u_u8_demo").onmouseout = u_u8_startmove;
+
+        document.getElementById("u_u8_demo2").innerHTML = document.getElementById("u_u8_demo1").innerHTML;
+        
+        u_u8_init_img();
+
+        u_u8_setInterval();
+
+    }
+    
+    u_u8_init();
+</SCRIPT><!--#endeditable--></div></div><script type="text/javascript">
+    jQuery(".picMarquee-left").slide({mainCell:".bd ul",autoPlay:true,effect:"leftMarquee",vis:5,interTime:50});
+    </script>
+<div class="clr"></div></div></div>
+<div class="footer_back">
+<div class="footer_center">
+<div class="footer_top">
+<div class="link_tit">友情链接</div>
+<div class="link">
+<ul>
+<li><a href="http://www.guet.edu.cn/" target="_blank">学校主页</a> </li>
+<li><a href="http://www.guet.edu.cn/jgsz.htm" target="_blank">学校机构设置</a> </li>
+<li><a href="http://gedu.guet.edu.cn/" target="_blank">国际学院教务系统</a> </li></ul></div></div>
+<div class="footer_bottom">Copyright ? 2017 国际学院--桂林电子科技大学，保留所有权利。<br>地址：广西桂林市七星区金鸡岭1号 邮编：541004 学院办公室电话/传真：0773-2192305<br>举报邮箱：guetgjxy@126.com 举报电话：0773-2305295 </div></div></div><!--浮动窗口开始--><!--浮动窗口结束-->
+<div></div>
+<div></div>
+<div id="cFooTEr"></div>
+
+</body></html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><HTML><HEAD><TITLE>桂林电子科技大学研究生招生信息网</TITLE><META Name="keywords" Content="高校,招生" />
+
+
+
+
+
+<META content="text/html; charset=UTF-8" http-equiv="Content-Type"><LINK rel="stylesheet" type="text/css" href="style/main.css">
+
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="index.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1461952780)</script>
+</HEAD>
+<BODY class="norepeat" background="images/bannerbg.jpg" leftmargin="0" topmargin="0" bgcolor="#f5f5f5">
+<TABLE border="0" cellspacing="0" width="1002" align="center">
+<TBODY>
+<TR>
+<TD height="78">
+<TABLE border="0" cellspacing="0" cellpadding="0" width="98%" align="center">
+<TBODY>
+<TR>
+<TD><!--#begineditable name="LOGO" clone="0" namechanged="0" order="0" ispublic="0" tagname="logo" viewid="165570" contentviewid="" contype="" stylesysid="" layout="" action=""-->
+<table border="0" cellspacing="0" cellpadding="0"><tr><td><img src="images/logo.jpg" border="0" alt="研究生招生信息网" title="研究生招生信息网"></td></tr></table><!--#endeditable--></TD>
+<TD valign="top" align="right"><!--#begineditable name="主页|收藏" clone="0" namechanged="0" order="1" ispublic="0" tagname="主页|收藏" viewid="165571" contentviewid="" contype="" stylesysid="" layout="" action=""--><script language="javascript">
+function dosuba165571a()
+{
+    try{
+		var ua = navigator.userAgent.toLowerCase();
+		if(ua.indexOf("msie 8")>-1)
+		{
+			window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE8
+		}else if(ua.toLowerCase().indexOf("rv:")>-1)
+        {
+            window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE11+
+        }else{
+			if (document.all) 
+			{
+				window.external.addFavorite(document.location.href, document.title);
+			}else if(window.sidebar)
+			{
+				window.sidebar.addPanel( document.title, document.location.href, "");//firefox
+			}
+			else
+			{
+				alert(hotKeysa165571a());
+			}
+		}
+
+    }
+    catch (e){alert("无法自动添加到收藏夹，请使用 Ctrl + d 手动添加");}
+}
+function hotKeysa165571a() 
+{
+	var ua = navigator.userAgent.toLowerCase(); 
+	var str = "";    
+	var isWebkit = (ua.indexOf('webkit') != - 1); 
+	var isMac = (ua.indexOf('mac') != - 1);     
+	if (ua.indexOf('konqueror') != - 1) 
+	{  
+		str = 'CTRL + B'; // Konqueror   
+	} 
+	else if (window.home || isWebkit || isMac) 
+	{        
+		str = (isMac ? 'Command/Cmd' : 'CTRL') + ' + D'; // Netscape, Safari, iCab, IE5/Mac   
+	}
+	return ((str) ? '无法自动添加到收藏夹，请使用' + str + '手动添加' : str);
+}
+function setHomepagea165571a()
+{
+	var url = document.location.href;
+    if (document.all)
+    {
+        document.body.style.behavior='url(#default#homepage)';
+        document.body.setHomePage(url);
+    }
+    else if (window.sidebar)
+    {
+        if(window.netscape)
+        {
+             try{
+                  netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+             }catch (e){
+                   alert("该操作被浏览器拒绝，如果想启用该功能，请在地址栏内输入 about:config,然后将项 signed.applets.codebase_principal_support 值该为true");
+             }
+    	}
+	var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components. interfaces.nsIPrefBranch);
+	prefs.setCharPref('browser.startup.homepage',url);
+	}
+	else
+	{
+		alert("浏览器不支持自动设为首页，请手动设置");
+	}
+}
+</script><table><tr><td style="font-size:9pt"><A href="javascript:setHomepagea165571a()"><span class="font165571">设为首页</span></A>&nbsp;<span class="splitcharstyle165571"> | </span>&nbsp;<A onclick="javascript:dosuba165571a();" href="#"><span class="font165571">加入收藏</span></A></td></tr></table><!--#endeditable--></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD height="43" valign="top" align="center">
+<TABLE border="0" cellspacing="0" cellpadding="0" width="992" align="center" height="34">
+<TBODY>
+<TR>
+<TD class="menuleftbg" background="images/menubar-left.jpg" width="150"></TD>
+<TD background="images/menubarbg.jpg" width="692" align="center"><!--#begineditable name="网站导航" clone="0" namechanged="0" order="2" ispublic="0" tagname="网站导航" viewid="165558" contentviewid="" contype="" stylesysid="" layout="" action=""--><style type="text/css">
+td.b1_2_{FONT-SIZE:9pt;}
+td.b2_2_{FONT-SIZE:9pt;}
+td.b3_2_{FONT-SIZE:9pt;BACKGROUND-COLOR: #eff8fe;}
+td.b4_2_{FONT-SIZE:9pt;BACKGROUND-COLOR: #e8f0fb;}
+a.menu0_2_:link {TEXT-DECORATION: none;};
+a.menu0_2_:visited { TEXT-DECORATION: none;};
+a.menu0_2_:hover {TEXT-DECORATION: none;};
+a.menu0_2_:active {TEXT-DECORATION: none;};
+table.tb1_2_{FONT-SIZE:9pt;border:0;}
+span.s1_2_{COLOR: #ff9900;FONT-SIZE: 10pt;FONT-WEIGHT: bold;}
+span.s2_2_{FONT-SIZE: 9pt;COLOR: #cc0000;LINE-HEIGHT: 160%;}
+span.s10_2_{COLOR: #ffffff;FONT-SIZE: 10pt;FONT-WEIGHT: bold;TEXT-DECORATION: none;}
+span.s20_2_{FONT-SIZE: 9pt;COLOR: #222222;LINE-HEIGHT: 160%;}
+</style>
+<SCRIPT language="javascript"> 
+ var showfix_2_ = 1;
+ var isvertical_2_ = false;
+</SCRIPT>
+<script language="javascript" src="/system/resource/js/menu/text.js"></script>
+<TABLE id="t1_2_" cellSpacing="0" cellPadding="0" border="0" height="0" width="688"><TR><TD valign="center"></TD><TD valign="middle" height="0" width="0" nowrap class="b1_2_" align="center" id="a_2_1001" onmouseover="tshowLayers('1001','b2_2_', '_2_')" onmouseout="thideLayers('1001','b1_2_', '_2_','false','true')"><a class="menu0_2_" href="index.htm"><span class="currentfontStyle165558">&nbsp;首页&nbsp;</span></a></TD><TD valign="center" class="leaderfont165558"><img src="images/menubar-br.jpg" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1034" onmouseover="tshowLayers('1034','b2_2_', '_2_')" onmouseout="thideLayers('1034','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1039"><span class="fontstyle165558">&nbsp;博士招生&nbsp;</span></a></TD><TD valign="center" class="leaderfont165558"><img src="images/menubar-br.jpg" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1028" onmouseover="tshowLayers('1028','b2_2_', '_2_')" onmouseout="thideLayers('1028','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1038"><span class="fontstyle165558">&nbsp;硕士招生&nbsp;</span></a></TD><TD valign="center" class="leaderfont165558"><img src="images/menubar-br.jpg" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1054" onmouseover="tshowLayers('1054','b2_2_', '_2_')" onmouseout="thideLayers('1054','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="http://www.guet.edu.cn/gra/jsfw/sssds.htm"><span class="fontstyle165558">&nbsp;导师介绍&nbsp;</span></a></TD><TD valign="center" class="leaderfont165558"><img src="images/menubar-br.jpg" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1035" onmouseover="tshowLayers('1035','b2_2_', '_2_')" onmouseout="thideLayers('1035','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1044"><span class="fontstyle165558">&nbsp;考点通知&nbsp;</span></a></TD><TD valign="center" class="leaderfont165558"><img src="images/menubar-br.jpg" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1030" onmouseover="tshowLayers('1030','b2_2_', '_2_')" onmouseout="thideLayers('1030','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1045"><span class="fontstyle165558">&nbsp;招生政策&nbsp;</span></a></TD><TD valign="center" class="leaderfont165558"><img src="images/menubar-br.jpg" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1036" onmouseover="tshowLayers('1036','b2_2_', '_2_')" onmouseout="thideLayers('1036','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1064"><span class="fontstyle165558">&nbsp;历史数据&nbsp;</span></a></TD><TD valign="center" class="leaderfont165558"><img src="images/menubar-br.jpg" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1047" onmouseover="tshowLayers('1047','b2_2_', '_2_')" onmouseout="thideLayers('1047','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1048"><span class="fontstyle165558">&nbsp;信息公开&nbsp;</span></a></TD><TD valign="center" class="leaderfont165558"><img src="images/menubar-br.jpg" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1041" onmouseover="tshowLayers('1041','b2_2_', '_2_')" onmouseout="thideLayers('1041','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1042"><span class="fontstyle165558">&nbsp;联系方式&nbsp;</span></a></TD><TD valign="center" class="leaderfont165558"><img src="images/menubar-br.jpg" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1051" onmouseover="tshowLayers('1051','b2_2_', '_2_')" onmouseout="thideLayers('1051','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1067"><span class="fontstyle165558">&nbsp;下载专区&nbsp;</span></a></TD></TR></TR></table><!--#endeditable--></TD>
+<TD><IMG src="images/menubar-right.jpg" width="150" height="34"> </TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD height="126"></TD></TR>
+<TR>
+<TD height="36" valign="center">
+<TABLE border="0" cellspacing="0">
+<TBODY>
+<TR>
+<TD valign="center" style="padding-top: 3px"><!--#begineditable name="简单检索" clone="0" namechanged="0" order="3" ispublic="0" tagname="简单检索" viewid="165559" contentviewid="" contype="" stylesysid="" layout="" action=""-->
+
+
+
+
+
+
+<script language="javascript" src="/system/resource/js/base64.js"></script>
+<script language="javascript" src="/system/resource/js/formfunc.js"></script>
+<form action="searchresult.jsp?wbtreeid=1001" method="post" name="a165559a" target="_blank" onsubmit="return subsearchdataa165559a()" style="display: inline;">
+ <input type="hidden" name="Find" value="find">
+ <input type="hidden" name="entrymode" value="1">
+ <input type="hidden" id="INTEXT2" name="INTEXT2" value="">
+ <input type="hidden" name="news_search_code">
+ <table border="0" cellspacing="0" cellpadding="3">
+  <tr>
+   <td Valign="middle" nowrap="nowrap" height="22">
+    <font class="leaderfont165559">站内搜索：</font>
+    
+        <input type="hidden" name="wbtreeids" value="0">
+    </td><td><span id="intextspana165559a"></span><iframe id="intextframea165559a" src="about:blank" scrolling="no" frameborder="0" style="position:absolute;top:0px;left:0px;display:none;"></iframe><input size="22" name="INTEXT" class="querystyle165559">
+   </td>
+   <td align="absmiddle" nowrap="nowrap" height="1">
+   <input type="image" src="images/btn-search.jpg" valign="bottom" style="cursor: hand"></td>
+  </tr>
+  
+ </table>
+</form>
+<script>
+String.prototype.trim= function()       
+{              
+    var t = this.replace(/(^\s*)|(\s*$)/g, "");     
+    return t.replace(/(^　*)|(　*$)/g, "");     
+}
+ 
+function subsearchdataa165559a()
+{ 
+	
+	if(document.a165559a.INTEXT.value.trim()=="")
+	{
+		alert("请输入查询关键字！");
+		return false;
+	}
+	
+	
+    if(checkDataa165559a(document.a165559a))
+    {
+       return true;  
+    }
+    return false;
+}       
+</script>
+
+<script> 
+function checkDataa165559a(formname)
+{
+	if(formname.INTEXT.value.trim()=="")
+	{
+		alert("请输入查询关键字！");
+		return false;
+	}
+
+	var  base64 = new Base64();
+    if(window.toFF==1)
+        {
+            var ssvalue = formname.INTEXT.value;
+            formname.INTEXT2.value = Simplized(ssvalue);
+            formname.INTEXT2.value = base64.encode(formname.INTEXT2.value);
+        }else
+        formname.INTEXT2.value = formname.INTEXT.value;
+        formname.INTEXT2.value = base64.encode(formname.INTEXT2.value);
+       return true;
+}
+</script>
+<!--#endeditable--><LABEL for="textfield"></LABEL></TD>
+<TD><A href="#" onmouseover="MM_swapImage('Image11','','images/btn-search1.jpg',1)" onmouseout="MM_swapImgRestore()"></A></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD bgcolor="#f5f5f5" height="500" valign="top">
+<TABLE border="0" cellspacing="0" width="100%">
+<TBODY>
+<TR>
+<TD valign="top">
+<TABLE border="0" cellspacing="0" width="100%">
+<TBODY>
+<TR>
+<TD height="85" background="images/titlebg4.jpg">
+<TABLE border="0" cellspacing="0" width="50%" align="center">
+<TBODY>
+<TR>
+<TD class="font14"><FONT color="#00437a">服务考生</FONT> </TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class="norepeat" height="130" valign="top" background="images/zhuanye-bg.jpg" width="323">
+<TABLE border="0" cellspacing="0" cellpadding="0" width="60%" align="center">
+<TBODY>
+<TR>
+<TD height="40">招生目录</TD></TR>
+<TR>
+<TD height="60"><a href="http://yjsyx.guet.edu.cn/" target="_blank">新生网上报到系统学生登录端口</a></TD></TR>
+<TR>
+<TD height="40">预调剂系统学生登录端口</TD></TR>
+
+</TBODY></TABLE></TD></TR></TBODY></TABLE></TD>
+<TD width="10"></TD>
+<TD valign="top">
+<TABLE border="0" cellspacing="0">
+<TBODY>
+<TR>
+<TD class="norepeat" height="44" background="images/titlebg1.jpg">
+<TABLE border="0" cellspacing="0" width="88%">
+<TBODY>
+<TR>
+<TD class="title"><IMG src="images/zhanwei.gif" width="20" height="1">博士招生</TD>
+<TD class="white" align="right"><A class="white" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1039">more</A> </TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD><IMG align="absBottom" src="images/rcbgtop.jpg" width="329" height="18"> </TD></TR>
+<TR>
+<TD class="repeaty" height="180" valign="top" background="images/rcbodybg.gif"><!--#begineditable name="博士招生" clone="0" namechanged="0" order="4" ispublic="0" tagname="博士招生" viewid="165563" contentviewid="" contype="" stylesysid="" layout="" action=""--><table width="100%" cellspacing="3" cellpadding="0">
+  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont165563">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1039/1407.htm" class="c165563" title="关于调整2020年博士研究生普通招考工作安排的通知" target="_blank">
+        关于调整2020年博士研究生普...
+        </a>
+        &nbsp;
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle165563" width="1%" nowrap>2020/03/01</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont165563">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1039/1358.htm" class="c165563" title="2020年博士研究生招生简章" target="_blank">
+        2020年博士研究生招生简章
+        </a>
+        &nbsp;
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle165563" width="1%" nowrap>2019/11/08</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont165563">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1039/1296.htm" class="c165563" title="2019年博士研究生入学考试初试分数线及复试安排" target="_blank">
+        2019年博士研究生入学考试初...
+        </a>
+        &nbsp;
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle165563" width="1%" nowrap>2019/05/13</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont165563">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1039/1286.htm" class="c165563" title="2019年报考我校博士研究生初试成绩查询及复核办法" target="_blank">
+        2019年报考我校博士研究生初...
+        </a>
+        &nbsp;
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle165563" width="1%" nowrap>2019/05/10</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont165563">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1039/1276.htm" class="c165563" title="2019年博士研究生入学考试及复试通知" target="_blank">
+        2019年博士研究生入学考试及...
+        </a>
+        &nbsp;
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle165563" width="1%" nowrap>2019/04/26</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont165563">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1039/1217.htm" class="c165563" title="2019年博士研究生招生简章（含硕博连读）" target="_blank">
+        <span style="font-weight:bold;">2019年博士研究生招生简章（...</span>
+        </a>
+        &nbsp;
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle165563" width="1%" nowrap>2018/11/02</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont165563">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1039/1120.htm" class="c165563" title="2018年博士研究生入学考试初试分数线" target="_blank">
+        2018年博士研究生入学考试初...
+        </a>
+        &nbsp;
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle165563" width="1%" nowrap>2018/08/28</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont165563">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1039/1119.htm" class="c165563" title="2018年博士研究生入学考试通知" target="_blank">
+        2018年博士研究生入学考试通...
+        </a>
+        &nbsp;
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle165563" width="1%" nowrap>2018/08/28</td></tr>
+</table><!--#endeditable--></A></TD></TR>
+<TR>
+<TD valign="top"><IMG align="top" src="images/rcbgbottom.jpg" width="329" height="18"> </TD></TR></TBODY></TABLE></TD>
+<TD width="10"></TD>
+<TD valign="top">
+<TABLE border="0" cellspacing="0">
+<TBODY>
+<TR>
+<TD class="norepeat" height="44" background="images/titlebg2.jpg">
+<TABLE border="0" cellspacing="0" width="88%">
+<TBODY>
+<TR>
+<TD class="title"><IMG src="images/zhanwei.gif" width="20" height="1">硕士招生</TD>
+<TD align="right"><A class="white" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1038">more</A> </TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD><IMG align="absBottom" src="images/rcbgtop.jpg" width="329" height="18"> </TD></TR>
+<TR>
+<TD class="repeaty" height="180" valign="top" background="images/rcbodybg.gif"><!--#begineditable name="硕士招生" clone="0" namechanged="0" order="5" ispublic="0" tagname="硕士招生" viewid="165564" contentviewid="" contype="" stylesysid="" layout="" action=""--><table width="100%" cellspacing="3" cellpadding="0">
+  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont165564">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1038/1397.htm" class="c165564" title="2020年硕士研究生招生调剂、复试热点问题回答" target="_blank">
+        2020年硕士研究生招生调剂、...
+        </a>
+        &nbsp;
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle165564" width="1%" nowrap>2020/02/25</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont165564">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1038/1396.htm" class="c165564" title="2020年报考我校硕士研究生考生初试成绩查询及复核办法" target="_blank">
+        2020年报考我校硕士研究生考...
+        </a>
+        &nbsp;
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle165564" width="1%" nowrap>2020/02/20</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont165564">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1038/1388.htm" class="c165564" title="关于推迟公布我校2020年硕士研究生招生考试初试成绩的通知" target="_blank">
+        关于推迟公布我校2020年硕士...
+        </a>
+        &nbsp;
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle165564" width="1%" nowrap>2020/02/07</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont165564">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1038/1387.htm" class="c165564" title="致全体研究生同学、研究生导师及2020级考生的信" target="_blank">
+        致全体研究生同学、研究生导...
+        </a>
+        &nbsp;
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle165564" width="1%" nowrap>2020/02/06</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont165564">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1038/1336.htm" class="c165564" title="2020年硕士研究生招生初试自命题考试大纲" target="_blank">
+        2020年硕士研究生招生初试自...
+        </a>
+        &nbsp;
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle165564" width="1%" nowrap>2019/09/20</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont165564">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1038/1334.htm" class="c165564" title="桂林电子科技大学2020年接收硕士推免生简章" target="_blank">
+        桂林电子科技大学2020年接收...
+        </a>
+        &nbsp;
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle165564" width="1%" nowrap>2019/09/18</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont165564">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1038/1333.htm" class="c165564" title="2020年硕士研究生招生简章" target="_blank">
+        2020年硕士研究生招生简章
+        </a>
+        &nbsp;
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle165564" width="1%" nowrap>2019/09/16</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont165564">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="https://www.guet.edu.cn/gra/info/1013/1928.htm" class="c165564" title="2019级研究生新生入学报到流程（含宿舍安排）" target="_blank">
+        2019级研究生新生入学报到流...
+        </a>
+        &nbsp;
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle165564" width="1%" nowrap>2019/09/04</td></tr>
+</table><!--#endeditable--><A href="#" target="_blank"></A></TD></TR>
+<TR>
+<TD valign="top"><IMG align="top" src="images/rcbgbottom.jpg" width="329" height="18"> </TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD valign="top" rowspan="2">
+<TABLE border="0" cellspacing="0" width="100%">
+<TBODY>
+<TR>
+<TD height="85" background="images/titlebg4.jpg">
+<TABLE border="0" cellspacing="0" width="50%" align="center">
+<TBODY>
+<TR>
+<TD></TD></TR>
+<TR>
+<TD class="font14"><FONT color="#00437a">联系我们</FONT> </TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class="norepeat" height="302" valign="top" background="" width="323">
+<TABLE border="0" cellspacing="0" cellpadding="0" width="60%" align="center">
+<TBODY>
+<TR>
+<TD height="8">
+<P>地址:广西桂林市金鸡路1号桂林电子科技大学</p>
+<P>电话：0773-2322180</P>
+<P>传真：0773-2192062</P>
+<P>邮编：541004
+</P>
+</TD>
+</TR>
+<TR>
+<TD height="10">
+<IMG src="images/bgline.gif" width="200" height="10">
+</TD>
+</TR>
+<TR>
+
+<TD height="110">
+<P>研究生院微信公众号     手机招生微网</P>
+<P><IMG src="images/yjsgzh.jpg" width="100" height="100"><IMG src="images/sjzs.jpg" width="98" height="98"></P></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD>
+<TD rowspan="2"></TD>
+<TD valign="top">
+<TABLE border="0" cellspacing="0">
+<TBODY>
+<TR>
+<TD class="norepeat" height="44" background="images/titlebg3.jpg">
+<TABLE border="0" cellspacing="0" width="88%">
+<TBODY>
+<TR>
+<TD class="title"><IMG src="images/zhanwei.gif" width="20" height="1">考点通知</TD>
+<TD class="white" align="right"><A class="white" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1044">more</A> </TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD><IMG align="absBottom" src="images/rcbgtop.jpg" width="329" height="18"> </TD></TR>
+<TR>
+<TD class="repeaty" height="180" valign="top" background="images/rcbodybg.gif"><!--#begineditable name="考点通知" clone="0" namechanged="0" order="6" ispublic="0" tagname="考点通知" viewid="165565" contentviewid="" contype="" stylesysid="" layout="" action=""--><table width="100%" cellspacing="3" cellpadding="0">
+  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont165565">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1044/1368.htm" class="c165565" title="2020年全国硕士研究生招生考试桂电考点考场安排" target="_blank">
+        2020年全国硕士研究生招生考...
+        </a>
+        &nbsp;
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle165565" width="1%" nowrap>2019/12/19</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont165565">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1044/1367.htm" class="c165565" title="2020年全国硕士研究生招生考试桂电考点的有关通知" target="_blank">
+        2020年全国硕士研究生招生考...
+        </a>
+        &nbsp;
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle165565" width="1%" nowrap>2019/12/18</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont165565">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1044/1357.htm" class="c165565" title="[现场确认公告]我校报考点2020年现场确认模式实施网上信息确认" target="_blank">
+        <span style="color:#050503;">[现场确认公告]我校报考点202...</span>
+        </a>
+        &nbsp;
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle165565" width="1%" nowrap>2019/10/31</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont165565">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1044/1335.htm" class="c165565" title="2020年全国硕士研究生招生考试桂林电子科技大学报考点公告" target="_blank">
+        2020年全国硕士研究生招生考...
+        </a>
+        &nbsp;
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle165565" width="1%" nowrap>2019/09/20</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont165565">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1044/1227.htm" class="c165565" title="2019年全国硕士研究生招生考试桂电考点考场安排" target="_blank">
+        2019年全国硕士研究生招生考...
+        </a>
+        &nbsp;
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle165565" width="1%" nowrap>2018/12/20</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont165565">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1044/1226.htm" class="c165565" title="2019年全国硕士研究生招生考试桂电考点的有关通知" target="_blank">
+        2019年全国硕士研究生招生考...
+        </a>
+        &nbsp;
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle165565" width="1%" nowrap>2018/12/19</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont165565">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1044/1219.htm" class="c165565" title="2019年研究生入学考试桂林电子科技大学现场确地点示意图" target="_blank">
+        2019年研究生入学考试桂林电...
+        </a>
+        &nbsp;
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle165565" width="1%" nowrap>2018/11/05</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont165565">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1044/1216.htm" class="c165565" title="2019年硕士研究生入学考试我校考点现场确认指南" target="_blank">
+        <span style="font-weight:bold;">2019年硕士研究生入学考试我...</span>
+        </a>
+        &nbsp;
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle165565" width="1%" nowrap>2018/11/02</td></tr>
+</table><!--#endeditable--><A href="#" target="_blank"></A></A></TD></TR>
+<TR>
+<TD valign="top"><IMG align="top" src="images/rcbgbottom.jpg" width="329" height="18"> </TD></TR></TBODY></TABLE></TD>
+<TD></TD>
+<TD valign="top">
+<TABLE border="0" cellspacing="0">
+<TBODY>
+<TR>
+<TD class="norepeat" height="44" background="images/titlebg1.jpg">
+<TABLE border="0" cellspacing="0" width="88%">
+<TBODY>
+<TR>
+<TD class="title"><IMG src="images/zhanwei.gif" width="20" height="1">招生政策</TD>
+<TD class="white" align="right"><A class="white" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1045">more</A> </TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD><IMG align="absBottom" src="images/rcbgtop.jpg" width="329" height="18"> </TD></TR>
+<TR>
+<TD class="repeaty" height="180" valign="top" background="images/rcbodybg.gif"><!--#begineditable name="招生政策" clone="0" namechanged="0" order="7" ispublic="0" tagname="招生动态" viewid="165566" contentviewid="" contype="" stylesysid="" layout="" action=""--><table width="100%" cellspacing="3" cellpadding="0">
+  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont165566">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="https://yz.chsi.com.cn/kyzx/jybzc/201908/20190819/1814520332.html" class="c165566" title="2020年全国硕士研究生招生工作管理规定" target="_blank">
+        2020年全国硕士研究生招生工...
+        </a>
+        &nbsp;
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle165566" width="1%" nowrap>2019/08/20</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont165566">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="https://yz.chsi.com.cn/kyzx/kydt/201903/20190312/1772265387.html" class="c165566" title="教育部公布2019年全国硕士研究生分数线" target="_blank">
+        教育部公布2019年全国硕士研...
+        </a>
+        &nbsp;
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle165566" width="1%" nowrap>2019/03/15</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont165566">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="https://yz.chsi.com.cn/kyzx/zcdh/201812/20181211/1746570414.html" class="c165566" title="2019年全国硕士研究生招生考试考场规则" target="_blank">
+        2019年全国硕士研究生招生考...
+        </a>
+        &nbsp;
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle165566" width="1%" nowrap>2018/12/13</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont165566">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="https://yz.chsi.com.cn/kyzx/kydt/201808/20180822/1715982568.html" class="c165566" title="2019研招管理规定5个变化" target="_blank">
+        2019研招管理规定5个变化
+        </a>
+        &nbsp;
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle165566" width="1%" nowrap>2018/08/29</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont165566">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="https://yz.chsi.com.cn/kyzx/jybzc/201808/20180821/1715735913.html" class="c165566" title="2019年全国硕士研究生招生考试公告" target="_blank">
+        2019年全国硕士研究生招生考...
+        </a>
+        &nbsp;
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle165566" width="1%" nowrap>2018/08/28</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont165566">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="https://yz.chsi.com.cn/kyzx/jybzc/201808/20180821/1715735904.html" class="c165566" title="教育部关于印发《2019年全国硕士研究生招生工作管理规定》的通知" target="_blank">
+        教育部关于印发《2019年全国...
+        </a>
+        &nbsp;
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle165566" width="1%" nowrap>2018/08/28</td></tr>
+</table><!--#endeditable--><A href="#" target="_blank"></A></TD></TR>
+<TR>
+<TD valign="top"><IMG align="top" src="images/rcbgbottom.jpg" width="329" height="18"> </TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD valign="top" colspan="3">
+<TABLE border="0" cellspacing="0" width="100%">
+<TBODY>
+<TR>
+<TD height="120" valign="top" background="images/linkbg.jpg" style="background-repeat: no-repeat">
+<TABLE border="0" cellspacing="0" width="95%">
+<TBODY>
+<TR>
+<TD height="50" width="16%" align="center"><STRONG>校内链接</STRONG> </TD>
+<TD width="84%" align="left"><!--#begineditable name="校内链接" clone="0" namechanged="0" order="8" ispublic="0" tagname="校内链接" viewid="165553" contentviewid="" contype="" stylesysid="" layout="" action=""-->
+
+
+
+<script language="javascript" src="/system/resource/js/dynclicks.js"></script>
+<table><tr>
+        
+        <td>
+            <A class="c165553" HREF="http://www.guet.edu.cn/" onclick="_addDynClicks('wburl',1461952780,31469)" target="_blank">
+            	 学校主页 
+            </A>
+             
+        </td>
+            <td class="leaderstyle165553">|</td>
+        
+        <td>
+            <A class="c165553" HREF="http://www.guet.edu.cn/gra/index.htm" onclick="_addDynClicks('wburl',1461952780,31470)" target="_blank">
+            	 研究生院主页 
+            </A>
+             
+        </td>
+            <td class="leaderstyle165553">|</td>
+        
+        <td>
+            <A class="c165553" HREF="http://www.guet.edu.cn/jgsz/jxdw1.htm" onclick="_addDynClicks('wburl',1461952780,31471)" target="_blank">
+            	 教学单位 
+            </A>
+             
+        </td>
+            <td class="leaderstyle165553">|</td>
+        
+        <td>
+            <A class="c165553" HREF="http://www.guet.edu.cn/xxjj/hjxqpmdt.htm" onclick="_addDynClicks('wburl',1461952780,31515)" target="_blank">
+            	 花江校区地图 
+            </A>
+             
+        </td>
+            <td class="leaderstyle165553">|</td>
+        
+        <td>
+            <A class="c165553" HREF="http://www.guet.edu.cn/xxjj/jjlxqpmdt.htm" onclick="_addDynClicks('wburl',1461952780,31517)" target="_blank">
+            	 金鸡岭校区地图 
+            </A>
+             
+        </td>
+            <td class="leaderstyle165553">|</td>
+        
+        <td>
+            <A class="c165553" HREF="http://mwb.guet.edu.cn/system/login.jsp" onclick="_addDynClicks('wburl',1461952780,31518)" target="_blank">
+            	 后台管理 
+            </A>
+             
+        </td>
+            </tr>
+</table><!--#endeditable--><A href="#"></A></TD></TR>
+<TR>
+<TD height="40" align="center"><STRONG>校外链接</STRONG> </TD>
+<TD align="left"><!--#begineditable name="校外链接" clone="0" namechanged="0" order="9" ispublic="0" tagname="校外链接" viewid="165555" contentviewid="" contype="" stylesysid="" layout="" action=""-->
+
+
+
+
+<table><tr>
+        
+        <td>
+            <A class="c165555" HREF="http://www.moe.edu.cn/" onclick="_addDynClicks('wburl',1461952780,31474)" target="_blank">
+            	 教育部 
+            </A>
+             
+        </td>
+            <td class="leaderstyle165555">|</td>
+        
+        <td>
+            <A class="c165555" HREF="https://yz.chsi.com.cn/" onclick="_addDynClicks('wburl',1461952780,31475)" target="_blank">
+            	 中国研究生招生信息网 
+            </A>
+             
+        </td>
+            <td class="leaderstyle165555">|</td>
+        
+        <td>
+            <A class="c165555" HREF="http://www.gxeea.cn/" onclick="_addDynClicks('wburl',1461952780,31473)" target="_blank">
+            	 广西招生考试院 
+            </A>
+             
+        </td>
+            </tr>
+</table><!--#endeditable--><A href="#"></A></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+<TABLE border="0" cellspacing="0" width="100%" background="images/copybg.gif" height="65">
+<TBODY>
+<TR>
+<TD class="norepeat" valign="top" align="center" style="padding-top: 20px"><!--#begineditable name="版权" clone="0" namechanged="0" order="10" ispublic="0" tagname="版权" viewid="165554" contentviewid="" contype="" stylesysid="" layout="" action=""--><p style="text-align: center"><span style="color: #828282">桂林电子科技大学研究生院招生办公室　版权所有</span></p><!--#endeditable--><IMG src="images/zhanwei.gif" width="1" height="24"> </TD></TR></TBODY></TABLE>
+
+</BODY></HTML>

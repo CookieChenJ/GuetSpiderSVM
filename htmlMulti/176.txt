@@ -1,0 +1,798 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<HTML><HEAD><TITLE>2020年报考我校硕士研究生考生初试成绩查询及复核办法-桂林电子科技大学研究生招生信息网</TITLE><META Name="keywords" Content="高校,招生" />
+
+
+<META content="text/html; charset=UTF-8" http-equiv="Content-Type"><LINK rel="stylesheet" type="text/css" href="../../style/main.css">
+
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="../../_sitegray/_sitegray_d.css" />
+<script language="javascript" src="../../_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="../../content.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1038,'/content.jsp',1396,1461952780)</script>
+</HEAD>
+<BODY class="norepeat" background="../../images/listbannerbg.jpg" leftmargin="0" topmargin="0" bgcolor="#f5f5f5">
+<TABLE border="0" cellspacing="0" width="1002" align="center">
+<TBODY>
+<TR>
+<TD height="78">
+<TABLE border="0" cellspacing="0" cellpadding="0" width="98%" align="center">
+<TBODY>
+<TR>
+<TD><!--#begineditable contype="" name="LOGO" action="" layout="" clone="0" namechanged="0" order="0" ispublic="0" tagname="LOGO" viewid="165570"-->
+<table border="0" cellspacing="0" cellpadding="0"><tr><td><img src="../../images/logo.jpg" border="0" alt="研究生招生信息网" title="研究生招生信息网"></td></tr></table><!--#endeditable--></TD>
+<TD valign="top" align="right"><!--#begineditable contype="" name="主页|收藏" action="" layout="" clone="0" namechanged="0" order="1" ispublic="0" tagname="主页|收藏" viewid="165571"--><script language="javascript">
+function dosuba165571a()
+{
+    try{
+		var ua = navigator.userAgent.toLowerCase();
+		if(ua.indexOf("msie 8")>-1)
+		{
+			window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE8
+		}else if(ua.toLowerCase().indexOf("rv:")>-1)
+        {
+            window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE11+
+        }else{
+			if (document.all) 
+			{
+				window.external.addFavorite(document.location.href, document.title);
+			}else if(window.sidebar)
+			{
+				window.sidebar.addPanel( document.title, document.location.href, "");//firefox
+			}
+			else
+			{
+				alert(hotKeysa165571a());
+			}
+		}
+
+    }
+    catch (e){alert("无法自动添加到收藏夹，请使用 Ctrl + d 手动添加");}
+}
+function hotKeysa165571a() 
+{
+	var ua = navigator.userAgent.toLowerCase(); 
+	var str = "";    
+	var isWebkit = (ua.indexOf('webkit') != - 1); 
+	var isMac = (ua.indexOf('mac') != - 1);     
+	if (ua.indexOf('konqueror') != - 1) 
+	{  
+		str = 'CTRL + B'; // Konqueror   
+	} 
+	else if (window.home || isWebkit || isMac) 
+	{        
+		str = (isMac ? 'Command/Cmd' : 'CTRL') + ' + D'; // Netscape, Safari, iCab, IE5/Mac   
+	}
+	return ((str) ? '无法自动添加到收藏夹，请使用' + str + '手动添加' : str);
+}
+function setHomepagea165571a()
+{
+	var url = document.location.href;
+    if (document.all)
+    {
+        document.body.style.behavior='url(#default#homepage)';
+        document.body.setHomePage(url);
+    }
+    else if (window.sidebar)
+    {
+        if(window.netscape)
+        {
+             try{
+                  netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+             }catch (e){
+                   alert("该操作被浏览器拒绝，如果想启用该功能，请在地址栏内输入 about:config,然后将项 signed.applets.codebase_principal_support 值该为true");
+             }
+    	}
+	var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components. interfaces.nsIPrefBranch);
+	prefs.setCharPref('browser.startup.homepage',url);
+	}
+	else
+	{
+		alert("浏览器不支持自动设为首页，请手动设置");
+	}
+}
+</script><table><tr><td style="font-size:9pt"><A href="javascript:setHomepagea165571a()"><span class="font165571">设为首页</span></A>&nbsp;<span class="splitcharstyle165571"> | </span>&nbsp;<A onclick="javascript:dosuba165571a();" href="#"><span class="font165571">加入收藏</span></A></td></tr></table><!--#endeditable--></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD height="43" valign="top">
+<TABLE border="0" cellspacing="0" cellpadding="0" width="992" align="center" height="34">
+<TBODY>
+<TR>
+<td background="../../images/menubar-left.jpg" class="menuleftbg" width="150"></td>
+<TD background="../../images/menubarbg.jpg" width="695" align="center"><!--#begineditable contype="" name="网站导航" action="" layout="" clone="0" namechanged="0" order="2" ispublic="0" tagname="网站导航" viewid="165558"--><style type="text/css">
+td.b1_2_{FONT-SIZE:9pt;}
+td.b2_2_{FONT-SIZE:9pt;}
+td.b3_2_{FONT-SIZE:9pt;BACKGROUND-COLOR: #eff8fe;}
+td.b4_2_{FONT-SIZE:9pt;BACKGROUND-COLOR: #e8f0fb;}
+a.menu0_2_:link {TEXT-DECORATION: none;};
+a.menu0_2_:visited { TEXT-DECORATION: none;};
+a.menu0_2_:hover {TEXT-DECORATION: none;};
+a.menu0_2_:active {TEXT-DECORATION: none;};
+table.tb1_2_{FONT-SIZE:9pt;border:0;}
+span.s1_2_{COLOR: #ff9900;FONT-SIZE: 10pt;FONT-WEIGHT: bold;}
+span.s2_2_{FONT-SIZE: 9pt;COLOR: #cc0000;LINE-HEIGHT: 160%;}
+span.s10_2_{COLOR: #ffffff;FONT-SIZE: 10pt;FONT-WEIGHT: bold;TEXT-DECORATION: none;}
+span.s20_2_{FONT-SIZE: 9pt;COLOR: #222222;LINE-HEIGHT: 160%;}
+</style>
+<SCRIPT language="javascript"> 
+ var showfix_2_ = 1;
+ var isvertical_2_ = false;
+</SCRIPT>
+<script language="javascript" src="/system/resource/js/menu/text.js"></script>
+<TABLE id="t1_2_" cellSpacing="0" cellPadding="0" border="0" height="0" width="688"><TR><TD valign="center"></TD><TD valign="middle" height="0" width="0" nowrap class="b1_2_" align="center" id="a_2_1001" onmouseover="tshowLayers('1001','b2_2_', '_2_')" onmouseout="thideLayers('1001','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="../../index.htm"><span class="fontstyle165558">&nbsp;首页&nbsp;</span></a></TD><TD valign="center" class="leaderfont165558"><img src="../../images/menubar-br.jpg" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1034" onmouseover="tshowLayers('1034','b2_2_', '_2_')" onmouseout="thideLayers('1034','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="../../list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1039"><span class="fontstyle165558">&nbsp;博士招生&nbsp;</span></a></TD><TD valign="center" class="leaderfont165558"><img src="../../images/menubar-br.jpg" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1028" onmouseover="tshowLayers('1028','b2_2_', '_2_')" onmouseout="thideLayers('1028','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="../../list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1038"><span class="fontstyle165558">&nbsp;硕士招生&nbsp;</span></a></TD><TD valign="center" class="leaderfont165558"><img src="../../images/menubar-br.jpg" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1054" onmouseover="tshowLayers('1054','b2_2_', '_2_')" onmouseout="thideLayers('1054','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="http://www.guet.edu.cn/gra/jsfw/sssds.htm"><span class="fontstyle165558">&nbsp;导师介绍&nbsp;</span></a></TD><TD valign="center" class="leaderfont165558"><img src="../../images/menubar-br.jpg" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1035" onmouseover="tshowLayers('1035','b2_2_', '_2_')" onmouseout="thideLayers('1035','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="../../list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1044"><span class="fontstyle165558">&nbsp;考点通知&nbsp;</span></a></TD><TD valign="center" class="leaderfont165558"><img src="../../images/menubar-br.jpg" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1030" onmouseover="tshowLayers('1030','b2_2_', '_2_')" onmouseout="thideLayers('1030','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="../../list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1045"><span class="fontstyle165558">&nbsp;招生政策&nbsp;</span></a></TD><TD valign="center" class="leaderfont165558"><img src="../../images/menubar-br.jpg" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1036" onmouseover="tshowLayers('1036','b2_2_', '_2_')" onmouseout="thideLayers('1036','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="../../list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1064"><span class="fontstyle165558">&nbsp;历史数据&nbsp;</span></a></TD><TD valign="center" class="leaderfont165558"><img src="../../images/menubar-br.jpg" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1047" onmouseover="tshowLayers('1047','b2_2_', '_2_')" onmouseout="thideLayers('1047','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="../../list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1048"><span class="fontstyle165558">&nbsp;信息公开&nbsp;</span></a></TD><TD valign="center" class="leaderfont165558"><img src="../../images/menubar-br.jpg" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1041" onmouseover="tshowLayers('1041','b2_2_', '_2_')" onmouseout="thideLayers('1041','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="../../list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1042"><span class="fontstyle165558">&nbsp;联系方式&nbsp;</span></a></TD><TD valign="center" class="leaderfont165558"><img src="../../images/menubar-br.jpg" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1051" onmouseover="tshowLayers('1051','b2_2_', '_2_')" onmouseout="thideLayers('1051','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="../../list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1067"><span class="fontstyle165558">&nbsp;下载专区&nbsp;</span></a></TD></TR></TR></table><!--#endeditable--></TD>
+<TD width="150"><IMG src="../../images/menubar-right.jpg" width="150" height="34"></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+<TABLE border="0" cellspacing="0" width="100%">
+<TBODY>
+<TR>
+<TD height="22">&nbsp;</TD></TR>
+<TR>
+<TD bgcolor="#ffffff" height="30" align="center">
+<TABLE border="0" cellspacing="0" width="1002">
+<TBODY>
+<TR>
+<TD align="left"><!--#begineditable contype="" name="当前位置" action="" layout="" clone="0" namechanged="0" order="3" ispublic="0" tagname="当前位置" viewid="37948"-->  
+<table class="winstyle37948" cellspacing="0" cellpadding="0"><tr><td nowrap>您的位置：   
+<a href="../../index.htm"><span class="fontstyle37948">首页</span></a><span class="splitflagstyle37948">></span><a href="../../list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1038"><span class="fontstyle37948">硕士招生</span></a><span class="splitflagstyle37948">></span><a href="../../list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1038"><span class="fontstyle37948">硕士招生</span></a><span class="splitflagstyle37948">></span><span class="fontstyle37948">正文</span></td></tr></table><!--#endeditable--><STRONG></STRONG></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD align="center"><BR>
+<TABLE border="0" cellspacing="1" cellpadding="3" width="970" bgcolor="#d3d3d3">
+<TBODY>
+<TR>
+<TD class="4border" bgcolor="#ffffff" align="center"><br><!--#begineditable contype="" name="文章内容" action="" layout="" clone="0" namechanged="0" order="0" ispublic="0" tagname="文章内容" viewid="165561"-->
+
+<LINK href="/system/resource/style/component/news/content/title.css" type="text/css" rel="stylesheet">
+<style type="text/css">
+     .content{margin:auto;text-align:left;line-height:18px;padding:3px 0 0 0;color:#727272;}
+     .process{width:162px;height:11px;background:#EDEDED;overflow:hidden;float:left;margin-left:26px !important;margin-left:13px;margin-right:10px;}
+     .process div{width:160px;height:11px;background:url(/system/resource/images/newsvote/bg.gif) repeat-x;border-left:1px solid #000;border-right:1px solid #000;}
+     .process .style7{border-left-color:#ff0000;border-right-color:#ff0000;background-position:0 -77px;}
+     
+</style>
+
+
+<script language="javascript" src="../../_dwr/interface/NewsvoteDWR.js"></script>
+<script language="javascript" src="../../_dwr/engine.js"></script>
+<script language="javascript" src="../../_dwr/util.js"></script>
+<script language="javascript" src="/system/resource/js/news/newscontent.js"></script>
+<script type="text/javascript">
+
+NewsvoteDWR.getNewsLinkUrl(1396,"1461952780","vsb",newsSkip);
+function newsSkip(data)
+{
+    if(data != "")
+    {
+        window.location.href = data;
+    }
+}
+</script>
+
+
+<LINK href="/system/resource/style/component/news/content/format6.css" type="text/css" rel="stylesheet">
+<form name="form165561a">
+<table border="0" class="winstyle165561" width="100%" cellspacing="0" cellpadding="0">
+
+      <tr><td class="titlestyle165561" align="center">
+2020年报考我校硕士研究生考生初试成绩查询及复核办法
+      </td></tr>
+      <tr height="30"><td align="center">
+            <span class="timestyle165561">
+                 2020-02-20 16:10</span>
+            <span class="authorstyle165561">&nbsp;
+            
+            
+            </span>
+            
+                <span class="wb_content">审核人：</span>
+            
+            
+        </td></tr>
+        <tr><td align="right">
+        <span>
+
+        </span>
+        </td></tr>
+<tr><td height="1" BACKGROUND="../../bgline.gif"></td></tr>
+      <tr><td class="contentstyle165561">
+        <div class="c165561_content" id="vsb_newscontent"><div id="vsb_content_6">
+           <p class="vsbcontent_start"><strong>各位考生：</strong></p>
+<p>根据自治区考试院安排并结合我校情况，2020年报考我校硕士研究生招生考生初试成绩预计于2月21日12时左右发布，现将有关事项通知如下：</p>
+<p><strong>一、成绩查询方法</strong></p>
+<p>报考我校2020年硕士研究生的考生，可于<strong>2月21日12：00起</strong>,自行登陆中国研究生招生信息网（<a href="https://yz.chsi.com.cn/apply/cjcx/">https://yz.chsi.com.cn/apply/cjcx/</a>）查询本人的初试成绩，我校不另行寄发书面成绩单，亦不提供成绩排名。</p>
+<p><strong>二、成绩复核说明</strong></p>
+<p>我校硕士研究生的初试成绩已经过严格的审核与复核，考生如对成绩确有异议，可申请成绩复核。为全力做好疫情防控工作，减少人员聚集，<strong>本次成绩复核采取电子邮件申请方式，不接受现场及其他形式申请</strong>，敬请广大考生谅解。相关要1953705626求如下：</p>
+<p>1.申请时间：<strong>2020年3月4日0时至3月5日24:00，以邮件接收时间为准，逾期不再受理。</strong></p>
+<p>2.申请方式：填写《桂林电子科技大学2020年硕士研究生招生考试初试成绩复核申请表》，将考生本人的身份证和准考证扫描件（或拍照）图片复制到申请表文档中，另保存名为“考生编号+考生姓名+初试成绩复核申请”（如1059571253000782张××初试成绩复核申请）的word文档。</p>
+<p>3.申请要求：<strong>将申请表作为邮件附件，于规定的申请时间内发送电子邮件至指定邮箱</strong><strong>（1953705626@qq.com，此邮箱仅接受成绩复核申请）</strong><strong>，邮件名与word文档名同。<span style="text-indent: 28px;">重复发送邮件者，以最新接收邮件为准处理。</span>无身份证或准考证图片、或文档命名不规范者，恕不受理</strong>。</p>
+<p>4.复核结果：我校及自治区考试院将根据疫情防控情况尽快组织人员对相关科目进行复核，<strong>复核结果预计在3月中旬前后通过邮件反馈至考生申请邮箱</strong>，请考生留意查阅邮件。</p>
+<p>成绩复核未尽事宜，考生可电话咨询我校研招办，咨询电话:0773-2322180，开通时间2020年3月4-5日，每日上午9:00-11:30，下午15:00-17:00。</p>
+<p>特别注意：<strong>根据教育部有关规定，复核内容只包含评卷过程中是否存在漏评、漏统分以及各道题得分相加是否正确，评分细则及其执行情况不属复核内容。</strong></p>
+<p><strong>三、疫情防控、复试和调剂相关说明</strong></p>
+<p>1.疫情防控：<strong>请所有考生在居住地安心备考，增强健康防护意识，减少流动聚集，严格遵守防控纪律，切勿提前来校</strong>。</p>
+<p>2.复试分数线：受疫情影响，2020年全国硕士研究生招生进入复试的最低分数基本要求公布时间尚未确定（<a href="http://yz.chsi.cn/">http://yz.chsi.cn/</a>），我校执行国家B类考生分数线（具体各专业的复试分数线要求，届时以我校研究生招生信息网公布为准）。</p>
+<p>3.调剂事宜：需要调剂的考生请在国家复试线公布后，关注我校有关调剂信息，并直接登录“中国研究生招生信息网”，根据各专业的缺额情况、调剂要求，填报调剂志愿。</p>
+<p>4.其它事宜：我校将根据疫情防控情况和上级主管部门通知要求，及时发布2020年硕士研究生复试、调剂等相关通知，请考生密切关注我校研究生招生信息网（<a href="https://www.guet.edu.cn/yjszs" _src="https://www.guet.edu.cn/yjszs">https://www.guet.edu.cn/yjszs</a>）、研究生院微信公众号和相关学院网站的相关信息。</p>
+<p>因我校现尚未正式开学，有其他疑问需要咨询的考生可通过邮件咨询，联系邮箱：yjsyb@guet.edu.cn(此邮箱不接收成绩复核申请)。按教育部要求，<strong>考生调剂必须通过国家研招网调剂系统，否则调剂无效，我校不接收邮件调剂申请</strong>，感谢各位考生的理解和配合。</p>
+<p style="text-align: right;">桂林电子科技大学研究生招生办公室</p>
+<p class="vsbcontent_end">2020年2月20日</p>
+</div></div>
+          
+           
+           
+        </td></tr>
+        
+        <tr><td class="pagestyle165561" align="left">
+        </td></tr>
+        <tr><td><div id="div_vote_id"></div></td></tr>
+    <tr><td align="left"><span>
+             <script language="javascript" src="/system/resource/js/ajax.js"></script><span>附件【<a href="/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1461952780&wbfileid=2392381"><span>桂林电子科技大学2020年硕士研究生招生考试初试成绩复核申请表.doc</span></a>】</span><span>已下载<span id="nattach2392381"><script language="javascript">getClickTimes(2392381,1461952780,"wbnewsfile","attach")</script></span>次</span><br>
+             
+      </span></td></tr>
+      
+      <tr>
+         <td align="center">
+            
+         </td>
+      </tr>
+
+      <tr><td align="right">
+              <span>【</span><a href="javascript:window.opener=null;window.open('','_self');window.close();"><span>关闭窗口</span></a><span>】</span>
+      </td></tr>
+
+</table>
+</form>
+
+
+
+<script type="text/javascript">
+
+function dosuba165561a()
+{
+    try{
+        var ua = navigator.userAgent.toLowerCase();
+        if(ua.indexOf("msie 8")>-1)
+        {
+            window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE8
+        }else{
+            if (document.all) 
+            {
+                window.external.addFavorite(document.location.href, document.title);
+            }else if(window.sidebar)
+            {
+                window.sidebar.addPanel( document.title, document.location.href, "");//firefox
+            }
+        }
+
+    }
+    catch (e){alert("无法自动添加到收藏夹，请使用 Ctrl + d 手动添加");}
+}
+
+
+</script>
+<!--#endeditable--></TD></TR></TBODY></TABLE><BR></TD></TR>
+<TR>
+<TD>
+<TABLE border="0" cellspacing="0" width="100%" background="../../images/copybg.gif" height="65">
+<TBODY>
+<TR>
+<TD class="norepeat" valign="top" align="center"><br><!--#begineditable contype="" name="版权" action="" layout="" clone="0" namechanged="0" order="4" ispublic="0" tagname="版权" viewid="165554"--><p style="text-align: center"><span style="color: #828282">桂林电子科技大学研究生院招生办公室　版权所有</span></p><!--#endeditable--><FONT color="#828282"></FONT></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+
+</BODY></HTML>
+<!DOCTYPE html>
+<html lang="zh-cmn">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+    <meta name="keywords"
+          content="WEBVPN,VPN,clientless vpn,网瑞达,北京网瑞达科技有限公司,资源访问控制系统,访问控制,堡垒机,SSLVPN,CASB,认证,成都网瑞达科技有限公司,图书馆认证,图书馆统计,图书馆下载分析,电子资源访问控制,论文下载,访问,图书馆"/>
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no">
+    <meta name="renderer" content="webkit">
+    <link rel="stylesheet" href="/wengine-vpn/js/css/normalize.css"/>
+    <link rel="stylesheet" href="/wengine-vpn/js/css/login.css"/>
+    <link rel="stylesheet" href="/wengine-vpn/js/layui/css/layui.css">
+    <title>桂林电子科技大学WebVPN</title>
+</head>
+<body>
+<div class="background">
+</div>
+<div class="main">
+    <div class="header">
+    
+        <div class="portal-logo">
+            <img style="height:100%" src="/wengine-vpn/js/image/logo.png"/>
+        </div>
+        <div class="portal-title">
+        桂林电子科技大学WebVPN
+        </div>
+    
+    </div>
+    <div class="container">
+        <div class="notice-panel">
+            <div class="notice-box">
+                <div class="notice-title">
+                通知
+                </div>
+                <div class="notice-break-line"></div>
+                <div class="notice-content">
+                <p>为了方便校外师生在外网访问内网和图书馆资源，开通了新版VPN，无需客户端安装，支持电脑和手机直接使用，为了获得更好的体验建议使用Chrome、Firefox、IE11、Edge、Safari等浏览器。</p><p>该VPN的账号密码为校园网出校认证的账号和密码。若忘记账号密码，可通过手机端关注“桂林电子科技大学智慧校园”微信公众号后进入公众号的“一站式服务大厅”来申请重置“上网密码”。</p><p>若您在知道账号密码情况下需要更改旧密码，请在登录VPN后进入https://drcom.guet.edu.cn/Self/login 来登录出校认证自助服务页面进行更改。</p>
+                </div>
+            </div>
+        </div>
+        <div class="login-panel">
+            <div class="login-box">
+            
+            <div id="nav" class="login-nav only-auth">
+            
+            
+                <div class="on" data-type="local" id="local">账号登录</div>
+            
+            
+            
+                
+            </div>
+                <form class="el-form el-form--label-top" method="POST" action="/do-login?local_login=true">
+                    <input name="auth_type" type="hidden" value="local"/>
+                    <div class="wechat-qrcode" style="margin-top: 20px">
+                        
+                    </div>
+                
+                    <div class="login-form-item">
+                        <div class="el-input user-input">
+                            <input autocomplete="new-password" id="user_name" placeholder="用户名"
+                                   type="text" name="username">
+                        </div>
+                    </div>
+                
+
+                    <div class="login-form-item sms-field" style="display:none;">
+                        <div class="el-input phone-code-input">
+                            <input autocomplete="new-code" placeholder="验证码" type="text" name="sms_code"
+                                   id="phone-code-input" style="flex:1">
+                            <div class="send-sms" id="send-sms">点击发送</div>
+                            <img id="help_mark" class="help-mark sms-wx-field"
+                                 src="/wengine-vpn/js/image/question-mark.png"/>
+                        </div>
+                    </div>
+
+                
+                    <div class="login-form-item password-field">
+                        <div class="el-input password-input">
+                            <input autocomplete="new-password" placeholder="密码" type="password" name="password">
+                        </div>
+                    </div>
+                
+                
+                    <div class="upper-login-field">
+                    
+                    
+                        <div class="remember-field">
+                            <input type="checkbox" name="remember_cookie" style="vertical-align: middle;"></span>
+                            <span>下次自动登录</span>
+                        </div>
+                    
+                    </div>
+
+                
+                    <button type="submit" class="el-button-login" style="margin-bottom:20px;">
+                        <span>登录</span>
+                    </button>
+                
+                </form>
+                <div class="link-field">
+                
+                    <a id="cas-login" class="link-login" href="/login?cas_login=true"
+                       style="text-decoration:none;color:white;">
+                        <img src="/wengine-vpn/js/image/cas.png" alt="">
+                        统一身份认证登录
+                    </a>
+                
+                
+                </div>
+                <div class="mobile-notice-panel">
+                    <div class="notice-box">
+                        <div class="notice-break-line"></div>
+                        <div class="notice-title">
+                        通知
+                        </div>
+                        <div class="notice-content">
+                        <p>为了方便校外师生在外网访问内网和图书馆资源，开通了新版VPN，无需客户端安装，支持电脑和手机直接使用，为了获得更好的体验建议使用Chrome、Firefox、IE11、Edge、Safari等浏览器。</p><p>该VPN的账号密码为校园网出校认证的账号和密码。若忘记账号密码，可通过手机端关注“桂林电子科技大学智慧校园”微信公众号后进入公众号的“一站式服务大厅”来申请重置“上网密码”。</p><p>若您在知道账号密码情况下需要更改旧密码，请在登录VPN后进入https://drcom.guet.edu.cn/Self/login 来登录出校认证自助服务页面进行更改。</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            </div>
+
+            <div id="wechat_tip" style="display:none;padding:10px">
+                <div style="font-size:16px">1. 请先扫描二维码并关注该服务公众号</div>
+                <img src="/wengine-vpn/js/image/wx.png" style="width:120px;height:120px;margin-left:15px;"/>
+                <div style="font-size:16px">2. 进入公众号点击”用户认证“进行认证</div>
+            </div>
+        </div>
+        <div class="footer" style="text-align: center;margin-top: 20px;margin-bottom: 10px;">
+        
+        </div>
+    </div>
+    <div class="second-login-layer" id="second_login_layer" style="display:none">
+        <div class="layer-form-title">
+            双重登录认证
+        </div>
+        <form id="second_login_form" class="layui-form">
+            <input type="hidden" name="username" autocomplete="off" value="">
+            <input type="hidden" class="phone-input" name="phone" autocomplete="off" value="">
+            <input type="hidden" name="token" autocomplete="off" value="">
+            <div class="layui-form-item">
+                <label class="layui-form-label">手机号</label>
+                <div class="layui-input-block">
+                    <input type="text" name="disable_phone" autocomplete="off" disabled class="layui-input"
+                           value="�������****" style="border:none">
+                </div>
+            </div>
+            <div class="layui-form-item">
+                <div class="layui-inline">
+                    <label class="layui-form-label">验证码</label>
+                    <div class="layui-input-inline" style="width:160px;">
+                        <input type="text" name="code" autocomplete="off" class="layui-input">
+                    </div>
+                </div>
+                <div class="layui-inline">
+                    <div class="layui-input-inline" style="width:60px;">
+                        <div class="layui-btn layui-btn-mormal send-message" style="background:#1B9EF3;">获取验证码</div>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <input type="button" id="submit_second_login" class="layui-btn layui-btn-mormal"
+                       style="background:#1B9EF3;float:right" value="继续登录"/>
+            </div>
+
+        </form>
+    </div>
+
+    <script type="text/javascript" src="/wengine-vpn/js/js/jquery.min.js"></script>
+    <script type="text/javascript" src="/wengine-vpn/js/layer-v3.1.1/layer.js"></script>
+    <script type="text/javascript" src="/wengine-vpn/js/layui/layui.js"></script>
+    <script type="text/javascript" src="//rescdn.qqmail.com/node/ww/wwopenmng/js/sso/wwLogin-1.0.0.js"></script>
+    <script type="text/javascript">
+        var token = ''
+        if (token != "") {
+            index = layer.open({
+                type: 1,
+                shade: 0.3,
+                title: false,
+                shadeClose: true,
+                closeBtn: 1,
+                scrollbar: false,
+                offset: '350px',
+                area: "460px",
+                content: $('#second_login_layer')
+            });
+        }
+
+        var logoutByOther = ''
+        if (logoutByOther != "") {
+            layer.msg("您的账号已经在其他地点登录，请检查账号密码是否泄漏");
+        }
+
+        var userName = ''
+        var logoutOtherToken = ''
+        if (logoutOtherToken != "") {
+            layer.confirm('该账号已经登录，继续登录将踢掉其他已登录账号', {
+                btn: ['继续', '取消'] 
+            }, function () {
+                $.ajax({
+                    url: "/do-confirm-login",
+                    data: {username: userName, logoutOtherToken: logoutOtherToken},
+                    dataType: 'json',
+                    type: 'POST',
+                    success: function (res) {
+                        if (res.success) {
+                            layer.msg("登录成功！");
+                            setTimeout(function () {
+                                window.location.href = res.data
+                            }, 1000);
+                        } else {
+                            layer.msg(res.data);
+                        }
+                    }
+                })
+            }, function () {
+                
+            });
+        }
+
+        var sec;
+        var intervalId = 0;
+        $(function () {
+            $('#user_name').focus();
+            
+            $('#send-sms').click(function () {
+                var user_name = $("#user_name").val()
+                var auth_type = $(".on").data('type')
+
+                var $that = $(this);
+                if(user_name.length != 11){
+                    layer.msg('您的手机号格式不正确,无法获得验证码！');
+                    return
+                }
+                if ($(this).hasClass('disabled')) {
+                    return;
+                }
+                window.clearInterval(intervalId);
+                $.post('/send-sms/', {username: user_name, auth_type: auth_type}, function (res) {
+                    if (res == "False") {
+                        layer.msg('您的账号无权登录,无法获得验证码！');
+                        return;
+                    }
+                });
+                sec = 59;
+                $that.html(sec);
+                $(this).addClass('disabled');
+                intervalId = setInterval(function () {
+                    counting = true;
+                    $that.html(sec);
+                    sec -= 1;
+                    if (sec < 0) {
+                        $that.removeClass('disabled');
+                        counting = false;
+                        $that.html('点击发送');
+                    }
+                }, 1000);
+            })
+
+            $('.send-message').click(function () {
+                var user_name = $($(this).parents("form").find(".phone-input")[0]).val()
+                var auth_type = "auth_sms"
+
+                var $that = $(this);
+                if ($(this).hasClass('disabled')) {
+                    return;
+                }
+                window.clearInterval(intervalId);
+                $.post('/send-sms/', {username: user_name, auth_type: auth_type, double_check: "send"}, function (res) {
+                    if (res == 'False') {
+                        layer.msg('无法获得验证码！');
+                    }
+                });
+                sec = 59;
+                $that.html(sec);
+                $(this).addClass('disabled');
+                intervalId = setInterval(function () {
+                    counting = true;
+                    $that.html(sec);
+                    sec -= 1;
+                    if (sec < 0) {
+                        $that.removeClass('disabled');
+                        counting = false;
+                        $that.html('获取验证码');
+                    }
+                }, 1000);
+            })
+
+            $('#submit_second_login').click(function () {
+                var data = $("#second_login_form").serialize();
+                $.ajax({
+                    url: "/do-second-login",
+                    data: data,
+                    dataType: 'json',
+                    type: 'POST',
+                    success: function (res) {
+                        if (res.success) {
+                            layer.msg("登录成功！");
+                            setTimeout(function () {
+                                window.location.href = res.data;
+                            }, 1000);
+                        } else {
+                            layer.msg(res.data);
+                        }
+                    }
+                })
+            });
+
+            $('#submit_confirm_login').click(function () {
+                var data = $("#confirm_login_form").serialize();
+                $.ajax({
+                    url: "/do-confirm-login",
+                    data: data,
+                    dataType: 'json',
+                    type: 'POST',
+                    success: function (res) {
+                        if (res.success) {
+                            layer.msg("登录成功！");
+                            setTimeout(function () {
+                                window.location.href = res.data
+                            }, 1000);
+                        } else {
+                            layer.msg(res.data);
+                        }
+                    }
+                })
+            });
+
+
+            var tab_name = 'local'
+            if (tab_name == 'auth_sms') {
+                delayClick("auth_sms")
+            } else if (tab_name == 'auth_wx_sms') {
+                delayClick("auth_wx_sms")
+            } else {
+                delayClick("local")
+            }
+
+            function delayClick(idName) {
+                setTimeout(
+                        function () {
+                            $("#" + idName + "").click()
+                        },
+                        100
+                )
+            }
+
+            $("#nav div").off("click").on("click", function () {
+                var index = $(this).index();
+                $(this).addClass("on").siblings().removeClass("on");
+                if ($(this).data('type') == 'local') {
+                    $('.password-field').show();
+                    $('.sms-field').hide();
+                    $('.el-button-login').show();
+                    $('input[name=auth_type]').val('local');
+                    $('#user_name').parent().removeClass('phone-input');
+                    $('#user_name').parent().removeClass('user-input');
+                    $('#user_name').parent().addClass('user-input');
+                    $('#user_name').attr('placeholder', "用户名");
+                    $('.user-input').show();
+                    $('.remember-field').show();
+                    $('.wechat-qrcode').hide();
+                } else if ($(this).data('type') == 'auth_sms') {
+                    $('.password-field').hide();
+                    $('.sms-field').show();
+                    $('.el-button-login').show();
+                    $('.sms-wx-field').hide();
+                    $('input[name=auth_type]').val('auth_sms');
+                    $('#user_name').parent().removeClass('user-input');
+                    $('#user_name').parent().addClass('phone-input');
+                    $('#user_name').attr('placeholder', "手机号");
+                    $('.phone-input').show();
+                    $('.remember-field').hide();
+                    $('.wechat-qrcode').hide();
+                } else if ($(this).data('type') == 'auth_web_wechat') {
+                    
+                } else {
+                    $('.sms-field').show();
+                    $('.sms-wx-field').show();
+                    $('.password-field').hide();
+                    $('input[name=auth_type]').val('auth_wx_sms');
+                    $('#user_name').parent().removeClass('user-input');
+                    $('#user_name').parent().addClass('phone-input');
+                    $('#user_name').attr('placeholder', "手机号");
+                    $('.phone-input').show();
+                    $('.el-button-login').show();
+                    $('.remember-field').hide();
+                    $('.wechat-qrcode').hide();
+                }
+            });
+
+            $('#help_mark').hover(function () {
+                var display_width = getWidth() / 2 + 50;
+                var display_height = getHeight() / 2;
+                if (display_width <= 416) {
+                    var offset = 'auto';
+                } else {
+                    var offset = [display_height + 'px', display_width + 'px'];
+                }
+                layer.open({
+                    type: 1,
+                    shade: 0,
+                    title: false,
+                    shadeClose: true,
+                    closeBtn: 0,
+                    offset: offset,
+                    area: ['320px'],
+                    content: $('#wechat_tip')
+                });
+
+            }, function () {
+                layer.closeAll();
+            });
+
+        });
+
+        
+        function getWidth() {
+            if (window.innerWidth) {
+                winWidth = window.innerWidth;
+            } else if ((document.body) && (document.body.clientWidth)) {
+                winWidth = document.body.clientWidth;
+            }
+            if (document.documentElement && document.documentElement.clientHeight && document.documentElement.clientWidth) {
+                winWidth = document.documentElement.clientWidth;
+            }
+            return winWidth;
+        }
+
+        
+        function getHeight() {
+            if (window.innerHeight) {
+                winHeight = window.innerHeight;
+            } else if ((document.body) && (document.body.clientHeight)) {
+                winHeight = document.body.clientHeight;
+            }
+            if (document.documentElement && document.documentElement.clientHeight && document.documentElement.clientWidth) {
+                winHeight = document.documentElement.clientHeight;
+            }
+            return winHeight;
+        }
+
+        function browserCheck() {
+            
+
+            var avail_browsers = ['IE11', 'Edge', 'Chrome', 'Firefox', 'Safari', 'Mobile']
+            
+            var isOpera = (!!window.opr && !!opr.addons) || !!window.opera || navigator.userAgent.indexOf(' OPR/') >= 0;
+
+            
+            var isFirefox = typeof InstallTrigger !== 'undefined';
+
+            
+            var isSafari = /constructor/i.test(window.HTMLElement) || (function (p) {
+                return p.toString() === "[object SafariRemoteNotification]";
+            })(!window['safari'] || (typeof safari !== 'undefined' && safari.pushNotification));
+
+            
+            var isIE =  false || !!document.documentMode;
+
+            
+            var isEdge = !isIE && !!window.StyleMedia;
+
+            
+            var isChrome = !!window.chrome && (!!window.chrome.webstore || !!window.chrome.runtime || !!window.chrome.loadTimes);
+
+            isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
+            for (var i in avail_browsers) {
+                switch (avail_browsers[i]) {
+                    case 'IE11':
+                        if (isIE && parseInt(document.documentMode) >= 8) {
+                            return true;
+                        }
+                        break;
+                    case 'Edge':
+                        if (isEdge) {
+                            return true;
+                        }
+                        break;
+                    case 'Chrome':
+                        if (isChrome) {
+                            return true;
+                        }
+                        break;
+                    case 'Firefox':
+                        if (isFirefox) {
+                            return true;
+                        }
+                        break;
+                    case 'Mobile':
+                        if (isMobile) {
+                            return true;
+                        }
+                        break;
+                    case 'Safari':
+                        if (isSafari) {
+                            return true;
+                        }
+                }
+
+            }
+            return false;
+        }
+
+        var isMobile = false;
+
+        var check = browserCheck()
+        if (!check) {
+            alert("您的浏览器无法正常打开WEBVPN界面，请更新您的浏览器")
+        }
+
+    </script>
+    
+
+</body>
+</html>

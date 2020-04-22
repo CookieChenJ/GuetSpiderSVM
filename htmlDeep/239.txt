@@ -1,0 +1,1414 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <meta charset="utf-8">
+        <title>人工智能学院</title><META Name="keywords" Content="人工智能学院" />
+
+        <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" />
+        <link rel="stylesheet" type="text/css" href="css/iconfont.css" />
+        <link rel="stylesheet" type="text/css" href="css/head-footer.css" />
+        <link rel="stylesheet" type="text/css" href="css/index.css" />
+
+        <script type="text/javascript" src="js/jquery.min.js"></script>
+        <script type="text/javascript" src="js/bootstrap.min.js"></script>
+
+        <style>
+            .content-box .content-box-top .content-box-top-right ul li:hover a {
+                color: red;}
+            /*轮播图区样式重写*/
+            
+            .glyphicon-chevron-right:before {
+                content: none;}
+            /*去掉自带图标样式*/
+            
+            .glyphicon-chevron-left:before {
+                content: none;}
+            /*大轮播图区样式重写*/
+            
+            #myCarouselBanner {
+                width: 100%;
+                height: 450px;
+                margin: 0px auto;
+                min-width: 1000px;}
+            
+            .banner-a {
+                position: absolute;
+                width: 1199px;
+                height: 30px;
+                background: rgba(0, 0, 8, 0.6);
+                left: 0px;
+                bottom: 0px;
+                text-align: left;}
+            
+            .banner-a>a {
+                position: absolute;
+                color: #FFF;
+                display: block;
+                margin-left: 20px;
+                font-size: 20px;
+                margin-top: -8px;
+                opacity: 1;} 
+            .content-box-below-ulli{width:1149px; height: auto; margin: 20px auto 0px;overflow: hidden;}
+             .content-box-below-ulli li{ background:#FFF; height:250px; width:570px;float:left;}
+            .content-box-below-ulli li .link-middle-img{  float: left;width:180px;height:220px;}
+            .link-middle-font{width:350px;  margin-left: 20px;height:220px ;  background:  ;}
+        </style>
+
+    <!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="index.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/vsbscreen.min.js" id="_vsbscreen" devices="pc|mobile|pad"></script>
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1540022652)</script>
+</head>
+
+    <body>
+        <div class="head">
+            <div class="head-left">
+
+                <!--#begineditable name="LOGO_A" viewid="200416" tagname="LOGO_A" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""-->
+<!-- 网站logo图片地址请在本组件"内容配置-网站logo"处填写 -->
+<a href="" title="人工智能学院">
+<div class="head-left-img">
+    <img src="images/logo22.png" width="550" height="140" border="0" alt="人工智能学院" title="人工智能学院">
+</div>
+ 
+</a><!--#endeditable-->
+
+            </div>
+            <div class="head-right">
+                <div class="head-right-link">
+                    
+                </div>
+                <div class="head-right-search">
+                    <!--#begineditable name="全文检索" viewid="200402" tagname="全文检索" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--><script type="text/javascript">
+    function _nl_ys_check(){
+        
+        var keyword = document.getElementById('showkeycode200402').value;
+        if(keyword==null||keyword==""){
+            alert("请输入你要检索的内容！");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkeyword200402").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkeyword200402").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkeyword200402").value = base64.encode(document.getElementById("lucenenewssearchkeyword200402").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode200402"));
+        return true;
+    } 
+</script>
+<form action="search_list.jsp?wbtreeid=1001" method="post" id="au1a" name="au1a" onsubmit="return _nl_ys_check()" style="display: inline">
+ <input type="hidden" id="lucenenewssearchkeyword200402" name="lucenenewssearchkeyword" value=""><input type="hidden" id="_lucenesearchtype200402" name="_lucenesearchtype" value="1"><input type="hidden" id="searchScope200402" name="searchScope" value="0">
+  
+ <input name="showkeycode" id="showkeycode200402" placeholder="请输入搜索内容" style="padding: 0px 6px; border: none; display: inline-block;height: 28px; width: 136px" />
+ <input type="image" align="absmiddle" src="https://www.guet.edu.cn/sai/images/search.png" style="width: 22px;height: 22px;margin-top: 5px;cursor: hand" />
+
+
+</form><script language="javascript" src="/system/resource/js/base64.js"></script><script language="javascript" src="/system/resource/js/formfunc.js"></script>
+<!--#endeditable-->
+                </div>
+            </div>
+        </div>
+        <!--nav开始-->
+
+        <div class="nav">
+            <!--#begineditable name="网站导航" viewid="200403" tagname="网站导航" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--><ul>
+    <li>
+        <a href="index.htm" title="Home">Home</a>
+    </li>
+    <li>
+        <a href="About.htm" title="About">About</a>
+        <ul class="erji_item" style="border-bottom: none;">
+		<li>
+		       <a href="About/Background.htm">Background</a>
+                 </li>
+		
+		<li>
+		       <a href="About/Vision___Mission.htm">Vision &amp; Mission</a>
+                 </li>
+		
+		<li>
+		       <a href="About/Milestones.htm">Milestones</a>
+                 </li>
+		
+		<li>
+		       <a href="About/Collaborator.htm">Collaborator</a>
+                 </li>
+		
+        </ul>
+    </li>
+    <li>
+        <a href="People.htm" title="People">People</a>
+        <ul class="erji_item" style="border-bottom: none;">
+		<li>
+		       <a href="People/Faculty.htm">Faculty</a>
+                 </li>
+		
+		<li>
+		       <a href="People/Staff.htm">Staff</a>
+                 </li>
+		
+        </ul>
+    </li>
+    <li>
+        <a href="Teaching.htm" title="Teaching">Teaching</a>
+        <ul class="erji_item" style="border-bottom: none;">
+		<li>
+		       <a href="Teaching/Programs.htm">Programs</a>
+                 </li>
+		
+		<li>
+		       <a href="Teaching/Admission.htm">Admission</a>
+                 </li>
+		
+        </ul>
+    </li>
+    <li>
+        <a href="Research.htm" title="Research">Research</a>
+    </li>
+    <li>
+        <a href="ADCe.htm" title="ADC">ADC</a>
+        <ul class="erji_item" style="border-bottom: none;">
+		<li>
+		       <a href="ADCe/Abstract.htm">Abstract</a>
+                 </li>
+		
+		<li>
+		       <a href="ADCe/Academic_Promotion.htm">Academic Promotion</a>
+                 </li>
+		
+		<li>
+		       <a href="ADCe/Technology_Innovation.htm">Technology Innovation</a>
+                 </li>
+		
+		<li>
+		       <a href="ADCe/Career_Development.htm">Career Development</a>
+                 </li>
+		
+		<li>
+		       <a href="ADCe/Entrepreneurship_Education.htm">Entrepreneurship Education</a>
+                 </li>
+		
+        </ul>
+    </li>
+    <li>
+        <a href="djgz.htm" title="党建工作">党建工作</a>
+        <ul class="erji_item" style="border-bottom: none;">
+		<li>
+		       <a href="djgz/djgz.htm">党建工作</a>
+                 </li>
+		
+        </ul>
+    </li>
+</ul><!--#endeditable-->
+        </div>
+        <!--nav结束-->
+
+        <!--banner图开始-
+        <div class="banner">
+            <div class="banner-img" style="height:450px;">
+                  
+            </div>
+        </div>
+      -->
+        <!--
+            作者：offline
+            时间：2018-06-23
+            描述：轮播图区
+        -->
+        <div style="margin:0px auto;background: #f8f8f8;height: 450px;width:1280px;">
+            <div class="banner" style="height: 450px;width:1199px">
+
+                <div id="myCarouselBanner" class="carousel slide">
+                    <!-- 轮播（Carousel）指标 -->
+                    <ol class="carousel-indicators" style="left:95%;bottom:2px;width: 20%;">
+                        <!--#begineditable name="b-图" viewid="201589" tagname="b-图" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""-->    <script language="javascript" src="/system/resource/js/dynclicks.js"></script> 
+          
+  <li data-target="#myCarouselBanner" data-slide-to="u3" class="active"></li>
+                 
+        
+      
+ <li data-target="#myCarouselBanner" data-slide-to=""></li>
+
+                 
+        
+      
+ <li data-target="#myCarouselBanner" data-slide-to=""></li>
+
+                 
+        
+      
+ <li data-target="#myCarouselBanner" data-slide-to=""></li>
+
+                 
+        
+      
+ <li data-target="#myCarouselBanner" data-slide-to=""></li>
+
+                 
+        
+<!--#endeditable-->
+                    </ol>
+                    <!-- 轮播（Carousel）项目 -->
+                    <div class="carousel-inner">
+                        <!--#begineditable name="banner" viewid="201588" tagname="banner" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""-->     
+             
+                 <div class="item active" style="    height: 450px;">
+		    <img ondragstart="false" src="images/3747A32DC89DB38FC251D97798E_058738E7_15C90.jpg" alt="First slide" height="450" style="    margin: 0px auto;">
+		  <div class="carousel-caption banner-a"><a href=""></a></div>
+                 </div>
+       
+         
+	       <div class="item" style="    height: 450px;">
+		 <img ondragstart="false" src="images/999.jpg" alt="First slide" height="450" style="    margin: 0px auto;">
+			<div class="carousel-caption banner-a"><a href="">普林斯顿大学本科生张研同学应邀来我院进行交流</a>
+                      </div>
+                </div>
+       
+         
+	       <div class="item" style="    height: 450px;">
+		 <img ondragstart="false" src="images/000.jpg" alt="First slide" height="450" style="    margin: 0px auto;">
+			<div class="carousel-caption banner-a"><a href="">人工智能学院开展编程强化训练</a>
+                      </div>
+                </div>
+       
+         
+	       <div class="item" style="    height: 450px;">
+		 <img ondragstart="false" src="images/09090909.jpg" alt="First slide" height="450" style="    margin: 0px auto;">
+			<div class="carousel-caption banner-a"><a href="">人工智能学院开展四级模拟考</a>
+                      </div>
+                </div>
+       
+         
+	       <div class="item" style="    height: 450px;">
+		 <img ondragstart="false" src="images/33333.jpg" alt="First slide" height="450" style="    margin: 0px auto;">
+			<div class="carousel-caption banner-a"><a href="">人工智能学院李玉洁老师进行LaTEX讲座</a>
+                      </div>
+                </div>
+       
+<!--#endeditable-->
+                    </div>
+                    <!-- 轮播（Carousel）导航 -->
+                    <a class="left carousel-control" href="#myCarouselBanner" role="button" data-slide="prev">
+                        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"><i class="iconfont" style="font-size: 36px;">&#xe664;</i></span>
+                        <span class="sr-only">Previous</span>
+                    </a>
+                    <a class="right carousel-control" href="#myCarouselBanner" role="button" data-slide="next">
+                        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"><i class="iconfont" style="font-size: 36px;"> &#xe667;</i></span>
+                        <span class="sr-only">Next</span>
+                    </a>
+                </div>
+
+            </div>
+
+        </div>
+
+        <!--banner图结束-->
+
+        <div class="content" style="min-height: 530px;">
+            <div class="content-box">
+                <div class="content-box-top" style="min-height: 480px;">
+                    <div class="content-box-top-left" style="min-height: 480px;">
+                        <span>News</span>
+                        <!--#begineditable name="学院新闻-标题列表" viewid="200404" tagname="学院新闻-标题列表" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--> 
+   <div class="content-box-top-left-title">
+        <h4><a href="info/1012/1275.htm" style="color:#333; font-weight: bold;">抗疫期间，人工智能学院在行动</a></h4>
+        <e>2020-03-20</e>
+    </div>
+    <div class="content-box-top-left-img" style="height:440px">
+        <img src="/__local/E/DF/85/F3A6BCDEB6F312A425033BFF38C_B976B5AF_2D5D4.jpg" style="height:300px">
+    </div>
+    <div class="content-box-top-left-summary" style="height:440px">
+        <p style="height:280px">
+            新学期已经开始，人工智能学院不忘初心和担当，积极响应“停课不停学”的号召。在强化编程训练的同时，狠抓基础和专业课程学习，组织学生线上反馈问题、师生交流和评教活动，确保学生听懂课程，掌握知识点，提升技能，保证教学进度的同时更加注重质量，期望在2020开年学期交出一份满意的答卷。疫情尚未结束，我院牢记使命，积极进行学生疫情期间的思政教育，组织学生观看学习了思政防...
+        </p>
+        <a href="News/News.htm">MORE>></a>
+    </div>
+<script>_showDynClickBatch(['dynclicks_u5_1275'],[1275],"wbnews", 1540022652)</script>
+<!--#endeditable-->
+                    </div>
+                    <div class="content-box-top-right" style="min-height: 480px;">
+                        <span>Notices & Announcements</span>
+                        
+                            <!--#begineditable name="通知公告-标题列表" viewid="200405" tagname="通知公告-标题列表" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--><ul style="min-height: 340px;"> 
+   <li><a href="info/1013/1242.htm" target="_blank" title="【疫情防控】《求是》杂志发表习近平总书记重要文章 《在中央政治局常委会会议研究应对新型冠状病毒肺炎疫情工作时的讲话》" style="font-weight:bold;">【疫情防控】《求是》杂志发表习近平总...</a></li>
+   <li><a href="info/1013/1294.htm" target="_blank" title="人工智能学院2020年度大学生创新创业训练计划项目评审结果公示" style="font-weight:bold;">人工智能学院2020年度大学生创新创业训...</a></li>
+   <li><a href="info/1013/1284.htm" target="_blank" title="关于人工智能学院办公室主任岗位竞聘结果的公示" style="font-weight:bold;">关于人工智能学院办公室主任岗位竞聘结...</a></li>
+   <li><a href="info/1013/1265.htm" target="_blank" title="关于2020年张军教授出访法国信息公示" style="font-weight:bold;">关于2020年张军教授出访法国信息公示</a></li>
+   <li><a href="info/1013/1264.htm" target="_blank" title="桂电新冠肺炎疫情防控工作领导小组通告（第6号）" style="font-weight:bold;">桂电新冠肺炎疫情防控工作领导小组通告...</a></li>
+   <li><a href="info/1013/1244.htm" target="_blank" title="【疫情防控】人工智能学院返桂返岗疫情防控方案" style="font-weight:bold;">【疫情防控】人工智能学院返桂返岗疫情...</a></li>
+   <li><a href="info/1013/1254.htm" target="_blank" title="【疫情防控】人工智能与数字经济党支部召开疫情防控专题学习视频会议" style="font-weight:bold;">【疫情防控】人工智能与数字经济党支部...</a></li>
+   <li><a href="info/1013/1245.htm" target="_blank" title="【疫情科普】学生工作部（处）印发《新型冠状病毒感染的肺炎疫情大学生心理防护手册》" style="font-weight:bold;">【疫情科普】学生工作部（处）印发《新...</a></li>
+ </ul><script>_showDynClickBatch(['dynclicks_u6_1242','dynclicks_u6_1294','dynclicks_u6_1284','dynclicks_u6_1265','dynclicks_u6_1264','dynclicks_u6_1244','dynclicks_u6_1254','dynclicks_u6_1245'],[1242,1294,1284,1265,1264,1244,1254,1245],"wbnews", 1540022652)</script>
+<!--#endeditable-->
+                        
+                        <a href="News/Notices___Announcements.htm">MORE>></a>
+                    </div>
+                </div>
+           
+                
+                
+            </div>
+        </div>
+
+        <div class="line" style=" width: 1199px;height: 2px;margin: -2px auto 0px; background: #0B3B7F"></div>
+        <footer class="footer">
+            <div class="f-link">
+                <!--#begineditable name="友情链接-链接列表" viewid="200407" tagname="友情链接-链接列表" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--><script language="javascript" src="/system/resource/js/openlink.js"></script><UL>
+<li>友情链接</li>
+    <LI><a href="https://www.guet.edu.cn" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1540022652, 38604)">桂林电子科技大学</a></li>
+</UL>
+<!--#endeditable-->
+            </div>
+
+            <div class="copyright">
+                <!--#begineditable name="版权" viewid="200408" tagname="版权" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--><!-- 版权内容请在本组件"内容配置-版权"处填写 -->
+<p>©版权所有：桂林电子科技大学 校址：中国广西桂林金鸡路1号 邮编：541004 传真：0773-2290083</p><p>桂ICP备05000961 桂公网安备45030502000232</p><!--#endeditable-->
+            </div>
+        </footer>
+
+        <script type="text/javascript">
+            $('#myCarouselBanner').carousel({
+                interval: 5000
+            });
+            $('#myCarouselBan').carousel({
+                interval: 3000
+            });
+        </script>
+
+        <script>
+            window.onload = function() {
+                scrollPic();
+            }
+
+            function scrollPic() {
+                var scrollPic = new ScrollPic();
+                scrollPic.scrollContId = "scrollPic"; //内容容器ID
+                scrollPic.arrLeftId = "LeftArr"; //左箭头ID
+                scrollPic.arrRightId = "RightArr"; //右箭头ID
+
+                scrollPic.frameWidth = 1089; //显示框宽度
+                scrollPic.pageWidth = 104; //翻页宽度
+
+                scrollPic.speed = 10; //移动速度(单位毫秒，越小越快)
+                scrollPic.space = 10; //每次移动像素(单位px，越大越快)
+                scrollPic.autoPlay = true; //自动播放
+                scrollPic.autoPlayTime = 3; //自动播放间隔时间(秒)
+
+                scrollPic.initialize(); //初始化
+            }
+        </script>
+        <script src="https://libs.baidu.com/jquery/1.11.3/jquery.min.js"></script>
+        <script>
+            var sina = {
+                $: function(objName) {
+                    if(document.getElementById) {
+                        return eval('document.getElementById("' + objName + '")')
+                    } else {
+                        return eval('document.all.' + objName)
+                    }
+                },
+                isIE: navigator.appVersion.indexOf("MSIE") != -1 ? true : false,
+                addEvent: function(l, i, I) {
+                    if(l.attachEvent) {
+                        l.attachEvent("on" + i, I)
+                    } else {
+                        l.addEventListener(i, I, false)
+                    }
+                },
+                delEvent: function(l, i, I) {
+                    if(l.detachEvent) {
+                        l.detachEvent("on" + i, I)
+                    } else {
+                        l.removeEventListener(i, I, false)
+                    }
+                },
+                readCookie: function(O) {
+                    var o = "",
+                        l = O + "=";
+                    if(document.cookie.length > 0) {
+                        var i = document.cookie.indexOf(l);
+                        if(i != -1) {
+                            i += l.length;
+                            var I = document.cookie.indexOf(";", i);
+                            if(I == -1)
+                                I = document.cookie.length;
+                            o = unescape(document.cookie.substring(i, I))
+                        }
+                    };
+                    return o
+                },
+                writeCookie: function(i, l, o, c) {
+                    var O = "",
+                        I = "";
+                    if(o != null) {
+                        O = new Date((new Date).getTime() + o * 3600000);
+                        O = "; expires=" + O.toGMTString()
+                    };
+                    if(c != null) {
+                        I = ";domain=" + c
+                    };
+                    document.cookie = i + "=" + escape(l) + O + I
+                },
+                readStyle: function(I, l) {
+                    if(I.style[l]) {
+                        return I.style[l]
+                    } else if(I.currentStyle) {
+                        return I.currentStyle[l]
+                    } else if(document.defaultView && document.defaultView.getComputedStyle) {
+                        var i = document.defaultView.getComputedStyle(I, null);
+                        return i.getPropertyValue(l)
+                    } else {
+                        return null
+                    }
+                }
+            };
+
+            //滚动图片构造函数
+            //UI&UE Dept. mengjia
+            //080623
+            function ScrollPic(scrollContId, arrLeftId, arrRightId, dotListId) {
+                this.scrollContId = scrollContId;
+                this.arrLeftId = arrLeftId;
+                this.arrRightId = arrRightId;
+                this.dotListId = dotListId;
+                this.dotClassName = "dotItem";
+                this.dotOnClassName = "dotItemOn";
+                this.dotObjArr = [];
+                this.pageWidth = 0;
+                this.frameWidth = 0;
+                this.speed = 10;
+                this.space = 10;
+                this.pageIndex = 0;
+                this.autoPlay = true;
+                this.autoPlayTime = 5;
+                var _autoTimeObj,
+                    _scrollTimeObj,
+                    _state = "ready";
+                this.stripDiv = document.createElement("DIV");
+                this.listDiv01 = document.createElement("DIV");
+                this.listDiv02 = document.createElement("DIV");
+                if(!ScrollPic.childs) {
+                    ScrollPic.childs = []
+                };
+                this.ID = ScrollPic.childs.length;
+                ScrollPic.childs.push(this);
+                this.initialize = function() {
+                    if(!this.scrollContId) {
+                        throw new Error("必须指定scrollContId.");
+                        return
+                    };
+                    this.scrollContDiv = sina.$(this.scrollContId);
+                    if(!this.scrollContDiv) {
+                        throw new Error("scrollContId不是正确的对象.(scrollContId = \"" + this.scrollContId + "\")");
+                        return
+                    };
+                    this.scrollContDiv.style.width = this.frameWidth + "px";
+                    this.scrollContDiv.style.overflow = "hidden";
+                    this.listDiv01.innerHTML = this.listDiv02.innerHTML = this.scrollContDiv.innerHTML;
+                    this.scrollContDiv.innerHTML = "";
+                    this.scrollContDiv.appendChild(this.stripDiv);
+                    this.stripDiv.appendChild(this.listDiv01);
+                    this.stripDiv.appendChild(this.listDiv02);
+                    this.stripDiv.style.overflow = "hidden";
+                    this.stripDiv.style.zoom = "1";
+                    this.stripDiv.style.width = "32766px";
+                    if(-[1, ]) {
+                        this.listDiv01.style.cssFloat = "left";
+                        this.listDiv02.style.cssFloat = "left";
+                    } else {
+                        this.listDiv01.style.styleFloat = "left";
+                        this.listDiv02.style.styleFloat = "left";
+                    }
+                    sina.addEvent(this.scrollContDiv, "mouseover", Function("ScrollPic.childs[" + this.ID + "].stop()"));
+                    sina.addEvent(this.scrollContDiv, "mouseout", Function("ScrollPic.childs[" + this.ID + "].play()"));
+                    if(this.arrLeftId) {
+                        this.arrLeftObj = sina.$(this.arrLeftId);
+                        if(this.arrLeftObj) {
+                            sina.addEvent(this.arrLeftObj, "mousedown", Function("ScrollPic.childs[" + this.ID + "].rightMouseDown()"));
+                            sina.addEvent(this.arrLeftObj, "mouseup", Function("ScrollPic.childs[" + this.ID + "].rightEnd()"));
+                            sina.addEvent(this.arrLeftObj, "mouseout", Function("ScrollPic.childs[" + this.ID + "].rightEnd()"))
+                        }
+                    };
+                    if(this.arrRightId) {
+                        this.arrRightObj = sina.$(this.arrRightId);
+                        if(this.arrRightObj) {
+                            sina.addEvent(this.arrRightObj, "mousedown", Function("ScrollPic.childs[" + this.ID + "].leftMouseDown()"));
+                            sina.addEvent(this.arrRightObj, "mouseup", Function("ScrollPic.childs[" + this.ID + "].leftEnd()"));
+                            sina.addEvent(this.arrRightObj, "mouseout", Function("ScrollPic.childs[" + this.ID + "].leftEnd()"))
+                        }
+                    };
+                    if(this.dotListId) {
+                        this.dotListObj = sina.$(this.dotListId);
+                        if(this.dotListObj) {
+                            var pages = Math.round(this.listDiv01.offsetWidth / this.frameWidth + 0.4),
+                                i,
+                                tempObj;
+                            for(i = 0; i < pages; i++) {
+                                tempObj = document.createElement("span");
+                                this.dotListObj.appendChild(tempObj);
+                                this.dotObjArr.push(tempObj);
+                                if(i == this.pageIndex) {
+                                    tempObj.className = this.dotClassName
+                                } else {
+                                    tempObj.className = this.dotOnClassName
+                                };
+                                tempObj.title = "第" + (i + 1) + "页";
+                                sina.addEvent(tempObj, "click", Function("ScrollPic.childs[" + this.ID + "].pageTo(" + i + ")"))
+                            }
+                        }
+                    };
+                    if(this.autoPlay) {
+                        this.play()
+                    }
+                };
+                this.leftMouseDown = function() {
+                    if(_state != "ready") {
+                        return
+                    };
+                    _state = "floating";
+                    _scrollTimeObj = setInterval("ScrollPic.childs[" + this.ID + "].moveLeft()", this.speed)
+                };
+                this.rightMouseDown = function() {
+                    if(_state != "ready") {
+                        return
+                    };
+                    _state = "floating";
+                    _scrollTimeObj = setInterval("ScrollPic.childs[" + this.ID + "].moveRight()", this.speed)
+                };
+                this.moveLeft = function() {
+                    if(this.scrollContDiv.scrollLeft + this.space >= this.listDiv01.scrollWidth) {
+                        this.scrollContDiv.scrollLeft = this.scrollContDiv.scrollLeft + this.space - this.listDiv01.scrollWidth
+                    } else {
+                        this.scrollContDiv.scrollLeft += this.space
+                    };
+                    this.accountPageIndex()
+                };
+                this.moveRight = function() {
+                    if(this.scrollContDiv.scrollLeft - this.space <= 0) {
+                        this.scrollContDiv.scrollLeft = this.listDiv01.scrollWidth + this.scrollContDiv.scrollLeft - this.space
+                    } else {
+                        this.scrollContDiv.scrollLeft -= this.space
+                    };
+                    this.accountPageIndex()
+                };
+                this.leftEnd = function() {
+                    if(_state != "floating") {
+                        return
+                    };
+                    _state = "stoping";
+                    clearInterval(_scrollTimeObj);
+                    var fill = this.pageWidth - this.scrollContDiv.scrollLeft % this.pageWidth;
+                    this.move(fill)
+                };
+                this.rightEnd = function() {
+                    if(_state != "floating") {
+                        return
+                    };
+                    _state = "stoping";
+                    clearInterval(_scrollTimeObj);
+                    var fill = -this.scrollContDiv.scrollLeft % this.pageWidth;
+                    this.move(fill)
+                };
+                this.move = function(num, quick) {
+                    var thisMove = num / 5;
+                    if(!quick) {
+                        if(thisMove > this.space) {
+                            thisMove = this.space
+                        };
+                        if(thisMove < -this.space) {
+                            thisMove = -this.space
+                        }
+                    };
+                    if(Math.abs(thisMove) < 1 && thisMove != 0) {
+                        thisMove = thisMove >= 0 ? 1 : -1
+                    } else {
+                        thisMove = Math.round(thisMove)
+                    };
+                    var temp = this.scrollContDiv.scrollLeft + thisMove;
+                    if(thisMove > 0) {
+                        if(this.scrollContDiv.scrollLeft + thisMove >= this.listDiv01.scrollWidth) {
+                            this.scrollContDiv.scrollLeft = this.scrollContDiv.scrollLeft + thisMove - this.listDiv01.scrollWidth
+                        } else {
+                            this.scrollContDiv.scrollLeft += thisMove
+                        }
+                    } else {
+                        if(this.scrollContDiv.scrollLeft - thisMove <= 0) {
+                            this.scrollContDiv.scrollLeft = this.listDiv01.scrollWidth + this.scrollContDiv.scrollLeft - thisMove
+                        } else {
+                            this.scrollContDiv.scrollLeft += thisMove
+                        }
+                    };
+                    num -= thisMove;
+                    if(Math.abs(num) == 0) {
+                        _state = "ready";
+                        if(this.autoPlay) {
+                            this.play()
+                        };
+                        this.accountPageIndex();
+                        return
+                    } else {
+                        this.accountPageIndex();
+                        setTimeout("ScrollPic.childs[" + this.ID + "].move(" + num + "," + quick + ")", this.speed)
+                    }
+                };
+                this.next = function() {
+                    if(_state != "ready") {
+                        return
+                    };
+                    _state = "stoping";
+                    this.move(this.pageWidth, true)
+                };
+                this.play = function() {
+                    if(!this.autoPlay) {
+                        return
+                    };
+                    clearInterval(_autoTimeObj);
+                    _autoTimeObj = setInterval("ScrollPic.childs[" + this.ID + "].next()", this.autoPlayTime * 1000)
+                };
+                this.stop = function() {
+                    clearInterval(_autoTimeObj)
+                };
+                this.pageTo = function(num) {
+                    if(_state != "ready") {
+                        return
+                    };
+                    _state = "stoping";
+                    var fill = num * this.frameWidth - this.scrollContDiv.scrollLeft;
+                    this.move(fill, true)
+                };
+                this.accountPageIndex = function() {
+                    this.pageIndex = Math.round(this.scrollContDiv.scrollLeft / this.frameWidth);
+                    if(this.pageIndex > Math.round(this.listDiv01.offsetWidth / this.frameWidth + 0.4) - 1) {
+                        this.pageIndex = 0
+                    };
+                    var i;
+                    for(i = 0; i < this.dotObjArr.length; i++) {
+                        if(i == this.pageIndex) {
+                            this.dotObjArr[i].className = this.dotClassName
+                        } else {
+                            this.dotObjArr[i].className = this.dotOnClassName
+                        }
+                    }
+                }
+            };
+        </script>
+
+    </body>
+
+</html>
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <meta charset="utf-8">
+        <title>人工智能学院</title><META Name="keywords" Content="人工智能学院" />
+
+        <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" />
+        <link rel="stylesheet" type="text/css" href="css/iconfont.css" />
+        <link rel="stylesheet" type="text/css" href="css/head-footer.css" />
+        <link rel="stylesheet" type="text/css" href="css/index.css" />
+
+        <script type="text/javascript" src="js/jquery.min.js"></script>
+        <script type="text/javascript" src="js/bootstrap.min.js"></script>
+
+        <style>
+            .content-box .content-box-top .content-box-top-right ul li:hover a {
+                color: red;}
+            /*轮播图区样式重写*/
+            
+            .glyphicon-chevron-right:before {
+                content: none;}
+            /*去掉自带图标样式*/
+            
+            .glyphicon-chevron-left:before {
+                content: none;}
+            /*大轮播图区样式重写*/
+            
+            #myCarouselBanner {
+                width: 100%;
+                height: 450px;
+                margin: 0px auto;
+                min-width: 1000px;}
+            
+            .banner-a {
+                position: absolute;
+                width: 1199px;
+                height: 30px;
+                background: rgba(0, 0, 8, 0.6);
+                left: 0px;
+                bottom: 0px;
+                text-align: left;}
+            
+            .banner-a>a {
+                position: absolute;
+                color: #FFF;
+                display: block;
+                margin-left: 20px;
+                font-size: 20px;
+                margin-top: -8px;
+                opacity: 1;} 
+            .content-box-below-ulli{width:1149px; height: auto; margin: 20px auto 0px;overflow: hidden;}
+             .content-box-below-ulli li{ background:#FFF; height:250px; width:570px;float:left;}
+            .content-box-below-ulli li .link-middle-img{  float: left;width:180px;height:220px;}
+            .link-middle-font{width:350px;  margin-left: 20px;height:220px ;  background:  ;}
+        </style>
+
+    <!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="index.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/vsbscreen.min.js" id="_vsbscreen" devices="pc|mobile|pad"></script>
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1540022652)</script>
+</head>
+
+    <body>
+        <div class="head">
+            <div class="head-left">
+
+                <!--#begineditable name="LOGO_A" viewid="200416" tagname="LOGO_A" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""-->
+<!-- 网站logo图片地址请在本组件"内容配置-网站logo"处填写 -->
+<a href="" title="人工智能学院">
+<div class="head-left-img">
+    <img src="images/logo22.png" width="550" height="140" border="0" alt="人工智能学院" title="人工智能学院">
+</div>
+ 
+</a><!--#endeditable-->
+
+            </div>
+            <div class="head-right">
+                <div class="head-right-link">
+                    
+                </div>
+                <div class="head-right-search">
+                    <!--#begineditable name="全文检索" viewid="200402" tagname="全文检索" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--><script type="text/javascript">
+    function _nl_ys_check(){
+        
+        var keyword = document.getElementById('showkeycode200402').value;
+        if(keyword==null||keyword==""){
+            alert("请输入你要检索的内容！");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkeyword200402").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkeyword200402").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkeyword200402").value = base64.encode(document.getElementById("lucenenewssearchkeyword200402").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode200402"));
+        return true;
+    } 
+</script>
+<form action="search_list.jsp?wbtreeid=1001" method="post" id="au1a" name="au1a" onsubmit="return _nl_ys_check()" style="display: inline">
+ <input type="hidden" id="lucenenewssearchkeyword200402" name="lucenenewssearchkeyword" value=""><input type="hidden" id="_lucenesearchtype200402" name="_lucenesearchtype" value="1"><input type="hidden" id="searchScope200402" name="searchScope" value="0">
+  
+ <input name="showkeycode" id="showkeycode200402" placeholder="请输入搜索内容" style="padding: 0px 6px; border: none; display: inline-block;height: 28px; width: 136px" />
+ <input type="image" align="absmiddle" src="https://www.guet.edu.cn/sai/images/search.png" style="width: 22px;height: 22px;margin-top: 5px;cursor: hand" />
+
+
+</form><script language="javascript" src="/system/resource/js/base64.js"></script><script language="javascript" src="/system/resource/js/formfunc.js"></script>
+<!--#endeditable-->
+                </div>
+            </div>
+        </div>
+        <!--nav开始-->
+
+        <div class="nav">
+            <!--#begineditable name="网站导航" viewid="200403" tagname="网站导航" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--><ul>
+    <li>
+        <a href="index.htm" title="Home">Home</a>
+    </li>
+    <li>
+        <a href="About.htm" title="About">About</a>
+        <ul class="erji_item" style="border-bottom: none;">
+		<li>
+		       <a href="About/Background.htm">Background</a>
+                 </li>
+		
+		<li>
+		       <a href="About/Vision___Mission.htm">Vision &amp; Mission</a>
+                 </li>
+		
+		<li>
+		       <a href="About/Milestones.htm">Milestones</a>
+                 </li>
+		
+		<li>
+		       <a href="About/Collaborator.htm">Collaborator</a>
+                 </li>
+		
+        </ul>
+    </li>
+    <li>
+        <a href="People.htm" title="People">People</a>
+        <ul class="erji_item" style="border-bottom: none;">
+		<li>
+		       <a href="People/Faculty.htm">Faculty</a>
+                 </li>
+		
+		<li>
+		       <a href="People/Staff.htm">Staff</a>
+                 </li>
+		
+        </ul>
+    </li>
+    <li>
+        <a href="Teaching.htm" title="Teaching">Teaching</a>
+        <ul class="erji_item" style="border-bottom: none;">
+		<li>
+		       <a href="Teaching/Programs.htm">Programs</a>
+                 </li>
+		
+		<li>
+		       <a href="Teaching/Admission.htm">Admission</a>
+                 </li>
+		
+        </ul>
+    </li>
+    <li>
+        <a href="Research.htm" title="Research">Research</a>
+    </li>
+    <li>
+        <a href="ADCe.htm" title="ADC">ADC</a>
+        <ul class="erji_item" style="border-bottom: none;">
+		<li>
+		       <a href="ADCe/Abstract.htm">Abstract</a>
+                 </li>
+		
+		<li>
+		       <a href="ADCe/Academic_Promotion.htm">Academic Promotion</a>
+                 </li>
+		
+		<li>
+		       <a href="ADCe/Technology_Innovation.htm">Technology Innovation</a>
+                 </li>
+		
+		<li>
+		       <a href="ADCe/Career_Development.htm">Career Development</a>
+                 </li>
+		
+		<li>
+		       <a href="ADCe/Entrepreneurship_Education.htm">Entrepreneurship Education</a>
+                 </li>
+		
+        </ul>
+    </li>
+    <li>
+        <a href="djgz.htm" title="党建工作">党建工作</a>
+        <ul class="erji_item" style="border-bottom: none;">
+		<li>
+		       <a href="djgz/djgz.htm">党建工作</a>
+                 </li>
+		
+        </ul>
+    </li>
+</ul><!--#endeditable-->
+        </div>
+        <!--nav结束-->
+
+        <!--banner图开始-
+        <div class="banner">
+            <div class="banner-img" style="height:450px;">
+                  
+            </div>
+        </div>
+      -->
+        <!--
+            作者：offline
+            时间：2018-06-23
+            描述：轮播图区
+        -->
+        <div style="margin:0px auto;background: #f8f8f8;height: 450px;width:1280px;">
+            <div class="banner" style="height: 450px;width:1199px">
+
+                <div id="myCarouselBanner" class="carousel slide">
+                    <!-- 轮播（Carousel）指标 -->
+                    <ol class="carousel-indicators" style="left:95%;bottom:2px;width: 20%;">
+                        <!--#begineditable name="b-图" viewid="201589" tagname="b-图" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""-->    <script language="javascript" src="/system/resource/js/dynclicks.js"></script> 
+          
+  <li data-target="#myCarouselBanner" data-slide-to="u3" class="active"></li>
+                 
+        
+      
+ <li data-target="#myCarouselBanner" data-slide-to=""></li>
+
+                 
+        
+      
+ <li data-target="#myCarouselBanner" data-slide-to=""></li>
+
+                 
+        
+      
+ <li data-target="#myCarouselBanner" data-slide-to=""></li>
+
+                 
+        
+      
+ <li data-target="#myCarouselBanner" data-slide-to=""></li>
+
+                 
+        
+<!--#endeditable-->
+                    </ol>
+                    <!-- 轮播（Carousel）项目 -->
+                    <div class="carousel-inner">
+                        <!--#begineditable name="banner" viewid="201588" tagname="banner" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""-->     
+             
+                 <div class="item active" style="    height: 450px;">
+		    <img ondragstart="false" src="images/3747A32DC89DB38FC251D97798E_058738E7_15C90.jpg" alt="First slide" height="450" style="    margin: 0px auto;">
+		  <div class="carousel-caption banner-a"><a href=""></a></div>
+                 </div>
+       
+         
+	       <div class="item" style="    height: 450px;">
+		 <img ondragstart="false" src="images/999.jpg" alt="First slide" height="450" style="    margin: 0px auto;">
+			<div class="carousel-caption banner-a"><a href="">普林斯顿大学本科生张研同学应邀来我院进行交流</a>
+                      </div>
+                </div>
+       
+         
+	       <div class="item" style="    height: 450px;">
+		 <img ondragstart="false" src="images/000.jpg" alt="First slide" height="450" style="    margin: 0px auto;">
+			<div class="carousel-caption banner-a"><a href="">人工智能学院开展编程强化训练</a>
+                      </div>
+                </div>
+       
+         
+	       <div class="item" style="    height: 450px;">
+		 <img ondragstart="false" src="images/09090909.jpg" alt="First slide" height="450" style="    margin: 0px auto;">
+			<div class="carousel-caption banner-a"><a href="">人工智能学院开展四级模拟考</a>
+                      </div>
+                </div>
+       
+         
+	       <div class="item" style="    height: 450px;">
+		 <img ondragstart="false" src="images/33333.jpg" alt="First slide" height="450" style="    margin: 0px auto;">
+			<div class="carousel-caption banner-a"><a href="">人工智能学院李玉洁老师进行LaTEX讲座</a>
+                      </div>
+                </div>
+       
+<!--#endeditable-->
+                    </div>
+                    <!-- 轮播（Carousel）导航 -->
+                    <a class="left carousel-control" href="#myCarouselBanner" role="button" data-slide="prev">
+                        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"><i class="iconfont" style="font-size: 36px;">&#xe664;</i></span>
+                        <span class="sr-only">Previous</span>
+                    </a>
+                    <a class="right carousel-control" href="#myCarouselBanner" role="button" data-slide="next">
+                        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"><i class="iconfont" style="font-size: 36px;"> &#xe667;</i></span>
+                        <span class="sr-only">Next</span>
+                    </a>
+                </div>
+
+            </div>
+
+        </div>
+
+        <!--banner图结束-->
+
+        <div class="content" style="min-height: 530px;">
+            <div class="content-box">
+                <div class="content-box-top" style="min-height: 480px;">
+                    <div class="content-box-top-left" style="min-height: 480px;">
+                        <span>News</span>
+                        <!--#begineditable name="学院新闻-标题列表" viewid="200404" tagname="学院新闻-标题列表" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--> 
+   <div class="content-box-top-left-title">
+        <h4><a href="info/1012/1275.htm" style="color:#333; font-weight: bold;">抗疫期间，人工智能学院在行动</a></h4>
+        <e>2020-03-20</e>
+    </div>
+    <div class="content-box-top-left-img" style="height:440px">
+        <img src="/__local/E/DF/85/F3A6BCDEB6F312A425033BFF38C_B976B5AF_2D5D4.jpg" style="height:300px">
+    </div>
+    <div class="content-box-top-left-summary" style="height:440px">
+        <p style="height:280px">
+            新学期已经开始，人工智能学院不忘初心和担当，积极响应“停课不停学”的号召。在强化编程训练的同时，狠抓基础和专业课程学习，组织学生线上反馈问题、师生交流和评教活动，确保学生听懂课程，掌握知识点，提升技能，保证教学进度的同时更加注重质量，期望在2020开年学期交出一份满意的答卷。疫情尚未结束，我院牢记使命，积极进行学生疫情期间的思政教育，组织学生观看学习了思政防...
+        </p>
+        <a href="News/News.htm">MORE>></a>
+    </div>
+<script>_showDynClickBatch(['dynclicks_u5_1275'],[1275],"wbnews", 1540022652)</script>
+<!--#endeditable-->
+                    </div>
+                    <div class="content-box-top-right" style="min-height: 480px;">
+                        <span>Notices & Announcements</span>
+                        
+                            <!--#begineditable name="通知公告-标题列表" viewid="200405" tagname="通知公告-标题列表" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--><ul style="min-height: 340px;"> 
+   <li><a href="info/1013/1242.htm" target="_blank" title="【疫情防控】《求是》杂志发表习近平总书记重要文章 《在中央政治局常委会会议研究应对新型冠状病毒肺炎疫情工作时的讲话》" style="font-weight:bold;">【疫情防控】《求是》杂志发表习近平总...</a></li>
+   <li><a href="info/1013/1294.htm" target="_blank" title="人工智能学院2020年度大学生创新创业训练计划项目评审结果公示" style="font-weight:bold;">人工智能学院2020年度大学生创新创业训...</a></li>
+   <li><a href="info/1013/1284.htm" target="_blank" title="关于人工智能学院办公室主任岗位竞聘结果的公示" style="font-weight:bold;">关于人工智能学院办公室主任岗位竞聘结...</a></li>
+   <li><a href="info/1013/1265.htm" target="_blank" title="关于2020年张军教授出访法国信息公示" style="font-weight:bold;">关于2020年张军教授出访法国信息公示</a></li>
+   <li><a href="info/1013/1264.htm" target="_blank" title="桂电新冠肺炎疫情防控工作领导小组通告（第6号）" style="font-weight:bold;">桂电新冠肺炎疫情防控工作领导小组通告...</a></li>
+   <li><a href="info/1013/1244.htm" target="_blank" title="【疫情防控】人工智能学院返桂返岗疫情防控方案" style="font-weight:bold;">【疫情防控】人工智能学院返桂返岗疫情...</a></li>
+   <li><a href="info/1013/1254.htm" target="_blank" title="【疫情防控】人工智能与数字经济党支部召开疫情防控专题学习视频会议" style="font-weight:bold;">【疫情防控】人工智能与数字经济党支部...</a></li>
+   <li><a href="info/1013/1245.htm" target="_blank" title="【疫情科普】学生工作部（处）印发《新型冠状病毒感染的肺炎疫情大学生心理防护手册》" style="font-weight:bold;">【疫情科普】学生工作部（处）印发《新...</a></li>
+ </ul><script>_showDynClickBatch(['dynclicks_u6_1242','dynclicks_u6_1294','dynclicks_u6_1284','dynclicks_u6_1265','dynclicks_u6_1264','dynclicks_u6_1244','dynclicks_u6_1254','dynclicks_u6_1245'],[1242,1294,1284,1265,1264,1244,1254,1245],"wbnews", 1540022652)</script>
+<!--#endeditable-->
+                        
+                        <a href="News/Notices___Announcements.htm">MORE>></a>
+                    </div>
+                </div>
+           
+                
+                
+            </div>
+        </div>
+
+        <div class="line" style=" width: 1199px;height: 2px;margin: -2px auto 0px; background: #0B3B7F"></div>
+        <footer class="footer">
+            <div class="f-link">
+                <!--#begineditable name="友情链接-链接列表" viewid="200407" tagname="友情链接-链接列表" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--><script language="javascript" src="/system/resource/js/openlink.js"></script><UL>
+<li>友情链接</li>
+    <LI><a href="https://www.guet.edu.cn" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1540022652, 38604)">桂林电子科技大学</a></li>
+</UL>
+<!--#endeditable-->
+            </div>
+
+            <div class="copyright">
+                <!--#begineditable name="版权" viewid="200408" tagname="版权" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--><!-- 版权内容请在本组件"内容配置-版权"处填写 -->
+<p>©版权所有：桂林电子科技大学 校址：中国广西桂林金鸡路1号 邮编：541004 传真：0773-2290083</p><p>桂ICP备05000961 桂公网安备45030502000232</p><!--#endeditable-->
+            </div>
+        </footer>
+
+        <script type="text/javascript">
+            $('#myCarouselBanner').carousel({
+                interval: 5000
+            });
+            $('#myCarouselBan').carousel({
+                interval: 3000
+            });
+        </script>
+
+        <script>
+            window.onload = function() {
+                scrollPic();
+            }
+
+            function scrollPic() {
+                var scrollPic = new ScrollPic();
+                scrollPic.scrollContId = "scrollPic"; //内容容器ID
+                scrollPic.arrLeftId = "LeftArr"; //左箭头ID
+                scrollPic.arrRightId = "RightArr"; //右箭头ID
+
+                scrollPic.frameWidth = 1089; //显示框宽度
+                scrollPic.pageWidth = 104; //翻页宽度
+
+                scrollPic.speed = 10; //移动速度(单位毫秒，越小越快)
+                scrollPic.space = 10; //每次移动像素(单位px，越大越快)
+                scrollPic.autoPlay = true; //自动播放
+                scrollPic.autoPlayTime = 3; //自动播放间隔时间(秒)
+
+                scrollPic.initialize(); //初始化
+            }
+        </script>
+        <script src="https://libs.baidu.com/jquery/1.11.3/jquery.min.js"></script>
+        <script>
+            var sina = {
+                $: function(objName) {
+                    if(document.getElementById) {
+                        return eval('document.getElementById("' + objName + '")')
+                    } else {
+                        return eval('document.all.' + objName)
+                    }
+                },
+                isIE: navigator.appVersion.indexOf("MSIE") != -1 ? true : false,
+                addEvent: function(l, i, I) {
+                    if(l.attachEvent) {
+                        l.attachEvent("on" + i, I)
+                    } else {
+                        l.addEventListener(i, I, false)
+                    }
+                },
+                delEvent: function(l, i, I) {
+                    if(l.detachEvent) {
+                        l.detachEvent("on" + i, I)
+                    } else {
+                        l.removeEventListener(i, I, false)
+                    }
+                },
+                readCookie: function(O) {
+                    var o = "",
+                        l = O + "=";
+                    if(document.cookie.length > 0) {
+                        var i = document.cookie.indexOf(l);
+                        if(i != -1) {
+                            i += l.length;
+                            var I = document.cookie.indexOf(";", i);
+                            if(I == -1)
+                                I = document.cookie.length;
+                            o = unescape(document.cookie.substring(i, I))
+                        }
+                    };
+                    return o
+                },
+                writeCookie: function(i, l, o, c) {
+                    var O = "",
+                        I = "";
+                    if(o != null) {
+                        O = new Date((new Date).getTime() + o * 3600000);
+                        O = "; expires=" + O.toGMTString()
+                    };
+                    if(c != null) {
+                        I = ";domain=" + c
+                    };
+                    document.cookie = i + "=" + escape(l) + O + I
+                },
+                readStyle: function(I, l) {
+                    if(I.style[l]) {
+                        return I.style[l]
+                    } else if(I.currentStyle) {
+                        return I.currentStyle[l]
+                    } else if(document.defaultView && document.defaultView.getComputedStyle) {
+                        var i = document.defaultView.getComputedStyle(I, null);
+                        return i.getPropertyValue(l)
+                    } else {
+                        return null
+                    }
+                }
+            };
+
+            //滚动图片构造函数
+            //UI&UE Dept. mengjia
+            //080623
+            function ScrollPic(scrollContId, arrLeftId, arrRightId, dotListId) {
+                this.scrollContId = scrollContId;
+                this.arrLeftId = arrLeftId;
+                this.arrRightId = arrRightId;
+                this.dotListId = dotListId;
+                this.dotClassName = "dotItem";
+                this.dotOnClassName = "dotItemOn";
+                this.dotObjArr = [];
+                this.pageWidth = 0;
+                this.frameWidth = 0;
+                this.speed = 10;
+                this.space = 10;
+                this.pageIndex = 0;
+                this.autoPlay = true;
+                this.autoPlayTime = 5;
+                var _autoTimeObj,
+                    _scrollTimeObj,
+                    _state = "ready";
+                this.stripDiv = document.createElement("DIV");
+                this.listDiv01 = document.createElement("DIV");
+                this.listDiv02 = document.createElement("DIV");
+                if(!ScrollPic.childs) {
+                    ScrollPic.childs = []
+                };
+                this.ID = ScrollPic.childs.length;
+                ScrollPic.childs.push(this);
+                this.initialize = function() {
+                    if(!this.scrollContId) {
+                        throw new Error("必须指定scrollContId.");
+                        return
+                    };
+                    this.scrollContDiv = sina.$(this.scrollContId);
+                    if(!this.scrollContDiv) {
+                        throw new Error("scrollContId不是正确的对象.(scrollContId = \"" + this.scrollContId + "\")");
+                        return
+                    };
+                    this.scrollContDiv.style.width = this.frameWidth + "px";
+                    this.scrollContDiv.style.overflow = "hidden";
+                    this.listDiv01.innerHTML = this.listDiv02.innerHTML = this.scrollContDiv.innerHTML;
+                    this.scrollContDiv.innerHTML = "";
+                    this.scrollContDiv.appendChild(this.stripDiv);
+                    this.stripDiv.appendChild(this.listDiv01);
+                    this.stripDiv.appendChild(this.listDiv02);
+                    this.stripDiv.style.overflow = "hidden";
+                    this.stripDiv.style.zoom = "1";
+                    this.stripDiv.style.width = "32766px";
+                    if(-[1, ]) {
+                        this.listDiv01.style.cssFloat = "left";
+                        this.listDiv02.style.cssFloat = "left";
+                    } else {
+                        this.listDiv01.style.styleFloat = "left";
+                        this.listDiv02.style.styleFloat = "left";
+                    }
+                    sina.addEvent(this.scrollContDiv, "mouseover", Function("ScrollPic.childs[" + this.ID + "].stop()"));
+                    sina.addEvent(this.scrollContDiv, "mouseout", Function("ScrollPic.childs[" + this.ID + "].play()"));
+                    if(this.arrLeftId) {
+                        this.arrLeftObj = sina.$(this.arrLeftId);
+                        if(this.arrLeftObj) {
+                            sina.addEvent(this.arrLeftObj, "mousedown", Function("ScrollPic.childs[" + this.ID + "].rightMouseDown()"));
+                            sina.addEvent(this.arrLeftObj, "mouseup", Function("ScrollPic.childs[" + this.ID + "].rightEnd()"));
+                            sina.addEvent(this.arrLeftObj, "mouseout", Function("ScrollPic.childs[" + this.ID + "].rightEnd()"))
+                        }
+                    };
+                    if(this.arrRightId) {
+                        this.arrRightObj = sina.$(this.arrRightId);
+                        if(this.arrRightObj) {
+                            sina.addEvent(this.arrRightObj, "mousedown", Function("ScrollPic.childs[" + this.ID + "].leftMouseDown()"));
+                            sina.addEvent(this.arrRightObj, "mouseup", Function("ScrollPic.childs[" + this.ID + "].leftEnd()"));
+                            sina.addEvent(this.arrRightObj, "mouseout", Function("ScrollPic.childs[" + this.ID + "].leftEnd()"))
+                        }
+                    };
+                    if(this.dotListId) {
+                        this.dotListObj = sina.$(this.dotListId);
+                        if(this.dotListObj) {
+                            var pages = Math.round(this.listDiv01.offsetWidth / this.frameWidth + 0.4),
+                                i,
+                                tempObj;
+                            for(i = 0; i < pages; i++) {
+                                tempObj = document.createElement("span");
+                                this.dotListObj.appendChild(tempObj);
+                                this.dotObjArr.push(tempObj);
+                                if(i == this.pageIndex) {
+                                    tempObj.className = this.dotClassName
+                                } else {
+                                    tempObj.className = this.dotOnClassName
+                                };
+                                tempObj.title = "第" + (i + 1) + "页";
+                                sina.addEvent(tempObj, "click", Function("ScrollPic.childs[" + this.ID + "].pageTo(" + i + ")"))
+                            }
+                        }
+                    };
+                    if(this.autoPlay) {
+                        this.play()
+                    }
+                };
+                this.leftMouseDown = function() {
+                    if(_state != "ready") {
+                        return
+                    };
+                    _state = "floating";
+                    _scrollTimeObj = setInterval("ScrollPic.childs[" + this.ID + "].moveLeft()", this.speed)
+                };
+                this.rightMouseDown = function() {
+                    if(_state != "ready") {
+                        return
+                    };
+                    _state = "floating";
+                    _scrollTimeObj = setInterval("ScrollPic.childs[" + this.ID + "].moveRight()", this.speed)
+                };
+                this.moveLeft = function() {
+                    if(this.scrollContDiv.scrollLeft + this.space >= this.listDiv01.scrollWidth) {
+                        this.scrollContDiv.scrollLeft = this.scrollContDiv.scrollLeft + this.space - this.listDiv01.scrollWidth
+                    } else {
+                        this.scrollContDiv.scrollLeft += this.space
+                    };
+                    this.accountPageIndex()
+                };
+                this.moveRight = function() {
+                    if(this.scrollContDiv.scrollLeft - this.space <= 0) {
+                        this.scrollContDiv.scrollLeft = this.listDiv01.scrollWidth + this.scrollContDiv.scrollLeft - this.space
+                    } else {
+                        this.scrollContDiv.scrollLeft -= this.space
+                    };
+                    this.accountPageIndex()
+                };
+                this.leftEnd = function() {
+                    if(_state != "floating") {
+                        return
+                    };
+                    _state = "stoping";
+                    clearInterval(_scrollTimeObj);
+                    var fill = this.pageWidth - this.scrollContDiv.scrollLeft % this.pageWidth;
+                    this.move(fill)
+                };
+                this.rightEnd = function() {
+                    if(_state != "floating") {
+                        return
+                    };
+                    _state = "stoping";
+                    clearInterval(_scrollTimeObj);
+                    var fill = -this.scrollContDiv.scrollLeft % this.pageWidth;
+                    this.move(fill)
+                };
+                this.move = function(num, quick) {
+                    var thisMove = num / 5;
+                    if(!quick) {
+                        if(thisMove > this.space) {
+                            thisMove = this.space
+                        };
+                        if(thisMove < -this.space) {
+                            thisMove = -this.space
+                        }
+                    };
+                    if(Math.abs(thisMove) < 1 && thisMove != 0) {
+                        thisMove = thisMove >= 0 ? 1 : -1
+                    } else {
+                        thisMove = Math.round(thisMove)
+                    };
+                    var temp = this.scrollContDiv.scrollLeft + thisMove;
+                    if(thisMove > 0) {
+                        if(this.scrollContDiv.scrollLeft + thisMove >= this.listDiv01.scrollWidth) {
+                            this.scrollContDiv.scrollLeft = this.scrollContDiv.scrollLeft + thisMove - this.listDiv01.scrollWidth
+                        } else {
+                            this.scrollContDiv.scrollLeft += thisMove
+                        }
+                    } else {
+                        if(this.scrollContDiv.scrollLeft - thisMove <= 0) {
+                            this.scrollContDiv.scrollLeft = this.listDiv01.scrollWidth + this.scrollContDiv.scrollLeft - thisMove
+                        } else {
+                            this.scrollContDiv.scrollLeft += thisMove
+                        }
+                    };
+                    num -= thisMove;
+                    if(Math.abs(num) == 0) {
+                        _state = "ready";
+                        if(this.autoPlay) {
+                            this.play()
+                        };
+                        this.accountPageIndex();
+                        return
+                    } else {
+                        this.accountPageIndex();
+                        setTimeout("ScrollPic.childs[" + this.ID + "].move(" + num + "," + quick + ")", this.speed)
+                    }
+                };
+                this.next = function() {
+                    if(_state != "ready") {
+                        return
+                    };
+                    _state = "stoping";
+                    this.move(this.pageWidth, true)
+                };
+                this.play = function() {
+                    if(!this.autoPlay) {
+                        return
+                    };
+                    clearInterval(_autoTimeObj);
+                    _autoTimeObj = setInterval("ScrollPic.childs[" + this.ID + "].next()", this.autoPlayTime * 1000)
+                };
+                this.stop = function() {
+                    clearInterval(_autoTimeObj)
+                };
+                this.pageTo = function(num) {
+                    if(_state != "ready") {
+                        return
+                    };
+                    _state = "stoping";
+                    var fill = num * this.frameWidth - this.scrollContDiv.scrollLeft;
+                    this.move(fill, true)
+                };
+                this.accountPageIndex = function() {
+                    this.pageIndex = Math.round(this.scrollContDiv.scrollLeft / this.frameWidth);
+                    if(this.pageIndex > Math.round(this.listDiv01.offsetWidth / this.frameWidth + 0.4) - 1) {
+                        this.pageIndex = 0
+                    };
+                    var i;
+                    for(i = 0; i < this.dotObjArr.length; i++) {
+                        if(i == this.pageIndex) {
+                            this.dotObjArr[i].className = this.dotClassName
+                        } else {
+                            this.dotObjArr[i].className = this.dotOnClassName
+                        }
+                    }
+                }
+            };
+        </script>
+
+    </body>
+
+</html>

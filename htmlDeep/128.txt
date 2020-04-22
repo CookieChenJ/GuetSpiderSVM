@@ -1,0 +1,1394 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
+<title>桂林电子科技大学离退休工作处</title><META Name="keywords" Content="离退处" />
+
+<link rel="stylesheet" href="css/style.css" type="text/css">
+<link rel="stylesheet" href="css/publice.css" type="text/css">
+<script type="text/javascript" src="js/jquery-1.8.3.min.js"></script>
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/superslide.2.1.js"></script>
+<script type="text/javascript" src="js/jquery.soChange.js"></script>
+<script type="text/javascript" src="js/index.js"></script>
+<script type="text/javascript">
+    $(function(){
+        $(".mainmenu dl").hide();
+        $("li.mainmenu").hover(function(){
+            $(this).find("dl").stop(true,true);
+            $(this).find("dl").slideDown();
+        },function(){
+            $(this).find("dl").stop(true,true);
+            $(this).find("dl").slideUp();
+        });
+    })
+</script>
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="index.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1033,'/index.jsp',-1,1411857626)</script>
+</head>
+<body>
+<!--top s-->
+<div class="topWrap clearfix">
+    <div class="topDiv">
+        
+            <!--#begineditable name="高校LOGO" viewid="164983" tagname="高校LOGO" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""-->
+<!-- 网站logo图片地址请在本组件"内容配置-网站logo"处填写 -->
+<div class="logo">
+<a href="index.htm"><img src="images/logo.png"></a>
+</div><!--#endeditable-->
+        
+        <div class="topR fr">
+            <!--#begineditable name="头部文字链接" viewid="164984" tagname="头部文字链接" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><script language="javascript" src="/system/resource/js/dynclicks.js"></script><script language="javascript" src="/system/resource/js/openlink.js"></script><div class="topR_t fr">
+     <a href="http://www.guet.edu.cn/index.htm">学校主页</a>
+     |
+     <a href="http://ltc.guet.edu.cn/">原网站</a>
+     |
+     <a href="#">处长信箱</a>
+     
+</div>
+
+
+<!--#endeditable-->
+            <!--#begineditable name="头部检索" viewid="164985" tagname="头部检索" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><script type="text/javascript">
+    function _nl_ys_check_2(){
+        
+        var keyword = document.getElementById('showkeycode164985_2').value;
+        if(keyword==null||keyword==""){
+            alert("请输入关键字搜索");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkeyword164985").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkeyword164985").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkeyword164985").value = base64.encode(document.getElementById("lucenenewssearchkeyword164985").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode164985_2"));
+        return true;
+    } 
+    function submitForm()
+    {
+        document.getElementById("au2a").submit();
+    }
+</script>
+<script type="text/javascript">
+                function test3()
+                {
+                    var tempStr=document.getElementById('showkeycode164985_2').value;
+                    if(tempStr=="请输入关键字搜索")
+                    {
+                        document.getElementById('showkeycode164985_2').value="";
+                    }
+                }
+                function test4()
+                {
+                    var tempStr=document.getElementById('showkeycode164985_2').value;
+                    if(tempStr=="")
+                    {
+                        document.getElementById('showkeycode164985_2').value="请输入关键字搜索";
+                    }
+                }
+            </script>
+<div class="Search">
+<form action="ssjg.jsp?wbtreeid=1033" method="post" id="au2a" name="au2a" onsubmit="return _nl_ys_check_2()">
+ <input type="hidden" id="lucenenewssearchkeyword164985" name="lucenenewssearchkeyword" value=""><input type="hidden" id="_lucenesearchtype164985" name="_lucenesearchtype" value="1"><input type="hidden" id="searchScope164985" name="searchScope" value="1">
+ <input type="text" value="请输入关键字搜索" name="showkeycode" class="search_text" onfocus="test3()" onblur="test4()" id="showkeycode164985_2" />
+                <div class="fdj fr"><input type="image" src="img/top_hunt.png" value="" style="padding-right:26px;;cursor: hand"></div>
+</form>
+</div><script language="javascript" src="/system/resource/js/base64.js"></script><script language="javascript" src="/system/resource/js/formfunc.js"></script>
+<!--#endeditable-->
+            
+        </div>
+    </div>
+</div>
+<!--nav-->
+<!--#begineditable name="主导航" viewid="165008" tagname="主导航" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><div class="navWrap  clearfix">
+    <div class="nav">
+    <ul>
+            <li>
+            <a class="link" href="index.htm">首页</a>
+                        
+        </li>
+        <li class="mainmenu">
+            <a class="link" href="bmjj.htm">部门简介</a>
+        </li>
+        <li class="mainmenu">
+            <a class="link" href="gwzz.htm">岗位职责</a>
+        </li>
+        <li class="mainmenu">
+            <a class="link" href="zcfg.htm">政策法规</a>
+        </li>
+        <li class="mainmenu">
+            <a class="link" href="dwdj.htm">党委党建</a>
+        </li>
+        <li class="mainmenu">
+            <a class="link" href="gxxyd.htm">关心下一代</a>
+        </li>
+        <li class="mainmenu">
+            <a class="link" href="zqxy.htm">长青学院</a>
+        </li>
+        <li class="mainmenu">
+            <a class="link" href="lnst.htm">老年社团</a>
+        </li>
+     
+    </ul>
+</div>
+</div>
+<script type="text/javascript">
+
+    $(".mainmenu dl").hide();
+
+</script><!--#endeditable-->
+<!--banner-->
+<div class="vsb-box">
+    <div class="vsb-container a" containerid="1" columns="6">
+        <div class="vsb-space bannerWrap clearfix" columns="6">
+            <!--banner1-->
+            <!--#begineditable name="带左右切换图片变换banner" viewid="165009" tagname="图片列表" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""-->        <!--banner1-->
+    <div class="banner_one">
+        <div id="slideBox" class="slideBox">
+            <div class="hd">
+                <ul>
+                    <li></li>
+            <li></li>
+        
+        </ul>
+            </div>
+            <div class="bd">
+                <ul>
+            <li><img src="images/banner01.png" /></li>
+            <li><img src="images/lunbo1.png" /></li>
+                </ul>
+            </div>
+            <a class="prev" href="javascript:void(0)"></a>
+            <a class="next" href="javascript:void(0)"></a>
+
+        </div>
+         
+    </div>
+<script type="text/javascript">
+        jQuery(".slideBox").slide({mainCell:".bd ul",autoPlay:true});
+        </script><!--#endeditable-->
+        </div>
+    </div>
+    <!--main-->
+    
+    </div>
+</div>
+<!--container-->
+<div class="vsb-box">
+    <div class="vsb-container container clearfix" containerid="2" columns="6">
+        <!--新闻信息-->
+        <div class="vsb-space new_inforBox new_inforBox2 fl" columns="4">
+            <div class="dynamic">
+                <h2>新闻动态</h2><span><a href="index/xwdt.htm" target=""><img src="temp/more.png"></a></span>
+            </div>
+            <div class="newBox">
+                <!--新闻信息-->
+                <div class="new_pic new_pic1"><!--#begineditable name="新闻动态图" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/imagechangenews.jsp" tpltype="0" contype="news" clone="" viewid="165088" contentviewid="" tagname="新闻动态图"-->
+<LINK href="/system/resource/style/component/news/list/imagechangenews.css" type="text/css" rel="stylesheet">
+<script language="javascript" src="/system/resource/js/news/imagechangenews.js"></script><script language="JavaScript">
+var u_u5_icn = new ImageChangeNews("u_u5_", 310, 220, 4, 2.0, true, false, false, true);
+
+//初始化图片, 并启动定时
+function u_u5_init_img()
+{
+
+    u_u5_icn.addimg("\/__local\/1\/F9\/09\/3ACD59ECAB4DF653EA1C71586C8_2C811581_A93E.jpg", "info\/1063\/1407.htm", "校领导走访慰问离休老干部（图）", "");
+
+    u_u5_icn.addimg("\/__local\/E\/A9\/FE\/DD4A1D8AFF78CD19B38E48F6994_4DAD8FBB_A0B8.jpg", "info\/1063\/1342.htm", "学校就家属区管理和建设与离退休老同志...", "");
+
+    u_u5_icn.addimg("\/__local\/0\/9C\/A5\/8D53F93575EA2DE0C7DF95B0E23_1C3EA9DC_9FBA.jpg", "info\/1063\/1313.htm", "校关工委召开2019年工作会议", "");
+
+    u_u5_icn.addimg("\/__local\/D\/CA\/07\/C7C363E612C4A5FCC366DAD949E_1F807C6D_8E7D.jpg", "info\/1063\/1316.htm", "离退处党委召开第四次党员大会（图）", "");
+
+    u_u5_icn.addimg("\/__local\/3\/E5\/3C\/BBC02D5E8070F333A7522C20A00_C71097AF_6B5E.jpg", "https:\/\/www.guet.edu.cn\/ltc\/info\/1073\/1226.htm", "张学洪书记检查离退老同志活动中心设施...", "");
+
+    u_u5_icn.addimg("\/__local\/B\/FC\/B9\/A3C8F7DD2D7EE358C805CE7B818_96D11838_5263.jpg", "https:\/\/www.guet.edu.cn\/ltc\/info\/1073\/1227.htm", "我校退休老教师熊发明到学校道德讲堂作...", "");
+
+    u_u5_icn.changeimg(0);
+}
+</script><table cellspacing="0" cellpadding="0" border="0" style="padding:0px margin:0px; border:0px">
+    <tr><td>
+        <div style="OVERFLOW: hidden;height:220px;width:310px">
+            <div id="u_u5_div" align="center" style="padding:0px;margin:0px;border:0px solid black;background-color:#000000;FILTER: progid:DXImageTransform.Microsoft.RevealTrans (duration=2.0,transition=23);height:220px;width:310px">
+                <div id="u_u5_imgdiv" style="padding:0px;border:0px;"><a id="u_u5_url" target="_blank"><img id="u_u5_pic" border="0" width="310" height="220" src="/system/resource/images/space.gif"></a></div>
+            </div>
+            <div style="filter:alpha(style=1,opacity=10,finishOpacity=80);width:310px;height:19px;text-align:right;top:-19px;position:relative;padding:0px;margin:0px;border:0px;">
+<a href="javascript:u_u5_icn.changeimg(0)" ; id="u_u5_selectNode0" class="imagechangenews_pnode" target="_self">1</a><a href="javascript:u_u5_icn.changeimg(1)" ; id="u_u5_selectNode1" class="imagechangenews_pnode" target="_self">2</a><a href="javascript:u_u5_icn.changeimg(2)" ; id="u_u5_selectNode2" class="imagechangenews_pnode" target="_self">3</a><a href="javascript:u_u5_icn.changeimg(3)" ; id="u_u5_selectNode3" class="imagechangenews_pnode" target="_self">4</a><a href="javascript:u_u5_icn.changeimg(4)" ; id="u_u5_selectNode4" class="imagechangenews_pnode" target="_self">5</a><a href="javascript:u_u5_icn.changeimg(5)" ; id="u_u5_selectNode5" class="imagechangenews_pnode" target="_self">6</a>
+            </div></div></td></tr>
+       
+    <tr><td height="25">
+        <div align="center" style="overflow:hidden;text-overflow:ellipsis;height:25px;width:310px;"><a target="_blank" class="titlestyle165088" id="u_u5_newstitle"></a></div>
+    </td></tr>
+<div align="left" display="none" style="overflow:hidden;text-overflow:ellipsis;height:0px;width:310px;padding-left:2px;padding-right:2px"><a target="_blank" class="summarystyle165088" id="u_u5_newssummary"></a></div>   
+</table><SCRIPT language="JavaScript">u_u5_init_img();</SCRIPT><!--#endeditable--></div>
+
+                <div class="new_list new_list3">
+                    <!--#begineditable name="标题列表-8条短日期" viewid="165024" tagname="标题列表-8条短日期" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><ul class="dynamic_list fr">
+
+<LI><A href="info/1073/1511.htm"><SPAN>[03-15]</SPAN><em>【疫情防控】关于实行广西健康码亮码出行制</em></A></LI>
+
+<LI><A href="info/1073/1502.htm"><SPAN>[03-04]</SPAN><em>【疫情防控】转发《关于印发新冠肺炎聚集性</em></A></LI>
+
+<LI><A href="info/1073/1497.htm"><SPAN>[02-29]</SPAN><em>广西发布新冠肺炎疫情防控“四早”实施方案</em></A></LI>
+
+<LI><A href="info/1073/1494.htm"><SPAN>[02-25]</SPAN><em>【疫情防控】关于启用数字防疫系统的通知</em></A></LI>
+
+<LI><A href="info/1073/1491.htm"><SPAN>[02-22]</SPAN><em>【疫情防控】关于进一步做好教职工返桂相关</em></A></LI>
+
+<LI><A href="info/1073/1479.htm"><SPAN>[02-21]</SPAN><em>广西壮族自治区新型冠状病毒感染的肺炎疫情</em></A></LI>
+
+<LI><A href="info/1073/1477.htm"><SPAN>[02-21]</SPAN><em>【疫情防控】党员干部志愿当楼栋长单元长，</em></A></LI>
+
+<LI><A href="info/1073/1451.htm"><SPAN>[01-02]</SPAN><em>离退休教职工以健步走活动迎新年到来（图）</em></A></LI>
+
+</UL><script>_showDynClickBatch(['dynclicks_u6_1511','dynclicks_u6_1502','dynclicks_u6_1497','dynclicks_u6_1494','dynclicks_u6_1491','dynclicks_u6_1479','dynclicks_u6_1477','dynclicks_u6_1451'],[1511,1502,1497,1494,1491,1479,1477,1451],"wbnews", 1411857626)</script>
+<!--#endeditable-->
+                </div>
+            </div>
+        </div>
+        <!--通知公告-->
+        <div class="vsb-space informBox informBox4 fl" columns="2"><!--#begineditable name="政策之窗" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/tpltitlelist.jsp" tpltype="1" contype="news" clone="" viewid="165070" contentviewid="" tagname="政策之窗"--><div class="dynamic cleafix">
+<h2>政策之窗</h2><span><a href="http://mwb.guet.edu.cn/system/_owners/ltc/_webprj/list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1074"><img src="temp/more.png"></a></span>
+    </div>
+<div class="infor_list">
+                <ul class="dynamic_list dynamic_list1">
+
+<li> <a href="info/1074/1498.htm">教书育人是教师最神圣的职责——给全体教师的一封信</a></li>
+<li> <a href="info/1074/1496.htm">【疫情防控】习近平在统筹推进新冠肺炎疫情防控和经济社会发展工作部署会议上的讲话</a></li>
+<li> <a href="info/1074/1484.htm">【疫情防控】习近平在中央政治局常委会会议研究应对新型冠状病毒肺炎疫情工作时的讲话</a></li>
+<li> <a href="info/1074/1483.htm">【疫情防控】广西建立疫情防控举报奖励制度 最高给举报人</a></li>
+<li> <a href="info/1074/1468.htm">坚决纠治疫情防控六类形式主义官僚主义通知</a></li>
+<li> <a href="info/1074/1467.htm">0319-桂新冠防指〔2020〕44号关于印发公共服务场所防控工作“十严格”等4项措施的通知</a></li>
+<li> <a href="info/1074/1466.htm">《疫情防控要采取 7 项“十严格”措施》之学校疫情防控工作‘十严格’</a></li>
+<li> <a href="info/1074/1038.htm">中华人民共和国老年人权益保障法</a></li>
+            </ul>
+    </div><script>_showDynClickBatch(['dynclicks_u7_1498','dynclicks_u7_1496','dynclicks_u7_1484','dynclicks_u7_1483','dynclicks_u7_1468','dynclicks_u7_1467','dynclicks_u7_1466','dynclicks_u7_1038'],[1498,1496,1484,1483,1468,1467,1466,1038],"wbnews", 1411857626)</script>
+<!--#endeditable--></div>
+    </div>  
+    <div class="vsb-container container clearfix" containerid="2" columns="6">
+        
+        
+        <!--精品课程-->
+        
+    </div>      
+        <!--新闻信息-->
+<div class="vsb-container container clearfix" containerid="2" columns="6">
+        <div class="vsb-space informBox informBoxd informBoxc1 fl" columns="2"><!--#begineditable name="党建工作" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/tpltitlelist.jsp" tpltype="1" contype="news" clone="" viewid="165065" contentviewid="" tagname="党建工作"-->                <div class="dynamic dynamicb dynamice"><h2>党建工作</h2><span><a href="http://mwb.guet.edu.cn/system/_owners/ltc/_webprj/list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1075"><img src="img/w_more.png"></a></span></div>
+                <div class="infor_list infor_lista">
+                    <ul class="dynamic_list dynamic_listb dynamic_liste fr">
+<li><a href="info/1075/1481.htm"><span>02/21</span><em>桂林市委宣传部就防疫期间学好用好“学习强国”平台印发倡议书</em></a></li>
+<li><a href="https://www.guet.edu.cn/ltc/info/1073/1384.htm"><span>07/04</span><em>离退处举办党员领导干部对接党外人士代表联谊座谈会</em></a></li>
+<li><a href="info/1075/1341.htm"><span>05/13</span><em>离退处党委第六支部赴灌阳新圩开展红色教育主题党日活动（图）</em></a></li>
+<li><a href="info/1075/1306.htm"><span>04/12</span><em>离退处党委第八支部召开支部会议（图）</em></a></li>
+<li><a href="info/1075/1305.htm"><span>04/12</span><em>离退处党委第二支部召开全体党员会议（图）</em></a></li>
+<li><a href="info/1075/1242.htm"><span>12/27</span><em>离退处党委第四支部与商学院第一、五支部举行共建交流活动（图）</em></a></li>
+
+                     </ul>
+                 </div><script>_showDynClickBatch(['dynclicks_u8_1481','dynclicks_u8_1385','dynclicks_u8_1341','dynclicks_u8_1306','dynclicks_u8_1305','dynclicks_u8_1242'],[1481,1385,1341,1306,1305,1242],"wbnews", 1411857626)</script>
+<!--#endeditable--></div>
+        <div class="vsb-space informBox informBoxd informBoxc1 fl" columns="2"><!--#begineditable name="通知公告" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/tpltitlelist.jsp" tpltype="1" contype="news" clone="" viewid="165066" contentviewid="" tagname="通知公告"-->                <div class="dynamic dynamicb dynamice"><h2>通知公告</h2><span><a href="http://www.guet.edu.cn/ltc/index/tzgg.htm"><img src="img/w_more.png"></a></span></div>
+                <div class="infor_list infor_lista">
+                    <ul class="dynamic_list dynamic_listb dynamic_liste fr">
+<li><a href="info/1064/1512.htm"><span>03/15</span><em>【疫情防控】关于实行广西健康码亮码出行制度的通告</em></a></li>
+<li><a href="info/1064/1503.htm"><span>03/04</span><em>【疫情防控】转发《关于印发新冠肺炎聚集性疫情防控工作方案的紧急通知》的通知</em></a></li>
+<li><a href="info/1064/1500.htm"><span>02/29</span><em>关于家属区出入管理的调整说明</em></a></li>
+<li><a href="info/1064/1499.htm"><span>02/29</span><em>【疫情防控】各类场所防控新冠肺炎消毒规范指引</em></a></li>
+<li><a href="info/1064/1495.htm"><span>02/25</span><em>【疫情防控】关于启用数字防疫系统的通知</em></a></li>
+<li><a href="info/1064/1493.htm"><span>02/25</span><em>重申关于进一步规范教职工亲属返桂入住学校家属区工作流程的通知</em></a></li>
+
+                     </ul>
+                 </div><script>_showDynClickBatch(['dynclicks_u9_1512','dynclicks_u9_1503','dynclicks_u9_1500','dynclicks_u9_1499','dynclicks_u9_1495','dynclicks_u9_1493'],[1512,1503,1500,1499,1495,1493],"wbnews", 1411857626)</script>
+<!--#endeditable--></div>
+        <div class="vsb-space informBox informBoxd informBoxc1 fl" columns="2"><!--#begineditable name="服务之窗" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/tpltitlelist.jsp" tpltype="1" contype="news" clone="" viewid="165069" contentviewid="" tagname="服务之窗"--><div class="dynamic cleafix">
+<h2>服务之窗</h2><span><a href="http://mwb.guet.edu.cn/system/_owners/ltc/_webprj/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1083&wbnewsid=1079"><img src="temp/more.png"></a></span></div>
+<div class="infor_list infor_lista">  
+<ul class="dynamic_list dynamic_listb dynamic_liste fr">  
+<li>人事处工资福利科：2290076</li>  
+<li>校医院急诊(金鸡岭)：2191447</li>
+<li>校医院急诊(花江):2290120</li>    
+<li>后勤处物业科:2291437</li>
+<li>后勤处五金维修:2291505</li>
+<li>后勤处水电报修（上班时间）:2292129</li>
+<li>后勤处水电报修（下班时间）:2291427</li>
+</ul>  
+</div> 
+<script>_showDynClickBatch(['dynclicks_u10_1079'],[1079],"wbnews", 1411857626)</script>
+<!--#endeditable--></div>
+        <div class="vsb-space informBox informBoxd informBoxc1 fl" columns="2"><!--#begineditable name="关心下一代" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/tpltitlelist.jsp" tpltype="1" contype="news" clone="" viewid="166019" contentviewid="" tagname="关心下一代"-->                <div class="dynamic dynamicb dynamice"><h2>关心下一代</h2><span><a href="http://www.guet.edu.cn/ltc/index/gxxyd.htm"><img src="img/w_more.png"></a></span></div>
+                <div class="infor_list infor_lista">
+                    <ul class="dynamic_list dynamic_listb dynamic_liste fr">
+<li><a href="info/1076/1513.htm"><span>03/15</span><em>【疫情防控】图书馆办事服务指南</em></a></li>
+<li><a href="info/1076/1482.htm"><span>02/21</span><em>冠状病毒肺炎学生防护手册（小学版）</em></a></li>
+<li><a href="info/1076/1432.htm"><span>10/25</span><em>《成长》刊发报道我校关工委开展“读懂中国----我和我的祖国”主题活动新闻</em></a></li>
+<li><a href="http://iw.guet.edu.cn/info/1061/60558.htm"><span>09/30</span><em>关于我校第十八期教职工子弟英语口语班开班的通知</em></a></li>
+<li><a href="http://iw.guet.edu.cn/info/1061/60377.htm"><span>09/18</span><em>关于我校第十八期教职工子弟英语口语班报名的通知</em></a></li>
+<li><a href="https://www.guet.edu.cn/ltc/info/1073/1373.htm"><span>06/25</span><em>校关工委赴北海校区开展系列培训指导 ——校关工委副主任谢先知作关工委业务培训</em></a></li>
+
+                     </ul>
+                 </div><script>_showDynClickBatch(['dynclicks_u11_1513','dynclicks_u11_1482','dynclicks_u11_1432','dynclicks_u11_1412','dynclicks_u11_1413','dynclicks_u11_1376'],[1513,1482,1432,1412,1413,1376],"wbnews", 1411857626)</script>
+<!--#endeditable--></div>
+        <div class="vsb-space informBox informBoxd informBoxc1 fl" columns="2"><!--#begineditable name="活动展示" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/tpltitlelist.jsp" tpltype="1" contype="news" clone="" viewid="165072" contentviewid="" tagname="活动展示"-->                <div class="dynamic dynamicb dynamice"><h2>活动展示</h2><span><a href="http://www.guet.edu.cn/ltc/index/hdzs.htm"><img src="img/w_more.png"></a></span></div>
+                <div class="infor_list infor_lista">
+                    <ul class="dynamic_list dynamic_listb dynamic_liste fr">
+<li><a href="info/1093/1501.htm"><span>02/29</span><em>转工会通知</em></a></li>
+<li><a href="info/1093/1476.htm"><span>02/20</span><em>疫情期间学校加强师生心理疏导服务</em></a></li>
+<li><a href="info/1093/1193.htm"><span>11/12</span><em>我校老教师获得桂林市离退休干部柔力球邀请赛第一名（图）</em></a></li>
+<li><a href="info/1093/1132.htm"><span>09/11</span><em>我校老教师柔力球队参加市老体协柔力球部联谊演出活动</em></a></li>
+
+                     </ul>
+                 </div><script>_showDynClickBatch(['dynclicks_u12_1501','dynclicks_u12_1476','dynclicks_u12_1193','dynclicks_u12_1132'],[1501,1476,1193,1132],"wbnews", 1411857626)</script>
+<!--#endeditable--></div>
+        <div class="vsb-space informBox informBoxd informBoxc1 fl" columns="2"><!--#begineditable name="联系我们" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/tpltitlelist.jsp" tpltype="1" contype="news" clone="" viewid="165087" contentviewid="" tagname="联系我们"--><div class="dynamic cleafix">
+<h2>联系我们</h2><span><a href="http://mwb.guet.edu.cn/system/_owners/ltc/_webprj/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1083&wbnewsid=1079"><img src="temp/more.png"></a></span></div>
+<div class="infor_list infor_lista">  
+<ul class="dynamic_list dynamic_listb dynamic_liste fr">  
+<li>党委书记、处长：0773-2192869</li>  
+<li>党委副书记、副处长：0773-2192859</li>  
+<li>副处长：0773-2192855</li>
+<li>离退休业务科科科长：0773-2192859</li>
+<li>综合服务科科长：0773-2192855</li>
+ 
+</ul>  
+</div> 
+<script>_showDynClickBatch(['dynclicks_u13_1513','dynclicks_u13_1512','dynclicks_u13_1511','dynclicks_u13_1503','dynclicks_u13_1502'],[1513,1512,1511,1503,1502],"wbnews", 1411857626)</script>
+<!--#endeditable--></div>
+        <div class="vsb-space informBox informBoxd informBoxc1 fl" columns="2"><!--#begineditable name="处长信箱" action="webber.wbst.com.anno.ColumnAnno" layout="/system/_component/columncopyright/tplcopyright.jsp" tpltype="1" contype="anno" clone="" viewid="165090" contentviewid="" tagname="处长信箱"--><script language="javascript" src="/system/resource/js/news/mp4video.js"></script>
+<div class="dynamic cleafix">
+<h2>处长信箱</h2><span></a></span></div>
+<div class="infor_list infor_lista">  
+<ul class="dynamic_list dynamic_listb dynamic_liste fr"> 
+<li><a href=""><em>lituiban@guet.edu.cn</em></a></li>    
+
+</ul>  
+</div> 
+
+<!--#endeditable--></div>
+        <!--活动剪影-->
+        
+   
+<div class="vsb-container container clearfix" containerid="2" columns="6">  
+        
+        <div class="vsb-space content contentf" columns="6">
+            <div class="dynamic dynamice dynamicg"><h2>活动剪影</h2><span><a href="hdjy.htm" target="_self">more</a></span></div>
+<div><!--#begineditable name="活动剪影" action="webber.wbst.com.image.ColumnImage" layout="/system/_component/columnimage/leftscroll.jsp" tpltype="0" contype="image" clone="" viewid="165887" contentviewid="" tagname="活动剪影"--><script language="javascript" src="/system/resource/js/vsbpreloadimg.js"></script>
+<TABLE width="970" cellSpacing="0" cellPadding="0" align="center" border="0"> 
+    <TR><TD>
+        <DIV id="u_u15_demo" style="OVERFLOW:hidden;WIDTH:970px;COLOR:#ffffff"><TABLE cellSpacing="0" cellPadding="0" border="0">
+                <TR><TD id="u_u15_demo1" vAlign="top" width="970"><table border="0" cellpadding="0" cellspacing="0" width="970">
+                        <tr>
+
+                            <td valign="top" align="center" style="padding-left:5px;padding-right:5px"><div style="padding: 0px; width:250px"><table cellpadding="0" cellspacing="0" style="border:0px solid black;">
+                                    <tr><td width="250" height="160" valign="middle" align="center"><img name="u_u15_img" border="0" src="/system/resource/images/loading.gif" alt="2018桂林市离退休干部柔力球邀请赛" title="2018桂林市离退休干部柔力球邀请赛" hspace="0" vspace="0"></td></tr>
+                                </table></div><div style="padding-top:1px;padding-bottom:1px">
+                            <span class="titlestyle165887">2018桂林市离退休干部柔力球邀请赛</span>
+                            
+
+                          </div></td>
+                            <td valign="top" align="center" style="padding-left:5px;padding-right:5px"><div style="padding: 0px; width:250px"><table cellpadding="0" cellspacing="0" style="border:0px solid black;">
+                                    <tr><td width="250" height="160" valign="middle" align="center"><img name="u_u15_img" border="0" src="/system/resource/images/loading.gif" alt="摄影讲座" title="摄影讲座" hspace="0" vspace="0"></td></tr>
+                                </table></div><div style="padding-top:1px;padding-bottom:1px">
+                            <span class="titlestyle165887">摄影讲座</span>
+                            
+
+                          </div></td>
+                            <td valign="top" align="center" style="padding-left:5px;padding-right:5px"><div style="padding: 0px; width:250px"><table cellpadding="0" cellspacing="0" style="border:0px solid black;">
+                                    <tr><td width="250" height="160" valign="middle" align="center"><img name="u_u15_img" border="0" src="/system/resource/images/loading.gif" alt="重阳节游园活动" title="重阳节游园活动" hspace="0" vspace="0"></td></tr>
+                                </table></div><div style="padding-top:1px;padding-bottom:1px">
+                            <span class="titlestyle165887">重阳节游园活动</span>
+                            
+
+                          </div></td>
+                            <td valign="top" align="center" style="padding-left:5px;padding-right:5px"><div style="padding: 0px; width:250px"><table cellpadding="0" cellspacing="0" style="border:0px solid black;">
+                                    <tr><td width="250" height="160" valign="middle" align="center"><img name="u_u15_img" border="0" src="/system/resource/images/loading.gif" alt="第四届“多彩金秋长青文化节”之“梨花情”" title="第四届“多彩金秋长青文化节”之“梨花情”" hspace="0" vspace="0"></td></tr>
+                                </table></div><div style="padding-top:1px;padding-bottom:1px">
+                            <span class="titlestyle165887">第四届“多彩金秋长青文化节”之“梨花情”</span>
+                            
+
+                          </div></td>
+                            <td valign="top" align="center" style="padding-left:5px;padding-right:5px"><div style="padding: 0px; width:250px"><table cellpadding="0" cellspacing="0" style="border:0px solid black;">
+                                    <tr><td width="250" height="160" valign="middle" align="center"><img name="u_u15_img" border="0" src="/system/resource/images/loading.gif" alt="第四届“多彩金秋长青文化节”之模特秀" title="第四届“多彩金秋长青文化节”之模特秀" hspace="0" vspace="0"></td></tr>
+                                </table></div><div style="padding-top:1px;padding-bottom:1px">
+                            <span class="titlestyle165887">第四届“多彩金秋长青文化节”之模特秀</span>
+                            
+
+                          </div></td>
+                            <td valign="top" align="center" style="padding-left:5px;padding-right:5px"><div style="padding: 0px; width:250px"><table cellpadding="0" cellspacing="0" style="border:0px solid black;">
+                                    <tr><td width="250" height="160" valign="middle" align="center"><img name="u_u15_img" border="0" src="/system/resource/images/loading.gif" alt="第四届“多彩金秋长青文化节”之书画作品展" title="第四届“多彩金秋长青文化节”之书画作品展" hspace="0" vspace="0"></td></tr>
+                                </table></div><div style="padding-top:1px;padding-bottom:1px">
+                            <span class="titlestyle165887">第四届“多彩金秋长青文化节”之书画作品展</span>
+                            
+
+                          </div></td>
+                            <td valign="top" align="center" style="padding-left:5px;padding-right:5px"><div style="padding: 0px; width:250px"><table cellpadding="0" cellspacing="0" style="border:0px solid black;">
+                                    <tr><td width="250" height="160" valign="middle" align="center"><img name="u_u15_img" border="0" src="/system/resource/images/loading.gif" alt="第四届“多彩金秋长青文化节”之摄影作品展" title="第四届“多彩金秋长青文化节”之摄影作品展" hspace="0" vspace="0"></td></tr>
+                                </table></div><div style="padding-top:1px;padding-bottom:1px">
+                            <span class="titlestyle165887">第四届“多彩金秋长青文化节”之摄影作品展</span>
+                            
+
+                          </div></td>
+                            <td valign="top" align="center" style="padding-left:5px;padding-right:5px"><div style="padding: 0px; width:250px"><table cellpadding="0" cellspacing="0" style="border:0px solid black;">
+                                    <tr><td width="250" height="160" valign="middle" align="center"><img name="u_u15_img" border="0" src="/system/resource/images/loading.gif" alt="茶艺飘香迎国庆" title="茶艺飘香迎国庆" hspace="0" vspace="0"></td></tr>
+                                </table></div><div style="padding-top:1px;padding-bottom:1px">
+                            <span class="titlestyle165887">茶艺飘香迎国庆</span>
+                            
+
+                          </div></td></tr>
+           </table></TD> 
+          <TD id="u_u15_demo2" vAlign="top" width="970"></TD> 
+        </TR> 
+      </TABLE> 
+      </DIV> 
+    </TD> 
+  </TR> 
+</TABLE> 
+<SCRIPT language="javascript">
+    var u_u15_imgs = new VsbPreloadImgArray();
+    
+    //初始化图片
+    function u_u15_init_img()
+    {
+
+            u_u15_imgs.addImg("images\/youliqiushai.jpg", "0", u_u15_onimgload);
+
+            u_u15_imgs.addImg("images\/seyingjiangzuo.jpg", "1", u_u15_onimgload);
+
+            u_u15_imgs.addImg("images\/chongyangyouyuan1.jpg", "2", u_u15_onimgload);
+
+            u_u15_imgs.addImg("images\/lihuaqing.jpg", "3", u_u15_onimgload);
+
+            u_u15_imgs.addImg("images\/chongyangmotexiu.jpg", "4", u_u15_onimgload);
+
+            u_u15_imgs.addImg("images\/zhongguohua1.jpg", "5", u_u15_onimgload);
+
+            u_u15_imgs.addImg("images\/chongyangseyingzhan.jpg", "6", u_u15_onimgload);
+
+            u_u15_imgs.addImg("images\/chayi20180927.jpg", "7", u_u15_onimgload);
+
+    }
+    function u_u15_onimgload(img, imgid)
+    {
+        var imgobjs = document.getElementsByName("u_u15_img");
+        var imgindex = new Number(imgid);
+        
+        img.showImg(imgobjs[imgindex], 250, 160, true, true);
+        img.showImg(imgobjs[imgindex+ 8], 250, 160, true, true);
+    }
+
+
+    var u_u15_MyMar;
+    var u_u15_speed3;
+    var u_u15_move = true;
+    var u_u15_movenum = 0;
+    var u_u15_pos = null; //td位置组
+    
+    function u_u15_initpos()
+    {
+        u_u15_pos = new Array();
+        
+        var tds1 = document.getElementById("u_u15_demo1").childNodes[0].rows[0].cells;
+        
+        for(i = 0 ;i < tds1.length; i++)
+        {
+            u_u15_pos[u_u15_pos.length] = tds1[i].offsetLeft;
+        }
+        
+        var tds2 = document.getElementById("u_u15_demo2").childNodes[0].rows[0].cells;
+        var tds2offset = document.getElementById("u_u15_demo2").offsetLeft;
+        for(i = 0 ;i < tds2.length; i++)
+        {
+            u_u15_pos[u_u15_pos.length] = tds2[i].offsetLeft + tds2offset;
+        }
+    }
+    
+    function u_u15_getpos(scrollpos)
+    {
+        for(i = 0; i < u_u15_pos.length; i++)
+        {
+            if(scrollpos < u_u15_pos[i])
+                return i-1;
+        }
+    }
+
+
+    function u_u15_Marquee() 
+    { 
+        try 
+        { 
+            if(!u_u15_move)
+                return;
+            
+            var demoobj = document.getElementById("u_u15_demo");
+            var demo1obj = document.getElementById("u_u15_demo1");
+
+            //滚动步长
+            var scrollstep = 1
+            
+            //当前位置
+            var oldscrollLeft = demoobj.scrollLeft;
+            
+            //更新后的位置, 已考虑过回滚
+            var newscrollLeft = (oldscrollLeft + scrollstep)%demo1obj.scrollWidth;
+
+            
+            demoobj.scrollLeft = newscrollLeft; 
+            
+        } 
+        catch(e) 
+        { 
+        } 
+    } 
+
+    function u_u15_clearInterval()
+    {
+        clearInterval(u_u15_MyMar);
+    }
+    
+    function u_u15_setInterval()
+    {
+        u_u15_MyMar = setInterval(u_u15_Marquee,u_u15_speed3);
+    }
+    
+    function u_u15_stopmove()
+    {
+        u_u15_move = false;
+    }
+
+    function u_u15_startmove()
+    {
+        u_u15_move = true;
+    }
+    
+    function u_u15_init()
+    {
+        u_u15_speed3 = 50;
+        if(u_u15_speed3 < 1)
+        {
+            u_u15_speed3 = 1;
+        }
+        
+        document.getElementById("u_u15_demo").onmouseover = u_u15_stopmove;
+        document.getElementById("u_u15_demo").onmouseout = u_u15_startmove;
+
+        document.getElementById("u_u15_demo2").innerHTML = document.getElementById("u_u15_demo1").innerHTML;
+        
+        u_u15_init_img();
+
+        u_u15_setInterval();
+
+    }
+    
+    u_u15_init();
+</SCRIPT><!--#endeditable--></div>
+        </div>
+    </div>  
+<div class="vsb-container container clearfix" containerid="2" columns="6">  
+        
+        <div class="vsb-space content contentf" columns="6">
+            <!--#begineditable name="横向链接1" viewid="165022" tagname="横向链接1" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><div class="link_one clearfix" style="padding-top:20px;">
+            <dl>
+                <dt>友情链接</dt>
+<dd>
+
+<a href="http://www.gxlgbgz.gov.cn/">广西老干部工作</a>
+
+
+
+<a href="http://ltx.gxu.edu.cn/">广西大学离退处</a>
+
+
+
+<a href="http://ltc.gxun.edu.cn/">广西民族大学离退处</a>
+
+
+
+<a href="http://ltc.gxnu.edu.cn/">广西师范大学离退处</a>
+
+
+
+<a href="http://ltc.glut.edu.cn/">桂林理工大学离退处</a>
+
+
+<a href="https://mgmt.glmc.edu.cn/ltc/" class="cur">桂林医学院离退处</a>
+
+
+    </dd>         
+            </dl>
+        </div>
+
+
+<!--#endeditable-->
+            
+        </div>
+    </div>  
+<!--foot-->
+<div class="footWrap"><!--#begineditable name="版权1" viewid="165023" tagname="版权1" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><div class="footDiv_one">
+		<div class="foot_one">
+			<p class="copyRight" style="text-align: center"><span style="color: rgb(255,255,255)"></span><br /></p><p style="list-style-type: none; font-size: 12px; border-top: 0px; font-family: 微软雅黑; border-right: 0px; white-space: normal; border-bottom: 0px; color: rgb(51,51,51); padding-bottom: 0px; text-align: center; padding-top: 0px; padding-left: 0px; border-left: 0px; margin: 0px auto; line-height: 22px; padding-right: 0px"><span style="color: rgb(255,255,255)">地址:桂林市金鸡路1号桂林电子科技大学 邮编：541004</span></p><p style="list-style-type: none; font-size: 12px; border-top: 0px; font-family: 微软雅黑; border-right: 0px; white-space: normal; border-bottom: 0px; color: rgb(51,51,51); padding-bottom: 0px; text-align: center; padding-top: 0px; padding-left: 0px; border-left: 0px; margin: 0px auto; line-height: 22px; padding-right: 0px"><span style="color: rgb(255,255,255)">CopyRight? 2007-2013 All Right esball Reserved 桂林电子科技大学</span><a href="http://ltc.guet.edu.cn/login.aspx" target="_blank" style="list-style-type: none; text-decoration: underline; border-top: 0px; border-right: 0px; border-bottom: 0px; color: rgb(255,255,255); padding-bottom: 0px; padding-top: 0px; padding-left: 0px; border-left: 0px; margin: 0px; padding-right: 0px"><span style="color: rgb(255,255,255)">离退处&nbsp;</span></a><span style="color: rgb(255,255,255)">版权所有</span></p>
+		</div>
+	</div><!--#endeditable-->
+</div>
+
+<script type="text/javascript">
+$(function(){
+    $(".select").each(function(){
+        var s=$(this);
+        var z=parseInt(s.css("z-index"));
+        var dt=$(this).children("dt");
+        var dd=$(this).children("dd");
+        var _show=function(){dd.slideDown(200);dt.addClass("cur");s.css("z-index",z+1);};   //展开效果
+        var _hide=function(){dd.slideUp(200);dt.removeClass("cur");s.css("z-index",z);};    //关闭效果
+        dt.click(function(){dd.is(":hidden")?_show():_hide();});
+        dd.find("a").click(function(){dt.html($(this).html());_hide();});     //选择效果（如需要传值，可自定义参数，在此处返回对应的“value”值 ）
+        $("body").click(function(i){ !$(i.target).parents(".select").first().is(s) ? _hide():"";});
+    })
+});
+</script><script type="text/javascript">
+$(function () {
+//切换对象为其他，这里为包含图片和标题的层
+    $('#change_32 div.changeDiv').soChange({//对象指向层，层内包含图片及标题
+        thumbObj:'#change_32 .ul_change_a2 span',
+        thumbNowClass:'on'//自定义导航对象当前class为on
+    });
+});
+</script>
+
+<script type="text/javascript">
+function setContentTab(name, curr, n) {
+    for (i = 1; i <= n; i++) {
+        var menu = document.getElementById(name + i);
+        var cont = document.getElementById("con_" + name + "_" + i);
+    if(menu != null)
+    {
+        menu.className = i == curr ? "up" : "";
+    }
+        if (i == curr) {
+      if(cont != null)
+        {
+            cont.style.display = "block";
+        }
+        } else {
+        if(cont != null)
+    {
+            cont.style.display = "none";
+    }
+        }
+    }
+}
+</script>
+
+
+<script type="text/javascript">
+$(".pic ul li").hover(function(){
+    $(this).stop(true).animate({width:"824px"},500).siblings().stop(true).animate({width:"50px"},500);
+});
+</script>
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
+<title>桂林电子科技大学离退休工作处</title><META Name="keywords" Content="离退处" />
+
+<link rel="stylesheet" href="css/style.css" type="text/css">
+<link rel="stylesheet" href="css/publice.css" type="text/css">
+<script type="text/javascript" src="js/jquery-1.8.3.min.js"></script>
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/superslide.2.1.js"></script>
+<script type="text/javascript" src="js/jquery.soChange.js"></script>
+<script type="text/javascript" src="js/index.js"></script>
+<script type="text/javascript">
+    $(function(){
+        $(".mainmenu dl").hide();
+        $("li.mainmenu").hover(function(){
+            $(this).find("dl").stop(true,true);
+            $(this).find("dl").slideDown();
+        },function(){
+            $(this).find("dl").stop(true,true);
+            $(this).find("dl").slideUp();
+        });
+    })
+</script>
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="index.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1033,'/index.jsp',-1,1411857626)</script>
+</head>
+<body>
+<!--top s-->
+<div class="topWrap clearfix">
+    <div class="topDiv">
+        
+            <!--#begineditable name="高校LOGO" viewid="164983" tagname="高校LOGO" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""-->
+<!-- 网站logo图片地址请在本组件"内容配置-网站logo"处填写 -->
+<div class="logo">
+<a href="index.htm"><img src="images/logo.png"></a>
+</div><!--#endeditable-->
+        
+        <div class="topR fr">
+            <!--#begineditable name="头部文字链接" viewid="164984" tagname="头部文字链接" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><script language="javascript" src="/system/resource/js/dynclicks.js"></script><script language="javascript" src="/system/resource/js/openlink.js"></script><div class="topR_t fr">
+     <a href="http://www.guet.edu.cn/index.htm">学校主页</a>
+     |
+     <a href="http://ltc.guet.edu.cn/">原网站</a>
+     |
+     <a href="#">处长信箱</a>
+     
+</div>
+
+
+<!--#endeditable-->
+            <!--#begineditable name="头部检索" viewid="164985" tagname="头部检索" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><script type="text/javascript">
+    function _nl_ys_check_2(){
+        
+        var keyword = document.getElementById('showkeycode164985_2').value;
+        if(keyword==null||keyword==""){
+            alert("请输入关键字搜索");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkeyword164985").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkeyword164985").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkeyword164985").value = base64.encode(document.getElementById("lucenenewssearchkeyword164985").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode164985_2"));
+        return true;
+    } 
+    function submitForm()
+    {
+        document.getElementById("au2a").submit();
+    }
+</script>
+<script type="text/javascript">
+                function test3()
+                {
+                    var tempStr=document.getElementById('showkeycode164985_2').value;
+                    if(tempStr=="请输入关键字搜索")
+                    {
+                        document.getElementById('showkeycode164985_2').value="";
+                    }
+                }
+                function test4()
+                {
+                    var tempStr=document.getElementById('showkeycode164985_2').value;
+                    if(tempStr=="")
+                    {
+                        document.getElementById('showkeycode164985_2').value="请输入关键字搜索";
+                    }
+                }
+            </script>
+<div class="Search">
+<form action="ssjg.jsp?wbtreeid=1033" method="post" id="au2a" name="au2a" onsubmit="return _nl_ys_check_2()">
+ <input type="hidden" id="lucenenewssearchkeyword164985" name="lucenenewssearchkeyword" value=""><input type="hidden" id="_lucenesearchtype164985" name="_lucenesearchtype" value="1"><input type="hidden" id="searchScope164985" name="searchScope" value="1">
+ <input type="text" value="请输入关键字搜索" name="showkeycode" class="search_text" onfocus="test3()" onblur="test4()" id="showkeycode164985_2" />
+                <div class="fdj fr"><input type="image" src="img/top_hunt.png" value="" style="padding-right:26px;;cursor: hand"></div>
+</form>
+</div><script language="javascript" src="/system/resource/js/base64.js"></script><script language="javascript" src="/system/resource/js/formfunc.js"></script>
+<!--#endeditable-->
+            
+        </div>
+    </div>
+</div>
+<!--nav-->
+<!--#begineditable name="主导航" viewid="165008" tagname="主导航" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><div class="navWrap  clearfix">
+    <div class="nav">
+    <ul>
+            <li>
+            <a class="link" href="index.htm">首页</a>
+                        
+        </li>
+        <li class="mainmenu">
+            <a class="link" href="bmjj.htm">部门简介</a>
+        </li>
+        <li class="mainmenu">
+            <a class="link" href="gwzz.htm">岗位职责</a>
+        </li>
+        <li class="mainmenu">
+            <a class="link" href="zcfg.htm">政策法规</a>
+        </li>
+        <li class="mainmenu">
+            <a class="link" href="dwdj.htm">党委党建</a>
+        </li>
+        <li class="mainmenu">
+            <a class="link" href="gxxyd.htm">关心下一代</a>
+        </li>
+        <li class="mainmenu">
+            <a class="link" href="zqxy.htm">长青学院</a>
+        </li>
+        <li class="mainmenu">
+            <a class="link" href="lnst.htm">老年社团</a>
+        </li>
+     
+    </ul>
+</div>
+</div>
+<script type="text/javascript">
+
+    $(".mainmenu dl").hide();
+
+</script><!--#endeditable-->
+<!--banner-->
+<div class="vsb-box">
+    <div class="vsb-container a" containerid="1" columns="6">
+        <div class="vsb-space bannerWrap clearfix" columns="6">
+            <!--banner1-->
+            <!--#begineditable name="带左右切换图片变换banner" viewid="165009" tagname="图片列表" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""-->        <!--banner1-->
+    <div class="banner_one">
+        <div id="slideBox" class="slideBox">
+            <div class="hd">
+                <ul>
+                    <li></li>
+            <li></li>
+        
+        </ul>
+            </div>
+            <div class="bd">
+                <ul>
+            <li><img src="images/banner01.png" /></li>
+            <li><img src="images/lunbo1.png" /></li>
+                </ul>
+            </div>
+            <a class="prev" href="javascript:void(0)"></a>
+            <a class="next" href="javascript:void(0)"></a>
+
+        </div>
+         
+    </div>
+<script type="text/javascript">
+        jQuery(".slideBox").slide({mainCell:".bd ul",autoPlay:true});
+        </script><!--#endeditable-->
+        </div>
+    </div>
+    <!--main-->
+    
+    </div>
+</div>
+<!--container-->
+<div class="vsb-box">
+    <div class="vsb-container container clearfix" containerid="2" columns="6">
+        <!--新闻信息-->
+        <div class="vsb-space new_inforBox new_inforBox2 fl" columns="4">
+            <div class="dynamic">
+                <h2>新闻动态</h2><span><a href="index/xwdt.htm" target=""><img src="temp/more.png"></a></span>
+            </div>
+            <div class="newBox">
+                <!--新闻信息-->
+                <div class="new_pic new_pic1"><!--#begineditable name="新闻动态图" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/imagechangenews.jsp" tpltype="0" contype="news" clone="" viewid="165088" contentviewid="" tagname="新闻动态图"-->
+<LINK href="/system/resource/style/component/news/list/imagechangenews.css" type="text/css" rel="stylesheet">
+<script language="javascript" src="/system/resource/js/news/imagechangenews.js"></script><script language="JavaScript">
+var u_u5_icn = new ImageChangeNews("u_u5_", 310, 220, 4, 2.0, true, false, false, true);
+
+//初始化图片, 并启动定时
+function u_u5_init_img()
+{
+
+    u_u5_icn.addimg("\/__local\/1\/F9\/09\/3ACD59ECAB4DF653EA1C71586C8_2C811581_A93E.jpg", "info\/1063\/1407.htm", "校领导走访慰问离休老干部（图）", "");
+
+    u_u5_icn.addimg("\/__local\/E\/A9\/FE\/DD4A1D8AFF78CD19B38E48F6994_4DAD8FBB_A0B8.jpg", "info\/1063\/1342.htm", "学校就家属区管理和建设与离退休老同志...", "");
+
+    u_u5_icn.addimg("\/__local\/0\/9C\/A5\/8D53F93575EA2DE0C7DF95B0E23_1C3EA9DC_9FBA.jpg", "info\/1063\/1313.htm", "校关工委召开2019年工作会议", "");
+
+    u_u5_icn.addimg("\/__local\/D\/CA\/07\/C7C363E612C4A5FCC366DAD949E_1F807C6D_8E7D.jpg", "info\/1063\/1316.htm", "离退处党委召开第四次党员大会（图）", "");
+
+    u_u5_icn.addimg("\/__local\/3\/E5\/3C\/BBC02D5E8070F333A7522C20A00_C71097AF_6B5E.jpg", "https:\/\/www.guet.edu.cn\/ltc\/info\/1073\/1226.htm", "张学洪书记检查离退老同志活动中心设施...", "");
+
+    u_u5_icn.addimg("\/__local\/B\/FC\/B9\/A3C8F7DD2D7EE358C805CE7B818_96D11838_5263.jpg", "https:\/\/www.guet.edu.cn\/ltc\/info\/1073\/1227.htm", "我校退休老教师熊发明到学校道德讲堂作...", "");
+
+    u_u5_icn.changeimg(0);
+}
+</script><table cellspacing="0" cellpadding="0" border="0" style="padding:0px margin:0px; border:0px">
+    <tr><td>
+        <div style="OVERFLOW: hidden;height:220px;width:310px">
+            <div id="u_u5_div" align="center" style="padding:0px;margin:0px;border:0px solid black;background-color:#000000;FILTER: progid:DXImageTransform.Microsoft.RevealTrans (duration=2.0,transition=23);height:220px;width:310px">
+                <div id="u_u5_imgdiv" style="padding:0px;border:0px;"><a id="u_u5_url" target="_blank"><img id="u_u5_pic" border="0" width="310" height="220" src="/system/resource/images/space.gif"></a></div>
+            </div>
+            <div style="filter:alpha(style=1,opacity=10,finishOpacity=80);width:310px;height:19px;text-align:right;top:-19px;position:relative;padding:0px;margin:0px;border:0px;">
+<a href="javascript:u_u5_icn.changeimg(0)" ; id="u_u5_selectNode0" class="imagechangenews_pnode" target="_self">1</a><a href="javascript:u_u5_icn.changeimg(1)" ; id="u_u5_selectNode1" class="imagechangenews_pnode" target="_self">2</a><a href="javascript:u_u5_icn.changeimg(2)" ; id="u_u5_selectNode2" class="imagechangenews_pnode" target="_self">3</a><a href="javascript:u_u5_icn.changeimg(3)" ; id="u_u5_selectNode3" class="imagechangenews_pnode" target="_self">4</a><a href="javascript:u_u5_icn.changeimg(4)" ; id="u_u5_selectNode4" class="imagechangenews_pnode" target="_self">5</a><a href="javascript:u_u5_icn.changeimg(5)" ; id="u_u5_selectNode5" class="imagechangenews_pnode" target="_self">6</a>
+            </div></div></td></tr>
+       
+    <tr><td height="25">
+        <div align="center" style="overflow:hidden;text-overflow:ellipsis;height:25px;width:310px;"><a target="_blank" class="titlestyle165088" id="u_u5_newstitle"></a></div>
+    </td></tr>
+<div align="left" display="none" style="overflow:hidden;text-overflow:ellipsis;height:0px;width:310px;padding-left:2px;padding-right:2px"><a target="_blank" class="summarystyle165088" id="u_u5_newssummary"></a></div>   
+</table><SCRIPT language="JavaScript">u_u5_init_img();</SCRIPT><!--#endeditable--></div>
+
+                <div class="new_list new_list3">
+                    <!--#begineditable name="标题列表-8条短日期" viewid="165024" tagname="标题列表-8条短日期" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><ul class="dynamic_list fr">
+
+<LI><A href="info/1073/1511.htm"><SPAN>[03-15]</SPAN><em>【疫情防控】关于实行广西健康码亮码出行制</em></A></LI>
+
+<LI><A href="info/1073/1502.htm"><SPAN>[03-04]</SPAN><em>【疫情防控】转发《关于印发新冠肺炎聚集性</em></A></LI>
+
+<LI><A href="info/1073/1497.htm"><SPAN>[02-29]</SPAN><em>广西发布新冠肺炎疫情防控“四早”实施方案</em></A></LI>
+
+<LI><A href="info/1073/1494.htm"><SPAN>[02-25]</SPAN><em>【疫情防控】关于启用数字防疫系统的通知</em></A></LI>
+
+<LI><A href="info/1073/1491.htm"><SPAN>[02-22]</SPAN><em>【疫情防控】关于进一步做好教职工返桂相关</em></A></LI>
+
+<LI><A href="info/1073/1479.htm"><SPAN>[02-21]</SPAN><em>广西壮族自治区新型冠状病毒感染的肺炎疫情</em></A></LI>
+
+<LI><A href="info/1073/1477.htm"><SPAN>[02-21]</SPAN><em>【疫情防控】党员干部志愿当楼栋长单元长，</em></A></LI>
+
+<LI><A href="info/1073/1451.htm"><SPAN>[01-02]</SPAN><em>离退休教职工以健步走活动迎新年到来（图）</em></A></LI>
+
+</UL><script>_showDynClickBatch(['dynclicks_u6_1511','dynclicks_u6_1502','dynclicks_u6_1497','dynclicks_u6_1494','dynclicks_u6_1491','dynclicks_u6_1479','dynclicks_u6_1477','dynclicks_u6_1451'],[1511,1502,1497,1494,1491,1479,1477,1451],"wbnews", 1411857626)</script>
+<!--#endeditable-->
+                </div>
+            </div>
+        </div>
+        <!--通知公告-->
+        <div class="vsb-space informBox informBox4 fl" columns="2"><!--#begineditable name="政策之窗" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/tpltitlelist.jsp" tpltype="1" contype="news" clone="" viewid="165070" contentviewid="" tagname="政策之窗"--><div class="dynamic cleafix">
+<h2>政策之窗</h2><span><a href="http://mwb.guet.edu.cn/system/_owners/ltc/_webprj/list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1074"><img src="temp/more.png"></a></span>
+    </div>
+<div class="infor_list">
+                <ul class="dynamic_list dynamic_list1">
+
+<li> <a href="info/1074/1498.htm">教书育人是教师最神圣的职责——给全体教师的一封信</a></li>
+<li> <a href="info/1074/1496.htm">【疫情防控】习近平在统筹推进新冠肺炎疫情防控和经济社会发展工作部署会议上的讲话</a></li>
+<li> <a href="info/1074/1484.htm">【疫情防控】习近平在中央政治局常委会会议研究应对新型冠状病毒肺炎疫情工作时的讲话</a></li>
+<li> <a href="info/1074/1483.htm">【疫情防控】广西建立疫情防控举报奖励制度 最高给举报人</a></li>
+<li> <a href="info/1074/1468.htm">坚决纠治疫情防控六类形式主义官僚主义通知</a></li>
+<li> <a href="info/1074/1467.htm">0319-桂新冠防指〔2020〕44号关于印发公共服务场所防控工作“十严格”等4项措施的通知</a></li>
+<li> <a href="info/1074/1466.htm">《疫情防控要采取 7 项“十严格”措施》之学校疫情防控工作‘十严格’</a></li>
+<li> <a href="info/1074/1038.htm">中华人民共和国老年人权益保障法</a></li>
+            </ul>
+    </div><script>_showDynClickBatch(['dynclicks_u7_1498','dynclicks_u7_1496','dynclicks_u7_1484','dynclicks_u7_1483','dynclicks_u7_1468','dynclicks_u7_1467','dynclicks_u7_1466','dynclicks_u7_1038'],[1498,1496,1484,1483,1468,1467,1466,1038],"wbnews", 1411857626)</script>
+<!--#endeditable--></div>
+    </div>  
+    <div class="vsb-container container clearfix" containerid="2" columns="6">
+        
+        
+        <!--精品课程-->
+        
+    </div>      
+        <!--新闻信息-->
+<div class="vsb-container container clearfix" containerid="2" columns="6">
+        <div class="vsb-space informBox informBoxd informBoxc1 fl" columns="2"><!--#begineditable name="党建工作" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/tpltitlelist.jsp" tpltype="1" contype="news" clone="" viewid="165065" contentviewid="" tagname="党建工作"-->                <div class="dynamic dynamicb dynamice"><h2>党建工作</h2><span><a href="http://mwb.guet.edu.cn/system/_owners/ltc/_webprj/list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1075"><img src="img/w_more.png"></a></span></div>
+                <div class="infor_list infor_lista">
+                    <ul class="dynamic_list dynamic_listb dynamic_liste fr">
+<li><a href="info/1075/1481.htm"><span>02/21</span><em>桂林市委宣传部就防疫期间学好用好“学习强国”平台印发倡议书</em></a></li>
+<li><a href="https://www.guet.edu.cn/ltc/info/1073/1384.htm"><span>07/04</span><em>离退处举办党员领导干部对接党外人士代表联谊座谈会</em></a></li>
+<li><a href="info/1075/1341.htm"><span>05/13</span><em>离退处党委第六支部赴灌阳新圩开展红色教育主题党日活动（图）</em></a></li>
+<li><a href="info/1075/1306.htm"><span>04/12</span><em>离退处党委第八支部召开支部会议（图）</em></a></li>
+<li><a href="info/1075/1305.htm"><span>04/12</span><em>离退处党委第二支部召开全体党员会议（图）</em></a></li>
+<li><a href="info/1075/1242.htm"><span>12/27</span><em>离退处党委第四支部与商学院第一、五支部举行共建交流活动（图）</em></a></li>
+
+                     </ul>
+                 </div><script>_showDynClickBatch(['dynclicks_u8_1481','dynclicks_u8_1385','dynclicks_u8_1341','dynclicks_u8_1306','dynclicks_u8_1305','dynclicks_u8_1242'],[1481,1385,1341,1306,1305,1242],"wbnews", 1411857626)</script>
+<!--#endeditable--></div>
+        <div class="vsb-space informBox informBoxd informBoxc1 fl" columns="2"><!--#begineditable name="通知公告" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/tpltitlelist.jsp" tpltype="1" contype="news" clone="" viewid="165066" contentviewid="" tagname="通知公告"-->                <div class="dynamic dynamicb dynamice"><h2>通知公告</h2><span><a href="http://www.guet.edu.cn/ltc/index/tzgg.htm"><img src="img/w_more.png"></a></span></div>
+                <div class="infor_list infor_lista">
+                    <ul class="dynamic_list dynamic_listb dynamic_liste fr">
+<li><a href="info/1064/1512.htm"><span>03/15</span><em>【疫情防控】关于实行广西健康码亮码出行制度的通告</em></a></li>
+<li><a href="info/1064/1503.htm"><span>03/04</span><em>【疫情防控】转发《关于印发新冠肺炎聚集性疫情防控工作方案的紧急通知》的通知</em></a></li>
+<li><a href="info/1064/1500.htm"><span>02/29</span><em>关于家属区出入管理的调整说明</em></a></li>
+<li><a href="info/1064/1499.htm"><span>02/29</span><em>【疫情防控】各类场所防控新冠肺炎消毒规范指引</em></a></li>
+<li><a href="info/1064/1495.htm"><span>02/25</span><em>【疫情防控】关于启用数字防疫系统的通知</em></a></li>
+<li><a href="info/1064/1493.htm"><span>02/25</span><em>重申关于进一步规范教职工亲属返桂入住学校家属区工作流程的通知</em></a></li>
+
+                     </ul>
+                 </div><script>_showDynClickBatch(['dynclicks_u9_1512','dynclicks_u9_1503','dynclicks_u9_1500','dynclicks_u9_1499','dynclicks_u9_1495','dynclicks_u9_1493'],[1512,1503,1500,1499,1495,1493],"wbnews", 1411857626)</script>
+<!--#endeditable--></div>
+        <div class="vsb-space informBox informBoxd informBoxc1 fl" columns="2"><!--#begineditable name="服务之窗" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/tpltitlelist.jsp" tpltype="1" contype="news" clone="" viewid="165069" contentviewid="" tagname="服务之窗"--><div class="dynamic cleafix">
+<h2>服务之窗</h2><span><a href="http://mwb.guet.edu.cn/system/_owners/ltc/_webprj/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1083&wbnewsid=1079"><img src="temp/more.png"></a></span></div>
+<div class="infor_list infor_lista">  
+<ul class="dynamic_list dynamic_listb dynamic_liste fr">  
+<li>人事处工资福利科：2290076</li>  
+<li>校医院急诊(金鸡岭)：2191447</li>
+<li>校医院急诊(花江):2290120</li>    
+<li>后勤处物业科:2291437</li>
+<li>后勤处五金维修:2291505</li>
+<li>后勤处水电报修（上班时间）:2292129</li>
+<li>后勤处水电报修（下班时间）:2291427</li>
+</ul>  
+</div> 
+<script>_showDynClickBatch(['dynclicks_u10_1079'],[1079],"wbnews", 1411857626)</script>
+<!--#endeditable--></div>
+        <div class="vsb-space informBox informBoxd informBoxc1 fl" columns="2"><!--#begineditable name="关心下一代" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/tpltitlelist.jsp" tpltype="1" contype="news" clone="" viewid="166019" contentviewid="" tagname="关心下一代"-->                <div class="dynamic dynamicb dynamice"><h2>关心下一代</h2><span><a href="http://www.guet.edu.cn/ltc/index/gxxyd.htm"><img src="img/w_more.png"></a></span></div>
+                <div class="infor_list infor_lista">
+                    <ul class="dynamic_list dynamic_listb dynamic_liste fr">
+<li><a href="info/1076/1513.htm"><span>03/15</span><em>【疫情防控】图书馆办事服务指南</em></a></li>
+<li><a href="info/1076/1482.htm"><span>02/21</span><em>冠状病毒肺炎学生防护手册（小学版）</em></a></li>
+<li><a href="info/1076/1432.htm"><span>10/25</span><em>《成长》刊发报道我校关工委开展“读懂中国----我和我的祖国”主题活动新闻</em></a></li>
+<li><a href="http://iw.guet.edu.cn/info/1061/60558.htm"><span>09/30</span><em>关于我校第十八期教职工子弟英语口语班开班的通知</em></a></li>
+<li><a href="http://iw.guet.edu.cn/info/1061/60377.htm"><span>09/18</span><em>关于我校第十八期教职工子弟英语口语班报名的通知</em></a></li>
+<li><a href="https://www.guet.edu.cn/ltc/info/1073/1373.htm"><span>06/25</span><em>校关工委赴北海校区开展系列培训指导 ——校关工委副主任谢先知作关工委业务培训</em></a></li>
+
+                     </ul>
+                 </div><script>_showDynClickBatch(['dynclicks_u11_1513','dynclicks_u11_1482','dynclicks_u11_1432','dynclicks_u11_1412','dynclicks_u11_1413','dynclicks_u11_1376'],[1513,1482,1432,1412,1413,1376],"wbnews", 1411857626)</script>
+<!--#endeditable--></div>
+        <div class="vsb-space informBox informBoxd informBoxc1 fl" columns="2"><!--#begineditable name="活动展示" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/tpltitlelist.jsp" tpltype="1" contype="news" clone="" viewid="165072" contentviewid="" tagname="活动展示"-->                <div class="dynamic dynamicb dynamice"><h2>活动展示</h2><span><a href="http://www.guet.edu.cn/ltc/index/hdzs.htm"><img src="img/w_more.png"></a></span></div>
+                <div class="infor_list infor_lista">
+                    <ul class="dynamic_list dynamic_listb dynamic_liste fr">
+<li><a href="info/1093/1501.htm"><span>02/29</span><em>转工会通知</em></a></li>
+<li><a href="info/1093/1476.htm"><span>02/20</span><em>疫情期间学校加强师生心理疏导服务</em></a></li>
+<li><a href="info/1093/1193.htm"><span>11/12</span><em>我校老教师获得桂林市离退休干部柔力球邀请赛第一名（图）</em></a></li>
+<li><a href="info/1093/1132.htm"><span>09/11</span><em>我校老教师柔力球队参加市老体协柔力球部联谊演出活动</em></a></li>
+
+                     </ul>
+                 </div><script>_showDynClickBatch(['dynclicks_u12_1501','dynclicks_u12_1476','dynclicks_u12_1193','dynclicks_u12_1132'],[1501,1476,1193,1132],"wbnews", 1411857626)</script>
+<!--#endeditable--></div>
+        <div class="vsb-space informBox informBoxd informBoxc1 fl" columns="2"><!--#begineditable name="联系我们" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/tpltitlelist.jsp" tpltype="1" contype="news" clone="" viewid="165087" contentviewid="" tagname="联系我们"--><div class="dynamic cleafix">
+<h2>联系我们</h2><span><a href="http://mwb.guet.edu.cn/system/_owners/ltc/_webprj/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1083&wbnewsid=1079"><img src="temp/more.png"></a></span></div>
+<div class="infor_list infor_lista">  
+<ul class="dynamic_list dynamic_listb dynamic_liste fr">  
+<li>党委书记、处长：0773-2192869</li>  
+<li>党委副书记、副处长：0773-2192859</li>  
+<li>副处长：0773-2192855</li>
+<li>离退休业务科科科长：0773-2192859</li>
+<li>综合服务科科长：0773-2192855</li>
+ 
+</ul>  
+</div> 
+<script>_showDynClickBatch(['dynclicks_u13_1513','dynclicks_u13_1512','dynclicks_u13_1511','dynclicks_u13_1503','dynclicks_u13_1502'],[1513,1512,1511,1503,1502],"wbnews", 1411857626)</script>
+<!--#endeditable--></div>
+        <div class="vsb-space informBox informBoxd informBoxc1 fl" columns="2"><!--#begineditable name="处长信箱" action="webber.wbst.com.anno.ColumnAnno" layout="/system/_component/columncopyright/tplcopyright.jsp" tpltype="1" contype="anno" clone="" viewid="165090" contentviewid="" tagname="处长信箱"--><script language="javascript" src="/system/resource/js/news/mp4video.js"></script>
+<div class="dynamic cleafix">
+<h2>处长信箱</h2><span></a></span></div>
+<div class="infor_list infor_lista">  
+<ul class="dynamic_list dynamic_listb dynamic_liste fr"> 
+<li><a href=""><em>lituiban@guet.edu.cn</em></a></li>    
+
+</ul>  
+</div> 
+
+<!--#endeditable--></div>
+        <!--活动剪影-->
+        
+   
+<div class="vsb-container container clearfix" containerid="2" columns="6">  
+        
+        <div class="vsb-space content contentf" columns="6">
+            <div class="dynamic dynamice dynamicg"><h2>活动剪影</h2><span><a href="hdjy.htm" target="_self">more</a></span></div>
+<div><!--#begineditable name="活动剪影" action="webber.wbst.com.image.ColumnImage" layout="/system/_component/columnimage/leftscroll.jsp" tpltype="0" contype="image" clone="" viewid="165887" contentviewid="" tagname="活动剪影"--><script language="javascript" src="/system/resource/js/vsbpreloadimg.js"></script>
+<TABLE width="970" cellSpacing="0" cellPadding="0" align="center" border="0"> 
+    <TR><TD>
+        <DIV id="u_u15_demo" style="OVERFLOW:hidden;WIDTH:970px;COLOR:#ffffff"><TABLE cellSpacing="0" cellPadding="0" border="0">
+                <TR><TD id="u_u15_demo1" vAlign="top" width="970"><table border="0" cellpadding="0" cellspacing="0" width="970">
+                        <tr>
+
+                            <td valign="top" align="center" style="padding-left:5px;padding-right:5px"><div style="padding: 0px; width:250px"><table cellpadding="0" cellspacing="0" style="border:0px solid black;">
+                                    <tr><td width="250" height="160" valign="middle" align="center"><img name="u_u15_img" border="0" src="/system/resource/images/loading.gif" alt="2018桂林市离退休干部柔力球邀请赛" title="2018桂林市离退休干部柔力球邀请赛" hspace="0" vspace="0"></td></tr>
+                                </table></div><div style="padding-top:1px;padding-bottom:1px">
+                            <span class="titlestyle165887">2018桂林市离退休干部柔力球邀请赛</span>
+                            
+
+                          </div></td>
+                            <td valign="top" align="center" style="padding-left:5px;padding-right:5px"><div style="padding: 0px; width:250px"><table cellpadding="0" cellspacing="0" style="border:0px solid black;">
+                                    <tr><td width="250" height="160" valign="middle" align="center"><img name="u_u15_img" border="0" src="/system/resource/images/loading.gif" alt="摄影讲座" title="摄影讲座" hspace="0" vspace="0"></td></tr>
+                                </table></div><div style="padding-top:1px;padding-bottom:1px">
+                            <span class="titlestyle165887">摄影讲座</span>
+                            
+
+                          </div></td>
+                            <td valign="top" align="center" style="padding-left:5px;padding-right:5px"><div style="padding: 0px; width:250px"><table cellpadding="0" cellspacing="0" style="border:0px solid black;">
+                                    <tr><td width="250" height="160" valign="middle" align="center"><img name="u_u15_img" border="0" src="/system/resource/images/loading.gif" alt="重阳节游园活动" title="重阳节游园活动" hspace="0" vspace="0"></td></tr>
+                                </table></div><div style="padding-top:1px;padding-bottom:1px">
+                            <span class="titlestyle165887">重阳节游园活动</span>
+                            
+
+                          </div></td>
+                            <td valign="top" align="center" style="padding-left:5px;padding-right:5px"><div style="padding: 0px; width:250px"><table cellpadding="0" cellspacing="0" style="border:0px solid black;">
+                                    <tr><td width="250" height="160" valign="middle" align="center"><img name="u_u15_img" border="0" src="/system/resource/images/loading.gif" alt="第四届“多彩金秋长青文化节”之“梨花情”" title="第四届“多彩金秋长青文化节”之“梨花情”" hspace="0" vspace="0"></td></tr>
+                                </table></div><div style="padding-top:1px;padding-bottom:1px">
+                            <span class="titlestyle165887">第四届“多彩金秋长青文化节”之“梨花情”</span>
+                            
+
+                          </div></td>
+                            <td valign="top" align="center" style="padding-left:5px;padding-right:5px"><div style="padding: 0px; width:250px"><table cellpadding="0" cellspacing="0" style="border:0px solid black;">
+                                    <tr><td width="250" height="160" valign="middle" align="center"><img name="u_u15_img" border="0" src="/system/resource/images/loading.gif" alt="第四届“多彩金秋长青文化节”之模特秀" title="第四届“多彩金秋长青文化节”之模特秀" hspace="0" vspace="0"></td></tr>
+                                </table></div><div style="padding-top:1px;padding-bottom:1px">
+                            <span class="titlestyle165887">第四届“多彩金秋长青文化节”之模特秀</span>
+                            
+
+                          </div></td>
+                            <td valign="top" align="center" style="padding-left:5px;padding-right:5px"><div style="padding: 0px; width:250px"><table cellpadding="0" cellspacing="0" style="border:0px solid black;">
+                                    <tr><td width="250" height="160" valign="middle" align="center"><img name="u_u15_img" border="0" src="/system/resource/images/loading.gif" alt="第四届“多彩金秋长青文化节”之书画作品展" title="第四届“多彩金秋长青文化节”之书画作品展" hspace="0" vspace="0"></td></tr>
+                                </table></div><div style="padding-top:1px;padding-bottom:1px">
+                            <span class="titlestyle165887">第四届“多彩金秋长青文化节”之书画作品展</span>
+                            
+
+                          </div></td>
+                            <td valign="top" align="center" style="padding-left:5px;padding-right:5px"><div style="padding: 0px; width:250px"><table cellpadding="0" cellspacing="0" style="border:0px solid black;">
+                                    <tr><td width="250" height="160" valign="middle" align="center"><img name="u_u15_img" border="0" src="/system/resource/images/loading.gif" alt="第四届“多彩金秋长青文化节”之摄影作品展" title="第四届“多彩金秋长青文化节”之摄影作品展" hspace="0" vspace="0"></td></tr>
+                                </table></div><div style="padding-top:1px;padding-bottom:1px">
+                            <span class="titlestyle165887">第四届“多彩金秋长青文化节”之摄影作品展</span>
+                            
+
+                          </div></td>
+                            <td valign="top" align="center" style="padding-left:5px;padding-right:5px"><div style="padding: 0px; width:250px"><table cellpadding="0" cellspacing="0" style="border:0px solid black;">
+                                    <tr><td width="250" height="160" valign="middle" align="center"><img name="u_u15_img" border="0" src="/system/resource/images/loading.gif" alt="茶艺飘香迎国庆" title="茶艺飘香迎国庆" hspace="0" vspace="0"></td></tr>
+                                </table></div><div style="padding-top:1px;padding-bottom:1px">
+                            <span class="titlestyle165887">茶艺飘香迎国庆</span>
+                            
+
+                          </div></td></tr>
+           </table></TD> 
+          <TD id="u_u15_demo2" vAlign="top" width="970"></TD> 
+        </TR> 
+      </TABLE> 
+      </DIV> 
+    </TD> 
+  </TR> 
+</TABLE> 
+<SCRIPT language="javascript">
+    var u_u15_imgs = new VsbPreloadImgArray();
+    
+    //初始化图片
+    function u_u15_init_img()
+    {
+
+            u_u15_imgs.addImg("images\/youliqiushai.jpg", "0", u_u15_onimgload);
+
+            u_u15_imgs.addImg("images\/seyingjiangzuo.jpg", "1", u_u15_onimgload);
+
+            u_u15_imgs.addImg("images\/chongyangyouyuan1.jpg", "2", u_u15_onimgload);
+
+            u_u15_imgs.addImg("images\/lihuaqing.jpg", "3", u_u15_onimgload);
+
+            u_u15_imgs.addImg("images\/chongyangmotexiu.jpg", "4", u_u15_onimgload);
+
+            u_u15_imgs.addImg("images\/zhongguohua1.jpg", "5", u_u15_onimgload);
+
+            u_u15_imgs.addImg("images\/chongyangseyingzhan.jpg", "6", u_u15_onimgload);
+
+            u_u15_imgs.addImg("images\/chayi20180927.jpg", "7", u_u15_onimgload);
+
+    }
+    function u_u15_onimgload(img, imgid)
+    {
+        var imgobjs = document.getElementsByName("u_u15_img");
+        var imgindex = new Number(imgid);
+        
+        img.showImg(imgobjs[imgindex], 250, 160, true, true);
+        img.showImg(imgobjs[imgindex+ 8], 250, 160, true, true);
+    }
+
+
+    var u_u15_MyMar;
+    var u_u15_speed3;
+    var u_u15_move = true;
+    var u_u15_movenum = 0;
+    var u_u15_pos = null; //td位置组
+    
+    function u_u15_initpos()
+    {
+        u_u15_pos = new Array();
+        
+        var tds1 = document.getElementById("u_u15_demo1").childNodes[0].rows[0].cells;
+        
+        for(i = 0 ;i < tds1.length; i++)
+        {
+            u_u15_pos[u_u15_pos.length] = tds1[i].offsetLeft;
+        }
+        
+        var tds2 = document.getElementById("u_u15_demo2").childNodes[0].rows[0].cells;
+        var tds2offset = document.getElementById("u_u15_demo2").offsetLeft;
+        for(i = 0 ;i < tds2.length; i++)
+        {
+            u_u15_pos[u_u15_pos.length] = tds2[i].offsetLeft + tds2offset;
+        }
+    }
+    
+    function u_u15_getpos(scrollpos)
+    {
+        for(i = 0; i < u_u15_pos.length; i++)
+        {
+            if(scrollpos < u_u15_pos[i])
+                return i-1;
+        }
+    }
+
+
+    function u_u15_Marquee() 
+    { 
+        try 
+        { 
+            if(!u_u15_move)
+                return;
+            
+            var demoobj = document.getElementById("u_u15_demo");
+            var demo1obj = document.getElementById("u_u15_demo1");
+
+            //滚动步长
+            var scrollstep = 1
+            
+            //当前位置
+            var oldscrollLeft = demoobj.scrollLeft;
+            
+            //更新后的位置, 已考虑过回滚
+            var newscrollLeft = (oldscrollLeft + scrollstep)%demo1obj.scrollWidth;
+
+            
+            demoobj.scrollLeft = newscrollLeft; 
+            
+        } 
+        catch(e) 
+        { 
+        } 
+    } 
+
+    function u_u15_clearInterval()
+    {
+        clearInterval(u_u15_MyMar);
+    }
+    
+    function u_u15_setInterval()
+    {
+        u_u15_MyMar = setInterval(u_u15_Marquee,u_u15_speed3);
+    }
+    
+    function u_u15_stopmove()
+    {
+        u_u15_move = false;
+    }
+
+    function u_u15_startmove()
+    {
+        u_u15_move = true;
+    }
+    
+    function u_u15_init()
+    {
+        u_u15_speed3 = 50;
+        if(u_u15_speed3 < 1)
+        {
+            u_u15_speed3 = 1;
+        }
+        
+        document.getElementById("u_u15_demo").onmouseover = u_u15_stopmove;
+        document.getElementById("u_u15_demo").onmouseout = u_u15_startmove;
+
+        document.getElementById("u_u15_demo2").innerHTML = document.getElementById("u_u15_demo1").innerHTML;
+        
+        u_u15_init_img();
+
+        u_u15_setInterval();
+
+    }
+    
+    u_u15_init();
+</SCRIPT><!--#endeditable--></div>
+        </div>
+    </div>  
+<div class="vsb-container container clearfix" containerid="2" columns="6">  
+        
+        <div class="vsb-space content contentf" columns="6">
+            <!--#begineditable name="横向链接1" viewid="165022" tagname="横向链接1" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><div class="link_one clearfix" style="padding-top:20px;">
+            <dl>
+                <dt>友情链接</dt>
+<dd>
+
+<a href="http://www.gxlgbgz.gov.cn/">广西老干部工作</a>
+
+
+
+<a href="http://ltx.gxu.edu.cn/">广西大学离退处</a>
+
+
+
+<a href="http://ltc.gxun.edu.cn/">广西民族大学离退处</a>
+
+
+
+<a href="http://ltc.gxnu.edu.cn/">广西师范大学离退处</a>
+
+
+
+<a href="http://ltc.glut.edu.cn/">桂林理工大学离退处</a>
+
+
+<a href="https://mgmt.glmc.edu.cn/ltc/" class="cur">桂林医学院离退处</a>
+
+
+    </dd>         
+            </dl>
+        </div>
+
+
+<!--#endeditable-->
+            
+        </div>
+    </div>  
+<!--foot-->
+<div class="footWrap"><!--#begineditable name="版权1" viewid="165023" tagname="版权1" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><div class="footDiv_one">
+		<div class="foot_one">
+			<p class="copyRight" style="text-align: center"><span style="color: rgb(255,255,255)"></span><br /></p><p style="list-style-type: none; font-size: 12px; border-top: 0px; font-family: 微软雅黑; border-right: 0px; white-space: normal; border-bottom: 0px; color: rgb(51,51,51); padding-bottom: 0px; text-align: center; padding-top: 0px; padding-left: 0px; border-left: 0px; margin: 0px auto; line-height: 22px; padding-right: 0px"><span style="color: rgb(255,255,255)">地址:桂林市金鸡路1号桂林电子科技大学 邮编：541004</span></p><p style="list-style-type: none; font-size: 12px; border-top: 0px; font-family: 微软雅黑; border-right: 0px; white-space: normal; border-bottom: 0px; color: rgb(51,51,51); padding-bottom: 0px; text-align: center; padding-top: 0px; padding-left: 0px; border-left: 0px; margin: 0px auto; line-height: 22px; padding-right: 0px"><span style="color: rgb(255,255,255)">CopyRight? 2007-2013 All Right esball Reserved 桂林电子科技大学</span><a href="http://ltc.guet.edu.cn/login.aspx" target="_blank" style="list-style-type: none; text-decoration: underline; border-top: 0px; border-right: 0px; border-bottom: 0px; color: rgb(255,255,255); padding-bottom: 0px; padding-top: 0px; padding-left: 0px; border-left: 0px; margin: 0px; padding-right: 0px"><span style="color: rgb(255,255,255)">离退处&nbsp;</span></a><span style="color: rgb(255,255,255)">版权所有</span></p>
+		</div>
+	</div><!--#endeditable-->
+</div>
+
+<script type="text/javascript">
+$(function(){
+    $(".select").each(function(){
+        var s=$(this);
+        var z=parseInt(s.css("z-index"));
+        var dt=$(this).children("dt");
+        var dd=$(this).children("dd");
+        var _show=function(){dd.slideDown(200);dt.addClass("cur");s.css("z-index",z+1);};   //展开效果
+        var _hide=function(){dd.slideUp(200);dt.removeClass("cur");s.css("z-index",z);};    //关闭效果
+        dt.click(function(){dd.is(":hidden")?_show():_hide();});
+        dd.find("a").click(function(){dt.html($(this).html());_hide();});     //选择效果（如需要传值，可自定义参数，在此处返回对应的“value”值 ）
+        $("body").click(function(i){ !$(i.target).parents(".select").first().is(s) ? _hide():"";});
+    })
+});
+</script><script type="text/javascript">
+$(function () {
+//切换对象为其他，这里为包含图片和标题的层
+    $('#change_32 div.changeDiv').soChange({//对象指向层，层内包含图片及标题
+        thumbObj:'#change_32 .ul_change_a2 span',
+        thumbNowClass:'on'//自定义导航对象当前class为on
+    });
+});
+</script>
+
+<script type="text/javascript">
+function setContentTab(name, curr, n) {
+    for (i = 1; i <= n; i++) {
+        var menu = document.getElementById(name + i);
+        var cont = document.getElementById("con_" + name + "_" + i);
+    if(menu != null)
+    {
+        menu.className = i == curr ? "up" : "";
+    }
+        if (i == curr) {
+      if(cont != null)
+        {
+            cont.style.display = "block";
+        }
+        } else {
+        if(cont != null)
+    {
+            cont.style.display = "none";
+    }
+        }
+    }
+}
+</script>
+
+
+<script type="text/javascript">
+$(".pic ul li").hover(function(){
+    $(this).stop(true).animate({width:"824px"},500).siblings().stop(true).animate({width:"50px"},500);
+});
+</script>
+</body>
+</html>

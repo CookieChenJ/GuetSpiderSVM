@@ -1,0 +1,213 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+	欢迎您使用：研究生信息管理校外专家评审系统......
+</title>
+    <script language="javascript" type="text/javascript">
+        function Max() {
+            // window.moveTo(0,0);   
+            // window.resizeTo(screen.availWidth,screen.availHeight);
+
+        }
+        function reLoadPic() {
+            var fcode = document.getElementById("imgValidate");
+            fcode.src = "../../../Utility/CodeNubImg.aspx";
+            //alert(document.getElementById("imgValidate").innerText);
+
+        }    
+    </script>
+    <link href="App_Themes/css/btnStyle.css" rel="stylesheet" type="text/css" />
+    <style type="text/css">
+        .style1
+        {
+            height: 204px;
+        }
+        .style2
+        {
+            width: 392px;
+        }
+        .style3
+        {
+            width: 80px;
+            height: 29px;
+        }
+        .style4
+        {
+            width: 300px;
+            height: 29px;
+        }
+        .style6
+        {
+            width: 80px;
+            height: 16px;
+        }
+        .style7
+        {
+            width: 300px;
+            height: 16px;
+        }
+        .style9
+        {
+            width: 80px;
+            height: 24px;
+        }
+        .style10
+        {
+            width: 300px;
+            height: 24px;
+        }
+        .style11
+        {
+            width: 79px;
+            height: 16px;
+        }
+        .style12
+        {
+            width: 79px;
+            height: 24px;
+        }
+        .style13
+        {
+            width: 79px;
+            height: 29px;
+        }
+        .style14
+        {
+            height: 125px;
+        }
+    </style>
+</head>
+<body onload="javascript: Max();" style="font-size: 12pt; background-color: #088AC6;
+    margin-top: 0px; height: 100%;">
+    <form name="form1" method="post" action="OSLogin.aspx" id="form1">
+<div>
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTkwMDYxMjA4MA9kFgICAw9kFgICFA8PFgIeB1Zpc2libGVoZGQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgIFDWltZ2J0bkxvaW5nT0sFC2ltZ2J0blJlc2V0HHkgVCclErTFgZJylrOdss+c8pl/43vSOYFJay/yR/k=" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="9180DC62" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWCAKVlJX4DAKl1bKzCQK1qbSRCwKX++fdCALXqtX0DgKE9qqDDgL0m+XUDQKH8dKHC7aG5XodnPYCu9Qq+EkJE1uX2aCK4AIgCgHyKJQU0zcu" />
+</div>
+    <div style="background-position: center center; text-align: center; background-repeat: no-repeat;
+        background-image: url('image/loginOutExpert.jpg'); height: 100%; width: 100%;
+        margin-top: 4%">
+        <div style="width: 90%; height: 90%; position: relative;">
+            <table style="height: 100%; width: 100%">
+                <tr>
+                    <td colspan="4">
+                        <br />
+                    </td>
+                </tr>
+                <tr>
+                    <td rowspan="3" style="text-align: right; vertical-align: bottom; width: 350px;"
+                        class="style2">
+                        <br />
+                    </td>
+                    <td colspan="2" style="text-align: left; height: 200px;" class="style1">
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align: right;" class="style6">
+                        <span id="Label1" style="font-size:Small;">用户名：</span>
+                    </td>
+                    <td style="text-align: left;" class="style7">
+                        <input name="txtUserName" type="text" id="txtUserName" style="font-family:Arial Black;" />
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align: right;" class="style9">
+                        <span id="Label2" style="font-size:Small;">密码：</span>
+                    </td>
+                    <td style="text-align: left;" class="style10">
+                        <input name="txtPassword" type="password" id="txtPassword" autocomplete="off" style="font-family:Arial Black;" />
+                    </td>
+                </tr>
+                <tr>
+                    <td rowspan="2" style="text-align: right; vertical-align: bottom;" class="style2">
+                        &nbsp;
+                    </td>
+                    <td style="text-align: right;" class="style3">
+                        <span id="Label3" style="font-size:Small;">验证码：</span>
+                    </td>
+                    <td style="text-align: left;" class="style4">
+                        <input name="txtVerifyCode" type="text" id="txtVerifyCode" style="font-family:Arial Black;width:99px;" /><img
+                            id="imgValidate" alt="点击更新验证码" onclick="reLoadPic();" src="Utility/CodeNubImg.aspx"
+                            style="width: 52px; height: 20px" />
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align: left" class="style14">
+                    </td>
+                    <td valign="top" style="text-align: left;">
+                        <table width="100%">
+                            <tr>
+                                <td>
+                                    <a id="register" href="javascript:__doPostBack(&#39;register&#39;,&#39;&#39;)">注册</a>&nbsp;
+                                    <a id="getPsw" href="javascript:__doPostBack(&#39;getPsw&#39;,&#39;&#39;)">忘记密码</a>
+                                    
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    &nbsp;
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <input type="image" name="imgbtnLoingOK" id="imgbtnLoingOK" src="image/btnloginok.jpg" style="border-width:0px;" /><input type="image" name="imgbtnReset" id="imgbtnReset" src="image/btnReset.jpg" onclick="Clear();" style="border-width:0px;" /><br />
+                                    
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align: center; vertical-align: top;" colspan="4">
+                        <span style="font-size: 9pt; text-align: center;">
+                            <hr style="width: 50%" />
+                            <br />
+                            【研究生管理信息系统】<br />
+                            版权所有：桂林电子科技大学【 侵权必究】，若需要使用该系统，请与系统供应商联系<br />
+                            建议浏览器IE7以上、使用分辨率为１２８０＊７６８</span><br />
+                        <br />
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </div>
+    </form>
+</body>
+</html>
+<script language="javascript" type="text/javascript">
+    function MaxScreen() {
+        //self.moveTo(0,0);
+        //self.resizeTo(screen.availHeight,screen.availWidth); 
+    }
+    function Clear() {
+        document.getElementById("txtUserName").value = "";
+        document.getElementById("txtPassword").value = "";
+        document.getElementById("txtVerifyCode").value = "";
+    }
+</script>

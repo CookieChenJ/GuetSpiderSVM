@@ -1,0 +1,18 @@
+<!DOCTYPE html><html lang=zh-CN dropeffect=none class="js is-AppPromotionBarVisible cssanimations csstransforms csstransitions flexbox touchevents mobile"><head><meta http-equiv=Content-Type content="text/html; charset=utf-8"><meta http-equiv=X-UA-Compatible content="IE=edge"><title>统一身份认证平台</title><meta name=viewport content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no"><meta name=apple-mobile-web-app-capable content=yes><meta name=apple-mobile-web-app-status-bar-style content=black><meta name=format-detection content="telephone=no"><link rel="shortcut icon" href=/assets/images/favicon.ico><script type=text/javascript>//解决 IE8、IE9 不支持 console 问题
+        window.console = window.console || (function () {
+            var c = {}; c.log = c.warn = c.debug = c.info = c.error = c.time = c.dir = c.profile
+                = c.clear = c.exception = c.trace = c.assert = function () { };
+            return c;
+        })();
+        window.safeQuestion = 'https://cas.guet.edu.cn:4102/#/problem';
+        window.safePassWord = 'https://cas.guet.edu.cn:4102/#/password/passwordFound';
+        // document.body.addEventListener('touchstart', function () { });</script><link href=/assets/css/xenon.css rel=stylesheet><link href=/assets/css/components.css rel=stylesheet><link href=/assets/css/global.css rel=stylesheet></head><body>
+    <link rel="stylesheet/less" type="text/css" href="/color.less" />
+    <script>
+      window.less = {
+        async: false,
+        env: 'production'
+      };
+    </script>
+    <script type="text/javascript" src="/assets/js/less.min.js"></script>
+        <div id=root style=height:100%></div><div id=scrollDiv style="overflow: scroll;width: 100%;height: 100%;position: absolute;top: -9999px;z-index: -9999;"></div><script type=text/javascript src=/assets/js/vendor.843c09e05f7f5a307a4d.js></script><script type=text/javascript src=/assets/js/app.e774bf8e0631693369b3.js></script></body></html>

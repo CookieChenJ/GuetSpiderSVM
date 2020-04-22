@@ -1,0 +1,1328 @@
+<!DOCTYPE html>
+<HTML><HEAD><TITLE>广西图像图形与智能处理重点实验室</TITLE><META Name="keywords" Content="广西图形图像, 广西重点实验室, 智能处理, 图形图像" />
+
+<META charset="utf-8"><LINK rel="stylesheet" type="text/css" href="css/style.css"><LINK rel="stylesheet" type="text/css" href="css/publice.css"><script type="text/javascript" src="js/jquery-1.8.3.min.js"></script><script type="text/javascript" src="js/jquery.js"></script><script type="text/javascript" src="js/superslide.2.1.js"></script><script type="text/javascript" src="js/jquery.soChange.js"></script><script type="text/javascript" src="js/index.js"></script><script type="text/javascript">
+$(function(){
+    $(".mainmenu dl").hide();
+    $("li.mainmenu").hover(function(){
+        $(this).find("dl").stop(true,true);
+        $(this).find("dl").slideDown();
+    },function(){
+        $(this).find("dl").stop(true,true);
+        $(this).find("dl").slideUp();
+    });
+})
+</script>
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="index.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/vsbscreen.min.js" id="_vsbscreen" devices="pc|mobile|pad"></script>
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1535406622)</script>
+</HEAD>
+
+<BODY><!--top s-->
+<DIV class="topWrap clearfix">
+    <DIV class="topDiv">
+        <DIV class="logo">
+            <!--#begineditable contype="" name="高校LOGO" action="" layout="" clone="0" namechanged="0" order="0" ispublic="0" tagname="高校LOGO" viewid="202025" contentviewid="" stylesysid=""-->
+<!-- 网站logo图片地址请在本组件"内容配置-网站logo"处填写 -->
+
+<a href="index.htm"><img src="images/igip-logo-while.png" width="496px" height="90px"></a>
+<!--#endeditable-->
+        </DIV>
+        <DIV class="topR fr">
+            <DIV class="topR_t fr">
+                <!--#begineditable contype="" name="主页|收藏" action="" layout="" clone="0" namechanged="0" order="1" ispublic="0" tagname="主页|收藏" viewid="202026" contentviewid="" stylesysid=""-->
+<script language="javascript">
+function dosuba202026a()
+{
+    try{
+        var ua = navigator.userAgent.toLowerCase();
+        if(ua.indexOf("msie 8")>-1)
+        {
+            window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE8
+        }else if(ua.toLowerCase().indexOf("rv:")>-1)
+        {
+            window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE11+
+        }else{
+            if (document.all) 
+            {
+                window.external.addFavorite(document.location.href, document.title);
+            }else if(window.sidebar)
+            {
+                window.sidebar.addPanel( document.title, document.location.href, "");//firefox
+            }
+            else
+            {
+                alert(hotKeysa202026a());
+            }
+        }
+
+    }
+    catch (e){alert("无法自动添加到收藏夹，请使用 Ctrl + d 手动添加");}
+}
+function hotKeysa202026a() 
+{
+    var ua = navigator.userAgent.toLowerCase(); 
+    var str = "";    
+    var isWebkit = (ua.indexOf('webkit') != - 1); 
+    var isMac = (ua.indexOf('mac') != - 1);     
+    if (ua.indexOf('konqueror') != - 1) 
+    {  
+        str = 'CTRL + B'; // Konqueror   
+    } 
+    else if (window.home || isWebkit || isMac) 
+    {        
+        str = (isMac ? 'Command/Cmd' : 'CTRL') + ' + D'; // Netscape, Safari, iCab, IE5/Mac   
+    }
+    return ((str) ? '无法自动添加到收藏夹，请使用' + str + '手动添加' : str);
+}
+function setHomepagea202026a()
+{
+    var url = document.location.href;
+    if (document.all)
+    {
+        document.body.style.behavior='url(#default#homepage)';
+        document.body.setHomePage(url);
+    }
+    else if (window.sidebar)
+    {
+        if(window.netscape)
+        {
+             try{
+                  netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+             }catch (e){
+                   alert("该操作被浏览器拒绝，如果想启用该功能，请在地址栏内输入 about:config,然后将项 signed.applets.codebase_principal_support 值该为true");
+             }
+        }
+    var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components. interfaces.nsIPrefBranch);
+    prefs.setCharPref('browser.startup.homepage',url);
+    }
+    else
+    {
+        alert("浏览器不支持自动设为首页，请手动设置");
+    }
+}
+</script>
+
+            <A onclick="javascript:dosuba202026a();" href="#" style="TEXT-DECORATION: none;">
+                加入收藏
+            </A>|
+            <A href="https://mwb.guet.edu.cn/" target="_blank" style="TEXT-DECORATION: none;">
+               后台管理
+            </A>|
+            <A href="https://www.guet.edu.cn/" target="_blank" style="TEXT-DECORATION: none;">
+               学校主页
+            </A><!--#endeditable-->
+            </DIV>
+            <DIV style="clear: both"></DIV>
+            <!--#begineditable contype="" name="头部检索" action="" layout="" clone="0" namechanged="0" order="2" ispublic="0" tagname="头部检索" viewid="202027" contentviewid="" stylesysid=""--><script type="text/javascript">
+    function _nl_ys_check(){
+        
+        var keyword = document.getElementById('showkeycode202027').value;
+        if(keyword==null||keyword==""){
+            alert("请输入你要检索的内容！");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkeyword202027").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkeyword202027").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkeyword202027").value = base64.encode(document.getElementById("lucenenewssearchkeyword202027").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode202027"));
+        return true;
+    } 
+    function submitForm()
+    {
+        document.getElementById("au2a").submit();
+    }
+     function test44()
+                {
+                    var tempStr=document.getElementById('showkeycode202027').value;
+                    if(tempStr=="")
+                    {
+                        document.getElementById('showkeycode202027').value="请输入关键字搜索";
+                    }
+                }
+                
+                 function test33()
+                {
+                    var tempStr=document.getElementById('showkeycode202027').value;
+                    if(tempStr=="请输入关键字搜索")
+                    {
+                        document.getElementById('showkeycode202027').value="";
+                    }
+                }
+</script>
+<div class="Search">
+<form action="ssjgy.jsp?wbtreeid=1001" method="post" id="au2a" name="au2a" onsubmit="return _nl_ys_check()">
+ <input type="hidden" id="lucenenewssearchkeyword202027" name="lucenenewssearchkeyword" value=""><input type="hidden" id="_lucenesearchtype202027" name="_lucenesearchtype" value="1"><input type="hidden" id="searchScope202027" name="searchScope" value="0">
+ <input type="text" value="请输入关键字搜索" name="showkeycode" class="search_text" onclick="test33()" onblur="test44()" id="showkeycode202027" />
+                <div class="fdj fr"><input type="submit" class="button pngFix" value=""></div>
+</form>
+</div><script language="javascript" src="/system/resource/js/base64.js"></script><script language="javascript" src="/system/resource/js/formfunc.js"></script>
+<!--#endeditable-->
+            <!--#begineditable contype="" name="浮动图片" action="" layout="" clone="0" namechanged="0" order="3" ispublic="0" tagname="浮动图片" viewid="202031" contentviewid="" stylesysid=""-->   
+   
+   
+   
+<script language="javascript" src="/system/resource/js/dynclicks.js"></script>   
+</SCRIPT><!--#endeditable-->
+            <script type="text/javascript">
+                function test3() {
+                    var tempStr = document.getElementById('test2').value;
+                    if (tempStr == "请输入关键字搜索") {
+                        document.getElementById('test2').value = "";
+                    }
+                }
+                function test4() {
+                    var tempStr = document.getElementById('test2').value;
+                    if (tempStr == "") {
+                        document.getElementById('test2').value = "请输入关键字搜索";
+                    }
+                }
+            </script>
+        </DIV>
+    </DIV>
+</DIV>
+<!--nav-->
+<DIV class="navWrap  clearfix">
+    <DIV class="nav">
+        <!--#begineditable contype="" name="主导航" action="" layout="" clone="0" namechanged="0" order="4" ispublic="0" tagname="主导航" viewid="202028" contentviewid="" stylesysid=""--><div class="navWrap  clearfix">
+    <div class="nav">
+    <ul>
+            <li>
+            <a class="link" href="index.htm">首页</a>
+        </li>
+        <li class="mainmenu">
+
+            <a class="link" href="sysgk/sysjj.htm">实验室概况</a>
+   
+            <dl class="chang">
+
+                    <dd><a href="sysgk/sysjj.htm">实验室简介</a></dd>
+
+                    <dd><a href="sysgk/xswyh.htm">学术委员会</a></dd>
+
+                    <dd><a href="sysgk/jgsz.htm">机构设置</a></dd>
+
+                    <dd><a href="sysgk/ldbz.htm">领导班子</a></dd>
+
+                    <dd><a href="sysgk/gzzd.htm">规章制度</a></dd>
+
+                    <dd><a href="sysgk/yqsb.htm">仪器设备</a></dd>
+
+                    <dd><a href="sysgk/ldsc.htm">领导视察</a></dd>
+
+                    <dd><a href="sysgk/lxfs.htm">联系方式</a></dd>
+            </dl>
+        </li>
+        <li class="mainmenu">
+
+            <a class="link" href="rcdui/kytd.htm">人才队伍</a>
+   
+            <dl class="chang">
+
+                    <dd><a href="rcdui/kytd.htm">科研团队</a></dd>
+
+                    <dd><a href="rcdui/yxrc.htm">优秀人才</a></dd>
+
+                    <dd><a href="rcdui/jsml.htm">教师名录</a></dd>
+            </dl>
+        </li>
+        <li class="mainmenu">
+
+            <a class="link" href="kxyj/yjfx.htm">科学研究</a>
+   
+            <dl class="chang">
+
+                    <dd><a href="kxyj/yjfx.htm">研究方向</a></dd>
+
+                    <dd><a href="kxyj/kyxm.htm">科研项目</a></dd>
+
+                    <dd><a href="kxyj/yjjz.htm">研究进展</a></dd>
+
+                    <dd><a href="kxyj/lwzz.htm">论文著作</a></dd>
+
+                    <dd><a href="kxyj/fmzl.htm">发明专利</a></dd>
+
+                    <dd><a href="kxyj/yjcg.htm">研究成果</a></dd>
+            </dl>
+        </li>
+        <li class="mainmenu">
+
+            <a class="link" href="hzjl/xsbg.htm">合作交流</a>
+   
+            <dl class="chang">
+
+                    <dd><a href="hzjl/xsbg.htm">学术报告</a></dd>
+
+                    <dd><a href="hzjl/zbhy.htm">主办会议</a></dd>
+
+                    <dd><a href="hzjl/jlh.htm">交流合作</a></dd>
+            </dl>
+        </li>
+        <li class="mainmenu">
+
+            <a class="link" href="rcpy/bsspy.htm">人才培养</a>
+   
+            <dl class="chang">
+
+                    <dd><a href="rcpy/bsspy.htm">博士生培养</a></dd>
+
+                    <dd><a href="rcpy/ssspy.htm">硕士生培养</a></dd>
+
+                    <dd><a href="rcpy/fwxz.htm">访问学者</a></dd>
+            </dl>
+        </li>
+        <li class="mainmenu">
+
+            <a class="link" href="kfkt/sqzn.htm">开放课题</a>
+   
+            <dl class="chang">
+
+                    <dd><a href="kfkt/sqzn.htm">申请指南</a></dd>
+
+                    <dd><a href="kfkt/glbf.htm">管理办法</a></dd>
+
+                    <dd><a href="kfkt/jfxz.htm">经费细则</a></dd>
+
+                    <dd><a href="kfkt/zzqk.htm">资助情况</a></dd>
+            </dl>
+        </li>
+        <li class="mainmenu">
+
+            <a class="link" href="gzdt/xwdt.htm">工作动态</a>
+   
+            <dl class="chang">
+
+                    <dd><a href="gzdt/xwdt.htm">新闻动态</a></dd>
+
+                    <dd><a href="gzdt/tzyg.htm">通知预告</a></dd>
+
+                    <dd><a href="gzdt/rczp.htm">人才招聘</a></dd>
+            </dl>
+        </li>
+        <li class="mainmenu">
+
+            <a class="link" href="xzzq.htm">下载专区</a>
+   
+        </li>
+     
+    </ul>
+</div>
+</div>
+<script type="text/javascript">
+
+    $(".mainmenu dl").hide();
+
+</script><!--#endeditable-->
+    </DIV>
+</DIV>
+<!--banner-->
+<!--#begineditable contype="" name="带左右切换图片变换banner" action="" layout="" clone="0" namechanged="0" order="5" ispublic="0" tagname="带左右切换图片变换banner" viewid="202029" contentviewid="" stylesysid=""-->    <div class="bannerWrap clearfix">
+    <!--banner1-->
+    <div class="banner_one">
+        <div id="slideBox" class="slideBox">
+            <div class="hd">
+                <ul>
+                    <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+        
+        </ul>
+            </div>
+            <div class="bd" height="335">
+                <ul>
+             <li><img src="img/zdsw.png" width="1903" height="335" /></li>
+             <li><img src="images/06.png" width="1903" height="335" /></li>
+             <li><img src="images/banner04.png" width="1903" height="335" /></li>
+             <li><img src="images/banner03.png" width="1903" height="335" /></li>
+             <li><img src="images/banner02.png" width="1903" height="335" /></li>
+                </ul>
+            </div>
+            <a class="prev" href="javascript:void(0)"></a>
+            <a class="next" href="javascript:void(0)"></a>
+
+        </div>
+        <script type="text/javascript">
+        jQuery(".slideBox").slide({mainCell:".bd ul",autoPlay:true});
+        </script>
+    </div>
+</div><!--#endeditable-->
+<!--container-->
+<DIV class="container w1000 clearfix">
+    <DIV class="content contenta">
+        <!--新闻信息-->
+        <!--#begineditable contype="" name="图片专题" action="" layout="" clone="0" namechanged="0" order="6" ispublic="0" tagname="图片专题" viewid="202030" contentviewid="" stylesysid=""--><div class="new_inforBox fl">
+<div class="dynamic" style="width: 100%;"><h2>图片专题</h2></div>
+                <div class="newBox newBoxb">
+                    <div class="new_pic new_picb">
+                        <div id="slideBox" class="slideBox slideBox5">
+                            <div class="hd">
+                                <ul>
+<li>1</li>
+<li>2</li>
+<li>3</li>
+<li>4</li>
+<li>5</li>
+</ul>
+                            </div>
+                            <div class="bd">
+                                <ul style="height:290px;">
+<li><a href="info/1001/1272.htm" target="_blank"><img src="/__local/5/90/64/F34AADF735874D22A3D5560A8FC_20202C1B_ADDA0.png" width="660" height="290" /><p>广西图像图形与智能处理重点实验室召开年度学术委员会</p></a></li>
+<li><a href="info/1001/1239.htm" target="_blank"><img src="/__local/7/59/BA/A23620425B4F7CF53437BBF3C66_7E9229BE_3ABFB.png" width="660" height="290" /><p>罗笑南主持学术会议</p></a></li>
+<li><a href="info/1001/1242.htm" target="_blank"><img src="/__local/B/F0/A5/A2A040DFDE15414DA87722A0877_0AB717AB_C8BC3.png" width="660" height="290" /><p>马利庄教授报告</p></a></li>
+<li><a href="info/1001/1241.htm" target="_blank"><img src="/__local/2/B0/F2/247604B7ECFDEC7B61991893907_55EE8F4D_418B1.jpg" width="660" height="290" /><p>生物医学视频检索</p></a></li>
+<li><a href="info/1001/1240.htm" target="_blank"><img src="/__local/3/BF/AE/127E21FAD45EEBACFFF8E3AA406_257F7F93_49D04.png" width="660" height="290" /><p>三维室内定位算法</p></a></li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>  
+            </div><script>_showDynClickBatch(['dynclicks_u6_1272','dynclicks_u6_1239','dynclicks_u6_1242','dynclicks_u6_1241','dynclicks_u6_1240'],[1272,1239,1242,1241,1240],"wbnews", 1535406622)</script>
+<!--#endeditable-->
+        <!--通知预告-->
+        <DIV class="informBox fr">
+            <DIV class="dynamic" style="width: 316px">
+                <H2>研究进展</H2><SPAN><A href="kxyj/yjjz.htm" onfocus="undefined" onfocus="undefined"><IMG src="temp/more.png" style="margin-top: 15px"></A></SPAN>
+            </DIV>
+            <!--#begineditable contype="" name="研究进展" action="" layout="" clone="0" namechanged="0" order="7" ispublic="0" tagname="研究进展" viewid="201997" contentviewid="" stylesysid=""--><div class="infor_list">
+   <ul class="dynamic_list">
+      <li><a href="info/1088/1188.htm" style="float:left;">罗笑南钟艳如研究的室内空间地图系...</a><span>08-18</span></li>
+   <li><a href="info/1088/1185.htm" style="float:left;">江泽涛团队基于深度学习的低照度图...</a><span>08-18</span></li>
+   <li><a href="info/1088/1193.htm" style="float:left;">张艳菊团队在蛋白质赖氨酸丙二酰化...</a><span>08-18</span></li>
+   <li><a href="info/1088/1192.htm" style="float:left;">文益民一种基于在线迁移学习的重现...</a><span>08-18</span></li>
+   <li><a href="info/1088/1262.htm" style="float:left;">刘振丙教授在基于深度学习的图像复...</a><span>08-18</span></li>
+   <li><a href="info/1088/1187.htm" style="float:left;">罗笑南团队基于渐进表达学习的显著...</a><span>08-18</span></li>
+   <li><a href="info/1088/1184.htm" style="float:left;">黄桂敏团队在智能英语写作与口语自...</a><span>08-18</span></li>
+   <li><a href="info/1088/1186.htm" style="float:left;">罗笑南团队海量医疗信息的智能检索...</a><span>08-18</span></li>
+   <li><a href="info/1088/1189.htm" style="float:left;">强保华团队成功研发了风电新能源大...</a><span>08-18</span></li>
+   <li><a href="info/1088/1261.htm" style="float:left;">刘振丙教授在阿尔茨海默病诊断分类...</a><span>08-18</span></li>
+   </ul>
+</div>
+<script>_showDynClickBatch(['dynclicks_u7_1188','dynclicks_u7_1185','dynclicks_u7_1193','dynclicks_u7_1192','dynclicks_u7_1262','dynclicks_u7_1187','dynclicks_u7_1184','dynclicks_u7_1186','dynclicks_u7_1189','dynclicks_u7_1261'],[1188,1185,1193,1192,1262,1187,1184,1186,1189,1261],"wbnews", 1535406622)</script>
+<!--#endeditable-->
+        </DIV>
+        <!--通知预告结束-->
+    </DIV>
+
+    <DIV class="content contente">
+        <DIV class="informBox informBoxc fl" style="margin-left: 0px">
+            <DIV class="dynamic dynamicb dynamice" style="width: 320px">
+                <H2>新闻动态</H2><SPAN><A href="gzdt/xwdt.htm" onfocus="undefined" onfocus="undefined"><IMG src="img/w_more.png" style="margin-top: 18px"></A></SPAN>
+            </DIV>
+            <DIV class="infor_list infor_lista">
+                <!--#begineditable contype="" name="新闻动态" action="" layout="" clone="0" namechanged="0" order="8" ispublic="0" tagname="新闻动态" viewid="201998" contentviewid="" stylesysid=""-->
+<ul class="dynamic_list dynamic_listb dynamic_liste fr">
+   <li><a href="info/1044/1297.htm" style="float:left;">在桂林召开ICDH 2019会议</a><span>12-13</span></li>
+   <li><a href="info/1044/1296.htm" style="float:left;">在桂林召开的ICACI国际会议</a><span>12-13</span></li>
+   <li><a href="info/1044/1301.htm" style="float:left;">2019年中国计算机学会推荐国际学术...</a><span>01-04</span></li>
+   <li><a href="info/1044/1271.htm" style="float:left;">广西图像图形与智能处理重点实验室...</a><span>10-22</span></li>
+   <li><a href="info/1044/1266.htm" style="float:left;">重点实验室蓝如师老师研究成果在《I...</a><span>09-22</span></li>
+</ul><script>_showDynClickBatch(['dynclicks_u8_1297','dynclicks_u8_1296','dynclicks_u8_1301','dynclicks_u8_1271','dynclicks_u8_1266'],[1297,1296,1301,1271,1266],"wbnews", 1535406622)</script>
+<!--#endeditable-->
+            </DIV>
+        </DIV>
+        <!--新闻动态结束-->
+
+        <DIV class="informBox informBoxc fl">
+            <DIV class="dynamic dynamicb dynamice" style="width: 320px">
+                <H2>学术报告</H2><SPAN><A href="hzjl/xsbg.htm" onfocus="undefined" onfocus="undefined"><IMG src="img/w_more.png" style="margin-top: 18px"></A></SPAN>
+            </DIV>
+            <DIV class="infor_list infor_lista">
+            <!--#begineditable contype="" name="学术报告" action="" layout="" clone="0" namechanged="0" order="9" ispublic="0" tagname="学术报告" viewid="201999" contentviewid="" stylesysid=""-->
+<ul class="dynamic_list dynamic_listb dynamic_liste fr">
+   <li><a href="info/1033/1136.htm" style="float:left;">深圳技术大学黄炳顶教授到重点实...</a><span>08/08</span></li>
+   <li><a href="info/1033/1135.htm" style="float:left;">澳大利亚Monash大学王嘉炜博士来...</a><span>08/08</span></li>
+   <li><a href="info/1033/1134.htm" style="float:left;">北京航空航天大学姜志国教授来重...</a><span>08/08</span></li>
+   <li><a href="info/1033/1133.htm" style="float:left;">中国科学院自动化研究所张晓鹏教...</a><span>08/08</span></li>
+   <li><a href="info/1033/1132.htm" style="float:left;">国家杰青上海交通大学马利庄教授...</a><span>08/08</span></li>
+</ul><script>_showDynClickBatch(['dynclicks_u9_1136','dynclicks_u9_1135','dynclicks_u9_1134','dynclicks_u9_1133','dynclicks_u9_1132'],[1136,1135,1134,1133,1132],"wbnews", 1535406622)</script>
+<!--#endeditable-->
+            </DIV>
+        </DIV>
+        <!--学术报告结束-->
+
+        <!--研究成果-->
+        <DIV class="informBox informBoxc fr">
+            <DIV class="dynamic dynamicb dynamice" style="width: 320px">
+                <H2>研究成果</H2><SPAN><A href="kxyj/yjcg.htm" onfocus="undefined" onfocus="undefined"><IMG src="img/w_more.png" style="margin-top: 18px"></A></SPAN>
+            </DIV>
+            <DIV class="infor_list infor_lista">
+                <!--#begineditable contype="" name="研究成果" action="" layout="" clone="0" namechanged="0" order="12" ispublic="0" tagname="研究成果" viewid="202002" contentviewid="" stylesysid=""--><ul class="dynamic_list dynamic_listb dynamic_liste fr">
+   <li><a href="info/1074/1207.htm" style="float:left;">罗笑南团队研发出区域与室内导航...</a><span>08-19</span></li>
+   <li><a href="info/1074/1206.htm" style="float:left;">温佩芝教授研发出基于图像的文化...</a><span>08-19</span></li>
+   <li><a href="info/1074/1205.htm" style="float:left;">江泽涛团队研发出自标定三维重建...</a><span>08-19</span></li>
+   <li><a href="info/1074/1211.htm" style="float:left;">刘振丙教授研发出基于深度学习的...</a><span>08-22</span></li>
+   <li><a href="info/1074/1208.htm" style="float:left;">黄桂敏团队研发出英语写作实训云...</a><span>08-19</span></li>
+</ul><script>_showDynClickBatch(['dynclicks_u10_1207','dynclicks_u10_1206','dynclicks_u10_1205','dynclicks_u10_1211','dynclicks_u10_1208'],[1207,1206,1205,1211,1208],"wbnews", 1535406622)</script>
+<!--#endeditable-->
+            </DIV>
+        </DIV>
+        <!--研究成果结束-->
+
+    </DIV>
+
+    <DIV class="content contente">
+        <DIV class="informBox informBoxc fl" style="margin-left: 0px">
+
+            <DIV class="dynamic dynamicb dynamice" style="width: 320px">
+                <H2>开放课题</H2><SPAN><A href="kfkt/sqzn.htm" onfocus="undefined" onfocus="undefined"><IMG src="img/w_more.png" style="margin-top: 18px"></A></SPAN>
+            </DIV>
+            <DIV class="infor_list infor_lista">
+                <!--#begineditable contype="" name="开放课题" action="" layout="" clone="0" namechanged="0" order="13" ispublic="0" tagname="开放课题" viewid="202003" contentviewid="" stylesysid=""--><ul class="dynamic_list dynamic_listb dynamic_liste fr">
+   <li><a href="info/1025/1292.htm" style="float:left;">2019年开展项目情况</a><span>12-13</span></li>
+   <li><a href="info/1025/1254.htm" style="float:left;">科研项目</a><span>08-27</span></li>
+   <li><a href="info/1041/1221.htm" style="float:left;">图像图形与智能处理重点实验室2018...</a><span>08-22</span></li>
+   <li><a href="info/1075/1220.htm" style="float:left;">图像图形与智能处理重点实验室开放...</a><span>08-22</span></li>
+   <li><a href="info/1042/1218.htm" style="float:left;">图像图形与智能处理重点实验室课题...</a><span>08-22</span></li>
+</ul><script>_showDynClickBatch(['dynclicks_u11_1292','dynclicks_u11_1254','dynclicks_u11_1221','dynclicks_u11_1220','dynclicks_u11_1218'],[1292,1254,1221,1220,1218],"wbnews", 1535406622)</script>
+<!--#endeditable-->
+            </DIV>
+        </DIV>
+        <!--开放课题结束-->
+
+        <DIV class="informBox informBoxc fl">
+            <DIV class="dynamic dynamicb dynamice" style="width: 320px">
+                <H2>通知预告</H2><SPAN><A href="gzdt/tzyg.htm" onfocus="undefined" onfocus="undefined"><IMG src="img/w_more.png" style="margin-top: 18px"></A></SPAN>
+            </DIV>
+            <DIV class="infor_list infor_lista">
+                <!--#begineditable contype="" name="通知预告" action="" layout="" clone="0" namechanged="0" order="14" ispublic="0" tagname="通知预告" viewid="202004" contentviewid="" stylesysid=""--><ul class="dynamic_list dynamic_listb dynamic_liste fr">
+   <li><a href="info/1045/1264.htm" style="float:left;">丹麦理工学院蒙威志博士来我校...</a><span>09-12</span></li>
+   <li><a href="info/1045/1237.htm" style="float:left;">重点实验室鼓励全体成员与学生...</a><span>08-23</span></li>
+   <li><a href="info/1045/1236.htm" style="float:left;">CCF推荐国内计算机A类期刊</a><span>08-23</span></li>
+   <li><a href="info/1045/1210.htm" style="float:left;">2019年第一届广西大学生智能设...</a><span>08-21</span></li>
+   <li><a href="info/1045/1243.htm" style="float:left;">比利时根特大学潘小勇助理研究...</a><span>08-20</span></li>
+</ul><script>_showDynClickBatch(['dynclicks_u12_1264','dynclicks_u12_1237','dynclicks_u12_1236','dynclicks_u12_1210','dynclicks_u12_1243'],[1264,1237,1236,1210,1243],"wbnews", 1535406622)</script>
+<!--#endeditable-->
+            </DIV>
+        </DIV>
+        <!--下载中心结束-->
+
+        <DIV class="informBox informBoxc fr">
+            <DIV class="dynamic dynamicb dynamice" style="width: 320px">
+                <H2>其他链接</H2><SPAN><A href="index/qtlj.htm" onfocus="undefined" onfocus="undefined"><IMG src="img/w_more.png" style="margin-top: 18px"></A></SPAN>
+            </DIV>
+            <DIV class="infor_list infor_listg"><!--#begineditable name="其他链接" action="webber.wbst.com.image.ColumnImage" layout="/system/_component/columnimage/tplimagelist.jsp" tpltype="1" contype="image" clone="" viewid="202043" contentviewid="" tagname="其他链接"-->    <ul class="zp_pic">
+<li><a href="http://www.jos.org.cn/jos/ch/index.aspx"><img src="images/19/08/23/11utduqxvy/jsf.jpg" /></a></li>
+<li><a href="http://crad.ict.ac.cn/CN/volumn/home.shtml"><img src="images/19/08/23/11utduqxvy/jcrd.jpg" /></a></li>
+<li><a href="http://cjc.ict.ac.cn/"><img src="images/19/08/23/11utduqxvy/cjc.jpg" /></a></li>
+<li><a href="http://www.guet.edu.cn"><img src="images/19/08/22/1n2s7yaa8l/PRCV2019.jpg" /></a></li>
+<li><a href="http://iccv2019.thecvf.com/"><img src="images/19/08/22/1n2s7yaa8l/iccv2019.jpg" /></a></li>
+<li><a href="http://cvpr2019.thecvf.com/"><img src="images/19/08/22/1n2s7yaa8l/cvpr2019.jpg" /></a></li>
+</ul><!--#endeditable--></DIV>
+        </DIV>
+        <!--其他链接结束-->
+
+    </DIV>
+    <!--1111-->
+
+    <DIV class="content contente">
+        <DIV class="xiaonews5 xiaonews4">
+            <DIV class="tit">
+                <H3><A href="index/sysdt.htm" onfocus="undefined" onfocus="undefined"><IMG src="img/more.png"></A><SPAN>实验室动态</SPAN></H3>
+            </DIV>
+            <DIV class="con">
+                <DIV class="picMarquee-left1">
+                    <DIV class="bd2">
+                        <DIV class="tempWrap" style="overflow: hidden; width: 1000px; position: relative">
+                            <!--#begineditable contype="" name="学院风采" action="" layout="" clone="0" namechanged="0" order="15" ispublic="0" tagname="图片列表" viewid="202005" contentviewid="" stylesysid=""-->    <ul class="picList cl" style="width: 3179px; position: relative; overflow: hidden; padding: 0px; margin: 0px; left: -726px;">
+<li class="clone" style="float: left; width: 187px;"><a href=""><img src="images/19/08/18/147n2e6jhb/012.jpg" width="159" height="120">
+                                      <p></p>
+                                  </a></li>
+<li class="clone" style="float: left; width: 187px;"><a href=""><img src="images/19/08/18/147n2e6jhb/011.jpg" width="159" height="120">
+                                      <p></p>
+                                  </a></li>
+<li class="clone" style="float: left; width: 187px;"><a href=""><img src="images/19/08/18/147n2e6jhb/010.jpg" width="159" height="120">
+                                      <p></p>
+                                  </a></li>
+<li class="clone" style="float: left; width: 187px;"><a href=""><img src="images/19/08/18/147n2e6jhb/009.jpg" width="159" height="120">
+                                      <p></p>
+                                  </a></li>
+<li class="clone" style="float: left; width: 187px;"><a href=""><img src="images/19/08/18/147n2e6jhb/008.jpg" width="159" height="120">
+                                      <p></p>
+                                  </a></li>
+<li class="clone" style="float: left; width: 187px;"><a href=""><img src="images/19/08/18/147n2e6jhb/007.JPG" width="159" height="120">
+                                      <p></p>
+                                  </a></li>
+<li class="clone" style="float: left; width: 187px;"><a href=""><img src="images/19/08/18/147n2e6jhb/006.jpg" width="159" height="120">
+                                      <p></p>
+                                  </a></li>
+<li class="clone" style="float: left; width: 187px;"><a href=""><img src="images/19/08/18/147n2e6jhb/005.jpg" width="159" height="120">
+                                      <p></p>
+                                  </a></li>
+<li class="clone" style="float: left; width: 187px;"><a href=""><img src="images/19/08/18/147n2e6jhb/004.jpg" width="159" height="120">
+                                      <p></p>
+                                  </a></li>
+<li class="clone" style="float: left; width: 187px;"><a href=""><img src="images/19/08/18/147n2e6jhb/003.jpg" width="159" height="120">
+                                      <p></p>
+                                  </a></li>
+<li class="clone" style="float: left; width: 187px;"><a href=""><img src="images/19/08/18/147n2e6jhb/002.jpg" width="159" height="120">
+                                      <p></p>
+                                  </a></li>
+<li class="clone" style="float: left; width: 187px;"><a href=""><img src="images/19/08/18/147n2e6jhb/001.jpg" width="159" height="120">
+                                      <p></p>
+                                  </a></li>
+<li class="clone" style="float: left; width: 187px;"><a href=""><img src="images/2CEB3A266010B97FEABE366E434_5FEE288D_456A6.jpg" width="159" height="120">
+                                      <p></p>
+                                  </a></li>
+</ul><!--#endeditable-->
+                        </DIV>
+                    </DIV>
+                </DIV>
+                <script type="text/javascript">
+                    jQuery(".picMarquee-left1").slide({ mainCell: ".bd2 ul", autoPlay: true, effect: "leftMarquee", vis: 4, interTime: 50, trigger: "click" });
+                </script>
+            </DIV>
+        </DIV>
+    </DIV>
+    <!---->
+</DIV>
+<!--foot-->
+<DIV class="footWrap clearfix">
+    <DIV class="footDiv_two">
+        <DIV class="foot_two">
+            <!--#begineditable contype="" name="版权" action="" layout="" clone="0" namechanged="0" order="16" ispublic="0" tagname="版权" viewid="202006" contentviewid="" stylesysid=""--><!-- 版权内容请在本组件"内容配置-版权"处填写 -->
+<p style="text-align: left">2014-2019 © 广西图像图形与智能处理重点实验室<br />通讯地址：广西壮族自治区桂林市七星区金鸡路1号<br />邮编：541004<br /></p><!--#endeditable-->
+            <DIV class="choice" style="width: 230px; margin-top: 20px; float: right; color: rgb(255,255,255); line-height: 28px; padding-right: 0px">
+                <!--#begineditable contype="" name="相关链接" action="" layout="" clone="0" namechanged="0" order="17" ispublic="0" tagname="相关链接" viewid="202007" contentviewid="" stylesysid=""--><script language="javascript" src="/system/resource/js/openlink.js"></script><select onchange="doJump(this)" style="height: 28px;line-height: 28px;font-size: 14px;margin-right:10px;width:230px">
+     <option value="">== 相关链接 ==</option>
+
+   <option value="#">清华大学</option>
+   <option value="#">北京大学</option>
+   <option value="https://www.uestc.edu.cn/">电子科技大学</option>
+   <option value="http://www.zju.edu.cn/">浙江大学</option>
+   <option value="#">复旦大学</option>
+
+</select>
+<!--#endeditable-->
+            </DIV>
+        </DIV>
+    </DIV>
+</DIV>
+<script type="text/javascript">
+    $(function () {
+        $(".select").each(function () {
+            var s = $(this);
+            var z = parseInt(s.css("z-index"));
+            var dt = $(this).children("dt");
+            var dd = $(this).children("dd");
+            var _show = function () { dd.slideDown(200); dt.addClass("cur"); s.css("z-index", z + 1); };   //展开效果
+            var _hide = function () { dd.slideUp(200); dt.removeClass("cur"); s.css("z-index", z); };    //关闭效果
+            dt.click(function () { dd.is(":hidden") ? _show() : _hide(); });
+            dd.find("a").click(function () { dt.html($(this).html()); _hide(); });     //选择效果（如需要传值，可自定义参数，在此处返回对应的“value”值 ）
+            $("body").click(function (i) { !$(i.target).parents(".select").first().is(s) ? _hide() : ""; });
+        })
+    });
+</script>
+<script type="text/javascript">
+    $(function () {
+        //切换对象为其他，这里为包含图片和标题的层
+        $('#change_32 div.changeDiv').soChange({//对象指向层，层内包含图片及标题
+            thumbObj: '#change_32 .ul_change_a2 span',
+            thumbNowClass: 'on'//自定义导航对象当前class为on
+        });
+    });
+</script>
+<script type="text/javascript">
+    function setContentTab(name, curr, n) {
+        for (i = 1; i <= n; i++) {
+            var menu = document.getElementById(name + i);
+
+            var cont = document.getElementById("con_" + name + "_" + i);
+            if (menu != null) {
+                menu.className = i == curr ? "up" : "";
+            }
+            if (i == curr) {
+                cont.style.display = "block";
+            } else {
+
+                if (cont != null) {
+                    cont.style.display = "none";
+                }
+            }
+        }
+    }
+</script>
+<script type="text/javascript">
+    $(".pic ul li").hover(function () {
+        $(this).stop(true).animate({ width: "848px" }, 500).siblings().stop(true).animate({ width: "50px" }, 500);
+    });
+</script>
+</BODY>
+</HTML>
+<!DOCTYPE html>
+<HTML><HEAD><TITLE>广西图像图形与智能处理重点实验室</TITLE><META Name="keywords" Content="广西图形图像, 广西重点实验室, 智能处理, 图形图像" />
+
+<META charset="utf-8"><LINK rel="stylesheet" type="text/css" href="css/style.css"><LINK rel="stylesheet" type="text/css" href="css/publice.css"><script type="text/javascript" src="js/jquery-1.8.3.min.js"></script><script type="text/javascript" src="js/jquery.js"></script><script type="text/javascript" src="js/superslide.2.1.js"></script><script type="text/javascript" src="js/jquery.soChange.js"></script><script type="text/javascript" src="js/index.js"></script><script type="text/javascript">
+$(function(){
+    $(".mainmenu dl").hide();
+    $("li.mainmenu").hover(function(){
+        $(this).find("dl").stop(true,true);
+        $(this).find("dl").slideDown();
+    },function(){
+        $(this).find("dl").stop(true,true);
+        $(this).find("dl").slideUp();
+    });
+})
+</script>
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="index.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/vsbscreen.min.js" id="_vsbscreen" devices="pc|mobile|pad"></script>
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1535406622)</script>
+</HEAD>
+
+<BODY><!--top s-->
+<DIV class="topWrap clearfix">
+    <DIV class="topDiv">
+        <DIV class="logo">
+            <!--#begineditable contype="" name="高校LOGO" action="" layout="" clone="0" namechanged="0" order="0" ispublic="0" tagname="高校LOGO" viewid="202025" contentviewid="" stylesysid=""-->
+<!-- 网站logo图片地址请在本组件"内容配置-网站logo"处填写 -->
+
+<a href="index.htm"><img src="images/igip-logo-while.png" width="496px" height="90px"></a>
+<!--#endeditable-->
+        </DIV>
+        <DIV class="topR fr">
+            <DIV class="topR_t fr">
+                <!--#begineditable contype="" name="主页|收藏" action="" layout="" clone="0" namechanged="0" order="1" ispublic="0" tagname="主页|收藏" viewid="202026" contentviewid="" stylesysid=""-->
+<script language="javascript">
+function dosuba202026a()
+{
+    try{
+        var ua = navigator.userAgent.toLowerCase();
+        if(ua.indexOf("msie 8")>-1)
+        {
+            window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE8
+        }else if(ua.toLowerCase().indexOf("rv:")>-1)
+        {
+            window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE11+
+        }else{
+            if (document.all) 
+            {
+                window.external.addFavorite(document.location.href, document.title);
+            }else if(window.sidebar)
+            {
+                window.sidebar.addPanel( document.title, document.location.href, "");//firefox
+            }
+            else
+            {
+                alert(hotKeysa202026a());
+            }
+        }
+
+    }
+    catch (e){alert("无法自动添加到收藏夹，请使用 Ctrl + d 手动添加");}
+}
+function hotKeysa202026a() 
+{
+    var ua = navigator.userAgent.toLowerCase(); 
+    var str = "";    
+    var isWebkit = (ua.indexOf('webkit') != - 1); 
+    var isMac = (ua.indexOf('mac') != - 1);     
+    if (ua.indexOf('konqueror') != - 1) 
+    {  
+        str = 'CTRL + B'; // Konqueror   
+    } 
+    else if (window.home || isWebkit || isMac) 
+    {        
+        str = (isMac ? 'Command/Cmd' : 'CTRL') + ' + D'; // Netscape, Safari, iCab, IE5/Mac   
+    }
+    return ((str) ? '无法自动添加到收藏夹，请使用' + str + '手动添加' : str);
+}
+function setHomepagea202026a()
+{
+    var url = document.location.href;
+    if (document.all)
+    {
+        document.body.style.behavior='url(#default#homepage)';
+        document.body.setHomePage(url);
+    }
+    else if (window.sidebar)
+    {
+        if(window.netscape)
+        {
+             try{
+                  netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+             }catch (e){
+                   alert("该操作被浏览器拒绝，如果想启用该功能，请在地址栏内输入 about:config,然后将项 signed.applets.codebase_principal_support 值该为true");
+             }
+        }
+    var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components. interfaces.nsIPrefBranch);
+    prefs.setCharPref('browser.startup.homepage',url);
+    }
+    else
+    {
+        alert("浏览器不支持自动设为首页，请手动设置");
+    }
+}
+</script>
+
+            <A onclick="javascript:dosuba202026a();" href="#" style="TEXT-DECORATION: none;">
+                加入收藏
+            </A>|
+            <A href="https://mwb.guet.edu.cn/" target="_blank" style="TEXT-DECORATION: none;">
+               后台管理
+            </A>|
+            <A href="https://www.guet.edu.cn/" target="_blank" style="TEXT-DECORATION: none;">
+               学校主页
+            </A><!--#endeditable-->
+            </DIV>
+            <DIV style="clear: both"></DIV>
+            <!--#begineditable contype="" name="头部检索" action="" layout="" clone="0" namechanged="0" order="2" ispublic="0" tagname="头部检索" viewid="202027" contentviewid="" stylesysid=""--><script type="text/javascript">
+    function _nl_ys_check(){
+        
+        var keyword = document.getElementById('showkeycode202027').value;
+        if(keyword==null||keyword==""){
+            alert("请输入你要检索的内容！");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkeyword202027").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkeyword202027").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkeyword202027").value = base64.encode(document.getElementById("lucenenewssearchkeyword202027").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode202027"));
+        return true;
+    } 
+    function submitForm()
+    {
+        document.getElementById("au2a").submit();
+    }
+     function test44()
+                {
+                    var tempStr=document.getElementById('showkeycode202027').value;
+                    if(tempStr=="")
+                    {
+                        document.getElementById('showkeycode202027').value="请输入关键字搜索";
+                    }
+                }
+                
+                 function test33()
+                {
+                    var tempStr=document.getElementById('showkeycode202027').value;
+                    if(tempStr=="请输入关键字搜索")
+                    {
+                        document.getElementById('showkeycode202027').value="";
+                    }
+                }
+</script>
+<div class="Search">
+<form action="ssjgy.jsp?wbtreeid=1001" method="post" id="au2a" name="au2a" onsubmit="return _nl_ys_check()">
+ <input type="hidden" id="lucenenewssearchkeyword202027" name="lucenenewssearchkeyword" value=""><input type="hidden" id="_lucenesearchtype202027" name="_lucenesearchtype" value="1"><input type="hidden" id="searchScope202027" name="searchScope" value="0">
+ <input type="text" value="请输入关键字搜索" name="showkeycode" class="search_text" onclick="test33()" onblur="test44()" id="showkeycode202027" />
+                <div class="fdj fr"><input type="submit" class="button pngFix" value=""></div>
+</form>
+</div><script language="javascript" src="/system/resource/js/base64.js"></script><script language="javascript" src="/system/resource/js/formfunc.js"></script>
+<!--#endeditable-->
+            <!--#begineditable contype="" name="浮动图片" action="" layout="" clone="0" namechanged="0" order="3" ispublic="0" tagname="浮动图片" viewid="202031" contentviewid="" stylesysid=""-->   
+   
+   
+   
+<script language="javascript" src="/system/resource/js/dynclicks.js"></script>   
+</SCRIPT><!--#endeditable-->
+            <script type="text/javascript">
+                function test3() {
+                    var tempStr = document.getElementById('test2').value;
+                    if (tempStr == "请输入关键字搜索") {
+                        document.getElementById('test2').value = "";
+                    }
+                }
+                function test4() {
+                    var tempStr = document.getElementById('test2').value;
+                    if (tempStr == "") {
+                        document.getElementById('test2').value = "请输入关键字搜索";
+                    }
+                }
+            </script>
+        </DIV>
+    </DIV>
+</DIV>
+<!--nav-->
+<DIV class="navWrap  clearfix">
+    <DIV class="nav">
+        <!--#begineditable contype="" name="主导航" action="" layout="" clone="0" namechanged="0" order="4" ispublic="0" tagname="主导航" viewid="202028" contentviewid="" stylesysid=""--><div class="navWrap  clearfix">
+    <div class="nav">
+    <ul>
+            <li>
+            <a class="link" href="index.htm">首页</a>
+        </li>
+        <li class="mainmenu">
+
+            <a class="link" href="sysgk/sysjj.htm">实验室概况</a>
+   
+            <dl class="chang">
+
+                    <dd><a href="sysgk/sysjj.htm">实验室简介</a></dd>
+
+                    <dd><a href="sysgk/xswyh.htm">学术委员会</a></dd>
+
+                    <dd><a href="sysgk/jgsz.htm">机构设置</a></dd>
+
+                    <dd><a href="sysgk/ldbz.htm">领导班子</a></dd>
+
+                    <dd><a href="sysgk/gzzd.htm">规章制度</a></dd>
+
+                    <dd><a href="sysgk/yqsb.htm">仪器设备</a></dd>
+
+                    <dd><a href="sysgk/ldsc.htm">领导视察</a></dd>
+
+                    <dd><a href="sysgk/lxfs.htm">联系方式</a></dd>
+            </dl>
+        </li>
+        <li class="mainmenu">
+
+            <a class="link" href="rcdui/kytd.htm">人才队伍</a>
+   
+            <dl class="chang">
+
+                    <dd><a href="rcdui/kytd.htm">科研团队</a></dd>
+
+                    <dd><a href="rcdui/yxrc.htm">优秀人才</a></dd>
+
+                    <dd><a href="rcdui/jsml.htm">教师名录</a></dd>
+            </dl>
+        </li>
+        <li class="mainmenu">
+
+            <a class="link" href="kxyj/yjfx.htm">科学研究</a>
+   
+            <dl class="chang">
+
+                    <dd><a href="kxyj/yjfx.htm">研究方向</a></dd>
+
+                    <dd><a href="kxyj/kyxm.htm">科研项目</a></dd>
+
+                    <dd><a href="kxyj/yjjz.htm">研究进展</a></dd>
+
+                    <dd><a href="kxyj/lwzz.htm">论文著作</a></dd>
+
+                    <dd><a href="kxyj/fmzl.htm">发明专利</a></dd>
+
+                    <dd><a href="kxyj/yjcg.htm">研究成果</a></dd>
+            </dl>
+        </li>
+        <li class="mainmenu">
+
+            <a class="link" href="hzjl/xsbg.htm">合作交流</a>
+   
+            <dl class="chang">
+
+                    <dd><a href="hzjl/xsbg.htm">学术报告</a></dd>
+
+                    <dd><a href="hzjl/zbhy.htm">主办会议</a></dd>
+
+                    <dd><a href="hzjl/jlh.htm">交流合作</a></dd>
+            </dl>
+        </li>
+        <li class="mainmenu">
+
+            <a class="link" href="rcpy/bsspy.htm">人才培养</a>
+   
+            <dl class="chang">
+
+                    <dd><a href="rcpy/bsspy.htm">博士生培养</a></dd>
+
+                    <dd><a href="rcpy/ssspy.htm">硕士生培养</a></dd>
+
+                    <dd><a href="rcpy/fwxz.htm">访问学者</a></dd>
+            </dl>
+        </li>
+        <li class="mainmenu">
+
+            <a class="link" href="kfkt/sqzn.htm">开放课题</a>
+   
+            <dl class="chang">
+
+                    <dd><a href="kfkt/sqzn.htm">申请指南</a></dd>
+
+                    <dd><a href="kfkt/glbf.htm">管理办法</a></dd>
+
+                    <dd><a href="kfkt/jfxz.htm">经费细则</a></dd>
+
+                    <dd><a href="kfkt/zzqk.htm">资助情况</a></dd>
+            </dl>
+        </li>
+        <li class="mainmenu">
+
+            <a class="link" href="gzdt/xwdt.htm">工作动态</a>
+   
+            <dl class="chang">
+
+                    <dd><a href="gzdt/xwdt.htm">新闻动态</a></dd>
+
+                    <dd><a href="gzdt/tzyg.htm">通知预告</a></dd>
+
+                    <dd><a href="gzdt/rczp.htm">人才招聘</a></dd>
+            </dl>
+        </li>
+        <li class="mainmenu">
+
+            <a class="link" href="xzzq.htm">下载专区</a>
+   
+        </li>
+     
+    </ul>
+</div>
+</div>
+<script type="text/javascript">
+
+    $(".mainmenu dl").hide();
+
+</script><!--#endeditable-->
+    </DIV>
+</DIV>
+<!--banner-->
+<!--#begineditable contype="" name="带左右切换图片变换banner" action="" layout="" clone="0" namechanged="0" order="5" ispublic="0" tagname="带左右切换图片变换banner" viewid="202029" contentviewid="" stylesysid=""-->    <div class="bannerWrap clearfix">
+    <!--banner1-->
+    <div class="banner_one">
+        <div id="slideBox" class="slideBox">
+            <div class="hd">
+                <ul>
+                    <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+        
+        </ul>
+            </div>
+            <div class="bd" height="335">
+                <ul>
+             <li><img src="img/zdsw.png" width="1903" height="335" /></li>
+             <li><img src="images/06.png" width="1903" height="335" /></li>
+             <li><img src="images/banner04.png" width="1903" height="335" /></li>
+             <li><img src="images/banner03.png" width="1903" height="335" /></li>
+             <li><img src="images/banner02.png" width="1903" height="335" /></li>
+                </ul>
+            </div>
+            <a class="prev" href="javascript:void(0)"></a>
+            <a class="next" href="javascript:void(0)"></a>
+
+        </div>
+        <script type="text/javascript">
+        jQuery(".slideBox").slide({mainCell:".bd ul",autoPlay:true});
+        </script>
+    </div>
+</div><!--#endeditable-->
+<!--container-->
+<DIV class="container w1000 clearfix">
+    <DIV class="content contenta">
+        <!--新闻信息-->
+        <!--#begineditable contype="" name="图片专题" action="" layout="" clone="0" namechanged="0" order="6" ispublic="0" tagname="图片专题" viewid="202030" contentviewid="" stylesysid=""--><div class="new_inforBox fl">
+<div class="dynamic" style="width: 100%;"><h2>图片专题</h2></div>
+                <div class="newBox newBoxb">
+                    <div class="new_pic new_picb">
+                        <div id="slideBox" class="slideBox slideBox5">
+                            <div class="hd">
+                                <ul>
+<li>1</li>
+<li>2</li>
+<li>3</li>
+<li>4</li>
+<li>5</li>
+</ul>
+                            </div>
+                            <div class="bd">
+                                <ul style="height:290px;">
+<li><a href="info/1001/1272.htm" target="_blank"><img src="/__local/5/90/64/F34AADF735874D22A3D5560A8FC_20202C1B_ADDA0.png" width="660" height="290" /><p>广西图像图形与智能处理重点实验室召开年度学术委员会</p></a></li>
+<li><a href="info/1001/1239.htm" target="_blank"><img src="/__local/7/59/BA/A23620425B4F7CF53437BBF3C66_7E9229BE_3ABFB.png" width="660" height="290" /><p>罗笑南主持学术会议</p></a></li>
+<li><a href="info/1001/1242.htm" target="_blank"><img src="/__local/B/F0/A5/A2A040DFDE15414DA87722A0877_0AB717AB_C8BC3.png" width="660" height="290" /><p>马利庄教授报告</p></a></li>
+<li><a href="info/1001/1241.htm" target="_blank"><img src="/__local/2/B0/F2/247604B7ECFDEC7B61991893907_55EE8F4D_418B1.jpg" width="660" height="290" /><p>生物医学视频检索</p></a></li>
+<li><a href="info/1001/1240.htm" target="_blank"><img src="/__local/3/BF/AE/127E21FAD45EEBACFFF8E3AA406_257F7F93_49D04.png" width="660" height="290" /><p>三维室内定位算法</p></a></li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>  
+            </div><script>_showDynClickBatch(['dynclicks_u6_1272','dynclicks_u6_1239','dynclicks_u6_1242','dynclicks_u6_1241','dynclicks_u6_1240'],[1272,1239,1242,1241,1240],"wbnews", 1535406622)</script>
+<!--#endeditable-->
+        <!--通知预告-->
+        <DIV class="informBox fr">
+            <DIV class="dynamic" style="width: 316px">
+                <H2>研究进展</H2><SPAN><A href="kxyj/yjjz.htm" onfocus="undefined" onfocus="undefined"><IMG src="temp/more.png" style="margin-top: 15px"></A></SPAN>
+            </DIV>
+            <!--#begineditable contype="" name="研究进展" action="" layout="" clone="0" namechanged="0" order="7" ispublic="0" tagname="研究进展" viewid="201997" contentviewid="" stylesysid=""--><div class="infor_list">
+   <ul class="dynamic_list">
+      <li><a href="info/1088/1188.htm" style="float:left;">罗笑南钟艳如研究的室内空间地图系...</a><span>08-18</span></li>
+   <li><a href="info/1088/1185.htm" style="float:left;">江泽涛团队基于深度学习的低照度图...</a><span>08-18</span></li>
+   <li><a href="info/1088/1193.htm" style="float:left;">张艳菊团队在蛋白质赖氨酸丙二酰化...</a><span>08-18</span></li>
+   <li><a href="info/1088/1192.htm" style="float:left;">文益民一种基于在线迁移学习的重现...</a><span>08-18</span></li>
+   <li><a href="info/1088/1262.htm" style="float:left;">刘振丙教授在基于深度学习的图像复...</a><span>08-18</span></li>
+   <li><a href="info/1088/1187.htm" style="float:left;">罗笑南团队基于渐进表达学习的显著...</a><span>08-18</span></li>
+   <li><a href="info/1088/1184.htm" style="float:left;">黄桂敏团队在智能英语写作与口语自...</a><span>08-18</span></li>
+   <li><a href="info/1088/1186.htm" style="float:left;">罗笑南团队海量医疗信息的智能检索...</a><span>08-18</span></li>
+   <li><a href="info/1088/1189.htm" style="float:left;">强保华团队成功研发了风电新能源大...</a><span>08-18</span></li>
+   <li><a href="info/1088/1261.htm" style="float:left;">刘振丙教授在阿尔茨海默病诊断分类...</a><span>08-18</span></li>
+   </ul>
+</div>
+<script>_showDynClickBatch(['dynclicks_u7_1188','dynclicks_u7_1185','dynclicks_u7_1193','dynclicks_u7_1192','dynclicks_u7_1262','dynclicks_u7_1187','dynclicks_u7_1184','dynclicks_u7_1186','dynclicks_u7_1189','dynclicks_u7_1261'],[1188,1185,1193,1192,1262,1187,1184,1186,1189,1261],"wbnews", 1535406622)</script>
+<!--#endeditable-->
+        </DIV>
+        <!--通知预告结束-->
+    </DIV>
+
+    <DIV class="content contente">
+        <DIV class="informBox informBoxc fl" style="margin-left: 0px">
+            <DIV class="dynamic dynamicb dynamice" style="width: 320px">
+                <H2>新闻动态</H2><SPAN><A href="gzdt/xwdt.htm" onfocus="undefined" onfocus="undefined"><IMG src="img/w_more.png" style="margin-top: 18px"></A></SPAN>
+            </DIV>
+            <DIV class="infor_list infor_lista">
+                <!--#begineditable contype="" name="新闻动态" action="" layout="" clone="0" namechanged="0" order="8" ispublic="0" tagname="新闻动态" viewid="201998" contentviewid="" stylesysid=""-->
+<ul class="dynamic_list dynamic_listb dynamic_liste fr">
+   <li><a href="info/1044/1297.htm" style="float:left;">在桂林召开ICDH 2019会议</a><span>12-13</span></li>
+   <li><a href="info/1044/1296.htm" style="float:left;">在桂林召开的ICACI国际会议</a><span>12-13</span></li>
+   <li><a href="info/1044/1301.htm" style="float:left;">2019年中国计算机学会推荐国际学术...</a><span>01-04</span></li>
+   <li><a href="info/1044/1271.htm" style="float:left;">广西图像图形与智能处理重点实验室...</a><span>10-22</span></li>
+   <li><a href="info/1044/1266.htm" style="float:left;">重点实验室蓝如师老师研究成果在《I...</a><span>09-22</span></li>
+</ul><script>_showDynClickBatch(['dynclicks_u8_1297','dynclicks_u8_1296','dynclicks_u8_1301','dynclicks_u8_1271','dynclicks_u8_1266'],[1297,1296,1301,1271,1266],"wbnews", 1535406622)</script>
+<!--#endeditable-->
+            </DIV>
+        </DIV>
+        <!--新闻动态结束-->
+
+        <DIV class="informBox informBoxc fl">
+            <DIV class="dynamic dynamicb dynamice" style="width: 320px">
+                <H2>学术报告</H2><SPAN><A href="hzjl/xsbg.htm" onfocus="undefined" onfocus="undefined"><IMG src="img/w_more.png" style="margin-top: 18px"></A></SPAN>
+            </DIV>
+            <DIV class="infor_list infor_lista">
+            <!--#begineditable contype="" name="学术报告" action="" layout="" clone="0" namechanged="0" order="9" ispublic="0" tagname="学术报告" viewid="201999" contentviewid="" stylesysid=""-->
+<ul class="dynamic_list dynamic_listb dynamic_liste fr">
+   <li><a href="info/1033/1136.htm" style="float:left;">深圳技术大学黄炳顶教授到重点实...</a><span>08/08</span></li>
+   <li><a href="info/1033/1135.htm" style="float:left;">澳大利亚Monash大学王嘉炜博士来...</a><span>08/08</span></li>
+   <li><a href="info/1033/1134.htm" style="float:left;">北京航空航天大学姜志国教授来重...</a><span>08/08</span></li>
+   <li><a href="info/1033/1133.htm" style="float:left;">中国科学院自动化研究所张晓鹏教...</a><span>08/08</span></li>
+   <li><a href="info/1033/1132.htm" style="float:left;">国家杰青上海交通大学马利庄教授...</a><span>08/08</span></li>
+</ul><script>_showDynClickBatch(['dynclicks_u9_1136','dynclicks_u9_1135','dynclicks_u9_1134','dynclicks_u9_1133','dynclicks_u9_1132'],[1136,1135,1134,1133,1132],"wbnews", 1535406622)</script>
+<!--#endeditable-->
+            </DIV>
+        </DIV>
+        <!--学术报告结束-->
+
+        <!--研究成果-->
+        <DIV class="informBox informBoxc fr">
+            <DIV class="dynamic dynamicb dynamice" style="width: 320px">
+                <H2>研究成果</H2><SPAN><A href="kxyj/yjcg.htm" onfocus="undefined" onfocus="undefined"><IMG src="img/w_more.png" style="margin-top: 18px"></A></SPAN>
+            </DIV>
+            <DIV class="infor_list infor_lista">
+                <!--#begineditable contype="" name="研究成果" action="" layout="" clone="0" namechanged="0" order="12" ispublic="0" tagname="研究成果" viewid="202002" contentviewid="" stylesysid=""--><ul class="dynamic_list dynamic_listb dynamic_liste fr">
+   <li><a href="info/1074/1207.htm" style="float:left;">罗笑南团队研发出区域与室内导航...</a><span>08-19</span></li>
+   <li><a href="info/1074/1206.htm" style="float:left;">温佩芝教授研发出基于图像的文化...</a><span>08-19</span></li>
+   <li><a href="info/1074/1205.htm" style="float:left;">江泽涛团队研发出自标定三维重建...</a><span>08-19</span></li>
+   <li><a href="info/1074/1211.htm" style="float:left;">刘振丙教授研发出基于深度学习的...</a><span>08-22</span></li>
+   <li><a href="info/1074/1208.htm" style="float:left;">黄桂敏团队研发出英语写作实训云...</a><span>08-19</span></li>
+</ul><script>_showDynClickBatch(['dynclicks_u10_1207','dynclicks_u10_1206','dynclicks_u10_1205','dynclicks_u10_1211','dynclicks_u10_1208'],[1207,1206,1205,1211,1208],"wbnews", 1535406622)</script>
+<!--#endeditable-->
+            </DIV>
+        </DIV>
+        <!--研究成果结束-->
+
+    </DIV>
+
+    <DIV class="content contente">
+        <DIV class="informBox informBoxc fl" style="margin-left: 0px">
+
+            <DIV class="dynamic dynamicb dynamice" style="width: 320px">
+                <H2>开放课题</H2><SPAN><A href="kfkt/sqzn.htm" onfocus="undefined" onfocus="undefined"><IMG src="img/w_more.png" style="margin-top: 18px"></A></SPAN>
+            </DIV>
+            <DIV class="infor_list infor_lista">
+                <!--#begineditable contype="" name="开放课题" action="" layout="" clone="0" namechanged="0" order="13" ispublic="0" tagname="开放课题" viewid="202003" contentviewid="" stylesysid=""--><ul class="dynamic_list dynamic_listb dynamic_liste fr">
+   <li><a href="info/1025/1292.htm" style="float:left;">2019年开展项目情况</a><span>12-13</span></li>
+   <li><a href="info/1025/1254.htm" style="float:left;">科研项目</a><span>08-27</span></li>
+   <li><a href="info/1041/1221.htm" style="float:left;">图像图形与智能处理重点实验室2018...</a><span>08-22</span></li>
+   <li><a href="info/1075/1220.htm" style="float:left;">图像图形与智能处理重点实验室开放...</a><span>08-22</span></li>
+   <li><a href="info/1042/1218.htm" style="float:left;">图像图形与智能处理重点实验室课题...</a><span>08-22</span></li>
+</ul><script>_showDynClickBatch(['dynclicks_u11_1292','dynclicks_u11_1254','dynclicks_u11_1221','dynclicks_u11_1220','dynclicks_u11_1218'],[1292,1254,1221,1220,1218],"wbnews", 1535406622)</script>
+<!--#endeditable-->
+            </DIV>
+        </DIV>
+        <!--开放课题结束-->
+
+        <DIV class="informBox informBoxc fl">
+            <DIV class="dynamic dynamicb dynamice" style="width: 320px">
+                <H2>通知预告</H2><SPAN><A href="gzdt/tzyg.htm" onfocus="undefined" onfocus="undefined"><IMG src="img/w_more.png" style="margin-top: 18px"></A></SPAN>
+            </DIV>
+            <DIV class="infor_list infor_lista">
+                <!--#begineditable contype="" name="通知预告" action="" layout="" clone="0" namechanged="0" order="14" ispublic="0" tagname="通知预告" viewid="202004" contentviewid="" stylesysid=""--><ul class="dynamic_list dynamic_listb dynamic_liste fr">
+   <li><a href="info/1045/1264.htm" style="float:left;">丹麦理工学院蒙威志博士来我校...</a><span>09-12</span></li>
+   <li><a href="info/1045/1237.htm" style="float:left;">重点实验室鼓励全体成员与学生...</a><span>08-23</span></li>
+   <li><a href="info/1045/1236.htm" style="float:left;">CCF推荐国内计算机A类期刊</a><span>08-23</span></li>
+   <li><a href="info/1045/1210.htm" style="float:left;">2019年第一届广西大学生智能设...</a><span>08-21</span></li>
+   <li><a href="info/1045/1243.htm" style="float:left;">比利时根特大学潘小勇助理研究...</a><span>08-20</span></li>
+</ul><script>_showDynClickBatch(['dynclicks_u12_1264','dynclicks_u12_1237','dynclicks_u12_1236','dynclicks_u12_1210','dynclicks_u12_1243'],[1264,1237,1236,1210,1243],"wbnews", 1535406622)</script>
+<!--#endeditable-->
+            </DIV>
+        </DIV>
+        <!--下载中心结束-->
+
+        <DIV class="informBox informBoxc fr">
+            <DIV class="dynamic dynamicb dynamice" style="width: 320px">
+                <H2>其他链接</H2><SPAN><A href="index/qtlj.htm" onfocus="undefined" onfocus="undefined"><IMG src="img/w_more.png" style="margin-top: 18px"></A></SPAN>
+            </DIV>
+            <DIV class="infor_list infor_listg"><!--#begineditable name="其他链接" action="webber.wbst.com.image.ColumnImage" layout="/system/_component/columnimage/tplimagelist.jsp" tpltype="1" contype="image" clone="" viewid="202043" contentviewid="" tagname="其他链接"-->    <ul class="zp_pic">
+<li><a href="http://www.jos.org.cn/jos/ch/index.aspx"><img src="images/19/08/23/11utduqxvy/jsf.jpg" /></a></li>
+<li><a href="http://crad.ict.ac.cn/CN/volumn/home.shtml"><img src="images/19/08/23/11utduqxvy/jcrd.jpg" /></a></li>
+<li><a href="http://cjc.ict.ac.cn/"><img src="images/19/08/23/11utduqxvy/cjc.jpg" /></a></li>
+<li><a href="http://www.guet.edu.cn"><img src="images/19/08/22/1n2s7yaa8l/PRCV2019.jpg" /></a></li>
+<li><a href="http://iccv2019.thecvf.com/"><img src="images/19/08/22/1n2s7yaa8l/iccv2019.jpg" /></a></li>
+<li><a href="http://cvpr2019.thecvf.com/"><img src="images/19/08/22/1n2s7yaa8l/cvpr2019.jpg" /></a></li>
+</ul><!--#endeditable--></DIV>
+        </DIV>
+        <!--其他链接结束-->
+
+    </DIV>
+    <!--1111-->
+
+    <DIV class="content contente">
+        <DIV class="xiaonews5 xiaonews4">
+            <DIV class="tit">
+                <H3><A href="index/sysdt.htm" onfocus="undefined" onfocus="undefined"><IMG src="img/more.png"></A><SPAN>实验室动态</SPAN></H3>
+            </DIV>
+            <DIV class="con">
+                <DIV class="picMarquee-left1">
+                    <DIV class="bd2">
+                        <DIV class="tempWrap" style="overflow: hidden; width: 1000px; position: relative">
+                            <!--#begineditable contype="" name="学院风采" action="" layout="" clone="0" namechanged="0" order="15" ispublic="0" tagname="图片列表" viewid="202005" contentviewid="" stylesysid=""-->    <ul class="picList cl" style="width: 3179px; position: relative; overflow: hidden; padding: 0px; margin: 0px; left: -726px;">
+<li class="clone" style="float: left; width: 187px;"><a href=""><img src="images/19/08/18/147n2e6jhb/012.jpg" width="159" height="120">
+                                      <p></p>
+                                  </a></li>
+<li class="clone" style="float: left; width: 187px;"><a href=""><img src="images/19/08/18/147n2e6jhb/011.jpg" width="159" height="120">
+                                      <p></p>
+                                  </a></li>
+<li class="clone" style="float: left; width: 187px;"><a href=""><img src="images/19/08/18/147n2e6jhb/010.jpg" width="159" height="120">
+                                      <p></p>
+                                  </a></li>
+<li class="clone" style="float: left; width: 187px;"><a href=""><img src="images/19/08/18/147n2e6jhb/009.jpg" width="159" height="120">
+                                      <p></p>
+                                  </a></li>
+<li class="clone" style="float: left; width: 187px;"><a href=""><img src="images/19/08/18/147n2e6jhb/008.jpg" width="159" height="120">
+                                      <p></p>
+                                  </a></li>
+<li class="clone" style="float: left; width: 187px;"><a href=""><img src="images/19/08/18/147n2e6jhb/007.JPG" width="159" height="120">
+                                      <p></p>
+                                  </a></li>
+<li class="clone" style="float: left; width: 187px;"><a href=""><img src="images/19/08/18/147n2e6jhb/006.jpg" width="159" height="120">
+                                      <p></p>
+                                  </a></li>
+<li class="clone" style="float: left; width: 187px;"><a href=""><img src="images/19/08/18/147n2e6jhb/005.jpg" width="159" height="120">
+                                      <p></p>
+                                  </a></li>
+<li class="clone" style="float: left; width: 187px;"><a href=""><img src="images/19/08/18/147n2e6jhb/004.jpg" width="159" height="120">
+                                      <p></p>
+                                  </a></li>
+<li class="clone" style="float: left; width: 187px;"><a href=""><img src="images/19/08/18/147n2e6jhb/003.jpg" width="159" height="120">
+                                      <p></p>
+                                  </a></li>
+<li class="clone" style="float: left; width: 187px;"><a href=""><img src="images/19/08/18/147n2e6jhb/002.jpg" width="159" height="120">
+                                      <p></p>
+                                  </a></li>
+<li class="clone" style="float: left; width: 187px;"><a href=""><img src="images/19/08/18/147n2e6jhb/001.jpg" width="159" height="120">
+                                      <p></p>
+                                  </a></li>
+<li class="clone" style="float: left; width: 187px;"><a href=""><img src="images/2CEB3A266010B97FEABE366E434_5FEE288D_456A6.jpg" width="159" height="120">
+                                      <p></p>
+                                  </a></li>
+</ul><!--#endeditable-->
+                        </DIV>
+                    </DIV>
+                </DIV>
+                <script type="text/javascript">
+                    jQuery(".picMarquee-left1").slide({ mainCell: ".bd2 ul", autoPlay: true, effect: "leftMarquee", vis: 4, interTime: 50, trigger: "click" });
+                </script>
+            </DIV>
+        </DIV>
+    </DIV>
+    <!---->
+</DIV>
+<!--foot-->
+<DIV class="footWrap clearfix">
+    <DIV class="footDiv_two">
+        <DIV class="foot_two">
+            <!--#begineditable contype="" name="版权" action="" layout="" clone="0" namechanged="0" order="16" ispublic="0" tagname="版权" viewid="202006" contentviewid="" stylesysid=""--><!-- 版权内容请在本组件"内容配置-版权"处填写 -->
+<p style="text-align: left">2014-2019 © 广西图像图形与智能处理重点实验室<br />通讯地址：广西壮族自治区桂林市七星区金鸡路1号<br />邮编：541004<br /></p><!--#endeditable-->
+            <DIV class="choice" style="width: 230px; margin-top: 20px; float: right; color: rgb(255,255,255); line-height: 28px; padding-right: 0px">
+                <!--#begineditable contype="" name="相关链接" action="" layout="" clone="0" namechanged="0" order="17" ispublic="0" tagname="相关链接" viewid="202007" contentviewid="" stylesysid=""--><script language="javascript" src="/system/resource/js/openlink.js"></script><select onchange="doJump(this)" style="height: 28px;line-height: 28px;font-size: 14px;margin-right:10px;width:230px">
+     <option value="">== 相关链接 ==</option>
+
+   <option value="#">清华大学</option>
+   <option value="#">北京大学</option>
+   <option value="https://www.uestc.edu.cn/">电子科技大学</option>
+   <option value="http://www.zju.edu.cn/">浙江大学</option>
+   <option value="#">复旦大学</option>
+
+</select>
+<!--#endeditable-->
+            </DIV>
+        </DIV>
+    </DIV>
+</DIV>
+<script type="text/javascript">
+    $(function () {
+        $(".select").each(function () {
+            var s = $(this);
+            var z = parseInt(s.css("z-index"));
+            var dt = $(this).children("dt");
+            var dd = $(this).children("dd");
+            var _show = function () { dd.slideDown(200); dt.addClass("cur"); s.css("z-index", z + 1); };   //展开效果
+            var _hide = function () { dd.slideUp(200); dt.removeClass("cur"); s.css("z-index", z); };    //关闭效果
+            dt.click(function () { dd.is(":hidden") ? _show() : _hide(); });
+            dd.find("a").click(function () { dt.html($(this).html()); _hide(); });     //选择效果（如需要传值，可自定义参数，在此处返回对应的“value”值 ）
+            $("body").click(function (i) { !$(i.target).parents(".select").first().is(s) ? _hide() : ""; });
+        })
+    });
+</script>
+<script type="text/javascript">
+    $(function () {
+        //切换对象为其他，这里为包含图片和标题的层
+        $('#change_32 div.changeDiv').soChange({//对象指向层，层内包含图片及标题
+            thumbObj: '#change_32 .ul_change_a2 span',
+            thumbNowClass: 'on'//自定义导航对象当前class为on
+        });
+    });
+</script>
+<script type="text/javascript">
+    function setContentTab(name, curr, n) {
+        for (i = 1; i <= n; i++) {
+            var menu = document.getElementById(name + i);
+
+            var cont = document.getElementById("con_" + name + "_" + i);
+            if (menu != null) {
+                menu.className = i == curr ? "up" : "";
+            }
+            if (i == curr) {
+                cont.style.display = "block";
+            } else {
+
+                if (cont != null) {
+                    cont.style.display = "none";
+                }
+            }
+        }
+    }
+</script>
+<script type="text/javascript">
+    $(".pic ul li").hover(function () {
+        $(this).stop(true).animate({ width: "848px" }, 500).siblings().stop(true).animate({ width: "50px" }, 500);
+    });
+</script>
+</BODY>
+</HTML>

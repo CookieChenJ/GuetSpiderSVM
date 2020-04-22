@@ -1,0 +1,286 @@
+<html><head><title>公告公示-就业网</title><META Name="keywords" Content="就业网" />
+
+
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta content="ie=edge" http-equiv="X-UA-Compatible"><!-- <link rel="stylesheet" type="text/css" href="/public/simpleboot/themes/bluesky/theme.min.css"/> --><link rel="stylesheet" type="text/css" href="css/common.css"><script src="js/jquery.min.js"></script>
+
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="/jy/jyzc.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1105,'/jyzc.jsp',-1,1445875082)</script>
+</head>
+<body ><header>
+<div class="center">
+<div class="top">欢迎访问桂林电子科技大学毕业生就业网！ </div></div>
+<div class="header"><img src="images/nav_bg.png"> 
+<div class="center">
+<h1 class="logo">
+<!-- 网站logo图片地址请在本组件"内容配置-网站logo"处填写 -->
+<a href="" title="就业网"><img src="images/index/registerlogo.png" width="320" height="240"   border="0" alt="就业网" title="就业网" ></a></h1>
+
+
+<div id="search"><script type="text/javascript">
+    function _nl_ys_check(){
+        
+        var keyword = document.getElementById('showkeycode165826').value;
+        if(keyword==null||keyword==""){
+            alert("请输入你要检索的内容！");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkeyword165826").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkeyword165826").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkeyword165826").value = base64.encode(document.getElementById("lucenenewssearchkeyword165826").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode165826"));
+        return true;
+    } 
+</script>
+<form action="search.jsp?wbtreeid=1105" method="post" id="au1a" name="au1a" onsubmit="return _nl_ys_check()" style="display: inline">
+ <input type="hidden" id="lucenenewssearchkeyword165826"  name="lucenenewssearchkeyword" value=""><input type="hidden" id="_lucenesearchtype165826"  name="_lucenesearchtype" value="1"><input type="hidden" id="searchScope165826"  name="searchScope" value="0">
+<input name='showkeycode' id="showkeycode165826" class="search" >
+ <input type="submit" align="absmiddle" class="button" value="搜索" style="cursor: hand">
+
+</form><script language="javascript" src="/system/resource/js/base64.js"></script><script language="javascript" src="/system/resource/js/formfunc.js"></script></div></div><nav class="link">
+
+
+<div class="center">						<ul>
+													<li class=""><a href="index.htm">首页</a></li>
+							<li class=""><a href="zhaopin.jsp?urltype=tree.TreeTempUrl&wbtreeid=1003">招聘信息</a></li>
+							<li class=""><a href="zyjs.htm">专业介绍</a></li>
+							<li class=""><a href="bys.jsp?urltype=tree.TreeTempUrl&wbtreeid=1095">用人单位服务指南</a></li>
+							<li class=""><a href="bys.jsp?urltype=tree.TreeTempUrl&wbtreeid=1006">毕业生资源介绍</a></li>
+							<li class=""><a href="jyzc.jsp?urltype=tree.TreeTempUrl&wbtreeid=1005">就业政策</a></li>
+							<li class=""><a href="jyzd.jsp?urltype=tree.TreeTempUrl&wbtreeid=1004">就业指导</a></li>
+							<li class=""><a href="zlxz.jsp?urltype=tree.TreeTempUrl&wbtreeid=1008">表格下载</a></li>
+							<li class=""><a href="jyzd.jsp?urltype=tree.TreeTempUrl&wbtreeid=1104">新闻中心</a></li>
+							<li class=""><a href="jyzc.jsp?urltype=tree.TreeTempUrl&wbtreeid=1105">公告公示</a></li>
+						</ul>	</div></nav></div></header><link rel="stylesheet" type="text/css" href="css/index.css"><link rel="stylesheet" type="text/css" href="css/common.css"><section>
+
+
+<div class="center"><div class="position">
+	当前位置:
+					<a href="index.htm">首页</a>                -
+			<a href="jyzc.jsp?urltype=tree.TreeTempUrl&wbtreeid=1105">公告公示</a></div><script language="javascript" src="/system/resource/js/dynclicks.js"></script><div class="jiuye">
+    <ul>
+        <li>标题</li>
+        <li>浏览量</li>
+        <li>发布时间</li>
+    </ul>
+    <ol>
+                <li>
+            <a href="info/1015/12161.htm">
+                <span>广西西部计划志愿者招募500人，每年补贴3.5万元</span>
+                <span></span>
+                <span><a></a><span id="dynclicks_u4_12161" name="dynclicks_u4_12161"></span></span>
+                <span>2020-04-15</span>   
+            </a>
+        </li>
+        <li>
+            <a href="info/1015/12145.htm">
+                <span>关于举办桂林电子科技大学2020届毕业生“文科综合类”线上双选…</span>
+                <span></span>
+                <span><a></a><span id="dynclicks_u4_12145" name="dynclicks_u4_12145"></span></span>
+                <span>2020-04-13</span>   
+            </a>
+        </li>
+        <li>
+            <a href="info/1015/12144.htm">
+                <span>桂林电子科技大学2020届毕业生“文科综合类”线上双选会邀请函</span>
+                <span></span>
+                <span><a></a><span id="dynclicks_u4_12144" name="dynclicks_u4_12144"></span></span>
+                <span>2020-04-13</span>   
+            </a>
+        </li>
+        <li>
+            <a href="info/1015/12143.htm">
+                <span>2020年桂林人社进校园暨桂林电子科技大学网络专场招聘会邀请函</span>
+                <span></span>
+                <span><a></a><span id="dynclicks_u4_12143" name="dynclicks_u4_12143"></span></span>
+                <span>2020-04-13</span>   
+            </a>
+        </li>
+        <li>
+            <a href="info/1015/12138.htm">
+                <span>招募季丨重磅！西部计划报名通道已开启！ </span>
+                <span></span>
+                <span><a></a><span id="dynclicks_u4_12138" name="dynclicks_u4_12138"></span></span>
+                <span>2020-04-13</span>   
+            </a>
+        </li>
+        <li>
+            <a href="info/1015/12105.htm">
+                <span>“千校万岗·就业有位来”广西专场（桂林站）</span>
+                <span></span>
+                <span><a></a><span id="dynclicks_u4_12105" name="dynclicks_u4_12105"></span></span>
+                <span>2020-04-07</span>   
+            </a>
+        </li>
+        <li>
+            <a href="info/1015/12179.htm">
+                <span>桂林电子科技大学“文科综合类”双选会参会企业名单</span>
+                <span></span>
+                <span><a></a><span id="dynclicks_u4_12179" name="dynclicks_u4_12179"></span></span>
+                <span>2020-04-19</span>   
+            </a>
+        </li>
+        <li>
+            <a href="info/1015/12159.htm">
+                <span>关于梨树霖等人换发协议书公示</span>
+                <span></span>
+                <span><a></a><span id="dynclicks_u4_12159" name="dynclicks_u4_12159"></span></span>
+                <span>2020-04-15</span>   
+            </a>
+        </li>
+        <li>
+            <a href="info/1015/12073.htm">
+                <span>桂林电子科技大学2020届毕业生春季第二场双选会企业名单</span>
+                <span></span>
+                <span><a></a><span id="dynclicks_u4_12073" name="dynclicks_u4_12073"></span></span>
+                <span>2020-03-30</span>   
+            </a>
+        </li>
+        <li>
+            <a href="info/1015/12054.htm">
+                <span>教育部24365校园招聘服务 就业创业公益直播课程（第二期）课程…</span>
+                <span></span>
+                <span><a></a><span id="dynclicks_u4_12054" name="dynclicks_u4_12054"></span></span>
+                <span>2020-03-27</span>   
+            </a>
+        </li>
+        <li>
+            <a href="info/1015/12053.htm">
+                <span>广西全面启动2020届高校毕业生线上招聘季活动</span>
+                <span></span>
+                <span><a></a><span id="dynclicks_u4_12053" name="dynclicks_u4_12053"></span></span>
+                <span>2020-03-27</span>   
+            </a>
+        </li>
+        <li>
+            <a href="info/1015/12050.htm">
+                <span>盘敏容换发就业协议书公示</span>
+                <span></span>
+                <span><a></a><span id="dynclicks_u4_12050" name="dynclicks_u4_12050"></span></span>
+                <span>2020-03-25</span>   
+            </a>
+        </li>
+        <li>
+            <a href="info/1015/12032.htm">
+                <span>关于举办桂林电子科技大学2020届毕业生春季第二场线上双选会的…</span>
+                <span></span>
+                <span><a></a><span id="dynclicks_u4_12032" name="dynclicks_u4_12032"></span></span>
+                <span>2020-03-23</span>   
+            </a>
+        </li>
+        <li>
+            <a href="info/1015/12033.htm">
+                <span>桂林电子科技大学2020届毕业生春季第二场场线上双选会邀请函</span>
+                <span></span>
+                <span><a></a><span id="dynclicks_u4_12033" name="dynclicks_u4_12033"></span></span>
+                <span>2020-03-23</span>   
+            </a>
+        </li>
+        <li>
+            <a href="info/1015/11974.htm">
+                <span>桂林电子科技大学2020届毕业生春季线上双选会参会企业名单</span>
+                <span></span>
+                <span><a></a><span id="dynclicks_u4_11974" name="dynclicks_u4_11974"></span></span>
+                <span>2020-03-18</span>   
+            </a>
+        </li>
+        <li>
+            <a href="info/1015/11963.htm">
+                <span>关于举办桂林电子科技大学2020届毕业生春季线上双选会的通知</span>
+                <span></span>
+                <span><a></a><span id="dynclicks_u4_11963" name="dynclicks_u4_11963"></span></span>
+                <span>2020-03-16</span>   
+            </a>
+        </li>
+        <li>
+            <a href="info/1015/11943.htm">
+                <span>桂林电子科技大学2020届毕业生春季首场线上双选会邀请函</span>
+                <span></span>
+                <span><a></a><span id="dynclicks_u4_11943" name="dynclicks_u4_11943"></span></span>
+                <span>2020-03-11</span>   
+            </a>
+        </li>
+        <li>
+            <a href="info/1015/11886.htm">
+                <span>教育部启动“24365校园联合招聘服务” 助力高校毕业生网上求职</span>
+                <span></span>
+                <span><a></a><span id="dynclicks_u4_11886" name="dynclicks_u4_11886"></span></span>
+                <span>2020-03-02</span>   
+            </a>
+        </li>
+        <li>
+            <a href="info/1015/11815.htm">
+                <span>桂林电子科技大学关于做好新型冠状病毒疫情防控期间毕业生就业…</span>
+                <span></span>
+                <span><a></a><span id="dynclicks_u4_11815" name="dynclicks_u4_11815"></span></span>
+                <span>2020-02-21</span>   
+            </a>
+        </li>
+        <li>
+            <a href="info/1015/11801.htm">
+                <span>桂林电子科技大学关于疫情防控期间校园招聘活动调整的通知</span>
+                <span></span>
+                <span><a></a><span id="dynclicks_u4_11801" name="dynclicks_u4_11801"></span></span>
+                <span>2020-02-20</span>   
+            </a>
+        </li>
+    </ol>
+    <div class="paging"><INPUT TYPE=hidden NAME=a165696actiontype id=a165696actiontype  VALUE=""><input type=hidden name=a165696o value="desc"><input type=hidden name=a165696k value="wbtop">
+<style type="text/css">
+.headStyle5s72sg38kq, .headStyle5s72sg38kq td, .headStyle5s72sg38kq div {font-size: 12px;font-family:宋体; color: #000000; margin-left: auto; margin-right: auto; line-height:14px;}
+.defaultButtonStyle {font-size: 12px;font-family:宋体; height:20px;color: #000000;BORDER: #AFD5F5 1px solid; margin: 0px;padding: 0px; FILTER:progid:DXImageTransform.Microsoft.Gradient(GradientType=0,StartColorStr=#ffffff, EndColorStr=#BDDBF7);  CURSOR: pointer; line-height:14px;background:-webkit-gradient(linear, 0 0, 0 100%, from(#ffffff), to(#BDDBF7));background: -moz-linear-gradient( top,#ffffff,#BDDBF7);background:-ms-linear-gradient(top,#ffffff 0%,#bddbf7 100%)}
+.defaultinputStyle {font-size: 12px;font-family:宋体; height:20px; border:1px solid #AFD5F5; line-height:14px;}
+.colHeader {font-size: 12px;font-family:宋体; line-height:14px;}
+.headStyle5s72sg38kq a, .pageList .this-page {font-size: 12px;font-family:宋体; display:inline-block; height:14px; padding: 2px 4px; border: solid 1px #AFD5F5; background: #fff; text-decoration: none; MARGIN-RIGHT: 1px;line-height:14px;}
+.headStyle5s72sg38kq a:visited {font-size: 12px;font-family:宋体; color: #000000; text-decoration: none; line-height:14px;}
+.headStyle5s72sg38kq .PrevDisabled {font-size: 12px;font-family:宋体; display:inline-block;height:14px;  margin-right: 3px; padding: 2px 4px; background: #fff;color:#ccc;border: solid 1px #AFD5F5; line-height:14px;}
+.headStyle5s72sg38kq .SelectList {font-size: 12px;font-family:宋体;line-height:14px;}
+.headStyle5s72sg38kq .Prev { font-size: 12px;font-family:宋体; margin-right: 3px; padding: 2px 4px;line-height:14px;}
+.headStyle5s72sg38kq .break {font-size: 12px;font-family:宋体; border: none; text-decoration: none; line-height:14px;}
+.headStyle5s72sg38kq .NextDisabled { font-size: 12px;font-family:宋体;display:inline-block; height:14px; margin-left: 2px; padding: 2px 4px;background: #fff;color:#ccc;border: solid 1px #AFD5F5; line-height:14px; }
+.headStyle5s72sg38kq .Next { font-size: 12px;font-family:宋体; margin-left: 2px; padding: 2px 4px;line-height:14px;}
+.headStyle5s72sg38kq .this-page {font-size: 12px;font-family:宋体;display:inline-block;height:14px;padding: 2px 4px; border: solid 1px #AFD5F5; background: #E1F0FD; font-weight: bold; color:black; MARGIN-RIGHT: 1px;line-height:14px;}
+.headStyle5s72sg38kq a:hover {font-size: 12px;font-family:宋体;color: black; background: #EFF7FE; border-color: #AFD5F5; text-decoration: none;line-height:14px;}
+.headStyle5s72sg38kq a:link {font-size: 12px;font-family:宋体;color: #000000; text-decoration: none;line-height:14px;}
+.headStyle5s72sg38kq a:active { font-size: 12px;font-family:宋体;color: black; text-decoration: none; background: #EFF7FE; line-height:14px;}
+</style><table cellspacing=0 cellpadding=0 border=0><TR><td colspan=0><table cellspacing=0 class=headStyle5s72sg38kq width="100%" cellpadding=1><tr valign=middle><TD nowrap align=left width=1% >共143条&nbsp;<input type=hidden name=a165696fc value="20">&nbsp;1/8&nbsp;</td><td nowrap align=left><div><span class=PrevDisabled>上页</span><span class=this-page>1</span><a href="?a165696t=8&a165696p=2&a165696c=20&urltype=tree.TreeTempUrl&wbtreeid=1105">2</a><a href="?a165696t=8&a165696p=3&a165696c=20&urltype=tree.TreeTempUrl&wbtreeid=1105">3</a><a href="?a165696t=8&a165696p=4&a165696c=20&urltype=tree.TreeTempUrl&wbtreeid=1105">4</a><a href="?a165696t=8&a165696p=5&a165696c=20&urltype=tree.TreeTempUrl&wbtreeid=1105">5</a><a href="?a165696t=8&a165696p=6&a165696c=20&urltype=tree.TreeTempUrl&wbtreeid=1105">6</a><span class=break>..</span><a href="?a165696t=8&a165696p=8&a165696c=20&urltype=tree.TreeTempUrl&wbtreeid=1105">8</a><a href="?a165696t=8&a165696p=2&a165696c=20&urltype=tree.TreeTempUrl&wbtreeid=1105" class="Next">下页</a></div></td><TD nowrap align=right></td></tr></table></td></tr></table></div>
+</div><script>_showDynClickBatch(['dynclicks_u4_12161','dynclicks_u4_12145','dynclicks_u4_12144','dynclicks_u4_12143','dynclicks_u4_12138','dynclicks_u4_12105','dynclicks_u4_12179','dynclicks_u4_12159','dynclicks_u4_12073','dynclicks_u4_12054','dynclicks_u4_12053','dynclicks_u4_12050','dynclicks_u4_12032','dynclicks_u4_12033','dynclicks_u4_11974','dynclicks_u4_11963','dynclicks_u4_11943','dynclicks_u4_11886','dynclicks_u4_11815','dynclicks_u4_11801'],[12161,12145,12144,12143,12138,12105,12179,12159,12073,12054,12053,12050,12032,12033,11974,11963,11943,11886,11815,11801],"wbnews", 1445875082)</script>
+
+
+
+<div class="jiuye-right">
+<div class="tel"><p><span>办公时间：</span></p>
+    <p>上午8:30-12:00  下午14:00-17:30（节假日除外）</p>
+    <p><span>办公电话：</span></p>
+    <p>就业指导服务中心 0773-2319102  <br> 邓老师 0773-2305923 </p>
+    <p>张老师 0773-2316183 <br>路老师 0773-230592 </p>
+    <p><span>邮编：</span>541004</p>
+    <p><span>邮箱：</span>jiuye@guet.edu.cn</p>
+    <p><span>地址：</span>桂林电子科技大学(花江校区)红亮学生活动中心</p></div><!-- <div class="relevant-articles">
+						<div class="title">文章推荐</div>
+						<ul>
+													</ul>
+					</div> --></div></div></section>
+<div class="clear"></div><footer>
+<div class="center">
+<div id="code"><img src="images/index/erwei.png"> </div>
+<div id="center">
+<ul>
+<li>友情链接: <script language="javascript" src="/system/resource/js/openlink.js"></script></li></ul>
+<div class="clear"></div><!-- 版权内容请在本组件"内容配置-版权"处填写 -->
+<p>::Copyright©2013 桂林电子科技大学大学生就业指导服务中心 All Right Reserved</p><p>地址：桂林电子科技大学花江校区大学生活动中心 电话:0773-2319102 传真:0773-2319102 邮编:541004</p><p>疑问及反馈请发E-mail:jiuye@guet.edu.cn</p></div></div></footer>
+
+</body></html>

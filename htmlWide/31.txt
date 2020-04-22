@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en-us">
+    <head>
+        <meta charset="utf-8">
+        <title>桂林电子科技大学北海校区 WebVPN </title>
+        <meta name="keywords" content="桂林电子科技大学北海校区VPN,桂林电子科技大学北海校区WebVPN,桂林电子科技大学北海校区内网访问, 桂林电子科技大学北海校区访问控制系统, 桂林电子科技大学北海校区内网登陆, vpn, 桂林电子科技大学北海校区, WebVPN"/>
+        <meta name="description" content="桂林电子科技大学北海校区WebVPN免客户端免配置，一键访问内网服务器">
+        <meta name="author" content="http://www.webvpn.net.cn">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+				<meta name="renderer" content="webkit">
+				<meta name="force-rendering" content="webkit">
+				<meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <!-- #CSS Links -->
+        <link rel="stylesheet" media="all" href="/assets/application-5e5549930d57ab6aad7249217d16b4a10e4ec30a116d60c56cdd8b80ee85223b.css" data-turbolinks-track="true" />
+        
+        
+
+        <!-- #FAVICONS -->
+        <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+        <link rel="icon" href="/favicon.ico" type="image/x-icon">
+
+				<!--[if lt IE 9]>
+					<link rel="stylesheet" media="screen" href="/assets/ie8-28b179c77370c961e7fedfb2df4fd0fa1b339eb621c210b6149cd9803ce0b434.css" data-turbolinks-track="true" />
+				<![endif]-->
+        
+        <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="8Qa1nSi4P33XcN0q1wyYEeqGPp20FAn3E3STj3gGsB1KlcECSWQrp35+4HarE+gAWOw1S6j9eHXxg72z8lalvw==" />
+        <script src="/assets/application-1e941f55256b1acd9b137ae4080b8b327cb2d901e41e40a96c520d02f34fb051.js" data-turbolinks-track="true"></script>
+    </head>
+
+        <noscript><div class="no-js">请先启用JavaScript</div></noscript>
+    <body class="login">
+        <div id="canvas" class="container">
+  <div class="brand row col-xs-12">
+    <div class="org_title">桂林电子科技大学北海校区 | <small>WebVPN</small></div>
+  </div>
+  <div class="content row">
+    <div class="login-form col-md-4 col-md-offset-7 col-sm-12 col-xs-12">
+      <h3>用户登录</h3>
+      
+      <div class="alert alert-warning alert-dismissible" role="alert" id="login-info" style="display:none;">
+        <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+          <span aria-hidden="true">&times;</span></button>
+        <div class="body"></div>
+      </div>
+
+      <form class="smart-form" id="login-form" role="form" action="/users/sign_in" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="7eSmAB+9fE6jCro10XIbdMrDkBfM31ih/bBc190gnzpWd9KffmFolAoEh2mtbWtleKmbwdA2KSMfR3LrV3CKmA==" />
+        <div class="liner">
+          <div class="form-group"><label class="sr-only control-label" for="user_login">登录名</label><div class="input-group"><span class="input-group-addon"><i class='glyphicon glyphicon-user'></i></span><input title="输入用户名或手机号" autofocus="autofocus" placeholder="用户名" data-toggle="tooltip" data-placement="top" class="form-control" type="text" name="user[login]" id="user_login" /></div></div>
+        </div>
+        <div class="liner ">
+            <div class="form-group"><label class="sr-only control-label required" for="user_password">密码</label><div class="input-group"><span class="input-group-addon"><i class='glyphicon glyphicon-lock'></i></span><input title="输入收到的短信密码或者口令牌随机密码" placeholder="密码" data-toggle="tooltip" data-placement="top" class="form-control" maxlength="72" size="72" type="password" name="user[password]" id="user_password" /></div></div>
+        </div>
+        <input value="unknown" type="hidden" name="user[dymatice_code]" id="user_dymatice_code" />
+        
+        <div class="col-md-6 col-md-offset-6 login-btn">
+          <input type="submit" name="commit" value="登录 Login" class="btn" />
+        </div>
+
+</form>      <div class="col-md-12 col-xs-12 col-lg-12 external_signin_links">
+        
+      </div>
+    </div>
+  </div>
+
+</div>
+<footer class="text-center fixed-bottom">
+  <div class="logo">
+    <img src="/images/logo-1.png">
+  </div>
+  <div class="links">
+      桂林电子科技大学北海校区 2020  &copy; 瑞智康诚 
+  </div>
+</footer>
+
+      
+    </body>
+
+</html>
+

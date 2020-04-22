@@ -1,0 +1,412 @@
+
+
+<html>
+<head>
+<title>广西知识产权培训（桂林电子科技大学）基地</title><META Name="keywords" Content="广西知识产权培训（桂林电子科技大学）基地" />
+
+
+<META charset="utf-8">
+<link rel="stylesheet" href="style/reset.css" type="text/css" />
+<link rel="stylesheet" href="style/main.css" type="text/css" />
+<link rel="stylesheet" href="style/common.css" type="text/css" />
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="index.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1411891606)</script>
+</head>
+<body>
+<!-- 头部开始-->
+
+<div class="c2-header">
+    <div class="c2-top-header">
+                <div class="c2-header-img">
+                    <a href="index.htm" target="_blank">
+                      <img src="images/logo1.png">
+                    </a>
+                </div>
+            </div>
+</div>
+    <!--头部end-->
+    <!--导航开始-->
+  <div class="c2-menu">
+           <UL class="c2-nav"><!--#begineditable name="网站导航" action="webber.wbst.com.nav.MenuAction" layout="/system/_component/sitenav/tplvnav.jsp" tpltype="1" contype="" clone="" viewid="164854" contentviewid="" tagname="网站导航"--><li>
+
+                    <a href="index.htm" class="active">首页</a>
+
+           </li> 
+<li>
+
+                    <a href="jdgk.htm">基地概况</a>
+                        <ul class="c2-sub-nav">
+                            <li><a href="jdgk/jdjj.htm">基地简介</a></li>
+                        </ul>
+           </li> 
+<li>
+
+                    <a href="sztd.htm">师资团队</a>
+                        <ul class="c2-sub-nav">
+                            <li><a href="sztd/szdwgk.htm">师资队伍概况</a></li>
+                            <li><a href="sztd/zzjs.htm">专职教师</a></li>
+                            <li><a href="sztd/jzjs.htm">兼职教师</a></li>
+                        </ul>
+           </li> 
+<li>
+
+                    <a href="kxyj.htm">科学研究</a>
+                        <ul class="c2-sub-nav">
+                            <li><a href="kxyj/kykt.htm">科研课题</a></li>
+                            <li><a href="kxyj/zzlw.htm">专著论文</a></li>
+                            <li><a href="kxyj/kyhj.htm">科研获奖</a></li>
+                        </ul>
+           </li> 
+<li>
+
+                    <a href="pxhd.htm">培训活动</a>
+                        <ul class="c2-sub-nav">
+                            <li><a href="pxhd/pxjh.htm">培训计划</a></li>
+                            <li><a href="pxhd/pxtz.htm">培训通知</a></li>
+                            <li><a href="pxhd/pxdt.htm">培训动态</a></li>
+                        </ul>
+           </li> 
+<li>
+
+                    <a href="xsjl.htm">学术交流</a>
+                        <ul class="c2-sub-nav">
+                            <li><a href="xsjl/xsjz.htm">学术讲座</a></li>
+                            <li><a href="xsjl/xshy.htm">学术会议</a></li>
+                            <li><a href="xsjl/xsyt.htm">学术研讨</a></li>
+                        </ul>
+           </li> 
+<li>
+
+                    <a href="gzzd.htm">规章制度</a>
+                        <ul class="c2-sub-nav">
+                            <li><a href="gzzd/gzzd.htm">规章制度</a></li>
+                        </ul>
+           </li> 
+
+<!--#endeditable--></ul>
+        </div>
+        <!-- 导航end-->
+        <!-- 轮播开始-->
+        <div class="c2-slide">
+            <a href="#" target="_blank"><!--#begineditable name="banner变换" action="webber.wbst.com.image.ColumnImage" layout="/system/_component/columnimage/bannerchangeimage.jsp" tpltype="0" contype="image" clone="" viewid="164145" contentviewid="" tagname="banner变换"--><style type="text/css">
+ul,li{
+    padding:0;
+    margin:0;
+    list-style:none;}
+#flashBoxu_u1_{
+    width:1200px;
+    height:358px;
+    border:0px solid #EEE;
+    position:relative;
+    margin-left: auto;
+    margin-right: auto;}
+#flashBoxu_u1_ img{
+    /*初始不要显示*/
+    display:none;
+    /*用边框来实现空位，因为margin和paading有时会引起些麻烦*/
+    border:0px solid #FFF;}
+#flashBoxu_u1_ ul{
+    position:absolute;
+    right:7px;
+    bottom:3px;
+    font:9px tahoma;}
+#flashBoxu_u1_ ul li{
+    display:block;
+    float:left;
+    width:12px;
+    height:12px;
+    line-height:12px;
+    margin-right:3px;
+    border:0px solid #999;
+    background:#F0F0F0;
+    text-align:center;
+    cursor:pointer;}
+#flashBoxu_u1_ ul li.hover{
+    border-color:red;
+    background:#FFE1E1;
+    color:red;}
+</style>
+<script type="text/javascript">
+function flashBoxCtrl(o){
+    this.obj=document.getElementById(o);
+    //这个私有方法虽然写了，但暂时没用到
+    function addListener(ele,eventName,functionBody){
+        if (ele.attachEvent){
+            ele.attachEvent("on"+eventName, functionBody);
+        }else if (ele.addEventListener){
+            ele.addEventListener("on"+eventName,functionBody, false);
+        }else{
+            return false;
+        }
+    }
+    //初始化
+    this.init=function(){
+        var objImg=this.obj.getElementsByTagName("img");
+        var tagLength=objImg.length;
+        if (tagLength>0){
+            var oUl=document.createElement("ul");
+            oUl.setAttribute("id",o+"numTag");
+            for (var i=0;i<tagLength;i++){
+                var oLi=oUl.appendChild(document.createElement("li"));
+                if (i==0){
+                    oLi.setAttribute("class","hover"); //初始化时把第一个设置为高亮
+                    oLi.setAttribute("className","hover");
+                }
+                //设置标签的数字
+                oLi.appendChild(document.createTextNode((i+1)));
+            }
+            this.obj.appendChild(oUl);
+            objImg[0].style.display="block";
+            //设置标签事件
+            var oTag=this.obj.getElementsByTagName("li");
+            for (var i=0;i<oTag.length;i++){
+                var flag = 0;
+                var temp = 0;
+                var timeout=null;
+                var step = function(){
+                    for (j=0;j<oTag.length;j++){
+                        oTag[j].className="";
+                        objImg[j].style.display="none";
+                    }
+                    this.className="hover";
+                    flag = flag>=oTag.length-1?0:flag+1;
+                    objImg[flag].style.display="block";
+                    oTag[flag].className = "hover";
+                    timeout = setTimeout(step,6000);
+                };
+                oTag[i].onmouseover=function(){
+                    for (j=0;j<oTag.length;j++){
+                        oTag[j].className="";
+                        objImg[j].style.display="none";
+                        temp = j;
+                    }
+                    this.className="hover";
+                    objImg[this.innerHTML-1].style.display="block";
+                    temp = this.innerHTML-1;
+                    flag = i;
+                    clearInterval(timeout);
+                }
+                oTag[i].onmouseout = function(){
+                    for (j=0;j<oTag.length;j++){
+                        oTag[j].className="";
+                        objImg[j].style.display="none";
+                    }
+                    flag = temp;
+                    objImg[temp].style.display="block";
+                    oTag[temp].className = "hover";
+                    timeout = setTimeout(step,6000);
+                }
+                if(i==0)
+                {
+                    timeout = setTimeout(step,6000);
+                }
+            }
+        }
+    };
+    //自动滚动的方法还没写
+    this.imgRoll=function(){};
+    //生成对象时自动加载init()方法以初始化对象
+    this.init();
+}
+</script>
+<table cellspacing="0" cellpadding="0" border="0"><tr><td><div id="flashBoxu_u1_"><img src="images/slide.png" border="0" width="1200" height="358" /></div></td></tr></table><SCRIPT language="JavaScript">new flashBoxCtrl("flashBoxu_u1_");</SCRIPT><!--#endeditable--></a>
+        </div>
+        <!-- 轮播end-->
+<div class="c2-content clear">
+    <div class="c2-section fl" style="width:738px;">
+      <div class="c2-title">
+        新闻动态
+        <a href="xwdt.htm" class="fr" target="_blank">更多＞</a>
+   </div>
+      <div class="c2-con clear">
+        <div class="c2-img-acticle fl"><!--#begineditable name="图片文章列表" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/imagenews.jsp" tpltype="0" contype="news" clone="" viewid="164875" contentviewid="" tagname="图片文章列表"-->
+
+
+<script language="javascript" src="/system/resource/js/vsbpreloadimg.js"></script>
+<SCRIPT language="JavaScript">
+<!--
+ var u_u2_imgs = new VsbPreloadImgArray();
+ //初始化图片
+ function u_u2_init_img()
+ {
+ 
+  u_u2_imgs.addImg("\/__local\/F\/72\/54\/4D65895B19246AD66C6311959F3_F2B74012_C20D5.png", "u_u2_img0", u_u2_onimgload);
+ 
+ }
+ function u_u2_onimgload(img, imgid)
+ {
+  img.showImg(document.getElementById(imgid), 250, 190, false, true);
+ }
+//-->
+</SCRIPT>
+<table class="winstyle164875" border="0">
+    <tr><td valign="top">
+                    <table cellpadding="0" cellspacing="0" align="center" bgcolor="#ffffff" style="border:0px solid black;"><tr><td width="250" height="190" valign="middle" align="center"><a border="0" href="info/1008/1047.htm" target="_blank"><img id="u_u2_img0" border="0" src="/system/resource/images/loading.gif"></a></td></tr></table>
+                                      
+                    <div class="summarystyle164875">
+                        ​5月3日,桂林电子科技大学知识产权学院在桂林市大河中心校举行了知识产权普法宣传进校园活动。学院党支...<a border="0" href="info/1008/1047.htm" target="_blank"><span>[详细]</span></a>
+                    </div>
+                    
+            </td>
+                    </tr>
+</table><SCRIPT language="JavaScript">u_u2_init_img();</SCRIPT><!--#endeditable--></div>
+     <ul class="fr"><!--#begineditable name="新闻动态列表" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/tpltitlelist.jsp" tpltype="1" contype="news" clone="" viewid="164150" contentviewid="" tagname="新闻动态列表"--><script language="javascript" src="/system/resource/js/dynclicks.js"></script><li>
+            <a href="info/1008/1221.htm" target="_blank">
+            <span>·</span>
+                            <span class="date">2019-12-13</span>
+                            法学院/知识产权学院开展专利检索分析调研
+                        </a>
+        </li>
+        
+<li>
+            <a href="info/1008/1223.htm" target="_blank">
+            <span>·</span>
+                            <span class="date">2019-12-12</span>
+                            2019年广西知识产权年会暨第六届广西知...
+                        </a>
+        </li>
+        
+<li>
+            <a href="info/1008/1222.htm" target="_blank">
+            <span>·</span>
+                            <span class="date">2019-12-12</span>
+                            法学院/知识产权学院研究生开展知识产权...
+                        </a>
+        </li>
+        
+<li>
+            <a href="info/1008/1211.htm" target="_blank">
+            <span>·</span>
+                            <span class="date">2019-08-18</span>
+                            知识产权学院教授参加全国知识产权局师...
+                        </a>
+        </li>
+        
+<li>
+            <a href="info/1008/1201.htm" target="_blank">
+            <span>·</span>
+                            <span class="date">2019-04-30</span>
+                            南京禹为知识产权代理事务所王晓东律师...
+                        </a>
+        </li>
+        
+<li>
+            <a href="info/1008/1191.htm" target="_blank">
+            <span>·</span>
+                            <span class="date">2019-04-19</span>
+                            人工智能与知识产权保护实务培训班在桂...
+                        </a>
+        </li>
+        
+<li>
+            <a href="info/1008/1177.htm" target="_blank">
+            <span>·</span>
+                            <span class="date">2019-03-18</span>
+                            2019年全国知识产权宣传周主题确定！
+                        </a>
+        </li>
+        
+<script>_showDynClickBatch(['dynclicks_u3_1221','dynclicks_u3_1223','dynclicks_u3_1222','dynclicks_u3_1211','dynclicks_u3_1201','dynclicks_u3_1191','dynclicks_u3_1177'],[1221,1223,1222,1211,1201,1191,1177],"wbnews", 1411891606)</script>
+<!--#endeditable--></ul>
+      </div>
+    </div>
+  <div class="c2-section fr" style="width: 455px;">
+    <div class="c2-title">
+      通知公告
+      <a href="tzgg.htm" class="fr" target="_blank">更多＞</a>
+      </div>
+    <div class="c2-con">
+      <ul><!--#begineditable name="通知公告列表" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/tpltitlelist.jsp" tpltype="1" contype="news" clone="" viewid="164151" contentviewid="" tagname="通知公告列表"--><li>
+            <a href="info/1009/1224.htm" target="_blank">
+                <span>·</span>
+                <span class="date">2019-12-05</span>
+                关于西南政法大学杨丽艳教授来校讲...
+            </a>
+        </li>
+        
+<li>
+            <a href="info/1009/1183.htm" target="_blank">
+                <span>·</span>
+                <span class="date">2019-03-15</span>
+                关于举办人工智能与知识产权保护实...
+            </a>
+        </li>
+        
+<li>
+            <a href="info/1009/1134.htm" target="_blank">
+                <span>·</span>
+                <span class="date">2018-07-09</span>
+                邀您参加 | 中国知识产权法学研究会...
+            </a>
+        </li>
+        
+<li>
+            <a href="info/1009/1015.htm" target="_blank">
+                <span>·</span>
+                <span class="date">2018-04-02</span>
+                讲座通知：厦门大学林秀芹教授来校讲座
+            </a>
+        </li>
+        
+<li>
+            <a href="info/1009/1019.htm" target="_blank">
+                <span>·</span>
+                <span class="date">2018-03-16</span>
+                2018年全区专利代理人资格考试基础...
+            </a>
+        </li>
+        
+<li>
+            <a href="info/1009/1013.htm" target="_blank">
+                <span>·</span>
+                <span class="date">2017-09-24</span>
+                桂林电子科技大学被评为广西知识产...
+            </a>
+        </li>
+        
+<li>
+            <a href="info/1009/1009.htm" target="_blank">
+                <span>·</span>
+                <span class="date">2017-06-13</span>
+                关于举办2017年全区专利代理人资格...
+            </a>
+        </li>
+        
+<script>_showDynClickBatch(['dynclicks_u4_1224','dynclicks_u4_1183','dynclicks_u4_1134','dynclicks_u4_1015','dynclicks_u4_1019','dynclicks_u4_1013','dynclicks_u4_1009'],[1224,1183,1134,1015,1019,1013,1009],"wbnews", 1411891606)</script>
+<!--#endeditable--></ul>
+    </div>
+  </div>
+</div>
+
+<div class="c2-link clear">
+    <span class="fl">友情链接</span>
+    <div class="c2-link-info fl">
+    <a href="http://www.sipo.gov.cn/" target="_blank">中国知识产权局</a>
+    <a href="http://www.ciptc.org.cn/" target="_blank">中国知识产权培训中心</a>
+    <a href="http://www.gxipo.net/" target="_blank">广西知识产权局</a>
+    <a href="http://gxzscq.gxun.edu.cn/" target="_blank">广西知识产权发展研究中心</a>
+    <a href="http://www.guet.edu.cn/dept9/" target="_blank">桂电知识产权学院</a>
+    <a href="http://kns.cnki.net/kns/brief/result.aspx?dbprefix=SCOD" target="_blank">中国知网专利数据库</a>
+    <a href="http://gliet.ciptc.org.cn/" target="_blank">中国知识产权远程教育-桂电分站</a>
+    <a href="http://mwb.guet.edu.cn/system/login.jsp" target="_blank">登录</a>
+    </div>
+</div>
+<div class="c2-footer">
+    <div class="c2-footer-info">
+    邮箱：jzy518518@126.com
+    <span>|</span>
+    联系电话：0773-2301033
+    <span>|</span>
+    地址：中国广西壮族自治区桂林电子科技大学知识产权学院
+    <span>|</span>
+    版权所有 © 2016 - 2017  广西知识产权（桂林电子科技大学）培训基地
+    </div>
+</div>
+
+</body>
+</html>

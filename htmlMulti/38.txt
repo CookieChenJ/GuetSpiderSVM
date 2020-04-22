@@ -1,0 +1,1449 @@
+<!DOCTYPE html><HTML><HEAD><TITLE>桂林电子科技大学校友网</TITLE><META Name="keywords" Content="校友会,校友办公室&amp;教育发展资金会" />
+
+
+
+
+
+<META content="text/html; charset=UTF-8" http-equiv="Content-type">
+<META content="IE=edge" http-equiv="X-UA-Compatible">
+<META name="renderer" content="webkit">
+<META name="viewport" content="width=1200"><LINK rel="stylesheet" type="text/css" href="css/css.css">
+
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="index.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/vsbscreen.min.js" id="_vsbscreen" devices="pc|pad"></script>
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1411857535)</script>
+</HEAD>
+<BODY>
+<DIV class="header">
+<DIV class="w_1200">
+<DIV class="logo"><!--#begineditable clone="0" namechanged="0" order="0" ispublic="0" tagname="LOGO" viewid="200622" contentviewid="" contype="" stylesysid="" layout="" action="" name="LOGO"-->
+<!-- 网站logo图片地址请在本组件"内容配置-网站logo"处填写 -->
+<a href="" title="校友办公室"><img src="images/icon/logo.png" width="400" height="50" border="0" alt="校友办公室" title="校友办公室"></a><!--#endeditable--></DIV>
+<DIV class="headnav clearfix2">
+<UL class="nav r_cell"><!--#begineditable clone="0" namechanged="0" order="1" ispublic="0" tagname="网站导航" viewid="200788" contentviewid="" contype="" stylesysid="" layout="" action="" name="网站导航"--><div class="headnav clearfix2">
+           <h3><ul class="nav r_cell">
+                                <li class="on">
+                    <a href="index.htm" title="首  页">首  页</a>
+                </li>
+                <em>+</em>
+                <li>
+                    <a href="index.htm" title="关于我们">关于我们</a>
+                    <dl>
+                        <dd><a href="gywm/xxqk1.htm" title="学校情况">学校情况</a></dd>
+                        <dd><a href="gywm/zhjj.htm" title="总会简介">总会简介</a></dd>
+                        <dd><a href="gywm/zzjg.htm" title="组织机构">组织机构</a></dd>
+                        <dd><a href="gywm/dffh.htm" title="地方分会">地方分会</a></dd>
+                        <dd><a href="gywm/xyxie_h.htm" title="行业协会">行业协会</a></dd>
+                        <dd><a href="gywm/gzzd.htm" title="规章制度">规章制度</a></dd>
+                        <dd><a href="gywm/xyzhi_jia.htm" title="校友之家">校友之家</a></dd>
+                        <dd><a href="gywm/lxwm.htm" title="联系我们">联系我们</a></dd>
+                    </dl>
+                </li>
+                <em>+</em>
+                <li>
+                    <a href="index.htm" title="新闻公告">新闻公告</a>
+                    <dl>
+                        <dd><a href="xwgg/xwdt.htm" title="新闻动态">新闻动态</a></dd>
+                        <dd><a href="xwgg/zhgg.htm" title="总会公告">总会公告</a></dd>
+                        <dd><a href="xwgg/hdyg.htm" title="活动预告">活动预告</a></dd>
+                    </dl>
+                </li>
+                <em>+</em>
+                <li>
+                    <a href="index.htm" title="校友活动">校友活动</a>
+                    <dl>
+                        <dd><a href="xyhd/znfx.htm" title="秩年返校">秩年返校</a></dd>
+                        <dd><a href="xyhd/xqhdy.htm" title="校庆活动月">校庆活动月</a></dd>
+                        <dd><a href="xyhd/xyhd.htm" title="校友活动">校友活动</a></dd>
+                    </dl>
+                </li>
+                <em>+</em>
+                <li>
+                    <a href="index.htm" title="聚焦桂电人">聚焦桂电人</a>
+                    <dl>
+                        <dd><a href="jjgdr/gdr.htm" title="桂电人">桂电人</a></dd>
+                        <dd><a href="jjgdr/xyqy.htm" title="校友企业">校友企业</a></dd>
+                        <dd><a href="jjgdr/gdgu_sh.htm" title="桂电故事">桂电故事</a></dd>
+                    </dl>
+                </li>
+                <em>+</em>
+                <li>
+                    <a href="index.htm" title="校友服务">校友服务</a>
+                    <dl>
+                        <dd><a href="xyfw/fxzn.htm" title="返校指南">返校指南</a></dd>
+                        <dd><a href="xyfw/xyzp.htm" title="校友招聘">校友招聘</a></dd>
+                        <dd><a href="xyfw/xyksq.htm" title="校友卡申请">校友卡申请</a></dd>
+                        <dd><a href="xyfw/xytx.htm" title="校友通讯">校友通讯</a></dd>
+                    </dl>
+                </li>
+                <em>+</em>
+                <li>
+                    <a href="index.htm" title="校基金会">校基金会</a>
+                    <dl>
+                        <dd><a href="xjjh/jjhgk.htm" title="基金会概况">基金会概况</a></dd>
+                        <dd><a href="xjjh/lshgc.htm" title="理事会构成">理事会构成</a></dd>
+                        <dd><a href="xjjh/xxgk1.htm" title="信息公开">信息公开</a></dd>
+                        <dd><a href="xjjh/jzzn.htm" title="捐赠指南">捐赠指南</a></dd>
+                        <dd><a href="xjjh/jzxm.htm" title="捐赠项目">捐赠项目</a></dd>
+                        <dd><a href="xjjh/jzmx.htm" title="捐赠鸣谢">捐赠鸣谢</a></dd>
+                        <dd><a href="xjjh/bzlc.htm" title="报账流程">报账流程</a></dd>
+                        <dd><a href="xjjh/lxwm.htm" title="联系我们">联系我们</a></dd>
+                    </dl>
+                </li>
+                <em>+</em>
+                <li>
+                    <a href="index.htm" title="下载专区">下载专区</a>
+                    <dl>
+                        <dd><a href="xzzq/xzzq.htm" title="下载专区">下载专区</a></dd>
+                    </dl>
+                </li>
+                <em>+</em>
+            </ul></h3>
+ </div>
+<!--#endeditable--></UL></DIV></DIV></DIV><!--end header-->
+<DIV class="middle">
+<DIV class="w_1200">
+<DIV id="swbn" class="swbn">
+<UL class="bd">
+<LI><!--#begineditable clone="0" namechanged="0" order="2" ispublic="0" tagname="首页顶部banner手机" viewid="164065" contentviewid="" contype="" stylesysid="" layout="" action="" name="首页顶部banner"--><style type="text/css">
+ul,li{
+    padding:0;
+    margin:0;
+    list-style:none;}
+#flashBoxu_u2_{
+    width:1200px;
+    height:450px;
+    border:0px solid #EEE;
+    position:relative;
+    margin-left: auto;
+    margin-right: auto;}
+#flashBoxu_u2_ img{
+    /*初始不要显示*/
+    display:none;
+    /*用边框来实现空位，因为margin和paading有时会引起些麻烦*/
+    border:0px solid #FFF;}
+#flashBoxu_u2_ ul{
+    position:absolute;
+    right:7px;
+    bottom:3px;
+    font:9px tahoma;}
+#flashBoxu_u2_ ul li{
+    display:block;
+    float:left;
+    width:12px;
+    height:12px;
+    line-height:12px;
+    margin-right:3px;
+    border:0px solid #999;
+    background:#F0F0F0;
+    text-align:center;
+    cursor:pointer;}
+#flashBoxu_u2_ ul li.hover{
+    border-color:red;
+    background:#FFE1E1;
+    color:red;}
+</style>
+<script type="text/javascript">
+function flashBoxCtrl(o){
+    this.obj=document.getElementById(o);
+    //这个私有方法虽然写了，但暂时没用到
+    function addListener(ele,eventName,functionBody){
+        if (ele.attachEvent){
+            ele.attachEvent("on"+eventName, functionBody);
+        }else if (ele.addEventListener){
+            ele.addEventListener("on"+eventName,functionBody, false);
+        }else{
+            return false;
+        }
+    }
+    //初始化
+    this.init=function(){
+        var objImg=this.obj.getElementsByTagName("img");
+        var tagLength=objImg.length;
+        if (tagLength>0){
+            var oUl=document.createElement("ul");
+            oUl.setAttribute("id",o+"numTag");
+            for (var i=0;i<tagLength;i++){
+                var oLi=oUl.appendChild(document.createElement("li"));
+                if (i==0){
+                    oLi.setAttribute("class","hover"); //初始化时把第一个设置为高亮
+                    oLi.setAttribute("className","hover");
+                }
+                //设置标签的数字
+                oLi.appendChild(document.createTextNode((i+1)));
+            }
+            this.obj.appendChild(oUl);
+            objImg[0].style.display="block";
+            //设置标签事件
+            var oTag=this.obj.getElementsByTagName("li");
+            for (var i=0;i<oTag.length;i++){
+                var flag = 0;
+                var temp = 0;
+                var timeout=null;
+                var step = function(){
+                    for (j=0;j<oTag.length;j++){
+                        oTag[j].className="";
+                        objImg[j].style.display="none";
+                    }
+                    this.className="hover";
+                    flag = flag>=oTag.length-1?0:flag+1;
+                    objImg[flag].style.display="block";
+                    oTag[flag].className = "hover";
+                    timeout = setTimeout(step,50000);
+                };
+                oTag[i].onmouseover=function(){
+                    for (j=0;j<oTag.length;j++){
+                        oTag[j].className="";
+                        objImg[j].style.display="none";
+                        temp = j;
+                    }
+                    this.className="hover";
+                    objImg[this.innerHTML-1].style.display="block";
+                    temp = this.innerHTML-1;
+                    flag = i;
+                    clearInterval(timeout);
+                }
+                oTag[i].onmouseout = function(){
+                    for (j=0;j<oTag.length;j++){
+                        oTag[j].className="";
+                        objImg[j].style.display="none";
+                    }
+                    flag = temp;
+                    objImg[temp].style.display="block";
+                    oTag[temp].className = "hover";
+                    timeout = setTimeout(step,50000);
+                }
+                if(i==0)
+                {
+                    timeout = setTimeout(step,50000);
+                }
+            }
+        }
+    };
+    //自动滚动的方法还没写
+    this.imgRoll=function(){};
+    //生成对象时自动加载init()方法以初始化对象
+    this.init();
+}
+</script>
+<table cellspacing="0" cellpadding="0" border="0"><tr><td><div id="flashBoxu_u2_"><img src="images/60.jpg" border="0" width="1200" height="450" /><img src="images/86.jpg" border="0" width="1200" height="450" /><img src="images/30.jpg" border="0" width="1200" height="450" /><img src="images/40.jpg" border="0" width="1200" height="450" /><img src="images/50.jpg" border="0" width="1200" height="450" /></div></td></tr></table><SCRIPT language="JavaScript">new flashBoxCtrl("flashBoxu_u2_");</SCRIPT><!--#endeditable--></LI></UL></DIV>
+<DIV class="clearfix2 newsbox">
+<DIV class="w_430 fl">
+<DIV class="boxmt clearfix2"><A class="fr" href="##"></A>
+<DIV class="r_cell">新闻动态</DIV></DIV>
+<DIV id="ibn" class="ibn" style="height: 303px; width: 420px"><!--#begineditable clone="0" namechanged="0" order="3" ispublic="0" tagname="新闻图片文章" viewid="201355" contentviewid="" contype="" stylesysid="" layout="" action="" name="新闻图片文章"-->
+<LINK href="/system/resource/style/component/news/list/imagechangenews.css" type="text/css" rel="stylesheet">
+<script language="javascript" src="/system/resource/js/news/imagechangenews.js"></script><script language="JavaScript">
+var u_u3_icn = new ImageChangeNews("u_u3_", 400, 265, 4, 2.0, true, false, false, true);
+
+//初始化图片, 并启动定时
+function u_u3_init_img()
+{
+
+    u_u3_icn.addimg("\/__local\/D\/13\/90\/970FD6A333E00F1CBD39F0094D0_14C77853_1148E.jpg", "info\/1163\/1976.htm", "【疫情防控】校友韦英贤向...", "");
+
+    u_u3_icn.addimg("\/__local\/B\/8F\/AA\/4151F4645879AB59FE63EE062E8_E3B9B005_7551.jpg", "info\/1163\/1974.htm", "【疫情防控】我校向柬埔寨...", "");
+
+    u_u3_icn.addimg("\/__local\/E\/1E\/A7\/2488EADC342638E606C4A26C6C4_33582174_C476.jpg", "info\/1163\/1973.htm", "【疫情防控】校友孙县胜和...", "");
+
+    u_u3_icn.addimg("\/__local\/6\/15\/9A\/8424E76E3878A765164C0F51697_810C463F_B159.jpg", "info\/1163\/1972.htm", "【疫情防控】建设银行桂林...", "");
+
+    u_u3_icn.addimg("\/__local\/A\/AD\/BE\/AAFBED22EDABC7389C4D8FD3F15_FDC5B46B_BFE1.jpg", "info\/1163\/1936.htm", "【疫情防控】广西谊泰文体...", "");
+
+    u_u3_icn.changeimg(0);
+}
+</script><table cellspacing="0" cellpadding="0" border="0" style="padding:0px margin:0px; border:0px">
+    <tr><td>
+        <div style="OVERFLOW: hidden;height:265px;width:400px">
+            <div id="u_u3_div" align="center" style="padding:0px;margin:0px;border:0px solid black;background-color:#000000;FILTER: progid:DXImageTransform.Microsoft.RevealTrans (duration=2.0,transition=23);height:265px;width:400px">
+                <div id="u_u3_imgdiv" style="padding:0px;border:0px;"><a id="u_u3_url" target="_blank"><img id="u_u3_pic" border="0" width="400" height="265" src="/system/resource/images/space.gif"></a></div>
+            </div>
+            <div style="filter:alpha(style=1,opacity=10,finishOpacity=80);width:400px;height:19px;text-align:right;top:-19px;position:relative;padding:0px;margin:0px;border:0px;">
+<a href="javascript:u_u3_icn.changeimg(0)" ; id="u_u3_selectNode0" class="imagechangenews_pnode" target="_self">1</a><a href="javascript:u_u3_icn.changeimg(1)" ; id="u_u3_selectNode1" class="imagechangenews_pnode" target="_self">2</a><a href="javascript:u_u3_icn.changeimg(2)" ; id="u_u3_selectNode2" class="imagechangenews_pnode" target="_self">3</a><a href="javascript:u_u3_icn.changeimg(3)" ; id="u_u3_selectNode3" class="imagechangenews_pnode" target="_self">4</a><a href="javascript:u_u3_icn.changeimg(4)" ; id="u_u3_selectNode4" class="imagechangenews_pnode" target="_self">5</a>
+            </div></div></td></tr>
+       
+    <tr><td height="20">
+        <div align="center" style="overflow:hidden;text-overflow:ellipsis;height:20px;width:400px;"><a target="_blank" class="titlestyle201355" id="u_u3_newstitle"></a></div>
+    </td></tr>
+<div align="left" display="none" style="overflow:hidden;text-overflow:ellipsis;height:0px;width:400px;padding-left:2px;padding-right:2px"><a target="_blank" class="summarystyle201355" id="u_u3_newssummary"></a></div>   
+</table><SCRIPT language="JavaScript">u_u3_init_img();</SCRIPT><!--#endeditable--></DIV>
+<DIV class="boxmt clearfix2"><A class="fr" href="xwgg/zhgg.htm"><I class="rgt"></I></A>
+<DIV class="r_cell"><SPAN class="icon_a icon_1">总会公告</SPAN></DIV></DIV>
+<UL class="newslist"><!--#begineditable clone="0" namechanged="0" order="4" ispublic="0" tagname="总会公告标题列表" viewid="200859" contentviewid="" contype="" stylesysid="" layout="" action="" name="总会公告标题列表"--><script language="javascript" src="/system/resource/js/dynclicks.js"></script>   <li class="newsitem"><a href="info/1164/1908.htm" target="_blank" title="校友总会通知|校友卡申请流程">校友总会通知|校友卡申请流程</a></li>
+   <li class="newsitem"><a href="info/1164/1906.htm" target="_blank" title="我校基金会获得2018年度公益性社会团体捐赠税前扣除资格">我校基金会获得2018年度公益性社会团体捐赠税前扣 ...</a></li>
+   <li class="newsitem"><a href="info/1164/1905.htm" target="_blank" title="59华诞表白母校活动通知">59华诞表白母校活动通知</a></li>
+   <li class="newsitem"><a href="info/1164/1903.htm" target="_blank" title="关于开展“相约桂电 励志起航”优秀学子母校回访暑期社会实践专项活动的通知">关于开展“相约桂电 励志起航”优秀学子母校回访暑...</a></li>
+   <li class="newsitem"><a href="info/1164/1900.htm" target="_blank" title="桂林电子科技大学2020年度公开招聘专职辅导员公告">桂林电子科技大学2020年度公开招聘专职辅导员公告</a></li>
+   <li class="newsitem"><a href="info/1164/1897.htm" target="_blank" title="桂林电子科技大学2019年专任教师及实验教师（硕士研究生）招聘公告">桂林电子科技大学2019年专任教师及实验教师（硕士 ...</a></li>
+<script>_showDynClickBatch(['dynclicks_u4_1908','dynclicks_u4_1906','dynclicks_u4_1905','dynclicks_u4_1903','dynclicks_u4_1900','dynclicks_u4_1897'],[1908,1906,1905,1903,1900,1897],"wbnews", 1411857535)</script>
+<!--#endeditable--></UL></DIV>
+<DIV class="w_430 fl">
+<DIV>
+<DIV class="boxmt clearfix2"><A class="fr" href="xwgg/xwdt.htm"><I class="rgt"></I></A>
+<DIV class="r_cell"><SPAN class="icon_a icon_2"></SPAN></DIV></DIV>
+<UL class="newslist"><!--#begineditable clone="0" namechanged="0" order="5" ispublic="0" tagname="新闻动态标题列表" viewid="200934" contentviewid="" contype="" stylesysid="" layout="" action="" name="新闻动态标题列表"-->   <li class="newsitem"><a href="info/1163/1998.htm" target="_blank" title="【疫情防控】广西利达餐饮管理有限公司向学校捐赠一批防疫物资（图）">【疫情防控】广西利达餐饮管理有限公司向学校捐赠 ...</a></li>
+   <li class="newsitem"><a href="info/1163/1997.htm" target="_blank" title="【疫情防控】校友孙县胜和杨浩向北海校区捐赠10000个一次性防护口罩(图)">【疫情防控】校友孙县胜和杨浩向北海校区捐赠10000...</a></li>
+   <li class="newsitem"><a href="info/1163/1996.htm" target="_blank" title="【疫情防控】广西瀚特信息产业股份有限公司向我校捐赠20000个一次性医用口罩">【疫情防控】广西瀚特信息产业股份有限公司向我校 ...</a></li>
+   <li class="newsitem"><a href="info/1163/1995.htm" target="_blank" title="【疫情防控】海螺水泥公司为我校孔子学院捐赠疫情防控物资">【疫情防控】海螺水泥公司为我校孔子学院捐赠疫情 ...</a></li>
+   <li class="newsitem"><a href="info/1163/1976.htm" target="_blank" title="【疫情防控】校友韦英贤向我校捐赠1000公斤84消毒液">【疫情防控】校友韦英贤向我校捐赠1000公斤84消毒 ...</a></li>
+   <li class="newsitem"><a href="info/1163/1975.htm" target="_blank" title="【疫情防控】中国银行桂林分行向我校捐赠一批防疫物资">【疫情防控】中国银行桂林分行向我校捐赠一批防疫物资</a></li>
+<script>_showDynClickBatch(['dynclicks_u5_1998','dynclicks_u5_1997','dynclicks_u5_1996','dynclicks_u5_1995','dynclicks_u5_1976','dynclicks_u5_1975'],[1998,1997,1996,1995,1976,1975],"wbnews", 1411857535)</script>
+<!--#endeditable--></UL></DIV>
+<DIV>
+<DIV class="boxmt clearfix2"><A class="fr" href="xwgg/hdyg.htm"><I class="rgt"></I></A>
+<DIV class="r_cell"><SPAN class="icon_a icon_3">活动预告</SPAN></DIV></DIV>
+<UL class="newslist"><!--#begineditable clone="0" namechanged="0" order="6" ispublic="0" tagname="活动预告标题列表" viewid="200935" contentviewid="" contype="" stylesysid="" layout="" action="" name="活动预告标题列表"-->   <li class="newsitem"><a href="info/1202/1887.htm" target="_blank" title="活动预告| 桂林电子科技大学2019年“校园开放日”">活动预告| 桂林电子科技大学2019年“校园开放日”</a></li>
+   <li class="newsitem"><a href="info/1202/1886.htm" target="_blank" title="活动预告 | 第二届桂电校友足球联谊赛来了！">活动预告 | 第二届桂电校友足球联谊赛来了！</a></li>
+   <li class="newsitem"><a href="info/1202/1885.htm" target="_blank" title="活动预告 | 桂电第二届“校友杯&quot;篮球联谊赛通知">活动预告 | 桂电第二届“校友杯"篮球联谊赛通知</a></li>
+   <li class="newsitem"><a href="info/1202/1884.htm" target="_blank" title="活动预告|首届广西大学科技创业遴选项目大赛的预通知">活动预告|首届广西大学科技创业遴选项目大赛的预通知</a></li>
+   <li class="newsitem"><a href="info/1202/1883.htm" target="_blank" title="活动预告 | 第19届中国MBA发展论坛">活动预告 | 第19届中国MBA发展论坛</a></li>
+   <li class="newsitem"><a href="info/1202/1879.htm" target="_blank" title="活动预告|大咖导师齐聚桂林，北创营广西特训营一期邀您相约">活动预告|大咖导师齐聚桂林，北创营广西特训营一期...</a></li>
+<script>_showDynClickBatch(['dynclicks_u6_1887','dynclicks_u6_1886','dynclicks_u6_1885','dynclicks_u6_1884','dynclicks_u6_1883','dynclicks_u6_1879'],[1887,1886,1885,1884,1883,1879],"wbnews", 1411857535)</script>
+<!--#endeditable--></UL></DIV></DIV>
+<DIV class="w_240 fr">
+<DIV class="endowbox">
+<DIV class="endowtitle">
+<DIV><A href="xjjh/jzzn.htm" target="">
+<LI><FONT color="#ffffff">我要捐款 </FONT>
+<P><FONT color="#ffffff">GIVE</FONT></P><I class="right"><FONT color="#ffffff"></FONT></I></A></LI></DIV></DIV>
+<UL class="endowlist">
+<LI class="endowitem"><A href="xjjh/jjhgk.htm" target="">基金会概况</A> 
+<LI class="endowitem"><A href="xjjh/jzxm.htm" target="">捐赠项目</A> 
+<LI class="endowitem"><A href="xjjh/jzmx.htm" target="">捐赠鸣谢</A> </LI></UL></DIV>
+<DIV id="profocus" class="profocus"><!--#begineditable clone="0" namechanged="0" order="7" ispublic="0" tagname="捐献鸣谢列表" viewid="203001" contentviewid="" contype="" stylesysid="" layout="" action="" name="捐献鸣谢列表"-->
+<DIV id="scrollupjsu7js" class="winstyle203001" style="OVERFLOW: hidden; WIDTH: 240px; HEIGHT: 430px">
+    <DIV id="scrollup1jsu7js"><BR>
+        <table class="winstyle203001">
+        
+            <tr>
+                <td><span class="leaderfont203001">·</span></td>
+                <td style="font-size:9pt">
+                    
+                    <a href="info/1182/1805.htm" title="捐赠鸣谢：" target="_blank">
+                    <span class="titlestyle203001">捐赠鸣谢：</span></a>
+                    
+                    <span class="timestyle203001"></span>
+                    <span></span>
+                </td>
+                <td width="1" style="padding:0px;border:0px;visibility:hidden"><span class="titlestyle203001" style="width:1px"></span></td>
+                </tr>
+        
+            <tr>
+                <td><span class="leaderfont203001">·</span></td>
+                <td style="font-size:9pt">
+                    
+                    <a href="info/1182/1981.htm" title="校友韦英贤捐赠1000公斤84消毒液" target="_blank">
+                    <span class="titlestyle203001">校友韦英贤捐赠1000公斤84消毒液</span></a>
+                    
+                    <span class="timestyle203001"></span>
+                    <span></span>
+                </td>
+                <td width="1" style="padding:0px;border:0px;visibility:hidden"><span class="titlestyle203001" style="width:1px"></span></td>
+                </tr>
+        
+            <tr>
+                <td><span class="leaderfont203001">·</span></td>
+                <td style="font-size:9pt">
+                    
+                    <a href="info/1182/1980.htm" title="中国银行桂林分行捐赠防疫物资" target="_blank">
+                    <span class="titlestyle203001">中国银行桂林分行捐赠防疫物资</span></a>
+                    
+                    <span class="timestyle203001"></span>
+                    <span></span>
+                </td>
+                <td width="1" style="padding:0px;border:0px;visibility:hidden"><span class="titlestyle203001" style="width:1px"></span></td>
+                </tr>
+        
+            <tr>
+                <td><span class="leaderfont203001">·</span></td>
+                <td style="font-size:9pt">
+                    
+                    <a href="info/1182/1979.htm" title="校友孙县胜和杨浩捐赠20000个一次性防护口罩" target="_blank">
+                    <span class="titlestyle203001">校友孙县胜和杨浩捐赠20000个一次性防护口罩</span></a>
+                    
+                    <span class="timestyle203001"></span>
+                    <span></span>
+                </td>
+                <td width="1" style="padding:0px;border:0px;visibility:hidden"><span class="titlestyle203001" style="width:1px"></span></td>
+                </tr>
+        
+            <tr>
+                <td><span class="leaderfont203001">·</span></td>
+                <td style="font-size:9pt">
+                    
+                    <a href="info/1182/1978.htm" title="建设银行桂林分行向学校捐赠2000个口罩" target="_blank">
+                    <span class="titlestyle203001">建设银行桂林分行向学校捐赠2000个口罩</span></a>
+                    
+                    <span class="timestyle203001"></span>
+                    <span></span>
+                </td>
+                <td width="1" style="padding:0px;border:0px;visibility:hidden"><span class="titlestyle203001" style="width:1px"></span></td>
+                </tr>
+        
+            <tr>
+                <td><span class="leaderfont203001">·</span></td>
+                <td style="font-size:9pt">
+                    
+                    <a href="info/1182/1977.htm" title="校友李在雷和郑锦汉向我校捐赠15000个一次性防护口罩" target="_blank">
+                    <span class="titlestyle203001">校友李在雷和郑锦汉向我校捐赠15000个一次性防护口罩</span></a>
+                    
+                    <span class="timestyle203001"></span>
+                    <span></span>
+                </td>
+                <td width="1" style="padding:0px;border:0px;visibility:hidden"><span class="titlestyle203001" style="width:1px"></span></td>
+                </tr>
+        
+            <tr>
+                <td><span class="leaderfont203001">·</span></td>
+                <td style="font-size:9pt">
+                    
+                    <a href="info/1182/1962.htm" title="圣邦微电子（北京）股份有限公司捐赠30支红外线非接触式测温仪，6箱浓缩84消毒片" target="_blank">
+                    <span class="titlestyle203001">圣邦微电子（北京）股份有限公司捐赠30支红外线非接触式测温仪，6箱浓缩84消毒片</span></a>
+                    
+                    <span class="timestyle203001"></span>
+                    <span></span>
+                </td>
+                <td width="1" style="padding:0px;border:0px;visibility:hidden"><span class="titlestyle203001" style="width:1px"></span></td>
+                </tr>
+        
+            <tr>
+                <td><span class="leaderfont203001">·</span></td>
+                <td style="font-size:9pt">
+                    
+                    <a href="info/1182/1961.htm" title="桂林好善助残联合会捐赠1000斤无公害绿色蔬菜" target="_blank">
+                    <span class="titlestyle203001">桂林好善助残联合会捐赠1000斤无公害绿色蔬菜</span></a>
+                    
+                    <span class="timestyle203001"></span>
+                    <span></span>
+                </td>
+                <td width="1" style="padding:0px;border:0px;visibility:hidden"><span class="titlestyle203001" style="width:1px"></span></td>
+                </tr>
+        
+            <tr>
+                <td><span class="leaderfont203001">·</span></td>
+                <td style="font-size:9pt">
+                    
+                    <a href="info/1182/1960.htm" title="广西谊泰文体设施有限公司捐赠2万个医用口罩" target="_blank">
+                    <span class="titlestyle203001">广西谊泰文体设施有限公司捐赠2万个医用口罩</span></a>
+                    
+                    <span class="timestyle203001"></span>
+                    <span></span>
+                </td>
+                <td width="1" style="padding:0px;border:0px;visibility:hidden"><span class="titlestyle203001" style="width:1px"></span></td>
+                </tr>
+        
+            <tr>
+                <td><span class="leaderfont203001">·</span></td>
+                <td style="font-size:9pt">
+                    
+                    <a href="info/1182/1959.htm" title="广西育才教育集团捐赠1000个医用口罩、10把体温枪" target="_blank">
+                    <span class="titlestyle203001">广西育才教育集团捐赠1000个医用口罩、10把体温枪</span></a>
+                    
+                    <span class="timestyle203001"></span>
+                    <span></span>
+                </td>
+                <td width="1" style="padding:0px;border:0px;visibility:hidden"><span class="titlestyle203001" style="width:1px"></span></td>
+                </tr>
+        
+        </table>
+    </DIV>
+    <DIV id="scrollup2jsu7js"></DIV>
+</DIV>
+<SCRIPT> 
+    function scrollupMarqueejsu7js()
+    { 
+        try
+        {
+            var scrollup = document.getElementById("scrollupjsu7js");
+            var scrollup1 = document.getElementById("scrollup1jsu7js");
+    
+            //滚动到头继续滚
+            if(scrollup.scrollTop + scrollup.clientHeight == scrollup.scrollHeight)
+            {
+                scrollup.scrollTop-=scrollup1.clientHeight-1; 
+            }
+            else
+            {
+                scrollup.scrollTop++;
+            }
+            
+        } 
+        catch(e)
+        {
+        }
+    } 
+    var scrollupMyMarjsu7js;
+    function scrollupfunjsu7js()
+    {
+        var speed = 30; 
+        var scrollup = document.getElementById("scrollupjsu7js");
+        var scrollup1 = document.getElementById("scrollup1jsu7js");
+        var scrollup2 = document.getElementById("scrollup2jsu7js");
+        
+        scrollup2.innerHTML=scrollup1.innerHTML;
+        
+        if(scrollup1.scrollHeight == 0 || scrollup1.scrollHeight < 430)
+        {
+            scrollup1.style.height="430px";
+        }
+        else
+        {
+            scrollup1.style.height=scrollup1.scrollHeight + "px";
+        }
+
+        if(scrollup2.scrollHeight == 0 || scrollup2.scrollHeight < 430)
+        {
+            scrollup2.style.height="430px";
+        }
+        else
+        {
+            scrollup2.style.height=scrollup2.scrollHeight + "px";
+        }
+    
+        scrollupMyMarjsu7js=setInterval(scrollupMarqueejsu7js,speed); 
+        scrollup.onmouseover=function() {clearInterval(scrollupMyMarjsu7js)} 
+        scrollup.onmouseout=function() {scrollupMyMarjsu7js=setInterval(scrollupMarqueejsu7js,speed)} 
+    }
+    window.setTimeout(scrollupfunjsu7js, 0);
+</SCRIPT><!--#endeditable--></DIV></DIV></DIV></DIV></DIV><!--end middle-->
+<DIV class="footer">
+<DL class="w_1200 clearfix2 footer_dl">
+<DT class="fr">
+<DIV class="d"><SPAN>&nbsp;
+<P>官方公众号</P></SPAN><IMG alt="官方公众号" src="img/revision/icon/wechat_1.png"><SPAN>&nbsp;
+<P>“桂电人”服务大厅</P></SPAN><IMG alt="“桂电人”服务大厅" src="img/revision/icon/wechat_2.png"></DIV></DT>
+<DD class="r_cell">
+<UL>
+<LI class="footer_info">
+<DIV class="footer_logo"><IMG src="img/revision/icon/logo1.png"></DIV>
+<UL>
+<LI>
+<H4>校友办公室</H4>
+<P><A class="tel" href="###">0773-2290055</A></P>
+<P><A class="email" href="###">xyzh@guet.edu.cn</A></P></LI>
+<LI>
+<H4>校基金会</H4>
+<P><A class="tel" href="###">0773-2290055</A></P>
+<P><A class="email" href="###">jjh@guet.edu.cn</A></P></LI></UL>
+<P class="address">广西桂林市桂林电子科技大学花江校区办公大楼323室</P></LI>
+<LI>
+<H4>关于我们</H4>
+
+<P><A href="gywm/xxqk1.htm">学校情况</A></P>
+<P><A href="gywm/zhjj.htm">总会简介</A></P>
+<P><A href="gywm/zzjg.htm">组织机构</A></P>
+<P><A href="gywm/dffh.htm">地方分会</A></P>
+<P><A href="gywm/xyxie_h.htm">行业协会</A></P>
+<P><A href="gywm/gzzd.htm">规章制度</A></P>
+<P><A href="gywm/xyzhi_jia.htm">校友之家</A></P>
+<P><A href="gywm/lxwm.htm">联系我们</A></P></LI>
+<LI>
+<H4>新闻公告</H4>
+<P><A href="xwgg/xwdt.htm">新闻动态</A></P>
+<P><A href="xwgg/zhgg.htm">总会公告</A></P>
+<P><A href="xwgg/hdyg.htm">活动预告</A></P></LI>
+<LI>
+<H4>校友活动</H4>
+<P><A href="xyhd/xqhdy.htm">校庆活动月</A></P>
+<P><A href="xyhd/znfx.htm">秩年返校</A></P>
+<P><A href="xyhd/xyhd.htm">校友活动</A></P></LI>
+<LI>
+<H4>聚焦桂电人</H4>
+<P><A href="jjgdr/gdr.htm">桂电人</A></P>
+<P><A href="jjgdr/xyqy.htm">校友企业</A></P>
+<P><A href="jjgdr/gdgu_sh.htm">桂电故事</A></P></LI>
+<LI>
+<H4>校友服务</H4>
+<P><A href="xyfw/fxzn.htm">返校指南</A></P>
+<P><A href="xyfw/xyzp.htm">校友招聘</A></P>
+<P><A href="xyfw/xyksq.htm">校友卡申请</A></P>
+<P><A href="xyfw/xytx.htm">校友通讯</A></P></LI>
+<LI>
+<H4>校基金会</H4>
+<P><A href="xjjh/jjhgk.htm">基金会概况</A></P>
+<P><A href="xjjh/lshgc.htm">理事会构成</A></P>
+<P><A href="xjjh/xxgk1.htm">信息公开</A></P>
+<P><A href="xjjh/jzzn.htm">捐赠指南</A></P>
+<P><A href="xjjh/jzxm.htm">捐赠项目</A></P>
+<P><A href="xjjh/jzmx.htm">捐赠鸣谢</A></P>
+<P><A href="xjjh/bzlc.htm">报账流程</A></P>
+<P><A href="xjjh/lxwm.htm">联系我们</A></P></LI></UL></DD></DL></DIV><!--end footer-->
+<DIV class="clearfix2 min_1200 footer_d">
+<DL class="clearfix2 w_1200 footer_d_dl">
+<DT class="ac">Copyright ? 2018-2020 桂林电子科技大学校友办公室 ICP备<A href="###">00000008</A>号 </DT></DL></DIV><!--end文件底下--><script src="js/jquery-1.8.2.min.js"></script><script src="js/jquery.SuperSlide.2.1.2.js"></script><script src="js/tool.js"></script>
+
+</BODY></HTML>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html><head><title>桂林电子科技大学党政办公室</title><META Name="keywords" Content="桂林电子科技大学党政办公室" />
+
+
+
+
+
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type"><link rel="stylesheet" type="text/css" href="style/css.css">
+
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="index.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/vsbscreen.min.js" id="_vsbscreen" devices="pc|mobile|pad"></script>
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1411831140)</script>
+<!--[if lt IE 7]><script type="text/javascript" src="/system/resource/js/unitpngfix/unitpngfix.js"></script><![endif]-->
+</head>
+<body>
+<table border="0" cellspacing="0" cellpadding="0" width="100%" background="images/index_banner4.jpg" align="center">
+<tbody>
+<tr>
+<td height="198" background="images/index_banner4.jpg" style="background-repeat:repeat-x;background-position: center top"><table width="1000" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td><img src="images/index_banner3.jpg" width="1000" height="198" /></td>
+  </tr>
+</table>
+</td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0" width="100%" background="images/dh_bg.gif" align="center">
+<tbody>
+<tr>
+<td height="41" align="center">
+<table border="0" cellspacing="0" cellpadding="0" width="1000">
+<tbody>
+<tr>
+<td><!--#begineditable name="网站导航" viewid="42257" tagname="网站导航" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--><style type="text/css">
+td.b1_0_{FONT-SIZE:9pt;}
+td.b2_0_{FONT-SIZE:9pt;BACKGROUND-IMAGE: url(images/dh_rdbg.gif);}
+td.b3_0_{FONT-SIZE:9pt;BACKGROUND-IMAGE: url(images/dh_rdbg.gif);}
+td.b4_0_{FONT-SIZE:9pt;background-image: url(images/dh_rdbg.gif);}
+a.menu0_0_:link {TEXT-DECORATION: none;};
+a.menu0_0_:visited { TEXT-DECORATION: none;};
+a.menu0_0_:hover {TEXT-DECORATION: none;};
+a.menu0_0_:active {TEXT-DECORATION: none;};
+table.tb1_0_{FONT-SIZE:9pt;border:0;}
+span.s1_0_{FONT-SIZE: 17px;FONT-WEIGHT: bold;COLOR: #ffff00;}
+span.s2_0_{FONT-SIZE: 13pt;FONT-WEIGHT: bold;COLOR: #ffff00;LINE-HEIGHT: 160%;}
+span.s10_0_{FONT-SIZE: 17px;FONT-WEIGHT: bold;COLOR: #ffffff;}
+span.s20_0_{FONT-SIZE: 13pt;FONT-WEIGHT: bold;COLOR: #ffffff;LINE-HEIGHT: 160%;}
+</style>
+<SCRIPT language="javascript"> 
+ var showfix_0_ = 1;
+ var isvertical_0_ = false;
+</SCRIPT>
+<script language="javascript" src="/system/resource/js/menu/text.js"></script>
+<TABLE id="t1_0_" cellSpacing="0" cellPadding="0" border="0" height="0" width="1000"><TR><TD valign="center"></TD><TD valign="middle" height="0" width="0" nowrap class="b1_0_" align="center" id="a_0_1001" onmouseover="tshowLayers('1001','b2_0_', '_0_')" onmouseout="thideLayers('1001','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="index.htm"><span class="fontstyle42257">&nbsp;首页&nbsp;</span></a></TD><TD valign="center" class="leaderfont42257"><img src="images/dh_jgx.gif" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1009" onmouseover="tshowLayers('1009','b2_0_', '_0_')" onmouseout="thideLayers('1009','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="xxdt.htm"><span class="fontstyle42257">&nbsp;信息动态&nbsp;</span></a></TD><TD valign="center" class="leaderfont42257"><img src="images/dh_jgx.gif" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1003" onmouseover="tshowLayers('1003','b2_0_', '_0_')" onmouseout="thideLayers('1003','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="tzgg.htm"><span class="fontstyle42257">&nbsp;通知公告&nbsp;</span></a></TD><TD valign="center" class="leaderfont42257"><img src="images/dh_jgx.gif" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1004" onmouseover="tshowLayers('1004','b2_0_', '_0_')" onmouseout="thideLayers('1004','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="bmjian_ji.htm"><span class="fontstyle42257">&nbsp;部门简介&nbsp;</span></a></TD><TD valign="center" class="leaderfont42257"><img src="images/dh_jgx.gif" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1006" onmouseover="tshowLayers('1006','b2_0_', '_0_')" onmouseout="thideLayers('1006','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="ywlc.htm"><span class="fontstyle42257">&nbsp;业务流程&nbsp;</span></a></TD><TD valign="center" class="leaderfont42257"><img src="images/dh_jgx.gif" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1002" onmouseover="tshowLayers('1002','b2_0_', '_0_')" onmouseout="thideLayers('1002','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="gzzd.htm"><span class="fontstyle42257">&nbsp;规章制度&nbsp;</span></a></TD><TD valign="center" class="leaderfont42257"><img src="images/dh_jgx.gif" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1041" onmouseover="tshowLayers('1041','b2_0_', '_0_')" onmouseout="thideLayers('1041','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="bmgz.htm"><span class="fontstyle42257">&nbsp;保密工作&nbsp;</span></a></TD><TD valign="center" class="leaderfont42257"><img src="images/dh_jgx.gif" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1043" onmouseover="tshowLayers('1043','b2_0_', '_0_')" onmouseout="thideLayers('1043','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="xgxz.htm"><span class="fontstyle42257">&nbsp;相关下载&nbsp;</span></a></TD><TD valign="center" class="leaderfont42257"><img src="images/dh_jgx.gif" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1042" onmouseover="tshowLayers('1042','b2_0_', '_0_')" onmouseout="thideLayers('1042','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="kstd.htm"><span class="fontstyle42257">&nbsp;快速通道&nbsp;</span></a></TD></TR></TR><TR><td align="left" nowrap></td><td></td><td align="left" nowrap></td><td></td><td align="left" nowrap></td><td></td><td align="left" nowrap><DIV class="main_0_" id="layer_0_1004" onmouseover="tshownull('1004','b2_0_', '_0_')" onmouseout="thideLayers('1004','b1_0_', '_0_','true')" style="z-index:99999;display: none; POSITION: absolute;"><TABLE align="center" class="tb1_0_" cellSpacing="0" cellPadding="0" border="0"><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_0_', '_0_');" onmouseout="TOUT(this,'b3_0_', '_0_');" class="b3_0_">
+<A class="menu0_0_" href="bmjian_ji/gzzn.htm"><span class="ejfontstyle42257">&nbsp;工作职能&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_0_', '_0_');" onmouseout="TOUT(this,'b3_0_', '_0_');" class="b3_0_">
+<A class="menu0_0_" href="bmjian_ji/bmldjfg.htm"><span class="ejfontstyle42257">&nbsp;部门领导及分工&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_0_', '_0_');" onmouseout="TOUT(this,'b3_0_', '_0_');" class="b3_0_">
+<A class="menu0_0_" href="bmjian_ji/zzjgt.htm"><span class="ejfontstyle42257">&nbsp;组织机构图&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_0_', '_0_');" onmouseout="TOUT(this,'b3_0_', '_0_');" class="b3_0_">
+<A class="menu0_0_" href="bmjian_ji/nsjgzyzn.htm"><span class="ejfontstyle42257">&nbsp;内设机构主要职能&nbsp;</span></a></TD></tr></table></div></td><td></td><td align="left" nowrap></td><td></td><td align="left" nowrap></td><td></td><td align="left" nowrap></td><td></td><td align="left" nowrap></td><td></td><td align="left" nowrap></td><td></td></TR></table><!--#endeditable--></td></tr></tbody></table></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0" width="100%" background="images/dh_bg_2.gif" align="center">
+<tbody>
+<tr>
+<td height="31" align="center">
+<table border="0" cellspacing="0" cellpadding="0" width="970">
+<tbody>
+<tr>
+<td width="8" align="center">
+</td><td width="315" align="left" valign="middle"><!--#begineditable name="文本日历" viewid="42258" tagname="文本日历" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--><script language="javascript" src="/system/resource/js/calendar/simple.js"></script>               
+<script language="JavaScript">
+//阳历
+var c_Calendar42258EnDateString;
+
+var c_Calendar42258WeekDayString;
+
+//阴历
+var c_Calendar42258CnDateString;
+//节气
+var c_Calendar42258JQString;
+//年
+var c_Calendar42258YearString;
+//月
+var c_Calendar42258MonthString;
+//日
+var c_Calendar42258DayString;
+//周
+var c_Calendar42258WeekString;
+function RunGLNL42258()
+{          
+    var  sc =new Simple_Calendar ();
+    sc.init();
+    c_Calendar42258CnDateString=sc.getCnDateString();
+    c_Calendar42258WeekDayString=sc.getCalendarWeekString();
+    c_Calendar42258JQString=sc.getJQString();
+    c_Calendar42258EnDateString=sc.getEnDateString();
+    c_Calendar42258YearString=sc.getYearString();
+    c_Calendar42258MonthString=sc.getMonthString();
+    c_Calendar42258DayString=sc.getDayString();
+    c_Calendar42258WeekString=sc.getWeekString();
+}
+RunGLNL42258();
+document.write('<div id="c_lunar42258"   class="fontstyle42258"  >');       
+document.write(c_Calendar42258EnDateString);
+document.write("&nbsp;&nbsp;"+c_Calendar42258WeekDayString);
+
+
+
+document.write("</div>");
+
+</script>
+<!--#endeditable--></td>
+<td width="357"></td>
+<td width="290" align="center"><!--#begineditable name="简单检索" viewid="42266" tagname="简单检索" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""-->
+
+
+
+
+
+
+<script language="javascript" src="/system/resource/js/base64.js"></script>
+<script language="javascript" src="/system/resource/js/formfunc.js"></script>
+<form action="search_info.jsp?wbtreeid=1001" method="post" name="a42266a" target="_blank" onsubmit="return subsearchdataa42266a()" style="display: inline;">
+ <input type="hidden" name="Find" value="find">
+ <input type="hidden" name="entrymode" value="1">
+ <input type="hidden" id="INTEXT2" name="INTEXT2" value="">
+ <input type="hidden" name="news_search_code">
+ <table border="0" cellspacing="0" cellpadding="3">
+  <tr>
+   <td Valign="middle" nowrap="nowrap" height="22">
+    <font class="leaderfont42266">站内搜索：</font>
+    
+        <input type="hidden" name="wbtreeids" value="0">
+    </td><td><span id="intextspana42266a"></span><iframe id="intextframea42266a" src="about:blank" scrolling="no" frameborder="0" style="position:absolute;top:0px;left:0px;display:none;"></iframe><input size="22" name="INTEXT" class="querystyle42266">
+   </td>
+   <td align="absmiddle" nowrap="nowrap" height="1">
+   <input type="image" src="images/an_search.gif" valign="bottom" style="cursor: hand"></td>
+  </tr>
+  
+ </table>
+</form>
+<script>
+String.prototype.trim= function()       
+{              
+    var t = this.replace(/(^\s*)|(\s*$)/g, "");     
+    return t.replace(/(^　*)|(　*$)/g, "");     
+}
+ 
+function subsearchdataa42266a()
+{ 
+	
+	if(document.a42266a.INTEXT.value.trim()=="")
+	{
+		alert("请输入查询关键字！");
+		return false;
+	}
+	
+	
+    if(checkDataa42266a(document.a42266a))
+    {
+       return true;  
+    }
+    return false;
+}       
+</script>
+
+<script> 
+function checkDataa42266a(formname)
+{
+	if(formname.INTEXT.value.trim()=="")
+	{
+		alert("请输入查询关键字！");
+		return false;
+	}
+
+	var  base64 = new Base64();
+    if(window.toFF==1)
+        {
+            var ssvalue = formname.INTEXT.value;
+            formname.INTEXT2.value = Simplized(ssvalue);
+            formname.INTEXT2.value = base64.encode(formname.INTEXT2.value);
+        }else
+        formname.INTEXT2.value = formname.INTEXT.value;
+        formname.INTEXT2.value = base64.encode(formname.INTEXT2.value);
+       return true;
+}
+</script>
+<!--#endeditable--></td></tr></tbody></table></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0" width="1000" bgcolor="#ffffff" align="center">
+<tbody>
+<tr>
+<td height="15"></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0" width="1000" bgcolor="#ffffff" align="center">
+<tbody>
+<tr>
+<td valign="top" width="720" style="padding-left: 10px;padding-right: 10px">
+
+<table width="720" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="355" height="31" background="images/title3_bg.gif">
+          <table width="350" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="280">&nbsp;&nbsp;<span class="h4">信息动态</span></td>
+          <td align="right"><a href="xxdt.htm"><span style="font-size: 10px; color: #000">更多&gt;&gt;</span></a></td>
+        </tr>
+      </table>
+      </td>
+    <td width="10">&nbsp;</td>
+    <td width="355" background="images/title3_bg.gif">
+      <table width="350" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="280">&nbsp;&nbsp;<span class="h4">通知公告</span></td>
+          <td align="right"><a href="tzgg.htm"><span style="font-size: 10px; color: #000">更多&gt;&gt;</span></a></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    
+    <table border="0" cellspacing="5" cellpadding="0" width="100%" bgcolor="#ffffff" align="center" style="border-bottom: #fcb096 1px solid;border-left: #fcb096 1px solid;border-right: #fcb096 1px solid">
+<tbody>
+<tr>
+<td height="174" valign="top"><!--#begineditable name="高教动态-标题列表" viewid="42267" tagname="高教动态-标题列表" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--><table width="100%" cellspacing="3" cellpadding="0">
+  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont42267"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1009/1435.htm" class="c42267" title="速递！2020年全国教育工作会议召开，传递这些重要信息" target="_blank">
+        速递！2020年全国教育工作会议召开，传递这…
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle42267" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont42267"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1009/1432.htm" class="c42267" title="2019中国高等教育十大关键词" target="_blank">
+        2019中国高等教育十大关键词
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle42267" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont42267"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1009/1430.htm" class="c42267" title="深化本科教育教学改革 全面提高人才培养质量" target="_blank">
+        深化本科教育教学改革 全面提高人才培养质量
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle42267" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont42267"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1009/1434.htm" class="c42267" title="为了打赢全面振兴本科教育攻坚战 ——新时代全国高等学校本科教育工作会议一年来改革综述" target="_blank">
+        为了打赢全面振兴本科教育攻坚战 ——新时…
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle42267" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont42267"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1009/1431.htm" class="c42267" title="广西壮族自治区发挥区位优势 着力打造面向东盟教育合作交流新高地" target="_blank">
+        广西壮族自治区发挥区位优势 着力打造面向…
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle42267" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont42267"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1009/1433.htm" class="c42267" title="教育部 工业和信息化部 中国工程院 关于加快建设发展新工科实施卓越 工程师教育培养计划2.0的意见" target="_blank">
+        教育部 工业和信息化部 中国工程院 关于加…
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle42267" width="1%" nowrap></td></tr>
+</table><!--#endeditable--></td></tr></tbody></table>
+
+    </td>
+    <td>&nbsp;</td>
+    <td>
+    
+    <table border="0" cellspacing="5" cellpadding="0" width="100%" bgcolor="#ffffff" align="center" style="border-bottom: #fcb096 1px solid;border-left: #fcb096 1px solid;border-right: #fcb096 1px solid">
+<tbody>
+<tr>
+<td height="174" valign="top"><!--#begineditable name="通知公告-标题列表" viewid="42259" tagname="通知公告-标题列表" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--><table width="100%" cellspacing="3" cellpadding="0">
+  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont42259"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1003/1462.htm" class="c42259" title="【疫情防控】关于参加全区应对新冠肺炎疫情做好春季开学工作电视电话会议的紧急通知" target="_blank">
+        【疫情防控】关于参加全区应对新冠肺炎疫情…
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle42259" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont42259"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1003/1463.htm" class="c42259" title="【疫情防控】桂林电子科技大学疫情防控工作领导小组通告（第6号）" target="_blank">
+        【疫情防控】桂林电子科技大学疫情防控工作…
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle42259" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont42259"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1003/1391.htm" class="c42259" title="【疫情防控】桂林电子科技大学疫情防控工作领导小组通告（第5号）" target="_blank">
+        【疫情防控】桂林电子科技大学疫情防控工作…
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle42259" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont42259"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1003/1396.htm" class="c42259" title="【疫情防控】关于严格值班备勤工作的通知" target="_blank">
+        【疫情防控】关于严格值班备勤工作的通知
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle42259" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont42259"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1003/1392.htm" class="c42259" title="【疫情防控】桂林电子科技大学疫情防控工作领导小组通告（第4号）" target="_blank">
+        【疫情防控】桂林电子科技大学疫情防控工作…
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle42259" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont42259"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1003/1393.htm" class="c42259" title="【疫情防控】桂林电子科技大学疫情防控工作领导小组通告（第3号）" target="_blank">
+        【疫情防控】桂林电子科技大学疫情防控工作…
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle42259" width="1%" nowrap></td></tr>
+</table><!--#endeditable--></td></tr></tbody></table>
+    
+    </td>
+  </tr>
+</table>
+<table width="720" height="10" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td>&nbsp;</td>
+  </tr>
+</table>
+
+<table width="720" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="355" height="31" background="images/title3_bg.gif">
+      <table width="350" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="280">&nbsp;&nbsp;<span class="h4">业务流程</span></td>
+          <td align="right"><a href="ywlc.htm"><span style="font-size: 10px; color: #000">更多&gt;&gt;</span></a></td>
+        </tr>
+      </table>
+      </td>
+    <td width="10">&nbsp;</td>
+    <td width="355" background="images/title3_bg.gif">
+          <table width="350" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="280">&nbsp;&nbsp;<span class="h4">规章制度</span></td>
+          <td align="right"><a href="gzzd.htm"><span style="font-size: 10px; color: #000">更多&gt;&gt;</span></a></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    
+    <table border="0" cellspacing="5" cellpadding="0" width="100%" bgcolor="#ffffff" align="center" style="border-bottom: #fcb096 1px solid;border-left: #fcb096 1px solid;border-right: #fcb096 1px solid">
+<tbody>
+<tr>
+<td height="174" valign="top"><!--#begineditable name="业务流程-标题列表" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/titlelist.jsp" tpltype="0" contype="news" clone="" viewid="203199" contentviewid="" tagname="业务流程-标题列表"--><table width="100%" cellspacing="3" cellpadding="0">
+  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont203199"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1006/1377.htm" class="c203199" title="校内公告发布流程" target="_blank">
+        校内公告发布流程
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle203199" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont203199"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1006/1376.htm" class="c203199" title="机要文件办理流程" target="_blank">
+        机要文件办理流程
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle203199" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont203199"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1006/1375.htm" class="c203199" title="学校年鉴编撰工作流程" target="_blank">
+        学校年鉴编撰工作流程
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle203199" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont203199"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1006/1374.htm" class="c203199" title="二级单位邀请校领导出席公务活动讲话稿草拟流程" target="_blank">
+        二级单位邀请校领导出席公务活动讲话稿草拟…
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle203199" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont203199"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1006/1373.htm" class="c203199" title="校长办公会流程图" target="_blank">
+        校长办公会流程图
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle203199" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont203199"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1006/1372.htm" class="c203199" title="全委会流程图" target="_blank">
+        全委会流程图
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle203199" width="1%" nowrap></td></tr>
+</table><!--#endeditable--></td></tr></tbody></table>
+
+    </td>
+    <td>&nbsp;</td>
+    <td>
+    
+    <table border="0" cellspacing="5" cellpadding="0" width="100%" bgcolor="#ffffff" align="center" style="border-bottom: #fcb096 1px solid;border-left: #fcb096 1px solid;border-right: #fcb096 1px solid">
+<tbody>
+<tr>
+<td height="174" valign="top"><!--#begineditable name="规章制度-标题列表" viewid="200597" tagname="规章制度-标题列表" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--><table width="100%" cellspacing="3" cellpadding="0">
+  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont200597"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1002/1330.htm" class="c200597" title="关于印发《桂林电子科技大学教职工代表大会提案处理办法》的通知" target="_blank">
+        关于印发《桂林电子科技大学教职工代表大会…
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle200597" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont200597"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1002/1329.htm" class="c200597" title="桂林电子科技大学本科教学督导委员会章程" target="_blank">
+        桂林电子科技大学本科教学督导委员会章程
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle200597" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont200597"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1002/1325.htm" class="c200597" title="桂林电子科技大学经济责任审计联席会议制度（试行）" target="_blank">
+        桂林电子科技大学经济责任审计联席会议制度…
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle200597" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont200597"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1002/1328.htm" class="c200597" title="桂林电子科技大学本科教学工作委员会章程" target="_blank">
+        桂林电子科技大学本科教学工作委员会章程
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle200597" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont200597"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1002/1327.htm" class="c200597" title="桂林电子科技大学处级干部管理暂行办法补充规定（试行）" target="_blank">
+        桂林电子科技大学处级干部管理暂行办法补充…
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle200597" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont200597"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1002/1324.htm" class="c200597" title="桂林电子科技大学寒暑假总值班制度" target="_blank">
+        桂林电子科技大学寒暑假总值班制度
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle200597" width="1%" nowrap></td></tr>
+</table><!--#endeditable--></td></tr></tbody></table>
+    
+    </td>
+  </tr>
+</table>
+
+<table width="720" height="10" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td>&nbsp;</td>
+  </tr>
+</table>
+
+<table width="720" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="355" height="31" background="images/title3_bg.gif">
+      <table width="350" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="280">&nbsp;&nbsp;<span class="h4">保密工作</span></td>
+          <td align="right"><a href="bmgz.htm"><span style="font-size: 10px; color: #000">更多&gt;&gt;</span></a></td>
+        </tr>
+      </table>
+      </td>
+    <td width="10">&nbsp;</td>
+    <td width="355" background="images/title3_bg.gif">
+          <table width="350" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="280">&nbsp;&nbsp;<span class="h4">相关下载</span></td>
+          <td align="right"><a href="xgxz.htm"><span style="font-size: 10px; color: #000">更多&gt;&gt;</span></a></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    
+    <table border="0" cellspacing="5" cellpadding="0" width="100%" height="206" bgcolor="#ffffff" align="center" style="border-bottom: #fcb096 1px solid;border-left: #fcb096 1px solid;border-right: #fcb096 1px solid">
+<tbody>
+<tr>
+<td height="174" valign="top"><!--#begineditable name="保密工作-标题列表" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/titlelist.jsp" tpltype="0" contype="news" clone="" viewid="203197" contentviewid="" tagname="保密工作-标题列表"--><table width="100%" cellspacing="3" cellpadding="0">
+  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont203197"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1041/1452.htm" class="c203197" title="2019年度信息安全事件盘点" target="_blank">
+        2019年度信息安全事件盘点
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle203197" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont203197"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1041/1450.htm" class="c203197" title="广西：打好“组合拳” 严防失泄密" target="_blank">
+        广西：打好“组合拳” 严防失泄密
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle203197" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont203197"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1041/1453.htm" class="c203197" title="涉密人员管理应坚持以岗定人与人岗相适结合" target="_blank">
+        涉密人员管理应坚持以岗定人与人岗相适结合
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle203197" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont203197"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1041/1454.htm" class="c203197" title="新时代高校保密宣传教育如何发力" target="_blank">
+        新时代高校保密宣传教育如何发力
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle203197" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont203197"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1041/1455.htm" class="c203197" title="面对新形势，保密干部要在适应中作为" target="_blank">
+        面对新形势，保密干部要在适应中作为
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle203197" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont203197"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1041/1451.htm" class="c203197" title="全面提升保密宣传教育能力" target="_blank">
+        全面提升保密宣传教育能力
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle203197" width="1%" nowrap></td></tr>
+</table><!--#endeditable--></td></tr></tbody></table>
+
+    </td>
+    <td>&nbsp;</td>
+    <td>
+    
+    <table border="0" cellspacing="5" cellpadding="0" width="100%" bgcolor="#ffffff" align="center" style="border-bottom: #fcb096 1px solid;border-left: #fcb096 1px solid;border-right: #fcb096 1px solid">
+<tbody>
+<tr>
+<td height="174" valign="top"><!--#begineditable name="相关下载-标题列表" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/titlelist.jsp" tpltype="0" contype="news" clone="" viewid="203198" contentviewid="" tagname="相关下载-标题列表"--><table width="100%" cellspacing="3" cellpadding="0">
+  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont203198"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1043/1456.htm" class="c203198" title="XX(单位、部门名称)假期值班表" target="_blank">
+        XX(单位、部门名称)假期值班表
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle203198" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont203198"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1043/1457.htm" class="c203198" title="公文常用字体" target="_blank">
+        公文常用字体
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle203198" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont203198"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1043/1449.htm" class="c203198" title="桂林电子科技大学合同审签流程单及委托书" target="_blank">
+        桂林电子科技大学合同审签流程单及委托书
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle203198" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont203198"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1043/1460.htm" class="c203198" title="校长办公会议题申报审批表" target="_blank">
+        校长办公会议题申报审批表
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle203198" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont203198"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1043/1458.htm" class="c203198" title="国内公务接待审批表、接待清单" target="_blank">
+        国内公务接待审批表、接待清单
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle203198" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont203198"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1043/1459.htm" class="c203198" title="查阅《事业单位法人证书》审批表" target="_blank">
+        查阅《事业单位法人证书》审批表
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle203198" width="1%" nowrap></td></tr>
+</table><!--#endeditable--></td></tr></tbody></table>
+    
+    </td>
+  </tr>
+</table>
+
+
+</td>
+<td height="386" align="center" valign="top" style="padding-right: 10px">
+
+<table border="0" cellspacing="5" cellpadding="0" width="250" align="center" style="border-bottom: #fcb096 1px solid;border-left: #fcb096 1px solid;border-top: #fcb096 1px solid;border-right: #fcb096 1px solid">
+<tbody>
+<tr>
+<td height="10" align="center"><!--#begineditable name="广告条-图片列表" viewid="42264" tagname="广告条-图片列表" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""-->
+
+
+
+
+<script language="javascript" src="/system/resource/js/dynclicks.js"></script>
+<table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+    <td><a href="https://dzoa.guet.edu.cn" target="_blank" onclick="_addDynClicks('wbimage',1411831140,33030)"><img src="images/btn_gddzbg.png" width="224" height="40" hspace="0" vspace="4" border="0"></a></td>
+        </tr>
+        <tr>
+    <td><a href="http://bmw.guet.edu.cn/" target="_blank" onclick="_addDynClicks('wbimage',1411831140,11087)"><img src="images/bmb_2.png" width="224" height="40" hspace="0" vspace="4" border="0"></a></td>
+        </tr>
+        </table><!--#endeditable--></td></tr></tbody></table>
+
+<table border="0" cellspacing="12" cellpadding="0" width="250" align="center">
+<tbody>
+<tr>
+<td height="98" align="center" background="images/mail_bg.jpg"><span style="line-height: 150%;font-size: 16px; color: #000;font-family: 'Times New Roman';">书 记 信 箱：sjxx@guet.edu.cn</br></br>校 长 信 箱：xzxx@guet.edu.cn</span></td></tr></tbody></table>
+
+</td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0" width="1000" bgcolor="#ffffff" align="center">
+<tbody>
+<tr>
+<td height="15"></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0" width="100%" bgcolor="#bd1c00" align="center">
+<tbody>
+<tr>
+<td height="112">
+<table border="0" cellspacing="0" cellpadding="0" width="1000" background="images/end_bg.gif" align="center">
+<tbody>
+<tr>
+<td height="150" align="center"><!--#begineditable name="版权" viewid="42265" tagname="版权" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--><p style="text-align:center;">
+    <strong><span style="color:#ffffff;font-size: 11pt;line-height: 200%;">电话：</span></strong><span style="color:#ffffff;font-size: 11pt;line-height: 200%;">+86 0773 2291358 <strong>传真：</strong>+86 0773 2290083 <strong>邮箱:</strong>xxk@guet.edu.cn<br /><strong>地址：</strong>桂林市金鸡路1号桂林电子科技大学花江校区行政楼 <strong>邮编：</strong>541004 <br /><strong>版权所有：</strong>桂林电子科技大学党政办公室</span>
+</p><!--#endeditable--><!--#begineditable name="链接列表" viewid="200523" tagname="链接列表" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""-->     
+     
+  
+     
+ 
+
+<table border="0" width="0">     
+    <tr>   
+            <td align="absmiddle">
+<span class="leaderstyle200523"></span></td>     
+            <td width="0" align="left">   
+                <A class="c200523" HREF="http://mwb.guet.edu.cn/" onclick="_addDynClicks('wburl',1411831140,38742)" target="_blank">管理入口</A>
+                 
+            </td>     
+</tr></table><!--#endeditable--></td></tr></tbody></table></td></tr></tbody></table>
+
+</body></html>

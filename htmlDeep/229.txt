@@ -1,0 +1,840 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <title>副校长周娅到教学实践部检查指导工作（图） -桂林电子科技大学</title><META Name="keywords" Content="桂林电子科技大学官方网站,校园快讯" />
+
+
+    <link rel="stylesheet" href="../../css/GuetWeb.css" type="text/css" /> 
+    <!--[if lte IE 6]>
+    <script type="text/javascript" src="../../js/belatedPNG.js"></script>
+    <script type="text/javascript">
+        var __IE6=true;
+        DD_belatedPNG.fix('.logo img,.prev img,.next img,img');
+    </script>
+    <![endif]-->
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+          <script src="../../@Url.Content(" js/html5shiv/html5shiv.min.js")"></script>
+          <script src="../../@Url.Content(" js/respond/respond/respond.min.js")"></script>
+      <![endif]-->
+     
+     
+
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="../../_sitegray/_sitegray_d.css" />
+<script language="javascript" src="../../_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="../../content.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/vsbscreen.min.js" id="_vsbscreen" devices="pc|pad"></script>
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1152,'/content.jsp',52179,1403602354)</script>
+</head>
+<body>
+    <div class="topbanner">
+        <div class="main-top"><a class="logo float-l" href="../../"></a>
+    <div class="headtoolbar float-r"><!--#begineditable name="顶部链接" viewid="160193" tagname="顶部链接" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><script language="javascript" src="/system/resource/js/dynclicks.js"></script><script language="javascript" src="/system/resource/js/openlink.js"></script><a target="_blank" href="http://iw.guet.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1403602354, 28467)" class="a_style1">【校内主页】</a>
+<a target="_blank" href="http://mail.guet.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1403602354, 28468)" class="a_style1">【邮箱登陆】</a>
+<a target="_blank" href="http://icampus.guet.edu.cn" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1403602354, 28469)" class="a_style1">【智慧校园】</a>
+<!--#endeditable--><br>
+      <div class="sear"><!--#begineditable name="简单检索" viewid="160194" tagname="简单检索" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""-->
+
+
+
+
+
+<form action="../../search.jsp?wbtreeid=1152" method="post" name="a160194a" onsubmit="return subsearchdataa160194a()" style="display: inline;">
+  <input type="hidden" name="Find" value="find"><input type="hidden" name="entrymode" value="1"><input type="hidden" id="INTEXT2" name="INTEXT2" value=""><input type="hidden" name="news_search_code">
+                <iframe id="intextframea160194a" src="about:blank" scrolling="no" frameborder="0" style="position:absolute;top:0px;left:0px;display:none;"></iframe>
+                <input name="INTEXT" id="qText" type="text" class="float-l sear_word" placeholder="查询关键字" value="" style="border-radius:5px; padding-left:10px">
+                 <input type="submit" name="FindButton" align="absmiddle" valign="bottom" value="" class="float-l sear_button">
+</form>
+
+<script>
+String.prototype.trim= function()       
+{              
+    var t = this.replace(/(^\s*)|(\s*$)/g, "");     
+    return t.replace(/(^　*)|(　*$)/g, "");     
+}  
+function subsearchdataa160194a()
+{ 
+    if(document.a160194a.INTEXT.value.trim()=="")
+    {
+        alert("请输入查询关键字！");
+        return false;
+    }
+    if(checkDataa160194a(document.a160194a))
+    {
+       return true;  
+    }
+    return false;
+}       
+</script>
+
+    <script> 
+    function checkDataa160194a(formname)
+    {
+        if(a160194a.INTEXT.value.trim()=="")
+        {
+            alert("请输入查询关键字！");
+            return false;
+        }       
+        var  base64 = new Base64();
+        if(window.toFF==1)
+            {
+                var ssvalue = a160194a.INTEXT.value;
+                document.a160194a.INTEXT2.value = base64.encode(Simplized(ssvalue));
+            }else
+            document.a160194a.INTEXT2.value = base64.encode(document.a160194a.INTEXT.value);
+           return true;
+    }
+    </script>
+<script language="javascript" src="/system/resource/js/base64.js"></script> 
+<!--#endeditable--></div>
+    </div>
+  </div>
+        <!--导航栏-->
+        <div id="nav" class="nav"><!--#begineditable name="网站导航" viewid="160195" tagname="网站导航" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><ul id="navItems"> <!--  -->
+                <li class="frontMenu">  <!--  --> 
+                    <a href="../../index.htm" title="首页">首页</a>
+                </li>
+                <li class="frontMenu">  <!--  --> 
+                    <a href="../../xxjj.htm" title="学校简介">学校简介</a>
+                    <ul>   <!-- class="sub-nav"  -->
+                        <li>
+                              <a href="../../xxjj/xxld_new.htm" title="学校领导">学校领导</a>
+                        </li>
+                        <li>
+                              <a href="../../xxjj/xxgk.htm" title="学校概况">学校概况</a>
+                        </li>
+                        <li>
+                              <a href="../../xxjj/lsyg.htm" title="历史沿革">历史沿革</a>
+                        </li>
+                        <li>
+                              <a href="../../xxjj/xb_xx.htm" title="校标、校训">校标、校训</a>
+                        </li>
+                        <li>
+                              <a href="../../xxjj/xg.htm" title="校歌">校歌</a>
+                        </li>
+                    </ul>
+                </li>
+                <li class="frontMenu">  <!--  --> 
+                    <a href="../../jgsz.htm" title="机构设置">机构设置</a>
+                    <ul>   <!-- class="sub-nav"  -->
+                        <li>
+                              <a href="../../jgsz/dqbm1.htm" title="党群部门">党群部门</a>
+                        </li>
+                        <li>
+                              <a href="../../jgsz/xzglbm1.htm" title="行政管理部门">行政管理部门</a>
+                        </li>
+                        <li>
+                              <a href="../../jgsz/jxdw1.htm" title="教学单位">教学单位</a>
+                        </li>
+                        <li>
+                              <a href="../../jgsz/qtjg1.htm" title="其他机构">其他机构</a>
+                        </li>
+                        <li>
+                              <a href="../../jgsz/kyjg1.htm" title="科研机构">科研机构</a>
+                        </li>
+                    </ul>
+                </li>
+                <li class="frontMenu">  <!--  --> 
+                    <a href="https://www.guet.edu.cn/rsc/info/1047/1264.htm" title="师资队伍">师资队伍</a>
+                </li>
+                <li class="frontMenu">  <!--  --> 
+                    <a href="http://www.guet.edu.cn/gdkyc" title="科学研究">科学研究</a>
+                </li>
+                <li class="frontMenu">  <!--  --> 
+                    <a href="https://www.guet.edu.cn/international" title="国际交流">国际交流</a>
+                </li>
+                <li class="frontMenu">  <!--  --> 
+                    <a href="" title="招生就业">招生就业</a>
+                    <ul>   <!-- class="sub-nav"  -->
+                        <li>
+                              <a href="https://www.guet.edu.cn/jy/" title="毕业生就业网">毕业生就业网</a>
+                        </li>
+                        <li>
+                              <a href="http://www.guet.edu.cn/zs/" title="招生信息网">招生信息网</a>
+                        </li>
+                        <li>
+                              <a href="http://www.guet.edu.cn/yjszs/index.htm" title="研究生招生">研究生招生</a>
+                        </li>
+                    </ul>
+                </li>
+                <li class="frontMenu">  <!--  --> 
+                    <a href="https://www.guet.edu.cn/gdbh" title="北海校区">北海校区</a>
+                </li>
+                <li class="frontMenu">  <!--  --> 
+                    <a href="../../xshy.htm" title="学术会议">学术会议</a>
+                    <ul>   <!-- class="sub-nav"  -->
+                        <li>
+                              <a href="http://www.guet.edu.cn/icaci/" title="ICACI 2019">ICACI 2019</a>
+                        </li>
+                        <li>
+                              <a href="http://math.shu.edu.cn/mime2019/ " title="MIME2019">MIME2019</a>
+                        </li>
+                        <li>
+                              <a href="https://s.wcd.im/v/39o1sZ3b/?slv=2&sid=e1of" title="NRPS'2019">NRPS'2019</a>
+                        </li>
+                        <li>
+                              <a href="http://www.thermophysics.cn/?from=singlemessage" title="CSET2019">CSET2019</a>
+                        </li>
+                    </ul>
+                </li>
+                <li class="frontMenu">  <!--  --> 
+                    <a href="https://www.guet.edu.cn/rsc/list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1105" title="诚聘英才">诚聘英才</a>
+                </li>
+                <li class="frontMenu">  <!--  --> 
+                    <a href="../../rcpy.htm" title="人才培养">人才培养</a>
+                    <ul>   <!-- class="sub-nav"  -->
+                        <li>
+                              <a href="https://www.guet.edu.cn/zs/" title="本科招生 ">本科招生 </a>
+                        </li>
+                        <li>
+                              <a href="http://utsc.guet.edu.cn/" title="本科教育 ">本科教育 </a>
+                        </li>
+                        <li>
+                              <a href="http://www.guet.edu.cn/gra/index.htm?tdsourcetag=s_pctim_aiomsg" title="研究生教育 ">研究生教育 </a>
+                        </li>
+                        <li>
+                              <a href="http://i.guet.edu.cn/new/" title="桂电信科院">桂电信科院</a>
+                        </li>
+                        <li>
+                              <a href="http://gdzy.guet.edu.cn/zsjy/index.asp" title="专科招生 ">专科招生 </a>
+                        </li>
+                        <li>
+                              <a href="http://219.159.198.136/" title="专科教育 ">专科教育 </a>
+                        </li>
+                    </ul>
+                </li>
+                <li class="frontMenu">  <!--  --> 
+                    <a href="https://www.guet.edu.cn/guet60" title="校庆60">校庆60</a>
+                </li>
+                <li class="frontMenu">  <!--  --> 
+                    <a href="../../cylj.htm" title="常用链接">常用链接</a>
+                    <ul>   <!-- class="sub-nav"  -->
+                        <li>
+                              <a href="https://sslvpn.guet.edu.cn/" title="校外VPN访问">校外VPN访问</a>
+                        </li>
+                        <li>
+                              <a href="http://szhxy.guet.edu.cn" title="数字化校园">数字化校园</a>
+                        </li>
+                        <li>
+                              <a href="http://gldz.cbpt.cnki.net/WKD/WebPublication/index.aspx?mid=GLDZ" title="学报">学报</a>
+                        </li>
+                    </ul>
+                </li>
+            </ul><!--#endeditable--></div>
+
+    </div>
+
+    <!--主体内容-->
+    <div class="content">
+        <div class="search-l">
+            <div class="searchtop">公共搜索</div>
+            <div class="sear">
+               <!--#begineditable name="简单检索1" viewid="160219" tagname="简单检索1" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp="true"-->
+
+
+
+
+
+				<form action="../../search.jsp?wbtreeid=1152" method="post" name="a160219a" onsubmit="return subsearchdataa160219a()" style="display: inline;">
+  <input type="hidden" name="Find" value="find"><input type="hidden" name="entrymode" value="1"><input type="hidden" id="INTEXT2" name="INTEXT2" value=""><input type="hidden" name="news_search_code">
+                <iframe id="intextframea160219a" src="about:blank" scrolling="no" frameborder="0" style="position:absolute;top:0px;left:0px;display:none;"></iframe>
+                <input name="INTEXT" id="qText" type="text" class="float-l sear_word sear_180" placeholder="查询关键字" value="" style="margin-left:3px; padding-left:10px; width:160px;border-radius:5px" />
+                 <input type="submit" name="FindButton" align="absmiddle" valign="bottom" value="" class="float-l sear_button">
+</form>
+
+<script>
+String.prototype.trim= function()       
+{              
+    var t = this.replace(/(^\s*)|(\s*$)/g, "");     
+    return t.replace(/(^　*)|(　*$)/g, "");     
+}  
+function subsearchdataa160219a()
+{ 
+    if(document.a160219a.INTEXT.value.trim()=="")
+    {
+        alert("请输入查询关键字！");
+        return false;
+    }
+    if(checkDataa160219a(document.a160219a))
+    {
+       return true;  
+    }
+    return false;
+}       
+</script>
+
+    <script> 
+    function checkDataa160219a(formname)
+    {
+        if(a160219a.INTEXT.value.trim()=="")
+        {
+            alert("请输入查询关键字！");
+            return false;
+        }       
+        var  base64 = new Base64();
+        if(window.toFF==1)
+            {
+                var ssvalue = a160219a.INTEXT.value;
+                document.a160219a.INTEXT2.value = base64.encode(Simplized(ssvalue));
+            }else
+            document.a160219a.INTEXT2.value = base64.encode(document.a160219a.INTEXT.value);
+           return true;
+    }
+    </script>
+ 
+<!--#endeditable-->
+
+            </div>
+
+        </div>
+
+        <!--#begineditable name="文章内容" viewid="160220" tagname="文章内容" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp="true"-->
+<script language="javascript" src="../../_dwr/interface/NewsvoteDWR.js"></script><script language="javascript" src="../../_dwr/engine.js"></script><script language="javascript" src="/system/resource/js/news/newscontent.js"></script><script type="text/javascript">NewsvoteDWR.getNewsLinkUrl(52179,'1403602354','vsb',newsSkip);function newsSkip(data){if(data != ""){window.location.href = data;}}</script><LINK href="/system/resource/js/photoswipe/3.0.5.1/photoswipe.css" type="text/css" rel="stylesheet"><script language="javascript" src="/system/resource/js/photoswipe/3.0.5.1/klass.min.js"></script><LINK href="/system/resource/style/component/news/content/format4.css" type="text/css" rel="stylesheet"><script language="javascript" src="/system/resource/js/ajax.js"></script><form name="_newscontent_fromname"><script language="javascript" src="/system/resource/js/jquery/jquery-latest.min.js"></script>
+<div class="content-r">
+            <input id="Id" type="hidden" value="21313" />
+            <div id="newTitle"><h1>副校长周娅到教学实践部检查指导工作（图）</h1></div>
+            <hr />
+            <div id="newscontent-tool" style="width:100%">
+                <div style="width:65%;float: left;margin-left:20px">
+                    <span class="page-tool-i newsPublish" id="newsPublish">发布时间：2020年04月05日 18时02分 <!--&nbsp;&nbsp;点击数：<script>_showDynClicks("wbnews", 1403602354, 52179)</script>--></span>
+                </div>
+                <div style="width:30%;float: right;text-align:right">
+                   <!--
+                    <span class="page-tool-i fa fa-thumbs-o-up  fa fa-lg" title="顶">
+                        <a href="javascript:;" onclick="updateWebContentCount('Agree')">顶<span class="commentCount" id="commentCountThumbsUp"><script>_showDynClicks("wbnews", 1403602354, 52179)</script></span></a>
+
+                    </span>
+
+                    <span class="page-tool-i  fa fa-thumbs-o-down fa-lg" title="踩">
+                        <a href="javascript:;" onclick="updateWebContentCount('Disagree')">踩<span class="commentCount" id="commentCountThumbsDown">0</span></a>
+
+                    </span>
+                    -->
+                    <span class="page-tool-i fa fa-star fa-lg" title="收藏本文">
+
+                        <a href="javascript:;" onclick="updateWebContentCount('FavoriteCount')"><script>
+        function dosubc160220()
+        {
+            try{
+                var ua = navigator.userAgent.toLowerCase();
+                if(ua.indexOf("msie 8")>-1)
+                {
+                    window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE8
+                }else{
+                    if (document.all) 
+                    {
+                        window.external.addFavorite(document.location.href, document.title);
+                    }else if(window.sidebar)
+                    {
+                        window.sidebar.addPanel( document.title, document.location.href, "");//firefox
+                    }
+                }
+        
+            }
+            catch (e){alert("无法自动添加到收藏夹，请使用 Ctrl + d 手动添加");}
+        }</script>
+        <a href="javascript:window.print()">打印</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="javascript:dosubc160220()">收藏</a></a>
+                    </span>
+                </div>
+            </div>
+    <div style="clear:both"></div>
+    <div id="vsb_content_4" id="newsContent" style="margin-top: 10px; position: static; zoom: 1;font-size:16px;line-height:35px;"><p class="vsbcontent_start">4月1日下午，副校长周娅到教学实践部检查指导疫情防控期间实践教学工作，教务处相关部门负责人随同。</p>
+<p>教学实践部汇报了目前线上教学开展情况及复学后的安排计划，周娅副校长就如何保障实践教学质量、实践教学如何做好线上线下衔接等工作提出了要求，并对复学准备的相关事宜进行了强调。</p>
+<p class="vsbcontent_end">（供稿：教学实践部 钟思 周学林 审稿：宣传部 冼欣宜）</p>
+<p class="vsbcontent_img">
+ <img width="500" src="/__local/6/FD/AE/D2566CCB168CDB41E6077D61B0A_B0D13A00_3B352.jpg" vsbhref="vurl" vurl="/_vsl/6FDAED2566CCB168CDB41E6077D61B0A/B0D13A00/3B352" vheight="" vwidth="500" orisrc="/__local/B/70/9D/6C7A1AE281832CF00AB556AE222_35F9B950_CE676.jpg" class="img_vsb_content"></p></div><div id="div_vote_id"></div>
+    <div style="height:55px;"></div>
+    
+         <hr>
+<div>
+     <div style="float:left;">    <p align="left" style="text-indent:0px; line-height: 25px; font-size: 13px;">
+        上一条：<a href="52192.htm"> 后勤处有序推进开学前校园卫生清洁及预防性消毒工作（图）</a><br>
+        下一条：<a href="52177.htm">【疫情防控】学校开展疫情防控知识培训暨应急演练（图）</a>
+    </p></div>
+    <div style="float:right;"><!--   --> <p align="right" style="font-size:13px;"> <a href="javascript:window.print()">【打印新闻】</a>
+    <a href="javascript:window.opener=null;window.open('','_self');window.close();">【关闭】</a>
+    
+    </p> </div></div>
+        </div>
+</form><!--#endeditable-->
+    </div>
+     
+
+    <div class="footer">
+  <div class="footercenter"><span><!--#begineditable name="版权" viewid="160212" tagname="版权" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--><!-- 版权内容请在本组件"内容配置-版权"处填写 -->
+<p>©版权所有：桂林电子科技大学　校址：中国广西桂林金鸡路1号　邮编：541004　传真：0773-2290083</p><p style="text-align: center;height:20px;line-height:20px;margin: 0px 0px 0px 5px;"><a href="http://www.beian.miit.gov.cn" target="_blank">桂ICP备05000961号</a>&nbsp; &nbsp; <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=45030502000232" style="display:inline-block;text-decoration:none;height:20px;line-height:20px"><img src="/__local/D/02/89/DC0A46FC5B15B3363FFA78CF6C7_C267B386_4B38.png" />桂公网安备45030502000232号</a>&nbsp;<br /></p><!--#endeditable--></span><a class="blue_error" href="../..//bszs.conac.cn/sitename?method=show&id=17A7818D2EE94AB9E053012819ACB5C4" target="_blank"><img alt="" src="../../images/blue_error.png" width="80" height="80"> </a></div>
+</div>
+
+    <script type="text/javascript" src="../../js/jquery.min.js"></script>
+    <script src="../../js/Webmain.js"></script>
+    <script>
+
+
+        function SearchNews() {
+            var qText = $("#qText").val();
+            if (!qText) {
+                alert('请输入要查询的关键字！');
+                return;
+            }
+            window.location.href = "/ListAndDetail?qText=" + qText;
+        }
+
+        //顶部导航菜单
+        $('li.frontMenu').hover(
+            function () {
+                $(this).find('a:first').addClass("hover");
+                var current_li = $(this);
+                NavWaitSlide = setTimeout(function () {
+                    if (!$(current_li).children('ul').is(':visible')) {
+                        $(current_li).find('ul').slideDown(200);
+                    }
+                }, 100)
+            },
+            function () {
+                clearTimeout(NavWaitSlide);
+                $(this).find('ul').slideUp(100);
+                $(this).find('a:first').removeClass("hover");
+            }
+        );
+
+    </script>
+    <script src="../../lib/Page/jquery.pagination.js"></script>
+    
+    <script>
+        $(document).ready(function () {
+            if ($("#qNewListText").val()) {
+                queryNewsType()
+            }
+            
+
+        });
+
+        
+    </script>
+</body>
+</html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <title>副校长周娅到教学实践部检查指导工作（图） -桂林电子科技大学</title><META Name="keywords" Content="桂林电子科技大学官方网站,校园快讯" />
+
+
+    <link rel="stylesheet" href="../../css/GuetWeb.css" type="text/css" /> 
+    <!--[if lte IE 6]>
+    <script type="text/javascript" src="../../js/belatedPNG.js"></script>
+    <script type="text/javascript">
+        var __IE6=true;
+        DD_belatedPNG.fix('.logo img,.prev img,.next img,img');
+    </script>
+    <![endif]-->
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+          <script src="../../@Url.Content(" js/html5shiv/html5shiv.min.js")"></script>
+          <script src="../../@Url.Content(" js/respond/respond/respond.min.js")"></script>
+      <![endif]-->
+     
+     
+
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="../../_sitegray/_sitegray_d.css" />
+<script language="javascript" src="../../_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="../../content.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/vsbscreen.min.js" id="_vsbscreen" devices="pc|pad"></script>
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1152,'/content.jsp',52179,1403602354)</script>
+</head>
+<body>
+    <div class="topbanner">
+        <div class="main-top"><a class="logo float-l" href="../../"></a>
+    <div class="headtoolbar float-r"><!--#begineditable name="顶部链接" viewid="160193" tagname="顶部链接" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><script language="javascript" src="/system/resource/js/dynclicks.js"></script><script language="javascript" src="/system/resource/js/openlink.js"></script><a target="_blank" href="http://iw.guet.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1403602354, 28467)" class="a_style1">【校内主页】</a>
+<a target="_blank" href="http://mail.guet.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1403602354, 28468)" class="a_style1">【邮箱登陆】</a>
+<a target="_blank" href="http://icampus.guet.edu.cn" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1403602354, 28469)" class="a_style1">【智慧校园】</a>
+<!--#endeditable--><br>
+      <div class="sear"><!--#begineditable name="简单检索" viewid="160194" tagname="简单检索" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""-->
+
+
+
+
+
+<form action="../../search.jsp?wbtreeid=1152" method="post" name="a160194a" onsubmit="return subsearchdataa160194a()" style="display: inline;">
+  <input type="hidden" name="Find" value="find"><input type="hidden" name="entrymode" value="1"><input type="hidden" id="INTEXT2" name="INTEXT2" value=""><input type="hidden" name="news_search_code">
+                <iframe id="intextframea160194a" src="about:blank" scrolling="no" frameborder="0" style="position:absolute;top:0px;left:0px;display:none;"></iframe>
+                <input name="INTEXT" id="qText" type="text" class="float-l sear_word" placeholder="查询关键字" value="" style="border-radius:5px; padding-left:10px">
+                 <input type="submit" name="FindButton" align="absmiddle" valign="bottom" value="" class="float-l sear_button">
+</form>
+
+<script>
+String.prototype.trim= function()       
+{              
+    var t = this.replace(/(^\s*)|(\s*$)/g, "");     
+    return t.replace(/(^　*)|(　*$)/g, "");     
+}  
+function subsearchdataa160194a()
+{ 
+    if(document.a160194a.INTEXT.value.trim()=="")
+    {
+        alert("请输入查询关键字！");
+        return false;
+    }
+    if(checkDataa160194a(document.a160194a))
+    {
+       return true;  
+    }
+    return false;
+}       
+</script>
+
+    <script> 
+    function checkDataa160194a(formname)
+    {
+        if(a160194a.INTEXT.value.trim()=="")
+        {
+            alert("请输入查询关键字！");
+            return false;
+        }       
+        var  base64 = new Base64();
+        if(window.toFF==1)
+            {
+                var ssvalue = a160194a.INTEXT.value;
+                document.a160194a.INTEXT2.value = base64.encode(Simplized(ssvalue));
+            }else
+            document.a160194a.INTEXT2.value = base64.encode(document.a160194a.INTEXT.value);
+           return true;
+    }
+    </script>
+<script language="javascript" src="/system/resource/js/base64.js"></script> 
+<!--#endeditable--></div>
+    </div>
+  </div>
+        <!--导航栏-->
+        <div id="nav" class="nav"><!--#begineditable name="网站导航" viewid="160195" tagname="网站导航" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><ul id="navItems"> <!--  -->
+                <li class="frontMenu">  <!--  --> 
+                    <a href="../../index.htm" title="首页">首页</a>
+                </li>
+                <li class="frontMenu">  <!--  --> 
+                    <a href="../../xxjj.htm" title="学校简介">学校简介</a>
+                    <ul>   <!-- class="sub-nav"  -->
+                        <li>
+                              <a href="../../xxjj/xxld_new.htm" title="学校领导">学校领导</a>
+                        </li>
+                        <li>
+                              <a href="../../xxjj/xxgk.htm" title="学校概况">学校概况</a>
+                        </li>
+                        <li>
+                              <a href="../../xxjj/lsyg.htm" title="历史沿革">历史沿革</a>
+                        </li>
+                        <li>
+                              <a href="../../xxjj/xb_xx.htm" title="校标、校训">校标、校训</a>
+                        </li>
+                        <li>
+                              <a href="../../xxjj/xg.htm" title="校歌">校歌</a>
+                        </li>
+                    </ul>
+                </li>
+                <li class="frontMenu">  <!--  --> 
+                    <a href="../../jgsz.htm" title="机构设置">机构设置</a>
+                    <ul>   <!-- class="sub-nav"  -->
+                        <li>
+                              <a href="../../jgsz/dqbm1.htm" title="党群部门">党群部门</a>
+                        </li>
+                        <li>
+                              <a href="../../jgsz/xzglbm1.htm" title="行政管理部门">行政管理部门</a>
+                        </li>
+                        <li>
+                              <a href="../../jgsz/jxdw1.htm" title="教学单位">教学单位</a>
+                        </li>
+                        <li>
+                              <a href="../../jgsz/qtjg1.htm" title="其他机构">其他机构</a>
+                        </li>
+                        <li>
+                              <a href="../../jgsz/kyjg1.htm" title="科研机构">科研机构</a>
+                        </li>
+                    </ul>
+                </li>
+                <li class="frontMenu">  <!--  --> 
+                    <a href="https://www.guet.edu.cn/rsc/info/1047/1264.htm" title="师资队伍">师资队伍</a>
+                </li>
+                <li class="frontMenu">  <!--  --> 
+                    <a href="http://www.guet.edu.cn/gdkyc" title="科学研究">科学研究</a>
+                </li>
+                <li class="frontMenu">  <!--  --> 
+                    <a href="https://www.guet.edu.cn/international" title="国际交流">国际交流</a>
+                </li>
+                <li class="frontMenu">  <!--  --> 
+                    <a href="" title="招生就业">招生就业</a>
+                    <ul>   <!-- class="sub-nav"  -->
+                        <li>
+                              <a href="https://www.guet.edu.cn/jy/" title="毕业生就业网">毕业生就业网</a>
+                        </li>
+                        <li>
+                              <a href="http://www.guet.edu.cn/zs/" title="招生信息网">招生信息网</a>
+                        </li>
+                        <li>
+                              <a href="http://www.guet.edu.cn/yjszs/index.htm" title="研究生招生">研究生招生</a>
+                        </li>
+                    </ul>
+                </li>
+                <li class="frontMenu">  <!--  --> 
+                    <a href="https://www.guet.edu.cn/gdbh" title="北海校区">北海校区</a>
+                </li>
+                <li class="frontMenu">  <!--  --> 
+                    <a href="../../xshy.htm" title="学术会议">学术会议</a>
+                    <ul>   <!-- class="sub-nav"  -->
+                        <li>
+                              <a href="http://www.guet.edu.cn/icaci/" title="ICACI 2019">ICACI 2019</a>
+                        </li>
+                        <li>
+                              <a href="http://math.shu.edu.cn/mime2019/ " title="MIME2019">MIME2019</a>
+                        </li>
+                        <li>
+                              <a href="https://s.wcd.im/v/39o1sZ3b/?slv=2&sid=e1of" title="NRPS'2019">NRPS'2019</a>
+                        </li>
+                        <li>
+                              <a href="http://www.thermophysics.cn/?from=singlemessage" title="CSET2019">CSET2019</a>
+                        </li>
+                    </ul>
+                </li>
+                <li class="frontMenu">  <!--  --> 
+                    <a href="https://www.guet.edu.cn/rsc/list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1105" title="诚聘英才">诚聘英才</a>
+                </li>
+                <li class="frontMenu">  <!--  --> 
+                    <a href="../../rcpy.htm" title="人才培养">人才培养</a>
+                    <ul>   <!-- class="sub-nav"  -->
+                        <li>
+                              <a href="https://www.guet.edu.cn/zs/" title="本科招生 ">本科招生 </a>
+                        </li>
+                        <li>
+                              <a href="http://utsc.guet.edu.cn/" title="本科教育 ">本科教育 </a>
+                        </li>
+                        <li>
+                              <a href="http://www.guet.edu.cn/gra/index.htm?tdsourcetag=s_pctim_aiomsg" title="研究生教育 ">研究生教育 </a>
+                        </li>
+                        <li>
+                              <a href="http://i.guet.edu.cn/new/" title="桂电信科院">桂电信科院</a>
+                        </li>
+                        <li>
+                              <a href="http://gdzy.guet.edu.cn/zsjy/index.asp" title="专科招生 ">专科招生 </a>
+                        </li>
+                        <li>
+                              <a href="http://219.159.198.136/" title="专科教育 ">专科教育 </a>
+                        </li>
+                    </ul>
+                </li>
+                <li class="frontMenu">  <!--  --> 
+                    <a href="https://www.guet.edu.cn/guet60" title="校庆60">校庆60</a>
+                </li>
+                <li class="frontMenu">  <!--  --> 
+                    <a href="../../cylj.htm" title="常用链接">常用链接</a>
+                    <ul>   <!-- class="sub-nav"  -->
+                        <li>
+                              <a href="https://sslvpn.guet.edu.cn/" title="校外VPN访问">校外VPN访问</a>
+                        </li>
+                        <li>
+                              <a href="http://szhxy.guet.edu.cn" title="数字化校园">数字化校园</a>
+                        </li>
+                        <li>
+                              <a href="http://gldz.cbpt.cnki.net/WKD/WebPublication/index.aspx?mid=GLDZ" title="学报">学报</a>
+                        </li>
+                    </ul>
+                </li>
+            </ul><!--#endeditable--></div>
+
+    </div>
+
+    <!--主体内容-->
+    <div class="content">
+        <div class="search-l">
+            <div class="searchtop">公共搜索</div>
+            <div class="sear">
+               <!--#begineditable name="简单检索1" viewid="160219" tagname="简单检索1" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp="true"-->
+
+
+
+
+
+				<form action="../../search.jsp?wbtreeid=1152" method="post" name="a160219a" onsubmit="return subsearchdataa160219a()" style="display: inline;">
+  <input type="hidden" name="Find" value="find"><input type="hidden" name="entrymode" value="1"><input type="hidden" id="INTEXT2" name="INTEXT2" value=""><input type="hidden" name="news_search_code">
+                <iframe id="intextframea160219a" src="about:blank" scrolling="no" frameborder="0" style="position:absolute;top:0px;left:0px;display:none;"></iframe>
+                <input name="INTEXT" id="qText" type="text" class="float-l sear_word sear_180" placeholder="查询关键字" value="" style="margin-left:3px; padding-left:10px; width:160px;border-radius:5px" />
+                 <input type="submit" name="FindButton" align="absmiddle" valign="bottom" value="" class="float-l sear_button">
+</form>
+
+<script>
+String.prototype.trim= function()       
+{              
+    var t = this.replace(/(^\s*)|(\s*$)/g, "");     
+    return t.replace(/(^　*)|(　*$)/g, "");     
+}  
+function subsearchdataa160219a()
+{ 
+    if(document.a160219a.INTEXT.value.trim()=="")
+    {
+        alert("请输入查询关键字！");
+        return false;
+    }
+    if(checkDataa160219a(document.a160219a))
+    {
+       return true;  
+    }
+    return false;
+}       
+</script>
+
+    <script> 
+    function checkDataa160219a(formname)
+    {
+        if(a160219a.INTEXT.value.trim()=="")
+        {
+            alert("请输入查询关键字！");
+            return false;
+        }       
+        var  base64 = new Base64();
+        if(window.toFF==1)
+            {
+                var ssvalue = a160219a.INTEXT.value;
+                document.a160219a.INTEXT2.value = base64.encode(Simplized(ssvalue));
+            }else
+            document.a160219a.INTEXT2.value = base64.encode(document.a160219a.INTEXT.value);
+           return true;
+    }
+    </script>
+ 
+<!--#endeditable-->
+
+            </div>
+
+        </div>
+
+        <!--#begineditable name="文章内容" viewid="160220" tagname="文章内容" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp="true"-->
+<script language="javascript" src="../../_dwr/interface/NewsvoteDWR.js"></script><script language="javascript" src="../../_dwr/engine.js"></script><script language="javascript" src="/system/resource/js/news/newscontent.js"></script><script type="text/javascript">NewsvoteDWR.getNewsLinkUrl(52179,'1403602354','vsb',newsSkip);function newsSkip(data){if(data != ""){window.location.href = data;}}</script><LINK href="/system/resource/js/photoswipe/3.0.5.1/photoswipe.css" type="text/css" rel="stylesheet"><script language="javascript" src="/system/resource/js/photoswipe/3.0.5.1/klass.min.js"></script><LINK href="/system/resource/style/component/news/content/format4.css" type="text/css" rel="stylesheet"><script language="javascript" src="/system/resource/js/ajax.js"></script><form name="_newscontent_fromname"><script language="javascript" src="/system/resource/js/jquery/jquery-latest.min.js"></script>
+<div class="content-r">
+            <input id="Id" type="hidden" value="21313" />
+            <div id="newTitle"><h1>副校长周娅到教学实践部检查指导工作（图）</h1></div>
+            <hr />
+            <div id="newscontent-tool" style="width:100%">
+                <div style="width:65%;float: left;margin-left:20px">
+                    <span class="page-tool-i newsPublish" id="newsPublish">发布时间：2020年04月05日 18时02分 <!--&nbsp;&nbsp;点击数：<script>_showDynClicks("wbnews", 1403602354, 52179)</script>--></span>
+                </div>
+                <div style="width:30%;float: right;text-align:right">
+                   <!--
+                    <span class="page-tool-i fa fa-thumbs-o-up  fa fa-lg" title="顶">
+                        <a href="javascript:;" onclick="updateWebContentCount('Agree')">顶<span class="commentCount" id="commentCountThumbsUp"><script>_showDynClicks("wbnews", 1403602354, 52179)</script></span></a>
+
+                    </span>
+
+                    <span class="page-tool-i  fa fa-thumbs-o-down fa-lg" title="踩">
+                        <a href="javascript:;" onclick="updateWebContentCount('Disagree')">踩<span class="commentCount" id="commentCountThumbsDown">0</span></a>
+
+                    </span>
+                    -->
+                    <span class="page-tool-i fa fa-star fa-lg" title="收藏本文">
+
+                        <a href="javascript:;" onclick="updateWebContentCount('FavoriteCount')"><script>
+        function dosubc160220()
+        {
+            try{
+                var ua = navigator.userAgent.toLowerCase();
+                if(ua.indexOf("msie 8")>-1)
+                {
+                    window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE8
+                }else{
+                    if (document.all) 
+                    {
+                        window.external.addFavorite(document.location.href, document.title);
+                    }else if(window.sidebar)
+                    {
+                        window.sidebar.addPanel( document.title, document.location.href, "");//firefox
+                    }
+                }
+        
+            }
+            catch (e){alert("无法自动添加到收藏夹，请使用 Ctrl + d 手动添加");}
+        }</script>
+        <a href="javascript:window.print()">打印</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="javascript:dosubc160220()">收藏</a></a>
+                    </span>
+                </div>
+            </div>
+    <div style="clear:both"></div>
+    <div id="vsb_content_4" id="newsContent" style="margin-top: 10px; position: static; zoom: 1;font-size:16px;line-height:35px;"><p class="vsbcontent_start">4月1日下午，副校长周娅到教学实践部检查指导疫情防控期间实践教学工作，教务处相关部门负责人随同。</p>
+<p>教学实践部汇报了目前线上教学开展情况及复学后的安排计划，周娅副校长就如何保障实践教学质量、实践教学如何做好线上线下衔接等工作提出了要求，并对复学准备的相关事宜进行了强调。</p>
+<p class="vsbcontent_end">（供稿：教学实践部 钟思 周学林 审稿：宣传部 冼欣宜）</p>
+<p class="vsbcontent_img">
+ <img width="500" src="/__local/6/FD/AE/D2566CCB168CDB41E6077D61B0A_B0D13A00_3B352.jpg" vsbhref="vurl" vurl="/_vsl/6FDAED2566CCB168CDB41E6077D61B0A/B0D13A00/3B352" vheight="" vwidth="500" orisrc="/__local/B/70/9D/6C7A1AE281832CF00AB556AE222_35F9B950_CE676.jpg" class="img_vsb_content"></p></div><div id="div_vote_id"></div>
+    <div style="height:55px;"></div>
+    
+         <hr>
+<div>
+     <div style="float:left;">    <p align="left" style="text-indent:0px; line-height: 25px; font-size: 13px;">
+        上一条：<a href="52192.htm"> 后勤处有序推进开学前校园卫生清洁及预防性消毒工作（图）</a><br>
+        下一条：<a href="52177.htm">【疫情防控】学校开展疫情防控知识培训暨应急演练（图）</a>
+    </p></div>
+    <div style="float:right;"><!--   --> <p align="right" style="font-size:13px;"> <a href="javascript:window.print()">【打印新闻】</a>
+    <a href="javascript:window.opener=null;window.open('','_self');window.close();">【关闭】</a>
+    
+    </p> </div></div>
+        </div>
+</form><!--#endeditable-->
+    </div>
+     
+
+    <div class="footer">
+  <div class="footercenter"><span><!--#begineditable name="版权" viewid="160212" tagname="版权" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--><!-- 版权内容请在本组件"内容配置-版权"处填写 -->
+<p>©版权所有：桂林电子科技大学　校址：中国广西桂林金鸡路1号　邮编：541004　传真：0773-2290083</p><p style="text-align: center;height:20px;line-height:20px;margin: 0px 0px 0px 5px;"><a href="http://www.beian.miit.gov.cn" target="_blank">桂ICP备05000961号</a>&nbsp; &nbsp; <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=45030502000232" style="display:inline-block;text-decoration:none;height:20px;line-height:20px"><img src="/__local/D/02/89/DC0A46FC5B15B3363FFA78CF6C7_C267B386_4B38.png" />桂公网安备45030502000232号</a>&nbsp;<br /></p><!--#endeditable--></span><a class="blue_error" href="../..//bszs.conac.cn/sitename?method=show&id=17A7818D2EE94AB9E053012819ACB5C4" target="_blank"><img alt="" src="../../images/blue_error.png" width="80" height="80"> </a></div>
+</div>
+
+    <script type="text/javascript" src="../../js/jquery.min.js"></script>
+    <script src="../../js/Webmain.js"></script>
+    <script>
+
+
+        function SearchNews() {
+            var qText = $("#qText").val();
+            if (!qText) {
+                alert('请输入要查询的关键字！');
+                return;
+            }
+            window.location.href = "/ListAndDetail?qText=" + qText;
+        }
+
+        //顶部导航菜单
+        $('li.frontMenu').hover(
+            function () {
+                $(this).find('a:first').addClass("hover");
+                var current_li = $(this);
+                NavWaitSlide = setTimeout(function () {
+                    if (!$(current_li).children('ul').is(':visible')) {
+                        $(current_li).find('ul').slideDown(200);
+                    }
+                }, 100)
+            },
+            function () {
+                clearTimeout(NavWaitSlide);
+                $(this).find('ul').slideUp(100);
+                $(this).find('a:first').removeClass("hover");
+            }
+        );
+
+    </script>
+    <script src="../../lib/Page/jquery.pagination.js"></script>
+    
+    <script>
+        $(document).ready(function () {
+            if ($("#qNewListText").val()) {
+                queryNewsType()
+            }
+            
+
+        });
+
+        
+    </script>
+</body>
+</html>

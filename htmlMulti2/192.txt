@@ -1,0 +1,64 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+"http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+<meta name="description" content="description"/>
+<meta name="keywords" content="keywords"/> 
+<meta name="author" content="author"/> 
+<link rel="stylesheet" type="text/css" href="default.css" media="screen"/>
+<title>图书馆自助服务系统</title>
+<style type="text/css">
+<!--
+.STYLE1 {color: #CC6633}
+-->
+</style>
+</head>
+<body>
+<div class="container">
+
+	<div class="title">
+		<img src="unifoundimg/unifound1.jpg"/>
+		
+		<h2>- 图书馆自助服务系统 -</h2>
+	</div>
+
+	<div class="navigation">
+                <a href="fine.html">图书欠费<br/>FINE</a>
+		<a href="scan.html">自助扫描<br/>SCAN</a>
+		<a href="copy.html">自助复印<br/>COPY</a>
+		<a href="print.html">自助打印<br/>PRINT</a>
+		<div class="clearer"><span></span></div>
+	</div>
+
+	<div class="holder_top"></div>
+  <div class="holder">
+	
+		<h5><img src="unifoundimg/image030.jpg"/>各位读者，为了给您提供更为简单便捷的自助式打印、复印、扫描等系列服务，本校图书馆与杭州联创信息技术有限公司携手推出图书馆自助服务系统。现已正式启用，欢迎您的使用！<br>
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;如果您是使用个人电脑进行打印，首次使用请您先下载 <a href="http://www.guet.edu.cn/lib/software/printer.rar">联创自助打印驱动程序</a>，在机器上进行安装。</h5>
+		<p><br/>
+		    <br/>
+		  <br/>
+		  <br/>
+		    <cite>1.校园自助打印<br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;校园自助打印实行全程无人化管理。各位读者可在校园内任意一台装有打印客户端的机器上进行打印，并在任意一台装有本系统刷卡端的机器上，方便地使用校园卡进行自助刷卡缴费，并取走所打印的文档。 </cite>
+		    <cite>2.校园自助复印<br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;校园自助复印全程实行复印无人化管理。各位读者可在校园内任意一台装有本系统刷卡端的机器上，使用校园卡进行刷卡确定开始复印，并在复印机上完成复印任务、刷卡完成缴费。 </cite>
+		    <cite>3.校园自助扫描<br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;校园自助扫描全程实行扫描无人化管理。各位读者可在校园内任意一台装有本系统刷卡端的机器上，使用校园卡进行刷卡确定开始扫描，完成扫描任务后，刷卡完成缴费。您扫描的文档将自动发送到您注册的邮箱。 </cite>
+                    <cite>4.校园图书欠费<br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;校园图书欠费缴费真正实现图书超期缴费无人化管理。全校师生可在校园内任意一台自助打印复印一体机上，方便地选择超期缴费功能项，使用校园卡进行刷卡确定对某本图书欠费图书进行缴费，自助扣除缴费金额。</cite></p>
+ </div>
+	<div class="holder_bottom"></div>
+
+	<div class="holder_top"></div>
+	<div class="holder">
+		<div class="footer">&copy; 技术支持：杭州联创信息技术有限公司 技术支持部<br/> 
+		厂商：杭州联创信息技术有限公司 电话：0571-88859569 87755571 
+		</div>
+	</div>
+	<div class="holder_bottom"></div>
+
+</div>
+</body>
+</html>

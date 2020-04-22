@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+        <meta charset="utf-8">
+        <title>11th International Conference on Advanced Computational Intelligence</title><META Name="keywords" Content="ICACI,ICACI" />
+
+        <link rel="stylesheet" href="css/demo.css">
+        <script src="js/jquery.min.js" type="text/javascript"></script>
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="index.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1453413310)</script>
+</head>
+
+<body>
+<div id="header">
+        <div class="MainPage-img">
+            <img src="img/11mainPage.jpg" width="1500px" height="300px">
+                <div class="MainPage-title">11th International Conference on Advanced Computational Intelligence </div>
+                <div class="MainPage-time">June 7-9, 2019; Guilin, China</div>
+        </div>            
+</div>
+
+
+<nav id="index-nav">
+<table>
+  <tr>
+    <td class="inner-nav" color="red" data-index="0"><a class="to-page" data-href="VicePage/Home.html">Home</a></td>
+    <td class="inner-Sep">|</td>
+    <td class="inner-nav" data-index="1"><a class="to-page" data-href="VicePage/News.html">News</a></td>
+    <td class="inner-Sep">|</td>
+    <td class="inner-nav" data-index="2"><a class="to-page" data-href="VicePage/Sponsors.html">Sponsors</a></td>
+    <td class="inner-Sep">|</td>
+    <td class="inner-nav" data-index="3"><a class="to-page" data-href="VicePage/Committees.html">Committees</a></td>
+    <td class="inner-Sep">|</td>
+    <td class="inner-nav" data-index="4"><a class="to-page" data-href="VicePage/Important_Date.html">Important Date</a></td>
+    <td class="inner-Sep">|</td>
+    <td class="inner-nav" data-index="5"><a class="to-page" data-href="VicePage/Plenary_speakers.html">Plenary Speakers</a></td>
+    <td class="inner-Sep">|</td>
+    <td class="inner-nav" data-index="6"><a class="to-page" data-href="VicePage/Submission.html">Submission</a></td>
+    <td class="inner-Sep">|</td>
+    <td class="inner-nav" data-index="7"><a class="to-page" data-href="VicePage/Registration.html">Registration</a></td>
+    <td class="inner-Sep">|</td>
+    <td class="inner-nav" data-index="8"><a class="to-page" data-href="VicePage/Program.html">Program</a></td>
+    <td class="inner-Sep">|</td>
+    <td class="inner-nav" data-index="9"><a class="to-page" data-href="VicePage/Venue.html">Venue</a></td>
+    <td class="inner-Sep">|</td>
+    <td class="inner-nav" data-index="10"><a class="to-page" data-href="VicePage/Accommodation.html">Accommodation</a></td>
+    <td class="inner-Sep">|</td>
+    <td class="inner-nav" data-index="11"><a class="to-page" data-href="VicePage/Sightseeing.html">Sightseeing</a></td>
+    <td class="inner-Sep">|</td>
+    <td class="inner-nav" data-index="12"><a class="to-page" data-href="VicePage/History.html">History</a></td>
+    <td class="inner-Sep">|</td>
+    <td class="inner-nav" data-index="13"><a class="to-page" data-href="VicePage/Contact.html">Contact</a></td>
+  </tr>
+</table>    
+</nav>
+
+<iframe height="750px" id="page-container" width="1520px" src="VicePage/Home.html" name="main" frameborder="0" marginheight="0" marginwidth="0" style="display: block;margin: 0 auto;padding-left: 20px;"></iframe>
+
+
+<footer>
+        <div id="footer-div">GuiLin University of Electronic Technology </div></footer>
+</body>
+<script src="js/demo.js"></script>
+</html>

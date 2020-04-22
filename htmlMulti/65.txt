@@ -1,0 +1,723 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html><head><title>桂林电子科技大学保密工作网</title><META Name="keywords" Content="桂林电子科技大学保密工作网" />
+
+
+
+
+
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="index.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/vsbscreen.min.js" id="_vsbscreen" devices="pc|mobile|pad"></script>
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1411831791)</script>
+</head>
+<body>
+<style type="text/css">
+<!--
+body,td,th {
+    font-family: 宋体;
+    font-size: 12px;}
+body {
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    background-repeat: repeat-x;
+    background-position:top;}
+a:link{text-decoration:none; color:#000000;}
+a:visited{text-decoration:none; color:#000000;}
+.boraLL{border:1px solid #c3c3c3;}
+.margin6{margin-top:8px;}
+.pad5{padding:5PX;}
+.bgonR{background-repeat:no-repeat;}
+.padL9{padding-left:9px;}
+.pad1{padding:1PX;}
+H2{font-size:12px; font-family:"宋体"; color:#FFFFFF; margin:0px 0px 0px 0px ; padding:0px 0px 0px 0px;}
+.bgR{background:url(images/lz_rightTopR.gif) no-repeat right; padding-right:15px;}
+.borderFoot{border-bottom:1px solid #c3c3c3;}
+.padR15{padding-right:15px;}
+.footerLbg{background:url(images/footerLbg.jpg) no-repeat left;}
+-->
+</style>
+
+<table border="0" cellspacing="0" cellpadding="0" width="1002" background="images/bodyAllbg.jpg" align="center">
+<tbody>
+<tr>
+<td valign="top" width="9"></td>
+<td valign="top">
+<table border="0" cellspacing="0" cellpadding="0" width="980" align="center">
+<tbody>
+<tr>
+<td height="211" background="images/nmj_top_t02.jpg" style="padding-left: 48px"></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0" width="980" align="center">
+<tbody>
+<tr>
+<td height="33" background="images/lanmuBG.gif" align="center"><!--#begineditable name="网站导航" viewid="17955" tagname="网站导航" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--><style type="text/css">
+td.b1_0_{FONT-SIZE:9pt;}
+td.b2_0_{FONT-SIZE:9pt;}
+td.b3_0_{FONT-SIZE:9pt;BACKGROUND-COLOR: #eff8fe;}
+td.b4_0_{FONT-SIZE:9pt;BACKGROUND-COLOR: #e8f0fb;}
+a.menu0_0_:link {TEXT-DECORATION: none;};
+a.menu0_0_:visited { TEXT-DECORATION: none;};
+a.menu0_0_:hover {TEXT-DECORATION: none;};
+a.menu0_0_:active {TEXT-DECORATION: none;};
+table.tb1_0_{FONT-SIZE:9pt;border:0;}
+span.s1_0_{COLOR: #fffeeb;FONT-SIZE: 14px;FONT-WEIGHT: bold;TEXT-DECORATION: none;}
+span.s2_0_{FONT-SIZE: 9pt;COLOR: #cc0000;LINE-HEIGHT: 160%;}
+span.s10_0_{COLOR: #fffeeb;FONT-SIZE: 14px;FONT-WEIGHT: bold;TEXT-DECORATION: none;}
+span.s20_0_{FONT-SIZE: 9pt;COLOR: #222222;LINE-HEIGHT: 160%;}
+</style>
+<SCRIPT language="javascript"> 
+ var showfix_0_ = 1;
+ var isvertical_0_ = false;
+</SCRIPT>
+<script language="javascript" src="/system/resource/js/menu/text.js"></script>
+<TABLE id="t1_0_" cellSpacing="0" cellPadding="0" border="0" height="0" width="900"><TR><TD valign="center"></TD><TD valign="middle" height="0" width="0" nowrap class="b1_0_" align="center" id="a_0_1001" onmouseover="tshowLayers('1001','b2_0_', '_0_')" onmouseout="thideLayers('1001','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="index.htm"><span class="fontstyle17955">&nbsp;首页&nbsp;</span></a></TD><TD valign="center" class="leaderfont17955">|</TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1002" onmouseover="tshowLayers('1002','b2_0_', '_0_')" onmouseout="thideLayers('1002','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="infor.jsp?urltype=tree.TreeTempUrl&wbtreeid=1002"><span class="fontstyle17955">&nbsp;机构职能&nbsp;</span></a></TD><TD valign="center" class="leaderfont17955">|</TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1009" onmouseover="tshowLayers('1009','b2_0_', '_0_')" onmouseout="thideLayers('1009','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="infor.jsp?urltype=tree.TreeTempUrl&wbtreeid=1009"><span class="fontstyle17955">&nbsp;工作动态&nbsp;</span></a></TD><TD valign="center" class="leaderfont17955">|</TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1003" onmouseover="tshowLayers('1003','b2_0_', '_0_')" onmouseout="thideLayers('1003','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="infor.jsp?urltype=tree.TreeTempUrl&wbtreeid=1003"><span class="fontstyle17955">&nbsp;政策法规&nbsp;</span></a></TD><TD valign="center" class="leaderfont17955">|</TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1004" onmouseover="tshowLayers('1004','b2_0_', '_0_')" onmouseout="thideLayers('1004','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="infor.jsp?urltype=tree.TreeTempUrl&wbtreeid=1004"><span class="fontstyle17955">&nbsp;宣传教育&nbsp;</span></a></TD><TD valign="center" class="leaderfont17955">|</TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1008" onmouseover="tshowLayers('1008','b2_0_', '_0_')" onmouseout="thideLayers('1008','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="infor.jsp?urltype=tree.TreeTempUrl&wbtreeid=1008"><span class="fontstyle17955">&nbsp;办事指南&nbsp;</span></a></TD><TD valign="center" class="leaderfont17955">|</TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1005" onmouseover="tshowLayers('1005','b2_0_', '_0_')" onmouseout="thideLayers('1005','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="infor.jsp?urltype=tree.TreeTempUrl&wbtreeid=1005"><span class="fontstyle17955">&nbsp;下载专区&nbsp;</span></a></TD></TR></TR></table><!--#endeditable--></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0" width="968" align="center">
+<tbody>
+<tr>
+<td valign="top">
+
+<table width="960" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td height="12">&nbsp;</td>
+    <td></td>
+    <td>&nbsp;</td>
+    <td></td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="363" height="38" background="images/tzgg.jpg">
+    
+    <table width="350" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="280"></td>
+          <td align="right"><a href="infor.jsp?urltype=tree.TreeTempUrl&wbtreeid=1011"><span style="font-size: 12px; color: #fff">更多&gt;&gt;</span></a></td>
+        </tr>
+      </table>
+    
+    </td>
+    <td width="10">&nbsp;</td>
+    <td width="363" background="images/gztt.jpg">
+    
+    <table width="350" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="280"></td>
+          <td align="right"><a href="infor.jsp?urltype=tree.TreeTempUrl&wbtreeid=1009"><span style="font-size: 12px; color: #fff">更多&gt;&gt;</span></a></td>
+        </tr>
+      </table>
+    
+    </td>
+    <td width="10"></td>
+    <td width="214" background="images/xzzq.JPG"><table width="214" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="160"></td>
+          <td align="right"><a href="infor.jsp?urltype=tree.TreeTempUrl&wbtreeid=1005"><span style="font-size: 12px; color: #fff">更多&gt;&gt;</span></a>&nbsp;&nbsp;</td>
+        </tr>
+      </table></td>
+  </tr>
+  <tr>
+    <td><table border="0" cellspacing="5" cellpadding="0" width="100%" bgcolor="#ffffff" align="center" style="border-bottom: #76c0fd 1px solid;border-left: #76c0fd 1px solid;border-right: #76c0fd 1px solid">
+<tbody>
+<tr>
+<td height="174" valign="top"><!--#begineditable name="通知公告" viewid="201054" tagname="通知公告" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--><table width="100%" cellspacing="2" cellpadding="2">
+  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont201054"><img src="images/bmjsjt.jpg" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1011/1421.htm" class="c201054" title="关于组织收看反奸防谍宣传教育资料的通知" target="_blank">
+        关于组织收看反奸防谍宣传教育资料的通知
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle201054" width="1%" nowrap></td></tr><tr><td colspan="4" height="0" style="background-image:url(images/bmj_xx.jpg)"></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont201054"><img src="images/bmjsjt.jpg" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1011/1412.htm" class="c201054" title="关于原中国人民解放军特种作战学院刘晓光教授来校讲学的通知" target="_blank">
+        关于原中国人民解放军特种作战学院刘晓光教授来...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle201054" width="1%" nowrap></td></tr><tr><td colspan="4" height="0" style="background-image:url(images/bmj_xx.jpg)"></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont201054"><img src="images/bmjsjt.jpg" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1011/1411.htm" class="c201054" title="学校保密委员会关于开展2019年下半年保密检查的通知" target="_blank">
+        学校保密委员会关于开展2019年下半年保密检查的...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle201054" width="1%" nowrap></td></tr><tr><td colspan="4" height="0" style="background-image:url(images/bmj_xx.jpg)"></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont201054"><img src="images/bmjsjt.jpg" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1011/1401.htm" class="c201054" title="关于开展保密违法案例警示教育的通知" target="_blank">
+        关于开展保密违法案例警示教育的通知
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle201054" width="1%" nowrap></td></tr><tr><td colspan="4" height="0" style="background-image:url(images/bmj_xx.jpg)"></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont201054"><img src="images/bmjsjt.jpg" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1011/1391.htm" class="c201054" title="关于原中国人民解放军特种作战学院李岩教授来校讲学的通知" target="_blank">
+        关于原中国人民解放军特种作战学院李岩教授来校...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle201054" width="1%" nowrap></td></tr><tr><td colspan="4" height="0" style="background-image:url(images/bmj_xx.jpg)"></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont201054"><img src="images/bmjsjt.jpg" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1011/1011.htm" class="c201054" title="关于收看反奸防谍宣传片的通知" target="_blank">
+        关于收看反奸防谍宣传片的通知
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle201054" width="1%" nowrap></td></tr><tr><td colspan="4" height="0" style="background-image:url(images/bmj_xx.jpg)"></td></tr>
+</table><!--#endeditable--></td></tr></tbody></table></td>
+    <td>&nbsp;</td>
+    <td><table border="0" cellspacing="5" cellpadding="0" width="100%" bgcolor="#ffffff" align="center" style="border-bottom: #76c0fd 1px solid;border-left: #76c0fd 1px solid;border-right: #76c0fd 1px solid">
+      <tbody>
+        <tr>
+          <td height="174" valign="top"><!--#begineditable name="工作动态" viewid="201066" tagname="工作动态" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--><table width="100%" cellspacing="2" cellpadding="2">
+  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont201066"><img src="images/bmjsjt.jpg" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1009/1226.htm" class="c201066" title="学校保密委组织收看反奸防谍宣传片（图）" target="_blank">
+        学校保密委组织收看反奸防谍宣传片（图）
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle201066" width="1%" nowrap></td></tr><tr><td colspan="4" height="0" style="background-image:url(images/bmj_xx.jpg)"></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont201066"><img src="images/bmjsjt.jpg" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1009/1228.htm" class="c201066" title="学校保密委开展保密工作检查" target="_blank">
+        学校保密委开展保密工作检查
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle201066" width="1%" nowrap></td></tr><tr><td colspan="4" height="0" style="background-image:url(images/bmj_xx.jpg)"></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont201066"><img src="images/bmjsjt.jpg" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1009/1227.htm" class="c201066" title="学校举办国家安全形势讲座" target="_blank">
+        学校举办国家安全形势讲座
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle201066" width="1%" nowrap></td></tr><tr><td colspan="4" height="0" style="background-image:url(images/bmj_xx.jpg)"></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont201066"><img src="images/bmjsjt.jpg" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1009/1229.htm" class="c201066" title="我校组织开展2018年下半年军工保密教育培训（图）" target="_blank">
+        我校组织开展2018年下半年军工保密教育培训（图...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle201066" width="1%" nowrap></td></tr><tr><td colspan="4" height="0" style="background-image:url(images/bmj_xx.jpg)"></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont201066"><img src="images/bmjsjt.jpg" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1009/1231.htm" class="c201066" title="我校开展保密常见问题及对策措施专题讲座" target="_blank">
+        我校开展保密常见问题及对策措施专题讲座
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle201066" width="1%" nowrap></td></tr><tr><td colspan="4" height="0" style="background-image:url(images/bmj_xx.jpg)"></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont201066"><img src="images/bmjsjt.jpg" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1009/1230.htm" class="c201066" title="学校召开2018年保密委员会第一次工作会议(图)" target="_blank">
+        学校召开2018年保密委员会第一次工作会议(图)
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle201066" width="1%" nowrap></td></tr><tr><td colspan="4" height="0" style="background-image:url(images/bmj_xx.jpg)"></td></tr>
+</table><!--#endeditable--></td>
+        </tr>
+      </tbody>
+    </table></td>
+    <td></td>
+    <td><table border="0" cellspacing="5" cellpadding="0" width="100%" bgcolor="#ffffff" align="center" style="border-bottom: #76c0fd 1px solid;border-left: #76c0fd 1px solid;border-right: #76c0fd 1px solid">
+      <tbody>
+        <tr>
+          <td height="174" valign="top"><!--#begineditable name="下载专区" viewid="201056" tagname="下载专区" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--><table width="100%" cellspacing="3" cellpadding="2">
+  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont201056"><img src="images/bmj_xt.jpg" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1005/1385.htm" class="c201056" title="涉密研究生保密资格审查表（修改）" target="_blank">
+        涉密研究生保密资格审查...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle201056" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont201056"><img src="images/bmj_xt.jpg" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1005/1384.htm" class="c201056" title="涉密研究生保密协议（修改）" target="_blank">
+        涉密研究生保密协议（修改）
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle201056" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont201056"><img src="images/bmj_xt.jpg" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1005/1299.htm" class="c201056" title="五法普法手册" target="_blank">
+        五法普法手册
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle201056" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont201056"><img src="images/bmj_xt.jpg" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1005/1300.htm" class="c201056" title="桂林电子科技大学涉密研究生毕业离岗审查表及保密协议书" target="_blank">
+        桂林电子科技大学涉密研...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle201056" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont201056"><img src="images/bmj_xt.jpg" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1005/1303.htm" class="c201056" title="各部门季度保密学习记录表" target="_blank">
+        各部门季度保密学习记录表
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle201056" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont201056"><img src="images/bmj_xt.jpg" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1005/1309.htm" class="c201056" title="关于同意申报出入境证件的函因私出国" target="_blank">
+        关于同意申报出入境证件...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle201056" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont201056"><img src="images/bmj_xt.jpg" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1005/1307.htm" class="c201056" title="涉密人员因私出国审批表" target="_blank">
+        涉密人员因私出国审批表
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle201056" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont201056"><img src="images/bmj_xt.jpg" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1005/1305.htm" class="c201056" title="行前保密教育及归国访谈因私出国" target="_blank">
+        行前保密教育及归国访谈...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle201056" width="1%" nowrap></td></tr>
+</table><!--#endeditable--></td>
+        </tr>
+      </tbody>
+    </table></td>
+  </tr>
+</table>
+
+<table width="960" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td height="12">&nbsp;</td>
+    <td></td>
+    <td>&nbsp;</td>
+    <td></td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="363" height="32" background="images/xcjy.JPG">
+    
+    <table width="350" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="280"></td>
+          <td align="right"><a href="infor.jsp?urltype=tree.TreeTempUrl&wbtreeid=1004"><span style="font-size: 12px; color: #000">更多&gt;&gt;</span></a></td>
+        </tr>
+      </table>
+    
+    </td>
+    <td width="10">&nbsp;</td>
+    <td width="363" background="images/zcfg.JPG">
+    
+    <table width="350" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="280"></td>
+          <td align="right"><a href="infor.jsp?urltype=tree.TreeTempUrl&wbtreeid=1003"><span style="font-size: 12px; color: #000">更多&gt;&gt;</span></a></td>
+        </tr>
+      </table>
+    
+    </td>
+    <td width="10"></td>
+    <td width="214" background="images/tzgg11.JPG"></td>
+  </tr>
+  <tr>
+    <td><table border="0" cellspacing="5" cellpadding="0" width="100%" bgcolor="#ffffff" align="center" style="border-bottom: #76c0fd 1px solid;border-left: #76c0fd 1px solid;border-right: #76c0fd 1px solid">
+<tbody>
+<tr>
+<td height="174" valign="top"><!--#begineditable name="宣传教育" viewid="201068" tagname="宣传教育" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--><table width="100%" cellspacing="2" cellpadding="2">
+  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont201068"><img src="images/bmjsjt.jpg" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1004/1416.htm" class="c201068" title="网络安全等级保护新国标公布 要求云计算平台运维设在中国境内" target="_blank">
+        网络安全等级保护新国标公布 要求云计算平台运维...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle201068" width="1%" nowrap></td></tr><tr><td colspan="4" height="0" style="background-image:url(images/bmj_xx.jpg)"></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont201068"><img src="images/bmjsjt.jpg" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1004/1414.htm" class="c201068" title="他们被境外间谍机构策反，案情触目惊心" target="_blank">
+        他们被境外间谍机构策反，案情触目惊心
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle201068" width="1%" nowrap></td></tr><tr><td colspan="4" height="0" style="background-image:url(images/bmj_xx.jpg)"></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont201068"><img src="images/bmjsjt.jpg" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1004/1413.htm" class="c201068" title="境外间谍窃取国家机密，阴谋策反多名大学生！" target="_blank">
+        境外间谍窃取国家机密，阴谋策反多名大学生！
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle201068" width="1%" nowrap></td></tr><tr><td colspan="4" height="0" style="background-image:url(images/bmj_xx.jpg)"></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont201068"><img src="images/bmjsjt.jpg" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1004/1249.htm" class="c201068" title="《国家情报法》要求中企配合政府窃密？外交部以4点事实回应" target="_blank">
+        《国家情报法》要求中企配合政府窃密？外交部以4...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle201068" width="1%" nowrap></td></tr><tr><td colspan="4" height="0" style="background-image:url(images/bmj_xx.jpg)"></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont201068"><img src="images/bmjsjt.jpg" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1004/1250.htm" class="c201068" title="的哥发现外国间谍逗留军事禁区 及时举报获奖金" target="_blank">
+        的哥发现外国间谍逗留军事禁区 及时举报获奖金
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle201068" width="1%" nowrap></td></tr><tr><td colspan="4" height="0" style="background-image:url(images/bmj_xx.jpg)"></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont201068"><img src="images/bmjsjt.jpg" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1004/1251.htm" class="c201068" title="德军为防泄密禁止士兵自行修理装备 连看都不行" target="_blank">
+        德军为防泄密禁止士兵自行修理装备 连看都不行
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle201068" width="1%" nowrap></td></tr><tr><td colspan="4" height="0" style="background-image:url(images/bmj_xx.jpg)"></td></tr>
+</table><!--#endeditable--></td></tr></tbody></table></td>
+    <td>&nbsp;</td>
+    <td><table border="0" cellspacing="5" cellpadding="0" width="100%" bgcolor="#ffffff" align="center" style="border-bottom: #76c0fd 1px solid;border-left: #76c0fd 1px solid;border-right: #76c0fd 1px solid">
+      <tbody>
+        <tr>
+          <td height="174" valign="top"><!--#begineditable name="政策法规" viewid="201069" tagname="政策法规" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--><table width="100%" cellspacing="2" cellpadding="2">
+  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont201069"><img src="images/bmjsjt.jpg" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1003/1417.htm" class="c201069" title="泄密案件查处办法" target="_blank">
+        泄密案件查处办法
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle201069" width="1%" nowrap></td></tr><tr><td colspan="4" height="0" style="background-image:url(images/bmj_xx.jpg)"></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont201069"><img src="images/bmjsjt.jpg" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1003/1278.htm" class="c201069" title="国家科学技术秘密持有单位管理办法" target="_blank">
+        国家科学技术秘密持有单位管理办法
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle201069" width="1%" nowrap></td></tr><tr><td colspan="4" height="0" style="background-image:url(images/bmj_xx.jpg)"></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont201069"><img src="images/bmjsjt.jpg" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1003/1279.htm" class="c201069" title="2018年，我们身边多了哪些保密法律法规？" target="_blank">
+        2018年，我们身边多了哪些保密法律法规？
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle201069" width="1%" nowrap></td></tr><tr><td colspan="4" height="0" style="background-image:url(images/bmj_xx.jpg)"></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont201069"><img src="images/bmjsjt.jpg" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1003/1280.htm" class="c201069" title="泄露国家秘密罪的立案标准" target="_blank">
+        泄露国家秘密罪的立案标准
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle201069" width="1%" nowrap></td></tr><tr><td colspan="4" height="0" style="background-image:url(images/bmj_xx.jpg)"></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont201069"><img src="images/bmjsjt.jpg" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1003/1281.htm" class="c201069" title="人民检察院、保密行政管理部门查办泄密案件若干问题的规定" target="_blank">
+        人民检察院、保密行政管理部门查办泄密案件若干...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle201069" width="1%" nowrap></td></tr><tr><td colspan="4" height="0" style="background-image:url(images/bmj_xx.jpg)"></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont201069"><img src="images/bmjsjt.jpg" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1003/1283.htm" class="c201069" title="保密要害部门部位的管理要求" target="_blank">
+        保密要害部门部位的管理要求
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle201069" width="1%" nowrap></td></tr><tr><td colspan="4" height="0" style="background-image:url(images/bmj_xx.jpg)"></td></tr>
+</table><!--#endeditable--></td>
+        </tr>
+      </tbody>
+    </table></td>
+    <td></td>
+    <td valign="top"><table border="0" cellspacing="5" cellpadding="0" width="100%" bgcolor="#ffffff" align="center" style="border-bottom: #76c0fd 1px solid;border-left: #76c0fd 1px solid;border-right: #76c0fd 1px solid">
+      <tbody>
+        <tr>
+          <td height="44" valign="top"><span style="font-size: 14px; color: #000; line-height:175%;">&nbsp;&nbsp;电话：2292216<br />&nbsp;&nbsp;邮编：541004</span></td>
+        </tr>
+      </tbody>
+    </table>
+     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td height="10"></td>
+  </tr>
+</table>
+
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td align="center"><!--#begineditable name="图片列表" viewid="201064" tagname="图片列表" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""-->
+
+
+
+
+<script language="javascript" src="/system/resource/js/dynclicks.js"></script>
+<table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+    <td><img src="images/19/05/05/1q5u3due9q/smdh-tb.jpg" width="206" height="40" hspace="3" vspace="6" border="0"></td>
+        </tr>
+        </table><!--#endeditable--></td>
+        </tr>
+      </table></td>
+  </tr>
+</table>
+
+</td>
+</tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0" width="968" align="center">
+  <tr>
+    <td height="10"></td>
+  </tr>
+  <tr>
+    <td height="33" background="images/yqlj.JPG">&nbsp;</td>
+  </tr>
+  <tr>
+    <td>
+<table border="0" cellspacing="5" cellpadding="0" width="100%" bgcolor="#ffffff" align="center" style="border-bottom: #c8c8c8 1px solid;border-left: #c8c8c8 1px solid;border-right: #c8c8c8 1px solid">
+<tbody>
+<tr>
+<td height="44" valign="top"><!--#begineditable name="横向链接" viewid="201061" tagname="横向链接" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""-->
+
+
+
+
+<table><tr>
+        
+        <td>
+            <A class="c201061" HREF="http://www.itsec.gov.cn/" onclick="_addDynClicks('wburl',1411831791,38782)" target="_blank">
+            	 中国信息安全测评中心 
+            </A>
+             
+        </td>
+            <td class="leaderstyle201061">|</td>
+        
+        <td>
+            <A class="c201061" HREF="http://www.isstec.org.cn/" onclick="_addDynClicks('wburl',1411831791,38783)" target="_blank">
+            	 国家保密科技测评中心 
+            </A>
+             
+        </td>
+            <td class="leaderstyle201061">|</td>
+        
+        <td>
+            <A class="c201061" HREF="http://www.gxbm.gov.cn/" onclick="_addDynClicks('wburl',1411831791,38784)" target="_blank">
+            	 广西保密局 
+            </A>
+             
+        </td>
+            </tr>
+</table><!--#endeditable--></td></tr></tbody></table></td>
+  </tr>
+</table>
+<table class="margin6 boraLL" border="0" cellspacing="0" cellpadding="0" width="968" align="center">
+  <tbody>
+<tr>
+<td height="68" background="images/footerbg.gif">
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td class="footerLbg" height="68" align="center"><!--#begineditable name="版权" viewid="17953" tagname="版权" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--><p style="text-align: center">桂林电子科技大学保密办公室</p><!--#endeditable--><!--#begineditable name="管理后台" viewid="201065" tagname="管理后台" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""-->
+
+
+
+
+<table><tr>
+        
+        <td>
+            <A class="c201065" HREF="http://mwb.guet.edu.cn/system/login.jsp" onclick="_addDynClicks('wburl',1411831791,38785)" title="管理后台">
+            	 管理后台 
+            </A>
+             
+        </td>
+            </tr>
+</table><!--#endeditable--></td></tr></tbody></table></td></tr></tbody></table></td>
+<td valign="top" width="9"></td></tr></tbody></table>
+
+</body></html>

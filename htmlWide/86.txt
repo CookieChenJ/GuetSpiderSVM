@@ -1,0 +1,371 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>校区简介-桂林电子科技大学北海校区</title><META Name="keywords" Content="桂林电子科技大学北海校区,北海校区,桂林电子科技大学北海校区" />
+
+
+<meta name="description" content="在五四运动100周年之际，北海校区团委以相约五四我们的青春共奋进为主题开展2019年学生五四杯系列球赛活动。4月10日下午18：30，五四杯系列球赛在西区气排球场开幕，北海校区党委" />
+<link href="../skin/css/bootstrap.min.css" type="text/css" rel="stylesheet" />
+<link href="../skin/css/style.css" type="text/css" rel="stylesheet" />
+<script type="text/javascript" src="../skin/js/jquery.min.js"></script>
+<script type="text/javascript" src="../skin/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="../skin/js/touchslide.1.1.js"></script>
+<script type="text/javascript" src="../skin/js/common.js"></script>
+<!--[if (gt IE 9)|!(IE)]><!-->
+<link href="skin/css/animate.min.css" type="text/css" rel="stylesheet" />
+<script type="text/javascript" src="skin/js/wow.min.js"></script>
+<!--<![endif]-->
+
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="../_sitegray/_sitegray_d.css" />
+<script language="javascript" src="../_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="../page.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1019,'/page.jsp',-1,1411857808)</script>
+</head>
+<body>
+<!--头部开始--> 
+<header id="header">
+  <div class="container">
+    <div id="logo"><a href="../" title="桂林电子科技大学北海校区"><img src="../skin/images/logo.png" alt="桂林电子科技大学北海校区" /></a></div>
+    <div id="header_right">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+      <div class="language"> 
+        <ul>
+          <li><a href="http://192.168.4.213/" target="_blank">【校区智慧校园】</a></li>
+          <li><a href="http://icampus.guet.edu.cn/login.aspx" target="_blank">【本部智慧校园】</a></li>
+        </ul>
+      </div>
+      <div class="clear"></div>
+      <div id="search" class="wow bounceInDown" style="width: 225px;"><!--#begineditable name="全文检索" action="" layout="" tpltype="" contype="" clone="" viewid="201021" contentviewid="" tagname="全文检索"--><script type="text/javascript">
+    function _nl_ys_check(){
+        
+        var keyword = document.getElementById('showkeycode201021').value;
+        if(keyword==null||keyword==""){
+            alert("请输入你要检索的内容！");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkeyword201021").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkeyword201021").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkeyword201021").value = base64.encode(document.getElementById("lucenenewssearchkeyword201021").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode201021"));
+        return true;
+    } 
+</script>
+<form action="../search.jsp?wbtreeid=1019" method="post" id="au0a" name="au0a" onsubmit="return _nl_ys_check()" style="display: inline">
+         <input type="hidden" id="lucenenewssearchkeyword201021" name="lucenenewssearchkeyword" value=""><input type="hidden" id="_lucenesearchtype201021" name="_lucenesearchtype" value="1"><input type="hidden" id="searchScope201021" name="searchScope" value="0">
+         <input type="hidden" name="kwtype" value="0" />
+         <input type="text" name="showkeycode" id="showkeycode201021" placeholder="search" class="skw" size="12" onfocus="javascript:clearsearch(this);" onblur="javascript:redosearch(this);" />
+         <input name="submit" type="submit" class="sub" value="" />
+</form>
+
+
+
+<script language="javascript" src="/system/resource/js/base64.js"></script><script language="javascript" src="/system/resource/js/formfunc.js"></script>
+<!--#endeditable--></div>
+    </div>
+    <div class="clear"></div>
+    <div class="row mobile_nav">
+      <nav class="collapse navbar-collapse"><!--#begineditable name="网站导航2" action="" layout="" tpltype="" contype="" clone="" viewid="200950" contentviewid="" tagname="网站导航2"--><ul>
+              <li class="first_menu"><a class="current" href="../index.htm">首页</a></li>
+            <li><a class="" href="xqjj.htm">校区概况</a>
+            </li>
+            <li><a class="" href="../jgsz/gljigou.htm">机构设置</a>
+            </li>
+            <li><a class="" href="../djgz.htm">党建工作</a>
+            </li>
+            <li><a class="" href="../rcpy/bkjy.htm">人才培养</a>
+            </li>
+            <li><a class="" href="../kxyanjiu.htm">科学研究</a>
+            </li>
+            <li><a class="" href="../xgtw/xsgongzuo.htm">学工团委</a>
+            </li>
+            <li><a class="" href="https://www.guet.edu.cn/bh_zs/">招生就业</a>
+            </li>
+            <li><a class="" href="../jxjy.htm">继续教育</a>
+            </li>
+            <li><a class="" href="../cpyc.htm">诚聘英才</a>
+            </li>
+            <li><a class="" href="../gjjy.htm">国际教育</a>
+            </li>
+            <li><a class="" href="../xyVR.htm">校园VR</a>
+            </li>
+            <li><a class="" href="../zlxz.htm">资料下载</a>
+            </li>
+          <!--<li><a href='/' ><img src='/skin/images/cn.jpg' /></a></li>
+          <li><a href='/en/'><img src='/skin/images/en.jpg' /></a></li>-->
+          <div class="search_m">
+            <form name="formsearch" action="../plus/search.php">
+              <input type="hidden" name="kwtype" value="0">
+              <input name="q" placeholder="search" class="skw" size="12" onfocus="javascript:clearsearch(this);" onblur="javascript:redosearch(this);">
+              <input name="submit" type="submit" class="sub" value="">
+            </form>
+          </div>
+        </ul><!--#endeditable--></nav>
+    </div>
+  </div>
+</header>
+<div class="clear"></div>
+<nav id="navigate">
+  <div class="container"><!--#begineditable name="网站导航1" action="" layout="" tpltype="" contype="" clone="" viewid="200948" contentviewid="" tagname="网站导航1"--><ul>
+                <li class="first_menu"><a class="current" href="../index.htm">首页</a></li>
+            <li><a class="" href="xqjj.htm">校区概况</a>
+                    <ul>
+                            <li><a href="xqjj.htm" title="校区简介">校区简介</a></li>
+                            <li><a href="xqld.htm" title="校区领导">校区领导</a></li>
+                            <li><a href="xyfg.htm" title="校园风光">校园风光</a></li>
+                    </ul>
+            </li>
+            <li><a class="" href="../jgsz/gljigou.htm">机构设置</a>
+                    <ul>
+                            <li><a href="../jgsz/gljigou.htm" title="管理机构">管理机构</a></li>
+                            <li><a href="../jgsz/jxdw.htm" title="教学单位">教学单位</a></li>
+                            <li><a href="../jgsz/qtjig.htm" title="其他机构">其他机构</a></li>
+                    </ul>
+            </li>
+            <li><a class="" href="../djgz.htm">党建工作</a>
+            </li>
+            <li><a class="" href="../rcpy/bkjy.htm">人才培养</a>
+                    <ul>
+                            <li><a href="../rcpy/bkjy.htm" title="本科教育">本科教育</a></li>
+                            <li><a href="../rcpy/gzjy.htm" title="高职教育">高职教育</a></li>
+                            <li><a href="../rcpy/ssjy.htm" title="硕士教育">硕士教育</a></li>
+                    </ul>
+            </li>
+            <li><a class="" href="../kxyanjiu.htm">科学研究</a>
+            </li>
+            <li><a class="" href="../xgtw/xsgongzuo.htm">学工团委</a>
+                    <ul>
+                            <li><a href="../xgtw/xsgongzuo.htm" title="学生工作">学生工作</a></li>
+                            <li><a href="../xgtw/twgz.htm" title="团委工作">团委工作</a></li>
+                    </ul>
+            </li>
+            <li><a class="" href="https://www.guet.edu.cn/bh_zs/">招生就业</a>
+                    <ul>
+                            <li><a href="https://www.guet.edu.cn/bh_zs/" title="招生信息">招生信息</a></li>
+                            <li><a href="https://www.guet.edu.cn/bh_jy/" title="就业信息">就业信息</a></li>
+                    </ul>
+            </li>
+            <li><a class="" href="../jxjy.htm">继续教育</a>
+            </li>
+            <li><a class="" href="../cpyc.htm">诚聘英才</a>
+            </li>
+            <li><a class="" href="../gjjy.htm">国际教育</a>
+            </li>
+            <li><a class="" href="../xyVR.htm">校园VR</a>
+            </li>
+            <li><a class="" href="../zlxz.htm">资料下载</a>
+            </li>
+ </ul><!--#endeditable--></div>
+</nav>
+
+<div id="nav_bottom"></div>
+<div class="clear"></div>
+<div class="clear"></div>
+<!--内容区开始-->
+<div class="main">
+  <div class="container"> <div id="left">
+  <div class="left_list">
+    <div class="left_top">
+      <h3><!--#begineditable name="左侧父类名称" action="" layout="" tpltype="" contype="" clone="" viewid="200956" contentviewid="" tagname="左侧父类名称"-->
+
+      
+    
+
+<h3>校区概况</h3>
+
+      
+    
+
+
+
+      
+    
+
+
+
+      
+    
+
+
+
+      
+    
+
+
+
+      
+    
+
+
+
+      
+    
+
+
+
+      
+    
+
+
+
+      
+    
+
+
+
+      
+    
+
+
+
+      
+    
+
+
+
+      
+    
+
+
+
+      
+    
+
+<!--#endeditable--></h3>
+    </div>
+    <div class="left_con">
+      <div class="type_list">
+        <ul><!--#begineditable name="子栏目" action="" layout="" tpltype="" contype="" clone="" viewid="200957" contentviewid="" tagname="子栏目"--><li class="first_cat"><a href="xqjj.htm" class="current">校区简介</a></li>
+<li class="first_cat"><a href="xqld.htm">校区领导</a></li>
+<li class="first_cat"><a href="xyfg.htm">校园风光</a></li>
+<!--#endeditable--></ul>
+      </div>
+    </div>
+  </div>
+  <div class="blank30"></div>
+</div>
+
+    <div id="right">
+      <div id="right_top">
+        <h3><!--#begineditable name="当前栏目标题" action="" layout="" tpltype="" contype="" clone="" viewid="200960" contentviewid="" tagname="当前栏目标题"-->校区简介
+
+
+<!--#endeditable--></h3>
+      </div>
+      <div id="right_con">
+      <!--#begineditable name="正文" action="webber.wbst.com.anno.ColumnAnno" layout="/system/_component/columncopyright/tplcopyright.jsp" tpltype="1" contype="anno" clone="" viewid="201011" contentviewid="" tagname="正文"--><script language="javascript" src="/system/resource/js/news/mp4video.js"></script>
+<p style="box-sizing: border-box; margin: 0px auto; padding: 10px 0px 0px; border: 0px; width: 880px; float: left; line-height: 28px; min-height: 300px; height: auto !important; text-align: left;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-size: 16px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="color: rgb(49, 49, 49); font-family: 微软雅黑, Arial, Helvetica, sans-serif, 宋体;">&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;</span>桂林电子科技大学北海校区位于美丽的海滨城市北海市。2008年，秉着服务地方经济社会发展的宗旨，桂林电子科技大学响应国家建设北部湾的号召，在北海市建立北海校区，成立职业技术学院，举办高等专科层次的职业教育。2013年，成立了海洋信息工程学院，举办本科层次的教育。2016年船舶与海洋工程硕士点获批招生。2017年成立了东盟教育中心。</span><br style="box-sizing: border-box; margin: 0px; padding: 0px; font-size: 14px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px;">&nbsp; &nbsp; &nbsp; &nbsp; 北海校区现有东、西两个校区，占地541亩，校舍建筑面积近30万平方米；有硕士专业1个，本科招生专业10个，高职招生专业33个，主要集中在机械类、电子类、计算机类、设计类、管理类、金融、外贸类等领域。在校生15800余人、留学生40余人，教职工490余人。校区校园环境优美、办学条件优越。</span><br style="box-sizing: border-box; margin: 0px; padding: 0px; font-size: 14px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px;">&nbsp; &nbsp; &nbsp; &nbsp; 北海校区结合本部深厚的教育资源，立足北部湾经济区建设，发挥电子信息特色专业办学优势，根据社会需求及办学特色设置专业，制定人才培养和教学计划，注重培养学生实践动手能力，因材施教。加强校企深度合作，创建“微格支撑—微企业引入”实践教学平台，重视“理论课程体系”和“实习实训体系相融合，实现学生能力与国内、外人才需求的无缝衔接。《多层次贯通双体系融合“微企”式引入的应用型人才培养模式的研究与实践》荣获2017年广西高等教育教学成果特等奖。</span><br style="box-sizing: border-box; margin: 0px; padding: 0px; font-size: 14px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px;">&nbsp; &nbsp; &nbsp; &nbsp; 近三年来，北海校区学生参加各级竞赛屡获佳绩，获得各类奖项670余项，其中国家级奖项180余项，省部级奖项490余项。北海校区学子2018年获华为中国区大学生ICT大赛冠军，全球总决赛团队二等奖；获2018年美国数学建模大赛二等奖。</span><br style="box-sizing: border-box; margin: 0px; padding: 0px; font-size: 14px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px;">&nbsp; &nbsp; &nbsp; &nbsp; 校区为社会培养出大批高素质应用型技术技能型人才。2017年，本科毕业生就业率达92%，专科就业率达97%。2017年30余名本科毕业生被录取为硕士研究生。</span><br style="box-sizing: border-box; margin: 0px; padding: 0px; font-size: 14px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px;">&nbsp; &nbsp; &nbsp; &nbsp; 今天，北海校区在“正德厚学 笃行致新”校训和“艰苦创业、自强不息”桂电精神的引领下，正朝着建设成为电子信息特色鲜明的国内高水平应用技术型人才培养基地这一目标而努力奋斗。&nbsp;&nbsp;</span></span></p><!--#endeditable-->
+      </div>
+    </div>
+  </div>
+</div>
+<!--内容区结束-->
+<div class="clear"></div>
+<!-- 友情链接 start --> 
+﻿
+﻿<div id="link" class="wow fadeInUp">
+  <div class="container">
+    <div class="link_box">
+ <div id="tel" style="font-weight: 400; font-size: 16px;color: #000000">
+ <div style="width: 115px;float: left;">院部快速导航：</div>
+ <!--#begineditable name="链接" action="" layout="" tpltype="" contype="" clone="" viewid="200955" contentviewid="" tagname="链接"-->
+
+
+
+<script language="javascript" src="/system/resource/js/dynclicks.js"></script>
+<table><tr>
+        
+        <td>
+            <A class="c200955" HREF="#" onclick="_addDynClicks('wburl',1411857808,38686)" target="_blank" title="海洋工程学院">
+            	 海洋工程学院 
+            </A>
+             
+        </td>
+            <td class="leaderstyle200955"> |</td>
+        
+        <td>
+            <A class="c200955" HREF="#" onclick="_addDynClicks('wburl',1411857808,38687)" target="_blank">
+            	 电子信息学院 
+            </A>
+             
+        </td>
+            <td class="leaderstyle200955"> |</td>
+        
+        <td>
+            <A class="c200955" HREF="#" onclick="_addDynClicks('wburl',1411857808,38688)" target="_blank">
+            	 计算机工程学院 
+            </A>
+             
+        </td>
+            <td class="leaderstyle200955"> |</td>
+        
+        <td>
+            <A class="c200955" HREF="#" onclick="_addDynClicks('wburl',1411857808,38689)" target="_blank">
+            	 设计与创意学院 
+            </A>
+             
+        </td>
+            <td class="leaderstyle200955"> |</td>
+        
+        <td>
+            <A class="c200955" HREF="#" onclick="_addDynClicks('wburl',1411857808,38690)" target="_blank">
+            	 经济与管理学院 
+            </A>
+             
+        </td>
+            <td class="leaderstyle200955"> |</td>
+        
+        <td>
+            <A class="c200955" HREF="#" onclick="_addDynClicks('wburl',1411857808,38691)" target="_blank">
+            	 基础教学部 
+            </A>
+             
+        </td>
+            <td class="leaderstyle200955"> |</td>
+        
+        <td>
+            <A class="c200955" HREF="#" onclick="_addDynClicks('wburl',1411857808,38692)" target="_blank">
+            	 桂电东盟教育中心 
+            </A>
+             
+        </td>
+            </tr>
+</table><!--#endeditable--></div>
+ <div id="tel" style="font-weight: 400; font-size: 16px;color: #000000">
+校区意见箱：beiguanzhb@163.com
+&nbsp;校区纪委举报邮箱：bhxqjw@guet.edu.cn
+        &nbsp;&nbsp;&nbsp;<a href="http://www.guet.edu.cn/jwjc/jb.jsp?urltype=tree.TreeTempUrl&wbtreeid=1089">
+                        桂林电子科技大学纪检监察举报网站
+                    </a>
+</div>
+    </div>
+  </div>
+</div>
+<!-- 友情链接 end -->
+<div class="blank38"></div>
+<div class="clear"></div>
+<footer id="footer">
+  <div class="container">
+    <div id="copy_txt" class="wow fadeInUp">Copyright@2008-2018桂林电子科技大学北海校区</div>
+<div>地址: 广西北海市银海区南珠大道9号 邮编：536000 电话：0779-3221218 传真：0779-3221082 </div>
+  </div>
+</footer>
+   <script type="text/javascript">
+  $(function(){
+    $("a.c200955").css("FONT-SIZE","12pt");
+  });
+</script>
+<!--版权区结束-->
+</body>
+</html>

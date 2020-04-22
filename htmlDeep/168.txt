@@ -1,0 +1,820 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<HTML><HEAD><TITLE>2017年硕士研究生招生复试公告（一）-桂林电子科技大学研究生招生信息网</TITLE><META Name="keywords" Content="高校,招生" />
+
+
+<META content="text/html; charset=UTF-8" http-equiv="Content-Type"><LINK rel="stylesheet" type="text/css" href="../../style/main.css">
+
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="../../_sitegray/_sitegray_d.css" />
+<script language="javascript" src="../../_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="../../content.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1038,'/content.jsp',1160,1461952780)</script>
+</HEAD>
+<BODY class="norepeat" background="../../images/listbannerbg.jpg" leftmargin="0" topmargin="0" bgcolor="#f5f5f5">
+<TABLE border="0" cellspacing="0" width="1002" align="center">
+<TBODY>
+<TR>
+<TD height="78">
+<TABLE border="0" cellspacing="0" cellpadding="0" width="98%" align="center">
+<TBODY>
+<TR>
+<TD><!--#begineditable contype="" name="LOGO" action="" layout="" clone="0" namechanged="0" order="0" ispublic="0" tagname="LOGO" viewid="165570"-->
+<table border="0" cellspacing="0" cellpadding="0"><tr><td><img src="../../images/logo.jpg" border="0" alt="研究生招生信息网" title="研究生招生信息网"></td></tr></table><!--#endeditable--></TD>
+<TD valign="top" align="right"><!--#begineditable contype="" name="主页|收藏" action="" layout="" clone="0" namechanged="0" order="1" ispublic="0" tagname="主页|收藏" viewid="165571"--><script language="javascript">
+function dosuba165571a()
+{
+    try{
+		var ua = navigator.userAgent.toLowerCase();
+		if(ua.indexOf("msie 8")>-1)
+		{
+			window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE8
+		}else if(ua.toLowerCase().indexOf("rv:")>-1)
+        {
+            window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE11+
+        }else{
+			if (document.all) 
+			{
+				window.external.addFavorite(document.location.href, document.title);
+			}else if(window.sidebar)
+			{
+				window.sidebar.addPanel( document.title, document.location.href, "");//firefox
+			}
+			else
+			{
+				alert(hotKeysa165571a());
+			}
+		}
+
+    }
+    catch (e){alert("无法自动添加到收藏夹，请使用 Ctrl + d 手动添加");}
+}
+function hotKeysa165571a() 
+{
+	var ua = navigator.userAgent.toLowerCase(); 
+	var str = "";    
+	var isWebkit = (ua.indexOf('webkit') != - 1); 
+	var isMac = (ua.indexOf('mac') != - 1);     
+	if (ua.indexOf('konqueror') != - 1) 
+	{  
+		str = 'CTRL + B'; // Konqueror   
+	} 
+	else if (window.home || isWebkit || isMac) 
+	{        
+		str = (isMac ? 'Command/Cmd' : 'CTRL') + ' + D'; // Netscape, Safari, iCab, IE5/Mac   
+	}
+	return ((str) ? '无法自动添加到收藏夹，请使用' + str + '手动添加' : str);
+}
+function setHomepagea165571a()
+{
+	var url = document.location.href;
+    if (document.all)
+    {
+        document.body.style.behavior='url(#default#homepage)';
+        document.body.setHomePage(url);
+    }
+    else if (window.sidebar)
+    {
+        if(window.netscape)
+        {
+             try{
+                  netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+             }catch (e){
+                   alert("该操作被浏览器拒绝，如果想启用该功能，请在地址栏内输入 about:config,然后将项 signed.applets.codebase_principal_support 值该为true");
+             }
+    	}
+	var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components. interfaces.nsIPrefBranch);
+	prefs.setCharPref('browser.startup.homepage',url);
+	}
+	else
+	{
+		alert("浏览器不支持自动设为首页，请手动设置");
+	}
+}
+</script><table><tr><td style="font-size:9pt"><A href="javascript:setHomepagea165571a()"><span class="font165571">设为首页</span></A>&nbsp;<span class="splitcharstyle165571"> | </span>&nbsp;<A onclick="javascript:dosuba165571a();" href="#"><span class="font165571">加入收藏</span></A></td></tr></table><!--#endeditable--></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD height="43" valign="top">
+<TABLE border="0" cellspacing="0" cellpadding="0" width="992" align="center" height="34">
+<TBODY>
+<TR>
+<td background="../../images/menubar-left.jpg" class="menuleftbg" width="150"></td>
+<TD background="../../images/menubarbg.jpg" width="695" align="center"><!--#begineditable contype="" name="网站导航" action="" layout="" clone="0" namechanged="0" order="2" ispublic="0" tagname="网站导航" viewid="165558"--><style type="text/css">
+td.b1_2_{FONT-SIZE:9pt;}
+td.b2_2_{FONT-SIZE:9pt;}
+td.b3_2_{FONT-SIZE:9pt;BACKGROUND-COLOR: #eff8fe;}
+td.b4_2_{FONT-SIZE:9pt;BACKGROUND-COLOR: #e8f0fb;}
+a.menu0_2_:link {TEXT-DECORATION: none;};
+a.menu0_2_:visited { TEXT-DECORATION: none;};
+a.menu0_2_:hover {TEXT-DECORATION: none;};
+a.menu0_2_:active {TEXT-DECORATION: none;};
+table.tb1_2_{FONT-SIZE:9pt;border:0;}
+span.s1_2_{COLOR: #ff9900;FONT-SIZE: 10pt;FONT-WEIGHT: bold;}
+span.s2_2_{FONT-SIZE: 9pt;COLOR: #cc0000;LINE-HEIGHT: 160%;}
+span.s10_2_{COLOR: #ffffff;FONT-SIZE: 10pt;FONT-WEIGHT: bold;TEXT-DECORATION: none;}
+span.s20_2_{FONT-SIZE: 9pt;COLOR: #222222;LINE-HEIGHT: 160%;}
+</style>
+<SCRIPT language="javascript"> 
+ var showfix_2_ = 1;
+ var isvertical_2_ = false;
+</SCRIPT>
+<script language="javascript" src="/system/resource/js/menu/text.js"></script>
+<TABLE id="t1_2_" cellSpacing="0" cellPadding="0" border="0" height="0" width="688"><TR><TD valign="center"></TD><TD valign="middle" height="0" width="0" nowrap class="b1_2_" align="center" id="a_2_1001" onmouseover="tshowLayers('1001','b2_2_', '_2_')" onmouseout="thideLayers('1001','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="../../index.htm"><span class="fontstyle165558">&nbsp;首页&nbsp;</span></a></TD><TD valign="center" class="leaderfont165558"><img src="../../images/menubar-br.jpg" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1034" onmouseover="tshowLayers('1034','b2_2_', '_2_')" onmouseout="thideLayers('1034','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="../../list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1039"><span class="fontstyle165558">&nbsp;博士招生&nbsp;</span></a></TD><TD valign="center" class="leaderfont165558"><img src="../../images/menubar-br.jpg" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1028" onmouseover="tshowLayers('1028','b2_2_', '_2_')" onmouseout="thideLayers('1028','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="../../list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1038"><span class="fontstyle165558">&nbsp;硕士招生&nbsp;</span></a></TD><TD valign="center" class="leaderfont165558"><img src="../../images/menubar-br.jpg" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1054" onmouseover="tshowLayers('1054','b2_2_', '_2_')" onmouseout="thideLayers('1054','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="http://www.guet.edu.cn/gra/jsfw/sssds.htm"><span class="fontstyle165558">&nbsp;导师介绍&nbsp;</span></a></TD><TD valign="center" class="leaderfont165558"><img src="../../images/menubar-br.jpg" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1035" onmouseover="tshowLayers('1035','b2_2_', '_2_')" onmouseout="thideLayers('1035','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="../../list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1044"><span class="fontstyle165558">&nbsp;考点通知&nbsp;</span></a></TD><TD valign="center" class="leaderfont165558"><img src="../../images/menubar-br.jpg" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1030" onmouseover="tshowLayers('1030','b2_2_', '_2_')" onmouseout="thideLayers('1030','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="../../list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1045"><span class="fontstyle165558">&nbsp;招生政策&nbsp;</span></a></TD><TD valign="center" class="leaderfont165558"><img src="../../images/menubar-br.jpg" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1036" onmouseover="tshowLayers('1036','b2_2_', '_2_')" onmouseout="thideLayers('1036','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="../../list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1064"><span class="fontstyle165558">&nbsp;历史数据&nbsp;</span></a></TD><TD valign="center" class="leaderfont165558"><img src="../../images/menubar-br.jpg" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1047" onmouseover="tshowLayers('1047','b2_2_', '_2_')" onmouseout="thideLayers('1047','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="../../list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1048"><span class="fontstyle165558">&nbsp;信息公开&nbsp;</span></a></TD><TD valign="center" class="leaderfont165558"><img src="../../images/menubar-br.jpg" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1041" onmouseover="tshowLayers('1041','b2_2_', '_2_')" onmouseout="thideLayers('1041','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="../../list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1042"><span class="fontstyle165558">&nbsp;联系方式&nbsp;</span></a></TD><TD valign="center" class="leaderfont165558"><img src="../../images/menubar-br.jpg" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1051" onmouseover="tshowLayers('1051','b2_2_', '_2_')" onmouseout="thideLayers('1051','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="../../list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1067"><span class="fontstyle165558">&nbsp;下载专区&nbsp;</span></a></TD></TR></TR></table><!--#endeditable--></TD>
+<TD width="150"><IMG src="../../images/menubar-right.jpg" width="150" height="34"></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+<TABLE border="0" cellspacing="0" width="100%">
+<TBODY>
+<TR>
+<TD height="22">&nbsp;</TD></TR>
+<TR>
+<TD bgcolor="#ffffff" height="30" align="center">
+<TABLE border="0" cellspacing="0" width="1002">
+<TBODY>
+<TR>
+<TD align="left"><!--#begineditable contype="" name="当前位置" action="" layout="" clone="0" namechanged="0" order="3" ispublic="0" tagname="当前位置" viewid="37948"-->  
+<table class="winstyle37948" cellspacing="0" cellpadding="0"><tr><td nowrap>您的位置：   
+<a href="../../index.htm"><span class="fontstyle37948">首页</span></a><span class="splitflagstyle37948">></span><a href="../../list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1038"><span class="fontstyle37948">硕士招生</span></a><span class="splitflagstyle37948">></span><a href="../../list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1038"><span class="fontstyle37948">硕士招生</span></a><span class="splitflagstyle37948">></span><span class="fontstyle37948">正文</span></td></tr></table><!--#endeditable--><STRONG></STRONG></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD align="center"><BR>
+<TABLE border="0" cellspacing="1" cellpadding="3" width="970" bgcolor="#d3d3d3">
+<TBODY>
+<TR>
+<TD class="4border" bgcolor="#ffffff" align="center"><br><!--#begineditable contype="" name="文章内容" action="" layout="" clone="0" namechanged="0" order="0" ispublic="0" tagname="文章内容" viewid="165561"-->
+
+<LINK href="/system/resource/style/component/news/content/title.css" type="text/css" rel="stylesheet">
+<style type="text/css">
+     .content{margin:auto;text-align:left;line-height:18px;padding:3px 0 0 0;color:#727272;}
+     .process{width:162px;height:11px;background:#EDEDED;overflow:hidden;float:left;margin-left:26px !important;margin-left:13px;margin-right:10px;}
+     .process div{width:160px;height:11px;background:url(/system/resource/images/newsvote/bg.gif) repeat-x;border-left:1px solid #000;border-right:1px solid #000;}
+     .process .style7{border-left-color:#ff0000;border-right-color:#ff0000;background-position:0 -77px;}
+     
+</style>
+
+
+<script language="javascript" src="../../_dwr/interface/NewsvoteDWR.js"></script>
+<script language="javascript" src="../../_dwr/engine.js"></script>
+<script language="javascript" src="../../_dwr/util.js"></script>
+<script language="javascript" src="/system/resource/js/news/newscontent.js"></script>
+<script type="text/javascript">
+
+NewsvoteDWR.getNewsLinkUrl(1160,"1461952780","vsb",newsSkip);
+function newsSkip(data)
+{
+    if(data != "")
+    {
+        window.location.href = data;
+    }
+}
+</script>
+
+
+
+<form name="form165561a">
+<table border="0" class="winstyle165561" width="100%" cellspacing="0" cellpadding="0">
+
+      <tr><td class="titlestyle165561" align="center">
+2017年硕士研究生招生复试公告（一）
+      </td></tr>
+      <tr height="30"><td align="center">
+            <span class="timestyle165561">
+                 2018-08-28 09:08</span>
+            <span class="authorstyle165561">&nbsp;
+            
+            
+            </span>
+            
+                <span class="wb_content">审核人：</span>
+            
+            
+        </td></tr>
+        <tr><td align="right">
+        <span>
+
+        </span>
+        </td></tr>
+<tr><td height="1" BACKGROUND="../../bgline.gif"></td></tr>
+      <tr><td class="contentstyle165561">
+        <div class="c165561_content" id="vsb_newscontent"><div id="vsb_content">
+           <p style="text-align: left; color: rgb(102, 102, 102); text-transform: none; line-height: 20pt; text-indent: 0px; letter-spacing: normal; font-family: 宋体; font-size: 12px; font-style: normal; font-weight: normal; word-spacing: 0px; white-space: normal; -ms-word-break: break-all; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">本公告适用于我校2017</span>年全日制硕士及非全日制硕士招生专业</span></span></p>
+<p style="text-align: left; color: rgb(102, 102, 102); text-transform: none; line-height: 20pt; text-indent: 21pt; letter-spacing: normal; font-family: 宋体; font-size: 12px; font-style: normal; font-weight: normal; word-spacing: 0px; white-space: normal; -ms-word-break: break-all; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">2017</span></span></span><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">年全国硕士研究生统一入学考试考生进入复试的初试成绩基本要求（以下称国家线）现已公布，为保证我校调剂和复试工作顺利开展，现就有关事项公告如下：</span></span></span></p>
+<p style="text-align: left; color: rgb(102, 102, 102); text-transform: none; line-height: 19.2pt; text-indent: 0px; letter-spacing: normal; font-family: 宋体; font-size: 12px; font-style: normal; font-weight: normal; word-spacing: 0px; white-space: normal; -ms-word-break: break-all; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><strong><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">一、一志愿考生获得复试资格要求</span></span></span></strong></p>
+<p style="text-align: left; color: rgb(102, 102, 102); text-transform: none; line-height: 20pt; text-indent: 21pt; letter-spacing: normal; font-family: 宋体; font-size: 12px; font-style: normal; font-weight: normal; word-spacing: 0px; white-space: normal; -ms-word-break: break-all; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">除会计硕士（MPAcc</span>）外，其他一志愿考生的初试总分和单科成绩达到国家B</span>类地区相应学科专业进入复试最低分数要求，自动获得我校复试资格。我校各招生专业进入复试的初试成绩基本要求见下表：</span></p>
+<p style="color: rgb(102, 102, 102); text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: 宋体; font-size: 12px; font-style: normal; font-weight: normal; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">&nbsp;</p>
+<table width="852" align="center" cellspacing="0" cellpadding="0">
+ <tbody>
+  <tr class="firstRow" style="height: 26px;">
+   <td width="850" height="26" nowrap colspan="6" style="border-color: rgb(240, 240, 240) rgb(240, 240, 240) windowtext; padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-bottom-width: 1pt; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">2017</span></span></span><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">年我校硕士研究生招生考试考生进入复试的初试成绩基本要求</span></span></span></p></td>
+  </tr>
+  <tr style="height: 26px;">
+   <td width="124" height="26" nowrap rowspan="2" style="border-color: rgb(240, 240, 240) windowtext windowtext; padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; border-right-style: solid; border-bottom-style: solid; border-left-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">学科门类代码</span></span></span></p></td>
+   <td width="279" height="26" nowrap rowspan="2" colspan="2" style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">学科门类(</span></span></span><span style="color: rgb(102, 102, 102);"><span style="font-family: 微软雅黑, sans-serif;"><span style="font-size: 9pt;">专业)</span>名称</span></span></p></td>
+   <td width="440" height="26" colspan="3" style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">B</span></span></span><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">类考生</span></span></span></p></td>
+  </tr>
+  <tr style="height: 26px;">
+   <td width="151" height="26" style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">总分</span></span></span></p></td>
+   <td width="148" height="26" style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">单科（满分=100</span></span></span><span style="color: rgb(102, 102, 102);"><span style="font-family: 微软雅黑, sans-serif;"><span style="font-size: 9pt;">分）</span></span></span></p></td>
+   <td width="134" height="26" style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">单科（满分&gt;100</span></span></span><span style="color: rgb(102, 102, 102);"><span style="font-family: 微软雅黑, sans-serif;"><span style="font-size: 9pt;">分）</span></span></span></p></td>
+  </tr>
+  <tr style="height: 26px;">
+   <td width="124" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext; padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; border-right-style: solid; border-bottom-style: solid; border-left-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">02</span></span></span></p></td>
+   <td width="279" height="26" nowrap colspan="2" style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">经济学</span></span></span></p></td>
+   <td width="151" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">325</span></span></span></p></td>
+   <td width="148" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">43</span></span></span></p></td>
+   <td width="134" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">65</span></span></span></p></td>
+  </tr>
+  <tr style="height: 26px;">
+   <td width="124" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext; padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; border-right-style: solid; border-bottom-style: solid; border-left-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">03</span></span></span></p></td>
+   <td width="279" height="26" nowrap colspan="2" style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">法学</span></span></span></p></td>
+   <td width="151" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">300</span></span></span></p></td>
+   <td width="148" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">41</span></span></span></p></td>
+   <td width="134" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">62</span></span></span></p></td>
+  </tr>
+  <tr style="height: 26px;">
+   <td width="124" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext; padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; border-right-style: solid; border-bottom-style: solid; border-left-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">07</span></span></span></p></td>
+   <td width="279" height="26" nowrap colspan="2" style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">理学</span></span></span></p></td>
+   <td width="151" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">280</span></span></span></p></td>
+   <td width="148" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">36</span></span></span></p></td>
+   <td width="134" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">54</span></span></span></p></td>
+  </tr>
+  <tr style="height: 26px;">
+   <td width="124" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext; padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; border-right-style: solid; border-bottom-style: solid; border-left-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">08</span></span></span></p></td>
+   <td width="279" height="26" nowrap colspan="2" style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">工学（不含照顾专业）</span></span></span></p></td>
+   <td width="151" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">255</span></span></span></p></td>
+   <td width="148" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">32</span></span></span></p></td>
+   <td width="134" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">48</span></span></span></p></td>
+  </tr>
+  <tr style="height: 26px;">
+   <td width="124" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext; padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; border-right-style: solid; border-bottom-style: solid; border-left-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">12</span></span></span></p></td>
+   <td width="279" height="26" nowrap colspan="2" style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">管理学</span></span></span></p></td>
+   <td width="151" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">330</span></span></span></p></td>
+   <td width="148" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">43</span></span></span></p></td>
+   <td width="134" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">65</span></span></span></p></td>
+  </tr>
+  <tr style="height: 26px;">
+   <td width="124" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext; padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; border-right-style: solid; border-bottom-style: solid; border-left-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">0351</span></span></span></p></td>
+   <td width="279" height="26" nowrap colspan="2" style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">法律（非法学）、法律（法学）</span></span></span></p></td>
+   <td width="151" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">300</span></span></span></p></td>
+   <td width="148" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">41</span></span></span></p></td>
+   <td width="134" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">62</span></span></span></p></td>
+  </tr>
+  <tr style="height: 26px;">
+   <td width="124" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext; padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; border-right-style: solid; border-bottom-style: solid; border-left-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">0551</span></span></span></p></td>
+   <td width="279" height="26" nowrap colspan="2" style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">翻译</span></span></span></p></td>
+   <td width="151" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">335</span></span></span></p></td>
+   <td width="148" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">50</span></span></span></p></td>
+   <td width="134" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">75</span></span></span></p></td>
+  </tr>
+  <tr style="height: 26px;">
+   <td width="124" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext; padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; border-right-style: solid; border-bottom-style: solid; border-left-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">0852</span></span></span></p></td>
+   <td width="279" height="26" colspan="2" style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">工程（不含照顾专业）</span></span></span></p></td>
+   <td width="151" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">255</span></span></span></p></td>
+   <td width="148" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">32</span></span></span></p></td>
+   <td width="134" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">48</span></span></span></p></td>
+  </tr>
+  <tr style="height: 26px;">
+   <td width="124" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext; padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; border-right-style: solid; border-bottom-style: solid; border-left-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">1251</span></span></span></p></td>
+   <td width="279" height="26" colspan="2" style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">工商管理</span></span></span></p></td>
+   <td width="151" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">160</span></span></span></p></td>
+   <td width="148" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">37</span></span></span></p></td>
+   <td width="134" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">74</span></span></span></p></td>
+  </tr>
+  <tr style="height: 26px;">
+   <td width="124" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext; padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; border-right-style: solid; border-bottom-style: solid; border-left-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">1253</span></span></span></p></td>
+   <td width="279" height="26" colspan="2" style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">会计</span></span></span></p></td>
+   <td width="151" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">180</span></span></span></p></td>
+   <td width="148" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">37</span></span></span></p></td>
+   <td width="134" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">74</span></span></span></p></td>
+  </tr>
+  <tr style="height: 26px;">
+   <td width="124" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext; padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; border-right-style: solid; border-bottom-style: solid; border-left-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">1351</span></span></span></p></td>
+   <td width="279" height="26" colspan="2" style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">艺术</span></span></span></p></td>
+   <td width="151" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">325</span></span></span></p></td>
+   <td width="148" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">32</span></span></span></p></td>
+   <td width="134" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">48</span></span></span></p></td>
+  </tr>
+  <tr style="height: 24px;">
+   <td width="274" height="24" nowrap rowspan="2" colspan="2" style="border-color: rgb(240, 240, 240) windowtext windowtext; padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; border-right-style: solid; border-bottom-style: solid; border-left-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">“退役大学生士兵”专项计划</span></span></span></p></td>
+   <td width="132" height="24" style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">工程</span></span></span></p></td>
+   <td width="151" height="24" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">230</span></span></span></p></td>
+   <td width="148" height="24" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">30</span></span></span></p></td>
+   <td width="134" height="24" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">45</span></span></span></p></td>
+  </tr>
+  <tr style="height: 25px;">
+   <td width="132" height="25" style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">MBA</span></span></span><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">、MPAcc</span></span></span></p></td>
+   <td width="151" height="25" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">140</span></span></span></p></td>
+   <td width="148" height="25" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">37</span></span></span></p></td>
+   <td width="134" height="25" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">74</span></span></span></p></td>
+  </tr>
+  <tr style="height: 26px;">
+   <td width="406" height="26" nowrap colspan="3" style="border-color: rgb(240, 240, 240) windowtext windowtext; padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; border-right-style: solid; border-bottom-style: solid; border-left-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">享受少数民族政策的考生</span></span></span></p></td>
+   <td width="151" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">245</span></span></span></p></td>
+   <td width="148" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">30</span></span></span></p></td>
+   <td width="134" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">45</span></span></span></p></td>
+  </tr>
+  <tr>
+   <td style="border-color: rgb(240, 240, 240); padding: 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei;"></td>
+   <td style="border-color: rgb(240, 240, 240); padding: 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei;"></td>
+   <td style="border-color: rgb(240, 240, 240); padding: 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei;"></td>
+   <td style="border-color: rgb(240, 240, 240); padding: 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei;"></td>
+   <td style="border-color: rgb(240, 240, 240); padding: 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei;"></td>
+   <td style="border-color: rgb(240, 240, 240); padding: 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei;"></td>
+  </tr>
+ </tbody>
+</table>
+<div style="color: rgb(0, 0, 0); text-transform: none; text-indent: 0px; letter-spacing: normal; clear: both; font-family: 宋体; font-size: 12px; font-style: normal; font-weight: normal; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"></div>
+<p style="text-align: left; color: rgb(102, 102, 102); text-transform: none; line-height: 21.6px; text-indent: 0px; letter-spacing: normal; font-family: 宋体; font-size: 12px; font-style: normal; font-weight: normal; word-spacing: 0px; white-space: normal; -ms-word-break: break-all; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">“退役大学生士兵” 专项计划专门用于招收退役大学生士兵攻读硕士研究生。由我校自行划定线复试线。</span></span></span></p>
+<p style="text-align: left; color: rgb(102, 102, 102); text-transform: none; line-height: 20pt; text-indent: 21pt; letter-spacing: normal; font-family: 宋体; font-size: 12px; font-style: normal; font-weight: normal; word-spacing: 0px; white-space: normal; -ms-word-break: break-all; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">享受少数民族政策考生：①报考地处二区招生单位，且毕业后在国务院公布的民族区域自治地方就业的少数民族普通高校应届本科毕业生考生；或者②工作单位在国务院公布的民族区域自治地方，且定向就业原单位的少数民族在职人员考生。享受少数民族政策的考生，需提前到我校研究生院招生办提交申请，查验身份证及户口本原件，收取申请书、身份证复印件、户口薄户主页和本人页复印件。</span></span></span></p>
+<p style="text-align: left; color: rgb(102, 102, 102); text-transform: none; line-height: 21.6px; text-indent: 0px; letter-spacing: normal; font-family: 宋体; font-size: 12px; font-style: normal; font-weight: normal; word-spacing: 0px; white-space: normal; -ms-word-break: break-all; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><strong><span style="color: rgb(51, 51, 51);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">二、调剂考生</span></span></span></strong></p>
+<p style="text-align: left; color: rgb(102, 102, 102); text-transform: none; line-height: 20pt; text-indent: 21pt; letter-spacing: normal; font-family: 宋体; font-size: 12px; font-style: normal; font-weight: normal; word-spacing: 0px; white-space: normal; -ms-word-break: break-all; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">我校除会计（专业代码125300</span>）硕士外，其他各个招生学科专业均大量接收调剂生源。</span></span></p>
+<p style="text-align: left; color: rgb(102, 102, 102); text-transform: none; line-height: 20pt; text-indent: 21pt; letter-spacing: normal; font-family: 宋体; font-size: 12px; font-style: normal; font-weight: normal; word-spacing: 0px; white-space: normal; -ms-word-break: break-all; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">调剂分数线要求：初试总分和单科成绩均达到我校上述相应学科专业进入复试最低分数要求的考生，可通过“中国研究生招生信息网调剂系统”（以下简称调剂系统）填报志愿，申请调剂我校。</span></span></span></p>
+<p style="text-align: left; color: rgb(102, 102, 102); text-transform: none; line-height: 20pt; text-indent: 0px; letter-spacing: normal; font-family: 宋体; font-size: 12px; font-style: normal; font-weight: normal; word-spacing: 0px; white-space: normal; -ms-word-break: break-all; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">（一）调剂注意事项</span></span></span></p>
+<p style="text-align: left; color: rgb(102, 102, 102); text-transform: none; line-height: 20pt; text-indent: 17.95pt; letter-spacing: normal; font-family: 宋体; font-size: 12px; font-style: normal; font-weight: normal; word-spacing: 0px; white-space: normal; -ms-word-break: break-all; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">1</span></span></span><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">、调剂考生应符合调入专业的报考条件。</span></span></span></p>
+<p style="text-align: left; color: rgb(102, 102, 102); text-transform: none; line-height: 20pt; text-indent: 17.95pt; letter-spacing: normal; font-family: 宋体; font-size: 12px; font-style: normal; font-weight: normal; word-spacing: 0px; white-space: normal; -ms-word-break: break-all; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">2</span></span></span><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">、调入专业与第一志愿报考专业相同或相近。</span></span></span></p>
+<p style="text-align: left; color: rgb(102, 102, 102); text-transform: none; line-height: 20pt; text-indent: 17.95pt; letter-spacing: normal; font-family: 宋体; font-size: 12px; font-style: normal; font-weight: normal; word-spacing: 0px; white-space: normal; -ms-word-break: break-all; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">3</span></span></span><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">、初试科目应与调入专业初试科目相同或相近，其中统考科目原则上应相同。</span></span></span></p>
+<p style="text-align: left; color: rgb(102, 102, 102); text-transform: none; line-height: 20pt; text-indent: 17.95pt; letter-spacing: normal; font-family: 宋体; font-size: 12px; font-style: normal; font-weight: normal; word-spacing: 0px; white-space: normal; -ms-word-break: break-all; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">4</span></span></span><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">、我校学术型专业原则上不接受同等学历调剂考生。</span></span></span></p>
+<p style="text-align: left; color: rgb(102, 102, 102); text-transform: none; line-height: 20pt; text-indent: 0px; letter-spacing: normal; font-family: 宋体; font-size: 12px; font-style: normal; font-weight: normal; word-spacing: 0px; white-space: normal; -ms-word-break: break-all; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">（二）调剂流程</span></span></span></p>
+<p style="text-align: left; color: rgb(102, 102, 102); text-transform: none; line-height: 20pt; text-indent: 21pt; letter-spacing: normal; font-family: 宋体; font-size: 12px; font-style: normal; font-weight: normal; word-spacing: 0px; white-space: normal; -ms-word-break: break-all; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">按教育部要求，考生调剂必须通过国家研招网调剂系统，否则调剂无效</span></span></span><span style="color: rgb(51, 51, 51);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">。</span></span></span><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">调剂系统开通时间为3</span>月17</span>日-4</span>月30日，请有意向调剂到我校的考生及时填报。</p>
+<p style="text-align: left; color: rgb(102, 102, 102); text-transform: none; line-height: 20pt; text-indent: 21pt; letter-spacing: normal; font-family: 宋体; font-size: 12px; font-style: normal; font-weight: normal; word-spacing: 0px; white-space: normal; -ms-word-break: break-all; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">考生填报调剂志愿后，我校将根据考生的综合条件进行筛选，并在3</span>天内向符合条件的考生发送复试通知，复试通知以短信方式发送到考生报名时注册的手机上，请考生务必保持手机的畅通，并在通知规定的时间内登陆调剂系统确认“是否同意参加复试”，逾期不确认者将取消复试资格！</span></span></p>
+<p style="text-align: left; color: rgb(102, 102, 102); text-transform: none; line-height: 21.6px; text-indent: 0px; letter-spacing: normal; font-family: 宋体; font-size: 12px; font-style: normal; font-weight: normal; word-spacing: 0px; white-space: normal; -ms-word-break: break-all; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><strong><span style="color: rgb(51, 51, 51);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">三、复试时间</span></span></span></strong></p>
+<p style="text-align: left; color: rgb(102, 102, 102); text-transform: none; line-height: 20pt; text-indent: 21pt; letter-spacing: normal; font-family: 宋体; font-size: 12px; font-style: normal; font-weight: normal; word-spacing: 0px; white-space: normal; -ms-word-break: break-all; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">我校第一批复试将在<strong>3</strong></span><strong>月底</strong>前完成，具体复试时间、报到地点、复试流程、复试实施方案，将陆续在研究生院主页公布或以学院电话通知为准。第一批拟录取后，如仍有缺额，将依情况组织第二批复试。</span></span></p>
+<p style="text-align: left; color: rgb(102, 102, 102); text-transform: none; line-height: 20pt; text-indent: 21pt; letter-spacing: normal; font-family: 宋体; font-size: 12px; font-style: normal; font-weight: normal; word-spacing: 0px; white-space: normal; -ms-word-break: break-all; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">复试内容包括专业课笔试、综合测试（包括英语听说能力）等部分。专业课笔试科目待复试报到后，到各学院进行选择确认。</span></span></span></p>
+<p style="text-align: left; color: rgb(102, 102, 102); text-transform: none; line-height: 21.6px; text-indent: 0px; letter-spacing: normal; font-family: 宋体; font-size: 12px; font-style: normal; font-weight: normal; word-spacing: 0px; white-space: normal; -ms-word-break: break-all; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><strong><span style="color: rgb(51, 51, 51);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">四、关于</span></span></span></strong><strong><span style="color: rgb(51, 51, 51);"><span style="font-family: verdana, sans-serif;"><span style="font-size: 9pt;">MBA</span></span></span></strong><strong><span style="color: rgb(51, 51, 51);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">调剂：</span></span></span></strong></p>
+<p style="text-align: left; color: rgb(102, 102, 102); text-transform: none; line-height: 20pt; text-indent: 21pt; letter-spacing: normal; font-family: 宋体; font-size: 12px; font-style: normal; font-weight: normal; word-spacing: 0px; white-space: normal; -ms-word-break: break-all; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">第一志愿报考工商管理、公共管理、工程管理、旅游管理、会计、图书情报、审计专业学位的考生，且初试总分和单科成绩均达到国家B</span>类线要求，可申请调剂到我校的工商管理硕士（MBA</span>），但需符合工作年限要求，即：大学本科毕业后有3</span>年或3年以上工作经验的人员；获得国家承认的高职高专毕业学历后，有5年或5年以上工作经验，达到与大学本科毕业同等学力的人员；已获得硕士学位并有2年或2年以上工作经验的人员。</p>
+<p style="text-align: left; color: rgb(102, 102, 102); text-transform: none; line-height: 20pt; text-indent: 21pt; letter-spacing: normal; font-family: 宋体; font-size: 12px; font-style: normal; font-weight: normal; word-spacing: 0px; white-space: normal; -ms-word-break: break-all; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">有关MBA</span>调剂，请咨询我校MBA</span>中心古老师，电话0773-2239024</span>、2230093、2190801。</p>
+<p style="color: rgb(102, 102, 102); text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: 宋体; font-size: 12px; font-style: normal; font-weight: normal; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">&nbsp;</p>
+<p style="color: rgb(102, 102, 102); text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: 宋体; font-size: 12px; font-style: normal; font-weight: normal; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><span id="ctl00_Content_lblFile"></span></p>
+<div style="color: rgb(0, 0, 0); text-transform: none; line-height: 19pt; text-indent: 24pt; letter-spacing: normal; font-family: 宋体; font-size: 12px; font-style: normal; font-weight: normal; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"></div>
+<p style="color: rgb(102, 102, 102); text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: 宋体; font-size: 12px; font-style: normal; font-weight: normal; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">&nbsp;</p>
+<p></p>
+</div></div>
+          
+           
+           
+        </td></tr>
+        
+        <tr><td class="pagestyle165561" align="left">
+        </td></tr>
+        <tr><td><div id="div_vote_id"></div></td></tr>
+    <tr><td align="left"><span>
+             
+             
+      </span></td></tr>
+      
+      <tr>
+         <td align="center">
+            
+         </td>
+      </tr>
+
+      <tr><td align="right">
+              <span>【</span><a href="javascript:window.opener=null;window.open('','_self');window.close();"><span>关闭窗口</span></a><span>】</span>
+      </td></tr>
+
+</table>
+</form>
+
+
+
+<script type="text/javascript">
+
+function dosuba165561a()
+{
+    try{
+        var ua = navigator.userAgent.toLowerCase();
+        if(ua.indexOf("msie 8")>-1)
+        {
+            window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE8
+        }else{
+            if (document.all) 
+            {
+                window.external.addFavorite(document.location.href, document.title);
+            }else if(window.sidebar)
+            {
+                window.sidebar.addPanel( document.title, document.location.href, "");//firefox
+            }
+        }
+
+    }
+    catch (e){alert("无法自动添加到收藏夹，请使用 Ctrl + d 手动添加");}
+}
+
+
+</script>
+<!--#endeditable--></TD></TR></TBODY></TABLE><BR></TD></TR>
+<TR>
+<TD>
+<TABLE border="0" cellspacing="0" width="100%" background="../../images/copybg.gif" height="65">
+<TBODY>
+<TR>
+<TD class="norepeat" valign="top" align="center"><br><!--#begineditable contype="" name="版权" action="" layout="" clone="0" namechanged="0" order="4" ispublic="0" tagname="版权" viewid="165554"--><p style="text-align: center"><span style="color: #828282">桂林电子科技大学研究生院招生办公室　版权所有</span></p><!--#endeditable--><FONT color="#828282"></FONT></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+
+</BODY></HTML>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<HTML><HEAD><TITLE>2017年硕士研究生招生复试公告（一）-桂林电子科技大学研究生招生信息网</TITLE><META Name="keywords" Content="高校,招生" />
+
+
+<META content="text/html; charset=UTF-8" http-equiv="Content-Type"><LINK rel="stylesheet" type="text/css" href="../../style/main.css">
+
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="../../_sitegray/_sitegray_d.css" />
+<script language="javascript" src="../../_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="../../content.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1038,'/content.jsp',1160,1461952780)</script>
+</HEAD>
+<BODY class="norepeat" background="../../images/listbannerbg.jpg" leftmargin="0" topmargin="0" bgcolor="#f5f5f5">
+<TABLE border="0" cellspacing="0" width="1002" align="center">
+<TBODY>
+<TR>
+<TD height="78">
+<TABLE border="0" cellspacing="0" cellpadding="0" width="98%" align="center">
+<TBODY>
+<TR>
+<TD><!--#begineditable contype="" name="LOGO" action="" layout="" clone="0" namechanged="0" order="0" ispublic="0" tagname="LOGO" viewid="165570"-->
+<table border="0" cellspacing="0" cellpadding="0"><tr><td><img src="../../images/logo.jpg" border="0" alt="研究生招生信息网" title="研究生招生信息网"></td></tr></table><!--#endeditable--></TD>
+<TD valign="top" align="right"><!--#begineditable contype="" name="主页|收藏" action="" layout="" clone="0" namechanged="0" order="1" ispublic="0" tagname="主页|收藏" viewid="165571"--><script language="javascript">
+function dosuba165571a()
+{
+    try{
+		var ua = navigator.userAgent.toLowerCase();
+		if(ua.indexOf("msie 8")>-1)
+		{
+			window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE8
+		}else if(ua.toLowerCase().indexOf("rv:")>-1)
+        {
+            window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE11+
+        }else{
+			if (document.all) 
+			{
+				window.external.addFavorite(document.location.href, document.title);
+			}else if(window.sidebar)
+			{
+				window.sidebar.addPanel( document.title, document.location.href, "");//firefox
+			}
+			else
+			{
+				alert(hotKeysa165571a());
+			}
+		}
+
+    }
+    catch (e){alert("无法自动添加到收藏夹，请使用 Ctrl + d 手动添加");}
+}
+function hotKeysa165571a() 
+{
+	var ua = navigator.userAgent.toLowerCase(); 
+	var str = "";    
+	var isWebkit = (ua.indexOf('webkit') != - 1); 
+	var isMac = (ua.indexOf('mac') != - 1);     
+	if (ua.indexOf('konqueror') != - 1) 
+	{  
+		str = 'CTRL + B'; // Konqueror   
+	} 
+	else if (window.home || isWebkit || isMac) 
+	{        
+		str = (isMac ? 'Command/Cmd' : 'CTRL') + ' + D'; // Netscape, Safari, iCab, IE5/Mac   
+	}
+	return ((str) ? '无法自动添加到收藏夹，请使用' + str + '手动添加' : str);
+}
+function setHomepagea165571a()
+{
+	var url = document.location.href;
+    if (document.all)
+    {
+        document.body.style.behavior='url(#default#homepage)';
+        document.body.setHomePage(url);
+    }
+    else if (window.sidebar)
+    {
+        if(window.netscape)
+        {
+             try{
+                  netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+             }catch (e){
+                   alert("该操作被浏览器拒绝，如果想启用该功能，请在地址栏内输入 about:config,然后将项 signed.applets.codebase_principal_support 值该为true");
+             }
+    	}
+	var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components. interfaces.nsIPrefBranch);
+	prefs.setCharPref('browser.startup.homepage',url);
+	}
+	else
+	{
+		alert("浏览器不支持自动设为首页，请手动设置");
+	}
+}
+</script><table><tr><td style="font-size:9pt"><A href="javascript:setHomepagea165571a()"><span class="font165571">设为首页</span></A>&nbsp;<span class="splitcharstyle165571"> | </span>&nbsp;<A onclick="javascript:dosuba165571a();" href="#"><span class="font165571">加入收藏</span></A></td></tr></table><!--#endeditable--></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD height="43" valign="top">
+<TABLE border="0" cellspacing="0" cellpadding="0" width="992" align="center" height="34">
+<TBODY>
+<TR>
+<td background="../../images/menubar-left.jpg" class="menuleftbg" width="150"></td>
+<TD background="../../images/menubarbg.jpg" width="695" align="center"><!--#begineditable contype="" name="网站导航" action="" layout="" clone="0" namechanged="0" order="2" ispublic="0" tagname="网站导航" viewid="165558"--><style type="text/css">
+td.b1_2_{FONT-SIZE:9pt;}
+td.b2_2_{FONT-SIZE:9pt;}
+td.b3_2_{FONT-SIZE:9pt;BACKGROUND-COLOR: #eff8fe;}
+td.b4_2_{FONT-SIZE:9pt;BACKGROUND-COLOR: #e8f0fb;}
+a.menu0_2_:link {TEXT-DECORATION: none;};
+a.menu0_2_:visited { TEXT-DECORATION: none;};
+a.menu0_2_:hover {TEXT-DECORATION: none;};
+a.menu0_2_:active {TEXT-DECORATION: none;};
+table.tb1_2_{FONT-SIZE:9pt;border:0;}
+span.s1_2_{COLOR: #ff9900;FONT-SIZE: 10pt;FONT-WEIGHT: bold;}
+span.s2_2_{FONT-SIZE: 9pt;COLOR: #cc0000;LINE-HEIGHT: 160%;}
+span.s10_2_{COLOR: #ffffff;FONT-SIZE: 10pt;FONT-WEIGHT: bold;TEXT-DECORATION: none;}
+span.s20_2_{FONT-SIZE: 9pt;COLOR: #222222;LINE-HEIGHT: 160%;}
+</style>
+<SCRIPT language="javascript"> 
+ var showfix_2_ = 1;
+ var isvertical_2_ = false;
+</SCRIPT>
+<script language="javascript" src="/system/resource/js/menu/text.js"></script>
+<TABLE id="t1_2_" cellSpacing="0" cellPadding="0" border="0" height="0" width="688"><TR><TD valign="center"></TD><TD valign="middle" height="0" width="0" nowrap class="b1_2_" align="center" id="a_2_1001" onmouseover="tshowLayers('1001','b2_2_', '_2_')" onmouseout="thideLayers('1001','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="../../index.htm"><span class="fontstyle165558">&nbsp;首页&nbsp;</span></a></TD><TD valign="center" class="leaderfont165558"><img src="../../images/menubar-br.jpg" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1034" onmouseover="tshowLayers('1034','b2_2_', '_2_')" onmouseout="thideLayers('1034','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="../../list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1039"><span class="fontstyle165558">&nbsp;博士招生&nbsp;</span></a></TD><TD valign="center" class="leaderfont165558"><img src="../../images/menubar-br.jpg" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1028" onmouseover="tshowLayers('1028','b2_2_', '_2_')" onmouseout="thideLayers('1028','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="../../list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1038"><span class="fontstyle165558">&nbsp;硕士招生&nbsp;</span></a></TD><TD valign="center" class="leaderfont165558"><img src="../../images/menubar-br.jpg" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1054" onmouseover="tshowLayers('1054','b2_2_', '_2_')" onmouseout="thideLayers('1054','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="http://www.guet.edu.cn/gra/jsfw/sssds.htm"><span class="fontstyle165558">&nbsp;导师介绍&nbsp;</span></a></TD><TD valign="center" class="leaderfont165558"><img src="../../images/menubar-br.jpg" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1035" onmouseover="tshowLayers('1035','b2_2_', '_2_')" onmouseout="thideLayers('1035','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="../../list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1044"><span class="fontstyle165558">&nbsp;考点通知&nbsp;</span></a></TD><TD valign="center" class="leaderfont165558"><img src="../../images/menubar-br.jpg" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1030" onmouseover="tshowLayers('1030','b2_2_', '_2_')" onmouseout="thideLayers('1030','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="../../list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1045"><span class="fontstyle165558">&nbsp;招生政策&nbsp;</span></a></TD><TD valign="center" class="leaderfont165558"><img src="../../images/menubar-br.jpg" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1036" onmouseover="tshowLayers('1036','b2_2_', '_2_')" onmouseout="thideLayers('1036','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="../../list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1064"><span class="fontstyle165558">&nbsp;历史数据&nbsp;</span></a></TD><TD valign="center" class="leaderfont165558"><img src="../../images/menubar-br.jpg" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1047" onmouseover="tshowLayers('1047','b2_2_', '_2_')" onmouseout="thideLayers('1047','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="../../list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1048"><span class="fontstyle165558">&nbsp;信息公开&nbsp;</span></a></TD><TD valign="center" class="leaderfont165558"><img src="../../images/menubar-br.jpg" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1041" onmouseover="tshowLayers('1041','b2_2_', '_2_')" onmouseout="thideLayers('1041','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="../../list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1042"><span class="fontstyle165558">&nbsp;联系方式&nbsp;</span></a></TD><TD valign="center" class="leaderfont165558"><img src="../../images/menubar-br.jpg" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1051" onmouseover="tshowLayers('1051','b2_2_', '_2_')" onmouseout="thideLayers('1051','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="../../list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1067"><span class="fontstyle165558">&nbsp;下载专区&nbsp;</span></a></TD></TR></TR></table><!--#endeditable--></TD>
+<TD width="150"><IMG src="../../images/menubar-right.jpg" width="150" height="34"></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+<TABLE border="0" cellspacing="0" width="100%">
+<TBODY>
+<TR>
+<TD height="22">&nbsp;</TD></TR>
+<TR>
+<TD bgcolor="#ffffff" height="30" align="center">
+<TABLE border="0" cellspacing="0" width="1002">
+<TBODY>
+<TR>
+<TD align="left"><!--#begineditable contype="" name="当前位置" action="" layout="" clone="0" namechanged="0" order="3" ispublic="0" tagname="当前位置" viewid="37948"-->  
+<table class="winstyle37948" cellspacing="0" cellpadding="0"><tr><td nowrap>您的位置：   
+<a href="../../index.htm"><span class="fontstyle37948">首页</span></a><span class="splitflagstyle37948">></span><a href="../../list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1038"><span class="fontstyle37948">硕士招生</span></a><span class="splitflagstyle37948">></span><a href="../../list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1038"><span class="fontstyle37948">硕士招生</span></a><span class="splitflagstyle37948">></span><span class="fontstyle37948">正文</span></td></tr></table><!--#endeditable--><STRONG></STRONG></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD align="center"><BR>
+<TABLE border="0" cellspacing="1" cellpadding="3" width="970" bgcolor="#d3d3d3">
+<TBODY>
+<TR>
+<TD class="4border" bgcolor="#ffffff" align="center"><br><!--#begineditable contype="" name="文章内容" action="" layout="" clone="0" namechanged="0" order="0" ispublic="0" tagname="文章内容" viewid="165561"-->
+
+<LINK href="/system/resource/style/component/news/content/title.css" type="text/css" rel="stylesheet">
+<style type="text/css">
+     .content{margin:auto;text-align:left;line-height:18px;padding:3px 0 0 0;color:#727272;}
+     .process{width:162px;height:11px;background:#EDEDED;overflow:hidden;float:left;margin-left:26px !important;margin-left:13px;margin-right:10px;}
+     .process div{width:160px;height:11px;background:url(/system/resource/images/newsvote/bg.gif) repeat-x;border-left:1px solid #000;border-right:1px solid #000;}
+     .process .style7{border-left-color:#ff0000;border-right-color:#ff0000;background-position:0 -77px;}
+     
+</style>
+
+
+<script language="javascript" src="../../_dwr/interface/NewsvoteDWR.js"></script>
+<script language="javascript" src="../../_dwr/engine.js"></script>
+<script language="javascript" src="../../_dwr/util.js"></script>
+<script language="javascript" src="/system/resource/js/news/newscontent.js"></script>
+<script type="text/javascript">
+
+NewsvoteDWR.getNewsLinkUrl(1160,"1461952780","vsb",newsSkip);
+function newsSkip(data)
+{
+    if(data != "")
+    {
+        window.location.href = data;
+    }
+}
+</script>
+
+
+
+<form name="form165561a">
+<table border="0" class="winstyle165561" width="100%" cellspacing="0" cellpadding="0">
+
+      <tr><td class="titlestyle165561" align="center">
+2017年硕士研究生招生复试公告（一）
+      </td></tr>
+      <tr height="30"><td align="center">
+            <span class="timestyle165561">
+                 2018-08-28 09:08</span>
+            <span class="authorstyle165561">&nbsp;
+            
+            
+            </span>
+            
+                <span class="wb_content">审核人：</span>
+            
+            
+        </td></tr>
+        <tr><td align="right">
+        <span>
+
+        </span>
+        </td></tr>
+<tr><td height="1" BACKGROUND="../../bgline.gif"></td></tr>
+      <tr><td class="contentstyle165561">
+        <div class="c165561_content" id="vsb_newscontent"><div id="vsb_content">
+           <p style="text-align: left; color: rgb(102, 102, 102); text-transform: none; line-height: 20pt; text-indent: 0px; letter-spacing: normal; font-family: 宋体; font-size: 12px; font-style: normal; font-weight: normal; word-spacing: 0px; white-space: normal; -ms-word-break: break-all; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">本公告适用于我校2017</span>年全日制硕士及非全日制硕士招生专业</span></span></p>
+<p style="text-align: left; color: rgb(102, 102, 102); text-transform: none; line-height: 20pt; text-indent: 21pt; letter-spacing: normal; font-family: 宋体; font-size: 12px; font-style: normal; font-weight: normal; word-spacing: 0px; white-space: normal; -ms-word-break: break-all; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">2017</span></span></span><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">年全国硕士研究生统一入学考试考生进入复试的初试成绩基本要求（以下称国家线）现已公布，为保证我校调剂和复试工作顺利开展，现就有关事项公告如下：</span></span></span></p>
+<p style="text-align: left; color: rgb(102, 102, 102); text-transform: none; line-height: 19.2pt; text-indent: 0px; letter-spacing: normal; font-family: 宋体; font-size: 12px; font-style: normal; font-weight: normal; word-spacing: 0px; white-space: normal; -ms-word-break: break-all; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><strong><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">一、一志愿考生获得复试资格要求</span></span></span></strong></p>
+<p style="text-align: left; color: rgb(102, 102, 102); text-transform: none; line-height: 20pt; text-indent: 21pt; letter-spacing: normal; font-family: 宋体; font-size: 12px; font-style: normal; font-weight: normal; word-spacing: 0px; white-space: normal; -ms-word-break: break-all; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">除会计硕士（MPAcc</span>）外，其他一志愿考生的初试总分和单科成绩达到国家B</span>类地区相应学科专业进入复试最低分数要求，自动获得我校复试资格。我校各招生专业进入复试的初试成绩基本要求见下表：</span></p>
+<p style="color: rgb(102, 102, 102); text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: 宋体; font-size: 12px; font-style: normal; font-weight: normal; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">&nbsp;</p>
+<table width="852" align="center" cellspacing="0" cellpadding="0">
+ <tbody>
+  <tr class="firstRow" style="height: 26px;">
+   <td width="850" height="26" nowrap colspan="6" style="border-color: rgb(240, 240, 240) rgb(240, 240, 240) windowtext; padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-bottom-width: 1pt; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">2017</span></span></span><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">年我校硕士研究生招生考试考生进入复试的初试成绩基本要求</span></span></span></p></td>
+  </tr>
+  <tr style="height: 26px;">
+   <td width="124" height="26" nowrap rowspan="2" style="border-color: rgb(240, 240, 240) windowtext windowtext; padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; border-right-style: solid; border-bottom-style: solid; border-left-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">学科门类代码</span></span></span></p></td>
+   <td width="279" height="26" nowrap rowspan="2" colspan="2" style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">学科门类(</span></span></span><span style="color: rgb(102, 102, 102);"><span style="font-family: 微软雅黑, sans-serif;"><span style="font-size: 9pt;">专业)</span>名称</span></span></p></td>
+   <td width="440" height="26" colspan="3" style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">B</span></span></span><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">类考生</span></span></span></p></td>
+  </tr>
+  <tr style="height: 26px;">
+   <td width="151" height="26" style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">总分</span></span></span></p></td>
+   <td width="148" height="26" style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">单科（满分=100</span></span></span><span style="color: rgb(102, 102, 102);"><span style="font-family: 微软雅黑, sans-serif;"><span style="font-size: 9pt;">分）</span></span></span></p></td>
+   <td width="134" height="26" style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">单科（满分&gt;100</span></span></span><span style="color: rgb(102, 102, 102);"><span style="font-family: 微软雅黑, sans-serif;"><span style="font-size: 9pt;">分）</span></span></span></p></td>
+  </tr>
+  <tr style="height: 26px;">
+   <td width="124" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext; padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; border-right-style: solid; border-bottom-style: solid; border-left-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">02</span></span></span></p></td>
+   <td width="279" height="26" nowrap colspan="2" style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">经济学</span></span></span></p></td>
+   <td width="151" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">325</span></span></span></p></td>
+   <td width="148" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">43</span></span></span></p></td>
+   <td width="134" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">65</span></span></span></p></td>
+  </tr>
+  <tr style="height: 26px;">
+   <td width="124" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext; padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; border-right-style: solid; border-bottom-style: solid; border-left-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">03</span></span></span></p></td>
+   <td width="279" height="26" nowrap colspan="2" style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">法学</span></span></span></p></td>
+   <td width="151" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">300</span></span></span></p></td>
+   <td width="148" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">41</span></span></span></p></td>
+   <td width="134" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">62</span></span></span></p></td>
+  </tr>
+  <tr style="height: 26px;">
+   <td width="124" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext; padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; border-right-style: solid; border-bottom-style: solid; border-left-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">07</span></span></span></p></td>
+   <td width="279" height="26" nowrap colspan="2" style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">理学</span></span></span></p></td>
+   <td width="151" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">280</span></span></span></p></td>
+   <td width="148" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">36</span></span></span></p></td>
+   <td width="134" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">54</span></span></span></p></td>
+  </tr>
+  <tr style="height: 26px;">
+   <td width="124" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext; padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; border-right-style: solid; border-bottom-style: solid; border-left-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">08</span></span></span></p></td>
+   <td width="279" height="26" nowrap colspan="2" style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">工学（不含照顾专业）</span></span></span></p></td>
+   <td width="151" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">255</span></span></span></p></td>
+   <td width="148" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">32</span></span></span></p></td>
+   <td width="134" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">48</span></span></span></p></td>
+  </tr>
+  <tr style="height: 26px;">
+   <td width="124" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext; padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; border-right-style: solid; border-bottom-style: solid; border-left-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">12</span></span></span></p></td>
+   <td width="279" height="26" nowrap colspan="2" style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">管理学</span></span></span></p></td>
+   <td width="151" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">330</span></span></span></p></td>
+   <td width="148" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">43</span></span></span></p></td>
+   <td width="134" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">65</span></span></span></p></td>
+  </tr>
+  <tr style="height: 26px;">
+   <td width="124" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext; padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; border-right-style: solid; border-bottom-style: solid; border-left-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">0351</span></span></span></p></td>
+   <td width="279" height="26" nowrap colspan="2" style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">法律（非法学）、法律（法学）</span></span></span></p></td>
+   <td width="151" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">300</span></span></span></p></td>
+   <td width="148" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">41</span></span></span></p></td>
+   <td width="134" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">62</span></span></span></p></td>
+  </tr>
+  <tr style="height: 26px;">
+   <td width="124" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext; padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; border-right-style: solid; border-bottom-style: solid; border-left-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">0551</span></span></span></p></td>
+   <td width="279" height="26" nowrap colspan="2" style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">翻译</span></span></span></p></td>
+   <td width="151" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">335</span></span></span></p></td>
+   <td width="148" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">50</span></span></span></p></td>
+   <td width="134" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">75</span></span></span></p></td>
+  </tr>
+  <tr style="height: 26px;">
+   <td width="124" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext; padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; border-right-style: solid; border-bottom-style: solid; border-left-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">0852</span></span></span></p></td>
+   <td width="279" height="26" colspan="2" style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">工程（不含照顾专业）</span></span></span></p></td>
+   <td width="151" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">255</span></span></span></p></td>
+   <td width="148" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">32</span></span></span></p></td>
+   <td width="134" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">48</span></span></span></p></td>
+  </tr>
+  <tr style="height: 26px;">
+   <td width="124" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext; padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; border-right-style: solid; border-bottom-style: solid; border-left-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">1251</span></span></span></p></td>
+   <td width="279" height="26" colspan="2" style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">工商管理</span></span></span></p></td>
+   <td width="151" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">160</span></span></span></p></td>
+   <td width="148" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">37</span></span></span></p></td>
+   <td width="134" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">74</span></span></span></p></td>
+  </tr>
+  <tr style="height: 26px;">
+   <td width="124" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext; padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; border-right-style: solid; border-bottom-style: solid; border-left-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">1253</span></span></span></p></td>
+   <td width="279" height="26" colspan="2" style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">会计</span></span></span></p></td>
+   <td width="151" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">180</span></span></span></p></td>
+   <td width="148" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">37</span></span></span></p></td>
+   <td width="134" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">74</span></span></span></p></td>
+  </tr>
+  <tr style="height: 26px;">
+   <td width="124" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext; padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; border-right-style: solid; border-bottom-style: solid; border-left-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">1351</span></span></span></p></td>
+   <td width="279" height="26" colspan="2" style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">艺术</span></span></span></p></td>
+   <td width="151" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">325</span></span></span></p></td>
+   <td width="148" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">32</span></span></span></p></td>
+   <td width="134" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">48</span></span></span></p></td>
+  </tr>
+  <tr style="height: 24px;">
+   <td width="274" height="24" nowrap rowspan="2" colspan="2" style="border-color: rgb(240, 240, 240) windowtext windowtext; padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; border-right-style: solid; border-bottom-style: solid; border-left-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">“退役大学生士兵”专项计划</span></span></span></p></td>
+   <td width="132" height="24" style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">工程</span></span></span></p></td>
+   <td width="151" height="24" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">230</span></span></span></p></td>
+   <td width="148" height="24" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">30</span></span></span></p></td>
+   <td width="134" height="24" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">45</span></span></span></p></td>
+  </tr>
+  <tr style="height: 25px;">
+   <td width="132" height="25" style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">MBA</span></span></span><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">、MPAcc</span></span></span></p></td>
+   <td width="151" height="25" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">140</span></span></span></p></td>
+   <td width="148" height="25" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">37</span></span></span></p></td>
+   <td width="134" height="25" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">74</span></span></span></p></td>
+  </tr>
+  <tr style="height: 26px;">
+   <td width="406" height="26" nowrap colspan="3" style="border-color: rgb(240, 240, 240) windowtext windowtext; padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; border-right-style: solid; border-bottom-style: solid; border-left-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">享受少数民族政策的考生</span></span></span></p></td>
+   <td width="151" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">245</span></span></span></p></td>
+   <td width="148" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">30</span></span></span></p></td>
+   <td width="134" height="26" nowrap style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); padding: 0.75pt 0.75pt 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei; border-right-width: 1pt; border-bottom-width: 1pt; border-right-style: solid; border-bottom-style: solid;"><p style="text-align: center; color: rgb(102, 102, 102); font-size: 12px;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">45</span></span></span></p></td>
+  </tr>
+  <tr>
+   <td style="border-color: rgb(240, 240, 240); padding: 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei;"></td>
+   <td style="border-color: rgb(240, 240, 240); padding: 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei;"></td>
+   <td style="border-color: rgb(240, 240, 240); padding: 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei;"></td>
+   <td style="border-color: rgb(240, 240, 240); padding: 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei;"></td>
+   <td style="border-color: rgb(240, 240, 240); padding: 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei;"></td>
+   <td style="border-color: rgb(240, 240, 240); padding: 0cm; font-family: &quot;Microsoft YaHei&quot;, SimSun, SimHei;"></td>
+  </tr>
+ </tbody>
+</table>
+<div style="color: rgb(0, 0, 0); text-transform: none; text-indent: 0px; letter-spacing: normal; clear: both; font-family: 宋体; font-size: 12px; font-style: normal; font-weight: normal; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"></div>
+<p style="text-align: left; color: rgb(102, 102, 102); text-transform: none; line-height: 21.6px; text-indent: 0px; letter-spacing: normal; font-family: 宋体; font-size: 12px; font-style: normal; font-weight: normal; word-spacing: 0px; white-space: normal; -ms-word-break: break-all; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">“退役大学生士兵” 专项计划专门用于招收退役大学生士兵攻读硕士研究生。由我校自行划定线复试线。</span></span></span></p>
+<p style="text-align: left; color: rgb(102, 102, 102); text-transform: none; line-height: 20pt; text-indent: 21pt; letter-spacing: normal; font-family: 宋体; font-size: 12px; font-style: normal; font-weight: normal; word-spacing: 0px; white-space: normal; -ms-word-break: break-all; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">享受少数民族政策考生：①报考地处二区招生单位，且毕业后在国务院公布的民族区域自治地方就业的少数民族普通高校应届本科毕业生考生；或者②工作单位在国务院公布的民族区域自治地方，且定向就业原单位的少数民族在职人员考生。享受少数民族政策的考生，需提前到我校研究生院招生办提交申请，查验身份证及户口本原件，收取申请书、身份证复印件、户口薄户主页和本人页复印件。</span></span></span></p>
+<p style="text-align: left; color: rgb(102, 102, 102); text-transform: none; line-height: 21.6px; text-indent: 0px; letter-spacing: normal; font-family: 宋体; font-size: 12px; font-style: normal; font-weight: normal; word-spacing: 0px; white-space: normal; -ms-word-break: break-all; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><strong><span style="color: rgb(51, 51, 51);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">二、调剂考生</span></span></span></strong></p>
+<p style="text-align: left; color: rgb(102, 102, 102); text-transform: none; line-height: 20pt; text-indent: 21pt; letter-spacing: normal; font-family: 宋体; font-size: 12px; font-style: normal; font-weight: normal; word-spacing: 0px; white-space: normal; -ms-word-break: break-all; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">我校除会计（专业代码125300</span>）硕士外，其他各个招生学科专业均大量接收调剂生源。</span></span></p>
+<p style="text-align: left; color: rgb(102, 102, 102); text-transform: none; line-height: 20pt; text-indent: 21pt; letter-spacing: normal; font-family: 宋体; font-size: 12px; font-style: normal; font-weight: normal; word-spacing: 0px; white-space: normal; -ms-word-break: break-all; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">调剂分数线要求：初试总分和单科成绩均达到我校上述相应学科专业进入复试最低分数要求的考生，可通过“中国研究生招生信息网调剂系统”（以下简称调剂系统）填报志愿，申请调剂我校。</span></span></span></p>
+<p style="text-align: left; color: rgb(102, 102, 102); text-transform: none; line-height: 20pt; text-indent: 0px; letter-spacing: normal; font-family: 宋体; font-size: 12px; font-style: normal; font-weight: normal; word-spacing: 0px; white-space: normal; -ms-word-break: break-all; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">（一）调剂注意事项</span></span></span></p>
+<p style="text-align: left; color: rgb(102, 102, 102); text-transform: none; line-height: 20pt; text-indent: 17.95pt; letter-spacing: normal; font-family: 宋体; font-size: 12px; font-style: normal; font-weight: normal; word-spacing: 0px; white-space: normal; -ms-word-break: break-all; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">1</span></span></span><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">、调剂考生应符合调入专业的报考条件。</span></span></span></p>
+<p style="text-align: left; color: rgb(102, 102, 102); text-transform: none; line-height: 20pt; text-indent: 17.95pt; letter-spacing: normal; font-family: 宋体; font-size: 12px; font-style: normal; font-weight: normal; word-spacing: 0px; white-space: normal; -ms-word-break: break-all; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">2</span></span></span><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">、调入专业与第一志愿报考专业相同或相近。</span></span></span></p>
+<p style="text-align: left; color: rgb(102, 102, 102); text-transform: none; line-height: 20pt; text-indent: 17.95pt; letter-spacing: normal; font-family: 宋体; font-size: 12px; font-style: normal; font-weight: normal; word-spacing: 0px; white-space: normal; -ms-word-break: break-all; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">3</span></span></span><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">、初试科目应与调入专业初试科目相同或相近，其中统考科目原则上应相同。</span></span></span></p>
+<p style="text-align: left; color: rgb(102, 102, 102); text-transform: none; line-height: 20pt; text-indent: 17.95pt; letter-spacing: normal; font-family: 宋体; font-size: 12px; font-style: normal; font-weight: normal; word-spacing: 0px; white-space: normal; -ms-word-break: break-all; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">4</span></span></span><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">、我校学术型专业原则上不接受同等学历调剂考生。</span></span></span></p>
+<p style="text-align: left; color: rgb(102, 102, 102); text-transform: none; line-height: 20pt; text-indent: 0px; letter-spacing: normal; font-family: 宋体; font-size: 12px; font-style: normal; font-weight: normal; word-spacing: 0px; white-space: normal; -ms-word-break: break-all; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">（二）调剂流程</span></span></span></p>
+<p style="text-align: left; color: rgb(102, 102, 102); text-transform: none; line-height: 20pt; text-indent: 21pt; letter-spacing: normal; font-family: 宋体; font-size: 12px; font-style: normal; font-weight: normal; word-spacing: 0px; white-space: normal; -ms-word-break: break-all; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">按教育部要求，考生调剂必须通过国家研招网调剂系统，否则调剂无效</span></span></span><span style="color: rgb(51, 51, 51);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">。</span></span></span><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">调剂系统开通时间为3</span>月17</span>日-4</span>月30日，请有意向调剂到我校的考生及时填报。</p>
+<p style="text-align: left; color: rgb(102, 102, 102); text-transform: none; line-height: 20pt; text-indent: 21pt; letter-spacing: normal; font-family: 宋体; font-size: 12px; font-style: normal; font-weight: normal; word-spacing: 0px; white-space: normal; -ms-word-break: break-all; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">考生填报调剂志愿后，我校将根据考生的综合条件进行筛选，并在3</span>天内向符合条件的考生发送复试通知，复试通知以短信方式发送到考生报名时注册的手机上，请考生务必保持手机的畅通，并在通知规定的时间内登陆调剂系统确认“是否同意参加复试”，逾期不确认者将取消复试资格！</span></span></p>
+<p style="text-align: left; color: rgb(102, 102, 102); text-transform: none; line-height: 21.6px; text-indent: 0px; letter-spacing: normal; font-family: 宋体; font-size: 12px; font-style: normal; font-weight: normal; word-spacing: 0px; white-space: normal; -ms-word-break: break-all; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><strong><span style="color: rgb(51, 51, 51);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">三、复试时间</span></span></span></strong></p>
+<p style="text-align: left; color: rgb(102, 102, 102); text-transform: none; line-height: 20pt; text-indent: 21pt; letter-spacing: normal; font-family: 宋体; font-size: 12px; font-style: normal; font-weight: normal; word-spacing: 0px; white-space: normal; -ms-word-break: break-all; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">我校第一批复试将在<strong>3</strong></span><strong>月底</strong>前完成，具体复试时间、报到地点、复试流程、复试实施方案，将陆续在研究生院主页公布或以学院电话通知为准。第一批拟录取后，如仍有缺额，将依情况组织第二批复试。</span></span></p>
+<p style="text-align: left; color: rgb(102, 102, 102); text-transform: none; line-height: 20pt; text-indent: 21pt; letter-spacing: normal; font-family: 宋体; font-size: 12px; font-style: normal; font-weight: normal; word-spacing: 0px; white-space: normal; -ms-word-break: break-all; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">复试内容包括专业课笔试、综合测试（包括英语听说能力）等部分。专业课笔试科目待复试报到后，到各学院进行选择确认。</span></span></span></p>
+<p style="text-align: left; color: rgb(102, 102, 102); text-transform: none; line-height: 21.6px; text-indent: 0px; letter-spacing: normal; font-family: 宋体; font-size: 12px; font-style: normal; font-weight: normal; word-spacing: 0px; white-space: normal; -ms-word-break: break-all; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><strong><span style="color: rgb(51, 51, 51);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">四、关于</span></span></span></strong><strong><span style="color: rgb(51, 51, 51);"><span style="font-family: verdana, sans-serif;"><span style="font-size: 9pt;">MBA</span></span></span></strong><strong><span style="color: rgb(51, 51, 51);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">调剂：</span></span></span></strong></p>
+<p style="text-align: left; color: rgb(102, 102, 102); text-transform: none; line-height: 20pt; text-indent: 21pt; letter-spacing: normal; font-family: 宋体; font-size: 12px; font-style: normal; font-weight: normal; word-spacing: 0px; white-space: normal; -ms-word-break: break-all; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">第一志愿报考工商管理、公共管理、工程管理、旅游管理、会计、图书情报、审计专业学位的考生，且初试总分和单科成绩均达到国家B</span>类线要求，可申请调剂到我校的工商管理硕士（MBA</span>），但需符合工作年限要求，即：大学本科毕业后有3</span>年或3年以上工作经验的人员；获得国家承认的高职高专毕业学历后，有5年或5年以上工作经验，达到与大学本科毕业同等学力的人员；已获得硕士学位并有2年或2年以上工作经验的人员。</p>
+<p style="text-align: left; color: rgb(102, 102, 102); text-transform: none; line-height: 20pt; text-indent: 21pt; letter-spacing: normal; font-family: 宋体; font-size: 12px; font-style: normal; font-weight: normal; word-spacing: 0px; white-space: normal; -ms-word-break: break-all; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><span style="color: rgb(102, 102, 102);"><span style="font-family: 宋体;"><span style="font-size: 9pt;">有关MBA</span>调剂，请咨询我校MBA</span>中心古老师，电话0773-2239024</span>、2230093、2190801。</p>
+<p style="color: rgb(102, 102, 102); text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: 宋体; font-size: 12px; font-style: normal; font-weight: normal; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">&nbsp;</p>
+<p style="color: rgb(102, 102, 102); text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: 宋体; font-size: 12px; font-style: normal; font-weight: normal; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><span id="ctl00_Content_lblFile"></span></p>
+<div style="color: rgb(0, 0, 0); text-transform: none; line-height: 19pt; text-indent: 24pt; letter-spacing: normal; font-family: 宋体; font-size: 12px; font-style: normal; font-weight: normal; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"></div>
+<p style="color: rgb(102, 102, 102); text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: 宋体; font-size: 12px; font-style: normal; font-weight: normal; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">&nbsp;</p>
+<p></p>
+</div></div>
+          
+           
+           
+        </td></tr>
+        
+        <tr><td class="pagestyle165561" align="left">
+        </td></tr>
+        <tr><td><div id="div_vote_id"></div></td></tr>
+    <tr><td align="left"><span>
+             
+             
+      </span></td></tr>
+      
+      <tr>
+         <td align="center">
+            
+         </td>
+      </tr>
+
+      <tr><td align="right">
+              <span>【</span><a href="javascript:window.opener=null;window.open('','_self');window.close();"><span>关闭窗口</span></a><span>】</span>
+      </td></tr>
+
+</table>
+</form>
+
+
+
+<script type="text/javascript">
+
+function dosuba165561a()
+{
+    try{
+        var ua = navigator.userAgent.toLowerCase();
+        if(ua.indexOf("msie 8")>-1)
+        {
+            window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE8
+        }else{
+            if (document.all) 
+            {
+                window.external.addFavorite(document.location.href, document.title);
+            }else if(window.sidebar)
+            {
+                window.sidebar.addPanel( document.title, document.location.href, "");//firefox
+            }
+        }
+
+    }
+    catch (e){alert("无法自动添加到收藏夹，请使用 Ctrl + d 手动添加");}
+}
+
+
+</script>
+<!--#endeditable--></TD></TR></TBODY></TABLE><BR></TD></TR>
+<TR>
+<TD>
+<TABLE border="0" cellspacing="0" width="100%" background="../../images/copybg.gif" height="65">
+<TBODY>
+<TR>
+<TD class="norepeat" valign="top" align="center"><br><!--#begineditable contype="" name="版权" action="" layout="" clone="0" namechanged="0" order="4" ispublic="0" tagname="版权" viewid="165554"--><p style="text-align: center"><span style="color: #828282">桂林电子科技大学研究生院招生办公室　版权所有</span></p><!--#endeditable--><FONT color="#828282"></FONT></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+
+</BODY></HTML>

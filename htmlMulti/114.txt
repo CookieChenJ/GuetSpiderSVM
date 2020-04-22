@@ -1,0 +1,671 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html class="hb-loaded"><head id="Head1"><title>机电工程学院</title><META Name="keywords" Content="桂林电子科技大学机电工程学院,首   页" />
+
+
+
+
+<!-- saved from url=(0025)http://dept1.guet.edu.cn/ -->
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+<link rel="stylesheet" type="text/css" href="css/style.css">
+<link rel="stylesheet" type="text/css" href="css/newnav.css">
+<script type="text/javascript" src="js/jquery.min.js"></script>
+<script type="text/javascript" src="js/jquery-1.4.2.js"></script></script>
+<script type="text/javascript" src="js/tabScript.js"></script>
+<script src="js/jquery-1.8.3.min.js" type="text/javascript"></script>
+        <script type="text/javascript">
+            $(function(){
+                var _this1=null;
+                $('.nav>li').hover(function(){
+                    _this1=$(this);
+                    _this1.find('.second-nav').show();
+                    var _this2=null;
+                    _this1.find('.second-nav').find('li').hover(function(){
+                        _this2=$(this);
+                        _this2.find('.third-nav').show();
+                        _this2.find('.third-nav').hover(function(){
+                            $(this).show();
+                        },function(){
+                            $(this).hide();
+                        });
+                    },function(){
+                        _this2.find('.third-nav').hide();
+                    });
+                },function(){
+                    _this1.find('.second-nav').hide();
+                });
+            });
+        </script>
+    
+        
+        <script>
+            $(function() {
+                loadTab();
+            });
+        </script><link rel="stylesheet" type="text/css" href="css/comm.css"><link rel="stylesheet" type="text/css" href="css/zzsc.css"><script type="text/javascript" src="js/jquery.tools.min.js"></script><script>var $pageInfo = {publishmentSystemID : 4, channelID : 4, contentID : 0, siteUrl : "", homeUrl : "/home", currentUrl : "/", rootUrl : "", apiUrl : "/api"};</script>
+
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="index.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/vsbscreen.min.js" id="_vsbscreen" devices="pc|mobile|pad"></script>
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1037,'/index.jsp',-1,1409762672)</script>
+</head>
+<body huaban_collector_injected="true" style="background-color: white">
+<form id="form1" method="post" action="http://dept1.guet.edu.cn/#/">
+<div id="home" class="mainMaster"><!--logo--><!--topbannel--><!--      head start         --></form>
+<div class="headbox">
+<div class="head">
+<div class="headcontent">
+<div id="logo" class="center"><a href="http://dept1.guet.edu.cn/"><!--#begineditable name="LOGO" viewid="163664" tagname="LOGO" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""-->
+<!-- 网站logo图片地址请在本组件"内容配置-网站logo"处填写 -->
+<a href="" title="机电工程学院"><img src="images/logo.png" width="637" height="61" border="0" alt="机电工程学院" title="机电工程学院"></a><!--#endeditable--></a>
+               
+<div class="headlink">
+
+<a href="https://www.guet.edu.cn/index.htm" target="_blank">[学校主页]</a>
+<a href="http://mwb.guet.edu.cn/system/login.jsp" target="_blank">[登录]</a>
+</div>
+
+</div></div></div>
+<!--      head end         --><!--      nav start         -->
+<div class="nav">
+<div class="nav_center">
+<div class="nav_txt">
+<div class="header"><!--#begineditable name="网站导航" viewid="163830" tagname="网站导航" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""-->                    
+                                <ul class="nav">                    
+
+                        
+                        <li>
+
+                            <a a href="index.htm" title="首    页">首    页</a>
+                        </li>
+
+                        <li>
+
+                            <a a href="xygk.htm" title="学院概况">学院概况</a>
+                            <ul class="second-nav">
+                            <li><a a href="xygk/xyjj.htm" title="学院简介">学院简介</a>
+                            </li>
+                            <li><a a href="xygk/lsyg.htm" title="历史沿革">历史沿革</a>
+                            </li>
+                            <li><a a href="xygk/jgsz.htm" title="机构设置">机构设置</a>
+                            </li>
+                            <li><a a href="xygk/xrld1.htm" title="现任领导">现任领导</a>
+                            </li>
+                            <li><a a href="xygk/gwzz.htm" title="岗位职责">岗位职责</a>
+                            </li>
+
+                            </ul>
+                        </li>
+
+                        <li>
+
+                            <a a href="szdw.htm" title="师资队伍">师资队伍</a>
+                            <ul class="second-nav">
+                            <li><a a href="szdw/szgk.htm" title="师资概况">师资概况</a>
+                            </li>
+                            <li><a a href="szdw/jxms.htm" title="教学名师">教学名师</a>
+                            </li>
+                            <li><a a href="szdw/rcyj.htm" title="人才引进">人才引进</a>
+                            </li>
+                            <li><a a href="szdw/sdsf.htm" title="师德师风">师德师风</a>
+                            </li>
+
+                            </ul>
+                        </li>
+
+                        <li>
+
+                            <a a href="rcpy.htm" title="人才培养">人才培养</a>
+                            <ul class="second-nav">
+                            <li><a a href="rcpy/rcpygk.htm" title="人才培养概况">人才培养概况</a>
+                            </li>
+                            <li><a a href="rcpy/bkspy.htm" title="本科生培养">本科生培养</a>
+                                    <ul class="third-nav">
+                                        <li><a href="rcpy/bkspy/zyjs1.htm" title="专业介绍">专业介绍</a></li>
+                                        <li><a href="rcpy/bkspy/pyfa1.htm" title="培养方案">培养方案</a></li>
+                                        <li><a href="rcpy/bkspy/jxzy1.htm" title="教学资源">教学资源</a></li>
+                                        <li><a href="rcpy/bkspy/zlbz1.htm" title="质量保障">质量保障</a></li>
+                                    </ul>
+                            </li>
+                            <li><a a href="rcpy/yjspy.htm" title="研究生培养">研究生培养</a>
+                                    <ul class="third-nav">
+                                        <li><a href="rcpy/yjspy/zyjs1.htm" title="专业介绍">专业介绍</a></li>
+                                        <li><a href="rcpy/yjspy/dstd1.htm" title="导师团队">导师团队</a></li>
+                                        <li><a href="rcpy/yjspy/pyfa1.htm" title="培养方案">培养方案</a></li>
+                                        <li><a href="rcpy/yjspy/yjsydsxsjl.htm" title="研究生与导师学术交流">研究生与导师学术交流</a></li>
+                                        <li><a href="rcpy/yjspy/yjspyzl.htm" title="研究生培养质量">研究生培养质量</a></li>
+                                        <li><a href="rcpy/yjspy/yjsxwgl.htm" title="研究生学位管理">研究生学位管理</a></li>
+                                        <li><a href="rcpy/yjspy/xyxwfwyh.htm" title="学院学位分委员会">学院学位分委员会</a></li>
+                                    </ul>
+                            </li>
+                            <li><a a href="rcpy/lxspy.htm" title="留学生培养">留学生培养</a>
+                                    <ul class="third-nav">
+                                        <li><a href="rcpy/lxspy/zyjs1.htm" title="专业介绍">专业介绍</a></li>
+                                        <li><a href="rcpy/lxspy/pyfa1.htm" title="培养方案">培养方案</a></li>
+                                    </ul>
+                            </li>
+                            <li><a a href="rcpy/gcjyrz.htm" title="工程教育认证">工程教育认证</a>
+                            </li>
+                            <li><a a href="rcpy/lnzsxx.htm" title="历年招生信息">历年招生信息</a>
+                            </li>
+
+                            </ul>
+                        </li>
+
+                        <li>
+
+                            <a a href="kxyj.htm" title="科学研究">科学研究</a>
+                            <ul class="second-nav">
+                            <li><a a href="kxyj/xkkygk.htm" title="学科科研概况">学科科研概况</a>
+                            </li>
+                            <li><a a href="kxyj/kypt.htm" title="科研平台">科研平台</a>
+                            </li>
+                            <li><a a href="kxyj/kytd.htm" title="科研团队">科研团队</a>
+                            </li>
+                            <li><a a href="kxyj/kycg.htm" title="科研成果">科研成果</a>
+                            </li>
+                            <li><a a href="kxyj/xsjl.htm" title="学术交流">学术交流</a>
+                            </li>
+                            <li><a a href="kxyj/xqhz.htm" title="校企合作">校企合作</a>
+                            </li>
+
+                            </ul>
+                        </li>
+
+                        <li>
+
+                            <a a href="djgz.htm" title="党建工作">党建工作</a>
+                            <ul class="second-nav">
+                            <li><a a href="djgz/jcdjgk.htm" title="基层党建概况">基层党建概况</a>
+                            </li>
+                            <li><a a href="djgz/jcdt.htm" title="基层动态">基层动态</a>
+                            </li>
+                            <li><a a href="djgz/bwcx_ljsm.htm" title="不忘初心，牢记使命">不忘初心，牢记使命</a>
+                            </li>
+                            <li><a a href="djgz/lxyz.htm" title="两学一做">两学一做</a>
+                            </li>
+                            <li><a a href="djgz/sqyr.htm" title="三全育人">三全育人</a>
+                            </li>
+                            <li><a a href="djgz/llxx.htm" title="理论学习">理论学习</a>
+                            </li>
+
+                            </ul>
+                        </li>
+
+                        <li>
+
+                            <a a href="xsgz.htm" title="学生工作">学生工作</a>
+                            <ul class="second-nav">
+                            <li><a a href="xsgz/xsszgk.htm" title="学生思政概况">学生思政概况</a>
+                            </li>
+                            <li><a a href="xsgz/twxsh.htm" title="团委学生会">团委学生会</a>
+                            </li>
+                            <li><a a href="xsgz/xshd.htm" title="学生活动">学生活动</a>
+                            </li>
+                            <li><a a href="xsgz/zzjk.htm" title="资助解困">资助解困</a>
+                            </li>
+                            <li><a a href="xsgz/jyzd.htm" title="就业指导">就业指导</a>
+                            </li>
+                            <li><a a href="xsgz/ybdt.htm" title="易班动态">易班动态</a>
+                            </li>
+
+                            </ul>
+                        </li>
+
+                        <li>
+
+                            <a a href="gjjl.htm" title="国际交流">国际交流</a>
+                            <ul class="second-nav">
+                            <li><a a href="gjjl/cglx.htm" title="出国留学">出国留学</a>
+                            </li>
+                            <li><a a href="gjjl/lhzj.htm" title="来华专家">来华专家</a>
+                            </li>
+
+                            </ul>
+                        </li>
+
+                        <li>
+
+                            <a a href="xyzj.htm" title="校友之家">校友之家</a>
+                            <ul class="second-nav">
+                            <li><a a href="xyzj/xyhd.htm" title="校友活动">校友活动</a>
+                            </li>
+                            <li><a a href="xyzj/xyfc.htm" title="校友风采">校友风采</a>
+                            </li>
+                            <li><a a href="xyzj/czyj.htm" title="成长印迹">成长印迹</a>
+                            </li>
+                            <li><a a href="xyzj/xyfw.htm" title="校友服务">校友服务</a>
+                            </li>
+                            <li><a a href="xyzj/jjkz.htm" title="基金馈赠">基金馈赠</a>
+                            </li>
+
+                            </ul>
+                        </li>
+</ul>
+<!--#endeditable--></div></div></div></div><!--      nav end         --><!--主div-->
+
+</div>
+
+<div id="swiper">
+<div class="flexslider"><!--#begineditable name="首页幻灯片" viewid="163833" tagname="首页幻灯片" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><style type="text/css">
+ul,li{
+    padding:0;
+    margin:0;
+    list-style:none;}
+#flashBoxu_u2_{
+    width:1120px;
+    height:390px;
+    border:0px solid #EEE;
+    position:relative;
+    margin-left: auto;
+    margin-right: auto;}
+#flashBoxu_u2_ img{
+    /*初始不要显示*/
+    display:none;
+    /*用边框来实现空位，因为margin和paading有时会引起些麻烦*/
+    border:0px solid #FFF;}
+#flashBoxu_u2_ ul{
+    position:absolute;
+    right:7px;
+    bottom:3px;
+    font:9px tahoma;}
+#flashBoxu_u2_ ul li{
+    display:block;
+    float:left;
+    width:12px;
+    height:12px;
+    line-height:12px;
+    margin-right:3px;
+    border:0px solid #999;
+    background:#F0F0F0;
+    text-align:center;
+    cursor:pointer;}
+#flashBoxu_u2_ ul li.hover{
+    border-color:red;
+    background:#FFE1E1;
+    color:red;}
+</style>
+<script type="text/javascript">
+function flashBoxCtrl(o){
+    this.obj=document.getElementById(o);
+    //这个私有方法虽然写了，但暂时没用到
+    function addListener(ele,eventName,functionBody){
+        if (ele.attachEvent){
+            ele.attachEvent("on"+eventName, functionBody);
+        }else if (ele.addEventListener){
+            ele.addEventListener("on"+eventName,functionBody, false);
+        }else{
+            return false;
+        }
+    }
+    //初始化
+    this.init=function(){
+        var objImg=this.obj.getElementsByTagName("img");
+        var tagLength=objImg.length;
+        if (tagLength>0){
+            var oUl=document.createElement("ul");
+            oUl.setAttribute("id",o+"numTag");
+            for (var i=0;i<tagLength;i++){
+                var oLi=oUl.appendChild(document.createElement("li"));
+                if (i==0){
+                    oLi.setAttribute("class","hover"); //初始化时把第一个设置为高亮
+                    oLi.setAttribute("className","hover");
+                }
+                //设置标签的数字
+                oLi.appendChild(document.createTextNode((i+1)));
+            }
+            this.obj.appendChild(oUl);
+            objImg[0].style.display="block";
+            //设置标签事件
+            var oTag=this.obj.getElementsByTagName("li");
+            for (var i=0;i<oTag.length;i++){
+                var flag = 0;
+                var temp = 0;
+                var timeout=null;
+                var step = function(){
+                    for (j=0;j<oTag.length;j++){
+                        oTag[j].className="";
+                        objImg[j].style.display="none";
+                    }
+                    this.className="hover";
+                    flag = flag>=oTag.length-1?0:flag+1;
+                    objImg[flag].style.display="block";
+                    oTag[flag].className = "hover";
+                    timeout = setTimeout(step,5000);
+                };
+                oTag[i].onmouseover=function(){
+                    for (j=0;j<oTag.length;j++){
+                        oTag[j].className="";
+                        objImg[j].style.display="none";
+                        temp = j;
+                    }
+                    this.className="hover";
+                    objImg[this.innerHTML-1].style.display="block";
+                    temp = this.innerHTML-1;
+                    flag = i;
+                    clearInterval(timeout);
+                }
+                oTag[i].onmouseout = function(){
+                    for (j=0;j<oTag.length;j++){
+                        oTag[j].className="";
+                        objImg[j].style.display="none";
+                    }
+                    flag = temp;
+                    objImg[temp].style.display="block";
+                    oTag[temp].className = "hover";
+                    timeout = setTimeout(step,5000);
+                }
+                if(i==0)
+                {
+                    timeout = setTimeout(step,5000);
+                }
+            }
+        }
+    };
+    //自动滚动的方法还没写
+    this.imgRoll=function(){};
+    //生成对象时自动加载init()方法以初始化对象
+    this.init();
+}
+</script>
+<table cellspacing="0" cellpadding="0" border="0"><tr><td><div id="flashBoxu_u2_"><img src="images/buwangchuxin.jpg" border="0" width="1120" height="390" /><img src="images/xinzhongguochengli702.jpg" border="0" width="1120" height="390" /><img src="images/banner_pic/school_02.png" border="0" width="1120" height="390" /><img src="images/banner_pic/huajiangxiaoqu1.jpg" border="0" width="1120" height="390" /><img src="images/banner_pic/jidiandalou1.jpg" border="0" width="1120" height="390" /><img src="images/banner_pic/jidiandalou2.jpg" border="0" width="1120" height="390" /></div></td></tr></table><SCRIPT language="JavaScript">new flashBoxCtrl("flashBoxu_u2_");</SCRIPT><!--#endeditable--></div>
+</div>
+
+
+
+<div class="centerbig2">
+
+  <div class="wrap">
+    <div class="wleft">
+      <h3 class="i1"><b>学院新闻</b><a href="xyxw1.htm">更多&gt;</a></h3>
+        <div class="toutiao"><!--#begineditable name="新闻变换图" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/imagechangenews.jsp" tpltype="0" contype="news" clone="" viewid="201547" contentviewid="" tagname="新闻变换图"-->
+<LINK href="/system/resource/style/component/news/list/imagechangenews.css" type="text/css" rel="stylesheet">
+<script language="javascript" src="/system/resource/js/news/imagechangenews.js"></script><script language="JavaScript">
+var u_u3_icn = new ImageChangeNews("u_u3_", 360, 180, 4, 2.0, false, false, true, true);
+
+//初始化图片, 并启动定时
+function u_u3_init_img()
+{
+
+    u_u3_icn.addimg("\/__local\/7\/7E\/C1\/9CE9F634A1B24A1DCA1CEA1C63A_2564CF09_3425F.jpg", "info\/1075\/2239.htm", "", "");
+
+    u_u3_icn.addimg("\/__local\/2\/EC\/F5\/8B3D9E74A2F4F3FE548B4313BCE_6167100B_2F69D.jpg", "info\/1075\/2226.htm", "", "");
+
+    u_u3_icn.addimg("\/__local\/7\/A1\/9E\/19C8C228177F6DB222644D81BD9_61BCF69E_25C6E.jpg", "info\/1075\/2225.htm", "", "");
+
+    u_u3_icn.addimg("\/__local\/3\/B6\/75\/5145E3BCE544525960B406D2786_F6764AED_32E58.jpg", "info\/1075\/2215.htm", "", "");
+
+    u_u3_icn.addimg("\/__local\/C\/7C\/DC\/2DCCA20D3E4A4995CDA11532CCB_883F3F01_35452.jpg", "info\/1075\/2216.htm", "", "");
+
+    u_u3_icn.addimg("\/__local\/1\/37\/DA\/DE7819A4EAB98C0A9F094A07298_9FCC372B_29E6C.jpg", "info\/1075\/2211.htm", "", "");
+
+    u_u3_icn.changeimg(0);
+}
+</script><table cellspacing="0" cellpadding="0" border="0" style="padding:0px margin:0px; border:0px">
+    <tr><td>
+        <div style="OVERFLOW: hidden;height:180px;width:360px">
+            <div id="u_u3_div" align="center" style="padding:0px;margin:0px;border:0px solid black;background-color:#000000;FILTER: progid:DXImageTransform.Microsoft.RevealTrans (duration=2.0,transition=23);height:180px;width:360px">
+                <div id="u_u3_imgdiv" style="padding:0px;border:0px;"><a id="u_u3_url" target="_blank"><img id="u_u3_pic" border="0" width="360" height="180" src="/system/resource/images/space.gif"></a></div>
+            </div>
+            <div style="filter:alpha(style=1,opacity=10,finishOpacity=80);width:360px;height:19px;text-align:right;top:-19px;position:relative;padding:0px;margin:0px;border:0px;">
+<a href="javascript:u_u3_icn.changeimg(0)" ; id="u_u3_selectNode0" class="imagechangenews_pnode" target="_self">1</a><a href="javascript:u_u3_icn.changeimg(1)" ; id="u_u3_selectNode1" class="imagechangenews_pnode" target="_self">2</a><a href="javascript:u_u3_icn.changeimg(2)" ; id="u_u3_selectNode2" class="imagechangenews_pnode" target="_self">3</a><a href="javascript:u_u3_icn.changeimg(3)" ; id="u_u3_selectNode3" class="imagechangenews_pnode" target="_self">4</a><a href="javascript:u_u3_icn.changeimg(4)" ; id="u_u3_selectNode4" class="imagechangenews_pnode" target="_self">5</a><a href="javascript:u_u3_icn.changeimg(5)" ; id="u_u3_selectNode5" class="imagechangenews_pnode" target="_self">6</a>
+            </div></div></td></tr>
+<div align="center" display="none" style="overflow:hidden;text-overflow:ellipsis;height:0px;width:360px;"><a target="_blank" class="titlestyle201547" id="u_u3_newstitle"></a></div><div align="left" display="none" style="overflow:hidden;text-overflow:ellipsis;height:0px;width:360px;padding-left:2px;padding-right:2px"><a target="_blank" class="summarystyle201547" id="u_u3_newssummary"></a></div>   
+</table><SCRIPT language="JavaScript">u_u3_init_img();</SCRIPT><!--#endeditable--></div>
+        <ul class="xylist">
+                    <!--#begineditable name="学院新闻" viewid="164368" tagname="学院新闻" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><script language="javascript" src="/system/resource/js/dynclicks.js"></script><li><a href="info/1075/2475.htm" target="_blank">机电工程学院开展安全隐患大排查</a><i class="t">2020-04-10</i></li>
+<li><a href="info/1075/2456.htm" target="_blank">机电工程学院召开2020年度教职工大会</a><i class="t">2020-04-05</i></li>
+<li><a href="info/1075/2454.htm" target="_blank">【疫情防控】机电工程学院召开学生管理工作专题会议</a><i class="t">2020-04-01</i></li>
+<li><a href="info/1075/2443.htm" target="_blank">【疫情防控】高兴宇院长一行为校友企业提供战疫服务</a><i class="t">2020-03-30</i></li>
+<li><a href="info/1075/2438.htm" target="_blank">机电工程学院党委组织教师开展“师德大讲堂”学习</a><i class="t">2020-03-27</i></li>
+<li><a href="info/1075/2439.htm" target="_blank">校长徐华蕊来我院调研</a><i class="t">2020-03-25</i></li>
+<script>_showDynClickBatch(['dynclicks_u4_2475','dynclicks_u4_2456','dynclicks_u4_2454','dynclicks_u4_2443','dynclicks_u4_2438','dynclicks_u4_2439'],[2475,2456,2454,2443,2438,2439],"wbnews", 1409762672)</script>
+<!--#endeditable-->
+       </ul>
+    </div>
+    <div class="wright">
+      <h3 class="i2"><b>通知公告</b><a href="tzgg.htm">更多&gt;</a></h3>
+        <ul class="tzlist">
+        <!--#begineditable name="通知公告" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/tpltitlelist.jsp" tpltype="1" contype="news" clone="" viewid="201112" contentviewid="" tagname="通知公告"-->
+
+        <li><a href="info/1074/2453.htm" target="_blank" title="欢迎参加我校李明枫等两位博士学位论文开题报告论证会">欢迎参加我校李明枫等两位博士学位论文开题报告论证会</a></li>
+        
+
+
+
+        <li><a href="info/1074/2396.htm" target="_blank" title="2019-2020学年第二学期疫情防控期间机电工程学院研究生教学工作安排">2019-2020学年第二学期疫情防控期间机电工程学院研究生教...</a></li>
+        
+
+
+
+        <li><a href="info/1074/2383.htm" target="_blank" title="机电工程学院给全院师生的倡议书">机电工程学院给全院师生的倡议书</a></li>
+        
+
+
+
+        <li><a href="info/1074/2367.htm" target="_blank" title="关于朱海东赴日本参加“symposium on Shock Waves in Japan ”学术会议的公示">关于朱海东赴日本参加“symposium on Shock Waves in Jap...</a></li>
+        
+
+
+
+        <li><a href="info/1074/2366.htm" target="_blank" title="研究生培养与学术交流座谈系列活动之三“科学研究与科技创新中的创新意识与创造技法培养”">研究生培养与学术交流座谈系列活动之三“科学研究与科技...</a></li>
+        
+
+
+
+        <li><a href="info/1074/2353.htm" target="_blank" title="机电工程学院2019年度专业技术人员考核优秀名单公示">机电工程学院2019年度专业技术人员考核优秀名单公示</a></li>
+        
+
+<script>_showDynClickBatch(['dynclicks_u5_2453','dynclicks_u5_2396','dynclicks_u5_2383','dynclicks_u5_2367','dynclicks_u5_2366','dynclicks_u5_2353'],[2453,2396,2383,2367,2366,2353],"wbnews", 1409762672)</script>
+<!--#endeditable-->
+        </ul>
+    </div>
+  </div>
+
+  <div class="wrap">
+    <div class="mleft">
+      <h3 class="i3"><b>党建工作</b><a href="djgz.htm" target="">更多&gt;</a></h3>
+      <ul class="wzlist">
+<!--#begineditable name="党建工作" viewid="164369" tagname="党建工作" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""-->   <li><a href="info/1065/2484.htm" target="_blank" title="机电工程学院党委召开2020年第四次中心组理论学习会">机电工程学院党委召开2020年第四次中心组理论学习会</a><i class="t">2020-04-15</i></li>
+   <li><a href="http://iw.guet.edu.cn/info/1035/62825.htm" target="_blank" title="机电工程学院召开宣传工作专题会议">机电工程学院召开宣传工作专题会议</a><i class="t">2020-04-10</i></li>
+   <li><a href="http://iw.guet.edu.cn/info/1035/62781.htm" target="_blank" title="机电工程学院开展师德师风专题教育学习">机电工程学院开展师德师风专题教育学习</a><i class="t">2020-04-07</i></li>
+   <li><a href="http://iw.guet.edu.cn/info/1035/62729.htm" target="_blank" title="机电工程学院党委召开本年度第三次中心组理论学习会">机电工程学院党委召开本年度第三次中心组理论学习会</a><i class="t">2020-04-02</i></li>
+   <li><a href="http://iw.guet.edu.cn/info/1035/62391.htm" target="_blank" title="机电工程学院党委召开疫情防控专题工作会暨2020年第二次中心组理论学习">机电工程学院党委召开疫情防控专题工作会暨2020年第二次中心组理论学习</a><i class="t">2020-03-04</i></li>
+   <li><a href="http://iw.guet.edu.cn/info/1035/62198.htm" target="_blank" title="机电工程学院党委召开疫情防控专题学习会暨2020年中心组理论学习会">机电工程学院党委召开疫情防控专题学习会暨2020年中心组理论学习会</a><i class="t">2020-02-17</i></li>
+<script>_showDynClickBatch(['dynclicks_u6_2484','dynclicks_u6_2473','dynclicks_u6_2465','dynclicks_u6_2466','dynclicks_u6_2469','dynclicks_u6_2467'],[2484,2473,2465,2466,2469,2467],"wbnews", 1409762672)</script>
+<!--#endeditable-->
+       </ul>
+    </div>
+    <div class="mcenter">
+      <h3 class="i4"><b>工程教育认证</b><a href="rcpy/gcjyrz.htm" target="">更多&gt;</a></h3>
+      <ul class="wzlist"><!--#begineditable name="工程教育认证" action="" layout="" tpltype="" contype="" clone="" viewid="201140" contentviewid="" tagname="工程教育认证"-->   <li><a href="info/1195/2271.htm" target="_blank" title="我院电气系赴湖南大学、长沙理工大学就电气工程专业工程教育专业认证进行学习交流">我院电气系赴湖南大学、长沙理工大学就电气工程专业工程教育专业认证进行学习交流</a><i class="t">2019-10-30</i></li>
+   <li><a href="info/1195/2122.htm" target="_blank" title="我院机械电子工程专业接受全国工程教育认证考查">我院机械电子工程专业接受全国工程教育认证考查</a><i class="t">2019-06-19</i></li>
+   <li><a href="info/1195/2095.htm" target="_blank" title="桂林电子科技大学机械工程大类（机械电子工程专业）2018级培养方案（修正）">桂林电子科技大学机械工程大类（机械电子工程专业）2018级培养方案（修正）</a><i class="t">2019-06-16</i></li>
+   <li><a href="info/1195/2022.htm" target="_blank" title="机电工程学院举行企业专家委员会专家聘书颁发仪式">机电工程学院举行企业专家委员会专家聘书颁发仪式</a><i class="t">2019-05-17</i></li>
+   <li><a href="info/1195/1887.htm" target="_blank" title="机械电子工程专业人才培养方案【2018年版】">机械电子工程专业人才培养方案【2018年版】</a><i class="t">2019-05-10</i></li>
+   <li><a href="info/1195/1886.htm" target="_blank" title="机械电子工程专业人才培养方案【2017年版】">机械电子工程专业人才培养方案【2017年版】</a><i class="t">2019-05-10</i></li>
+<script>_showDynClickBatch(['dynclicks_u7_2271','dynclicks_u7_2122','dynclicks_u7_2095','dynclicks_u7_2022','dynclicks_u7_1887','dynclicks_u7_1886'],[2271,2122,2095,2022,1887,1886],"wbnews", 1409762672)</script>
+<!--#endeditable--></ul>
+    </div>
+    <div class="wright">
+      <h3 class="i5"><b>服务之窗</b><!---<a href="/system/go.jsp?treeid=1215&apptype=treetemp&urltype=tree.TreeTempUrl" target="">更多&gt;</a>--></h3>
+      <ul class="lklist">
+      <!--#begineditable name="服务之窗" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/tpltitlelist.jsp" tpltype="1" contype="news" clone="" viewid="201149" contentviewid="" tagname="服务之窗"-->
+<li><a href="fwzc/xzzx.htm" target="_blank">下载中心</a></li>
+
+<li><a href="fwzc/bszn.htm" target="_blank">办事指南</a></li>
+
+<li><a href="fwzc/gzzd.htm" target="_blank">规章制度</a></li>
+
+<li><a href="info/1238/1896.htm" target="_blank">报修电话</a></li>
+
+<li><a href="info/1238/1904.htm" target="_blank">火警电话</a></li>
+
+<li><a href="info/1238/1905.htm" target="_blank">保卫处电话</a></li>
+
+<li><a href="info/1238/1906.htm" target="_blank">后勤一站式服务电话</a></li>
+
+<li><a href="fwzc/gd.htm" target="_blank">更多</a></li>
+<script>_showDynClickBatch(['dynclicks_u8_1816','dynclicks_u8_1817','dynclicks_u8_1888','dynclicks_u8_1890','dynclicks_u8_1891','dynclicks_u8_1892','dynclicks_u8_1893','dynclicks_u8_1894'],[1816,1817,1888,1890,1891,1892,1893,1894],"wbnews", 1409762672)</script>
+<!--#endeditable-->
+
+       </ul>
+    </div>
+  </div>
+
+
+</div>
+
+<div class="footer">
+
+<div class="footer_top">
+<div class="link_tit">友情链接</div>
+<div class="link">
+<ul>
+<!--#begineditable name="广西制造系统与先进制造技术重点实验室" viewid="164383" tagname="广西制造系统与先进制造技术重点实验室" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><li><a href="http://msaml.gxu.edu.cn/ " target="_blank" title="广西制造系统与先进制造技术重点实验室">广西制造系统与先进制造技术重点实验室</a></li>
+<script>_showDynClickBatch(['dynclicks_u9_1052'],[1052],"wbnews", 1409762672)</script>
+<!--#endeditable-->
+<li>
+
+<select name="selecta" id="selecta" onchange="sa_click(this)">
+  <option value="">--校内导航--</option>
+  <!--#begineditable name="校内导航" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/tpltitlelist.jsp" tpltype="1" contype="news" clone="" viewid="201166" contentviewid="" tagname="校内导航"-->  <option value="http://www.guet.edu.cn/gxits/">智能交通系统广西高校重点实验室</option>
+  <option value="http://www.guet.edu.cn/gxits/">广西道路智能交通系统工程技术研究中心</option>
+  <option value="http://gcis.guet.edu.cn/">广西密码学与信息安全重点实验室</option>
+  <option value="http://zdjc.guet.edu.cn/">广西自动检测技术与仪器重点实验室</option>
+  <option value="http://cloud.guet.edu.cn/CMS/index.html">广西云安全与云服务工程技术研究中心</option>
+  <option value="http://kxrj.guet.edu.cn/">广西可信软件重点实验室</option>
+  <option value="http://kjy.guet.edu.cn/">桂林电子科技大学科技园管理委员会</option>
+  <option value="http://infosci.guet.edu.cn/sciencelab/">广西信息科学实验中心</option>
+  <option value="http://www.guet.edu.cn/hospital/">校医院</option>
+  <option value="http://glgdzx.guet.edu.cn/">桂电中学</option>
+  <option value="http://www.guet.edu.cn/xjzx/">现代教育技术中心</option>
+  <option value="http://202.193.70.191/">图书馆</option>
+  <option value="%22http://deptty.guet.edu.cn/">体育部</option>
+  <option value="http://www.guet.edu.cn/jxsjb/">教学实践部</option>
+  <option value="http://international.guet.edu.cn/">国际学院</option>
+  <option value="http://hyxy.guet.edu.cn/">海洋信息工程学院</option>
+  <option value="http://cjy2.guet.edu.cn/">继续教育学院</option>
+  <option value="http://www.guet.edu.cn/jjxy/">建筑与交通工程学院</option>
+  <option value="http://dpt12.guet.edu.cn/">生命与环境科学学院</option>
+  <option value="http://www.guet.edu.cn/dept6/">外国语学院</option>
+  <option value="http://dept5.guet.edu.cn/">商学院</option>
+  <option value="http://www.guet.edu.cn/dept7/index.htm">数学与计算机科学学院</option>
+  <option value="http://www.guet.edu.cn/dept3/index.htm">计算机与信息安全学院</option>
+  <option value="http://szhxy.guet.edu.cn/qxgl/public/Login.aspx?ReturnUrl=%2fqxgl%2fDefault.aspx">数字化校园</option>
+  <option value="http://www.guet.edu.cn/dept8">电子工程与自动化学院</option>
+  <option value="http://www.guet.edu.cn/">校主页</option>
+  <option value="http://www.guet.edu.cn/dept9">法学院</option>
+  <option value="http://gldz.cbpt.cnki.net/WKD/WebPublication/index.aspx?mid=GLDZ">学报</option>
+  <option value="http://www.guet.edu.cn/dept10/index.htm">材料科学与工程学院</option>
+  <option value="http://www.guet.edu.cn/dept2">信息与通信学院</option>
+<script>_showDynClickBatch(['dynclicks_u10_1863','dynclicks_u10_1862','dynclicks_u10_1861','dynclicks_u10_1860','dynclicks_u10_1859','dynclicks_u10_1858','dynclicks_u10_1857','dynclicks_u10_1856','dynclicks_u10_1855','dynclicks_u10_1854','dynclicks_u10_1853','dynclicks_u10_1852','dynclicks_u10_1851','dynclicks_u10_1850','dynclicks_u10_1849','dynclicks_u10_1848','dynclicks_u10_1847','dynclicks_u10_1846','dynclicks_u10_1845','dynclicks_u10_1829','dynclicks_u10_1828','dynclicks_u10_1830','dynclicks_u10_1827','dynclicks_u10_1831','dynclicks_u10_1822','dynclicks_u10_1832','dynclicks_u10_1823','dynclicks_u10_1833','dynclicks_u10_1824','dynclicks_u10_1834'],[1863,1862,1861,1860,1859,1858,1857,1856,1855,1854,1853,1852,1851,1850,1849,1848,1847,1846,1845,1829,1828,1830,1827,1831,1822,1832,1823,1833,1824,1834],"wbnews", 1409762672)</script>
+<!--#endeditable-->
+</select>
+</li>
+<li>
+
+<select name="selectb" id="selectb" onchange="sb_click(this)">
+  <option value="">--部、处级单位--</option>
+  <!--#begineditable name="部处级单位" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/tpltitlelist.jsp" tpltype="1" contype="news" clone="" viewid="201169" contentviewid="" tagname="部处级单位"--><option value="http://www.guet.edu.cn/fzghc/">发展规划处</option>
+<option value="http://ltc.guet.edu.cn/">离退休工作处</option>
+<option value="http://gra.guet.edu.cn/">研究生院</option>
+<option value="http://xkb.guet.edu.cn/">学科建设办公室</option>
+<option value="http://jijian.guet.edu.cn/jijianchu/index.aspx">基建处</option>
+<option value="http://hqc.guet.edu.cn/">后勤处</option>
+<option value="http://metc.guet.edu.cn/zhglc/">国有资产管理处</option>
+<option value="http://international.guet.edu.cn/">国际合作与交流处</option>
+<option value="http://caiwuchu.guet.edu.cn/">招生办公室</option>
+<option value="http://caiwuchu.guet.edu.cn/">财务处</option>
+<option value="http://utsc.guet.edu.cn/">教务处</option>
+<option value="http://rsc.guet.edu.cn/RSC/public/Default.aspx">人事处职改办</option>
+<option value="http://tw.guet.edu.cn/">校团委</option>
+<option value="http://gonghui.guet.edu.cn/">校工会</option>
+<option value="http://bmw.guet.edu.cn/">保密办公室</option>
+<option value="http://xsgzc.guet.edu.cn/">学生工作处</option>
+<option value="http://www.guet.edu.cn/dangxuan/">宣传部</option>
+<option value="http://tzb.guet.edu.cn/">统战部</option>
+<option value="http://zzb.guet.cn/">组织部</option>
+<option value="http://www.guet.edu.cn/jwjc/">纪检办公室&amp;监察室</option>
+<option value="http://guetoa.guet.edu.cn/">党政办公室</option>
+<script>_showDynClickBatch(['dynclicks_u11_1883','dynclicks_u11_1882','dynclicks_u11_1881','dynclicks_u11_1880','dynclicks_u11_1879','dynclicks_u11_1878','dynclicks_u11_1877','dynclicks_u11_1876','dynclicks_u11_1875','dynclicks_u11_1874','dynclicks_u11_1873','dynclicks_u11_1872','dynclicks_u11_1871','dynclicks_u11_1870','dynclicks_u11_1869','dynclicks_u11_1868','dynclicks_u11_1867','dynclicks_u11_1866','dynclicks_u11_1865','dynclicks_u11_1864','dynclicks_u11_1826'],[1883,1882,1881,1880,1879,1878,1877,1876,1875,1874,1873,1872,1871,1870,1869,1868,1867,1866,1865,1864,1826],"wbnews", 1409762672)</script>
+<!--#endeditable-->
+</select>
+</li>
+
+
+<script type="text/javascript">
+        //select跳页
+        function sa_click(obj) {
+            var num = 0;
+            for (var i = 0; i < obj.options.length; i++) {
+                if (obj.options[i].selected == true) {
+                    num++;
+                }
+            }
+            if (num == 1) {
+                var url = obj.options[obj.selectedIndex].value;
+                window.open(url,'_target'); //打开连接方式
+            }
+        }
+        function sb_click(obj) {
+            var num = 0;
+            for (var i = 0; i < obj.options.length; i++) {
+                if (obj.options[i].selected == true) {
+                    num++;
+                }
+            }
+            if (num == 1) {
+                var url = obj.options[obj.selectedIndex].value;
+                window.open(url,'_target'); //打开连接方式
+            }
+        }
+</script>
+</ul>
+
+</div>
+
+</div>
+
+
+
+<div class="footer_back">
+<div class="footer_center">
+
+<div class="footer_bottom">
+<div id="fangshi">
+<div class="fangshi1">
+<ul class="lxfs">
+<li class="lxfs_1"><strong>联系方式</strong> 
+</li><li class="lxfs_1">地址：广西桂林金鸡路1号<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;桂林电子科技大学机电工程学院 
+</li><li class="lxfs_1">邮编：541004 
+</li><li class="lxfs_1">电话：0773-2316270 
+</li></ul>
+<ul class="lxfs" style="padding-left: 50px">
+<li class="lxfs_1"><strong>检举举报平台</strong> 
+</li><li class="lxfs_1">举报电话：0773-2291955 
+</li><li class="lxfs_1">举报电子邮箱：jub_guetdpt1@163.com </li></ul>
+<ul class="lxfs" style="padding-left: 50px">
+<li class="lxfs_1"><strong>师德师风网络举报渠道</strong> 
+</li><li class="lxfs_1">举报电话：0773-2291955 
+</li><li class="lxfs_1">举报电子邮箱：jub_guetdpt1@163.com </li></ul>
+</div>
+<div class="erweima">
+<ul>
+<li><img alt="" src="images/meili.jpg" width="66" height="65"> 
+</li><li>魅力机电</li></ul>
+<ul>
+<li><img alt="" src="images/yiban.png" width="66" height="65"> 
+</li><li>易班二维码</li></ul>
+<ul>
+<li>
+</li><li> </li></ul></div></div></div></div>
+<div class="center1">
+<p><a>版权所有：© 2019 桂林电子科技大学 机电工程学院，保留所有权利。</a></p>
+</div></div></div>
+
+
+</body></html>

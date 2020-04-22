@@ -1,0 +1,1112 @@
+
+
+
+
+
+
+
+    <html>
+<head>
+<title>外国语学院</title><META Name="keywords" Content="外国语学院" />
+
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+<link rel="stylesheet" type="text/css" href="tpl/default/css/css.css">
+<link href="images/dept6logo.gif" rel="SHORTCUT ICON" />
+<style>
+.rightcontent {
+    padding-top:22px;}
+.pad3 {
+    padding:0px 22px 0px 22px;}images
+.pad5 {
+    padding:5px 0px 5px 0px;}
+.lanmubg {
+    background: url(tpl/default/images/lanmubg.gif) bottom no-repeat;}
+.footerbg {
+    background:url(tpl/default/images/agdRed10.gif) bottom repeat-x;}
+a:link {
+    text-decoration:none;}
+a:visited {
+    text-decoration:none;}
+.style1 {
+    font-size:12px;
+    color:#3d3d3d;}
+</style>
+<style type="text/css">
+<!--
+div, ul, li {
+    margin:0;
+    padding:0;}
+body {
+    font-size:9pt;
+    font-family: "宋体";
+    text-align:center;}
+a:link {
+    font-color: #8e1d23;
+    text-decoration:none;}
+.visited {
+    font-size:9pt;
+    font-family: "宋体";
+    font-weight:bold;
+    color: #801E1D;
+    text-decoration:none;}
+.hover {
+    font-size:9pt;
+    font-family: "宋体";
+    font-weight:bold;
+    color: #222222;
+    text-decoration:none;}
+ul {
+    list-style:none;}
+#tabs1 {
+    text-align:left;
+    width:480px;}
+.menu1box {
+    position:relative;
+    overflow:hidden;
+    height:27px;
+    width:480px;
+    text-align:left;
+    background:url(tpl/default/images/agdRed05.gif) repeat-x bottom;}
+#menu1 {
+    position:absolute;
+    top:0;
+    left:0;
+    z-index:1;}
+#menu1 li {
+    float:left;
+    display:block;
+    cursor:pointer;
+    width:92px;
+    text-align:center;
+    line-height:27px;
+    height:27px;
+    background:url(tpl/default/images/newsQH1.gif);}
+#menu1 li.hover {
+    background:url(tpl/default/images/newsQH2.gif);}
+.main1box {
+    clear:both;
+    height:181px;
+    width:480px;}
+#main1 ul {
+    display: none;}
+#main1 ul.block {
+    display: block;}
+.STYLE1 {
+    font-color: #821d21;
+    text-decoration:none;}
+.STYLE3 {
+    color: #006600;
+    font-size: 14px;
+    font-weight: bold;
+    text-decoration:none;}
+.STYLE5 {
+    font-size: 9pt;
+    font-weight: bold;
+    color: #da0006;
+    background-image:url(images/bg_top.png);}
+-->
+
+.bg {
+    background-image: url(images/bg_top.png);
+    width:100%;
+    height:210px;
+    align:center;
+    background-repeat:no-repeat;
+    background-size:100% 180%;}
+    
+.foot{
+    width: 100%;
+    height:350px;
+    background-image: url(images/bg_bot.png);
+    color: white;
+    margin-top: 10px;
+    font-family:黑体;
+    font-size:15px;
+    background-repeat:no-repeat;}
+#a{
+   float:left;
+   border-right:3px solid white;
+   padding-right: 8px;
+   margin-top:15px;
+   text-align:left;}
+#b{
+   float:left;
+   margin-left: 8px;
+   margin-top:15px;
+   text-align:left;}
+
+</style>
+</link>
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="index.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1015,'/index.jsp',-1,1411889694)</script>
+</head>
+<body>
+<script>
+<!--
+function setTab(m,n){
+var tli=document.getElementById("menu"+m).getElementsByTagName("li");
+var mli=document.getElementById("main"+m).getElementsByTagName("ul");
+for(i=0;i<tli.length;i++){
+   tli[i].className=i==n?"hover":"";
+   mli[i].style.display=i==n?"block":"none";
+}
+}
+//-->
+</script>
+<!--
+<script language="javascript">
+ var curIndex=0;
+
+ var timeInterval=6000;
+ var arr=new Array();
+  arr[1]="images/sytp/fanxiao1.jpg"
+  arr[2]="images/sytp/fanxiao2.jpg"
+  arr[3]="images/sytp/202002151.jpg";
+  arr[4]="images/sytp/202002152.jpg";
+  arr[5]="images/sytp/heart.jpg";
+  arr[6]="images/sytp/guoqing.jpg";
+  arr[7]="images/sytp/guoqing.jpg";
+
+setInterval(changeImg,timeInterval);
+function changeImg()
+{
+    var obj=document.getElementById("obj");
+    if (curIndex==arr.length-1) 
+    {
+        curIndex=0;
+    }
+    else
+    {
+        curIndex+=1;
+    }
+  obj.src=arr[curIndex]
+}
+</script>
+-->
+<table cellspacing="0" cellpadding="0" width="100%" align="center" border="0" class="bg">
+  <tbody>
+    <tr>
+      <td align="center">
+          <div>
+              <div><br><img hspace="0" src="images/fit_logo.png" width="560" height="130" style="margin-top: -10px; float: left; margin-left: 20%"> </div>
+              <div>
+                <p><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1230" target="_blank" style="font-family: 黑体;font-size:15px;font-weight: 100;color:white">【ENGLISH】</a><a href="http://mail.guet.edu.cn" style="font-family: 黑体;font-size:15px;font-weight: 100;color:white">【邮箱登录】</a><a href="https://cas.guet.edu.cn/cas/login?service=https://xsgl.guet.edu.cn/a/cas" style="margin-right: 10%;font-family: 黑体;font-size:15px;font-weight: 100;color:white">【智慧校园】</a></p>
+                <div style="margin-right: 10%"><!--#begineditable name="简单检索" viewid="42111" tagname="简单检索" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""-->
+
+
+
+
+
+
+<script language="javascript" src="/system/resource/js/base64.js"></script>
+<script language="javascript" src="/system/resource/js/formfunc.js"></script>
+<form action="ssjg.jsp?wbtreeid=1015" method="post" name="a42111a" target="_blank" onsubmit="return subsearchdataa42111a()" style="display: inline;">
+ <input type="hidden" name="Find" value="find">
+ <input type="hidden" name="entrymode" value="1">
+ <input type="hidden" id="INTEXT2" name="INTEXT2" value="">
+ <input type="hidden" name="news_search_code">
+ <table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+   <td Valign="middle" nowrap="nowrap" height="22">
+    <font class="leaderfont42111"> </font>
+    
+        <input type="hidden" name="wbtreeids" value="0">
+    </td><td><span id="intextspana42111a"></span><iframe id="intextframea42111a" src="about:blank" scrolling="no" frameborder="0" style="position:absolute;top:0px;left:0px;display:none;"></iframe><input size="32" name="INTEXT" class="querystyle42111">
+   </td>
+   <td align="absmiddle" nowrap="nowrap" height="1">
+   <input type="image" src="images/search.png" valign="bottom" style="cursor: hand"></td>
+  </tr>
+  
+ </table>
+</form>
+<script>
+String.prototype.trim= function()       
+{              
+    var t = this.replace(/(^\s*)|(\s*$)/g, "");     
+    return t.replace(/(^　*)|(　*$)/g, "");     
+}
+ 
+function subsearchdataa42111a()
+{ 
+	
+	if(document.a42111a.INTEXT.value.trim()=="")
+	{
+		alert("请输入查询关键字！");
+		return false;
+	}
+	
+	
+    if(checkDataa42111a(document.a42111a))
+    {
+       return true;  
+    }
+    return false;
+}       
+</script>
+
+<script> 
+function checkDataa42111a(formname)
+{
+	if(formname.INTEXT.value.trim()=="")
+	{
+		alert("请输入查询关键字！");
+		return false;
+	}
+
+	var  base64 = new Base64();
+    if(window.toFF==1)
+        {
+            var ssvalue = formname.INTEXT.value;
+            formname.INTEXT2.value = Simplized(ssvalue);
+            formname.INTEXT2.value = base64.encode(formname.INTEXT2.value);
+        }else
+        formname.INTEXT2.value = formname.INTEXT.value;
+        formname.INTEXT2.value = base64.encode(formname.INTEXT2.value);
+       return true;
+}
+</script>
+<!--#endeditable--></div>
+              </div>
+              <div style="margin-bottom: 7px; margin-top: 60px; align: center"><!--#begineditable name="网站导航" viewid="202886" tagname="网站导航1" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><style type="text/css">
+td.b1_1_{FONT-SIZE:9pt;}
+td.b2_1_{FONT-SIZE:9pt;background-color: rgba(127, 183, 241, 0.7);font-family: 黑体;font-size: 10pt;font-weight: bold;color: #000000;}
+td.b3_1_{FONT-SIZE:9pt;font-family: 仿宋;font-size: 14pt;color: #fafafa;background-color: rgba(127, 183, 241, 0.7);}
+td.b4_1_{FONT-SIZE:9pt;font-family: 仿宋;background-color: rgba(127, 183, 241, 0.7);font-size: 14pt;width: 100%;}
+a.menu0_1_:link {TEXT-DECORATION: none;};
+a.menu0_1_:visited { TEXT-DECORATION: none;};
+a.menu0_1_:hover {TEXT-DECORATION: none;};
+a.menu0_1_:active {TEXT-DECORATION: none;};
+table.tb1_1_{FONT-SIZE:9pt;border:0;}
+span.s1_1_{font-family: 仿宋;font-size: 14pt;font-weight: bold;color: #ffffff;line-height: 160%;}
+span.s2_1_{line-height: 160%;font-family: 仿宋;font-size: 14pt;text-decoration: none;}
+span.s10_1_{font-family: 仿宋;font-size: 14pt;font-weight: bold;color: white;line-height: 160%;}
+span.s20_1_{font-family: 仿宋;color: #ffffff;font-size: 14pt;text-decoration: none;line-height: 160%;}
+</style>
+<SCRIPT language="javascript"> 
+ var showfix_1_ = 1;
+ var isvertical_1_ = false;
+</SCRIPT>
+<script language="javascript" src="/system/resource/js/menu/text.js"></script>
+<TABLE id="t1_1_" cellSpacing="0" cellPadding="0" border="0" height="0" width="0"><TR><TD valign="center"></TD><TD valign="middle" height="0" width="0" nowrap class="b1_1_" align="center" id="a_1_1015" onmouseover="tshowLayers('1015','b2_1_', '_1_')" onmouseout="thideLayers('1015','b1_1_', '_1_','true','true')"><a class="menu0_1_" href="index.htm"><span class="fontstyle202886">&nbsp;首页&nbsp;</span></a></TD><TD valign="center"></TD><TD valign="middle" width="0" nowrap class="b1_1_" align="center" id="a_1_1018" onmouseover="tshowLayers('1018','b2_1_', '_1_')" onmouseout="thideLayers('1018','b1_1_', '_1_','true','true')"><a class="menu0_1_" href="xxgk/xyjj.htm"><span class="fontstyle202886">&nbsp;学院概况&nbsp;</span></a></TD><TD valign="center"></TD><TD valign="middle" width="0" nowrap class="b1_1_" align="center" id="a_1_1027" onmouseover="tshowLayers('1027','b2_1_', '_1_')" onmouseout="thideLayers('1027','b1_1_', '_1_','true','true')"><a class="menu0_1_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1028"><span class="fontstyle202886">&nbsp;本科教育&nbsp;</span></a></TD><TD valign="center"></TD><TD valign="middle" width="0" nowrap class="b1_1_" align="center" id="a_1_1162" onmouseover="tshowLayers('1162','b2_1_', '_1_')" onmouseout="thideLayers('1162','b1_1_', '_1_','true','true')"><a class="menu0_1_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1163"><span class="fontstyle202886">&nbsp;研究生培育&nbsp;</span></a></TD><TD valign="center"></TD><TD valign="middle" width="0" nowrap class="b1_1_" align="center" id="a_1_1031" onmouseover="tshowLayers('1031','b2_1_', '_1_')" onmouseout="thideLayers('1031','b1_1_', '_1_','true','true')"><a class="menu0_1_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1032"><span class="fontstyle202886">&nbsp;科学研究&nbsp;</span></a></TD><TD valign="center"></TD><TD valign="middle" width="0" nowrap class="b1_1_" align="center" id="a_1_1037" onmouseover="tshowLayers('1037','b2_1_', '_1_')" onmouseout="thideLayers('1037','b1_1_', '_1_','true','true')"><a class="menu0_1_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1038"><span class="fontstyle202886">&nbsp;办学特色&nbsp;</span></a></TD><TD valign="center"></TD><TD valign="middle" width="0" nowrap class="b1_1_" align="center" id="a_1_1191" onmouseover="tshowLayers('1191','b2_1_', '_1_')" onmouseout="thideLayers('1191','b1_1_', '_1_','true','true')"><a class="menu0_1_" href="fczs/jsfc.htm"><span class="fontstyle202886">&nbsp;风采展示&nbsp;</span></a></TD><TD valign="center"></TD><TD valign="middle" width="0" nowrap class="b1_1_" align="center" id="a_1_1059" onmouseover="tshowLayers('1059','b2_1_', '_1_')" onmouseout="thideLayers('1059','b1_1_', '_1_','true','true')"><a class="menu0_1_" href="xywh/xgdw.htm"><span class="fontstyle202886">&nbsp;学生工作&nbsp;</span></a></TD><TD valign="center"></TD><TD valign="middle" width="0" nowrap class="b1_1_" align="center" id="a_1_1048" onmouseover="tshowLayers('1048','b2_1_', '_1_')" onmouseout="thideLayers('1048','b1_1_', '_1_','true','true')"><a class="menu0_1_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1173"><span class="fontstyle202886">&nbsp;党建工作&nbsp;</span></a></TD><TD valign="center"></TD><TD valign="middle" width="0" nowrap class="b1_1_" align="center" id="a_1_1179" onmouseover="tshowLayers('1179','b2_1_', '_1_')" onmouseout="thideLayers('1179','b1_1_', '_1_','true','true')"><a class="menu0_1_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1180"><span class="fontstyle202886">&nbsp;常用下载&nbsp;</span></a></TD><TD valign="center"></TD><TD valign="middle" width="0" nowrap class="b1_1_" align="center" id="a_1_1229" onmouseover="tshowLayers('1229','b2_1_', '_1_')" onmouseout="thideLayers('1229','b1_1_', '_1_','true','true')"><a class="menu0_1_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1230"><span class="fontstyle202886">&nbsp;ENGLISH&nbsp;</span></a></TD></TR></TR><TR><td align="left" nowrap><DIV class="main_1_" id="layer_1_1015" onmouseover="tshownull('1015','b2_1_', '_1_')" onmouseout="thideLayers('1015','b1_1_', '_1_','true')" style="z-index:99999;display: none; POSITION: absolute;"><TABLE align="center" class="tb1_1_" cellSpacing="0" cellPadding="0" border="0"><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_1_', '_1_');" onmouseout="TOUT(this,'b3_1_', '_1_');" class="b3_1_">
+<A class="menu0_1_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1016"><span class="ejfontstyle202886">&nbsp;学院新闻&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_1_', '_1_');" onmouseout="TOUT(this,'b3_1_', '_1_');" class="b3_1_">
+<A class="menu0_1_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1017"><span class="ejfontstyle202886">&nbsp;通知公告&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_1_', '_1_');" onmouseout="TOUT(this,'b3_1_', '_1_');" class="b3_1_">
+<A class="menu0_1_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1217"><span class="ejfontstyle202886">&nbsp;党建工作&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_1_', '_1_');" onmouseout="TOUT(this,'b3_1_', '_1_');" class="b3_1_">
+<A class="menu0_1_" href="pic_list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1218"><span class="ejfontstyle202886">&nbsp;智慧交流平台&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_1_', '_1_');" onmouseout="TOUT(this,'b3_1_', '_1_');" class="b3_1_">
+<A class="menu0_1_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1219"><span class="ejfontstyle202886">&nbsp;学术交流&nbsp;</span></a></TD></tr></table></div></td><td></td><td align="left" nowrap><DIV class="main_1_" id="layer_1_1018" onmouseover="tshownull('1018','b2_1_', '_1_')" onmouseout="thideLayers('1018','b1_1_', '_1_','true')" style="z-index:99999;display: none; POSITION: absolute;"><TABLE align="center" class="tb1_1_" cellSpacing="0" cellPadding="0" border="0"><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_1_', '_1_');" onmouseout="TOUT(this,'b3_1_', '_1_');" class="b3_1_">
+<A class="menu0_1_" href="xxgk/xyjj.htm"><span class="ejfontstyle202886">&nbsp;学院简介&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_1_', '_1_');" onmouseout="TOUT(this,'b3_1_', '_1_');" class="b3_1_">
+<A class="menu0_1_" href="xxgk/xrld.htm"><span class="ejfontstyle202886">&nbsp;现任领导&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_1_', '_1_');" onmouseout="TOUT(this,'b3_1_', '_1_');" class="b3_1_">
+<A class="menu0_1_" href="xxgk/lrld.htm"><span class="ejfontstyle202886">&nbsp;历任领导&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_1_', '_1_');" onmouseout="TOUT(this,'b3_1_', '_1_');" class="b3_1_">
+<A class="menu0_1_" href="xxgk/jgsz.htm"><span class="ejfontstyle202886">&nbsp;机构设置&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_1_', '_1_');" onmouseout="TOUT(this,'b3_1_', '_1_');" class="b3_1_">
+<A class="menu0_1_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1201"><span class="ejfontstyle202886">&nbsp;部门职责&nbsp;</span></a></TD></tr></table></div></td><td></td><td align="left" nowrap><DIV class="main_1_" id="layer_1_1027" onmouseover="tshownull('1027','b2_1_', '_1_')" onmouseout="thideLayers('1027','b1_1_', '_1_','true')" style="z-index:99999;display: none; POSITION: absolute;"><TABLE align="center" class="tb1_1_" cellSpacing="0" cellPadding="0" border="0"><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_1_', '_1_');" onmouseout="TOUT(this,'b3_1_', '_1_');" class="b3_1_">
+<A class="menu0_1_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1028"><span class="ejfontstyle202886">&nbsp;专业简介&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_1_', '_1_');" onmouseout="TOUT(this,'b3_1_', '_1_');" class="b3_1_">
+<A class="menu0_1_" href="gljg/dwjy.htm"><span class="ejfontstyle202886">&nbsp;大外教育&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_1_', '_1_');" onmouseout="TOUT(this,'b3_1_', '_1_');" class="b3_1_">
+<A class="menu0_1_" href="gljg/szdw.htm"><span class="ejfontstyle202886">&nbsp;师资队伍&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_1_', '_1_');" onmouseout="TOUT(this,'b3_1_', '_1_');" class="b3_1_">
+<A class="menu0_1_" href="gljg/zzxx.htm"><span class="ejfontstyle202886">&nbsp;自主学习&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_1_', '_1_');" onmouseout="TOUT(this,'b3_1_', '_1_');" class="b3_1_">
+<A class="menu0_1_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1161"><span class="ejfontstyle202886">&nbsp;教改成果&nbsp;</span></a></TD></tr></table></div></td><td></td><td align="left" nowrap><DIV class="main_1_" id="layer_1_1162" onmouseover="tshownull('1162','b2_1_', '_1_')" onmouseout="thideLayers('1162','b1_1_', '_1_','true')" style="z-index:99999;display: none; POSITION: absolute;"><TABLE align="center" class="tb1_1_" cellSpacing="0" cellPadding="0" border="0"><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_1_', '_1_');" onmouseout="TOUT(this,'b3_1_', '_1_');" class="b3_1_">
+<A class="menu0_1_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1163"><span class="ejfontstyle202886">&nbsp;专业介绍&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_1_', '_1_');" onmouseout="TOUT(this,'b3_1_', '_1_');" class="b3_1_">
+<A class="menu0_1_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1164"><span class="ejfontstyle202886">&nbsp;导师队伍&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_1_', '_1_');" onmouseout="TOUT(this,'b3_1_', '_1_');" class="b3_1_">
+<A class="menu0_1_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1165"><span class="ejfontstyle202886">&nbsp;招生简介&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_1_', '_1_');" onmouseout="TOUT(this,'b3_1_', '_1_');" class="b3_1_">
+<A class="menu0_1_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1166"><span class="ejfontstyle202886">&nbsp;管理文件&nbsp;</span></a></TD></tr></table></div></td><td></td><td align="left" nowrap><DIV class="main_1_" id="layer_1_1031" onmouseover="tshownull('1031','b2_1_', '_1_')" onmouseout="thideLayers('1031','b1_1_', '_1_','true')" style="z-index:99999;display: none; POSITION: absolute;"><TABLE align="center" class="tb1_1_" cellSpacing="0" cellPadding="0" border="0"><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_1_', '_1_');" onmouseout="TOUT(this,'b3_1_', '_1_');" class="b3_1_">
+<A class="menu0_1_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1032"><span class="ejfontstyle202886">&nbsp;研究基地&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_1_', '_1_');" onmouseout="TOUT(this,'b3_1_', '_1_');" class="b3_1_">
+<A class="menu0_1_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1033"><span class="ejfontstyle202886">&nbsp;重点项目&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_1_', '_1_');" onmouseout="TOUT(this,'b3_1_', '_1_');" class="b3_1_">
+<A class="menu0_1_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1034"><span class="ejfontstyle202886">&nbsp;科研团队&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_1_', '_1_');" onmouseout="TOUT(this,'b3_1_', '_1_');" class="b3_1_">
+<A class="menu0_1_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1168"><span class="ejfontstyle202886">&nbsp;主要成果&nbsp;</span></a></TD></tr></table></div></td><td></td><td align="left" nowrap><DIV class="main_1_" id="layer_1_1037" onmouseover="tshownull('1037','b2_1_', '_1_')" onmouseout="thideLayers('1037','b1_1_', '_1_','true')" style="z-index:99999;display: none; POSITION: absolute;"><TABLE align="center" class="tb1_1_" cellSpacing="0" cellPadding="0" border="0"><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_1_', '_1_');" onmouseout="TOUT(this,'b3_1_', '_1_');" class="b3_1_">
+<A class="menu0_1_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1038"><span class="ejfontstyle202886">&nbsp;国家示范点&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_1_', '_1_');" onmouseout="TOUT(this,'b3_1_', '_1_');" class="b3_1_">
+<A class="menu0_1_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1039"><span class="ejfontstyle202886">&nbsp;跨国培养&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_1_', '_1_');" onmouseout="TOUT(this,'b3_1_', '_1_');" class="b3_1_">
+<A class="menu0_1_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1040"><span class="ejfontstyle202886">&nbsp;校企联合&nbsp;</span></a></TD></tr></table></div></td><td></td><td align="left" nowrap><DIV class="main_1_" id="layer_1_1191" onmouseover="tshownull('1191','b2_1_', '_1_')" onmouseout="thideLayers('1191','b1_1_', '_1_','true')" style="z-index:99999;display: none; POSITION: absolute;"><TABLE align="center" class="tb1_1_" cellSpacing="0" cellPadding="0" border="0"><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_1_', '_1_');" onmouseout="TOUT(this,'b3_1_', '_1_');" class="b3_1_">
+<A class="menu0_1_" href="fczs/jsfc.htm"><span class="ejfontstyle202886">&nbsp;教师风采&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_1_', '_1_');" onmouseout="TOUT(this,'b3_1_', '_1_');" class="b3_1_">
+<A class="menu0_1_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1193"><span class="ejfontstyle202886">&nbsp;学生风采&nbsp;</span></a></TD></tr></table></div></td><td></td><td align="left" nowrap><DIV class="main_1_" id="layer_1_1059" onmouseover="tshownull('1059','b2_1_', '_1_')" onmouseout="thideLayers('1059','b1_1_', '_1_','true')" style="z-index:99999;display: none; POSITION: absolute;"><TABLE align="center" class="tb1_1_" cellSpacing="0" cellPadding="0" border="0"><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_1_', '_1_');" onmouseout="TOUT(this,'b3_1_', '_1_');" class="b3_1_">
+<A class="menu0_1_" href="xywh/xgdw.htm"><span class="ejfontstyle202886">&nbsp;学工队伍&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_1_', '_1_');" onmouseout="TOUT(this,'b3_1_', '_1_');" class="b3_1_">
+<A class="menu0_1_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1169"><span class="ejfontstyle202886">&nbsp;团委学生会&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_1_', '_1_');" onmouseout="TOUT(this,'b3_1_', '_1_');" class="b3_1_">
+<A class="menu0_1_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1171"><span class="ejfontstyle202886">&nbsp;就业指导&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_1_', '_1_');" onmouseout="TOUT(this,'b3_1_', '_1_');" class="b3_1_">
+<A class="menu0_1_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1170"><span class="ejfontstyle202886">&nbsp;素拓中心&nbsp;</span></a></TD></tr></table></div></td><td></td><td align="left" nowrap><DIV class="main_1_" id="layer_1_1048" onmouseover="tshownull('1048','b2_1_', '_1_')" onmouseout="thideLayers('1048','b1_1_', '_1_','true')" style="z-index:99999;display: none; POSITION: absolute;"><TABLE align="center" class="tb1_1_" cellSpacing="0" cellPadding="0" border="0"><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_1_', '_1_');" onmouseout="TOUT(this,'b3_1_', '_1_');" class="b3_1_">
+<A class="menu0_1_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1173"><span class="ejfontstyle202886">&nbsp;支部建设&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_1_', '_1_');" onmouseout="TOUT(this,'b3_1_', '_1_');" class="b3_1_">
+<A class="menu0_1_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1176"><span class="ejfontstyle202886">&nbsp;专题学习&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_1_', '_1_');" onmouseout="TOUT(this,'b3_1_', '_1_');" class="b3_1_">
+<A class="menu0_1_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1240"><span class="ejfontstyle202886">&nbsp;党委工作&nbsp;</span></a></TD></tr></table></div></td><td></td><td align="left" nowrap><DIV class="main_1_" id="layer_1_1179" onmouseover="tshownull('1179','b2_1_', '_1_')" onmouseout="thideLayers('1179','b1_1_', '_1_','true')" style="z-index:99999;display: none; POSITION: absolute;"><TABLE align="center" class="tb1_1_" cellSpacing="0" cellPadding="0" border="0"><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_1_', '_1_');" onmouseout="TOUT(this,'b3_1_', '_1_');" class="b3_1_">
+<A class="menu0_1_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1180"><span class="ejfontstyle202886">&nbsp;教学表格&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_1_', '_1_');" onmouseout="TOUT(this,'b3_1_', '_1_');" class="b3_1_">
+<A class="menu0_1_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1181"><span class="ejfontstyle202886">&nbsp;学工表格&nbsp;</span></a></TD></tr></table></div></td><td></td><td align="left" nowrap><DIV class="main_1_" id="layer_1_1229" onmouseover="tshownull('1229','b2_1_', '_1_')" onmouseout="thideLayers('1229','b1_1_', '_1_','true')" style="z-index:99999;display: none; POSITION: absolute;"><TABLE align="center" class="tb1_1_" cellSpacing="0" cellPadding="0" border="0"><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_1_', '_1_');" onmouseout="TOUT(this,'b3_1_', '_1_');" class="b3_1_">
+<A class="menu0_1_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1230"><span class="ejfontstyle202886">&nbsp;What’s New&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_1_', '_1_');" onmouseout="TOUT(this,'b3_1_', '_1_');" class="b3_1_">
+<A class="menu0_1_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1231"><span class="ejfontstyle202886">&nbsp;About US&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_1_', '_1_');" onmouseout="TOUT(this,'b3_1_', '_1_');" class="b3_1_">
+<A class="menu0_1_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1232"><span class="ejfontstyle202886">&nbsp;Departments&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_1_', '_1_');" onmouseout="TOUT(this,'b3_1_', '_1_');" class="b3_1_">
+<A class="menu0_1_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1233"><span class="ejfontstyle202886">&nbsp;Faculties&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_1_', '_1_');" onmouseout="TOUT(this,'b3_1_', '_1_');" class="b3_1_">
+<A class="menu0_1_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1234"><span class="ejfontstyle202886">&nbsp;Research Institutes&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_1_', '_1_');" onmouseout="TOUT(this,'b3_1_', '_1_');" class="b3_1_">
+<A class="menu0_1_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1235"><span class="ejfontstyle202886">&nbsp;Job Opportunities&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_1_', '_1_');" onmouseout="TOUT(this,'b3_1_', '_1_');" class="b3_1_">
+<A class="menu0_1_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1236"><span class="ejfontstyle202886">&nbsp;Contact US&nbsp;</span></a></TD></tr></table></div></td><td></td></TR></table><!--#endeditable--></div>
+            </div>
+        </td>
+    </tr>
+    <tr>
+      <td align="center" style="height: 350px; width: 1000px"><!--#begineditable name="轮播图" action="webber.wbst.com.image.ColumnImage" layout="/system/_component/columnimage/bannerchangeimage.jsp" tpltype="0" contype="image" clone="" viewid="203620" contentviewid="" tagname="轮播图"--><style type="text/css">
+ul,li{
+    padding:0;
+    margin:0;
+    list-style:none;}
+#flashBoxu_u2_{
+    width:1000px;
+    height:350px;
+    border:0px solid #EEE;
+    position:relative;
+    margin-left: auto;
+    margin-right: auto;}
+#flashBoxu_u2_ img{
+    /*初始不要显示*/
+    display:none;
+    /*用边框来实现空位，因为margin和paading有时会引起些麻烦*/
+    border:0px solid #FFF;}
+#flashBoxu_u2_ ul{
+    position:absolute;
+    right:7px;
+    bottom:3px;
+    font:9px tahoma;}
+#flashBoxu_u2_ ul li{
+    display:block;
+    float:left;
+    width:12px;
+    height:12px;
+    line-height:12px;
+    margin-right:3px;
+    border:0px solid #999;
+    background:#F0F0F0;
+    text-align:center;
+    cursor:pointer;}
+#flashBoxu_u2_ ul li.hover{
+    border-color:red;
+    background:#FFE1E1;
+    color:red;}
+</style>
+<script type="text/javascript">
+function flashBoxCtrl(o){
+    this.obj=document.getElementById(o);
+    //这个私有方法虽然写了，但暂时没用到
+    function addListener(ele,eventName,functionBody){
+        if (ele.attachEvent){
+            ele.attachEvent("on"+eventName, functionBody);
+        }else if (ele.addEventListener){
+            ele.addEventListener("on"+eventName,functionBody, false);
+        }else{
+            return false;
+        }
+    }
+    //初始化
+    this.init=function(){
+        var objImg=this.obj.getElementsByTagName("img");
+        var tagLength=objImg.length;
+        if (tagLength>0){
+            var oUl=document.createElement("ul");
+            oUl.setAttribute("id",o+"numTag");
+            for (var i=0;i<tagLength;i++){
+                var oLi=oUl.appendChild(document.createElement("li"));
+                if (i==0){
+                    oLi.setAttribute("class","hover"); //初始化时把第一个设置为高亮
+                    oLi.setAttribute("className","hover");
+                }
+                //设置标签的数字
+                oLi.appendChild(document.createTextNode((i+1)));
+            }
+            this.obj.appendChild(oUl);
+            objImg[0].style.display="block";
+            //设置标签事件
+            var oTag=this.obj.getElementsByTagName("li");
+            for (var i=0;i<oTag.length;i++){
+                var flag = 0;
+                var temp = 0;
+                var timeout=null;
+                var step = function(){
+                    for (j=0;j<oTag.length;j++){
+                        oTag[j].className="";
+                        objImg[j].style.display="none";
+                    }
+                    this.className="hover";
+                    flag = flag>=oTag.length-1?0:flag+1;
+                    objImg[flag].style.display="block";
+                    oTag[flag].className = "hover";
+                    timeout = setTimeout(step,5000);
+                };
+                oTag[i].onmouseover=function(){
+                    for (j=0;j<oTag.length;j++){
+                        oTag[j].className="";
+                        objImg[j].style.display="none";
+                        temp = j;
+                    }
+                    this.className="hover";
+                    objImg[this.innerHTML-1].style.display="block";
+                    temp = this.innerHTML-1;
+                    flag = i;
+                    clearInterval(timeout);
+                }
+                oTag[i].onmouseout = function(){
+                    for (j=0;j<oTag.length;j++){
+                        oTag[j].className="";
+                        objImg[j].style.display="none";
+                    }
+                    flag = temp;
+                    objImg[temp].style.display="block";
+                    oTag[temp].className = "hover";
+                    timeout = setTimeout(step,5000);
+                }
+                if(i==0)
+                {
+                    timeout = setTimeout(step,5000);
+                }
+            }
+        }
+    };
+    //自动滚动的方法还没写
+    this.imgRoll=function(){};
+    //生成对象时自动加载init()方法以初始化对象
+    this.init();
+}
+</script>
+<table cellspacing="0" cellpadding="0" border="0"><tr><td><div id="flashBoxu_u2_"><img src="images/sytp/fanxiao2.jpg" border="0" width="1000" height="350" /><img src="images/sytp/fanxiao1.jpg" border="0" width="1000" height="350" /><img src="images/sytp/202002152.jpg" border="0" width="1000" height="350" /><img src="images/sytp/202002151.jpg" border="0" width="1000" height="350" /></div></td></tr></table><SCRIPT language="JavaScript">new flashBoxCtrl("flashBoxu_u2_");</SCRIPT><!--#endeditable--></td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+<div style="height: 20px"></div>
+<table cellspacing="0" cellpadding="0" width="1000" align="center" bgcolor="#fffef9" border="0" margin-top="20px">
+  <!--新闻和通知-->
+  <tbody>
+    <tr>
+      <td><table cellspacing="0" cellpadding="0" width="661">
+          <!--news-->
+          <tbody>
+            <tr>
+              <td colspan="2" style="font-size: 18px; font-family: 黑体"><img src="images/news.png" width="35" height="35">学院新闻<a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1016" target="_blank"><span class="STYLE1" margin-top="5px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;更多&gt;&gt;</span></a></td>
+            </tr>
+            <tr>
+              <td width="323"><hr color="#348EEE" size="3" width="100%" margin-top="0">
+                <!--#begineditable name="变换图片文章" viewid="202889" tagname="变换图片文章" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""-->
+<LINK href="/system/resource/style/component/news/list/imagechangenews.css" type="text/css" rel="stylesheet">
+<script language="javascript" src="/system/resource/js/news/imagechangenews.js"></script><script language="JavaScript">
+var u_u3_icn = new ImageChangeNews("u_u3_", 310, 210, 5, 2.0, true, false, false, true);
+
+//初始化图片, 并启动定时
+function u_u3_init_img()
+{
+
+    u_u3_icn.addimg("\/__local\/E\/44\/8D\/26ACC2084A658047EA81A4C11FE_14009540_131E.png", "info\/1016\/2851.htm", "外国语学院网站更改的通知", "");
+
+    u_u3_icn.changeimg(0);
+}
+</script><table cellspacing="0" cellpadding="0" border="0" style="padding:0px margin:0px; border:0px">
+    <tr><td>
+        <div style="OVERFLOW: hidden;height:210px;width:310px">
+            <div id="u_u3_div" align="center" style="padding:0px;margin:0px;border:0px solid black;background-color:#000000;FILTER: progid:DXImageTransform.Microsoft.RevealTrans (duration=2.0,transition=23);height:210px;width:310px">
+                <div id="u_u3_imgdiv" style="padding:0px;border:0px;"><a id="u_u3_url" target="_blank"><img id="u_u3_pic" border="0" width="310" height="210" src="/system/resource/images/space.gif"></a></div>
+            </div>
+            <div style="filter:alpha(style=1,opacity=10,finishOpacity=80);width:310px;height:19px;text-align:right;top:-19px;position:relative;padding:0px;margin:0px;border:0px;">
+<a href="javascript:u_u3_icn.changeimg(0)" ; id="u_u3_selectNode0" class="imagechangenews_pnode" target="_self">1</a>
+            </div></div></td></tr>
+       
+    <tr><td height="25">
+        <div align="center" style="overflow:hidden;text-overflow:ellipsis;height:25px;width:310px;"><a target="_blank" class="titlestyle202889" id="u_u3_newstitle"></a></div>
+    </td></tr>
+<div align="left" display="none" style="overflow:hidden;text-overflow:ellipsis;height:0px;width:310px;padding-left:2px;padding-right:2px"><a target="_blank" class="summarystyle202889" id="u_u3_newssummary"></a></div>   
+</table><SCRIPT language="JavaScript">u_u3_init_img();</SCRIPT><!--#endeditable-->
+                </hr></td>
+              <td width="323"><hr color="#348EEE" size="3" width="100%">
+                <!--#begineditable name="学院新闻" viewid="202897" tagname="学院新闻" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><table width="100%" cellspacing="3" cellpadding="0">
+  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202897"><img src="images/point.png" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1016/3081.htm" class="c202897" title="【疫情防控】外国语学院开展疫情防控开学前安全检查工作" target="_blank">
+        【疫情防控】外国语学院开展疫...
+        </a>
+        &nbsp;<img src="images/newimage.gif" align="absmiddle" border="0">
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202897" width="1%" nowrap>04-17</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202897"><img src="images/point.png" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1016/3080.htm" class="c202897" title="【疫情防控】我院召开安全稳定工作全体教师大会（图）" target="_blank">
+        【疫情防控】我院召开安全稳定...
+        </a>
+        &nbsp;<img src="images/newimage.gif" align="absmiddle" border="0">
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202897" width="1%" nowrap>04-15</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202897"><img src="images/point.png" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1016/3063.htm" class="c202897" title="外国语学院召开课程思政专题研讨会" target="_blank">
+        外国语学院召开课程思政专题研讨会
+        </a>
+        &nbsp;<img src="images/newimage.gif" align="absmiddle" border="0">
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202897" width="1%" nowrap>04-15</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202897"><img src="images/point.png" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1016/3061.htm" class="c202897" title="外语学院召开意识形态研判及安全稳定排查工作会议" target="_blank">
+        外语学院召开意识形态研判及安...
+        </a>
+        &nbsp;
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202897" width="1%" nowrap>04-14</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202897"><img src="images/point.png" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1016/3052.htm" class="c202897" title="校长徐华蕊到外国语学院调研新学期工作" target="_blank">
+        校长徐华蕊到外国语学院调研新...
+        </a>
+        &nbsp;
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202897" width="1%" nowrap>04-11</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202897"><img src="images/point.png" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1016/3049.htm" class="c202897" title="国务院应对新型冠状病毒感染肺炎疫情​联防联控机制关于印发新冠病毒无症状感染者管理规范的通知" target="_blank">
+        国务院应对新型冠状病毒感染肺...
+        </a>
+        &nbsp;
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202897" width="1%" nowrap>04-10</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202897"><img src="images/point.png" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1016/3048.htm" class="c202897" title="外国语学院召开安全工作会议" target="_blank">
+        外国语学院召开安全工作会议
+        </a>
+        &nbsp;
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202897" width="1%" nowrap>04-09</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202897"><img src="images/point.png" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1016/3046.htm" class="c202897" title="我院邀请南京大学王海啸教授开展教学专题讲座（图）" target="_blank">
+        我院邀请南京大学王海啸教授开...
+        </a>
+        &nbsp;
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202897" width="1%" nowrap>04-08</td></tr>
+</table><!--#endeditable-->
+                </hr></td>
+            </tr>
+          </tbody>
+        </table></td>
+      <td><table cellspacing="0" cellpadding="0" width="15" align="center" border="0">
+          <tbody>
+            <tr>
+              <td align="center"></td>
+            </tr>
+          </tbody>
+        </table></td>
+      <td><table cellspacing="0" cellpadding="0" width="323">
+          <!--notify-->
+          <tbody>
+            <tr>
+              <td style="font-size: 18px; font-family: 黑体; padding-right: 10px"><img src="images/form.png" width="35" height="35">通知公告<a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1017" target="_blank"><span class="STYLE1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;更多&gt;&gt;</span></a></td>
+            </tr>
+            <tr>
+              <td><hr color="#348EEE" size="3">
+                <!--#begineditable name="通知公告" viewid="1117" tagname="tongzhi" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><table width="100%" cellspacing="3" cellpadding="0">
+  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont1117"><img src="images/point.png" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1017/3073.htm" class="c1117" title="关于申报2020年广西哲学社会科学规划课题的通知" target="_blank">
+        关于申报2020年广西哲学社会科...
+        </a>
+        &nbsp;<img src="images/newimage.gif" align="absmiddle" border="0">
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle1117" width="1%" nowrap>04-16</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont1117"><img src="images/point.png" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1017/3060.htm" class="c1117" title="关于对部分国家级和区级大学生创新训练计划项目进行结题验收的通知" target="_blank">
+        关于对部分国家级和区级大学生...
+        </a>
+        &nbsp;<img src="images/newimage.gif" align="absmiddle" border="0">
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle1117" width="1%" nowrap>04-13</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont1117"><img src="images/point.png" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1017/3053.htm" class="c1117" title="外国学院关于组织申报广西党建研究会2020年度课题研究的通知" target="_blank">
+        外国学院关于组织申报广西党建...
+        </a>
+        &nbsp;<img src="images/newimage.gif" align="absmiddle" border="0">
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle1117" width="1%" nowrap>04-13</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont1117"><img src="images/point.png" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1017/3047.htm" class="c1117" title="关于组织参加全国高校教师教学创新大赛——第六届外语微课大赛的通知" target="_blank">
+        关于组织参加全国高校教师教学...
+        </a>
+        &nbsp;
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle1117" width="1%" nowrap>04-08</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont1117"><img src="images/point.png" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1017/3043.htm" class="c1117" title="外国语学院组织申报广西壮族自治区社科科学优秀成果奖通知" target="_blank">
+        外国语学院组织申报广西壮族自...
+        </a>
+        &nbsp;
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle1117" width="1%" nowrap>04-05</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont1117"><img src="images/point.png" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1017/3040.htm" class="c1117" title="关于加强“ 清明节”期间有关纪律要求的通知" target="_blank">
+        关于加强“ 清明节”期间有关纪...
+        </a>
+        &nbsp;
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle1117" width="1%" nowrap>04-03</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont1117"><img src="images/point.png" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1017/3037.htm" class="c1117" title="2020年大学生创新训练计划项目评审结果公示" target="_blank">
+        2020年大学生创新训练计划项目...
+        </a>
+        &nbsp;
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle1117" width="1%" nowrap>03-31</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont1117"><img src="images/point.png" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1017/3030.htm" class="c1117" title="外国语学院3月26日至4月14日值班安排" target="_blank">
+        外国语学院3月26日至4月14日值...
+        </a>
+        &nbsp;
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle1117" width="1%" nowrap>03-26</td></tr>
+</table><!--#endeditable-->
+                </hr></td>
+            </tr>
+          </tbody>
+        </table></td>
+      </hr>
+    </tr>
+  </tbody>
+</table>
+<div style="height: 20px"></div>
+<table cellspacing="0" cellpadding="0" width="1000" align="center" bgcolor="#fffef9" border="0" margin-top="20px">
+  <tbody>
+    <tr>
+      <td><table cellspacing="0" cellpadding="0" width="323">
+          <!--notify-->
+          <tbody>
+            <tr>
+              <td style="font-size: 18px; font-family: 黑体; padding-right: 20px"><img src="images/dangjian.png" width="45" height="35">党建工作<a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1217" target="_blank"><span class="STYLE1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;更多&gt;&gt;</span></a></td>
+            </tr>
+            <tr>
+              <td><hr color="#348EEE" size="3">
+                <!--#begineditable name="党建工作" viewid="202900" tagname="党建活动" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><table width="100%" cellspacing="3" cellpadding="0">
+  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202900"><img src="images/point.png" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1176/3062.htm" class="c202900" title="外国语学院党委召开中心组理论学习会（图）" target="_blank">
+        外国语学院党委召开中心组理论...
+        </a>
+        &nbsp;<img src="images/newimage.gif" align="absmiddle" border="0">
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202900" width="1%" nowrap>04-14</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202900"><img src="images/point.png" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1173/3036.htm" class="c202900" title="英语专业学生党支部3月份“云”组织生活会" target="_blank">
+        英语专业学生党支部3月份“云”...
+        </a>
+        &nbsp;<img src="images/newimage.gif" align="absmiddle" border="0">
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202900" width="1%" nowrap>03-30</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202900"><img src="images/point.png" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1173/3035.htm" class="c202900" title="教工第二支部2020年3月抗疫情主题党日活动" target="_blank">
+        教工第二支部2020年3月抗疫情主...
+        </a>
+        &nbsp;<img src="images/newimage.gif" align="absmiddle" border="0">
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202900" width="1%" nowrap>03-29</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202900"><img src="images/point.png" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1173/2998.htm" class="c202900" title="英语专业学生党支部召开“让党旗在防疫斗争中高高飘扬”线上主题党日活动" target="_blank">
+        英语专业学生党支部召开“让党...
+        </a>
+        &nbsp;
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202900" width="1%" nowrap>02-29</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202900"><img src="images/point.png" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1173/2996.htm" class="c202900" title="日语及汉教学生党支部召开“让党旗在防疫斗争中高高飘扬”线上主题党日活动" target="_blank">
+        日语及汉教学生党支部召开“让...
+        </a>
+        &nbsp;
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202900" width="1%" nowrap>02-29</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202900"><img src="images/point.png" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1173/2992.htm" class="c202900" title="教工第二支部2020年2月抗疫情主题党日活动" target="_blank">
+        教工第二支部2020年2月抗疫情主...
+        </a>
+        &nbsp;
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202900" width="1%" nowrap>02-29</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202900"><img src="images/point.png" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1173/2983.htm" class="c202900" title="研究生党支部开展“让党旗在防控疫情斗争中高高飘扬”线上主题党日活动" target="_blank">
+        研究生党支部开展“让党旗在防...
+        </a>
+        &nbsp;
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202900" width="1%" nowrap>02-28</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202900"><img src="images/point.png" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1173/2982.htm" class="c202900" title="日语及汉教专业学生党支部召开疫情防控工作专题网络会议" target="_blank">
+        日语及汉教专业学生党支部召开...
+        </a>
+        &nbsp;
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202900" width="1%" nowrap>02-25</td></tr>
+</table><!--#endeditable-->
+                </hr></td>
+            </tr>
+          </tbody>
+        </table></td>
+      <td><table cellspacing="0" cellpadding="0" width="15" align="center" border="0">
+          <tbody>
+            <tr>
+              <td align="center"></td>
+            </tr>
+          </tbody>
+        </table></td>
+      <td><table cellspacing="0" cellpadding="0" width="323">
+          <!--notify-->
+          <tbody>
+            <tr>
+              <td style="font-size: 18px; font-family: 黑体;  padding-right: 10px"><img src="images/pingtai.png" width="40" height="35">智慧学习平台<a href="pic_list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1218" target="_blank"><span class="STYLE1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;更多&gt;&gt;</span></a></td>
+            </tr>
+            <tr>
+              
+                  <td><hr color="#348EEE" size="3"><a href="pic_list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1218" target="_blank"><!--#begineditable name="智慧平台" viewid="202896" tagname="智慧平台" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><img src="images/study.png" width="333" height="235" border="0"><!--#endeditable--></a></hr></td>
+              
+            </tr>
+          </tbody>
+        </table></td>
+      <td><table cellspacing="0" cellpadding="0" width="15" align="center" border="0">
+          <tbody>
+            <tr>
+              <td align="center"></td>
+            </tr>
+          </tbody>
+        </table></td>
+      <td><table cellspacing="0" cellpadding="0" width="323">
+          <!--notify-->
+          <tbody>
+            <tr>
+              <td style="font-size: 18px; font-family: 黑体; padding-right: 10px"><img src="images/xueshu.png" width="35" height="35">学术交流<a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1219" target="_blank"><span class="STYLE1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;更多&gt;&gt;</span></a></td>
+            </tr>
+            <tr>
+              <td><hr color="#348EEE" size="3">
+                <!--#begineditable name="学术交流" viewid="202899" tagname="学术交流" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><table width="100%" cellspacing="3" cellpadding="0">
+  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202899"><img src="images/point.png" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1219/2850.htm" class="c202899" title="关于南京大学王海啸教授为我院讲学的通知" target="_blank">
+        关于南京大学王海啸教授为我院...
+        </a>
+        &nbsp;<img src="images/newimage.gif" align="absmiddle" border="0">
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202899" width="1%" nowrap>03-31</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202899"><img src="images/point.png" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1219/2849.htm" class="c202899" title="学术交流" target="_blank">
+        学术交流
+        </a>
+        &nbsp;<img src="images/newimage.gif" align="absmiddle" border="0">
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202899" width="1%" nowrap>12-04</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202899"><img src="images/point.png" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1219/2848.htm" class="c202899" title="学术交流" target="_blank">
+        学术交流
+        </a>
+        &nbsp;<img src="images/newimage.gif" align="absmiddle" border="0">
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202899" width="1%" nowrap>12-04</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202899"><img src="images/point.png" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1219/2847.htm" class="c202899" title="学术交流" target="_blank">
+        学术交流
+        </a>
+        &nbsp;
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202899" width="1%" nowrap>12-04</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202899"><img src="images/point.png" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1219/2846.htm" class="c202899" title="学术交流" target="_blank">
+        学术交流
+        </a>
+        &nbsp;
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202899" width="1%" nowrap>12-04</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202899"><img src="images/point.png" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1219/2845.htm" class="c202899" title="学术交流" target="_blank">
+        学术交流
+        </a>
+        &nbsp;
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202899" width="1%" nowrap>12-04</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202899"><img src="images/point.png" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1219/2844.htm" class="c202899" title="学术交流" target="_blank">
+        学术交流
+        </a>
+        &nbsp;
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202899" width="1%" nowrap>12-04</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202899"><img src="images/point.png" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1219/2843.htm" class="c202899" title="学术交流" target="_blank">
+        学术交流
+        </a>
+        &nbsp;
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202899" width="1%" nowrap>12-04</td></tr>
+</table><!--#endeditable-->
+                </hr></td>
+            </tr>
+          </tbody>
+        </table></td>
+    </tr>
+  </tbody>
+</table>
+<div style="height: 20px"></div>
+<table cellspacing="0" cellpadding="0" width="1000" align="center" bgcolor="#fffef9" border="0">
+  <tbody>
+    <tr>
+      <td width="333" align="center"><!--#begineditable name="链接列表" viewid="202901" tagname="链接列表" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp="true"--><script language="javascript" src="/system/resource/js/dynclicks.js"></script><script language="javascript" src="/system/resource/js/openlink.js"></script><select onchange="_openSelectLink(this, 'value', 'addclicks')" style="width:200px;background: #3176f5;color: #fff;height:25px; border-radius: 10px 10px 10px 10px;border:0">
+    <option text-align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--常用下载--</option>
+    <option value="https://www.guet.edu.cn/dept6/list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1180" title="" addclicks="_addDynClicks(&#34;wburl&#34;, 1411889694, 39386)">教学表格</option>
+    <option value="https://www.guet.edu.cn/dept6/list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1181" title="" addclicks="_addDynClicks(&#34;wburl&#34;, 1411889694, 39453)">学工表格</option>
+    <option value="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1240" title="" addclicks="_addDynClicks(&#34;wburl&#34;, 1411889694, 39462)">党委工作</option>
+</select><!--#endeditable--></td>
+      <td width="333" align="center"><!--#begineditable name="校内主页" action="" layout="" tpltype="" contype="" clone="" viewid="202902" contentviewid="" tagname="校内主页"--><select onchange="_openSelectLink(this, 'value', 'addclicks')" style="width:200px;background: #3176f5;color: #fff;height:25px; border-radius: 10px 10px 10px 10px;border:0">
+    <option align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--校内主页--</option>
+    <option value="https://www.guet.edu.cn/hospital/" title="" addclicks="_addDynClicks(&#34;wburl&#34;, 1411889694, 39432)">校医院</option>
+    <option value="http://glgdzx.guet.edu.cn/" title="" addclicks="_addDynClicks(&#34;wburl&#34;, 1411889694, 39433)">桂电中学</option>
+    <option value="http://202.193.70.191" title="" addclicks="_addDynClicks(&#34;wburl&#34;, 1411889694, 39434)">现代教育技术中心</option>
+    <option value="http://202.193.70.191/" title="" addclicks="_addDynClicks(&#34;wburl&#34;, 1411889694, 39435)">图书馆</option>
+    <option value="https://www.guet.edu.cn/jxsjb/" title="" addclicks="_addDynClicks(&#34;wburl&#34;, 1411889694, 39436)">教学实践部</option>
+    <option value="http://international.guet.edu.cn/" title="" addclicks="_addDynClicks(&#34;wburl&#34;, 1411889694, 39437)">国际学院</option>
+    <option value="http://hyxy.guet.edu.cn/" title="" addclicks="_addDynClicks(&#34;wburl&#34;, 1411889694, 39438)">海洋信息工程学院</option>
+    <option value="http://cjy2.guet.edu.cn/" title="" addclicks="_addDynClicks(&#34;wburl&#34;, 1411889694, 39439)">继续教育学院</option>
+    <option value="https://www.guet.edu.cn/jjxy/" title="" addclicks="_addDynClicks(&#34;wburl&#34;, 1411889694, 39440)">建筑与交通工程学院</option>
+    <option value="http://dpt12.guet.edu.cn/" title="" addclicks="_addDynClicks(&#34;wburl&#34;, 1411889694, 39441)">生命与环境科学学院</option>
+    <option value="https://www.guet.edu.cn/dept6/" title="" addclicks="_addDynClicks(&#34;wburl&#34;, 1411889694, 39442)">外国语学院</option>
+    <option value="https://www.guet.edu.cn/dept5/" title="" addclicks="_addDynClicks(&#34;wburl&#34;, 1411889694, 39443)">商学院</option>
+    <option value="https://www.guet.edu.cn/dept7/index.htm" title="" addclicks="_addDynClicks(&#34;wburl&#34;, 1411889694, 39444)">数学与计算科学学院</option>
+    <option value="https://www.guet.edu.cn/dept3/index.htm" title="" addclicks="_addDynClicks(&#34;wburl&#34;, 1411889694, 39445)">计算机与信息安全学院</option>
+    <option value="http://szhxy.guet.edu.cn/qxgl/public/Login.aspx?ReturnUrl=%2fqxgl%2fDefault.aspx" title="" addclicks="_addDynClicks(&#34;wburl&#34;, 1411889694, 39446)">数字化校园</option>
+    <option value="https://www.guet.edu.cn/dept8/" title="" addclicks="_addDynClicks(&#34;wburl&#34;, 1411889694, 39447)">电子工程与自动化学院</option>
+    <option value="https://www.guet.edu.cn/" title="" addclicks="_addDynClicks(&#34;wburl&#34;, 1411889694, 39448)">校主页</option>
+    <option value="https://www.guet.edu.cn/dept9/" title="" addclicks="_addDynClicks(&#34;wburl&#34;, 1411889694, 39449)">法学院</option>
+    <option value="http://gldz.cbpt.cnki.net/WKD/WebPublication/index.aspx?mid=GLDZ" title="" addclicks="_addDynClicks(&#34;wburl&#34;, 1411889694, 39450)">学报</option>
+    <option value="https://www.guet.edu.cn/dept10/index.htm" title="" addclicks="_addDynClicks(&#34;wburl&#34;, 1411889694, 39451)">材料科学与工程学院</option>
+    <option value="https://www.guet.edu.cn/dept2/" title="" addclicks="_addDynClicks(&#34;wburl&#34;, 1411889694, 39452)">信息与通信学院</option>
+</select><!--#endeditable--></td>
+      <td width="333" align="center"><!--#begineditable name="部处单位" action="" layout="" tpltype="" contype="" clone="" viewid="202903" contentviewid="" tagname="部处单位"--><select onchange="_openSelectLink(this, 'value', 'addclicks')" style="width:200px;background: #3176f5;color: #fff;height:25px; border-radius: 10px 10px 10px 10px;border:0">
+    <option align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--部处单位--</option>
+    <option value="https://www.guet.edu.cn/fzghc/" title="" addclicks="_addDynClicks(&#34;wburl&#34;, 1411889694, 39412)">发展规划处</option>
+    <option value="http://ltc.guet.edu.cn/" title="" addclicks="_addDynClicks(&#34;wburl&#34;, 1411889694, 39413)">离退休工作处</option>
+    <option value="https://www.guet.edu.cn/gra/" title="" addclicks="_addDynClicks(&#34;wburl&#34;, 1411889694, 39414)">研究生院</option>
+    <option value="http://xkb.guet.edu.cn/" title="" addclicks="_addDynClicks(&#34;wburl&#34;, 1411889694, 39415)">学科建设工作室</option>
+    <option value="http://jijian.guet.edu.cn/jijianchu/index.aspx" title="" addclicks="_addDynClicks(&#34;wburl&#34;, 1411889694, 39416)">基建处</option>
+    <option value="http://hqc.guet.edu.cn/" title="" addclicks="_addDynClicks(&#34;wburl&#34;, 1411889694, 39417)">后勤处</option>
+    <option value="http://metc.guet.edu.cn/zhglc/" title="" addclicks="_addDynClicks(&#34;wburl&#34;, 1411889694, 39418)">国有资产管理处</option>
+    <option value="http://international.guet.edu.cn/" title="" addclicks="_addDynClicks(&#34;wburl&#34;, 1411889694, 39419)">国际合作与交流处</option>
+    <option value="http://caiwuchu.guet.edu.cn/" title="" addclicks="_addDynClicks(&#34;wburl&#34;, 1411889694, 39420)">招生办公室</option>
+    <option value="http://caiwuchu.guet.edu.cn/" title="" addclicks="_addDynClicks(&#34;wburl&#34;, 1411889694, 39421)">财务处</option>
+    <option value="http://rsc.guet.edu.cn/RSC/public/Default.aspx" title="" addclicks="_addDynClicks(&#34;wburl&#34;, 1411889694, 39422)">人事处职改办</option>
+    <option value="http://tw.guet.edu.cn/" title="" addclicks="_addDynClicks(&#34;wburl&#34;, 1411889694, 39423)">校团委</option>
+    <option value="http://gonghui.guet.edu.cn/" title="" addclicks="_addDynClicks(&#34;wburl&#34;, 1411889694, 39424)">校工会</option>
+    <option value="http://bmw.guet.edu.cn/" title="" addclicks="_addDynClicks(&#34;wburl&#34;, 1411889694, 39425)">保密办公室</option>
+    <option value="http://xsgzc.guet.edu.cn/" title="" addclicks="_addDynClicks(&#34;wburl&#34;, 1411889694, 39426)">学生工作处</option>
+    <option value="https://www.guet.edu.cn/dangxuan/" title="" addclicks="_addDynClicks(&#34;wburl&#34;, 1411889694, 39427)">宣传部</option>
+    <option value="http://tzb.guet.edu.cn/" title="" addclicks="_addDynClicks(&#34;wburl&#34;, 1411889694, 39428)">统战部</option>
+    <option value="https://zzb.guet.edu.cn/" title="" addclicks="_addDynClicks(&#34;wburl&#34;, 1411889694, 39429)">组织部</option>
+    <option value="https://www.guet.edu.cn/jwjc/" title="" addclicks="_addDynClicks(&#34;wburl&#34;, 1411889694, 39430)">纪检办公室&amp;监察室</option>
+    <option value="http://guetoa.guet.edu.cn/" title="" addclicks="_addDynClicks(&#34;wburl&#34;, 1411889694, 39431)">党政办公室</option>
+</select><!--#endeditable--></td>
+    </tr>
+  </tbody>
+</table>
+
+<div class="foot">
+    <div id="foot_left" style="float:left;height:150px;width:900px;"></div>
+    <div style="width:1000px;padding-top:270px;float:left">
+        <script>
+        var wid=window.innerWidth;
+        document.getElementById("foot_left").style.width=0.5*(wid-880)+"px";
+        </script>
+        <div style="float:left;border-right:3px solid white;padding-right: 50px; margin-top:5px;text-align:left;">
+            书记信箱: cofss jxx@guet. edu. cn<br>
+            电话、传真: 0773-2290092<br>
+            电子邮箱: floff ice@guet. edu. cn<br>
+        </div>        
+        <div style="float:left;margin-left:50px;margin-top:5px;text-align:left;">
+            通信地址:桂林市金鸡路1号桂林电子科技大学花江校区外国语学院<br>
+            邮编: 541004<br>
+            外国语学院新闻网站系统@版权所有<br>
+        </div>        
+        <div style="float:left;margin-left:20px;font-size:12px;"><img src="images/yiban.jpg" width="55px,height=55px;"><br>外院易班</div>
+        <div style="float:left;margin-left:15px;font-size:12px;"><img src="images/gongzhong.jpg" width="55px,height=55px;"><br>外院新媒体</div>
+    </div>
+</div>      
+
+</body>
+</html>

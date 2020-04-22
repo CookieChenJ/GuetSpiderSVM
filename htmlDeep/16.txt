@@ -1,0 +1,724 @@
+<!DOCTYPE html>
+<html lang="zh">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="Copyright" content="桂林电子科技大学科研网" />
+    <meta charset="utf-8" />
+    <title>人才引进-桂林电子科技大学-人事处职改办</title><META Name="keywords" Content="人事处职改办" />
+
+    <link href="images/siteImages/LOGO.ico" type="image/ico" rel="shortcut icon" />
+    <link href="images/siteImages/LOGO.ico" type="image/ico" rel="bookmark">
+    <meta name="viewport" content="width=device-width" />
+    <link href="style/style.css" rel="stylesheet" />
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="/rsc/list.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/vsbscreen.min.js" id="_vsbscreen" ></script>
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1105,'/list.jsp',-1,1411856036)</script>
+</head>
+
+<body >
+    <div class="lyout site-header">
+        <div class="main">
+            <img src="images/siteImages/site_logo.png" />
+        </div>
+    </div>
+    <div class="lyout site-nav">
+        <div class="main"><ul class="one">
+<li class="one-li">
+<a href="index.htm" class="one-a">首页</a>
+<li>
+<li class="one-li">
+<a href="info/1024/1051.htm" class="one-a">机构设置</a>
+<ul class="two">
+<li class="two-li"><a href="info/1024/1051.htm" class="two-a">部门黄页</a></li>
+<li class="two-li"><a href="info/1025/1052.htm" class="two-a">科室职责</a></li>
+<li class="two-li"><a href="info/1026/1053.htm" class="two-a">院系人事</a></li>
+</ul>
+<li>
+<li class="one-li">
+<a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1027" class="one-a">新闻公告</a>
+<ul class="two">
+<li class="two-li"><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1027" class="two-a">新闻动态</a></li>
+<li class="two-li"><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1028" class="two-a">通知公告</a></li>
+</ul>
+<li>
+<li class="one-li">
+<a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1029" class="one-a">师德师风</a>
+<ul class="two">
+<li class="two-li"><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1029" class="two-a">政策文件</a></li>
+<li class="two-li"><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1030" class="two-a">师德模范</a></li>
+<li class="two-li"><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1111" class="two-a">考核评价</a></li>
+</ul>
+<li>
+<li class="one-li">
+<a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1031" class="one-a">政策文件</a>
+<ul class="two">
+<li class="two-li"><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1036" class="two-a">师德师风</a></li>
+<li class="two-li"><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1031" class="two-a">人才引进</a></li>
+<li class="two-li"><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1033" class="two-a">人事管理</a></li>
+<li class="two-li"><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1032" class="two-a">师资管理</a></li>
+<li class="two-li"><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1035" class="two-a">劳资管理</a></li>
+<li class="two-li"><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1034" class="two-a">绩效管理</a></li>
+<li class="two-li"><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1037" class="two-a">职称改革</a></li>
+</ul>
+<li>
+<li class="one-li">
+<a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1039" class="one-a">下载专区</a>
+<ul class="two">
+<li class="two-li"><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1044" class="two-a">师德师风建设科</a></li>
+<li class="two-li"><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1039" class="two-a">人才开发科</a></li>
+<li class="two-li"><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1041" class="two-a">人才交流科</a></li>
+<li class="two-li"><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1040" class="two-a">师资建设科</a></li>
+<li class="two-li"><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1043" class="two-a">工资福利科</a></li>
+<li class="two-li"><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1042" class="two-a">绩效管理科</a></li>
+<li class="two-li"><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1045" class="two-a">职称服务科</a></li>
+<li class="two-li"><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1106" class="two-a">其他</a></li>
+</ul>
+<li>
+<li class="one-li">
+<a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1020" class="one-a">工作流程</a>
+<ul class="two">
+<li class="two-li"><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1091" class="two-a">师德师风</a></li>
+<li class="two-li"><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1092" class="two-a">人才引进</a></li>
+<li class="two-li"><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1093" class="two-a">人事管理</a></li>
+<li class="two-li"><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1094" class="two-a">师资管理</a></li>
+<li class="two-li"><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1095" class="two-a">劳资管理</a></li>
+<li class="two-li"><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1096" class="two-a">绩效管理</a></li>
+<li class="two-li"><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1097" class="two-a">职称改革</a></li>
+</ul>
+<li>
+<li class="one-li">
+<a href="info/1047/1264.htm" class="one-a">师资队伍</a>
+<ul class="two">
+<li class="two-li"><a href="info/1047/1264.htm" class="two-a">博士生导师</a></li>
+<li class="two-li"><a href="info/1048/1243.htm" class="two-a">杰出人才</a></li>
+<li class="two-li"><a href="info/1049/1265.htm" class="two-a">教指委员</a></li>
+<li class="two-li"><a href="info/1050/1266.htm" class="two-a">创新团队</a></li>
+</ul>
+<li>
+<li class="one-li">
+<a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1105" class="one-a">人才引进</a>
+<li>
+</ul></div>
+    </div>
+    <div class="main site-body">
+        <div class="main site-position">  
+<table  class="winstyle167185"  cellspacing=0 cellpadding=0><tr><td nowrap>当前位置：   
+<a href="index.htm"><span  class="fontstyle167185" >首页</span></a><span  class="splitflagstyle167185" >>></span><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1105"><span  class="fontstyle167185" >人才引进</span></a></td></tr></table></div>
+        <div class="site-row">
+            <div class="site-row-left">
+                <div class="left-nav"><div class="left-nav-head">人才引进</div>
+                    <ul class="left-nav-body"><ul class="left-nav-body">
+</ul></ul></div>
+                <div class="col-building">
+                    <img src="images/siteImages/img_building.png" />
+                </div>
+                <div class="col-friendlink">
+                    <div class="col-head"><span>友情链接</span></div>
+                    <div class="col-body">
+                        <div style="height:45px;">    
+    
+    
+    
+  
+<script language="javascript" src="/system/resource/js/dynclicks.js"></script>
+    
+<script language = "javascript">    
+<!--    
+    function doLinksu4(o)    
+    {    
+        var link=document.getElementsByName("su4")[0];    
+        var index=link.selectedIndex;    
+        if (index==-1 || index>=link.options.length)    
+        {    
+          return;    
+        }    
+        var value = link.options[index].value;    
+        var obj = document.getElementById("hu4");    
+        obj.href = value;
+        var wburlid =link.options[index].getAttribute("aa167188aa");
+        _addDynClicks('wburl',1411856036,wburlid)
+            
+                     obj.target = "_blank"
+                    
+         if(document.all){
+          obj.click();     
+        }         
+         else 
+        { 
+          window.open(value);
+         }
+       
+       if(o.selectedIndex != 0)    
+       {    
+           o.selectedIndex = 0;    
+       }    
+    }    
+-->    
+</script>  
+<table  class="winstyle167188" >    
+    <tr><td align="center">    
+            <span  class="titlestyle167188" ></span> <a id="hu4"></a>    
+            <select name="su4"  class="selectstyle167188"   onChange="doLinksu4(this)">    
+                <option value="">常用链接</option>    
+                <option vsbhrefname="value" aa167188aa="38693" value="http://www.1000plan.org/">千人计划    
+                <option vsbhrefname="value" aa167188aa="38694" value="http://www.mohrss.gov.cn/">人力资源和社会保障部    
+                <option vsbhrefname="value" aa167188aa="38695" value="http://www.gxedu.gov.cn/">广西教育厅    
+                <option vsbhrefname="value" aa167188aa="38696" value="http://gxttc.gxnu.edu.cn/">广西高校师资培训中心    
+                <option vsbhrefname="value" aa167188aa="38697" value="https://zzb.guet.edu.cn/">桂电组织部    
+                </select>    
+        </td><tr></table></div>
+                        <div style="height:45px;">    
+    
+    
+    
+  
+
+    
+<script language = "javascript">    
+<!--    
+    function doLinksu5(o)    
+    {    
+        var link=document.getElementsByName("su5")[0];    
+        var index=link.selectedIndex;    
+        if (index==-1 || index>=link.options.length)    
+        {    
+          return;    
+        }    
+        var value = link.options[index].value;    
+        var obj = document.getElementById("hu5");    
+        obj.href = value;
+        var wburlid =link.options[index].getAttribute("aa167189aa");
+        _addDynClicks('wburl',1411856036,wburlid)
+            
+                     obj.target = "_blank"
+                    
+         if(document.all){
+          obj.click();     
+        }         
+         else 
+        { 
+          window.open(value);
+         }
+       
+       if(o.selectedIndex != 0)    
+       {    
+           o.selectedIndex = 0;    
+       }    
+    }    
+-->    
+</script>  
+<table  class="winstyle167189" >    
+    <tr><td align="center">    
+            <span  class="titlestyle167189" ></span> <a id="hu5"></a>    
+            <select name="su5"  class="selectstyle167189"   onChange="doLinksu5(this)">    
+                <option value="">校内导航</option>    
+                <option vsbhrefname="value" aa167189aa="38698" value="http://dept1.guet.edu.cn/">机电工程学院    
+                <option vsbhrefname="value" aa167189aa="38699" value="http://dept2.guet.edu.cn/beta/">信息与通信学院    
+                <option vsbhrefname="value" aa167189aa="38700" value="http://dept3.guet.edu.cn/">计算机与信息安全学院    
+                <option vsbhrefname="value" aa167189aa="38701" value="https://www.guet.edu.cn/design/">艺术与设计学院    
+                <option vsbhrefname="value" aa167189aa="38702" value="https://www.guet.edu.cn/dept5/">商学院    
+                <option vsbhrefname="value" aa167189aa="38703" value="https://www.guet.edu.cn/dept6/">外国语学院    
+                <option vsbhrefname="value" aa167189aa="38704" value="https://www.guet.edu.cn/dept7/">数学与计算科学学院    
+                <option vsbhrefname="value" aa167189aa="38705" value="https://www.guet.edu.cn/dept8/">电子工程与自动化学院    
+                <option vsbhrefname="value" aa167189aa="38706" value="https://www.guet.edu.cn/dept9/">法学院/知识产权学院    
+                <option vsbhrefname="value" aa167189aa="38707" value="https://www.guet.edu.cn/mks/">马克思主义学院    
+                <option vsbhrefname="value" aa167189aa="38708" value="https://www.guet.edu.cn/dept10/">材料科学与工程学院    
+                <option vsbhrefname="value" aa167189aa="38709" value="https://www.guet.edu.cn/dpt12/">生命与环境科学学院    
+                <option vsbhrefname="value" aa167189aa="38710" value="https://www.guet.edu.cn/jjxy/">建筑与交通工程学院    
+                <option vsbhrefname="value" aa167189aa="38711" value="https://www.guet.edu.cn/cjy2/">继续教育学院    
+                <option vsbhrefname="value" aa167189aa="38712" value="http://international.guet.edu.cn/">国际学院    
+                <option vsbhrefname="value" aa167189aa="38713" value="https://www.guet.edu.cn/jxsjb/">教学实践部    
+                <option vsbhrefname="value" aa167189aa="38714" value="http://deptty.guet.edu.cn/">体育部    
+                </select>    
+        </td><tr></table></div>
+                        <div style="height:45px;">    
+    
+    
+    
+  
+
+    
+<script language = "javascript">    
+<!--    
+    function doLinksu6(o)    
+    {    
+        var link=document.getElementsByName("su6")[0];    
+        var index=link.selectedIndex;    
+        if (index==-1 || index>=link.options.length)    
+        {    
+          return;    
+        }    
+        var value = link.options[index].value;    
+        var obj = document.getElementById("hu6");    
+        obj.href = value;
+        var wburlid =link.options[index].getAttribute("aa167190aa");
+        _addDynClicks('wburl',1411856036,wburlid)
+            
+                     obj.target = "_blank"
+                    
+         if(document.all){
+          obj.click();     
+        }         
+         else 
+        { 
+          window.open(value);
+         }
+       
+       if(o.selectedIndex != 0)    
+       {    
+           o.selectedIndex = 0;    
+       }    
+    }    
+-->    
+</script>  
+<table  class="winstyle167190" >    
+    <tr><td align="center">    
+            <span  class="titlestyle167190" ></span> <a id="hu6"></a>    
+            <select name="su6"  class="selectstyle167190"   onChange="doLinksu6(this)">    
+                <option value="">部处级单位</option>    
+                <option vsbhrefname="value" aa167190aa="38715" value="http://guetoa.guet.edu.cn">党政办公室    
+                <option vsbhrefname="value" aa167190aa="38716" value="https://zzb.guet.edu.cn">党委组织部    
+                <option vsbhrefname="value" aa167190aa="38717" value="https://www.guet.edu.cn/dangxuan/">宣传部    
+                <option vsbhrefname="value" aa167190aa="38718" value="https://www.guet.edu.cn/rsc/">人事处    
+                <option vsbhrefname="value" aa167190aa="38719" value="http://caiwuchu.guet.edu.cn">财务处    
+                <option vsbhrefname="value" aa167190aa="38720" value="http://www.guet.edu.cn/gdkyc">科技处    
+                <option vsbhrefname="value" aa167190aa="38721" value="http://utsc.guet.edu.cn">教务处    
+                <option vsbhrefname="value" aa167190aa="38722" value="https://www.guet.edu.cn/xsgzc/">学生工作部（处）    
+                <option vsbhrefname="value" aa167190aa="38723" value="http://gonghui.guet.edu.cn">工会    
+                <option vsbhrefname="value" aa167190aa="38724" value="http://tw.guet.edu.cn">团委    
+                <option vsbhrefname="value" aa167190aa="38725" value="http://metc.guet.edu.cn/zhglc/">国有资产管理处    
+                <option vsbhrefname="value" aa167190aa="38726" value="https://www.guet.edu.cn/gra/index.htm">研究生学院    
+                <option vsbhrefname="value" aa167190aa="38727" value="http://international.guet.edu.cn">国际合作交流处    
+                <option vsbhrefname="value" aa167190aa="38728" value="https://www.guet.edu.cn/xjzx/">网络中心    
+                <option vsbhrefname="value" aa167190aa="38729" value="#">现代教育科技中心    
+                <option vsbhrefname="value" aa167190aa="38730" value="https://www.guet.edu.cn/ltc/">离退处    
+                <option vsbhrefname="value" aa167190aa="38731" value="http://hqc.guet.edu.cn">后勤处    
+                <option vsbhrefname="value" aa167190aa="38732" value="https://www.guet.edu.cn/jijian/">基建处    
+                <option vsbhrefname="value" aa167190aa="38733" value="http://baowei.guet.edu.cn">保卫处    
+                <option vsbhrefname="value" aa167190aa="38734" value="https://www.guet.edu.cn/gfs/">国防生选拔办公室    
+                <option vsbhrefname="value" aa167190aa="38735" value="https://www.guet.edu.cn/jwjc/">纪委监察办公室    
+                <option vsbhrefname="value" aa167190aa="38736" value="https://www.guet.edu.cn/shenji/index.htm">审计处    
+                <option vsbhrefname="value" aa167190aa="38737" value="https://www.guet.edu.cn/dag/">档案室    
+                <option vsbhrefname="value" aa167190aa="38738" value="https://www.guet.edu.cn/hospital/">校医院    
+                </select>    
+        </td><tr></table></div>
+                    </div>
+                </div>
+            </div>
+            <div class="site-row-right">
+                <div class="list-wrap"><ul class="list-wrap-ul"> 
+<li class="list-wrap-li"><a class="list-wrap-a" href="info/1105/1772.htm" target="_blanck">桂林电子科技大学2020年高层次人才招聘公告</a><span class="list-wrap-span">2020/03/23 16:38:09</span></li>  
+<li class="list-wrap-li"><a class="list-wrap-a" href="info/1105/1677.htm" target="_blanck">Full-Time Faculty Positions in the School of Digital Economics </a><span class="list-wrap-span">2019/10/15 15:52:14</span></li>  
+<li class="list-wrap-li"><a class="list-wrap-a" href="info/1105/1673.htm" target="_blanck">桂林电子科技大学面向全球招聘数字经济学院专任教师</a><span class="list-wrap-span">2019/10/15 15:31:47</span></li>  
+<li class="list-wrap-li"><a class="list-wrap-a" href="info/1105/1650.htm" target="_blanck">Full-Time Faculty Positions in Artificial Intelligence and Digital Economics</a><span class="list-wrap-span">2019/07/12 14:49:22</span></li>  
+<li class="list-wrap-li"><a class="list-wrap-a" href="info/1105/1649.htm" target="_blanck">桂林电子科技大学面向全球招聘人工智能学院、数字经济学院专任教师</a><span class="list-wrap-span">2019/07/12 14:48:32</span></li>  
+<li class="list-wrap-li"><a class="list-wrap-a" href="info/1105/1551.htm" target="_blanck">桂林电子科技大学关于面向海内外公开选聘第八批自治区特聘专家的通知</a><span class="list-wrap-span">2019/04/22 17:31:40</span></li>  
+<li class="list-wrap-li"><a class="list-wrap-a" href="info/1105/1290.htm" target="_blanck">桂职改[2016]3号-关于引进高层次急需紧缺人才直接评审高级专业技术资格有关问题的...</a><span class="list-wrap-span">2016/09/06 10:30:07</span></li>  
+<li class="list-wrap-li"><a class="list-wrap-a" href="info/1105/1293.htm" target="_blanck">桂林电子科技大学高层次人才引进面试、报到费用报销管理办法</a><span class="list-wrap-span">2016/06/03 10:31:58</span></li>  
+</ul>
+<div class="list-pager"><INPUT TYPE=hidden NAME=a167183actiontype id=a167183actiontype  VALUE=""><input type=hidden name=a167183o value="desc"><input type=hidden name=a167183k value="wbtop">
+<style type="text/css">
+.headStyle1nx3lnnlnl, .headStyle1nx3lnnlnl td, .headStyle1nx3lnnlnl div {font-size: 12px;font-family:宋体; color: #000000; margin-left: auto; margin-right: auto; line-height:14px;}
+.defaultButtonStyle {font-size: 12px;font-family:宋体; height:20px;color: #000000;BORDER: #AFD5F5 1px solid; margin: 0px;padding: 0px; FILTER:progid:DXImageTransform.Microsoft.Gradient(GradientType=0,StartColorStr=#ffffff, EndColorStr=#BDDBF7);  CURSOR: pointer; line-height:14px;background:-webkit-gradient(linear, 0 0, 0 100%, from(#ffffff), to(#BDDBF7));background: -moz-linear-gradient( top,#ffffff,#BDDBF7);background:-ms-linear-gradient(top,#ffffff 0%,#bddbf7 100%)}
+.defaultinputStyle {font-size: 12px;font-family:宋体; height:20px; border:1px solid #AFD5F5; line-height:14px;}
+.colHeader {font-size: 12px;font-family:宋体; line-height:14px;}
+.headStyle1nx3lnnlnl a, .pageList .this-page {font-size: 12px;font-family:宋体; display:inline-block; height:14px; padding: 2px 4px; border: solid 1px #AFD5F5; background: #fff; text-decoration: none; MARGIN-RIGHT: 1px;line-height:14px;}
+.headStyle1nx3lnnlnl a:visited {font-size: 12px;font-family:宋体; color: #000000; text-decoration: none; line-height:14px;}
+.headStyle1nx3lnnlnl .PrevDisabled {font-size: 12px;font-family:宋体; display:inline-block;height:14px;  margin-right: 3px; padding: 2px 4px; background: #fff;color:#ccc;border: solid 1px #AFD5F5; line-height:14px;}
+.headStyle1nx3lnnlnl .SelectList {font-size: 12px;font-family:宋体;line-height:14px;}
+.headStyle1nx3lnnlnl .Prev { font-size: 12px;font-family:宋体; margin-right: 3px; padding: 2px 4px;line-height:14px;}
+.headStyle1nx3lnnlnl .break {font-size: 12px;font-family:宋体; border: none; text-decoration: none; line-height:14px;}
+.headStyle1nx3lnnlnl .NextDisabled { font-size: 12px;font-family:宋体;display:inline-block; height:14px; margin-left: 2px; padding: 2px 4px;background: #fff;color:#ccc;border: solid 1px #AFD5F5; line-height:14px; }
+.headStyle1nx3lnnlnl .Next { font-size: 12px;font-family:宋体; margin-left: 2px; padding: 2px 4px;line-height:14px;}
+.headStyle1nx3lnnlnl .this-page {font-size: 12px;font-family:宋体;display:inline-block;height:14px;padding: 2px 4px; border: solid 1px #AFD5F5; background: #E1F0FD; font-weight: bold; color:black; MARGIN-RIGHT: 1px;line-height:14px;}
+.headStyle1nx3lnnlnl a:hover {font-size: 12px;font-family:宋体;color: black; background: #EFF7FE; border-color: #AFD5F5; text-decoration: none;line-height:14px;}
+.headStyle1nx3lnnlnl a:link {font-size: 12px;font-family:宋体;color: #000000; text-decoration: none;line-height:14px;}
+.headStyle1nx3lnnlnl a:active { font-size: 12px;font-family:宋体;color: black; text-decoration: none; background: #EFF7FE; line-height:14px;}
+</style><table cellspacing=0 cellpadding=0 border=0><TR><td colspan=0><table cellspacing=0 class=headStyle1nx3lnnlnl width="100%" cellpadding=1><tr valign=middle><TD nowrap align=left width=1% >共8条&nbsp;<input type=hidden name=a167183fc value="15">&nbsp;1/1&nbsp;</td><td nowrap align=left><div><span class=PrevDisabled>上页</span><span class=this-page>1</span><span class=NextDisabled>下页</span></div></td><TD nowrap align=right></td></tr></table></td></tr></table></div>
+<script>_showDynClickBatch(['dynclicks_u7_1772','dynclicks_u7_1677','dynclicks_u7_1673','dynclicks_u7_1650','dynclicks_u7_1649','dynclicks_u7_1551','dynclicks_u7_1290','dynclicks_u7_1293'],[1772,1677,1673,1650,1649,1551,1290,1293],"wbnews", 1411856036)</script>
+</div>              
+            </div>
+        </div>
+    </div>
+    <div class="lyout site-footer">
+        <div class="main">
+            <p>版权所有：2002-2019 桂林电子科技大学人事处</p>
+            <p>地址：广西桂林市 桂林电子科技大学花江校区人事处 (541004)</p>
+            <p>联系电话：0773-2292296 传真：0773-2290076</p>
+            <p>网站总访问：11775863 当前在线：2</p>
+            <p><a target="_blanck" href="http://www.miibeian.gov.cn/state/outPortal/loginPortal.action;jsessionid=c6m0x__MqS1JaBGQ5kRimZSq0loWk84bkj4jI1gfPtGh4Ixm2LWX!1386968419">备案号：桂ICP备
+                    05000961 号 </a></p>
+            <p>版权所有：2002-2019 桂林电子科技大学人事处</p>
+        </div>
+    </div>
+</body>
+
+</html>
+<!DOCTYPE html>
+<html lang="zh">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="Copyright" content="桂林电子科技大学科研网" />
+    <meta charset="utf-8" />
+    <title>人才引进-桂林电子科技大学-人事处职改办</title><META Name="keywords" Content="人事处职改办" />
+
+    <link href="images/siteImages/LOGO.ico" type="image/ico" rel="shortcut icon" />
+    <link href="images/siteImages/LOGO.ico" type="image/ico" rel="bookmark">
+    <meta name="viewport" content="width=device-width" />
+    <link href="style/style.css" rel="stylesheet" />
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="/rsc/list.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/vsbscreen.min.js" id="_vsbscreen" ></script>
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1105,'/list.jsp',-1,1411856036)</script>
+</head>
+
+<body >
+    <div class="lyout site-header">
+        <div class="main">
+            <img src="images/siteImages/site_logo.png" />
+        </div>
+    </div>
+    <div class="lyout site-nav">
+        <div class="main"><ul class="one">
+<li class="one-li">
+<a href="index.htm" class="one-a">首页</a>
+<li>
+<li class="one-li">
+<a href="info/1024/1051.htm" class="one-a">机构设置</a>
+<ul class="two">
+<li class="two-li"><a href="info/1024/1051.htm" class="two-a">部门黄页</a></li>
+<li class="two-li"><a href="info/1025/1052.htm" class="two-a">科室职责</a></li>
+<li class="two-li"><a href="info/1026/1053.htm" class="two-a">院系人事</a></li>
+</ul>
+<li>
+<li class="one-li">
+<a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1027" class="one-a">新闻公告</a>
+<ul class="two">
+<li class="two-li"><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1027" class="two-a">新闻动态</a></li>
+<li class="two-li"><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1028" class="two-a">通知公告</a></li>
+</ul>
+<li>
+<li class="one-li">
+<a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1029" class="one-a">师德师风</a>
+<ul class="two">
+<li class="two-li"><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1029" class="two-a">政策文件</a></li>
+<li class="two-li"><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1030" class="two-a">师德模范</a></li>
+<li class="two-li"><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1111" class="two-a">考核评价</a></li>
+</ul>
+<li>
+<li class="one-li">
+<a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1031" class="one-a">政策文件</a>
+<ul class="two">
+<li class="two-li"><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1036" class="two-a">师德师风</a></li>
+<li class="two-li"><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1031" class="two-a">人才引进</a></li>
+<li class="two-li"><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1033" class="two-a">人事管理</a></li>
+<li class="two-li"><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1032" class="two-a">师资管理</a></li>
+<li class="two-li"><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1035" class="two-a">劳资管理</a></li>
+<li class="two-li"><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1034" class="two-a">绩效管理</a></li>
+<li class="two-li"><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1037" class="two-a">职称改革</a></li>
+</ul>
+<li>
+<li class="one-li">
+<a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1039" class="one-a">下载专区</a>
+<ul class="two">
+<li class="two-li"><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1044" class="two-a">师德师风建设科</a></li>
+<li class="two-li"><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1039" class="two-a">人才开发科</a></li>
+<li class="two-li"><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1041" class="two-a">人才交流科</a></li>
+<li class="two-li"><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1040" class="two-a">师资建设科</a></li>
+<li class="two-li"><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1043" class="two-a">工资福利科</a></li>
+<li class="two-li"><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1042" class="two-a">绩效管理科</a></li>
+<li class="two-li"><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1045" class="two-a">职称服务科</a></li>
+<li class="two-li"><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1106" class="two-a">其他</a></li>
+</ul>
+<li>
+<li class="one-li">
+<a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1020" class="one-a">工作流程</a>
+<ul class="two">
+<li class="two-li"><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1091" class="two-a">师德师风</a></li>
+<li class="two-li"><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1092" class="two-a">人才引进</a></li>
+<li class="two-li"><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1093" class="two-a">人事管理</a></li>
+<li class="two-li"><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1094" class="two-a">师资管理</a></li>
+<li class="two-li"><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1095" class="two-a">劳资管理</a></li>
+<li class="two-li"><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1096" class="two-a">绩效管理</a></li>
+<li class="two-li"><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1097" class="two-a">职称改革</a></li>
+</ul>
+<li>
+<li class="one-li">
+<a href="info/1047/1264.htm" class="one-a">师资队伍</a>
+<ul class="two">
+<li class="two-li"><a href="info/1047/1264.htm" class="two-a">博士生导师</a></li>
+<li class="two-li"><a href="info/1048/1243.htm" class="two-a">杰出人才</a></li>
+<li class="two-li"><a href="info/1049/1265.htm" class="two-a">教指委员</a></li>
+<li class="two-li"><a href="info/1050/1266.htm" class="two-a">创新团队</a></li>
+</ul>
+<li>
+<li class="one-li">
+<a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1105" class="one-a">人才引进</a>
+<li>
+</ul></div>
+    </div>
+    <div class="main site-body">
+        <div class="main site-position">  
+<table  class="winstyle167185"  cellspacing=0 cellpadding=0><tr><td nowrap>当前位置：   
+<a href="index.htm"><span  class="fontstyle167185" >首页</span></a><span  class="splitflagstyle167185" >>></span><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1105"><span  class="fontstyle167185" >人才引进</span></a></td></tr></table></div>
+        <div class="site-row">
+            <div class="site-row-left">
+                <div class="left-nav"><div class="left-nav-head">人才引进</div>
+                    <ul class="left-nav-body"><ul class="left-nav-body">
+</ul></ul></div>
+                <div class="col-building">
+                    <img src="images/siteImages/img_building.png" />
+                </div>
+                <div class="col-friendlink">
+                    <div class="col-head"><span>友情链接</span></div>
+                    <div class="col-body">
+                        <div style="height:45px;">    
+    
+    
+    
+  
+<script language="javascript" src="/system/resource/js/dynclicks.js"></script>
+    
+<script language = "javascript">    
+<!--    
+    function doLinksu4(o)    
+    {    
+        var link=document.getElementsByName("su4")[0];    
+        var index=link.selectedIndex;    
+        if (index==-1 || index>=link.options.length)    
+        {    
+          return;    
+        }    
+        var value = link.options[index].value;    
+        var obj = document.getElementById("hu4");    
+        obj.href = value;
+        var wburlid =link.options[index].getAttribute("aa167188aa");
+        _addDynClicks('wburl',1411856036,wburlid)
+            
+                     obj.target = "_blank"
+                    
+         if(document.all){
+          obj.click();     
+        }         
+         else 
+        { 
+          window.open(value);
+         }
+       
+       if(o.selectedIndex != 0)    
+       {    
+           o.selectedIndex = 0;    
+       }    
+    }    
+-->    
+</script>  
+<table  class="winstyle167188" >    
+    <tr><td align="center">    
+            <span  class="titlestyle167188" ></span> <a id="hu4"></a>    
+            <select name="su4"  class="selectstyle167188"   onChange="doLinksu4(this)">    
+                <option value="">常用链接</option>    
+                <option vsbhrefname="value" aa167188aa="38693" value="http://www.1000plan.org/">千人计划    
+                <option vsbhrefname="value" aa167188aa="38694" value="http://www.mohrss.gov.cn/">人力资源和社会保障部    
+                <option vsbhrefname="value" aa167188aa="38695" value="http://www.gxedu.gov.cn/">广西教育厅    
+                <option vsbhrefname="value" aa167188aa="38696" value="http://gxttc.gxnu.edu.cn/">广西高校师资培训中心    
+                <option vsbhrefname="value" aa167188aa="38697" value="https://zzb.guet.edu.cn/">桂电组织部    
+                </select>    
+        </td><tr></table></div>
+                        <div style="height:45px;">    
+    
+    
+    
+  
+
+    
+<script language = "javascript">    
+<!--    
+    function doLinksu5(o)    
+    {    
+        var link=document.getElementsByName("su5")[0];    
+        var index=link.selectedIndex;    
+        if (index==-1 || index>=link.options.length)    
+        {    
+          return;    
+        }    
+        var value = link.options[index].value;    
+        var obj = document.getElementById("hu5");    
+        obj.href = value;
+        var wburlid =link.options[index].getAttribute("aa167189aa");
+        _addDynClicks('wburl',1411856036,wburlid)
+            
+                     obj.target = "_blank"
+                    
+         if(document.all){
+          obj.click();     
+        }         
+         else 
+        { 
+          window.open(value);
+         }
+       
+       if(o.selectedIndex != 0)    
+       {    
+           o.selectedIndex = 0;    
+       }    
+    }    
+-->    
+</script>  
+<table  class="winstyle167189" >    
+    <tr><td align="center">    
+            <span  class="titlestyle167189" ></span> <a id="hu5"></a>    
+            <select name="su5"  class="selectstyle167189"   onChange="doLinksu5(this)">    
+                <option value="">校内导航</option>    
+                <option vsbhrefname="value" aa167189aa="38698" value="http://dept1.guet.edu.cn/">机电工程学院    
+                <option vsbhrefname="value" aa167189aa="38699" value="http://dept2.guet.edu.cn/beta/">信息与通信学院    
+                <option vsbhrefname="value" aa167189aa="38700" value="http://dept3.guet.edu.cn/">计算机与信息安全学院    
+                <option vsbhrefname="value" aa167189aa="38701" value="https://www.guet.edu.cn/design/">艺术与设计学院    
+                <option vsbhrefname="value" aa167189aa="38702" value="https://www.guet.edu.cn/dept5/">商学院    
+                <option vsbhrefname="value" aa167189aa="38703" value="https://www.guet.edu.cn/dept6/">外国语学院    
+                <option vsbhrefname="value" aa167189aa="38704" value="https://www.guet.edu.cn/dept7/">数学与计算科学学院    
+                <option vsbhrefname="value" aa167189aa="38705" value="https://www.guet.edu.cn/dept8/">电子工程与自动化学院    
+                <option vsbhrefname="value" aa167189aa="38706" value="https://www.guet.edu.cn/dept9/">法学院/知识产权学院    
+                <option vsbhrefname="value" aa167189aa="38707" value="https://www.guet.edu.cn/mks/">马克思主义学院    
+                <option vsbhrefname="value" aa167189aa="38708" value="https://www.guet.edu.cn/dept10/">材料科学与工程学院    
+                <option vsbhrefname="value" aa167189aa="38709" value="https://www.guet.edu.cn/dpt12/">生命与环境科学学院    
+                <option vsbhrefname="value" aa167189aa="38710" value="https://www.guet.edu.cn/jjxy/">建筑与交通工程学院    
+                <option vsbhrefname="value" aa167189aa="38711" value="https://www.guet.edu.cn/cjy2/">继续教育学院    
+                <option vsbhrefname="value" aa167189aa="38712" value="http://international.guet.edu.cn/">国际学院    
+                <option vsbhrefname="value" aa167189aa="38713" value="https://www.guet.edu.cn/jxsjb/">教学实践部    
+                <option vsbhrefname="value" aa167189aa="38714" value="http://deptty.guet.edu.cn/">体育部    
+                </select>    
+        </td><tr></table></div>
+                        <div style="height:45px;">    
+    
+    
+    
+  
+
+    
+<script language = "javascript">    
+<!--    
+    function doLinksu6(o)    
+    {    
+        var link=document.getElementsByName("su6")[0];    
+        var index=link.selectedIndex;    
+        if (index==-1 || index>=link.options.length)    
+        {    
+          return;    
+        }    
+        var value = link.options[index].value;    
+        var obj = document.getElementById("hu6");    
+        obj.href = value;
+        var wburlid =link.options[index].getAttribute("aa167190aa");
+        _addDynClicks('wburl',1411856036,wburlid)
+            
+                     obj.target = "_blank"
+                    
+         if(document.all){
+          obj.click();     
+        }         
+         else 
+        { 
+          window.open(value);
+         }
+       
+       if(o.selectedIndex != 0)    
+       {    
+           o.selectedIndex = 0;    
+       }    
+    }    
+-->    
+</script>  
+<table  class="winstyle167190" >    
+    <tr><td align="center">    
+            <span  class="titlestyle167190" ></span> <a id="hu6"></a>    
+            <select name="su6"  class="selectstyle167190"   onChange="doLinksu6(this)">    
+                <option value="">部处级单位</option>    
+                <option vsbhrefname="value" aa167190aa="38715" value="http://guetoa.guet.edu.cn">党政办公室    
+                <option vsbhrefname="value" aa167190aa="38716" value="https://zzb.guet.edu.cn">党委组织部    
+                <option vsbhrefname="value" aa167190aa="38717" value="https://www.guet.edu.cn/dangxuan/">宣传部    
+                <option vsbhrefname="value" aa167190aa="38718" value="https://www.guet.edu.cn/rsc/">人事处    
+                <option vsbhrefname="value" aa167190aa="38719" value="http://caiwuchu.guet.edu.cn">财务处    
+                <option vsbhrefname="value" aa167190aa="38720" value="http://www.guet.edu.cn/gdkyc">科技处    
+                <option vsbhrefname="value" aa167190aa="38721" value="http://utsc.guet.edu.cn">教务处    
+                <option vsbhrefname="value" aa167190aa="38722" value="https://www.guet.edu.cn/xsgzc/">学生工作部（处）    
+                <option vsbhrefname="value" aa167190aa="38723" value="http://gonghui.guet.edu.cn">工会    
+                <option vsbhrefname="value" aa167190aa="38724" value="http://tw.guet.edu.cn">团委    
+                <option vsbhrefname="value" aa167190aa="38725" value="http://metc.guet.edu.cn/zhglc/">国有资产管理处    
+                <option vsbhrefname="value" aa167190aa="38726" value="https://www.guet.edu.cn/gra/index.htm">研究生学院    
+                <option vsbhrefname="value" aa167190aa="38727" value="http://international.guet.edu.cn">国际合作交流处    
+                <option vsbhrefname="value" aa167190aa="38728" value="https://www.guet.edu.cn/xjzx/">网络中心    
+                <option vsbhrefname="value" aa167190aa="38729" value="#">现代教育科技中心    
+                <option vsbhrefname="value" aa167190aa="38730" value="https://www.guet.edu.cn/ltc/">离退处    
+                <option vsbhrefname="value" aa167190aa="38731" value="http://hqc.guet.edu.cn">后勤处    
+                <option vsbhrefname="value" aa167190aa="38732" value="https://www.guet.edu.cn/jijian/">基建处    
+                <option vsbhrefname="value" aa167190aa="38733" value="http://baowei.guet.edu.cn">保卫处    
+                <option vsbhrefname="value" aa167190aa="38734" value="https://www.guet.edu.cn/gfs/">国防生选拔办公室    
+                <option vsbhrefname="value" aa167190aa="38735" value="https://www.guet.edu.cn/jwjc/">纪委监察办公室    
+                <option vsbhrefname="value" aa167190aa="38736" value="https://www.guet.edu.cn/shenji/index.htm">审计处    
+                <option vsbhrefname="value" aa167190aa="38737" value="https://www.guet.edu.cn/dag/">档案室    
+                <option vsbhrefname="value" aa167190aa="38738" value="https://www.guet.edu.cn/hospital/">校医院    
+                </select>    
+        </td><tr></table></div>
+                    </div>
+                </div>
+            </div>
+            <div class="site-row-right">
+                <div class="list-wrap"><ul class="list-wrap-ul"> 
+<li class="list-wrap-li"><a class="list-wrap-a" href="info/1105/1772.htm" target="_blanck">桂林电子科技大学2020年高层次人才招聘公告</a><span class="list-wrap-span">2020/03/23 16:38:09</span></li>  
+<li class="list-wrap-li"><a class="list-wrap-a" href="info/1105/1677.htm" target="_blanck">Full-Time Faculty Positions in the School of Digital Economics </a><span class="list-wrap-span">2019/10/15 15:52:14</span></li>  
+<li class="list-wrap-li"><a class="list-wrap-a" href="info/1105/1673.htm" target="_blanck">桂林电子科技大学面向全球招聘数字经济学院专任教师</a><span class="list-wrap-span">2019/10/15 15:31:47</span></li>  
+<li class="list-wrap-li"><a class="list-wrap-a" href="info/1105/1650.htm" target="_blanck">Full-Time Faculty Positions in Artificial Intelligence and Digital Economics</a><span class="list-wrap-span">2019/07/12 14:49:22</span></li>  
+<li class="list-wrap-li"><a class="list-wrap-a" href="info/1105/1649.htm" target="_blanck">桂林电子科技大学面向全球招聘人工智能学院、数字经济学院专任教师</a><span class="list-wrap-span">2019/07/12 14:48:32</span></li>  
+<li class="list-wrap-li"><a class="list-wrap-a" href="info/1105/1551.htm" target="_blanck">桂林电子科技大学关于面向海内外公开选聘第八批自治区特聘专家的通知</a><span class="list-wrap-span">2019/04/22 17:31:40</span></li>  
+<li class="list-wrap-li"><a class="list-wrap-a" href="info/1105/1290.htm" target="_blanck">桂职改[2016]3号-关于引进高层次急需紧缺人才直接评审高级专业技术资格有关问题的...</a><span class="list-wrap-span">2016/09/06 10:30:07</span></li>  
+<li class="list-wrap-li"><a class="list-wrap-a" href="info/1105/1293.htm" target="_blanck">桂林电子科技大学高层次人才引进面试、报到费用报销管理办法</a><span class="list-wrap-span">2016/06/03 10:31:58</span></li>  
+</ul>
+<div class="list-pager"><INPUT TYPE=hidden NAME=a167183actiontype id=a167183actiontype  VALUE=""><input type=hidden name=a167183o value="desc"><input type=hidden name=a167183k value="wbtop">
+<style type="text/css">
+.headStyle1t4481sptt, .headStyle1t4481sptt td, .headStyle1t4481sptt div {font-size: 12px;font-family:宋体; color: #000000; margin-left: auto; margin-right: auto; line-height:14px;}
+.defaultButtonStyle {font-size: 12px;font-family:宋体; height:20px;color: #000000;BORDER: #AFD5F5 1px solid; margin: 0px;padding: 0px; FILTER:progid:DXImageTransform.Microsoft.Gradient(GradientType=0,StartColorStr=#ffffff, EndColorStr=#BDDBF7);  CURSOR: pointer; line-height:14px;background:-webkit-gradient(linear, 0 0, 0 100%, from(#ffffff), to(#BDDBF7));background: -moz-linear-gradient( top,#ffffff,#BDDBF7);background:-ms-linear-gradient(top,#ffffff 0%,#bddbf7 100%)}
+.defaultinputStyle {font-size: 12px;font-family:宋体; height:20px; border:1px solid #AFD5F5; line-height:14px;}
+.colHeader {font-size: 12px;font-family:宋体; line-height:14px;}
+.headStyle1t4481sptt a, .pageList .this-page {font-size: 12px;font-family:宋体; display:inline-block; height:14px; padding: 2px 4px; border: solid 1px #AFD5F5; background: #fff; text-decoration: none; MARGIN-RIGHT: 1px;line-height:14px;}
+.headStyle1t4481sptt a:visited {font-size: 12px;font-family:宋体; color: #000000; text-decoration: none; line-height:14px;}
+.headStyle1t4481sptt .PrevDisabled {font-size: 12px;font-family:宋体; display:inline-block;height:14px;  margin-right: 3px; padding: 2px 4px; background: #fff;color:#ccc;border: solid 1px #AFD5F5; line-height:14px;}
+.headStyle1t4481sptt .SelectList {font-size: 12px;font-family:宋体;line-height:14px;}
+.headStyle1t4481sptt .Prev { font-size: 12px;font-family:宋体; margin-right: 3px; padding: 2px 4px;line-height:14px;}
+.headStyle1t4481sptt .break {font-size: 12px;font-family:宋体; border: none; text-decoration: none; line-height:14px;}
+.headStyle1t4481sptt .NextDisabled { font-size: 12px;font-family:宋体;display:inline-block; height:14px; margin-left: 2px; padding: 2px 4px;background: #fff;color:#ccc;border: solid 1px #AFD5F5; line-height:14px; }
+.headStyle1t4481sptt .Next { font-size: 12px;font-family:宋体; margin-left: 2px; padding: 2px 4px;line-height:14px;}
+.headStyle1t4481sptt .this-page {font-size: 12px;font-family:宋体;display:inline-block;height:14px;padding: 2px 4px; border: solid 1px #AFD5F5; background: #E1F0FD; font-weight: bold; color:black; MARGIN-RIGHT: 1px;line-height:14px;}
+.headStyle1t4481sptt a:hover {font-size: 12px;font-family:宋体;color: black; background: #EFF7FE; border-color: #AFD5F5; text-decoration: none;line-height:14px;}
+.headStyle1t4481sptt a:link {font-size: 12px;font-family:宋体;color: #000000; text-decoration: none;line-height:14px;}
+.headStyle1t4481sptt a:active { font-size: 12px;font-family:宋体;color: black; text-decoration: none; background: #EFF7FE; line-height:14px;}
+</style><table cellspacing=0 cellpadding=0 border=0><TR><td colspan=0><table cellspacing=0 class=headStyle1t4481sptt width="100%" cellpadding=1><tr valign=middle><TD nowrap align=left width=1% >共8条&nbsp;<input type=hidden name=a167183fc value="15">&nbsp;1/1&nbsp;</td><td nowrap align=left><div><span class=PrevDisabled>上页</span><span class=this-page>1</span><span class=NextDisabled>下页</span></div></td><TD nowrap align=right></td></tr></table></td></tr></table></div>
+<script>_showDynClickBatch(['dynclicks_u7_1772','dynclicks_u7_1677','dynclicks_u7_1673','dynclicks_u7_1650','dynclicks_u7_1649','dynclicks_u7_1551','dynclicks_u7_1290','dynclicks_u7_1293'],[1772,1677,1673,1650,1649,1551,1290,1293],"wbnews", 1411856036)</script>
+</div>              
+            </div>
+        </div>
+    </div>
+    <div class="lyout site-footer">
+        <div class="main">
+            <p>版权所有：2002-2019 桂林电子科技大学人事处</p>
+            <p>地址：广西桂林市 桂林电子科技大学花江校区人事处 (541004)</p>
+            <p>联系电话：0773-2292296 传真：0773-2290076</p>
+            <p>网站总访问：11775863 当前在线：2</p>
+            <p><a target="_blanck" href="http://www.miibeian.gov.cn/state/outPortal/loginPortal.action;jsessionid=c6m0x__MqS1JaBGQ5kRimZSq0loWk84bkj4jI1gfPtGh4Ixm2LWX!1386968419">备案号：桂ICP备
+                    05000961 号 </a></p>
+            <p>版权所有：2002-2019 桂林电子科技大学人事处</p>
+        </div>
+    </div>
+</body>
+
+</html>

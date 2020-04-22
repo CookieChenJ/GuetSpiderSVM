@@ -1,0 +1,1154 @@
+<!DOCTYPE html>
+<html><head><title>计算机与信息安全学院</title><META Name="keywords" Content="计算机, 桂电, " />
+
+
+<meta charset="utf-8">
+<LINK rel="stylesheet" type="text/css" href="style/styl.css"></LINK>
+<link rel="stylesheet" type="text/css" href="style/publice.css">
+<script type="text/javascript" src="js/jquery-1.8.3.min.js">
+</script><script type="text/javascript" src="js/jquery.js">
+</script><script type="text/javascript" src="js/superslide.2.1.js">
+</script><script type="text/javascript" src="js/jquery.soChange.js">
+</script><script type="text/javascript" src="js/index.js"></script>
+<script type="text/javascript">
+    $(function(){
+        $(".mainmenu dl").hide();
+        $("li.mainmenu").hover(function(){
+            $(this).find("dl").stop(true,true);
+            $(this).find("dl").slideDown();
+        },function(){
+            $(this).find("dl").stop(true,true);
+            $(this).find("dl").slideUp();
+        });
+    })
+</script>
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="index.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1411889363)</script>
+<!--[if lt IE 7]><script type="text/javascript" src="/system/resource/js/unitpngfix/unitpngfix.js"></script><![endif]-->
+</head>
+
+<body><!--top s-->
+<div class="topWrap clearfix">
+<div class="topDiv">
+    <div class="logo">
+        <a href="index.htm"><img src="images/dept3-logo_2x.png"></a>
+    </div>
+    <div class="topR fr">
+        <div class="topR_t fr"><!--#begineditable name="顶部链接" action="webber.wbst.com.url.ColumnUrl" layout="/system/_component/columnurl/linkguide.jsp" tpltype="0" contype="url" clone="" viewid="163855" contentviewid="" tagname="顶部链接"-->
+
+
+
+<script language="javascript" src="/system/resource/js/dynclicks.js"></script>
+<table><tr>
+        
+        <td>
+            <A class="c163855" HREF="http://www.guet.edu.cn" onclick="_addDynClicks('wburl',1411889363,31032)" target="_blank" title="桂林电子科技大学主页">
+            	 学校主页 
+            </A>
+             
+        </td>
+            <td class="leaderstyle163855">|</td>
+        
+        <td>
+            <A class="c163855" HREF="info/1187/2398.htm" onclick="_addDynClicks('wburl',1411889363,31033)" target="_blank">
+            	 办公入口 
+            </A>
+             
+        </td>
+            <td class="leaderstyle163855">|</td>
+        
+        <td>
+            <A class="c163855" HREF="http://mwb.guet.edu.cn" onclick="_addDynClicks('wburl',1411889363,31047)" target="_blank" title="管理入口">
+            	 管理入口 
+            </A>
+             
+        </td>
+            </tr>
+</table><!--#endeditable--></div>
+
+        <script type="text/javascript">
+            function test3()
+            {
+                var tempStr=document.getElementById('showkeycode206629_2').value;
+                if(tempStr=="请输入关键字搜索")
+                {
+                    document.getElementById('showkeycode206629_2').value="";
+                }
+            }
+            function test4()
+            {
+                var tempStr=document.getElementById('showkeycode206629_2').value;
+                if(tempStr=="")
+                {
+                    document.getElementById('showkeycode206629_2').value="请输入关键字搜索";
+                }
+            }
+        </script>
+        <div class="Search">
+            <form name="au2a" id="au2a" onsubmit="return _nl_ys_check_2()" action="ssjg.jsp?wbtreeid=1033" method="post"><input name="lucenenewssearchkeyword" id="lucenenewssearchkeyword206629" type="hidden" value=""><input name="_lucenesearchtype" id="_lucenesearchtype206629" type="hidden" value="1"><input name="searchScope" id="searchScope206629" type="hidden" value="1">
+                <input name="showkeycode" class="search_text" id="showkeycode206629_2" onfocus="test3()" onblur="test4()" type="text" value="请输入关键字搜索">
+                <div class="fdj fr"> <input class="button pngFix" type="submit" value="" style="cursor: hand"></div></form>
+        </div><script language="javascript" src="/system/resource/js/base64.js"></script><script language="javascript" src="/system/resource/js/formfunc.js"></script>
+        </div>
+</div>
+</div>
+
+<div class="navWrap  clearfix">
+    <div class="nav"><!--#begineditable name="网站导航" action="webber.wbst.com.nav.MenuAction" layout="/system/_component/sitenav/tplvnav.jsp" tpltype="1" contype="" clone="" viewid="163595" contentviewid="" tagname="网站导航"--><UL>
+<LI class="mainmenu"> <A class="link" href="index.htm">首页</A>
+</LI>
+<LI class="mainmenu"> <A class="link" href="xygk.htm">学院概况</A>
+<DL>
+    <DD><A href="xygk/xyjj.htm">学院简介</A></DD>
+    <DD><A href="xygk/xyld.htm">学院领导</A></DD>
+    <DD><A href="xygk/xyjg.htm">学院机构</A></DD>
+    <DD><A href="xygk/xyls.htm">学院历史</A></DD>
+    <DD><A href="xygk/xysz.htm">学院师资</A></DD>
+    <DD><A href="xygk/jsfc.htm">教师风采</A></DD>
+    <DD><A href="xygk/rcyj.htm">人才引进</A></DD>
+</DL>
+</LI>
+<LI class="mainmenu"> <A class="link" href="xydt.htm">学院动态</A>
+<DL>
+    <DD><A href="xydt/tzgg.htm">通知公告</A></DD>
+    <DD><A href="xydt/yndt.htm">院内动态</A></DD>
+    <DD><A href="xydt/bkjx.htm">本科教学</A></DD>
+    <DD><A href="xydt/yjsgz.htm">研究生工作</A></DD>
+    <DD><A href="xydt/kxyj.htm">科学研究</A></DD>
+    <DD><A href="xydt/dqgz.htm">党群工作</A></DD>
+    <DD><A href="xydt/xsgz.htm">学生工作</A></DD>
+</DL>
+</LI>
+<LI class="mainmenu"> <A class="link" href="rcpy.htm">人才培养</A>
+<DL>
+    <DD><A href="rcpy/pygk_bk_.htm">培养概况(本科)</A></DD>
+    <DD><A href="rcpy/zyjs_bk_.htm">专业介绍(本科)</A></DD>
+    <DD><A href="rcpy/pyjh_bk_.htm">培养计划(本科)</A></DD>
+    <DD><A href="rcpy/jxpt_bk_.htm">教学平台(本科)</A></DD>
+    <DD><A href="rcpy/pygk_yjs_.htm">培养概况(研究生)</A></DD>
+    <DD><A href="rcpy/xwdjs_yjs_.htm">学位点介绍(研究生)</A></DD>
+    <DD><A href="rcpy/pyjh_yjs_.htm">培养计划(研究生)</A></DD>
+    <DD><A href="rcpy/cgzs.htm">成果展示</A></DD>
+</DL>
+</LI>
+<LI class="mainmenu"> <A class="link" href="kxyj.htm">科学研究</A>
+<DL>
+    <DD><A href="kxyj/kygk.htm">科研概况</A></DD>
+    <DD><A href="kxyj/xstd.htm">学术团队</A></DD>
+    <DD><A href="kxyj/xkpt.htm">学科平台</A></DD>
+    <DD><A href="kxyj/dbxkycg.htm">代表性科研成果</A></DD>
+    <DD><A href="kxyj/fblw.htm">发表论文</A></DD>
+    <DD><A href="kxyj/xs.htm">学术动态</A></DD>
+    <DD><A href="kxyj/gjjl.htm">国际交流</A></DD>
+</DL>
+</LI>
+<LI class="mainmenu"> <A class="link" href="dqgz.htm">党群工作</A>
+<DL>
+    <DD><A href="dqgz/zzjg.htm">组织机构</A></DD>
+    <DD><A href="dqgz/lxyz.htm">两学一做</A></DD>
+    <DD><A href="dqgz/djhd1.htm">党建活动</A></DD>
+    <DD><A href="dqgz/jgzj.htm">教工之家</A></DD>
+</DL>
+</LI>
+<LI class="mainmenu"> <A class="link" href="xsgz.htm">学生工作</A>
+<DL>
+    <DD><A href="xsgz/xgdw.htm">学工队伍</A></DD>
+    <DD><A href="xsgz/xszz.htm">学生组织</A></DD>
+    <DD><A href="xsgz/xshd.htm">学生活动</A></DD>
+    <DD><A href="xsgz/xsfc.htm">学生风采</A></DD>
+</DL>
+</LI>
+<LI class="mainmenu"> <A class="link" href="zsjy.htm">招生就业</A>
+<DL>
+    <DD><A href="zsjy/bkszs.htm">本科生招生</A></DD>
+    <DD><A href="zsjy/yjszs.htm">研究生招生</A></DD>
+    <DD><A href="zsjy/jyxx.htm">就业信息</A></DD>
+</DL>
+</LI>
+<LI class="mainmenu"> <A class="link" href="bgzn.htm">办公指南</A>
+<DL>
+    <DD><A href="bgzn/bgrk.htm">办公入口</A></DD>
+    <DD><A href="bgzn/gzzd.htm">规章制度</A></DD>
+    <DD><A href="bgzn/cyxz.htm">常用下载</A></DD>
+    <DD><A href="bgzn/kywj.htm">科研文件</A></DD>
+    <DD><A href="bgzn/jxwj_bk_.htm">教学文件(本科)</A></DD>
+    <DD><A href="bgzn/jxwj_yjs_.htm">教学文件(研究生)</A></DD>
+</DL>
+</LI>
+</UL><!--#endeditable--></div>
+</div>
+
+<script type="text/javascript">
+    $(".mainmenu dl").hide();
+</script>
+
+<div class="vsb-box">
+    <div columns="6" containerid="1" class="vsb-container a"><!--#begineditable name="首页banner变换" action="webber.wbst.com.image.ColumnImage" layout="/system/_component/columnimage/bannerchangeimage.jsp" tpltype="0" contype="image" clone="" viewid="201989" contentviewid="" tagname="首页banner变换"--><style type="text/css">
+ul,li{
+    padding:0;
+    margin:0;
+    list-style:none;}
+#flashBoxu_u2_{
+    width:1000px;
+    height:300px;
+    border:0px solid #EEE;
+    position:relative;
+    margin-left: auto;
+    margin-right: auto;}
+#flashBoxu_u2_ img{
+    /*初始不要显示*/
+    display:none;
+    /*用边框来实现空位，因为margin和paading有时会引起些麻烦*/
+    border:0px solid #FFF;}
+#flashBoxu_u2_ ul{
+    display:none;
+    position:absolute;
+    right:7px;
+    bottom:3px;
+    font:9px tahoma;}
+#flashBoxu_u2_ ul li{
+    display:none;
+    float:left;
+    width:12px;
+    height:12px;
+    line-height:12px;
+    margin-right:3px;
+    border:0px solid #999;
+    background:#F0F0F0;
+    text-align:center;
+    cursor:pointer;}
+#flashBoxu_u2_ ul li.hover{
+    border-color:red;
+    background:#FFE1E1;
+    color:red;}
+</style>
+<script type="text/javascript">
+function flashBoxCtrl(o){
+    this.obj=document.getElementById(o);
+    //这个私有方法虽然写了，但暂时没用到
+    function addListener(ele,eventName,functionBody){
+        if (ele.attachEvent){
+            ele.attachEvent("on"+eventName, functionBody);
+        }else if (ele.addEventListener){
+            ele.addEventListener("on"+eventName,functionBody, false);
+        }else{
+            return false;
+        }
+    }
+    //初始化
+    this.init=function(){
+        var objImg=this.obj.getElementsByTagName("img");
+        var tagLength=objImg.length;
+        if (tagLength>0){
+            var oUl=document.createElement("ul");
+            oUl.setAttribute("id",o+"numTag");
+            for (var i=0;i<tagLength;i++){
+                var oLi=oUl.appendChild(document.createElement("li"));
+                if (i==0){
+                    oLi.setAttribute("class","hover"); //初始化时把第一个设置为高亮
+                    oLi.setAttribute("className","hover");
+                }
+                //设置标签的数字
+                oLi.appendChild(document.createTextNode((i+1)));
+            }
+            this.obj.appendChild(oUl);
+            objImg[0].style.display="block";
+            //设置标签事件
+            var oTag=this.obj.getElementsByTagName("li");
+            for (var i=0;i<oTag.length;i++){
+                var flag = 0;
+                var temp = 0;
+                var timeout=null;
+                var step = function(){
+                    for (j=0;j<oTag.length;j++){
+                        oTag[j].className="";
+                        objImg[j].style.display="none";
+                    }
+                    this.className="hover";
+                    flag = flag>=oTag.length-1?0:flag+1;
+                    objImg[flag].style.display="block";
+                    oTag[flag].className = "hover";
+                    timeout = setTimeout(step,4000);
+                };
+                oTag[i].onmouseover=function(){
+                    for (j=0;j<oTag.length;j++){
+                        oTag[j].className="";
+                        objImg[j].style.display="none";
+                        temp = j;
+                    }
+                    this.className="hover";
+                    objImg[this.innerHTML-1].style.display="block";
+                    temp = this.innerHTML-1;
+                    flag = i;
+                    clearInterval(timeout);
+                }
+                oTag[i].onmouseout = function(){
+                    for (j=0;j<oTag.length;j++){
+                        oTag[j].className="";
+                        objImg[j].style.display="none";
+                    }
+                    flag = temp;
+                    objImg[temp].style.display="block";
+                    oTag[temp].className = "hover";
+                    timeout = setTimeout(step,4000);
+                }
+                if(i==0)
+                {
+                    timeout = setTimeout(step,4000);
+                }
+            }
+        }
+    };
+    //自动滚动的方法还没写
+    this.imgRoll=function(){};
+    //生成对象时自动加载init()方法以初始化对象
+    this.init();
+}
+</script>
+<table cellspacing="0" cellpadding="0" border="0"><tr><td><div id="flashBoxu_u2_"><img src="images/banner_07.jpg" border="0" width="1000" height="300" /><img src="images/21.jpg" border="0" width="1000" height="300" /><img src="images/banner_06.jpg" border="0" width="1000" height="300" /><img src="images/banner_05.jpg" border="0" width="1000" height="300" /><img src="images/banner_03.jpg" border="0" width="1000" height="300" /></div></td></tr></table><SCRIPT language="JavaScript">new flashBoxCtrl("flashBoxu_u2_");</SCRIPT><!--#endeditable--></div>
+</div>
+
+<div></div><!--container-->
+<div class="">
+    <div columns="6" containerid="2" class="container clearfix">
+        <div class="new_inforBox new_inforBox2 fl" columns="4">
+            <div class="dynamic"><!--#begineditable name="学院新闻顶部标题" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/tpltitlelist.jsp" tpltype="1" contype="news" clone="" viewid="164167" contentviewid="" tagname="学院新闻顶部标题"-->
+<H2>学院新闻</H2><SPAN><A href="xydt/yndt.htm" target="_blank"><IMG src="images/more.png"></A></SPAN> <script>_showDynClickBatch(['dynclicks_u3_2913'],[2913],"wbnews", 1411889363)</script>
+<!--#endeditable--></div>
+            <div class="newBox">
+            <!--新闻信息-->
+            <div class="new_pic new_pic1"><!--#begineditable name="学院新闻变换图片文章" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/imagechangenews.jsp" tpltype="0" contype="news" clone="" viewid="163629" contentviewid="" tagname="学院新闻变换图片文章"-->
+<LINK href="/system/resource/style/component/news/list/imagechangenews.css" type="text/css" rel="stylesheet">
+<script language="javascript" src="/system/resource/js/news/imagechangenews.js"></script><script language="JavaScript">
+var u_u4_icn = new ImageChangeNews("u_u4_", 320, 180, 4, 2.0, false, false, false, true);
+
+//初始化图片, 并启动定时
+function u_u4_init_img()
+{
+
+    u_u4_icn.addimg("\/__local\/1\/B1\/1C\/E6665EDA0039010B6A5D547C55C_819FF12F_AD58.jpg", "info\/1034\/2049.htm", "", "");
+
+    u_u4_icn.addimg("\/__local\/C\/67\/12\/F9387B10C1257AA37BDD58CB84D_8ABB0829_E11C.jpg", "info\/1034\/2048.htm", "", "");
+
+    u_u4_icn.addimg("\/__local\/D\/8B\/E7\/8B8433EF99BE69CECFABE72FBDE_1F0CA9DC_AC86.jpg", "info\/1034\/2045.htm", "", "");
+
+    u_u4_icn.addimg("\/__local\/4\/FD\/AE\/E90F850A85E03C46C8365D741CB_AAC9C60B_B45E.jpg", "info\/1034\/1721.htm", "", "");
+
+    u_u4_icn.addimg("\/__local\/E\/9B\/D4\/64B13799EA9A81B5F1E9708C17D_1A6C63F2_B724.jpg", "info\/1034\/1720.htm", "", "");
+
+    u_u4_icn.addimg("\/__local\/0\/47\/62\/00455677B366A918039679692F1_C9A34C7B_7F11.png", "info\/1034\/1539.htm", "", "");
+
+    u_u4_icn.changeimg(0);
+}
+</script><table cellspacing="0" cellpadding="0" border="0" style="padding:0px margin:0px; border:0px">
+    <tr><td>
+        <div style="OVERFLOW: hidden;height:180px;width:320px">
+            <div id="u_u4_div" align="center" style="padding:0px;margin:0px;border:0px solid black;background-color:#000000;FILTER: progid:DXImageTransform.Microsoft.RevealTrans (duration=2.0,transition=23);height:180px;width:320px">
+                <div id="u_u4_imgdiv" style="padding:0px;border:0px;"><a id="u_u4_url" target="_blank"><img id="u_u4_pic" border="0" width="320" height="180" src="/system/resource/images/space.gif"></a></div>
+            </div>
+            <div style="filter:alpha(style=1,opacity=10,finishOpacity=80);width:320px;height:19px;text-align:right;top:-19px;position:relative;padding:0px;margin:0px;border:0px;">
+<a href="javascript:u_u4_icn.changeimg(0)" ; id="u_u4_selectNode0" class="imagechangenews_pnode" target="_self">1</a><a href="javascript:u_u4_icn.changeimg(1)" ; id="u_u4_selectNode1" class="imagechangenews_pnode" target="_self">2</a><a href="javascript:u_u4_icn.changeimg(2)" ; id="u_u4_selectNode2" class="imagechangenews_pnode" target="_self">3</a><a href="javascript:u_u4_icn.changeimg(3)" ; id="u_u4_selectNode3" class="imagechangenews_pnode" target="_self">4</a><a href="javascript:u_u4_icn.changeimg(4)" ; id="u_u4_selectNode4" class="imagechangenews_pnode" target="_self">5</a><a href="javascript:u_u4_icn.changeimg(5)" ; id="u_u4_selectNode5" class="imagechangenews_pnode" target="_self">6</a>
+            </div></div></td></tr>
+<div align="center" display="none" style="overflow:hidden;text-overflow:ellipsis;height:0px;width:320px;"><a target="_blank" class="titlestyle163629" id="u_u4_newstitle"></a></div><div align="left" display="none" style="overflow:hidden;text-overflow:ellipsis;height:0px;width:320px;padding-left:2px;padding-right:2px"><a target="_blank" class="summarystyle163629" id="u_u4_newssummary"></a></div>   
+</table><SCRIPT language="JavaScript">u_u4_init_img();</SCRIPT><!--#endeditable--></div>
+            <div class="new_list new_list3"><!--#begineditable name="学院新闻标题列表" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/tpltitlelist.jsp" tpltype="1" contype="news" clone="" viewid="163631" contentviewid="" tagname="学院新闻标题列表"--><ul class="dynamic_list fr">
+<li><a href="info/1034/2913.htm"><span>04/19</span><em>物联网工程专业召开培养方案企业专家网上评审会</em></a></li>
+<li><a href="info/1034/2911.htm"><span>04/17</span><em>计算机与信息安全学院召开毕业班返校安全教育视频会</em></a></li>
+<li><a href="info/1034/2910.htm"><span>04/17</span><em>学校防疫督导组到我院检查防疫工作</em></a></li>
+<li><a href="info/1034/2909.htm"><span>04/17</span><em>我院开展疫情防控工作部署</em></a></li>
+<li><a href="info/1034/2899.htm"><span>04/16</span><em>【疫情防控】“战疫”有感：凌寒终逝，暖春如约</em></a></li>
+<li><a href="info/1034/2890.htm"><span>04/15</span><em>计算机与信息安全学院召开2019级国防预科生学习视频交流会</em></a></li>
+</ul><script>_showDynClickBatch(['dynclicks_u5_2913','dynclicks_u5_2911','dynclicks_u5_2910','dynclicks_u5_2909','dynclicks_u5_2899','dynclicks_u5_2890'],[2913,2911,2910,2909,2899,2890],"wbnews", 1411889363)</script>
+<!--#endeditable--></div>
+        </div>
+
+        </div>
+        <div class="informBox informBox3 fl" columns="2">
+            <ul class="yxlj">
+                <li><a title="" href="mailto:dept003@163.com">书记信箱</a></li>
+                <li><a title="" href="mailto:dept3@guet.edu.cn">院长信箱</a></li>
+                <li><a title="" href="mailto:dept003@163.com">纪委信箱</a></li>
+                <li><a title="">院办行政电话:0773-2291330</a></li>
+                <li><a title="">院办传真:0773-2290306</a></li>
+            </ul>
+        </div>
+    </div>
+
+    <div columns="6" containerid="3" class="container clearfix">
+    <div class="informBox informBoxd informBoxc1 fl" columns="2"><!--#begineditable name="通知公告标题列表" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/tpltitlelist.jsp" tpltype="1" contype="news" clone="" viewid="163599" contentviewid="" tagname="通知公告标题列表"--><DIV class="dynamic dynamicb dynamice">
+<H2>通知公告</H2><SPAN><A href="xydt/tzgg.htm"><IMG src="images/w_more.png"></A></SPAN> </DIV>
+<DIV class="infor_list infor_lista">
+<UL class="dynamic_list dynamic_listb dynamic_liste fr">
+
+<LI><A href="info/1033/2799.htm"><SPAN>03/05</SPAN><EM>一流学科建设学术报告-业务过程管理研究的总体概述与最新进展</EM></A></LI>
+
+<LI><A href="info/1033/2798.htm"><SPAN>03/04</SPAN><EM>2019-2020年广西可信软件重点实验室课题申报通知</EM></A></LI>
+
+<LI><A href="info/1033/2781.htm"><SPAN>02/27</SPAN><EM>【疫情防控】广西学校防控新冠肺炎卫生清洁消毒指南</EM></A></LI>
+
+<LI><A href="info/1033/2765.htm"><SPAN>02/21</SPAN><EM>2019-2020学年第二学期计算机与信息安全学院研究生教学工作实施细则</EM></A></LI>
+
+<LI><A href="info/1033/2752.htm"><SPAN>02/20</SPAN><EM>【疫情防控】关于转发自治区新冠肺炎疫情防控工作领导小组指挥部开展扫码出入公共场所工作等文件的通知</EM></A></LI>
+
+<LI><A href="info/1033/2751.htm"><SPAN>02/20</SPAN><EM>【疫情防控】西电精选38门“金课”向全社会开放</EM></A></LI>
+
+</UL></DIV><script>_showDynClickBatch(['dynclicks_u6_2799','dynclicks_u6_2798','dynclicks_u6_2781','dynclicks_u6_2765','dynclicks_u6_2752','dynclicks_u6_2751'],[2799,2798,2781,2765,2752,2751],"wbnews", 1411889363)</script>
+<!--#endeditable--></div>
+    <div class="informBox informBoxd informBoxc1 fl" columns="2"><!--#begineditable name="学术交流标题列表" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/tpltitlelist.jsp" tpltype="1" contype="news" clone="" viewid="163603" contentviewid="" tagname="学术交流标题列表"--><DIV class="dynamic dynamicb dynamice">
+<H2>学术交流</H2><SPAN><A href="kxyj/xs.htm"><IMG src="images/w_more.png"></A></SPAN> </DIV>
+<DIV class="infor_list infor_lista">
+<UL class="dynamic_list dynamic_listb dynamic_liste fr">
+
+<LI><A href="info/1087/2854.htm"><SPAN>03/25</SPAN><EM>
+计算机与信息安全学院第一期青年教师“学术沙龙”活动成功举办
+</EM></A></LI>
+
+<LI><A href="info/1087/2850.htm"><SPAN>03/18</SPAN><EM>
+国家自然科学基金申报专题辅导会成功举办
+</EM></A></LI>
+
+<LI><A href="info/1087/2822.htm"><SPAN>03/14</SPAN><EM>
+计算机与信息安全学院举办“云端”学术报告会
+</EM></A></LI>
+
+<LI><A href="info/1087/2820.htm"><SPAN>03/14</SPAN><EM>
+计算机与信息安全学院举办春季学期首场“云端”报告会
+</EM></A></LI>
+
+<LI><A href="info/1087/1940.htm"><SPAN>07/03</SPAN><EM>
+“软件测试技术的新进展与实践”讲座
+</EM></A></LI>
+
+<LI><A href="info/1087/1925.htm"><SPAN>06/27</SPAN><EM>
+2019 International Workshop on Wireless and Security
+</EM></A></LI>
+
+</UL></DIV><script>_showDynClickBatch(['dynclicks_u7_2854','dynclicks_u7_2850','dynclicks_u7_2822','dynclicks_u7_2820','dynclicks_u7_1940','dynclicks_u7_1925'],[2854,2850,2822,2820,1940,1925],"wbnews", 1411889363)</script>
+<!--#endeditable--></div>
+    <div class="informBox informBoxd informBoxc1 fl" columns="2"><!--#begineditable name="就业信息标题列表" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/tpltitlelist.jsp" tpltype="1" contype="news" clone="" viewid="163597" contentviewid="" tagname="就业信息标题列表"--><DIV class="dynamic dynamicb dynamice">
+<H2>就业信息</H2><SPAN><A href="zsjy/jyxx.htm"><IMG src="images/w_more.png"></A></SPAN> </DIV>
+<DIV class="infor_list infor_lista">
+<UL class="dynamic_list dynamic_listb dynamic_liste fr">
+
+<LI><A href="info/1183/2704.htm"><SPAN>12/16</SPAN><EM>
+计算机与信息安全学院赴深圳、东莞等地走访用人单位
+</EM></A></LI>
+
+<LI><A href="info/1183/2541.htm"><SPAN>10/17</SPAN><EM>
+长园深瑞2020校园招聘
+</EM></A></LI>
+
+<LI><A href="info/1183/2531.htm"><SPAN>10/17</SPAN><EM>
+卓望公司2020校园招聘简章
+</EM></A></LI>
+
+<LI><A href="info/1183/2530.htm"><SPAN>10/17</SPAN><EM>
+东信和平科技股份有限公司招聘简章
+</EM></A></LI>
+
+<LI><A href="info/1183/2529.htm"><SPAN>10/17</SPAN><EM>
+品高软件2020校园招聘
+</EM></A></LI>
+
+<LI><A href="info/1183/2528.htm"><SPAN>10/17</SPAN><EM>
+桂林广泽科技有限公司招聘简章
+</EM></A></LI>
+
+</UL></DIV><script>_showDynClickBatch(['dynclicks_u8_2704','dynclicks_u8_2541','dynclicks_u8_2531','dynclicks_u8_2530','dynclicks_u8_2529','dynclicks_u8_2528'],[2704,2541,2531,2530,2529,2528],"wbnews", 1411889363)</script>
+<!--#endeditable--></div>
+    </div>
+
+    <div columns="6" containerid="4" class="container clearfix">
+        <DIV class="photo_gallery">
+            <DIV class="dynamic" style="margin: 20px 0;"> 
+                <H2>师生风采</H2><!-- <SPAN><A href="" onfocus="undefined" onfocus="undefined"><IMG src="/images/more.png"></A></SPAN> -->
+            </DIV>
+                <DIV class="picMarquee-left1">
+                    <DIV class="bd2">
+                    
+                        <!--#begineditable name="师生风采图文列表" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/tpltitlelist.jsp" tpltype="1" contype="news" clone="" viewid="202100" contentviewid="" tagname="师生风采图文列表"--><ul class="picList cl" style="width: 3179px; position: relative; overflow: hidden; padding: 0px; margin: 0px; left: -726px;">
+    <li class="clone" style="float: left; width: 187px;">
+        <a href="info/1034/2049.htm" target="_blank"><img src="/__local/D/28/37/7C5D4137F96B11537C5EDFE7E28_CA2CD190_2E1C2.jpg" width="159" height="120"></a>
+    </li>
+    <li class="clone" style="float: left; width: 187px;">
+        <a href="info/1034/2048.htm" target="_blank"><img src="/__local/A/AF/E3/2CC7B88F0475D7DE233FCC696B5_C9182E8C_57860.jpg" width="159" height="120"></a>
+    </li>
+    <li class="clone" style="float: left; width: 187px;">
+        <a href="info/1034/2045.htm" target="_blank"><img src="/__local/7/80/D8/5A4B3E6FEEC2F179C0B2A0EC4A5_6540B51E_375D8.jpg" width="159" height="120"></a>
+    </li>
+    <li class="clone" style="float: left; width: 187px;">
+        <a href="info/1171/2381.htm" target="_blank"><img src="/__local/D/DF/FE/153490A59A5295DD1314C5F4A9C_C0299037_3F704.jpg" width="159" height="120"></a>
+    </li>
+    <li class="clone" style="float: left; width: 187px;">
+        <a href="info/1034/1721.htm" target="_blank"><img src="/__local/6/C6/D8/EC37A4E8246FB41F7E5866894FF_86F4DEA7_3ED71.jpg" width="159" height="120"></a>
+    </li>
+    <li class="clone" style="float: left; width: 187px;">
+        <a href="info/1034/1720.htm" target="_blank"><img src="/__local/F/F6/64/9569C25F8C16DC5FEEB7CFBC398_FA3C2ABD_38643.jpg" width="159" height="120"></a>
+    </li>
+    <li class="clone" style="float: left; width: 187px;">
+        <a href="info/1034/1539.htm" target="_blank"><img src="/__local/C/54/58/0D5D7ADD0D19C2B00E5C9F67ADB_BCAF20F0_A9B5E.png" width="159" height="120"></a>
+    </li>
+    <li class="clone" style="float: left; width: 187px;">
+        <a href="info/1050/1150.htm" target="_blank"><img src="/__local/3/DB/81/FF03A2E1C656D580CF4A61B4F49_36AA2B8B_8B91.png" width="159" height="120"></a>
+    </li>
+    <li class="clone" style="float: left; width: 187px;">
+        <a href="info/1050/1149.htm" target="_blank"><img src="/__local/0/95/17/61320A20F9533E3729ECCEB9EB8_838D2776_12A46.jpg" width="159" height="120"></a>
+    </li>
+    <li class="clone" style="float: left; width: 187px;">
+        <a href="info/1050/1147.htm" target="_blank"><img src="/__local/0/CB/F7/0FFEE55E8CF4E9A5117B1D62E2F_F2326E48_259FC.jpg" width="159" height="120"></a>
+    </li>
+    <li class="clone" style="float: left; width: 187px;">
+        <a href="info/1050/1146.htm" target="_blank"><img src="/__local/D/1B/8C/400B2A07932F7219EED305D7E09_CE2568C7_5AB1.png" width="159" height="120"></a>
+    </li>
+    <li class="clone" style="float: left; width: 187px;">
+        <a href="info/1034/1192.htm" target="_blank"><img src="/__local/9/D3/AC/0165CFD3D801B35B58C63500247_C67B92DF_19DE14.png" width="159" height="120"></a>
+    </li>
+    <li class="clone" style="float: left; width: 187px;">
+        <a href="info/1034/1193.htm" target="_blank"><img src="/__local/C/8D/C4/3D0E5318852AB722B88E19F7997_66D4CB8F_1F9C25.png" width="159" height="120"></a>
+    </li>
+    <li class="clone" style="float: left; width: 187px;">
+        <a href="info/1050/1151.htm" target="_blank"><img src="/__local/0/5F/FB/934D8024D81939ED71C37D56368_851D8EE0_10060.jpg" width="159" height="120"></a>
+    </li>
+    <li class="clone" style="float: left; width: 187px;">
+        <a href="info/1034/1194.htm" target="_blank"><img src="/__local/7/88/CF/4EDA96CCAF9B0D4AA6C7F3FC93B_CFAF7592_1F9C25.png" width="159" height="120"></a>
+    </li>
+    <li class="clone" style="float: left; width: 187px;">
+        <a href="info/1034/1196.htm" target="_blank"><img src="/__local/7/14/CA/C36925D9FB53D272EB0F8D4159E_BF79D905_36F65.jpg" width="159" height="120"></a>
+    </li>
+    <li class="clone" style="float: left; width: 187px;">
+        <a href="info/1034/1197.htm" target="_blank"><img src="/__local/7/2F/CC/671C49D311C4235013C5313480A_08A5F36C_3A575.jpg" width="159" height="120"></a>
+    </li>
+</ul><script>_showDynClickBatch(['dynclicks_u9_2049','dynclicks_u9_2048','dynclicks_u9_2045','dynclicks_u9_2381','dynclicks_u9_1721','dynclicks_u9_1720','dynclicks_u9_1539','dynclicks_u9_1150','dynclicks_u9_1149','dynclicks_u9_1147','dynclicks_u9_1146','dynclicks_u9_1192','dynclicks_u9_1193','dynclicks_u9_1151','dynclicks_u9_1194','dynclicks_u9_1196','dynclicks_u9_1197'],[2049,2048,2045,2381,1721,1720,1539,1150,1149,1147,1146,1192,1193,1151,1194,1196,1197],"wbnews", 1411889363)</script>
+<!--#endeditable-->
+                    </DIV>
+                    
+                </DIV>
+       </DIV>
+       <script type="text/javascript">
+            jQuery(".picMarquee-left1").slide({ mainCell: ".bd2 ul", autoPlay: true, effect: "leftMarquee", vis: 4, interTime: 50, trigger: "click" });
+       </script>
+    </div>
+</div>
+
+<!--foot-->
+<div class="footWrap">
+    <div class="footDiv_one">
+        <div class="foot_one">
+            <p>Copyright 2011-2018 桂林电子科技大学计算机与信息安全学院　地址：广西桂林市七星区金鸡路1号</p>
+        </div>
+    </div>
+
+    <ul style="text-align:center;background-color:#224B77;">
+    </ul>
+
+</div><script type="text/javascript">
+    $(function(){
+        $(".select").each(function(){
+            var s=$(this);
+            var z=parseInt(s.css("z-index"));
+            var dt=$(this).children("dt");
+            var dd=$(this).children("dd");
+            var _show=function(){dd.slideDown(200);dt.addClass("cur");s.css("z-index",z+1);};   //展开效果
+            var _hide=function(){dd.slideUp(200);dt.removeClass("cur");s.css("z-index",z);};    //关闭效果
+            dt.click(function(){dd.is(":hidden")?_show():_hide();});
+            dd.find("a").click(function(){dt.html($(this).html());_hide();});     //选择效果（如需要传值，可自定义参数，在此处返回对应的“value”值 ）
+            $("body").click(function(i){ !$(i.target).parents(".select").first().is(s) ? _hide():"";});
+        })
+    });
+</script><script type="text/javascript">
+    $(function () {
+    //切换对象为其他，这里为包含图片和标题的层
+        $('#change_32 div.changeDiv').soChange({//对象指向层，层内包含图片及标题
+            thumbObj:'#change_32 .ul_change_a2 span',
+            thumbNowClass:'on'//自定义导航对象当前class为on
+        });
+    });
+</script><script type="text/javascript">
+    $(".pic ul li").hover(function(){
+        $(this).stop(true).animate({width:"824px"},500).siblings().stop(true).animate({width:"50px"},500);
+    });
+</script>
+
+</body></html>
+<!DOCTYPE html>
+<html><head><title>计算机与信息安全学院</title><META Name="keywords" Content="计算机, 桂电, " />
+
+
+<meta charset="utf-8">
+<LINK rel="stylesheet" type="text/css" href="style/styl.css"></LINK>
+<link rel="stylesheet" type="text/css" href="style/publice.css">
+<script type="text/javascript" src="js/jquery-1.8.3.min.js">
+</script><script type="text/javascript" src="js/jquery.js">
+</script><script type="text/javascript" src="js/superslide.2.1.js">
+</script><script type="text/javascript" src="js/jquery.soChange.js">
+</script><script type="text/javascript" src="js/index.js"></script>
+<script type="text/javascript">
+    $(function(){
+        $(".mainmenu dl").hide();
+        $("li.mainmenu").hover(function(){
+            $(this).find("dl").stop(true,true);
+            $(this).find("dl").slideDown();
+        },function(){
+            $(this).find("dl").stop(true,true);
+            $(this).find("dl").slideUp();
+        });
+    })
+</script>
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="index.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1411889363)</script>
+<!--[if lt IE 7]><script type="text/javascript" src="/system/resource/js/unitpngfix/unitpngfix.js"></script><![endif]-->
+</head>
+
+<body><!--top s-->
+<div class="topWrap clearfix">
+<div class="topDiv">
+    <div class="logo">
+        <a href="index.htm"><img src="images/dept3-logo_2x.png"></a>
+    </div>
+    <div class="topR fr">
+        <div class="topR_t fr"><!--#begineditable name="顶部链接" action="webber.wbst.com.url.ColumnUrl" layout="/system/_component/columnurl/linkguide.jsp" tpltype="0" contype="url" clone="" viewid="163855" contentviewid="" tagname="顶部链接"-->
+
+
+
+<script language="javascript" src="/system/resource/js/dynclicks.js"></script>
+<table><tr>
+        
+        <td>
+            <A class="c163855" HREF="http://www.guet.edu.cn" onclick="_addDynClicks('wburl',1411889363,31032)" target="_blank" title="桂林电子科技大学主页">
+            	 学校主页 
+            </A>
+             
+        </td>
+            <td class="leaderstyle163855">|</td>
+        
+        <td>
+            <A class="c163855" HREF="info/1187/2398.htm" onclick="_addDynClicks('wburl',1411889363,31033)" target="_blank">
+            	 办公入口 
+            </A>
+             
+        </td>
+            <td class="leaderstyle163855">|</td>
+        
+        <td>
+            <A class="c163855" HREF="http://mwb.guet.edu.cn" onclick="_addDynClicks('wburl',1411889363,31047)" target="_blank" title="管理入口">
+            	 管理入口 
+            </A>
+             
+        </td>
+            </tr>
+</table><!--#endeditable--></div>
+
+        <script type="text/javascript">
+            function test3()
+            {
+                var tempStr=document.getElementById('showkeycode206629_2').value;
+                if(tempStr=="请输入关键字搜索")
+                {
+                    document.getElementById('showkeycode206629_2').value="";
+                }
+            }
+            function test4()
+            {
+                var tempStr=document.getElementById('showkeycode206629_2').value;
+                if(tempStr=="")
+                {
+                    document.getElementById('showkeycode206629_2').value="请输入关键字搜索";
+                }
+            }
+        </script>
+        <div class="Search">
+            <form name="au2a" id="au2a" onsubmit="return _nl_ys_check_2()" action="ssjg.jsp?wbtreeid=1033" method="post"><input name="lucenenewssearchkeyword" id="lucenenewssearchkeyword206629" type="hidden" value=""><input name="_lucenesearchtype" id="_lucenesearchtype206629" type="hidden" value="1"><input name="searchScope" id="searchScope206629" type="hidden" value="1">
+                <input name="showkeycode" class="search_text" id="showkeycode206629_2" onfocus="test3()" onblur="test4()" type="text" value="请输入关键字搜索">
+                <div class="fdj fr"> <input class="button pngFix" type="submit" value="" style="cursor: hand"></div></form>
+        </div><script language="javascript" src="/system/resource/js/base64.js"></script><script language="javascript" src="/system/resource/js/formfunc.js"></script>
+        </div>
+</div>
+</div>
+
+<div class="navWrap  clearfix">
+    <div class="nav"><!--#begineditable name="网站导航" action="webber.wbst.com.nav.MenuAction" layout="/system/_component/sitenav/tplvnav.jsp" tpltype="1" contype="" clone="" viewid="163595" contentviewid="" tagname="网站导航"--><UL>
+<LI class="mainmenu"> <A class="link" href="index.htm">首页</A>
+</LI>
+<LI class="mainmenu"> <A class="link" href="xygk.htm">学院概况</A>
+<DL>
+    <DD><A href="xygk/xyjj.htm">学院简介</A></DD>
+    <DD><A href="xygk/xyld.htm">学院领导</A></DD>
+    <DD><A href="xygk/xyjg.htm">学院机构</A></DD>
+    <DD><A href="xygk/xyls.htm">学院历史</A></DD>
+    <DD><A href="xygk/xysz.htm">学院师资</A></DD>
+    <DD><A href="xygk/jsfc.htm">教师风采</A></DD>
+    <DD><A href="xygk/rcyj.htm">人才引进</A></DD>
+</DL>
+</LI>
+<LI class="mainmenu"> <A class="link" href="xydt.htm">学院动态</A>
+<DL>
+    <DD><A href="xydt/tzgg.htm">通知公告</A></DD>
+    <DD><A href="xydt/yndt.htm">院内动态</A></DD>
+    <DD><A href="xydt/bkjx.htm">本科教学</A></DD>
+    <DD><A href="xydt/yjsgz.htm">研究生工作</A></DD>
+    <DD><A href="xydt/kxyj.htm">科学研究</A></DD>
+    <DD><A href="xydt/dqgz.htm">党群工作</A></DD>
+    <DD><A href="xydt/xsgz.htm">学生工作</A></DD>
+</DL>
+</LI>
+<LI class="mainmenu"> <A class="link" href="rcpy.htm">人才培养</A>
+<DL>
+    <DD><A href="rcpy/pygk_bk_.htm">培养概况(本科)</A></DD>
+    <DD><A href="rcpy/zyjs_bk_.htm">专业介绍(本科)</A></DD>
+    <DD><A href="rcpy/pyjh_bk_.htm">培养计划(本科)</A></DD>
+    <DD><A href="rcpy/jxpt_bk_.htm">教学平台(本科)</A></DD>
+    <DD><A href="rcpy/pygk_yjs_.htm">培养概况(研究生)</A></DD>
+    <DD><A href="rcpy/xwdjs_yjs_.htm">学位点介绍(研究生)</A></DD>
+    <DD><A href="rcpy/pyjh_yjs_.htm">培养计划(研究生)</A></DD>
+    <DD><A href="rcpy/cgzs.htm">成果展示</A></DD>
+</DL>
+</LI>
+<LI class="mainmenu"> <A class="link" href="kxyj.htm">科学研究</A>
+<DL>
+    <DD><A href="kxyj/kygk.htm">科研概况</A></DD>
+    <DD><A href="kxyj/xstd.htm">学术团队</A></DD>
+    <DD><A href="kxyj/xkpt.htm">学科平台</A></DD>
+    <DD><A href="kxyj/dbxkycg.htm">代表性科研成果</A></DD>
+    <DD><A href="kxyj/fblw.htm">发表论文</A></DD>
+    <DD><A href="kxyj/xs.htm">学术动态</A></DD>
+    <DD><A href="kxyj/gjjl.htm">国际交流</A></DD>
+</DL>
+</LI>
+<LI class="mainmenu"> <A class="link" href="dqgz.htm">党群工作</A>
+<DL>
+    <DD><A href="dqgz/zzjg.htm">组织机构</A></DD>
+    <DD><A href="dqgz/lxyz.htm">两学一做</A></DD>
+    <DD><A href="dqgz/djhd1.htm">党建活动</A></DD>
+    <DD><A href="dqgz/jgzj.htm">教工之家</A></DD>
+</DL>
+</LI>
+<LI class="mainmenu"> <A class="link" href="xsgz.htm">学生工作</A>
+<DL>
+    <DD><A href="xsgz/xgdw.htm">学工队伍</A></DD>
+    <DD><A href="xsgz/xszz.htm">学生组织</A></DD>
+    <DD><A href="xsgz/xshd.htm">学生活动</A></DD>
+    <DD><A href="xsgz/xsfc.htm">学生风采</A></DD>
+</DL>
+</LI>
+<LI class="mainmenu"> <A class="link" href="zsjy.htm">招生就业</A>
+<DL>
+    <DD><A href="zsjy/bkszs.htm">本科生招生</A></DD>
+    <DD><A href="zsjy/yjszs.htm">研究生招生</A></DD>
+    <DD><A href="zsjy/jyxx.htm">就业信息</A></DD>
+</DL>
+</LI>
+<LI class="mainmenu"> <A class="link" href="bgzn.htm">办公指南</A>
+<DL>
+    <DD><A href="bgzn/bgrk.htm">办公入口</A></DD>
+    <DD><A href="bgzn/gzzd.htm">规章制度</A></DD>
+    <DD><A href="bgzn/cyxz.htm">常用下载</A></DD>
+    <DD><A href="bgzn/kywj.htm">科研文件</A></DD>
+    <DD><A href="bgzn/jxwj_bk_.htm">教学文件(本科)</A></DD>
+    <DD><A href="bgzn/jxwj_yjs_.htm">教学文件(研究生)</A></DD>
+</DL>
+</LI>
+</UL><!--#endeditable--></div>
+</div>
+
+<script type="text/javascript">
+    $(".mainmenu dl").hide();
+</script>
+
+<div class="vsb-box">
+    <div columns="6" containerid="1" class="vsb-container a"><!--#begineditable name="首页banner变换" action="webber.wbst.com.image.ColumnImage" layout="/system/_component/columnimage/bannerchangeimage.jsp" tpltype="0" contype="image" clone="" viewid="201989" contentviewid="" tagname="首页banner变换"--><style type="text/css">
+ul,li{
+    padding:0;
+    margin:0;
+    list-style:none;}
+#flashBoxu_u2_{
+    width:1000px;
+    height:300px;
+    border:0px solid #EEE;
+    position:relative;
+    margin-left: auto;
+    margin-right: auto;}
+#flashBoxu_u2_ img{
+    /*初始不要显示*/
+    display:none;
+    /*用边框来实现空位，因为margin和paading有时会引起些麻烦*/
+    border:0px solid #FFF;}
+#flashBoxu_u2_ ul{
+    display:none;
+    position:absolute;
+    right:7px;
+    bottom:3px;
+    font:9px tahoma;}
+#flashBoxu_u2_ ul li{
+    display:none;
+    float:left;
+    width:12px;
+    height:12px;
+    line-height:12px;
+    margin-right:3px;
+    border:0px solid #999;
+    background:#F0F0F0;
+    text-align:center;
+    cursor:pointer;}
+#flashBoxu_u2_ ul li.hover{
+    border-color:red;
+    background:#FFE1E1;
+    color:red;}
+</style>
+<script type="text/javascript">
+function flashBoxCtrl(o){
+    this.obj=document.getElementById(o);
+    //这个私有方法虽然写了，但暂时没用到
+    function addListener(ele,eventName,functionBody){
+        if (ele.attachEvent){
+            ele.attachEvent("on"+eventName, functionBody);
+        }else if (ele.addEventListener){
+            ele.addEventListener("on"+eventName,functionBody, false);
+        }else{
+            return false;
+        }
+    }
+    //初始化
+    this.init=function(){
+        var objImg=this.obj.getElementsByTagName("img");
+        var tagLength=objImg.length;
+        if (tagLength>0){
+            var oUl=document.createElement("ul");
+            oUl.setAttribute("id",o+"numTag");
+            for (var i=0;i<tagLength;i++){
+                var oLi=oUl.appendChild(document.createElement("li"));
+                if (i==0){
+                    oLi.setAttribute("class","hover"); //初始化时把第一个设置为高亮
+                    oLi.setAttribute("className","hover");
+                }
+                //设置标签的数字
+                oLi.appendChild(document.createTextNode((i+1)));
+            }
+            this.obj.appendChild(oUl);
+            objImg[0].style.display="block";
+            //设置标签事件
+            var oTag=this.obj.getElementsByTagName("li");
+            for (var i=0;i<oTag.length;i++){
+                var flag = 0;
+                var temp = 0;
+                var timeout=null;
+                var step = function(){
+                    for (j=0;j<oTag.length;j++){
+                        oTag[j].className="";
+                        objImg[j].style.display="none";
+                    }
+                    this.className="hover";
+                    flag = flag>=oTag.length-1?0:flag+1;
+                    objImg[flag].style.display="block";
+                    oTag[flag].className = "hover";
+                    timeout = setTimeout(step,4000);
+                };
+                oTag[i].onmouseover=function(){
+                    for (j=0;j<oTag.length;j++){
+                        oTag[j].className="";
+                        objImg[j].style.display="none";
+                        temp = j;
+                    }
+                    this.className="hover";
+                    objImg[this.innerHTML-1].style.display="block";
+                    temp = this.innerHTML-1;
+                    flag = i;
+                    clearInterval(timeout);
+                }
+                oTag[i].onmouseout = function(){
+                    for (j=0;j<oTag.length;j++){
+                        oTag[j].className="";
+                        objImg[j].style.display="none";
+                    }
+                    flag = temp;
+                    objImg[temp].style.display="block";
+                    oTag[temp].className = "hover";
+                    timeout = setTimeout(step,4000);
+                }
+                if(i==0)
+                {
+                    timeout = setTimeout(step,4000);
+                }
+            }
+        }
+    };
+    //自动滚动的方法还没写
+    this.imgRoll=function(){};
+    //生成对象时自动加载init()方法以初始化对象
+    this.init();
+}
+</script>
+<table cellspacing="0" cellpadding="0" border="0"><tr><td><div id="flashBoxu_u2_"><img src="images/banner_07.jpg" border="0" width="1000" height="300" /><img src="images/21.jpg" border="0" width="1000" height="300" /><img src="images/banner_06.jpg" border="0" width="1000" height="300" /><img src="images/banner_05.jpg" border="0" width="1000" height="300" /><img src="images/banner_03.jpg" border="0" width="1000" height="300" /></div></td></tr></table><SCRIPT language="JavaScript">new flashBoxCtrl("flashBoxu_u2_");</SCRIPT><!--#endeditable--></div>
+</div>
+
+<div></div><!--container-->
+<div class="">
+    <div columns="6" containerid="2" class="container clearfix">
+        <div class="new_inforBox new_inforBox2 fl" columns="4">
+            <div class="dynamic"><!--#begineditable name="学院新闻顶部标题" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/tpltitlelist.jsp" tpltype="1" contype="news" clone="" viewid="164167" contentviewid="" tagname="学院新闻顶部标题"-->
+<H2>学院新闻</H2><SPAN><A href="xydt/yndt.htm" target="_blank"><IMG src="images/more.png"></A></SPAN> <script>_showDynClickBatch(['dynclicks_u3_2913'],[2913],"wbnews", 1411889363)</script>
+<!--#endeditable--></div>
+            <div class="newBox">
+            <!--新闻信息-->
+            <div class="new_pic new_pic1"><!--#begineditable name="学院新闻变换图片文章" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/imagechangenews.jsp" tpltype="0" contype="news" clone="" viewid="163629" contentviewid="" tagname="学院新闻变换图片文章"-->
+<LINK href="/system/resource/style/component/news/list/imagechangenews.css" type="text/css" rel="stylesheet">
+<script language="javascript" src="/system/resource/js/news/imagechangenews.js"></script><script language="JavaScript">
+var u_u4_icn = new ImageChangeNews("u_u4_", 320, 180, 4, 2.0, false, false, false, true);
+
+//初始化图片, 并启动定时
+function u_u4_init_img()
+{
+
+    u_u4_icn.addimg("\/__local\/1\/B1\/1C\/E6665EDA0039010B6A5D547C55C_819FF12F_AD58.jpg", "info\/1034\/2049.htm", "", "");
+
+    u_u4_icn.addimg("\/__local\/C\/67\/12\/F9387B10C1257AA37BDD58CB84D_8ABB0829_E11C.jpg", "info\/1034\/2048.htm", "", "");
+
+    u_u4_icn.addimg("\/__local\/D\/8B\/E7\/8B8433EF99BE69CECFABE72FBDE_1F0CA9DC_AC86.jpg", "info\/1034\/2045.htm", "", "");
+
+    u_u4_icn.addimg("\/__local\/4\/FD\/AE\/E90F850A85E03C46C8365D741CB_AAC9C60B_B45E.jpg", "info\/1034\/1721.htm", "", "");
+
+    u_u4_icn.addimg("\/__local\/E\/9B\/D4\/64B13799EA9A81B5F1E9708C17D_1A6C63F2_B724.jpg", "info\/1034\/1720.htm", "", "");
+
+    u_u4_icn.addimg("\/__local\/0\/47\/62\/00455677B366A918039679692F1_C9A34C7B_7F11.png", "info\/1034\/1539.htm", "", "");
+
+    u_u4_icn.changeimg(0);
+}
+</script><table cellspacing="0" cellpadding="0" border="0" style="padding:0px margin:0px; border:0px">
+    <tr><td>
+        <div style="OVERFLOW: hidden;height:180px;width:320px">
+            <div id="u_u4_div" align="center" style="padding:0px;margin:0px;border:0px solid black;background-color:#000000;FILTER: progid:DXImageTransform.Microsoft.RevealTrans (duration=2.0,transition=23);height:180px;width:320px">
+                <div id="u_u4_imgdiv" style="padding:0px;border:0px;"><a id="u_u4_url" target="_blank"><img id="u_u4_pic" border="0" width="320" height="180" src="/system/resource/images/space.gif"></a></div>
+            </div>
+            <div style="filter:alpha(style=1,opacity=10,finishOpacity=80);width:320px;height:19px;text-align:right;top:-19px;position:relative;padding:0px;margin:0px;border:0px;">
+<a href="javascript:u_u4_icn.changeimg(0)" ; id="u_u4_selectNode0" class="imagechangenews_pnode" target="_self">1</a><a href="javascript:u_u4_icn.changeimg(1)" ; id="u_u4_selectNode1" class="imagechangenews_pnode" target="_self">2</a><a href="javascript:u_u4_icn.changeimg(2)" ; id="u_u4_selectNode2" class="imagechangenews_pnode" target="_self">3</a><a href="javascript:u_u4_icn.changeimg(3)" ; id="u_u4_selectNode3" class="imagechangenews_pnode" target="_self">4</a><a href="javascript:u_u4_icn.changeimg(4)" ; id="u_u4_selectNode4" class="imagechangenews_pnode" target="_self">5</a><a href="javascript:u_u4_icn.changeimg(5)" ; id="u_u4_selectNode5" class="imagechangenews_pnode" target="_self">6</a>
+            </div></div></td></tr>
+<div align="center" display="none" style="overflow:hidden;text-overflow:ellipsis;height:0px;width:320px;"><a target="_blank" class="titlestyle163629" id="u_u4_newstitle"></a></div><div align="left" display="none" style="overflow:hidden;text-overflow:ellipsis;height:0px;width:320px;padding-left:2px;padding-right:2px"><a target="_blank" class="summarystyle163629" id="u_u4_newssummary"></a></div>   
+</table><SCRIPT language="JavaScript">u_u4_init_img();</SCRIPT><!--#endeditable--></div>
+            <div class="new_list new_list3"><!--#begineditable name="学院新闻标题列表" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/tpltitlelist.jsp" tpltype="1" contype="news" clone="" viewid="163631" contentviewid="" tagname="学院新闻标题列表"--><ul class="dynamic_list fr">
+<li><a href="info/1034/2913.htm"><span>04/19</span><em>物联网工程专业召开培养方案企业专家网上评审会</em></a></li>
+<li><a href="info/1034/2911.htm"><span>04/17</span><em>计算机与信息安全学院召开毕业班返校安全教育视频会</em></a></li>
+<li><a href="info/1034/2910.htm"><span>04/17</span><em>学校防疫督导组到我院检查防疫工作</em></a></li>
+<li><a href="info/1034/2909.htm"><span>04/17</span><em>我院开展疫情防控工作部署</em></a></li>
+<li><a href="info/1034/2899.htm"><span>04/16</span><em>【疫情防控】“战疫”有感：凌寒终逝，暖春如约</em></a></li>
+<li><a href="info/1034/2890.htm"><span>04/15</span><em>计算机与信息安全学院召开2019级国防预科生学习视频交流会</em></a></li>
+</ul><script>_showDynClickBatch(['dynclicks_u5_2913','dynclicks_u5_2911','dynclicks_u5_2910','dynclicks_u5_2909','dynclicks_u5_2899','dynclicks_u5_2890'],[2913,2911,2910,2909,2899,2890],"wbnews", 1411889363)</script>
+<!--#endeditable--></div>
+        </div>
+
+        </div>
+        <div class="informBox informBox3 fl" columns="2">
+            <ul class="yxlj">
+                <li><a title="" href="mailto:dept003@163.com">书记信箱</a></li>
+                <li><a title="" href="mailto:dept3@guet.edu.cn">院长信箱</a></li>
+                <li><a title="" href="mailto:dept003@163.com">纪委信箱</a></li>
+                <li><a title="">院办行政电话:0773-2291330</a></li>
+                <li><a title="">院办传真:0773-2290306</a></li>
+            </ul>
+        </div>
+    </div>
+
+    <div columns="6" containerid="3" class="container clearfix">
+    <div class="informBox informBoxd informBoxc1 fl" columns="2"><!--#begineditable name="通知公告标题列表" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/tpltitlelist.jsp" tpltype="1" contype="news" clone="" viewid="163599" contentviewid="" tagname="通知公告标题列表"--><DIV class="dynamic dynamicb dynamice">
+<H2>通知公告</H2><SPAN><A href="xydt/tzgg.htm"><IMG src="images/w_more.png"></A></SPAN> </DIV>
+<DIV class="infor_list infor_lista">
+<UL class="dynamic_list dynamic_listb dynamic_liste fr">
+
+<LI><A href="info/1033/2799.htm"><SPAN>03/05</SPAN><EM>一流学科建设学术报告-业务过程管理研究的总体概述与最新进展</EM></A></LI>
+
+<LI><A href="info/1033/2798.htm"><SPAN>03/04</SPAN><EM>2019-2020年广西可信软件重点实验室课题申报通知</EM></A></LI>
+
+<LI><A href="info/1033/2781.htm"><SPAN>02/27</SPAN><EM>【疫情防控】广西学校防控新冠肺炎卫生清洁消毒指南</EM></A></LI>
+
+<LI><A href="info/1033/2765.htm"><SPAN>02/21</SPAN><EM>2019-2020学年第二学期计算机与信息安全学院研究生教学工作实施细则</EM></A></LI>
+
+<LI><A href="info/1033/2752.htm"><SPAN>02/20</SPAN><EM>【疫情防控】关于转发自治区新冠肺炎疫情防控工作领导小组指挥部开展扫码出入公共场所工作等文件的通知</EM></A></LI>
+
+<LI><A href="info/1033/2751.htm"><SPAN>02/20</SPAN><EM>【疫情防控】西电精选38门“金课”向全社会开放</EM></A></LI>
+
+</UL></DIV><script>_showDynClickBatch(['dynclicks_u6_2799','dynclicks_u6_2798','dynclicks_u6_2781','dynclicks_u6_2765','dynclicks_u6_2752','dynclicks_u6_2751'],[2799,2798,2781,2765,2752,2751],"wbnews", 1411889363)</script>
+<!--#endeditable--></div>
+    <div class="informBox informBoxd informBoxc1 fl" columns="2"><!--#begineditable name="学术交流标题列表" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/tpltitlelist.jsp" tpltype="1" contype="news" clone="" viewid="163603" contentviewid="" tagname="学术交流标题列表"--><DIV class="dynamic dynamicb dynamice">
+<H2>学术交流</H2><SPAN><A href="kxyj/xs.htm"><IMG src="images/w_more.png"></A></SPAN> </DIV>
+<DIV class="infor_list infor_lista">
+<UL class="dynamic_list dynamic_listb dynamic_liste fr">
+
+<LI><A href="info/1087/2854.htm"><SPAN>03/25</SPAN><EM>
+计算机与信息安全学院第一期青年教师“学术沙龙”活动成功举办
+</EM></A></LI>
+
+<LI><A href="info/1087/2850.htm"><SPAN>03/18</SPAN><EM>
+国家自然科学基金申报专题辅导会成功举办
+</EM></A></LI>
+
+<LI><A href="info/1087/2822.htm"><SPAN>03/14</SPAN><EM>
+计算机与信息安全学院举办“云端”学术报告会
+</EM></A></LI>
+
+<LI><A href="info/1087/2820.htm"><SPAN>03/14</SPAN><EM>
+计算机与信息安全学院举办春季学期首场“云端”报告会
+</EM></A></LI>
+
+<LI><A href="info/1087/1940.htm"><SPAN>07/03</SPAN><EM>
+“软件测试技术的新进展与实践”讲座
+</EM></A></LI>
+
+<LI><A href="info/1087/1925.htm"><SPAN>06/27</SPAN><EM>
+2019 International Workshop on Wireless and Security
+</EM></A></LI>
+
+</UL></DIV><script>_showDynClickBatch(['dynclicks_u7_2854','dynclicks_u7_2850','dynclicks_u7_2822','dynclicks_u7_2820','dynclicks_u7_1940','dynclicks_u7_1925'],[2854,2850,2822,2820,1940,1925],"wbnews", 1411889363)</script>
+<!--#endeditable--></div>
+    <div class="informBox informBoxd informBoxc1 fl" columns="2"><!--#begineditable name="就业信息标题列表" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/tpltitlelist.jsp" tpltype="1" contype="news" clone="" viewid="163597" contentviewid="" tagname="就业信息标题列表"--><DIV class="dynamic dynamicb dynamice">
+<H2>就业信息</H2><SPAN><A href="zsjy/jyxx.htm"><IMG src="images/w_more.png"></A></SPAN> </DIV>
+<DIV class="infor_list infor_lista">
+<UL class="dynamic_list dynamic_listb dynamic_liste fr">
+
+<LI><A href="info/1183/2704.htm"><SPAN>12/16</SPAN><EM>
+计算机与信息安全学院赴深圳、东莞等地走访用人单位
+</EM></A></LI>
+
+<LI><A href="info/1183/2541.htm"><SPAN>10/17</SPAN><EM>
+长园深瑞2020校园招聘
+</EM></A></LI>
+
+<LI><A href="info/1183/2531.htm"><SPAN>10/17</SPAN><EM>
+卓望公司2020校园招聘简章
+</EM></A></LI>
+
+<LI><A href="info/1183/2530.htm"><SPAN>10/17</SPAN><EM>
+东信和平科技股份有限公司招聘简章
+</EM></A></LI>
+
+<LI><A href="info/1183/2529.htm"><SPAN>10/17</SPAN><EM>
+品高软件2020校园招聘
+</EM></A></LI>
+
+<LI><A href="info/1183/2528.htm"><SPAN>10/17</SPAN><EM>
+桂林广泽科技有限公司招聘简章
+</EM></A></LI>
+
+</UL></DIV><script>_showDynClickBatch(['dynclicks_u8_2704','dynclicks_u8_2541','dynclicks_u8_2531','dynclicks_u8_2530','dynclicks_u8_2529','dynclicks_u8_2528'],[2704,2541,2531,2530,2529,2528],"wbnews", 1411889363)</script>
+<!--#endeditable--></div>
+    </div>
+
+    <div columns="6" containerid="4" class="container clearfix">
+        <DIV class="photo_gallery">
+            <DIV class="dynamic" style="margin: 20px 0;"> 
+                <H2>师生风采</H2><!-- <SPAN><A href="" onfocus="undefined" onfocus="undefined"><IMG src="/images/more.png"></A></SPAN> -->
+            </DIV>
+                <DIV class="picMarquee-left1">
+                    <DIV class="bd2">
+                    
+                        <!--#begineditable name="师生风采图文列表" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/tpltitlelist.jsp" tpltype="1" contype="news" clone="" viewid="202100" contentviewid="" tagname="师生风采图文列表"--><ul class="picList cl" style="width: 3179px; position: relative; overflow: hidden; padding: 0px; margin: 0px; left: -726px;">
+    <li class="clone" style="float: left; width: 187px;">
+        <a href="info/1034/2049.htm" target="_blank"><img src="/__local/D/28/37/7C5D4137F96B11537C5EDFE7E28_CA2CD190_2E1C2.jpg" width="159" height="120"></a>
+    </li>
+    <li class="clone" style="float: left; width: 187px;">
+        <a href="info/1034/2048.htm" target="_blank"><img src="/__local/A/AF/E3/2CC7B88F0475D7DE233FCC696B5_C9182E8C_57860.jpg" width="159" height="120"></a>
+    </li>
+    <li class="clone" style="float: left; width: 187px;">
+        <a href="info/1034/2045.htm" target="_blank"><img src="/__local/7/80/D8/5A4B3E6FEEC2F179C0B2A0EC4A5_6540B51E_375D8.jpg" width="159" height="120"></a>
+    </li>
+    <li class="clone" style="float: left; width: 187px;">
+        <a href="info/1171/2381.htm" target="_blank"><img src="/__local/D/DF/FE/153490A59A5295DD1314C5F4A9C_C0299037_3F704.jpg" width="159" height="120"></a>
+    </li>
+    <li class="clone" style="float: left; width: 187px;">
+        <a href="info/1034/1721.htm" target="_blank"><img src="/__local/6/C6/D8/EC37A4E8246FB41F7E5866894FF_86F4DEA7_3ED71.jpg" width="159" height="120"></a>
+    </li>
+    <li class="clone" style="float: left; width: 187px;">
+        <a href="info/1034/1720.htm" target="_blank"><img src="/__local/F/F6/64/9569C25F8C16DC5FEEB7CFBC398_FA3C2ABD_38643.jpg" width="159" height="120"></a>
+    </li>
+    <li class="clone" style="float: left; width: 187px;">
+        <a href="info/1034/1539.htm" target="_blank"><img src="/__local/C/54/58/0D5D7ADD0D19C2B00E5C9F67ADB_BCAF20F0_A9B5E.png" width="159" height="120"></a>
+    </li>
+    <li class="clone" style="float: left; width: 187px;">
+        <a href="info/1050/1150.htm" target="_blank"><img src="/__local/3/DB/81/FF03A2E1C656D580CF4A61B4F49_36AA2B8B_8B91.png" width="159" height="120"></a>
+    </li>
+    <li class="clone" style="float: left; width: 187px;">
+        <a href="info/1050/1149.htm" target="_blank"><img src="/__local/0/95/17/61320A20F9533E3729ECCEB9EB8_838D2776_12A46.jpg" width="159" height="120"></a>
+    </li>
+    <li class="clone" style="float: left; width: 187px;">
+        <a href="info/1050/1147.htm" target="_blank"><img src="/__local/0/CB/F7/0FFEE55E8CF4E9A5117B1D62E2F_F2326E48_259FC.jpg" width="159" height="120"></a>
+    </li>
+    <li class="clone" style="float: left; width: 187px;">
+        <a href="info/1050/1146.htm" target="_blank"><img src="/__local/D/1B/8C/400B2A07932F7219EED305D7E09_CE2568C7_5AB1.png" width="159" height="120"></a>
+    </li>
+    <li class="clone" style="float: left; width: 187px;">
+        <a href="info/1034/1192.htm" target="_blank"><img src="/__local/9/D3/AC/0165CFD3D801B35B58C63500247_C67B92DF_19DE14.png" width="159" height="120"></a>
+    </li>
+    <li class="clone" style="float: left; width: 187px;">
+        <a href="info/1034/1193.htm" target="_blank"><img src="/__local/C/8D/C4/3D0E5318852AB722B88E19F7997_66D4CB8F_1F9C25.png" width="159" height="120"></a>
+    </li>
+    <li class="clone" style="float: left; width: 187px;">
+        <a href="info/1050/1151.htm" target="_blank"><img src="/__local/0/5F/FB/934D8024D81939ED71C37D56368_851D8EE0_10060.jpg" width="159" height="120"></a>
+    </li>
+    <li class="clone" style="float: left; width: 187px;">
+        <a href="info/1034/1194.htm" target="_blank"><img src="/__local/7/88/CF/4EDA96CCAF9B0D4AA6C7F3FC93B_CFAF7592_1F9C25.png" width="159" height="120"></a>
+    </li>
+    <li class="clone" style="float: left; width: 187px;">
+        <a href="info/1034/1196.htm" target="_blank"><img src="/__local/7/14/CA/C36925D9FB53D272EB0F8D4159E_BF79D905_36F65.jpg" width="159" height="120"></a>
+    </li>
+    <li class="clone" style="float: left; width: 187px;">
+        <a href="info/1034/1197.htm" target="_blank"><img src="/__local/7/2F/CC/671C49D311C4235013C5313480A_08A5F36C_3A575.jpg" width="159" height="120"></a>
+    </li>
+</ul><script>_showDynClickBatch(['dynclicks_u9_2049','dynclicks_u9_2048','dynclicks_u9_2045','dynclicks_u9_2381','dynclicks_u9_1721','dynclicks_u9_1720','dynclicks_u9_1539','dynclicks_u9_1150','dynclicks_u9_1149','dynclicks_u9_1147','dynclicks_u9_1146','dynclicks_u9_1192','dynclicks_u9_1193','dynclicks_u9_1151','dynclicks_u9_1194','dynclicks_u9_1196','dynclicks_u9_1197'],[2049,2048,2045,2381,1721,1720,1539,1150,1149,1147,1146,1192,1193,1151,1194,1196,1197],"wbnews", 1411889363)</script>
+<!--#endeditable-->
+                    </DIV>
+                    
+                </DIV>
+       </DIV>
+       <script type="text/javascript">
+            jQuery(".picMarquee-left1").slide({ mainCell: ".bd2 ul", autoPlay: true, effect: "leftMarquee", vis: 4, interTime: 50, trigger: "click" });
+       </script>
+    </div>
+</div>
+
+<!--foot-->
+<div class="footWrap">
+    <div class="footDiv_one">
+        <div class="foot_one">
+            <p>Copyright 2011-2018 桂林电子科技大学计算机与信息安全学院　地址：广西桂林市七星区金鸡路1号</p>
+        </div>
+    </div>
+
+    <ul style="text-align:center;background-color:#224B77;">
+    </ul>
+
+</div><script type="text/javascript">
+    $(function(){
+        $(".select").each(function(){
+            var s=$(this);
+            var z=parseInt(s.css("z-index"));
+            var dt=$(this).children("dt");
+            var dd=$(this).children("dd");
+            var _show=function(){dd.slideDown(200);dt.addClass("cur");s.css("z-index",z+1);};   //展开效果
+            var _hide=function(){dd.slideUp(200);dt.removeClass("cur");s.css("z-index",z);};    //关闭效果
+            dt.click(function(){dd.is(":hidden")?_show():_hide();});
+            dd.find("a").click(function(){dt.html($(this).html());_hide();});     //选择效果（如需要传值，可自定义参数，在此处返回对应的“value”值 ）
+            $("body").click(function(i){ !$(i.target).parents(".select").first().is(s) ? _hide():"";});
+        })
+    });
+</script><script type="text/javascript">
+    $(function () {
+    //切换对象为其他，这里为包含图片和标题的层
+        $('#change_32 div.changeDiv').soChange({//对象指向层，层内包含图片及标题
+            thumbObj:'#change_32 .ul_change_a2 span',
+            thumbNowClass:'on'//自定义导航对象当前class为on
+        });
+    });
+</script><script type="text/javascript">
+    $(".pic ul li").hover(function(){
+        $(this).stop(true).animate({width:"824px"},500).siblings().stop(true).animate({width:"50px"},500);
+    });
+</script>
+
+</body></html>

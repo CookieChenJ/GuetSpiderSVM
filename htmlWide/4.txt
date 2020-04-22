@@ -1,0 +1,1184 @@
+<!DOCTYPE html>
+<html lang="zh">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="Copyright" content="桂林电子科技大学科研网" />
+    <meta charset="utf-8" />
+    <title>科技处&amp;军工办</title><META Name="keywords" Content="科技处&amp;军工办" />
+
+    <link href="images/site-images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <meta name="viewport" content="width=device-width" />
+    <link href="style/nec-style.css" rel="stylesheet" />
+    <link href="style/style.css" rel="stylesheet" />
+    <script src="script/jquery-3.3.1.min.js"></script>      
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="index.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1423494659)</script>
+</head>
+
+<body>
+    <!--top end-->
+    <!--banner-->
+    <div class="c2-ly-banner c2-ly-pane-all">
+        <img src="images/site-images/logo.png" width="630" height="95" alt="桂林电子科技大学科技处" />
+        <div class="top-search">
+            <div class="adminin"><a href="http://mwb.guet.edu.cn/">[ 管理入口 ]</a> <a href="https://www.guet.edu.cn/" target="_blank">[ 学校主页 ]</a></div>
+            <div class="c2-top-search f-fl"><!--#begineditable name="简单检索" action="" layout="" tpltype="" contype="" clone="" viewid="200425" contentviewid="" tagname="简单检索"-->
+
+
+
+
+
+
+<script language="javascript" src="/system/resource/js/base64.js"></script>
+<script language="javascript" src="/system/resource/js/formfunc.js"></script>
+<form action="search.jsp?wbtreeid=1001" method="post" name="a200425a" target="_blank" onsubmit="return subsearchdataa200425a()" style="display: inline;">
+ <input type="hidden" name="Find" value="find">
+ <input type="hidden" name="entrymode" value="1">
+ <input type="hidden" id="INTEXT2" name="INTEXT2" value="">
+ <input type="hidden" name="news_search_code">
+ <table border="0" cellspacing="0" cellpadding="5">
+  <tr>
+   <td Valign="middle" nowrap="nowrap" height="22">
+    
+        <input type="hidden" name="wbtreeids" value="0">
+    </td><td><span id="intextspana200425a"></span><iframe id="intextframea200425a" src="about:blank" scrolling="no" frameborder="0" style="position:absolute;top:0px;left:0px;display:none;"></iframe><input size="18" name="INTEXT" class="querystyle200425">
+   </td>
+   <td align="absmiddle" nowrap="nowrap" height="1">
+   <input type="image" src="images/site-images/btn_search.png" valign="bottom" style="cursor: hand"></td>
+  </tr>
+  
+ </table>
+</form>
+<script>
+String.prototype.trim= function()       
+{              
+    var t = this.replace(/(^\s*)|(\s*$)/g, "");     
+    return t.replace(/(^　*)|(　*$)/g, "");     
+}
+ 
+function subsearchdataa200425a()
+{ 
+	
+	if(document.a200425a.INTEXT.value.trim()=="")
+	{
+		alert("请输入查询关键字！");
+		return false;
+	}
+	
+	
+    if(checkDataa200425a(document.a200425a))
+    {
+       return true;  
+    }
+    return false;
+}       
+</script>
+
+<script> 
+function checkDataa200425a(formname)
+{
+	if(formname.INTEXT.value.trim()=="")
+	{
+		alert("请输入查询关键字！");
+		return false;
+	}
+
+	var  base64 = new Base64();
+    if(window.toFF==1)
+        {
+            var ssvalue = formname.INTEXT.value;
+            formname.INTEXT2.value = Simplized(ssvalue);
+            formname.INTEXT2.value = base64.encode(formname.INTEXT2.value);
+        }else
+        formname.INTEXT2.value = formname.INTEXT.value;
+        formname.INTEXT2.value = base64.encode(formname.INTEXT2.value);
+       return true;
+}
+</script>
+<!--#endeditable--></div>
+        </div>
+    </div>
+    <div class="c2-ly-menu c2-ly-pane-all">
+        <div class="menu-main"><div class="menu-top"><!--#begineditable name="网站导航" action="webber.wbst.com.nav.MenuAction" layout="/system/_component/sitenav/tplvnav.jsp" tpltype="1" contype="" clone="" viewid="166936" contentviewid="" tagname="网站导航"--><ul>
+<li><a href="index.htm" title="首页" target="_blank" class="ico-home">首页</a></li>
+<li><a href="jgsz.htm" title="机构设置" target="_blank" class="ico-home">机构设置</a></li>
+<li><a href="kypt.htm" title="科研平台" target="_blank" class="ico-home">科研平台</a></li>
+<li><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1013" title="服务指南" target="_blank" class="ico-home">服务指南</a></li>
+<li><a href="keyanz.htm" title="科研政策" target="_blank" class="ico-home">科研政策</a></li>
+<li><a href="cgtj.htm" title="成果推介" target="_blank" class="ico-home">成果推介</a></li>
+<li><a href="zhishichanquan.htm" title="知识产权" target="_blank" class="ico-home">知识产权</a></li>
+<li><a href="zlxz.htm" title="资料下载" target="_blank" class="ico-home">资料下载</a></li>
+<li><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1033" title="常见问题解答" target="_blank" class="ico-home">常见问题解答</a></li>
+<li><a href="http://gldz.chinajournal.net.cn/" title="学报" target="_blank" class="ico-home">学报</a></li>
+</ul><!--#endeditable--></div></div>
+    </div>
+    <!--banner end-->
+    <!--body-->
+    <div class="c2-ly-body mt10">
+        <!--pane1-->
+        <div class="c2-ly-pane-all f-cb">
+            <div class="model750">
+                <div class="f-cb">
+                    <div class="focus"><!--#begineditable name="幻灯片" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/tplimagenews.jsp" tpltype="1" contype="news" clone="" viewid="200419" contentviewid="" tagname="幻灯片"--><script language="javascript" src="/system/resource/js/dynclicks.js"></script><script language="javascript" src="/system/resource/js/jquery/jquery-latest.min.js"></script><div id="index-slider" class="say-slide">
+      <img src="/__local/D/B7/D2/4097CA9980C9E21724F7A325BAA_B0722600_165BA.jpg" alt="我校参加第二十七届广西科技活动周圆满成功" data-href="info/1078/1162.htm" />
+      <img src="/__local/9/5A/52/76DEA2308F1E47AFCB86F4537CA_FD81DF25_61DA6.jpg" alt="2017年广西创新驱动（科技重大专项）项目推进会在我校召开" data-href="info/1076/1667.htm" />
+      <img src="/__local/8/9F/A1/E082C427B0E68A006AF551C58DA_6D1D1673_4FE62.jpg" alt="我校承办2017年广西高校科技服务北海新发展活动（图）" data-href="info/1076/1669.htm" />
+      <img src="/__local/C/3C/83/738DCF731F2DBC1E80A40BA4B94_91FD3827_24849.jpg" alt="习近平：加快建立军民融合创新体系 为我军建设提供强大科技支撑" data-href="info/1076/1665.htm" />
+</div>
+<script src="script/jquery.saySlide.2.0.js"></script>
+<script>
+$(function () {
+  $("#index-slider").saySlide({ autodir: 'RL', isTitle: true, autoTime: parseInt('3000') });
+ });
+</script><script>_showDynClickBatch(['dynclicks_u2_1162','dynclicks_u2_1667','dynclicks_u2_1669','dynclicks_u2_1665'],[1162,1667,1669,1665],"wbnews", 1423494659)</script>
+<!--#endeditable--></div>
+                </div>
+            </div>
+            <div class="side240">
+                <div class="well-b">
+                    <div class="head-b">
+                        <div class="text">通知公告</div>
+                        <div class="more">
+                            <a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1078" target="_blank" title="更多信息"><img src="images/site-images/more.png" /></a>
+                        </div>
+                    </div>
+                    <div class="list-b" style="min-height: 210px;"><!--#begineditable name="标题列表1" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/tpltitlelist.jsp" tpltype="1" contype="news" clone="" viewid="166940" contentviewid="" tagname="标题列表1"--><ul>
+<li>
+<a href="info/1078/1951.htm" target="_blank" title="关于“单光子探测芯片及其系统”成果转化项目的公示">关于“单光子探测芯片及其系统”成果转化项目的公示</a>
+<span class="date">04-04</span>
+</li>
+<li>
+<a href="info/1078/1983.htm" target="_blank" title="转发《关于2020中国电子学会科学技术奖推荐工作的通...">转发《关于2020中国电子学会科学技术奖推荐工作的通...</a>
+<span class="date">04-20</span>
+</li>
+<li>
+<a href="info/1078/1972.htm" target="_blank" title="关于授权专利、软件著作权对外推广信息收集的通知">关于授权专利、软件著作权对外推广信息收集的通知</a>
+<span class="date">04-17</span>
+</li>
+<li>
+<a href="info/1078/1971.htm" target="_blank" title="关于对我校参与提名2020年度广西科学技术奖项目公示...">关于对我校参与提名2020年度广西科学技术奖项目公示...</a>
+<span class="date">04-16</span>
+</li>
+<li>
+<a href="info/1078/1962.htm" target="_blank" title="关于参加“2020年广西科学技术奖《提名书》撰写思路...">关于参加“2020年广西科学技术奖《提名书》撰写思路...</a>
+<span class="date">04-13</span>
+</li>
+<li>
+<a href="info/1078/1958.htm" target="_blank" title="关于进一步做好2020年度广西科学技术奖提名工作的通...">关于进一步做好2020年度广西科学技术奖提名工作的通...</a>
+<span class="date">04-10</span>
+</li>
+<li>
+<a href="info/1078/1956.htm" target="_blank" title="桂林电子科技大学推选第二届广西创新争先奖（含杰出...">桂林电子科技大学推选第二届广西创新争先奖（含杰出...</a>
+<span class="date">04-10</span>
+</li>
+<li>
+<a href="info/1078/1953.htm" target="_blank" title="关于开展推荐2020年广西“最美科技工作者”学习宣传...">关于开展推荐2020年广西“最美科技工作者”学习宣传...</a>
+<span class="date">04-09</span>
+</li>
+</ul><script>_showDynClickBatch(['dynclicks_u3_1951','dynclicks_u3_1983','dynclicks_u3_1972','dynclicks_u3_1971','dynclicks_u3_1962','dynclicks_u3_1958','dynclicks_u3_1956','dynclicks_u3_1953'],[1951,1983,1972,1971,1962,1958,1956,1953],"wbnews", 1423494659)</script>
+<!--#endeditable-->
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--pane1 end-->
+        <!--adv 0004-->
+
+        <!--pane2-->
+        <div class="c2-ly-pane-all  mt10">
+            <div class="side200">
+                <div class="well-b">
+                    <div class="head-b">
+                        <div class="text ">
+                            <a href="#" target="_blank" title="更多信息">服务指南</a>
+                        </div>
+                    </div>
+                    <div class="list-a" style="min-height: 145px;">
+                        <span class="moreguide"> <a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1013" target="_blank" title="更多信息"><img src="images/site-images/more.png" /></a>
+                        </span>
+                        <!--#begineditable name="服务指南" action="" layout="" tpltype="" contype="" clone="" viewid="166945" contentviewid="" tagname="服务指南"--><ul>
+<li>
+<a href="info/1013/1341.htm" target="_blank" title="科技处处章流程图">科技处处章流程图</a>
+<span class="date"></span>
+</li>
+<li>
+<a href="info/1013/1340.htm" target="_blank" title="横向科研合同审批流程图">横向科研合同审批流程图</a>
+<span class="date"></span>
+</li>
+<li>
+<a href="info/1013/1339.htm" target="_blank" title="国家社科基金项目申报流程图">国家社科基金项目申报流程图</a>
+<span class="date"></span>
+</li>
+<li>
+<a href="info/1013/1338.htm" target="_blank" title="专著出版基金流程图">专著出版基金流程图</a>
+<span class="date"></span>
+</li>
+<li>
+<a href="info/1013/1337.htm" target="_blank" title="科研经费下拨流程图">科研经费下拨流程图</a>
+<span class="date"></span>
+</li>
+</ul><script>_showDynClickBatch(['dynclicks_u4_1341','dynclicks_u4_1340','dynclicks_u4_1339','dynclicks_u4_1338','dynclicks_u4_1337'],[1341,1340,1339,1338,1337],"wbnews", 1423494659)</script>
+<!--#endeditable-->
+                    </div>
+                </div>
+                <div class="well-b mt10">
+                    <div class="head-b downcolor">
+                        <div class="text downtext"><a href="">文件下载</a></div>
+                    </div>
+                    <div class="list-a" style="min-height: 150px;">
+                        <span class="moredown"> <a href="Home/Channel?code=00080007" target="_blank" title="更多信息"><img src="images/site-images/more.png" /></a>
+                        </span>
+                        <!--#begineditable name="文件下载" action="" layout="" tpltype="" contype="" clone="" viewid="167291" contentviewid="" tagname="文件下载"--><ul>
+<li>
+<a href="info/1028/1815.htm" target="_blank" title="关于军工资质的使用管理办法">关于军工资质的使用管理办法</a>
+<span class="date"></span>
+</li>
+<li>
+<a href="info/1028/1776.htm" target="_blank" title="校科研启动费申请书（理工类）">校科研启动费申请书（理工类）</a>
+<span class="date"></span>
+</li>
+<li>
+<a href="info/1028/1826.htm" target="_blank" title="横向科研项目业务接待审批表">横向科研项目业务接待审批表</a>
+<span class="date"></span>
+</li>
+<li>
+<a href="info/1028/1821.htm" target="_blank" title="国防经费预算表">国防经费预算表</a>
+<span class="date"></span>
+</li>
+<li>
+<a href="info/1028/1814.htm" target="_blank" title="2018社科纵向经费预算">2018社科纵向经费预算</a>
+<span class="date"></span>
+</li>
+<li>
+<a href="info/1028/1812.htm" target="_blank" title="横向项目预算明细表">横向项目预算明细表</a>
+<span class="date"></span>
+</li>
+<li>
+<a href="info/1028/1791.htm" target="_blank" title="桂林电子科技大学合同审批...">桂林电子科技大学合同审批...</a>
+<span class="date"></span>
+</li>
+<li>
+<a href="info/1028/1734.htm" target="_blank" title="广西自然科学基金项目资助...">广西自然科学基金项目资助...</a>
+<span class="date"></span>
+</li>
+</ul><script>_showDynClickBatch(['dynclicks_u5_1815','dynclicks_u5_1776','dynclicks_u5_1826','dynclicks_u5_1821','dynclicks_u5_1814','dynclicks_u5_1812','dynclicks_u5_1791','dynclicks_u5_1734'],[1815,1776,1826,1821,1814,1812,1791,1734],"wbnews", 1423494659)</script>
+<!--#endeditable-->
+                    </div>
+                </div>
+                <div class="well-b mt10">
+                    <div class="head-b">
+                        <div class="text ">科研管理系统登陆</div>
+                    </div>
+                    <div class="loginlink" style="min-height:85px;">
+                        <ul>
+                            <li><img src="images/site-images/login_expert.gif" /></li>
+                            <li><img src="images/site-images/login-common.gif" /></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <div class="tab">
+                <div class="contenttop">
+                    <div class="contenttop-left">
+                        <div class="tsa">
+                            <div class="titOpa" id="titOpa">
+                                <ul>
+                                    <li class="currenta">科技动态</li>
+                                    <li>政策法规</li>
+                                </ul>
+                            </div>
+                            <div class="list-c" id="list-c">
+                                <div class="tsMba" id="tsMba">
+                                    <div class="list-wrap">
+                                        <span class="morelink"><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1076" target="_blank" title="更多信息"><img src="images/site-images/more.png" /></a></span>
+                                        <div><!--#begineditable name="科技动态" action="" layout="" tpltype="" contype="" clone="" viewid="200391" contentviewid="" tagname="科技动态"--><ul>
+<li>
+<a href="info/1076/1845.htm" target="_blank" title="我院组织2019年度广西科学技术奖行业复评预答辩会">我院组织2019年度广西科学技术奖行业复评预答辩会</a>
+<span class="date">10/15</span>
+</li>
+<li>
+<a href="info/1076/1833.htm" target="_blank" title="科技党支部同唱《我和我的祖国》共祝新中国70周年...">科技党支部同唱《我和我的祖国》共祝新中国70周年...</a>
+<span class="date">09/30</span>
+</li>
+<li>
+<a href="info/1076/1831.htm" target="_blank" title="【不忘初心、牢记使命】科技党支部召开“不忘初心...">【不忘初心、牢记使命】科技党支部召开“不忘初心...</a>
+<span class="date">09/30</span>
+</li>
+<li>
+<a href="info/1076/1841.htm" target="_blank" title="我校举办科技奖励申报专题培训讲座">我校举办科技奖励申报专题培训讲座</a>
+<span class="date">09/25</span>
+</li>
+<li>
+<a href="info/1076/1822.htm" target="_blank" title="山东大学周向军教授来校辅导国家社科基金项目申报">山东大学周向军教授来校辅导国家社科基金项目申报</a>
+<span class="date">09/19</span>
+</li>
+<li>
+<a href="info/1076/1671.htm" target="_blank" title="欧阳缮副校长赴自治区发改委交流军民融合发展工作">欧阳缮副校长赴自治区发改委交流军民融合发展工作</a>
+<span class="date">04/12</span>
+</li>
+<li>
+<a href="info/1076/1670.htm" target="_blank" title="重大突破!学校首获国家级科技创新平台!">重大突破!学校首获国家级科技创新平台!</a>
+<span class="date">12/30</span>
+</li>
+</ul><script>_showDynClickBatch(['dynclicks_u6_1845','dynclicks_u6_1833','dynclicks_u6_1831','dynclicks_u6_1841','dynclicks_u6_1822','dynclicks_u6_1671','dynclicks_u6_1670'],[1845,1833,1831,1841,1822,1671,1670],"wbnews", 1423494659)</script>
+<!--#endeditable--></div> 
+                                    </div>
+                                    <div class="list-wrap">
+                                        <span class="morelink"> <a href="keyanz.htm" target="_blank" title="更多信息"><img src="images/site-images/more.png" /></a></span>
+                                        <div><!--#begineditable name="政策法规" action="" layout="" tpltype="" contype="" clone="" viewid="200392" contentviewid="" tagname="政策法规"--><ul>
+<li>
+<a href="info/1017/1852.htm" target="_blank" title="财政部关于进一步加大授权力度 促进科技成果转化的...">财政部关于进一步加大授权力度 促进科技成果转化的...</a>
+<span class="date">10/30</span>
+</li>
+<li>
+<a href="info/1016/1851.htm" target="_blank" title="科研政策制度汇编">科研政策制度汇编</a>
+<span class="date">10/30</span>
+</li>
+<li>
+<a href="info/1017/1848.htm" target="_blank" title="成果转化相关政策制度汇编">成果转化相关政策制度汇编</a>
+<span class="date">10/30</span>
+</li>
+<li>
+<a href="info/1019/1817.htm" target="_blank" title="《桂林电子科技大学横向科研项目管理办法（试行）...">《桂林电子科技大学横向科研项目管理办法（试行）...</a>
+<span class="date">09/11</span>
+</li>
+<li>
+<a href="info/1016/1801.htm" target="_blank" title="自治区科技厅关于印发《广西科技计划项目评审改革...">自治区科技厅关于印发《广西科技计划项目评审改革...</a>
+<span class="date">08/30</span>
+</li>
+<li>
+<a href="info/1017/1429.htm" target="_blank" title="国务院关于印发实施《中华人民共和国促进科技成果...">国务院关于印发实施《中华人民共和国促进科技成果...</a>
+<span class="date">03/01</span>
+</li>
+<li>
+<a href="info/1017/1428.htm" target="_blank" title="广西科学技术奖励办法实施细则">广西科学技术奖励办法实施细则</a>
+<span class="date">03/01</span>
+</li>
+</ul><script>_showDynClickBatch(['dynclicks_u7_1852','dynclicks_u7_1851','dynclicks_u7_1848','dynclicks_u7_1817','dynclicks_u7_1801','dynclicks_u7_1429','dynclicks_u7_1428'],[1852,1851,1848,1817,1801,1429,1428],"wbnews", 1423494659)</script>
+<!--#endeditable--></div> 
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="contenttop-right">
+                        <div class="ts">
+                            <div class="titOp" id="titOp">
+                                <ul>
+                                    <li class="current">综合计划</li>
+                                    <li>成果专利</li>
+                                </ul>
+                            </div>
+                            <div class="list-c" id="list-c">
+                                <div class="tsMb" id="tsMb">
+                                    <div class="list-wrap">
+                                        <span class="morelink"> <a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1077" target="_blank" title="更多信息"><img src="images/site-images/more.png" /></a>
+                                        </span>
+                                        <div><!--#begineditable name="综合计划" action="" layout="" tpltype="" contype="" clone="" viewid="200393" contentviewid="" tagname="综合计划"--><ul>
+<li>
+<a href="info/1077/1697.htm" target="_blank" title="国家社会科学基金项目 2018年度课题指南">国家社会科学基金项目 2018年度课题指南</a>
+<span class="date">01/18</span>
+</li>
+<li>
+<a href="info/1077/1698.htm" target="_blank" title="研究阐释党的十九大精神国家社会科学基金专项招标选题">研究阐释党的十九大精神国家社会科学基金专项招标选题</a>
+<span class="date">11/20</span>
+</li>
+<li>
+<a href="info/1077/1701.htm" target="_blank" title="2017年全国科学道德和学风建设宣讲会">2017年全国科学道德和学风建设宣讲会</a>
+<span class="date">11/17</span>
+</li>
+<li>
+<a href="info/1077/1696.htm" target="_blank" title="“十三五”规划相关文件">“十三五”规划相关文件</a>
+<span class="date">11/13</span>
+</li>
+<li>
+<a href="info/1077/1695.htm" target="_blank" title="广西各地市国民经济和社会发展第“十三五”规划">广西各地市国民经济和社会发展第“十三五”规划</a>
+<span class="date">11/03</span>
+</li>
+<li>
+<a href="info/1077/1694.htm" target="_blank" title="广西创新驱动发展专项（科技重大专项）指南">广西创新驱动发展专项（科技重大专项）指南</a>
+<span class="date">11/03</span>
+</li>
+<li>
+<a href="info/1077/1693.htm" target="_blank" title="国家重点研发计划等专项指南">国家重点研发计划等专项指南</a>
+<span class="date">11/02</span>
+</li>
+</ul><script>_showDynClickBatch(['dynclicks_u8_1697','dynclicks_u8_1698','dynclicks_u8_1701','dynclicks_u8_1696','dynclicks_u8_1695','dynclicks_u8_1694','dynclicks_u8_1693'],[1697,1698,1701,1696,1695,1694,1693],"wbnews", 1423494659)</script>
+<!--#endeditable--></div>
+                                    </div>
+                                    <div class="list-wrap">
+                                        <span class="morelink"> <a href="zhishichanquan.htm" target="_blank" title="更多信息"><img src="images/site-images/more.png" /></a>
+                                        </span>
+                                        <div><!--#begineditable name="成果专利" action="" layout="" tpltype="" contype="" clone="" viewid="200394" contentviewid="" tagname="成果专利"--><ul>
+<li>
+<a href="info/1026/1942.htm" target="_blank" title="关于“一种新型的清洁牙齿的方法和装置”成果转化...">关于“一种新型的清洁牙齿的方法和装置”成果转化...</a>
+<span class="date">03/18</span>
+</li>
+<li>
+<a href="info/1025/1820.htm" target="_blank" title="关于授权专利对外推广信息收集的通知">关于授权专利对外推广信息收集的通知</a>
+<span class="date">09/12</span>
+</li>
+<li>
+<a href="info/1026/1782.htm" target="_blank" title="关于缴纳2019年第3季度发明专利年费的通知">关于缴纳2019年第3季度发明专利年费的通知</a>
+<span class="date">06/25</span>
+</li>
+<li>
+<a href="info/1026/1713.htm" target="_blank" title="关于2018年桂林市第一批专利申请资助款认领的公示">关于2018年桂林市第一批专利申请资助款认领的公示</a>
+<span class="date">04/26</span>
+</li>
+<li>
+<a href="info/1026/1745.htm" target="_blank" title="关于“基于Modbus协议的数据并行加密通信方法和系...">关于“基于Modbus协议的数据并行加密通信方法和系...</a>
+<span class="date">05/25</span>
+</li>
+<li>
+<a href="info/1026/1743.htm" target="_blank" title="桂林电子科技大学专利软著信息变更审批表">桂林电子科技大学专利软著信息变更审批表</a>
+<span class="date">05/23</span>
+</li>
+<li>
+<a href="info/1025/1541.htm" target="_blank" title="专利证书入库公示（2018年度-2019年度）">专利证书入库公示（2018年度-2019年度）</a>
+<span class="date">03/04</span>
+</li>
+</ul><script>_showDynClickBatch(['dynclicks_u9_1942','dynclicks_u9_1820','dynclicks_u9_1782','dynclicks_u9_1713','dynclicks_u9_1745','dynclicks_u9_1743','dynclicks_u9_1541'],[1942,1820,1782,1713,1745,1743,1541],"wbnews", 1423494659)</script>
+<!--#endeditable--></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <script>
+        $(function() {
+            $("#tsMba .list-wrap:not(:first)").hide();
+            $("#titOpa li").each(function(index) {
+                $(this).mouseover(
+                    function() {
+                        $("#titOpa li.currenta").removeClass("currenta");
+                        $(this).addClass("currenta");
+                        $("#tsMba .list-wrap").eq(index).show().siblings(".list-wrap").hide();
+                    })
+            })
+        })
+        $(function() {
+            $("#tsMb .list-wrap:not(:first)").hide();
+            $("#titOp li").each(function(index) {
+                $(this).mouseover(
+                    function() {
+                        $("#titOp li.current").removeClass("current");
+                        $(this).addClass("current");
+                        $("#tsMb .list-wrap").eq(index).show().siblings(".list-wrap").hide();
+                    })
+            });
+        })
+    </script>  
+                </div>                
+                <div class="contentmid">
+                    <!--adv 0008-->
+                    <div class="mt10"><img src="images/site-images/hengfu_14_14.png" /></div>
+                    <!--pane8-->
+                </div>
+                <div class="contentfoot">
+                    <div class="">
+                        <div class="well-f f-cb area-link">
+
+                            <ul>
+                                <li>
+                                    <a href="http://www.moe.gov.cn/" title="武鸣县" target="_blank">
+                                        <img src="images/site-images/friendlink-1.gif" />
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="http://www.most.gov.cn/" title="武鸣县" target="_blank">
+                                        <img src="images/site-images/friendlink-2.gif" />
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="http://www.miit.gov.cn/" title="武鸣县" target="_blank">
+                                        <img src="images/site-images/friendlink-3.gif" />
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="http://kjt.gxzf.gov.cn" title="武鸣县" target="_blank">
+                                        <img src="images/site-images/friendlink-11.jpg" />
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="http://program.most.gov.cn/" title="武鸣县" target="_blank">
+                                        <img src="images/site-images/friendlink-5.gif" />
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="http://www.istcp.org.cn/" title="武鸣县" target="_blank">
+                                        <img src="images/site-images/friendlink-6.gif" />
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="http://www.nsfc.gov.cn/" title="武鸣县" target="_blank">
+                                        <img src="images/site-images/friendlink-12.gif" />
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="http://kjj.guilin.gov.cn/" title="武鸣县" target="_blank">
+                                        <img src="images/site-images/friendlink-8.gif" />
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="http://www.npopss-cn.gov.cn/" title="武鸣县" target="_blank">
+                                        <img src="images/site-images/001png.png" />
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="http://www.sinoss.net/" title="武鸣县" target="_blank">
+                                        <img src="images/site-images/002png.png" />
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="http://www.gxjczx.gov.cn/" title="武鸣县" target="_blank">
+                                        <img src="images/site-images/003png.png" />
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="http://www.mcprc.gov.cn/" title="武鸣县" target="_blank">
+                                        <img src="images/site-images/004png.png" />
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="http://www.gxpopss.com/" title="武鸣县" target="_blank">
+                                        <img src="images/site-images/005png.png" />
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="http://www.gxwht.gov.cn/" title="武鸣县" target="_blank">
+                                        <img src="images/site-images/006png.png" />
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="http://gldz.cbpt.cnki.net/WKD/WebPublication/index.aspx?mid=gldz" title="武鸣县" target="_blank">
+                                        <img src="images/site-images/007png.png" />
+                                    </a>
+                                </li>
+
+                            </ul>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--body end-->
+    <!--foot-->
+    <div class="c2-ly-footer">
+        <div class="c2-ly-pane-all footer mt10">
+            <div class="footer-copyright">
+                <p>
+                    版权所有：桂林电子科技大学 校址：中国广西桂林金鸡路1号 邮编：541004 传真：2191683
+                </p>
+                <p>
+                    备案号：桂ICP备 05000961 号 前置审批编号：桂JS201012-003 广西网警 网上备案广西网络安全信息网
+                </p>
+            </div>
+        </div>
+    </div>
+    <!--foot end--> 
+     
+</body>
+
+</html>
+<!DOCTYPE html>
+<html lang="zh">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="Copyright" content="桂林电子科技大学科研网" />
+    <meta charset="utf-8" />
+    <title>科技处&amp;军工办</title><META Name="keywords" Content="科技处&amp;军工办" />
+
+    <link href="images/site-images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <meta name="viewport" content="width=device-width" />
+    <link href="style/nec-style.css" rel="stylesheet" />
+    <link href="style/style.css" rel="stylesheet" />
+    <script src="script/jquery-3.3.1.min.js"></script>      
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="index.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1423494659)</script>
+</head>
+
+<body>
+    <!--top end-->
+    <!--banner-->
+    <div class="c2-ly-banner c2-ly-pane-all">
+        <img src="images/site-images/logo.png" width="630" height="95" alt="桂林电子科技大学科技处" />
+        <div class="top-search">
+            <div class="adminin"><a href="http://mwb.guet.edu.cn/">[ 管理入口 ]</a> <a href="https://www.guet.edu.cn/" target="_blank">[ 学校主页 ]</a></div>
+            <div class="c2-top-search f-fl"><!--#begineditable name="简单检索" action="" layout="" tpltype="" contype="" clone="" viewid="200425" contentviewid="" tagname="简单检索"-->
+
+
+
+
+
+
+<script language="javascript" src="/system/resource/js/base64.js"></script>
+<script language="javascript" src="/system/resource/js/formfunc.js"></script>
+<form action="search.jsp?wbtreeid=1001" method="post" name="a200425a" target="_blank" onsubmit="return subsearchdataa200425a()" style="display: inline;">
+ <input type="hidden" name="Find" value="find">
+ <input type="hidden" name="entrymode" value="1">
+ <input type="hidden" id="INTEXT2" name="INTEXT2" value="">
+ <input type="hidden" name="news_search_code">
+ <table border="0" cellspacing="0" cellpadding="5">
+  <tr>
+   <td Valign="middle" nowrap="nowrap" height="22">
+    
+        <input type="hidden" name="wbtreeids" value="0">
+    </td><td><span id="intextspana200425a"></span><iframe id="intextframea200425a" src="about:blank" scrolling="no" frameborder="0" style="position:absolute;top:0px;left:0px;display:none;"></iframe><input size="18" name="INTEXT" class="querystyle200425">
+   </td>
+   <td align="absmiddle" nowrap="nowrap" height="1">
+   <input type="image" src="images/site-images/btn_search.png" valign="bottom" style="cursor: hand"></td>
+  </tr>
+  
+ </table>
+</form>
+<script>
+String.prototype.trim= function()       
+{              
+    var t = this.replace(/(^\s*)|(\s*$)/g, "");     
+    return t.replace(/(^　*)|(　*$)/g, "");     
+}
+ 
+function subsearchdataa200425a()
+{ 
+	
+	if(document.a200425a.INTEXT.value.trim()=="")
+	{
+		alert("请输入查询关键字！");
+		return false;
+	}
+	
+	
+    if(checkDataa200425a(document.a200425a))
+    {
+       return true;  
+    }
+    return false;
+}       
+</script>
+
+<script> 
+function checkDataa200425a(formname)
+{
+	if(formname.INTEXT.value.trim()=="")
+	{
+		alert("请输入查询关键字！");
+		return false;
+	}
+
+	var  base64 = new Base64();
+    if(window.toFF==1)
+        {
+            var ssvalue = formname.INTEXT.value;
+            formname.INTEXT2.value = Simplized(ssvalue);
+            formname.INTEXT2.value = base64.encode(formname.INTEXT2.value);
+        }else
+        formname.INTEXT2.value = formname.INTEXT.value;
+        formname.INTEXT2.value = base64.encode(formname.INTEXT2.value);
+       return true;
+}
+</script>
+<!--#endeditable--></div>
+        </div>
+    </div>
+    <div class="c2-ly-menu c2-ly-pane-all">
+        <div class="menu-main"><div class="menu-top"><!--#begineditable name="网站导航" action="webber.wbst.com.nav.MenuAction" layout="/system/_component/sitenav/tplvnav.jsp" tpltype="1" contype="" clone="" viewid="166936" contentviewid="" tagname="网站导航"--><ul>
+<li><a href="index.htm" title="首页" target="_blank" class="ico-home">首页</a></li>
+<li><a href="jgsz.htm" title="机构设置" target="_blank" class="ico-home">机构设置</a></li>
+<li><a href="kypt.htm" title="科研平台" target="_blank" class="ico-home">科研平台</a></li>
+<li><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1013" title="服务指南" target="_blank" class="ico-home">服务指南</a></li>
+<li><a href="keyanz.htm" title="科研政策" target="_blank" class="ico-home">科研政策</a></li>
+<li><a href="cgtj.htm" title="成果推介" target="_blank" class="ico-home">成果推介</a></li>
+<li><a href="zhishichanquan.htm" title="知识产权" target="_blank" class="ico-home">知识产权</a></li>
+<li><a href="zlxz.htm" title="资料下载" target="_blank" class="ico-home">资料下载</a></li>
+<li><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1033" title="常见问题解答" target="_blank" class="ico-home">常见问题解答</a></li>
+<li><a href="http://gldz.chinajournal.net.cn/" title="学报" target="_blank" class="ico-home">学报</a></li>
+</ul><!--#endeditable--></div></div>
+    </div>
+    <!--banner end-->
+    <!--body-->
+    <div class="c2-ly-body mt10">
+        <!--pane1-->
+        <div class="c2-ly-pane-all f-cb">
+            <div class="model750">
+                <div class="f-cb">
+                    <div class="focus"><!--#begineditable name="幻灯片" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/tplimagenews.jsp" tpltype="1" contype="news" clone="" viewid="200419" contentviewid="" tagname="幻灯片"--><script language="javascript" src="/system/resource/js/dynclicks.js"></script><script language="javascript" src="/system/resource/js/jquery/jquery-latest.min.js"></script><div id="index-slider" class="say-slide">
+      <img src="/__local/D/B7/D2/4097CA9980C9E21724F7A325BAA_B0722600_165BA.jpg" alt="我校参加第二十七届广西科技活动周圆满成功" data-href="info/1078/1162.htm" />
+      <img src="/__local/9/5A/52/76DEA2308F1E47AFCB86F4537CA_FD81DF25_61DA6.jpg" alt="2017年广西创新驱动（科技重大专项）项目推进会在我校召开" data-href="info/1076/1667.htm" />
+      <img src="/__local/8/9F/A1/E082C427B0E68A006AF551C58DA_6D1D1673_4FE62.jpg" alt="我校承办2017年广西高校科技服务北海新发展活动（图）" data-href="info/1076/1669.htm" />
+      <img src="/__local/C/3C/83/738DCF731F2DBC1E80A40BA4B94_91FD3827_24849.jpg" alt="习近平：加快建立军民融合创新体系 为我军建设提供强大科技支撑" data-href="info/1076/1665.htm" />
+</div>
+<script src="script/jquery.saySlide.2.0.js"></script>
+<script>
+$(function () {
+  $("#index-slider").saySlide({ autodir: 'RL', isTitle: true, autoTime: parseInt('3000') });
+ });
+</script><script>_showDynClickBatch(['dynclicks_u2_1162','dynclicks_u2_1667','dynclicks_u2_1669','dynclicks_u2_1665'],[1162,1667,1669,1665],"wbnews", 1423494659)</script>
+<!--#endeditable--></div>
+                </div>
+            </div>
+            <div class="side240">
+                <div class="well-b">
+                    <div class="head-b">
+                        <div class="text">通知公告</div>
+                        <div class="more">
+                            <a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1078" target="_blank" title="更多信息"><img src="images/site-images/more.png" /></a>
+                        </div>
+                    </div>
+                    <div class="list-b" style="min-height: 210px;"><!--#begineditable name="标题列表1" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/tpltitlelist.jsp" tpltype="1" contype="news" clone="" viewid="166940" contentviewid="" tagname="标题列表1"--><ul>
+<li>
+<a href="info/1078/1951.htm" target="_blank" title="关于“单光子探测芯片及其系统”成果转化项目的公示">关于“单光子探测芯片及其系统”成果转化项目的公示</a>
+<span class="date">04-04</span>
+</li>
+<li>
+<a href="info/1078/1983.htm" target="_blank" title="转发《关于2020中国电子学会科学技术奖推荐工作的通...">转发《关于2020中国电子学会科学技术奖推荐工作的通...</a>
+<span class="date">04-20</span>
+</li>
+<li>
+<a href="info/1078/1972.htm" target="_blank" title="关于授权专利、软件著作权对外推广信息收集的通知">关于授权专利、软件著作权对外推广信息收集的通知</a>
+<span class="date">04-17</span>
+</li>
+<li>
+<a href="info/1078/1971.htm" target="_blank" title="关于对我校参与提名2020年度广西科学技术奖项目公示...">关于对我校参与提名2020年度广西科学技术奖项目公示...</a>
+<span class="date">04-16</span>
+</li>
+<li>
+<a href="info/1078/1962.htm" target="_blank" title="关于参加“2020年广西科学技术奖《提名书》撰写思路...">关于参加“2020年广西科学技术奖《提名书》撰写思路...</a>
+<span class="date">04-13</span>
+</li>
+<li>
+<a href="info/1078/1958.htm" target="_blank" title="关于进一步做好2020年度广西科学技术奖提名工作的通...">关于进一步做好2020年度广西科学技术奖提名工作的通...</a>
+<span class="date">04-10</span>
+</li>
+<li>
+<a href="info/1078/1956.htm" target="_blank" title="桂林电子科技大学推选第二届广西创新争先奖（含杰出...">桂林电子科技大学推选第二届广西创新争先奖（含杰出...</a>
+<span class="date">04-10</span>
+</li>
+<li>
+<a href="info/1078/1953.htm" target="_blank" title="关于开展推荐2020年广西“最美科技工作者”学习宣传...">关于开展推荐2020年广西“最美科技工作者”学习宣传...</a>
+<span class="date">04-09</span>
+</li>
+</ul><script>_showDynClickBatch(['dynclicks_u3_1951','dynclicks_u3_1983','dynclicks_u3_1972','dynclicks_u3_1971','dynclicks_u3_1962','dynclicks_u3_1958','dynclicks_u3_1956','dynclicks_u3_1953'],[1951,1983,1972,1971,1962,1958,1956,1953],"wbnews", 1423494659)</script>
+<!--#endeditable-->
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--pane1 end-->
+        <!--adv 0004-->
+
+        <!--pane2-->
+        <div class="c2-ly-pane-all  mt10">
+            <div class="side200">
+                <div class="well-b">
+                    <div class="head-b">
+                        <div class="text ">
+                            <a href="#" target="_blank" title="更多信息">服务指南</a>
+                        </div>
+                    </div>
+                    <div class="list-a" style="min-height: 145px;">
+                        <span class="moreguide"> <a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1013" target="_blank" title="更多信息"><img src="images/site-images/more.png" /></a>
+                        </span>
+                        <!--#begineditable name="服务指南" action="" layout="" tpltype="" contype="" clone="" viewid="166945" contentviewid="" tagname="服务指南"--><ul>
+<li>
+<a href="info/1013/1341.htm" target="_blank" title="科技处处章流程图">科技处处章流程图</a>
+<span class="date"></span>
+</li>
+<li>
+<a href="info/1013/1340.htm" target="_blank" title="横向科研合同审批流程图">横向科研合同审批流程图</a>
+<span class="date"></span>
+</li>
+<li>
+<a href="info/1013/1339.htm" target="_blank" title="国家社科基金项目申报流程图">国家社科基金项目申报流程图</a>
+<span class="date"></span>
+</li>
+<li>
+<a href="info/1013/1338.htm" target="_blank" title="专著出版基金流程图">专著出版基金流程图</a>
+<span class="date"></span>
+</li>
+<li>
+<a href="info/1013/1337.htm" target="_blank" title="科研经费下拨流程图">科研经费下拨流程图</a>
+<span class="date"></span>
+</li>
+</ul><script>_showDynClickBatch(['dynclicks_u4_1341','dynclicks_u4_1340','dynclicks_u4_1339','dynclicks_u4_1338','dynclicks_u4_1337'],[1341,1340,1339,1338,1337],"wbnews", 1423494659)</script>
+<!--#endeditable-->
+                    </div>
+                </div>
+                <div class="well-b mt10">
+                    <div class="head-b downcolor">
+                        <div class="text downtext"><a href="">文件下载</a></div>
+                    </div>
+                    <div class="list-a" style="min-height: 150px;">
+                        <span class="moredown"> <a href="Home/Channel?code=00080007" target="_blank" title="更多信息"><img src="images/site-images/more.png" /></a>
+                        </span>
+                        <!--#begineditable name="文件下载" action="" layout="" tpltype="" contype="" clone="" viewid="167291" contentviewid="" tagname="文件下载"--><ul>
+<li>
+<a href="info/1028/1815.htm" target="_blank" title="关于军工资质的使用管理办法">关于军工资质的使用管理办法</a>
+<span class="date"></span>
+</li>
+<li>
+<a href="info/1028/1776.htm" target="_blank" title="校科研启动费申请书（理工类）">校科研启动费申请书（理工类）</a>
+<span class="date"></span>
+</li>
+<li>
+<a href="info/1028/1826.htm" target="_blank" title="横向科研项目业务接待审批表">横向科研项目业务接待审批表</a>
+<span class="date"></span>
+</li>
+<li>
+<a href="info/1028/1821.htm" target="_blank" title="国防经费预算表">国防经费预算表</a>
+<span class="date"></span>
+</li>
+<li>
+<a href="info/1028/1814.htm" target="_blank" title="2018社科纵向经费预算">2018社科纵向经费预算</a>
+<span class="date"></span>
+</li>
+<li>
+<a href="info/1028/1812.htm" target="_blank" title="横向项目预算明细表">横向项目预算明细表</a>
+<span class="date"></span>
+</li>
+<li>
+<a href="info/1028/1791.htm" target="_blank" title="桂林电子科技大学合同审批...">桂林电子科技大学合同审批...</a>
+<span class="date"></span>
+</li>
+<li>
+<a href="info/1028/1734.htm" target="_blank" title="广西自然科学基金项目资助...">广西自然科学基金项目资助...</a>
+<span class="date"></span>
+</li>
+</ul><script>_showDynClickBatch(['dynclicks_u5_1815','dynclicks_u5_1776','dynclicks_u5_1826','dynclicks_u5_1821','dynclicks_u5_1814','dynclicks_u5_1812','dynclicks_u5_1791','dynclicks_u5_1734'],[1815,1776,1826,1821,1814,1812,1791,1734],"wbnews", 1423494659)</script>
+<!--#endeditable-->
+                    </div>
+                </div>
+                <div class="well-b mt10">
+                    <div class="head-b">
+                        <div class="text ">科研管理系统登陆</div>
+                    </div>
+                    <div class="loginlink" style="min-height:85px;">
+                        <ul>
+                            <li><img src="images/site-images/login_expert.gif" /></li>
+                            <li><img src="images/site-images/login-common.gif" /></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <div class="tab">
+                <div class="contenttop">
+                    <div class="contenttop-left">
+                        <div class="tsa">
+                            <div class="titOpa" id="titOpa">
+                                <ul>
+                                    <li class="currenta">科技动态</li>
+                                    <li>政策法规</li>
+                                </ul>
+                            </div>
+                            <div class="list-c" id="list-c">
+                                <div class="tsMba" id="tsMba">
+                                    <div class="list-wrap">
+                                        <span class="morelink"><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1076" target="_blank" title="更多信息"><img src="images/site-images/more.png" /></a></span>
+                                        <div><!--#begineditable name="科技动态" action="" layout="" tpltype="" contype="" clone="" viewid="200391" contentviewid="" tagname="科技动态"--><ul>
+<li>
+<a href="info/1076/1845.htm" target="_blank" title="我院组织2019年度广西科学技术奖行业复评预答辩会">我院组织2019年度广西科学技术奖行业复评预答辩会</a>
+<span class="date">10/15</span>
+</li>
+<li>
+<a href="info/1076/1833.htm" target="_blank" title="科技党支部同唱《我和我的祖国》共祝新中国70周年...">科技党支部同唱《我和我的祖国》共祝新中国70周年...</a>
+<span class="date">09/30</span>
+</li>
+<li>
+<a href="info/1076/1831.htm" target="_blank" title="【不忘初心、牢记使命】科技党支部召开“不忘初心...">【不忘初心、牢记使命】科技党支部召开“不忘初心...</a>
+<span class="date">09/30</span>
+</li>
+<li>
+<a href="info/1076/1841.htm" target="_blank" title="我校举办科技奖励申报专题培训讲座">我校举办科技奖励申报专题培训讲座</a>
+<span class="date">09/25</span>
+</li>
+<li>
+<a href="info/1076/1822.htm" target="_blank" title="山东大学周向军教授来校辅导国家社科基金项目申报">山东大学周向军教授来校辅导国家社科基金项目申报</a>
+<span class="date">09/19</span>
+</li>
+<li>
+<a href="info/1076/1671.htm" target="_blank" title="欧阳缮副校长赴自治区发改委交流军民融合发展工作">欧阳缮副校长赴自治区发改委交流军民融合发展工作</a>
+<span class="date">04/12</span>
+</li>
+<li>
+<a href="info/1076/1670.htm" target="_blank" title="重大突破!学校首获国家级科技创新平台!">重大突破!学校首获国家级科技创新平台!</a>
+<span class="date">12/30</span>
+</li>
+</ul><script>_showDynClickBatch(['dynclicks_u6_1845','dynclicks_u6_1833','dynclicks_u6_1831','dynclicks_u6_1841','dynclicks_u6_1822','dynclicks_u6_1671','dynclicks_u6_1670'],[1845,1833,1831,1841,1822,1671,1670],"wbnews", 1423494659)</script>
+<!--#endeditable--></div> 
+                                    </div>
+                                    <div class="list-wrap">
+                                        <span class="morelink"> <a href="keyanz.htm" target="_blank" title="更多信息"><img src="images/site-images/more.png" /></a></span>
+                                        <div><!--#begineditable name="政策法规" action="" layout="" tpltype="" contype="" clone="" viewid="200392" contentviewid="" tagname="政策法规"--><ul>
+<li>
+<a href="info/1017/1852.htm" target="_blank" title="财政部关于进一步加大授权力度 促进科技成果转化的...">财政部关于进一步加大授权力度 促进科技成果转化的...</a>
+<span class="date">10/30</span>
+</li>
+<li>
+<a href="info/1016/1851.htm" target="_blank" title="科研政策制度汇编">科研政策制度汇编</a>
+<span class="date">10/30</span>
+</li>
+<li>
+<a href="info/1017/1848.htm" target="_blank" title="成果转化相关政策制度汇编">成果转化相关政策制度汇编</a>
+<span class="date">10/30</span>
+</li>
+<li>
+<a href="info/1019/1817.htm" target="_blank" title="《桂林电子科技大学横向科研项目管理办法（试行）...">《桂林电子科技大学横向科研项目管理办法（试行）...</a>
+<span class="date">09/11</span>
+</li>
+<li>
+<a href="info/1016/1801.htm" target="_blank" title="自治区科技厅关于印发《广西科技计划项目评审改革...">自治区科技厅关于印发《广西科技计划项目评审改革...</a>
+<span class="date">08/30</span>
+</li>
+<li>
+<a href="info/1017/1429.htm" target="_blank" title="国务院关于印发实施《中华人民共和国促进科技成果...">国务院关于印发实施《中华人民共和国促进科技成果...</a>
+<span class="date">03/01</span>
+</li>
+<li>
+<a href="info/1017/1428.htm" target="_blank" title="广西科学技术奖励办法实施细则">广西科学技术奖励办法实施细则</a>
+<span class="date">03/01</span>
+</li>
+</ul><script>_showDynClickBatch(['dynclicks_u7_1852','dynclicks_u7_1851','dynclicks_u7_1848','dynclicks_u7_1817','dynclicks_u7_1801','dynclicks_u7_1429','dynclicks_u7_1428'],[1852,1851,1848,1817,1801,1429,1428],"wbnews", 1423494659)</script>
+<!--#endeditable--></div> 
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="contenttop-right">
+                        <div class="ts">
+                            <div class="titOp" id="titOp">
+                                <ul>
+                                    <li class="current">综合计划</li>
+                                    <li>成果专利</li>
+                                </ul>
+                            </div>
+                            <div class="list-c" id="list-c">
+                                <div class="tsMb" id="tsMb">
+                                    <div class="list-wrap">
+                                        <span class="morelink"> <a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1077" target="_blank" title="更多信息"><img src="images/site-images/more.png" /></a>
+                                        </span>
+                                        <div><!--#begineditable name="综合计划" action="" layout="" tpltype="" contype="" clone="" viewid="200393" contentviewid="" tagname="综合计划"--><ul>
+<li>
+<a href="info/1077/1697.htm" target="_blank" title="国家社会科学基金项目 2018年度课题指南">国家社会科学基金项目 2018年度课题指南</a>
+<span class="date">01/18</span>
+</li>
+<li>
+<a href="info/1077/1698.htm" target="_blank" title="研究阐释党的十九大精神国家社会科学基金专项招标选题">研究阐释党的十九大精神国家社会科学基金专项招标选题</a>
+<span class="date">11/20</span>
+</li>
+<li>
+<a href="info/1077/1701.htm" target="_blank" title="2017年全国科学道德和学风建设宣讲会">2017年全国科学道德和学风建设宣讲会</a>
+<span class="date">11/17</span>
+</li>
+<li>
+<a href="info/1077/1696.htm" target="_blank" title="“十三五”规划相关文件">“十三五”规划相关文件</a>
+<span class="date">11/13</span>
+</li>
+<li>
+<a href="info/1077/1695.htm" target="_blank" title="广西各地市国民经济和社会发展第“十三五”规划">广西各地市国民经济和社会发展第“十三五”规划</a>
+<span class="date">11/03</span>
+</li>
+<li>
+<a href="info/1077/1694.htm" target="_blank" title="广西创新驱动发展专项（科技重大专项）指南">广西创新驱动发展专项（科技重大专项）指南</a>
+<span class="date">11/03</span>
+</li>
+<li>
+<a href="info/1077/1693.htm" target="_blank" title="国家重点研发计划等专项指南">国家重点研发计划等专项指南</a>
+<span class="date">11/02</span>
+</li>
+</ul><script>_showDynClickBatch(['dynclicks_u8_1697','dynclicks_u8_1698','dynclicks_u8_1701','dynclicks_u8_1696','dynclicks_u8_1695','dynclicks_u8_1694','dynclicks_u8_1693'],[1697,1698,1701,1696,1695,1694,1693],"wbnews", 1423494659)</script>
+<!--#endeditable--></div>
+                                    </div>
+                                    <div class="list-wrap">
+                                        <span class="morelink"> <a href="zhishichanquan.htm" target="_blank" title="更多信息"><img src="images/site-images/more.png" /></a>
+                                        </span>
+                                        <div><!--#begineditable name="成果专利" action="" layout="" tpltype="" contype="" clone="" viewid="200394" contentviewid="" tagname="成果专利"--><ul>
+<li>
+<a href="info/1026/1942.htm" target="_blank" title="关于“一种新型的清洁牙齿的方法和装置”成果转化...">关于“一种新型的清洁牙齿的方法和装置”成果转化...</a>
+<span class="date">03/18</span>
+</li>
+<li>
+<a href="info/1025/1820.htm" target="_blank" title="关于授权专利对外推广信息收集的通知">关于授权专利对外推广信息收集的通知</a>
+<span class="date">09/12</span>
+</li>
+<li>
+<a href="info/1026/1782.htm" target="_blank" title="关于缴纳2019年第3季度发明专利年费的通知">关于缴纳2019年第3季度发明专利年费的通知</a>
+<span class="date">06/25</span>
+</li>
+<li>
+<a href="info/1026/1713.htm" target="_blank" title="关于2018年桂林市第一批专利申请资助款认领的公示">关于2018年桂林市第一批专利申请资助款认领的公示</a>
+<span class="date">04/26</span>
+</li>
+<li>
+<a href="info/1026/1745.htm" target="_blank" title="关于“基于Modbus协议的数据并行加密通信方法和系...">关于“基于Modbus协议的数据并行加密通信方法和系...</a>
+<span class="date">05/25</span>
+</li>
+<li>
+<a href="info/1026/1743.htm" target="_blank" title="桂林电子科技大学专利软著信息变更审批表">桂林电子科技大学专利软著信息变更审批表</a>
+<span class="date">05/23</span>
+</li>
+<li>
+<a href="info/1025/1541.htm" target="_blank" title="专利证书入库公示（2018年度-2019年度）">专利证书入库公示（2018年度-2019年度）</a>
+<span class="date">03/04</span>
+</li>
+</ul><script>_showDynClickBatch(['dynclicks_u9_1942','dynclicks_u9_1820','dynclicks_u9_1782','dynclicks_u9_1713','dynclicks_u9_1745','dynclicks_u9_1743','dynclicks_u9_1541'],[1942,1820,1782,1713,1745,1743,1541],"wbnews", 1423494659)</script>
+<!--#endeditable--></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <script>
+        $(function() {
+            $("#tsMba .list-wrap:not(:first)").hide();
+            $("#titOpa li").each(function(index) {
+                $(this).mouseover(
+                    function() {
+                        $("#titOpa li.currenta").removeClass("currenta");
+                        $(this).addClass("currenta");
+                        $("#tsMba .list-wrap").eq(index).show().siblings(".list-wrap").hide();
+                    })
+            })
+        })
+        $(function() {
+            $("#tsMb .list-wrap:not(:first)").hide();
+            $("#titOp li").each(function(index) {
+                $(this).mouseover(
+                    function() {
+                        $("#titOp li.current").removeClass("current");
+                        $(this).addClass("current");
+                        $("#tsMb .list-wrap").eq(index).show().siblings(".list-wrap").hide();
+                    })
+            });
+        })
+    </script>  
+                </div>                
+                <div class="contentmid">
+                    <!--adv 0008-->
+                    <div class="mt10"><img src="images/site-images/hengfu_14_14.png" /></div>
+                    <!--pane8-->
+                </div>
+                <div class="contentfoot">
+                    <div class="">
+                        <div class="well-f f-cb area-link">
+
+                            <ul>
+                                <li>
+                                    <a href="http://www.moe.gov.cn/" title="武鸣县" target="_blank">
+                                        <img src="images/site-images/friendlink-1.gif" />
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="http://www.most.gov.cn/" title="武鸣县" target="_blank">
+                                        <img src="images/site-images/friendlink-2.gif" />
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="http://www.miit.gov.cn/" title="武鸣县" target="_blank">
+                                        <img src="images/site-images/friendlink-3.gif" />
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="http://kjt.gxzf.gov.cn" title="武鸣县" target="_blank">
+                                        <img src="images/site-images/friendlink-11.jpg" />
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="http://program.most.gov.cn/" title="武鸣县" target="_blank">
+                                        <img src="images/site-images/friendlink-5.gif" />
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="http://www.istcp.org.cn/" title="武鸣县" target="_blank">
+                                        <img src="images/site-images/friendlink-6.gif" />
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="http://www.nsfc.gov.cn/" title="武鸣县" target="_blank">
+                                        <img src="images/site-images/friendlink-12.gif" />
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="http://kjj.guilin.gov.cn/" title="武鸣县" target="_blank">
+                                        <img src="images/site-images/friendlink-8.gif" />
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="http://www.npopss-cn.gov.cn/" title="武鸣县" target="_blank">
+                                        <img src="images/site-images/001png.png" />
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="http://www.sinoss.net/" title="武鸣县" target="_blank">
+                                        <img src="images/site-images/002png.png" />
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="http://www.gxjczx.gov.cn/" title="武鸣县" target="_blank">
+                                        <img src="images/site-images/003png.png" />
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="http://www.mcprc.gov.cn/" title="武鸣县" target="_blank">
+                                        <img src="images/site-images/004png.png" />
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="http://www.gxpopss.com/" title="武鸣县" target="_blank">
+                                        <img src="images/site-images/005png.png" />
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="http://www.gxwht.gov.cn/" title="武鸣县" target="_blank">
+                                        <img src="images/site-images/006png.png" />
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="http://gldz.cbpt.cnki.net/WKD/WebPublication/index.aspx?mid=gldz" title="武鸣县" target="_blank">
+                                        <img src="images/site-images/007png.png" />
+                                    </a>
+                                </li>
+
+                            </ul>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--body end-->
+    <!--foot-->
+    <div class="c2-ly-footer">
+        <div class="c2-ly-pane-all footer mt10">
+            <div class="footer-copyright">
+                <p>
+                    版权所有：桂林电子科技大学 校址：中国广西桂林金鸡路1号 邮编：541004 传真：2191683
+                </p>
+                <p>
+                    备案号：桂ICP备 05000961 号 前置审批编号：桂JS201012-003 广西网警 网上备案广西网络安全信息网
+                </p>
+            </div>
+        </div>
+    </div>
+    <!--foot end--> 
+     
+</body>
+
+</html>

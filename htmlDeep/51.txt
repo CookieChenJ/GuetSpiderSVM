@@ -1,0 +1,1198 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html><head><title>基建资产-桂林电子科技大学信息公开网</title><META Name="keywords" Content="桂林电子科技大学信息公开网,基建资产" />
+
+
+
+
+
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type"><link rel="stylesheet" type="text/css" href="style/css.css">
+
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="list.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/vsbscreen.min.js" id="_vsbscreen" devices="pc|mobile|pad"></script>
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1087,'/list.jsp',-1,1409629465)</script>
+</head>
+<body>
+<table border="0" cellspacing="0" cellpadding="0" width="200" align="center">
+<tbody>
+<tr>
+<td height="4"></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" width="1000" align="center" background="images/logo.jpg" border="0">
+<tbody>
+<tr>
+<td height="195" valign="middle" style="padding-left: 60px"></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0" width="1000" background="images/index_03.gif" align="center">
+<tbody>
+<tr>
+<td height="35" align="center"><!--#begineditable name="网站导航" viewid="201082" tagname="网站导航" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><style type="text/css">
+td.b1_0_{FONT-SIZE:9pt;}
+td.b2_0_{FONT-SIZE:9pt;}
+td.b3_0_{FONT-SIZE:9pt;BACKGROUND-COLOR: #eff8fe;}
+td.b4_0_{FONT-SIZE:9pt;BACKGROUND-COLOR: #e8f0fb;}
+a.menu0_0_:link {TEXT-DECORATION: none;};
+a.menu0_0_:visited { TEXT-DECORATION: none;};
+a.menu0_0_:hover {TEXT-DECORATION: none;};
+a.menu0_0_:active {TEXT-DECORATION: none;};
+table.tb1_0_{FONT-SIZE:9pt;border:0;}
+span.s1_0_{COLOR: #ffff00;FONT-SIZE: 10pt;FONT-WEIGHT: bold;}
+span.s2_0_{FONT-SIZE: 9pt;COLOR: #cc0000;LINE-HEIGHT: 160%;}
+span.s10_0_{COLOR: #ffffff;FONT-SIZE: 10pt;FONT-WEIGHT: bold;TEXT-DECORATION: none;}
+span.s20_0_{FONT-SIZE: 9pt;COLOR: #222222;LINE-HEIGHT: 160%;}
+</style>
+<SCRIPT language="javascript"> 
+ var showfix_0_ = 1;
+ var isvertical_0_ = false;
+</SCRIPT>
+<script language="javascript" src="/system/resource/js/menu/text.js"></script>
+<TABLE id="t1_0_" cellSpacing="0" cellPadding="0" border="0" height="0" width="960"><TR><TD valign="center"></TD><TD valign="middle" height="0" width="0" nowrap class="b1_0_" align="center" id="a_0_1001" onmouseover="tshowLayers('1001','b2_0_', '_0_')" onmouseout="thideLayers('1001','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="index.htm"><span class="fontstyle201082">&nbsp;首页&nbsp;</span></a></TD><TD valign="center" class="leaderfont201082">|</TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1079" onmouseover="tshowLayers('1079','b2_0_', '_0_')" onmouseout="thideLayers('1079','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="xxgk.htm"><span class="fontstyle201082">&nbsp;学校概况&nbsp;</span></a></TD><TD valign="center" class="leaderfont201082">|</TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1080" onmouseover="tshowLayers('1080','b2_0_', '_0_')" onmouseout="thideLayers('1080','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="dwgk.htm"><span class="fontstyle201082">&nbsp;党务公开&nbsp;</span></a></TD><TD valign="center" class="leaderfont201082">|</TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1081" onmouseover="tshowLayers('1081','b2_0_', '_0_')" onmouseout="thideLayers('1081','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="mzzx.htm"><span class="fontstyle201082">&nbsp;民主治校&nbsp;</span></a></TD><TD valign="center" class="leaderfont201082">|</TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1082" onmouseover="tshowLayers('1082','b2_0_', '_0_')" onmouseout="thideLayers('1082','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="jxgl.htm"><span class="fontstyle201082">&nbsp;教学管理&nbsp;</span></a></TD><TD valign="center" class="leaderfont201082">|</TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1083" onmouseover="tshowLayers('1083','b2_0_', '_0_')" onmouseout="thideLayers('1083','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="kygl.htm"><span class="fontstyle201082">&nbsp;科研管理&nbsp;</span></a></TD><TD valign="center" class="leaderfont201082">|</TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1084" onmouseover="tshowLayers('1084','b2_0_', '_0_')" onmouseout="thideLayers('1084','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="xsgz.htm"><span class="fontstyle201082">&nbsp;学生工作&nbsp;</span></a></TD><TD valign="center" class="leaderfont201082">|</TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1085" onmouseover="tshowLayers('1085','b2_0_', '_0_')" onmouseout="thideLayers('1085','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="gbrs.htm"><span class="fontstyle201082">&nbsp;干部人事&nbsp;</span></a></TD><TD valign="center" class="leaderfont201082">|</TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1086" onmouseover="tshowLayers('1086','b2_0_', '_0_')" onmouseout="thideLayers('1086','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="cwgl.htm"><span class="fontstyle201082">&nbsp;财务管理&nbsp;</span></a></TD><TD valign="center" class="leaderfont201082">|</TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1087" onmouseover="tshowLayers('1087','b2_0_', '_0_')" onmouseout="thideLayers('1087','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="jjzc.htm"><span class="fontstyle201082">&nbsp;基建资产&nbsp;</span></a></TD><TD valign="center" class="leaderfont201082">|</TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1131" onmouseover="tshowLayers('1131','b2_0_', '_0_')" onmouseout="thideLayers('1131','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="http://mwb.guet.edu.cn/system/login.jsp" target="_blank"><span class="fontstyle201082">&nbsp;管理&nbsp;</span></a></TD></TR></TR></table><!--#endeditable--></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0" width="1000" background="images/index_07.gif" align="center">
+<tbody>
+<tr>
+<td width="27" align="left"><img src="images/index_05.gif" width="27" height="30"></td>
+<td width="473" align="left" style="padding-left: 30px"><!--#begineditable name="文本日历" viewid="201083" tagname="文本日历" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><script language="javascript" src="/system/resource/js/calendar/simple.js"></script>               
+<script language="JavaScript">
+//阳历
+var c_Calendar201083EnDateString;
+
+var c_Calendar201083WeekDayString;
+
+//阴历
+var c_Calendar201083CnDateString;
+//节气
+var c_Calendar201083JQString;
+//年
+var c_Calendar201083YearString;
+//月
+var c_Calendar201083MonthString;
+//日
+var c_Calendar201083DayString;
+//周
+var c_Calendar201083WeekString;
+function RunGLNL201083()
+{          
+    var  sc =new Simple_Calendar ();
+    sc.init();
+    c_Calendar201083CnDateString=sc.getCnDateString();
+    c_Calendar201083WeekDayString=sc.getCalendarWeekString();
+    c_Calendar201083JQString=sc.getJQString();
+    c_Calendar201083EnDateString=sc.getEnDateString();
+    c_Calendar201083YearString=sc.getYearString();
+    c_Calendar201083MonthString=sc.getMonthString();
+    c_Calendar201083DayString=sc.getDayString();
+    c_Calendar201083WeekString=sc.getWeekString();
+}
+RunGLNL201083();
+document.write('<div id="c_lunar201083"   class="fontstyle201083"  >');       
+document.write(c_Calendar201083EnDateString);
+document.write("&nbsp;&nbsp;"+c_Calendar201083WeekDayString);
+document.write("&nbsp;&nbsp;"+c_Calendar201083CnDateString);
+
+
+document.write("</div>");
+
+</script>
+<!--#endeditable--></td>
+<td width="474" align="right" style="padding-right: 30px"><!--#begineditable name="简单检索" viewid="201084" tagname="简单检索" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""-->
+
+
+
+
+
+
+<script language="javascript" src="/system/resource/js/base64.js"></script>
+<script language="javascript" src="/system/resource/js/formfunc.js"></script>
+<form action="search.jsp?wbtreeid=1087" method="post" name="a201084a" target="_blank" onsubmit="return subsearchdataa201084a()" style="display: inline;">
+ <input type="hidden" name="Find" value="find">
+ <input type="hidden" name="entrymode" value="1">
+ <input type="hidden" id="INTEXT2" name="INTEXT2" value="">
+ <input type="hidden" name="news_search_code">
+ <table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+   <td Valign="middle" nowrap="nowrap" height="22">
+    <font class="leaderfont201084">站内搜索：</font>
+    
+        <input type="hidden" name="wbtreeids" value="0">
+    </td><td><span id="intextspana201084a"></span><iframe id="intextframea201084a" src="about:blank" scrolling="no" frameborder="0" style="position:absolute;top:0px;left:0px;display:none;"></iframe><input size="22" name="INTEXT" class="querystyle201084">
+   </td>
+   <td align="absmiddle" nowrap="nowrap" height="1">
+   <input type="image" src="images/index_10.gif" valign="bottom" style="cursor: hand"></td>
+  </tr>
+  
+ </table>
+</form>
+<script>
+String.prototype.trim= function()       
+{              
+    var t = this.replace(/(^\s*)|(\s*$)/g, "");     
+    return t.replace(/(^　*)|(　*$)/g, "");     
+}
+ 
+function subsearchdataa201084a()
+{ 
+	
+	if(document.a201084a.INTEXT.value.trim()=="")
+	{
+		alert("请输入查询关键字！");
+		return false;
+	}
+	
+	
+    if(checkDataa201084a(document.a201084a))
+    {
+       return true;  
+    }
+    return false;
+}       
+</script>
+
+<script> 
+function checkDataa201084a(formname)
+{
+	if(formname.INTEXT.value.trim()=="")
+	{
+		alert("请输入查询关键字！");
+		return false;
+	}
+
+	var  base64 = new Base64();
+    if(window.toFF==1)
+        {
+            var ssvalue = formname.INTEXT.value;
+            formname.INTEXT2.value = Simplized(ssvalue);
+            formname.INTEXT2.value = base64.encode(formname.INTEXT2.value);
+        }else
+        formname.INTEXT2.value = formname.INTEXT.value;
+        formname.INTEXT2.value = base64.encode(formname.INTEXT2.value);
+       return true;
+}
+</script>
+<!--#endeditable--></td>
+<td width="26" align="right"><img src="images/index_08.gif" width="26" height="30"></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" width="1000" align="center" border="0">
+<tbody>
+<tr>
+<td height="10" bgcolor="#FFFFFF"></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0" width="1000" align="center" bgcolor="#FFFFFF">
+<tbody>
+<tr>
+  <td width="5">&nbsp;</td>
+<td bgcolor="#f0f0f0" height="273" valign="top" background="images/list_lfbg1.png" width="245" style="background-repeat: no-repeat;background-position: center bottom">
+<table border="0" cellspacing="0" cellpadding="0" width="220" background="images/title_1.gif" align="center">
+<tbody>
+<tr>
+<td height="32" width="26">&nbsp;</td>
+<td class="h4" width="165"><!--#begineditable name="一级名称" viewid="201126" tagname="一级名称" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--><span class="windowstyle201126">
+基建资产</span><!--#endeditable--></td>
+<td width="59">&nbsp;</td></tr></tbody></table>
+<table border="0" cellspacing="5" cellpadding="0" width="220" bgcolor="#f0f0f0" align="center" height="45">
+<tbody>
+<tr>
+<td valign="top" align="center">
+<table border="0" cellspacing="0" cellpadding="0" width="205">
+<tbody>
+<tr>
+<td height="5"></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0" width="190" background="images/leftdh_bg.gif">
+<tbody>
+<tr>
+<td height="34"><!--#begineditable name="网站二级导航" viewid="201099" tagname="网站二级导航" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--><style type="text/css">
+td.b1_4_{FONT-SIZE:9pt;BACKGROUND-IMAGE: url(images/leftdh_bg.gif);}
+td.b2_4_{FONT-SIZE:9pt;BACKGROUND-IMAGE: url(images/leftdh_bg.gif);}
+td.b3_4_{FONT-SIZE:9pt;BACKGROUND-COLOR: #eff8fe;}
+td.b4_4_{FONT-SIZE:9pt;BACKGROUND-COLOR: #e8f0fb;}
+a.menu0_4_:link {TEXT-DECORATION: none;};
+a.menu0_4_:visited { TEXT-DECORATION: none;};
+a.menu0_4_:hover {TEXT-DECORATION: none;};
+a.menu0_4_:active {TEXT-DECORATION: none;};
+table.tb1_4_{FONT-SIZE:9pt;border:0;}
+span.s1_4_{FONT-SIZE: 11pt;FONT-FAMILY: 宋体;COLOR: #ce5160;PADDING-LEFT: 25px;}
+span.s2_4_{FONT-SIZE: 9pt;COLOR: #cc0000;LINE-HEIGHT: 160%;}
+span.s10_4_{FONT-SIZE: 11pt;FONT-FAMILY: 宋体;COLOR: #222222;PADDING-LEFT: 25px;}
+span.s20_4_{FONT-SIZE: 9pt;COLOR: #222222;LINE-HEIGHT: 160%;}
+</style>
+<SCRIPT language="javascript"> 
+ var showfix_4_ = 1;
+ var isvertical_4_ = true;
+</SCRIPT>
+
+<TABLE id="t1_4_" cellSpacing="0" cellPadding="0" border="0" height="0" width="0"><TR><TD valign="middle" height="34" width="205" class="b1_4_" align="left" id="a_4_1127" onmouseover="tshowLayers('1127','b2_4_', '_4_')" onmouseout="thideLayers('1127','b1_4_', '_4_','true')"> <a class="menu0_4_" href="jjzc/jjxs.htm"><span class="fontstyle201099">&nbsp;基建修缮&nbsp;</span></a></TD></tr><TR><TD valign="middle" height="34" width="205" class="b1_4_" align="left" id="a_4_1128" onmouseover="tshowLayers('1128','b2_4_', '_4_')" onmouseout="thideLayers('1128','b1_4_', '_4_','true')"> <a class="menu0_4_" href="jjzc/jygl.htm"><span class="fontstyle201099">&nbsp;经营管理&nbsp;</span></a></TD></tr><TR><TD valign="middle" height="34" width="205" class="b1_4_" align="left" id="a_4_1129" onmouseover="tshowLayers('1129','b2_4_', '_4_')" onmouseout="thideLayers('1129','b1_4_', '_4_','true')"> <a class="menu0_4_" href="jjzc/fcgl.htm"><span class="fontstyle201099">&nbsp;房产管理&nbsp;</span></a></TD></tr><TR><TD valign="middle" height="34" width="205" class="b1_4_" align="left" id="a_4_1130" onmouseover="tshowLayers('1130','b2_4_', '_4_')" onmouseout="thideLayers('1130','b1_4_', '_4_','true')"> <a class="menu0_4_" href="jjzc/zccg.htm"><span class="fontstyle201099">&nbsp;资产采购&nbsp;</span></a></TD></tr></table><!--#endeditable--></td></tr></tbody></table></td></tr></tbody></table></td>
+<td width="5" align="center">&nbsp;</td>
+<td valign="top" width="740">
+<table border="0" cellspacing="0" cellpadding="0" width="740" background="images/title_2.gif" align="center">
+<tbody>
+<tr>
+<td height="32" width="33">&nbsp;</td>
+<td width="147" align="left"><!--#begineditable name="栏目名称" viewid="201100" tagname="栏目名称" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--><span class="windowstyle201100">
+基建资产</span><!--#endeditable--><span class="h5"></span></td>
+<td width="541" align="right">&nbsp;</td>
+<td width="19">&nbsp;</td></tr></tbody></table>
+<table border="0" cellspacing="10" cellpadding="0" width="740" align="center" style="border-bottom: #cccccc 1px solid;border-left: #cccccc 1px solid;border-top: #cccccc 1px solid;border-right: #cccccc 1px solid">
+<tbody>
+<tr>
+<td height="521" valign="top" align="left"><!--#begineditable name="静态翻页列表" viewid="201101" tagname="静态翻页列表" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""-->
+
+
+<style>                       
+A.f201101:link{COLOR: #222222;}                         
+A.f201101:visited{COLOR: #222222;}                         
+A.f201101:active{COLOR: #222222;}                         
+A.f201101:hover{COLOR: #cc0000;}                         
+</style>                                                        
+    <INPUT TYPE="hidden" NAME="actiontype" VALUE=""><input type="hidden" name="_scode_" value="1557387195597"><input type="hidden" name="urltype" value="tree.TreeTempUrl"><input type="hidden" name="wbtreeid" value="1087"><input type="hidden" name="outFlag" value="false">
+<style type="text/css">
+.headStyleaw019ws3tp, .headStyleaw019ws3tp td, .headStyleaw019ws3tp div {font-size: 12px;font-family:宋体; color: #000000; margin-left: auto; margin-right: auto; line-height:14px;}
+.defaultButtonStyle {font-size: 12px;font-family:宋体; height:20px;color: #000000;BORDER: #AFD5F5 1px solid; margin: 0px;padding: 0px; FILTER:progid:DXImageTransform.Microsoft.Gradient(GradientType=0,StartColorStr=#ffffff, EndColorStr=#BDDBF7);  CURSOR: pointer; line-height:14px;background:-webkit-gradient(linear, 0 0, 0 100%, from(#ffffff), to(#BDDBF7));background: -moz-linear-gradient( top,#ffffff,#BDDBF7);background:-ms-linear-gradient(top,#ffffff 0%,#bddbf7 100%);}
+.defaultinputStyle {font-size: 12px;font-family:宋体; height:20px; border:1px solid #AFD5F5; line-height:14px;}
+.colHeader {font-size: 12px;font-family:宋体; line-height:14px;}
+.headStyleaw019ws3tp a, .pageList .this-page {font-size: 12px;font-family:宋体; display:inline-block; height:14px; padding: 2px 4px; border: solid 1px #AFD5F5; background: #fff; text-decoration: none; MARGIN-RIGHT: 1px;line-height:14px;}
+.headStyleaw019ws3tp a:visited {font-size: 12px;font-family:宋体; color: #000000; text-decoration: none; line-height:14px;}
+.headStyleaw019ws3tp .PrevDisabled {font-size: 12px;font-family:宋体; display:inline-block;height:14px;  margin-right: 3px; padding: 2px 4px; background: #fff;color:#ccc;border: solid 1px #AFD5F5; line-height:14px;}
+.headStyleaw019ws3tp .SelectList {font-size: 12px;font-family:宋体;line-height:14px;}
+.headStyleaw019ws3tp .Prev { font-size: 12px;font-family:宋体; margin-right: 3px; padding: 2px 4px;line-height:14px;}
+.headStyleaw019ws3tp .break {font-size: 12px;font-family:宋体; border: none; text-decoration: none; line-height:14px;}
+.headStyleaw019ws3tp .NextDisabled { font-size: 12px;font-family:宋体;display:inline-block; height:14px; margin-left: 2px; padding: 2px 4px;background: #fff;color:#ccc;border: solid 1px #AFD5F5; line-height:14px;}
+.headStyleaw019ws3tp .Next { font-size: 12px;font-family:宋体; margin-left: 2px; padding: 2px 4px;line-height:14px;}
+.headStyleaw019ws3tp .this-page {font-size: 12px;font-family:宋体;display:inline-block;height:14px;padding: 2px 4px; border: solid 1px #AFD5F5; background: #E1F0FD; font-weight: bold; color:black; MARGIN-RIGHT: 1px;line-height:14px;}
+.headStyleaw019ws3tp a:hover {font-size: 12px;font-family:宋体;color: black; background: #EFF7FE; border-color: #AFD5F5; text-decoration: none;line-height:14px;}
+.headStyleaw019ws3tp a:link {font-size: 12px;font-family:宋体;color: #000000; text-decoration: none;line-height:14px;}
+.headStyleaw019ws3tp a:active { font-size: 12px;font-family:宋体;color: black; text-decoration: none; background: #EFF7FE; line-height:14px;}
+</style><script language="javascript" src="/system/resource/js/gotopage.js"></script><script type="text/javascript">function a201101_gopage_fun(){_simple_list_gotopage_fun(10,'a201101GOPAGE',2)}</script>                       
+    <table width="100%" class="winstyle201101">                            
+                            
+      <tr id="line201101_0" height="20">                         
+         <td width="1" nowrap><span class="leaderfont201101"><img src="images/index_58.gif" align="absmiddle" border="0"> </span></td>
+         <td width="100%" style="font-size:9pt">
+                                   
+            
+          <a class="c201101" href="info/1087/5164.htm" target="_blank" title="桂林电子科技大学 花江校区G道路以北运动场看台工程施工 招标公告">桂林电子科技大学 花江校区G道路以北运动场看台工程施工 招标公告                     
+            <span class="clickstyle201101">&nbsp;&nbsp;(点击：<span id="nu65164" name="nu65164"></span>)</span></a>
+		        
+        
+        </td>                            
+        <td width="1%" nowrap><span class="timestyle201101">2018/04/08&nbsp;</span></td>                            
+        <td width="1%" nowrap></td>                            
+      </tr>                       
+<tr id="lineimg201101_0" style="display:;"><td colspan="3" height="1" BACKGROUND="images/xhx.gif" style="padding:0px;"></td></tr>
+                            
+      <tr id="line201101_1" height="20">                         
+         <td width="1" nowrap><span class="leaderfont201101"><img src="images/index_58.gif" align="absmiddle" border="0"> </span></td>
+         <td width="100%" style="font-size:9pt">
+                                   
+            
+          <a class="c201101" href="info/1087/5161.htm" target="_blank" title="桂林电子科技大学 花江校区电力增容配电房工程施工 招标公告">桂林电子科技大学 花江校区电力增容配电房工程施工 招标公告                     
+            <span class="clickstyle201101">&nbsp;&nbsp;(点击：<span id="nu65161" name="nu65161"></span>)</span></a>
+		        
+        
+        </td>                            
+        <td width="1%" nowrap><span class="timestyle201101">2018/04/08&nbsp;</span></td>                            
+        <td width="1%" nowrap></td>                            
+      </tr>                       
+<tr id="lineimg201101_1" style="display:;"><td colspan="3" height="1" BACKGROUND="images/xhx.gif" style="padding:0px;"></td></tr>
+                            
+      <tr id="line201101_2" height="20">                         
+         <td width="1" nowrap><span class="leaderfont201101"><img src="images/index_58.gif" align="absmiddle" border="0"> </span></td>
+         <td width="100%" style="font-size:9pt">
+                                   
+            
+          <a class="c201101" href="info/1087/5160.htm" target="_blank" title="桂林电子科技大学 2018年4月至2019年4月1000万元以下工程项目招标代理候选单位招标 招标公告">桂林电子科技大学 2018年4月至2019年4月1000万元以下工程项目招标代理候选单位招标 招标公告                     
+            <span class="clickstyle201101">&nbsp;&nbsp;(点击：<span id="nu65160" name="nu65160"></span>)</span></a>
+		        
+        
+        </td>                            
+        <td width="1%" nowrap><span class="timestyle201101">2018/04/08&nbsp;</span></td>                            
+        <td width="1%" nowrap></td>                            
+      </tr>                       
+<tr id="lineimg201101_2" style="display:;"><td colspan="3" height="1" BACKGROUND="images/xhx.gif" style="padding:0px;"></td></tr>
+                            
+      <tr id="line201101_3" height="20">                         
+         <td width="1" nowrap><span class="leaderfont201101"><img src="images/index_58.gif" align="absmiddle" border="0"> </span></td>
+         <td width="100%" style="font-size:9pt">
+                                   
+            
+          <a class="c201101" href="info/1087/5157.htm" target="_blank" title="桂林电子科技大学北海校区校园布放饮料自动售货机招标公告">桂林电子科技大学北海校区校园布放饮料自动售货机招标公告                     
+            <span class="clickstyle201101">&nbsp;&nbsp;(点击：<span id="nu65157" name="nu65157"></span>)</span></a>
+		        
+        
+        </td>                            
+        <td width="1%" nowrap><span class="timestyle201101">2018/04/03&nbsp;</span></td>                            
+        <td width="1%" nowrap></td>                            
+      </tr>                       
+<tr id="lineimg201101_3" style="display:;"><td colspan="3" height="1" BACKGROUND="images/xhx.gif" style="padding:0px;"></td></tr>
+                            
+      <tr id="line201101_4" height="20">                         
+         <td width="1" nowrap><span class="leaderfont201101"><img src="images/index_58.gif" align="absmiddle" border="0"> </span></td>
+         <td width="100%" style="font-size:9pt">
+                                   
+            
+          <a class="c201101" href="info/1087/5156.htm" target="_blank" title="桂林电子科技大学 花江校区JX27、28教学实验楼结构大厅起重机采购 竞争性谈判公告">桂林电子科技大学 花江校区JX27、28教学实验楼结构大厅起重机采购 竞争性谈判公告                     
+            <span class="clickstyle201101">&nbsp;&nbsp;(点击：<span id="nu65156" name="nu65156"></span>)</span></a>
+		        
+        
+        </td>                            
+        <td width="1%" nowrap><span class="timestyle201101">2018/03/28&nbsp;</span></td>                            
+        <td width="1%" nowrap></td>                            
+      </tr>                       
+<tr id="lineimg201101_4" style="display:;"><td colspan="3" height="1" BACKGROUND="images/xhx.gif" style="padding:0px;"></td></tr>
+      <tr height="1" id="duannum201101_4">
+      <td colspan="3" align="center">
+      <hr style="border-style:none;border-color:#222222;width:100%;height:1px;border-width:1px 0px 0px 0px;visibility:hidden" /></td>
+      </tr>
+      
+                            
+      <tr id="line201101_5" height="20">                         
+         <td width="1" nowrap><span class="leaderfont201101"><img src="images/index_58.gif" align="absmiddle" border="0"> </span></td>
+         <td width="100%" style="font-size:9pt">
+                                   
+            
+          <a class="c201101" href="info/1087/5154.htm" target="_blank" title="桂林电子科技大学 花江校区JX27、28教学实验楼配电柜、箱采购 招 标 公 告">桂林电子科技大学 花江校区JX27、28教学实验楼配电柜、箱采购 招 标 公 告                     
+            <span class="clickstyle201101">&nbsp;&nbsp;(点击：<span id="nu65154" name="nu65154"></span>)</span></a>
+		        
+        
+        </td>                            
+        <td width="1%" nowrap><span class="timestyle201101">2018/03/26&nbsp;</span></td>                            
+        <td width="1%" nowrap></td>                            
+      </tr>                       
+<tr id="lineimg201101_5" style="display:;"><td colspan="3" height="1" BACKGROUND="images/xhx.gif" style="padding:0px;"></td></tr>
+                            
+      <tr id="line201101_6" height="20">                         
+         <td width="1" nowrap><span class="leaderfont201101"><img src="images/index_58.gif" align="absmiddle" border="0"> </span></td>
+         <td width="100%" style="font-size:9pt">
+                                   
+            
+          <a class="c201101" href="info/1087/5151.htm" target="_blank" title="桂林市桂电中学 金鸡岭校区冠群楼、18#女生宿舍局部改造工程 评标结果公示">桂林市桂电中学 金鸡岭校区冠群楼、18#女生宿舍局部改造工程 评标结果公示                     
+            <span class="clickstyle201101">&nbsp;&nbsp;(点击：<span id="nu65151" name="nu65151"></span>)</span></a>
+		        
+        
+        </td>                            
+        <td width="1%" nowrap><span class="timestyle201101">2018/03/26&nbsp;</span></td>                            
+        <td width="1%" nowrap></td>                            
+      </tr>                       
+<tr id="lineimg201101_6" style="display:;"><td colspan="3" height="1" BACKGROUND="images/xhx.gif" style="padding:0px;"></td></tr>
+                            
+      <tr id="line201101_7" height="20">                         
+         <td width="1" nowrap><span class="leaderfont201101"><img src="images/index_58.gif" align="absmiddle" border="0"> </span></td>
+         <td width="100%" style="font-size:9pt">
+                                   
+            
+          <a class="c201101" href="info/1087/5150.htm" target="_blank" title="桂林电子科技大学花江校区四创教育中心项目 施工招标公告">桂林电子科技大学花江校区四创教育中心项目 施工招标公告                     
+            <span class="clickstyle201101">&nbsp;&nbsp;(点击：<span id="nu65150" name="nu65150"></span>)</span></a>
+		        
+        
+        </td>                            
+        <td width="1%" nowrap><span class="timestyle201101">2018/03/26&nbsp;</span></td>                            
+        <td width="1%" nowrap></td>                            
+      </tr>                       
+<tr id="lineimg201101_7" style="display:;"><td colspan="3" height="1" BACKGROUND="images/xhx.gif" style="padding:0px;"></td></tr>
+                            
+      <tr id="line201101_8" height="20">                         
+         <td width="1" nowrap><span class="leaderfont201101"><img src="images/index_58.gif" align="absmiddle" border="0"> </span></td>
+         <td width="100%" style="font-size:9pt">
+                                   
+            
+          <a class="c201101" href="info/1087/5147.htm" target="_blank" title="桂林电子科技大学 花江校区31、32、33#留学生公寓室内改造工程 评标结果公示">桂林电子科技大学 花江校区31、32、33#留学生公寓室内改造工程 评标结果公示                     
+            <span class="clickstyle201101">&nbsp;&nbsp;(点击：<span id="nu65147" name="nu65147"></span>)</span></a>
+		        
+        
+        </td>                            
+        <td width="1%" nowrap><span class="timestyle201101">2018/03/20&nbsp;</span></td>                            
+        <td width="1%" nowrap></td>                            
+      </tr>                       
+<tr id="lineimg201101_8" style="display:;"><td colspan="3" height="1" BACKGROUND="images/xhx.gif" style="padding:0px;"></td></tr>
+                            
+      <tr id="line201101_9" height="20">                         
+         <td width="1" nowrap><span class="leaderfont201101"><img src="images/index_58.gif" align="absmiddle" border="0"> </span></td>
+         <td width="100%" style="font-size:9pt">
+                                   
+            
+          <a class="c201101" href="info/1087/5145.htm" target="_blank" title="桂林电子科技大学2018年至2019年工程项目可行性研究报告评估、初步设计评估候选单位 招标公告">桂林电子科技大学2018年至2019年工程项目可行性研究报告评估、初步设计评估候选单位 招标公告                     
+            <span class="clickstyle201101">&nbsp;&nbsp;(点击：<span id="nu65145" name="nu65145"></span>)</span></a>
+		        
+        
+        </td>                            
+        <td width="1%" nowrap><span class="timestyle201101">2018/03/20&nbsp;</span></td>                            
+        <td width="1%" nowrap></td>                            
+      </tr>                       
+<tr id="lineimg201101_9" style="display:;"><td colspan="3" height="1" BACKGROUND="images/xhx.gif" style="padding:0px;"></td></tr>
+      <tr height="1" id="duannum201101_9">
+      <td colspan="3" align="center">
+      <hr style="border-style:none;border-color:#222222;width:100%;height:1px;border-width:1px 0px 0px 0px;visibility:hidden" /></td>
+      </tr>
+      
+                            
+      <tr id="line201101_10" height="20">                         
+         <td width="1" nowrap><span class="leaderfont201101"><img src="images/index_58.gif" align="absmiddle" border="0"> </span></td>
+         <td width="100%" style="font-size:9pt">
+                                   
+            
+          <a class="c201101" href="info/1087/5183.htm" target="_blank" title="桂林电子科技大学 15#商住楼（危旧房改住房改造）及金鸡岭校区25#学生宿舍项目建设工程检测服务 评标结果公示">桂林电子科技大学 15#商住楼（危旧房改住房改造）及金鸡岭校区25#学生宿舍项目建设工程检测服务 评标结果公示                     
+            <span class="clickstyle201101">&nbsp;&nbsp;(点击：<span id="nu65183" name="nu65183"></span>)</span></a>
+		        
+        
+        </td>                            
+        <td width="1%" nowrap><span class="timestyle201101">2018/03/13&nbsp;</span></td>                            
+        <td width="1%" nowrap></td>                            
+      </tr>                       
+<tr id="lineimg201101_10" style="display:;"><td colspan="3" height="1" BACKGROUND="images/xhx.gif" style="padding:0px;"></td></tr>
+                            
+      <tr id="line201101_11" height="20">                         
+         <td width="1" nowrap><span class="leaderfont201101"><img src="images/index_58.gif" align="absmiddle" border="0"> </span></td>
+         <td width="100%" style="font-size:9pt">
+                                   
+            
+          <a class="c201101" href="info/1087/5181.htm" target="_blank" title="桂林电子科技大学 花江校区G道路以北篮排球场——硅Pu面层工程(重) 评标结果公示">桂林电子科技大学 花江校区G道路以北篮排球场——硅Pu面层工程(重) 评标结果公示                     
+            <span class="clickstyle201101">&nbsp;&nbsp;(点击：<span id="nu65181" name="nu65181"></span>)</span></a>
+		        
+        
+        </td>                            
+        <td width="1%" nowrap><span class="timestyle201101">2018/03/13&nbsp;</span></td>                            
+        <td width="1%" nowrap></td>                            
+      </tr>                       
+<tr id="lineimg201101_11" style="display:;"><td colspan="3" height="1" BACKGROUND="images/xhx.gif" style="padding:0px;"></td></tr>
+                            
+      <tr id="line201101_12" height="20">                         
+         <td width="1" nowrap><span class="leaderfont201101"><img src="images/index_58.gif" align="absmiddle" border="0"> </span></td>
+         <td width="100%" style="font-size:9pt">
+                                   
+            
+          <a class="c201101" href="info/1087/5179.htm" target="_blank" title="桂林电子科技大学花江校区四创教育中心项目施工招标公告">桂林电子科技大学花江校区四创教育中心项目施工招标公告                     
+            <span class="clickstyle201101">&nbsp;&nbsp;(点击：<span id="nu65179" name="nu65179"></span>)</span></a>
+		        
+        
+        </td>                            
+        <td width="1%" nowrap><span class="timestyle201101">2018/03/13&nbsp;</span></td>                            
+        <td width="1%" nowrap></td>                            
+      </tr>                       
+<tr id="lineimg201101_12" style="display:;"><td colspan="3" height="1" BACKGROUND="images/xhx.gif" style="padding:0px;"></td></tr>
+                            
+      <tr id="line201101_13" height="20">                         
+         <td width="1" nowrap><span class="leaderfont201101"><img src="images/index_58.gif" align="absmiddle" border="0"> </span></td>
+         <td width="100%" style="font-size:9pt">
+                                   
+            
+          <a class="c201101" href="info/1087/5177.htm" target="_blank" title="桂林市桂电中学金鸡岭校区冠群楼、18#女生宿舍局部改造工程施工招 标 公 告">桂林市桂电中学金鸡岭校区冠群楼、18#女生宿舍局部改造工程施工招 标 公 告                     
+            <span class="clickstyle201101">&nbsp;&nbsp;(点击：<span id="nu65177" name="nu65177"></span>)</span></a>
+		        
+        
+        </td>                            
+        <td width="1%" nowrap><span class="timestyle201101">2018/03/13&nbsp;</span></td>                            
+        <td width="1%" nowrap></td>                            
+      </tr>                       
+<tr id="lineimg201101_13" style="display:;"><td colspan="3" height="1" BACKGROUND="images/xhx.gif" style="padding:0px;"></td></tr>
+                            
+      <tr id="line201101_14" height="20">                         
+         <td width="1" nowrap><span class="leaderfont201101"><img src="images/index_58.gif" align="absmiddle" border="0"> </span></td>
+         <td width="100%" style="font-size:9pt">
+                                   
+            
+          <a class="c201101" href="info/1087/5175.htm" target="_blank" title="桂林电子科技大学 花江校区31、32、33#留学生公寓室内改造工程施工 招标公告">桂林电子科技大学 花江校区31、32、33#留学生公寓室内改造工程施工 招标公告                     
+            <span class="clickstyle201101">&nbsp;&nbsp;(点击：<span id="nu65175" name="nu65175"></span>)</span></a>
+		        
+        
+        </td>                            
+        <td width="1%" nowrap><span class="timestyle201101">2018/03/13&nbsp;</span></td>                            
+        <td width="1%" nowrap></td>                            
+      </tr>                       
+<tr id="lineimg201101_14" style="display:;"><td colspan="3" height="1" BACKGROUND="images/xhx.gif" style="padding:0px;"></td></tr>
+      <tr height="1" id="duannum201101_14">
+      <td colspan="3" align="center">
+      <hr style="border-style:none;border-color:#222222;width:100%;height:1px;border-width:1px 0px 0px 0px;visibility:hidden" /></td>
+      </tr>
+      
+                            
+      <tr id="line201101_15" height="20">                         
+         <td width="1" nowrap><span class="leaderfont201101"><img src="images/index_58.gif" align="absmiddle" border="0"> </span></td>
+         <td width="100%" style="font-size:9pt">
+                                   
+            
+          <a class="c201101" href="info/1087/5174.htm" target="_blank" title="桂林电子科技大学 15#商住楼（危旧房改住房改造）人防设备采购及安装工程 评标结果公示">桂林电子科技大学 15#商住楼（危旧房改住房改造）人防设备采购及安装工程 评标结果公示                     
+            <span class="clickstyle201101">&nbsp;&nbsp;(点击：<span id="nu65174" name="nu65174"></span>)</span></a>
+		        
+        
+        </td>                            
+        <td width="1%" nowrap><span class="timestyle201101">2018/01/09&nbsp;</span></td>                            
+        <td width="1%" nowrap></td>                            
+      </tr>                       
+<tr id="lineimg201101_15" style="display:;"><td colspan="3" height="1" BACKGROUND="images/xhx.gif" style="padding:0px;"></td></tr>
+                            
+      <tr id="line201101_16" height="20">                         
+         <td width="1" nowrap><span class="leaderfont201101"><img src="images/index_58.gif" align="absmiddle" border="0"> </span></td>
+         <td width="100%" style="font-size:9pt">
+                                   
+            
+          <a class="c201101" href="info/1087/5172.htm" target="_blank" title="桂林电子科技大学、桂林电子科技大学信息科技学院共同招标 花江校区G道路人工湖（北湖、南湖）及周边景观设计服务 重新招标公告">桂林电子科技大学、桂林电子科技大学信息科技学院共同招标 花江校区G道路人工湖（北湖、南湖）及周边景观设计服务 重新招标公告                     
+            <span class="clickstyle201101">&nbsp;&nbsp;(点击：<span id="nu65172" name="nu65172"></span>)</span></a>
+		        
+        
+        </td>                            
+        <td width="1%" nowrap><span class="timestyle201101">2018/01/09&nbsp;</span></td>                            
+        <td width="1%" nowrap></td>                            
+      </tr>                       
+<tr id="lineimg201101_16" style="display:;"><td colspan="3" height="1" BACKGROUND="images/xhx.gif" style="padding:0px;"></td></tr>
+                            
+      <tr id="line201101_17" height="20">                         
+         <td width="1" nowrap><span class="leaderfont201101"><img src="images/index_58.gif" align="absmiddle" border="0"> </span></td>
+         <td width="100%" style="font-size:9pt">
+                                   
+            
+          <a class="c201101" href="info/1087/5170.htm" target="_blank" title="花江校区四创教育中心工程监理服务招标公告">花江校区四创教育中心工程监理服务招标公告                     
+            <span class="clickstyle201101">&nbsp;&nbsp;(点击：<span id="nu65170" name="nu65170"></span>)</span></a>
+		        
+        
+        </td>                            
+        <td width="1%" nowrap><span class="timestyle201101">2018/01/04&nbsp;</span></td>                            
+        <td width="1%" nowrap></td>                            
+      </tr>                       
+<tr id="lineimg201101_17" style="display:;"><td colspan="3" height="1" BACKGROUND="images/xhx.gif" style="padding:0px;"></td></tr>
+                            
+      <tr id="line201101_18" height="20">                         
+         <td width="1" nowrap><span class="leaderfont201101"><img src="images/index_58.gif" align="absmiddle" border="0"> </span></td>
+         <td width="100%" style="font-size:9pt">
+                                   
+            
+          <a class="c201101" href="info/1087/5167.htm" target="_blank" title="桂林电子科技大学 花江校区JX27、28教学实验楼无机房乘客电梯 招 标 公 告">桂林电子科技大学 花江校区JX27、28教学实验楼无机房乘客电梯 招 标 公 告                     
+            <span class="clickstyle201101">&nbsp;&nbsp;(点击：<span id="nu65167" name="nu65167"></span>)</span></a>
+		        
+        
+        </td>                            
+        <td width="1%" nowrap><span class="timestyle201101">2017/12/28&nbsp;</span></td>                            
+        <td width="1%" nowrap></td>                            
+      </tr>                       
+<tr id="lineimg201101_18" style="display:;"><td colspan="3" height="1" BACKGROUND="images/xhx.gif" style="padding:0px;"></td></tr>
+                            
+      <tr id="line201101_19" height="20">                         
+         <td width="1" nowrap><span class="leaderfont201101"><img src="images/index_58.gif" align="absmiddle" border="0"> </span></td>
+         <td width="100%" style="font-size:9pt">
+                                   
+            
+          <a class="c201101" href="info/1087/5166.htm" target="_blank" title="桂林电子科技大学 花江校区体育馆设计方案 征集公告">桂林电子科技大学 花江校区体育馆设计方案 征集公告                     
+            <span class="clickstyle201101">&nbsp;&nbsp;(点击：<span id="nu65166" name="nu65166"></span>)</span></a>
+		        
+        
+        </td>                            
+        <td width="1%" nowrap><span class="timestyle201101">2017/12/26&nbsp;</span></td>                            
+        <td width="1%" nowrap></td>                            
+      </tr>                       
+<tr id="lineimg201101_19" style="display:;"><td colspan="3" height="1" BACKGROUND="images/xhx.gif" style="padding:0px;"></td></tr>
+<script language="javascript" src="/system/resource/js/ajax.js"></script><script language="javascript">_getBatchClickTimes('5164,5161,5160,5157,5156,5154,5151,5150,5147,5145,5183,5181,5179,5177,5175,5174,5172,5170,5167,5166',1409629465,'wbnews','u6')</script>
+
+		<tr><td colspan="3" align="left">                       
+            <table cellpadding="0" cellspacing="0" border="0">
+                <TR><td colspan="0"><table cellspacing="0" class="headStyleaw019ws3tp" width="100%" cellpadding="1"><tr valign="middle"><TD nowrap align="left" width="1%" id="fanye201101">共188条&nbsp;&nbsp;1/10&nbsp;</td><td nowrap align="left"><div><span class="PrevDisabled">首页</span><span class="PrevDisabled">上页</span><a href="jjzc/9.htm" class="Next">下页</a><a href="jjzc/1.htm" class="Next">尾页</a>&nbsp;&nbsp;<input align="absmiddle" type="button" class="defaultButtonStyle" id="gotopagebut" name="a201101Find" value="转到" onclick="javascript:a201101_gopage_fun()"><INPUT size="2" align="absmiddle" class="defaultInputStyle" NAME="a201101GOPAGE" id="a201101GOPAGE" VALUE="" style="margin-left:1px;margin-right:1px">页</div></td></tr></table>
+            </table>                       
+        </td></tr>                       
+    </table>                       
+<!--#endeditable--></td></tr></tbody></table></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" width="1000" align="center" border="0">
+  <tbody>
+<tr>
+<td height="10" bgcolor="#FFFFFF"></td></tr></tbody></table>
+
+<table border="0" cellspacing="0" cellpadding="0" width="1000" align="center">
+<tbody>
+<tr>
+<td height="80" align="center" bgcolor="#FFFFFF" class="heise12x" style="border-bottom: #cccccc 1px solid;border-left: #cccccc 1px solid;border-top: #cccccc 1px solid;border-right: #cccccc 1px solid"><!--#begineditable name="版权" viewid="201095" tagname="版权" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--><p><span style="font-size: 16px">桂林电子科技大学信息公开网</span></p><!--#endeditable--></td></tr></tbody></table>
+
+</body></html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html><head><title>基建资产-桂林电子科技大学信息公开网</title><META Name="keywords" Content="桂林电子科技大学信息公开网,基建资产" />
+
+
+
+
+
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type"><link rel="stylesheet" type="text/css" href="style/css.css">
+
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="list.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/vsbscreen.min.js" id="_vsbscreen" devices="pc|mobile|pad"></script>
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1087,'/list.jsp',-1,1409629465)</script>
+</head>
+<body>
+<table border="0" cellspacing="0" cellpadding="0" width="200" align="center">
+<tbody>
+<tr>
+<td height="4"></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" width="1000" align="center" background="images/logo.jpg" border="0">
+<tbody>
+<tr>
+<td height="195" valign="middle" style="padding-left: 60px"></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0" width="1000" background="images/index_03.gif" align="center">
+<tbody>
+<tr>
+<td height="35" align="center"><!--#begineditable name="网站导航" viewid="201082" tagname="网站导航" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><style type="text/css">
+td.b1_0_{FONT-SIZE:9pt;}
+td.b2_0_{FONT-SIZE:9pt;}
+td.b3_0_{FONT-SIZE:9pt;BACKGROUND-COLOR: #eff8fe;}
+td.b4_0_{FONT-SIZE:9pt;BACKGROUND-COLOR: #e8f0fb;}
+a.menu0_0_:link {TEXT-DECORATION: none;};
+a.menu0_0_:visited { TEXT-DECORATION: none;};
+a.menu0_0_:hover {TEXT-DECORATION: none;};
+a.menu0_0_:active {TEXT-DECORATION: none;};
+table.tb1_0_{FONT-SIZE:9pt;border:0;}
+span.s1_0_{COLOR: #ffff00;FONT-SIZE: 10pt;FONT-WEIGHT: bold;}
+span.s2_0_{FONT-SIZE: 9pt;COLOR: #cc0000;LINE-HEIGHT: 160%;}
+span.s10_0_{COLOR: #ffffff;FONT-SIZE: 10pt;FONT-WEIGHT: bold;TEXT-DECORATION: none;}
+span.s20_0_{FONT-SIZE: 9pt;COLOR: #222222;LINE-HEIGHT: 160%;}
+</style>
+<SCRIPT language="javascript"> 
+ var showfix_0_ = 1;
+ var isvertical_0_ = false;
+</SCRIPT>
+<script language="javascript" src="/system/resource/js/menu/text.js"></script>
+<TABLE id="t1_0_" cellSpacing="0" cellPadding="0" border="0" height="0" width="960"><TR><TD valign="center"></TD><TD valign="middle" height="0" width="0" nowrap class="b1_0_" align="center" id="a_0_1001" onmouseover="tshowLayers('1001','b2_0_', '_0_')" onmouseout="thideLayers('1001','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="index.htm"><span class="fontstyle201082">&nbsp;首页&nbsp;</span></a></TD><TD valign="center" class="leaderfont201082">|</TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1079" onmouseover="tshowLayers('1079','b2_0_', '_0_')" onmouseout="thideLayers('1079','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="xxgk.htm"><span class="fontstyle201082">&nbsp;学校概况&nbsp;</span></a></TD><TD valign="center" class="leaderfont201082">|</TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1080" onmouseover="tshowLayers('1080','b2_0_', '_0_')" onmouseout="thideLayers('1080','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="dwgk.htm"><span class="fontstyle201082">&nbsp;党务公开&nbsp;</span></a></TD><TD valign="center" class="leaderfont201082">|</TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1081" onmouseover="tshowLayers('1081','b2_0_', '_0_')" onmouseout="thideLayers('1081','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="mzzx.htm"><span class="fontstyle201082">&nbsp;民主治校&nbsp;</span></a></TD><TD valign="center" class="leaderfont201082">|</TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1082" onmouseover="tshowLayers('1082','b2_0_', '_0_')" onmouseout="thideLayers('1082','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="jxgl.htm"><span class="fontstyle201082">&nbsp;教学管理&nbsp;</span></a></TD><TD valign="center" class="leaderfont201082">|</TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1083" onmouseover="tshowLayers('1083','b2_0_', '_0_')" onmouseout="thideLayers('1083','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="kygl.htm"><span class="fontstyle201082">&nbsp;科研管理&nbsp;</span></a></TD><TD valign="center" class="leaderfont201082">|</TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1084" onmouseover="tshowLayers('1084','b2_0_', '_0_')" onmouseout="thideLayers('1084','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="xsgz.htm"><span class="fontstyle201082">&nbsp;学生工作&nbsp;</span></a></TD><TD valign="center" class="leaderfont201082">|</TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1085" onmouseover="tshowLayers('1085','b2_0_', '_0_')" onmouseout="thideLayers('1085','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="gbrs.htm"><span class="fontstyle201082">&nbsp;干部人事&nbsp;</span></a></TD><TD valign="center" class="leaderfont201082">|</TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1086" onmouseover="tshowLayers('1086','b2_0_', '_0_')" onmouseout="thideLayers('1086','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="cwgl.htm"><span class="fontstyle201082">&nbsp;财务管理&nbsp;</span></a></TD><TD valign="center" class="leaderfont201082">|</TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1087" onmouseover="tshowLayers('1087','b2_0_', '_0_')" onmouseout="thideLayers('1087','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="jjzc.htm"><span class="fontstyle201082">&nbsp;基建资产&nbsp;</span></a></TD><TD valign="center" class="leaderfont201082">|</TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1131" onmouseover="tshowLayers('1131','b2_0_', '_0_')" onmouseout="thideLayers('1131','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="http://mwb.guet.edu.cn/system/login.jsp" target="_blank"><span class="fontstyle201082">&nbsp;管理&nbsp;</span></a></TD></TR></TR></table><!--#endeditable--></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0" width="1000" background="images/index_07.gif" align="center">
+<tbody>
+<tr>
+<td width="27" align="left"><img src="images/index_05.gif" width="27" height="30"></td>
+<td width="473" align="left" style="padding-left: 30px"><!--#begineditable name="文本日历" viewid="201083" tagname="文本日历" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><script language="javascript" src="/system/resource/js/calendar/simple.js"></script>               
+<script language="JavaScript">
+//阳历
+var c_Calendar201083EnDateString;
+
+var c_Calendar201083WeekDayString;
+
+//阴历
+var c_Calendar201083CnDateString;
+//节气
+var c_Calendar201083JQString;
+//年
+var c_Calendar201083YearString;
+//月
+var c_Calendar201083MonthString;
+//日
+var c_Calendar201083DayString;
+//周
+var c_Calendar201083WeekString;
+function RunGLNL201083()
+{          
+    var  sc =new Simple_Calendar ();
+    sc.init();
+    c_Calendar201083CnDateString=sc.getCnDateString();
+    c_Calendar201083WeekDayString=sc.getCalendarWeekString();
+    c_Calendar201083JQString=sc.getJQString();
+    c_Calendar201083EnDateString=sc.getEnDateString();
+    c_Calendar201083YearString=sc.getYearString();
+    c_Calendar201083MonthString=sc.getMonthString();
+    c_Calendar201083DayString=sc.getDayString();
+    c_Calendar201083WeekString=sc.getWeekString();
+}
+RunGLNL201083();
+document.write('<div id="c_lunar201083"   class="fontstyle201083"  >');       
+document.write(c_Calendar201083EnDateString);
+document.write("&nbsp;&nbsp;"+c_Calendar201083WeekDayString);
+document.write("&nbsp;&nbsp;"+c_Calendar201083CnDateString);
+
+
+document.write("</div>");
+
+</script>
+<!--#endeditable--></td>
+<td width="474" align="right" style="padding-right: 30px"><!--#begineditable name="简单检索" viewid="201084" tagname="简单检索" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""-->
+
+
+
+
+
+
+<script language="javascript" src="/system/resource/js/base64.js"></script>
+<script language="javascript" src="/system/resource/js/formfunc.js"></script>
+<form action="search.jsp?wbtreeid=1087" method="post" name="a201084a" target="_blank" onsubmit="return subsearchdataa201084a()" style="display: inline;">
+ <input type="hidden" name="Find" value="find">
+ <input type="hidden" name="entrymode" value="1">
+ <input type="hidden" id="INTEXT2" name="INTEXT2" value="">
+ <input type="hidden" name="news_search_code">
+ <table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+   <td Valign="middle" nowrap="nowrap" height="22">
+    <font class="leaderfont201084">站内搜索：</font>
+    
+        <input type="hidden" name="wbtreeids" value="0">
+    </td><td><span id="intextspana201084a"></span><iframe id="intextframea201084a" src="about:blank" scrolling="no" frameborder="0" style="position:absolute;top:0px;left:0px;display:none;"></iframe><input size="22" name="INTEXT" class="querystyle201084">
+   </td>
+   <td align="absmiddle" nowrap="nowrap" height="1">
+   <input type="image" src="images/index_10.gif" valign="bottom" style="cursor: hand"></td>
+  </tr>
+  
+ </table>
+</form>
+<script>
+String.prototype.trim= function()       
+{              
+    var t = this.replace(/(^\s*)|(\s*$)/g, "");     
+    return t.replace(/(^　*)|(　*$)/g, "");     
+}
+ 
+function subsearchdataa201084a()
+{ 
+	
+	if(document.a201084a.INTEXT.value.trim()=="")
+	{
+		alert("请输入查询关键字！");
+		return false;
+	}
+	
+	
+    if(checkDataa201084a(document.a201084a))
+    {
+       return true;  
+    }
+    return false;
+}       
+</script>
+
+<script> 
+function checkDataa201084a(formname)
+{
+	if(formname.INTEXT.value.trim()=="")
+	{
+		alert("请输入查询关键字！");
+		return false;
+	}
+
+	var  base64 = new Base64();
+    if(window.toFF==1)
+        {
+            var ssvalue = formname.INTEXT.value;
+            formname.INTEXT2.value = Simplized(ssvalue);
+            formname.INTEXT2.value = base64.encode(formname.INTEXT2.value);
+        }else
+        formname.INTEXT2.value = formname.INTEXT.value;
+        formname.INTEXT2.value = base64.encode(formname.INTEXT2.value);
+       return true;
+}
+</script>
+<!--#endeditable--></td>
+<td width="26" align="right"><img src="images/index_08.gif" width="26" height="30"></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" width="1000" align="center" border="0">
+<tbody>
+<tr>
+<td height="10" bgcolor="#FFFFFF"></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0" width="1000" align="center" bgcolor="#FFFFFF">
+<tbody>
+<tr>
+  <td width="5">&nbsp;</td>
+<td bgcolor="#f0f0f0" height="273" valign="top" background="images/list_lfbg1.png" width="245" style="background-repeat: no-repeat;background-position: center bottom">
+<table border="0" cellspacing="0" cellpadding="0" width="220" background="images/title_1.gif" align="center">
+<tbody>
+<tr>
+<td height="32" width="26">&nbsp;</td>
+<td class="h4" width="165"><!--#begineditable name="一级名称" viewid="201126" tagname="一级名称" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--><span class="windowstyle201126">
+基建资产</span><!--#endeditable--></td>
+<td width="59">&nbsp;</td></tr></tbody></table>
+<table border="0" cellspacing="5" cellpadding="0" width="220" bgcolor="#f0f0f0" align="center" height="45">
+<tbody>
+<tr>
+<td valign="top" align="center">
+<table border="0" cellspacing="0" cellpadding="0" width="205">
+<tbody>
+<tr>
+<td height="5"></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0" width="190" background="images/leftdh_bg.gif">
+<tbody>
+<tr>
+<td height="34"><!--#begineditable name="网站二级导航" viewid="201099" tagname="网站二级导航" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--><style type="text/css">
+td.b1_4_{FONT-SIZE:9pt;BACKGROUND-IMAGE: url(images/leftdh_bg.gif);}
+td.b2_4_{FONT-SIZE:9pt;BACKGROUND-IMAGE: url(images/leftdh_bg.gif);}
+td.b3_4_{FONT-SIZE:9pt;BACKGROUND-COLOR: #eff8fe;}
+td.b4_4_{FONT-SIZE:9pt;BACKGROUND-COLOR: #e8f0fb;}
+a.menu0_4_:link {TEXT-DECORATION: none;};
+a.menu0_4_:visited { TEXT-DECORATION: none;};
+a.menu0_4_:hover {TEXT-DECORATION: none;};
+a.menu0_4_:active {TEXT-DECORATION: none;};
+table.tb1_4_{FONT-SIZE:9pt;border:0;}
+span.s1_4_{FONT-SIZE: 11pt;FONT-FAMILY: 宋体;COLOR: #ce5160;PADDING-LEFT: 25px;}
+span.s2_4_{FONT-SIZE: 9pt;COLOR: #cc0000;LINE-HEIGHT: 160%;}
+span.s10_4_{FONT-SIZE: 11pt;FONT-FAMILY: 宋体;COLOR: #222222;PADDING-LEFT: 25px;}
+span.s20_4_{FONT-SIZE: 9pt;COLOR: #222222;LINE-HEIGHT: 160%;}
+</style>
+<SCRIPT language="javascript"> 
+ var showfix_4_ = 1;
+ var isvertical_4_ = true;
+</SCRIPT>
+
+<TABLE id="t1_4_" cellSpacing="0" cellPadding="0" border="0" height="0" width="0"><TR><TD valign="middle" height="34" width="205" class="b1_4_" align="left" id="a_4_1127" onmouseover="tshowLayers('1127','b2_4_', '_4_')" onmouseout="thideLayers('1127','b1_4_', '_4_','true')"> <a class="menu0_4_" href="jjzc/jjxs.htm"><span class="fontstyle201099">&nbsp;基建修缮&nbsp;</span></a></TD></tr><TR><TD valign="middle" height="34" width="205" class="b1_4_" align="left" id="a_4_1128" onmouseover="tshowLayers('1128','b2_4_', '_4_')" onmouseout="thideLayers('1128','b1_4_', '_4_','true')"> <a class="menu0_4_" href="jjzc/jygl.htm"><span class="fontstyle201099">&nbsp;经营管理&nbsp;</span></a></TD></tr><TR><TD valign="middle" height="34" width="205" class="b1_4_" align="left" id="a_4_1129" onmouseover="tshowLayers('1129','b2_4_', '_4_')" onmouseout="thideLayers('1129','b1_4_', '_4_','true')"> <a class="menu0_4_" href="jjzc/fcgl.htm"><span class="fontstyle201099">&nbsp;房产管理&nbsp;</span></a></TD></tr><TR><TD valign="middle" height="34" width="205" class="b1_4_" align="left" id="a_4_1130" onmouseover="tshowLayers('1130','b2_4_', '_4_')" onmouseout="thideLayers('1130','b1_4_', '_4_','true')"> <a class="menu0_4_" href="jjzc/zccg.htm"><span class="fontstyle201099">&nbsp;资产采购&nbsp;</span></a></TD></tr></table><!--#endeditable--></td></tr></tbody></table></td></tr></tbody></table></td>
+<td width="5" align="center">&nbsp;</td>
+<td valign="top" width="740">
+<table border="0" cellspacing="0" cellpadding="0" width="740" background="images/title_2.gif" align="center">
+<tbody>
+<tr>
+<td height="32" width="33">&nbsp;</td>
+<td width="147" align="left"><!--#begineditable name="栏目名称" viewid="201100" tagname="栏目名称" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--><span class="windowstyle201100">
+基建资产</span><!--#endeditable--><span class="h5"></span></td>
+<td width="541" align="right">&nbsp;</td>
+<td width="19">&nbsp;</td></tr></tbody></table>
+<table border="0" cellspacing="10" cellpadding="0" width="740" align="center" style="border-bottom: #cccccc 1px solid;border-left: #cccccc 1px solid;border-top: #cccccc 1px solid;border-right: #cccccc 1px solid">
+<tbody>
+<tr>
+<td height="521" valign="top" align="left"><!--#begineditable name="静态翻页列表" viewid="201101" tagname="静态翻页列表" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""-->
+
+
+<style>                       
+A.f201101:link{COLOR: #222222;}                         
+A.f201101:visited{COLOR: #222222;}                         
+A.f201101:active{COLOR: #222222;}                         
+A.f201101:hover{COLOR: #cc0000;}                         
+</style>                                                        
+    <INPUT TYPE="hidden" NAME="actiontype" VALUE=""><input type="hidden" name="_scode_" value="1557387195597"><input type="hidden" name="urltype" value="tree.TreeTempUrl"><input type="hidden" name="wbtreeid" value="1087"><input type="hidden" name="outFlag" value="false">
+<style type="text/css">
+.headStyleaw019ws3tp, .headStyleaw019ws3tp td, .headStyleaw019ws3tp div {font-size: 12px;font-family:宋体; color: #000000; margin-left: auto; margin-right: auto; line-height:14px;}
+.defaultButtonStyle {font-size: 12px;font-family:宋体; height:20px;color: #000000;BORDER: #AFD5F5 1px solid; margin: 0px;padding: 0px; FILTER:progid:DXImageTransform.Microsoft.Gradient(GradientType=0,StartColorStr=#ffffff, EndColorStr=#BDDBF7);  CURSOR: pointer; line-height:14px;background:-webkit-gradient(linear, 0 0, 0 100%, from(#ffffff), to(#BDDBF7));background: -moz-linear-gradient( top,#ffffff,#BDDBF7);background:-ms-linear-gradient(top,#ffffff 0%,#bddbf7 100%);}
+.defaultinputStyle {font-size: 12px;font-family:宋体; height:20px; border:1px solid #AFD5F5; line-height:14px;}
+.colHeader {font-size: 12px;font-family:宋体; line-height:14px;}
+.headStyleaw019ws3tp a, .pageList .this-page {font-size: 12px;font-family:宋体; display:inline-block; height:14px; padding: 2px 4px; border: solid 1px #AFD5F5; background: #fff; text-decoration: none; MARGIN-RIGHT: 1px;line-height:14px;}
+.headStyleaw019ws3tp a:visited {font-size: 12px;font-family:宋体; color: #000000; text-decoration: none; line-height:14px;}
+.headStyleaw019ws3tp .PrevDisabled {font-size: 12px;font-family:宋体; display:inline-block;height:14px;  margin-right: 3px; padding: 2px 4px; background: #fff;color:#ccc;border: solid 1px #AFD5F5; line-height:14px;}
+.headStyleaw019ws3tp .SelectList {font-size: 12px;font-family:宋体;line-height:14px;}
+.headStyleaw019ws3tp .Prev { font-size: 12px;font-family:宋体; margin-right: 3px; padding: 2px 4px;line-height:14px;}
+.headStyleaw019ws3tp .break {font-size: 12px;font-family:宋体; border: none; text-decoration: none; line-height:14px;}
+.headStyleaw019ws3tp .NextDisabled { font-size: 12px;font-family:宋体;display:inline-block; height:14px; margin-left: 2px; padding: 2px 4px;background: #fff;color:#ccc;border: solid 1px #AFD5F5; line-height:14px;}
+.headStyleaw019ws3tp .Next { font-size: 12px;font-family:宋体; margin-left: 2px; padding: 2px 4px;line-height:14px;}
+.headStyleaw019ws3tp .this-page {font-size: 12px;font-family:宋体;display:inline-block;height:14px;padding: 2px 4px; border: solid 1px #AFD5F5; background: #E1F0FD; font-weight: bold; color:black; MARGIN-RIGHT: 1px;line-height:14px;}
+.headStyleaw019ws3tp a:hover {font-size: 12px;font-family:宋体;color: black; background: #EFF7FE; border-color: #AFD5F5; text-decoration: none;line-height:14px;}
+.headStyleaw019ws3tp a:link {font-size: 12px;font-family:宋体;color: #000000; text-decoration: none;line-height:14px;}
+.headStyleaw019ws3tp a:active { font-size: 12px;font-family:宋体;color: black; text-decoration: none; background: #EFF7FE; line-height:14px;}
+</style><script language="javascript" src="/system/resource/js/gotopage.js"></script><script type="text/javascript">function a201101_gopage_fun(){_simple_list_gotopage_fun(10,'a201101GOPAGE',2)}</script>                       
+    <table width="100%" class="winstyle201101">                            
+                            
+      <tr id="line201101_0" height="20">                         
+         <td width="1" nowrap><span class="leaderfont201101"><img src="images/index_58.gif" align="absmiddle" border="0"> </span></td>
+         <td width="100%" style="font-size:9pt">
+                                   
+            
+          <a class="c201101" href="info/1087/5164.htm" target="_blank" title="桂林电子科技大学 花江校区G道路以北运动场看台工程施工 招标公告">桂林电子科技大学 花江校区G道路以北运动场看台工程施工 招标公告                     
+            <span class="clickstyle201101">&nbsp;&nbsp;(点击：<span id="nu65164" name="nu65164"></span>)</span></a>
+		        
+        
+        </td>                            
+        <td width="1%" nowrap><span class="timestyle201101">2018/04/08&nbsp;</span></td>                            
+        <td width="1%" nowrap></td>                            
+      </tr>                       
+<tr id="lineimg201101_0" style="display:;"><td colspan="3" height="1" BACKGROUND="images/xhx.gif" style="padding:0px;"></td></tr>
+                            
+      <tr id="line201101_1" height="20">                         
+         <td width="1" nowrap><span class="leaderfont201101"><img src="images/index_58.gif" align="absmiddle" border="0"> </span></td>
+         <td width="100%" style="font-size:9pt">
+                                   
+            
+          <a class="c201101" href="info/1087/5161.htm" target="_blank" title="桂林电子科技大学 花江校区电力增容配电房工程施工 招标公告">桂林电子科技大学 花江校区电力增容配电房工程施工 招标公告                     
+            <span class="clickstyle201101">&nbsp;&nbsp;(点击：<span id="nu65161" name="nu65161"></span>)</span></a>
+		        
+        
+        </td>                            
+        <td width="1%" nowrap><span class="timestyle201101">2018/04/08&nbsp;</span></td>                            
+        <td width="1%" nowrap></td>                            
+      </tr>                       
+<tr id="lineimg201101_1" style="display:;"><td colspan="3" height="1" BACKGROUND="images/xhx.gif" style="padding:0px;"></td></tr>
+                            
+      <tr id="line201101_2" height="20">                         
+         <td width="1" nowrap><span class="leaderfont201101"><img src="images/index_58.gif" align="absmiddle" border="0"> </span></td>
+         <td width="100%" style="font-size:9pt">
+                                   
+            
+          <a class="c201101" href="info/1087/5160.htm" target="_blank" title="桂林电子科技大学 2018年4月至2019年4月1000万元以下工程项目招标代理候选单位招标 招标公告">桂林电子科技大学 2018年4月至2019年4月1000万元以下工程项目招标代理候选单位招标 招标公告                     
+            <span class="clickstyle201101">&nbsp;&nbsp;(点击：<span id="nu65160" name="nu65160"></span>)</span></a>
+		        
+        
+        </td>                            
+        <td width="1%" nowrap><span class="timestyle201101">2018/04/08&nbsp;</span></td>                            
+        <td width="1%" nowrap></td>                            
+      </tr>                       
+<tr id="lineimg201101_2" style="display:;"><td colspan="3" height="1" BACKGROUND="images/xhx.gif" style="padding:0px;"></td></tr>
+                            
+      <tr id="line201101_3" height="20">                         
+         <td width="1" nowrap><span class="leaderfont201101"><img src="images/index_58.gif" align="absmiddle" border="0"> </span></td>
+         <td width="100%" style="font-size:9pt">
+                                   
+            
+          <a class="c201101" href="info/1087/5157.htm" target="_blank" title="桂林电子科技大学北海校区校园布放饮料自动售货机招标公告">桂林电子科技大学北海校区校园布放饮料自动售货机招标公告                     
+            <span class="clickstyle201101">&nbsp;&nbsp;(点击：<span id="nu65157" name="nu65157"></span>)</span></a>
+		        
+        
+        </td>                            
+        <td width="1%" nowrap><span class="timestyle201101">2018/04/03&nbsp;</span></td>                            
+        <td width="1%" nowrap></td>                            
+      </tr>                       
+<tr id="lineimg201101_3" style="display:;"><td colspan="3" height="1" BACKGROUND="images/xhx.gif" style="padding:0px;"></td></tr>
+                            
+      <tr id="line201101_4" height="20">                         
+         <td width="1" nowrap><span class="leaderfont201101"><img src="images/index_58.gif" align="absmiddle" border="0"> </span></td>
+         <td width="100%" style="font-size:9pt">
+                                   
+            
+          <a class="c201101" href="info/1087/5156.htm" target="_blank" title="桂林电子科技大学 花江校区JX27、28教学实验楼结构大厅起重机采购 竞争性谈判公告">桂林电子科技大学 花江校区JX27、28教学实验楼结构大厅起重机采购 竞争性谈判公告                     
+            <span class="clickstyle201101">&nbsp;&nbsp;(点击：<span id="nu65156" name="nu65156"></span>)</span></a>
+		        
+        
+        </td>                            
+        <td width="1%" nowrap><span class="timestyle201101">2018/03/28&nbsp;</span></td>                            
+        <td width="1%" nowrap></td>                            
+      </tr>                       
+<tr id="lineimg201101_4" style="display:;"><td colspan="3" height="1" BACKGROUND="images/xhx.gif" style="padding:0px;"></td></tr>
+      <tr height="1" id="duannum201101_4">
+      <td colspan="3" align="center">
+      <hr style="border-style:none;border-color:#222222;width:100%;height:1px;border-width:1px 0px 0px 0px;visibility:hidden" /></td>
+      </tr>
+      
+                            
+      <tr id="line201101_5" height="20">                         
+         <td width="1" nowrap><span class="leaderfont201101"><img src="images/index_58.gif" align="absmiddle" border="0"> </span></td>
+         <td width="100%" style="font-size:9pt">
+                                   
+            
+          <a class="c201101" href="info/1087/5154.htm" target="_blank" title="桂林电子科技大学 花江校区JX27、28教学实验楼配电柜、箱采购 招 标 公 告">桂林电子科技大学 花江校区JX27、28教学实验楼配电柜、箱采购 招 标 公 告                     
+            <span class="clickstyle201101">&nbsp;&nbsp;(点击：<span id="nu65154" name="nu65154"></span>)</span></a>
+		        
+        
+        </td>                            
+        <td width="1%" nowrap><span class="timestyle201101">2018/03/26&nbsp;</span></td>                            
+        <td width="1%" nowrap></td>                            
+      </tr>                       
+<tr id="lineimg201101_5" style="display:;"><td colspan="3" height="1" BACKGROUND="images/xhx.gif" style="padding:0px;"></td></tr>
+                            
+      <tr id="line201101_6" height="20">                         
+         <td width="1" nowrap><span class="leaderfont201101"><img src="images/index_58.gif" align="absmiddle" border="0"> </span></td>
+         <td width="100%" style="font-size:9pt">
+                                   
+            
+          <a class="c201101" href="info/1087/5151.htm" target="_blank" title="桂林市桂电中学 金鸡岭校区冠群楼、18#女生宿舍局部改造工程 评标结果公示">桂林市桂电中学 金鸡岭校区冠群楼、18#女生宿舍局部改造工程 评标结果公示                     
+            <span class="clickstyle201101">&nbsp;&nbsp;(点击：<span id="nu65151" name="nu65151"></span>)</span></a>
+		        
+        
+        </td>                            
+        <td width="1%" nowrap><span class="timestyle201101">2018/03/26&nbsp;</span></td>                            
+        <td width="1%" nowrap></td>                            
+      </tr>                       
+<tr id="lineimg201101_6" style="display:;"><td colspan="3" height="1" BACKGROUND="images/xhx.gif" style="padding:0px;"></td></tr>
+                            
+      <tr id="line201101_7" height="20">                         
+         <td width="1" nowrap><span class="leaderfont201101"><img src="images/index_58.gif" align="absmiddle" border="0"> </span></td>
+         <td width="100%" style="font-size:9pt">
+                                   
+            
+          <a class="c201101" href="info/1087/5150.htm" target="_blank" title="桂林电子科技大学花江校区四创教育中心项目 施工招标公告">桂林电子科技大学花江校区四创教育中心项目 施工招标公告                     
+            <span class="clickstyle201101">&nbsp;&nbsp;(点击：<span id="nu65150" name="nu65150"></span>)</span></a>
+		        
+        
+        </td>                            
+        <td width="1%" nowrap><span class="timestyle201101">2018/03/26&nbsp;</span></td>                            
+        <td width="1%" nowrap></td>                            
+      </tr>                       
+<tr id="lineimg201101_7" style="display:;"><td colspan="3" height="1" BACKGROUND="images/xhx.gif" style="padding:0px;"></td></tr>
+                            
+      <tr id="line201101_8" height="20">                         
+         <td width="1" nowrap><span class="leaderfont201101"><img src="images/index_58.gif" align="absmiddle" border="0"> </span></td>
+         <td width="100%" style="font-size:9pt">
+                                   
+            
+          <a class="c201101" href="info/1087/5147.htm" target="_blank" title="桂林电子科技大学 花江校区31、32、33#留学生公寓室内改造工程 评标结果公示">桂林电子科技大学 花江校区31、32、33#留学生公寓室内改造工程 评标结果公示                     
+            <span class="clickstyle201101">&nbsp;&nbsp;(点击：<span id="nu65147" name="nu65147"></span>)</span></a>
+		        
+        
+        </td>                            
+        <td width="1%" nowrap><span class="timestyle201101">2018/03/20&nbsp;</span></td>                            
+        <td width="1%" nowrap></td>                            
+      </tr>                       
+<tr id="lineimg201101_8" style="display:;"><td colspan="3" height="1" BACKGROUND="images/xhx.gif" style="padding:0px;"></td></tr>
+                            
+      <tr id="line201101_9" height="20">                         
+         <td width="1" nowrap><span class="leaderfont201101"><img src="images/index_58.gif" align="absmiddle" border="0"> </span></td>
+         <td width="100%" style="font-size:9pt">
+                                   
+            
+          <a class="c201101" href="info/1087/5145.htm" target="_blank" title="桂林电子科技大学2018年至2019年工程项目可行性研究报告评估、初步设计评估候选单位 招标公告">桂林电子科技大学2018年至2019年工程项目可行性研究报告评估、初步设计评估候选单位 招标公告                     
+            <span class="clickstyle201101">&nbsp;&nbsp;(点击：<span id="nu65145" name="nu65145"></span>)</span></a>
+		        
+        
+        </td>                            
+        <td width="1%" nowrap><span class="timestyle201101">2018/03/20&nbsp;</span></td>                            
+        <td width="1%" nowrap></td>                            
+      </tr>                       
+<tr id="lineimg201101_9" style="display:;"><td colspan="3" height="1" BACKGROUND="images/xhx.gif" style="padding:0px;"></td></tr>
+      <tr height="1" id="duannum201101_9">
+      <td colspan="3" align="center">
+      <hr style="border-style:none;border-color:#222222;width:100%;height:1px;border-width:1px 0px 0px 0px;visibility:hidden" /></td>
+      </tr>
+      
+                            
+      <tr id="line201101_10" height="20">                         
+         <td width="1" nowrap><span class="leaderfont201101"><img src="images/index_58.gif" align="absmiddle" border="0"> </span></td>
+         <td width="100%" style="font-size:9pt">
+                                   
+            
+          <a class="c201101" href="info/1087/5183.htm" target="_blank" title="桂林电子科技大学 15#商住楼（危旧房改住房改造）及金鸡岭校区25#学生宿舍项目建设工程检测服务 评标结果公示">桂林电子科技大学 15#商住楼（危旧房改住房改造）及金鸡岭校区25#学生宿舍项目建设工程检测服务 评标结果公示                     
+            <span class="clickstyle201101">&nbsp;&nbsp;(点击：<span id="nu65183" name="nu65183"></span>)</span></a>
+		        
+        
+        </td>                            
+        <td width="1%" nowrap><span class="timestyle201101">2018/03/13&nbsp;</span></td>                            
+        <td width="1%" nowrap></td>                            
+      </tr>                       
+<tr id="lineimg201101_10" style="display:;"><td colspan="3" height="1" BACKGROUND="images/xhx.gif" style="padding:0px;"></td></tr>
+                            
+      <tr id="line201101_11" height="20">                         
+         <td width="1" nowrap><span class="leaderfont201101"><img src="images/index_58.gif" align="absmiddle" border="0"> </span></td>
+         <td width="100%" style="font-size:9pt">
+                                   
+            
+          <a class="c201101" href="info/1087/5181.htm" target="_blank" title="桂林电子科技大学 花江校区G道路以北篮排球场——硅Pu面层工程(重) 评标结果公示">桂林电子科技大学 花江校区G道路以北篮排球场——硅Pu面层工程(重) 评标结果公示                     
+            <span class="clickstyle201101">&nbsp;&nbsp;(点击：<span id="nu65181" name="nu65181"></span>)</span></a>
+		        
+        
+        </td>                            
+        <td width="1%" nowrap><span class="timestyle201101">2018/03/13&nbsp;</span></td>                            
+        <td width="1%" nowrap></td>                            
+      </tr>                       
+<tr id="lineimg201101_11" style="display:;"><td colspan="3" height="1" BACKGROUND="images/xhx.gif" style="padding:0px;"></td></tr>
+                            
+      <tr id="line201101_12" height="20">                         
+         <td width="1" nowrap><span class="leaderfont201101"><img src="images/index_58.gif" align="absmiddle" border="0"> </span></td>
+         <td width="100%" style="font-size:9pt">
+                                   
+            
+          <a class="c201101" href="info/1087/5179.htm" target="_blank" title="桂林电子科技大学花江校区四创教育中心项目施工招标公告">桂林电子科技大学花江校区四创教育中心项目施工招标公告                     
+            <span class="clickstyle201101">&nbsp;&nbsp;(点击：<span id="nu65179" name="nu65179"></span>)</span></a>
+		        
+        
+        </td>                            
+        <td width="1%" nowrap><span class="timestyle201101">2018/03/13&nbsp;</span></td>                            
+        <td width="1%" nowrap></td>                            
+      </tr>                       
+<tr id="lineimg201101_12" style="display:;"><td colspan="3" height="1" BACKGROUND="images/xhx.gif" style="padding:0px;"></td></tr>
+                            
+      <tr id="line201101_13" height="20">                         
+         <td width="1" nowrap><span class="leaderfont201101"><img src="images/index_58.gif" align="absmiddle" border="0"> </span></td>
+         <td width="100%" style="font-size:9pt">
+                                   
+            
+          <a class="c201101" href="info/1087/5177.htm" target="_blank" title="桂林市桂电中学金鸡岭校区冠群楼、18#女生宿舍局部改造工程施工招 标 公 告">桂林市桂电中学金鸡岭校区冠群楼、18#女生宿舍局部改造工程施工招 标 公 告                     
+            <span class="clickstyle201101">&nbsp;&nbsp;(点击：<span id="nu65177" name="nu65177"></span>)</span></a>
+		        
+        
+        </td>                            
+        <td width="1%" nowrap><span class="timestyle201101">2018/03/13&nbsp;</span></td>                            
+        <td width="1%" nowrap></td>                            
+      </tr>                       
+<tr id="lineimg201101_13" style="display:;"><td colspan="3" height="1" BACKGROUND="images/xhx.gif" style="padding:0px;"></td></tr>
+                            
+      <tr id="line201101_14" height="20">                         
+         <td width="1" nowrap><span class="leaderfont201101"><img src="images/index_58.gif" align="absmiddle" border="0"> </span></td>
+         <td width="100%" style="font-size:9pt">
+                                   
+            
+          <a class="c201101" href="info/1087/5175.htm" target="_blank" title="桂林电子科技大学 花江校区31、32、33#留学生公寓室内改造工程施工 招标公告">桂林电子科技大学 花江校区31、32、33#留学生公寓室内改造工程施工 招标公告                     
+            <span class="clickstyle201101">&nbsp;&nbsp;(点击：<span id="nu65175" name="nu65175"></span>)</span></a>
+		        
+        
+        </td>                            
+        <td width="1%" nowrap><span class="timestyle201101">2018/03/13&nbsp;</span></td>                            
+        <td width="1%" nowrap></td>                            
+      </tr>                       
+<tr id="lineimg201101_14" style="display:;"><td colspan="3" height="1" BACKGROUND="images/xhx.gif" style="padding:0px;"></td></tr>
+      <tr height="1" id="duannum201101_14">
+      <td colspan="3" align="center">
+      <hr style="border-style:none;border-color:#222222;width:100%;height:1px;border-width:1px 0px 0px 0px;visibility:hidden" /></td>
+      </tr>
+      
+                            
+      <tr id="line201101_15" height="20">                         
+         <td width="1" nowrap><span class="leaderfont201101"><img src="images/index_58.gif" align="absmiddle" border="0"> </span></td>
+         <td width="100%" style="font-size:9pt">
+                                   
+            
+          <a class="c201101" href="info/1087/5174.htm" target="_blank" title="桂林电子科技大学 15#商住楼（危旧房改住房改造）人防设备采购及安装工程 评标结果公示">桂林电子科技大学 15#商住楼（危旧房改住房改造）人防设备采购及安装工程 评标结果公示                     
+            <span class="clickstyle201101">&nbsp;&nbsp;(点击：<span id="nu65174" name="nu65174"></span>)</span></a>
+		        
+        
+        </td>                            
+        <td width="1%" nowrap><span class="timestyle201101">2018/01/09&nbsp;</span></td>                            
+        <td width="1%" nowrap></td>                            
+      </tr>                       
+<tr id="lineimg201101_15" style="display:;"><td colspan="3" height="1" BACKGROUND="images/xhx.gif" style="padding:0px;"></td></tr>
+                            
+      <tr id="line201101_16" height="20">                         
+         <td width="1" nowrap><span class="leaderfont201101"><img src="images/index_58.gif" align="absmiddle" border="0"> </span></td>
+         <td width="100%" style="font-size:9pt">
+                                   
+            
+          <a class="c201101" href="info/1087/5172.htm" target="_blank" title="桂林电子科技大学、桂林电子科技大学信息科技学院共同招标 花江校区G道路人工湖（北湖、南湖）及周边景观设计服务 重新招标公告">桂林电子科技大学、桂林电子科技大学信息科技学院共同招标 花江校区G道路人工湖（北湖、南湖）及周边景观设计服务 重新招标公告                     
+            <span class="clickstyle201101">&nbsp;&nbsp;(点击：<span id="nu65172" name="nu65172"></span>)</span></a>
+		        
+        
+        </td>                            
+        <td width="1%" nowrap><span class="timestyle201101">2018/01/09&nbsp;</span></td>                            
+        <td width="1%" nowrap></td>                            
+      </tr>                       
+<tr id="lineimg201101_16" style="display:;"><td colspan="3" height="1" BACKGROUND="images/xhx.gif" style="padding:0px;"></td></tr>
+                            
+      <tr id="line201101_17" height="20">                         
+         <td width="1" nowrap><span class="leaderfont201101"><img src="images/index_58.gif" align="absmiddle" border="0"> </span></td>
+         <td width="100%" style="font-size:9pt">
+                                   
+            
+          <a class="c201101" href="info/1087/5170.htm" target="_blank" title="花江校区四创教育中心工程监理服务招标公告">花江校区四创教育中心工程监理服务招标公告                     
+            <span class="clickstyle201101">&nbsp;&nbsp;(点击：<span id="nu65170" name="nu65170"></span>)</span></a>
+		        
+        
+        </td>                            
+        <td width="1%" nowrap><span class="timestyle201101">2018/01/04&nbsp;</span></td>                            
+        <td width="1%" nowrap></td>                            
+      </tr>                       
+<tr id="lineimg201101_17" style="display:;"><td colspan="3" height="1" BACKGROUND="images/xhx.gif" style="padding:0px;"></td></tr>
+                            
+      <tr id="line201101_18" height="20">                         
+         <td width="1" nowrap><span class="leaderfont201101"><img src="images/index_58.gif" align="absmiddle" border="0"> </span></td>
+         <td width="100%" style="font-size:9pt">
+                                   
+            
+          <a class="c201101" href="info/1087/5167.htm" target="_blank" title="桂林电子科技大学 花江校区JX27、28教学实验楼无机房乘客电梯 招 标 公 告">桂林电子科技大学 花江校区JX27、28教学实验楼无机房乘客电梯 招 标 公 告                     
+            <span class="clickstyle201101">&nbsp;&nbsp;(点击：<span id="nu65167" name="nu65167"></span>)</span></a>
+		        
+        
+        </td>                            
+        <td width="1%" nowrap><span class="timestyle201101">2017/12/28&nbsp;</span></td>                            
+        <td width="1%" nowrap></td>                            
+      </tr>                       
+<tr id="lineimg201101_18" style="display:;"><td colspan="3" height="1" BACKGROUND="images/xhx.gif" style="padding:0px;"></td></tr>
+                            
+      <tr id="line201101_19" height="20">                         
+         <td width="1" nowrap><span class="leaderfont201101"><img src="images/index_58.gif" align="absmiddle" border="0"> </span></td>
+         <td width="100%" style="font-size:9pt">
+                                   
+            
+          <a class="c201101" href="info/1087/5166.htm" target="_blank" title="桂林电子科技大学 花江校区体育馆设计方案 征集公告">桂林电子科技大学 花江校区体育馆设计方案 征集公告                     
+            <span class="clickstyle201101">&nbsp;&nbsp;(点击：<span id="nu65166" name="nu65166"></span>)</span></a>
+		        
+        
+        </td>                            
+        <td width="1%" nowrap><span class="timestyle201101">2017/12/26&nbsp;</span></td>                            
+        <td width="1%" nowrap></td>                            
+      </tr>                       
+<tr id="lineimg201101_19" style="display:;"><td colspan="3" height="1" BACKGROUND="images/xhx.gif" style="padding:0px;"></td></tr>
+<script language="javascript" src="/system/resource/js/ajax.js"></script><script language="javascript">_getBatchClickTimes('5164,5161,5160,5157,5156,5154,5151,5150,5147,5145,5183,5181,5179,5177,5175,5174,5172,5170,5167,5166',1409629465,'wbnews','u6')</script>
+
+		<tr><td colspan="3" align="left">                       
+            <table cellpadding="0" cellspacing="0" border="0">
+                <TR><td colspan="0"><table cellspacing="0" class="headStyleaw019ws3tp" width="100%" cellpadding="1"><tr valign="middle"><TD nowrap align="left" width="1%" id="fanye201101">共188条&nbsp;&nbsp;1/10&nbsp;</td><td nowrap align="left"><div><span class="PrevDisabled">首页</span><span class="PrevDisabled">上页</span><a href="jjzc/9.htm" class="Next">下页</a><a href="jjzc/1.htm" class="Next">尾页</a>&nbsp;&nbsp;<input align="absmiddle" type="button" class="defaultButtonStyle" id="gotopagebut" name="a201101Find" value="转到" onclick="javascript:a201101_gopage_fun()"><INPUT size="2" align="absmiddle" class="defaultInputStyle" NAME="a201101GOPAGE" id="a201101GOPAGE" VALUE="" style="margin-left:1px;margin-right:1px">页</div></td></tr></table>
+            </table>                       
+        </td></tr>                       
+    </table>                       
+<!--#endeditable--></td></tr></tbody></table></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" width="1000" align="center" border="0">
+  <tbody>
+<tr>
+<td height="10" bgcolor="#FFFFFF"></td></tr></tbody></table>
+
+<table border="0" cellspacing="0" cellpadding="0" width="1000" align="center">
+<tbody>
+<tr>
+<td height="80" align="center" bgcolor="#FFFFFF" class="heise12x" style="border-bottom: #cccccc 1px solid;border-left: #cccccc 1px solid;border-top: #cccccc 1px solid;border-right: #cccccc 1px solid"><!--#begineditable name="版权" viewid="201095" tagname="版权" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--><p><span style="font-size: 16px">桂林电子科技大学信息公开网</span></p><!--#endeditable--></td></tr></tbody></table>
+
+</body></html>

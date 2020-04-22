@@ -1,0 +1,1408 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en"><head><title>请您留言-桂林电子科技大学图书馆</title><META Name="keywords" Content="桂林电子科技大学图书馆" />
+
+
+
+
+
+<meta charset="UTF-8"><link rel="stylesheet" type="text/css" href="css/style.css"><script type="text/javascript" src="js/script.js"></script>
+<style>
+	.single_area{margin: auto; padding: 10px 0px 10px 0px ; left:-30px; width: 1200px; font-family: Arial; position: relative;}
+	.sidebar_area{border: 0px solid #999; width: 300px; min-height: 650px; position: absolute; left: 0px; z-index: 1;}
+	.content_area_border{padding-left: 355px; width: 1190px;}
+	.content_area_bg{background: #fff;-moz-box-shadow: 3px 3px 8px #999;box-shadow: 3px 3px 8px #999;-webkit-box-shadow: 3px 3px 8px #999;}
+	.nav_area{margin: auto; border: solid 0px #999; padding-left: 20px; line-height: 25px; vertical-align: middle; color:#000; font-size: 15px; padding-top: 20px;}
+	.nav_area a{color: #2b6ca3; font-size: 14px;}
+	.title_area{margin: auto; border:solid 0px #999; line-height: 38px; vertical-align: middle; color:#000; font-size: 18px; text-align: center;}
+	.time_area{margin: auto; border: solid 0px #999; line-height: 35px; vertical-align: middle; font-size: 12px; color: #666; text-align: center;}
+	<!--
+	.single_area_outer{margin: auto; padding: 0;  width:1200px; border:1px solid #f00;position:relative;}
+	.content_area{margin:auto; padding:0px; border:solid 0px #999; line-height: 25px; width:800px; text-indent: 24px; font-size: 14px;}
+	-->
+	.content_area{border: solid 0px #999; text-indent: 3px; padding-top: 18px; padding-left: 10px; padding-right: 15px; padding-bottom: 20px; color: #555; font-size: 14px; line-height: 30px;}
+	.content_area a{color: #2b6ca3;}
+	
+		/* Start footer BODY section */	   
+		.footer_border{margin:auto; padding:0px; width:auto; min-width:1200px; background: #efefef;}
+		.outer{margin: auto; padding-top:2px; padding-left:129px; width:1200px; height:32px; border:1px solid #7aadde; color: #fff; background: #7aadde; position:relative; text-align:center; font-size: 15px;font-weight:bold;line-height: 25px; vertical-align: middle;}
+		.in0{border-right:1px solid #FFF; width:120px; float:left;}
+		.in0 a{color: #fff;}
+		.in1{border-right:1px solid #FFF; width:120px; float:left;}
+		.in1 a{color: #fff;}
+		.in2{border-right:1px solid #FFF; width:120px; float:left;}
+		.in2 a{color: #fff;}
+		.in3{border-right:1px solid #FFF; width:120px; float:left;}
+		.in3 a{color: #fff;}
+		.in4{border-right:1px solid #FFF; width:120px; float:left;}
+		.in4 a{color: #fff;}
+		.in5{border-right:1px solid #FFF; width:120px; float:left;}
+		.in5 a{color: #fff;}
+		.in6{border-right:1px solid #FFF; width:120px; float:left;}
+		.in6 a{color: #fff;}
+		.in7{border-right:0px solid #FFF; width:120px; float:left;}
+		.in7 a{color: #fff;}
+		.outer1{margin: auto; padding-top: 10px; width:1200px; height:90px; border:0px solid #f00;position:relative; text-align:center;}
+
+	
+</style>
+</link></link>
+
+</link><!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="/lib/bbs.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1167,'/bbs.jsp',-1,1411890787)</script>
+</head>
+<body ><!-- Start menu HEAD section --><!-- add to the <head> of your page --><!-- Title 代码部分begin -->
+<div style="text-align: center; margin-left: auto; margin-top: -15px; margin-right: auto"><img title="" alt="" src="images/guetliblogo.jpg" width="1200" height="110" style="border-top: medium none; border-right: medium none; border-bottom: medium none; border-left: medium none"></div><!-- Title 代码部分End --><!-- Menu 代码部分begin -->
+<div style="font-size: 15px; width: 1200px; background: #efefef; min-width: 1200px; padding-bottom: 0px; text-align: center; padding-top: 0px; padding-left: 0px; margin: auto; z-index: 120; padding-right: 0px">
+<div class="ulmenu">        <div class="dropdown">
+            <a href="http://www.guet.edu.cn/lib/" class="dropbtn">首页</a>
+        </div>
+        <div class="dropdown">
+            <a href="#" class="dropbtn">概况</a>
+            <div class="dropdown-content" style="height: 399px;">
+                <div class="dropdown-title">图书馆概况</div>
+                <a href="http://www.guet.edu.cn/lib/info/1036/2875.htm">馆长致辞</a>
+                <a href="http://www.guet.edu.cn/lib/info/1037/2876.htm">本馆简介</a>
+                <a href="http://www.guet.edu.cn/lib/info/1038/2877.htm">现任领导</a>
+                <a href="http://www.guet.edu.cn/lib/info/1039/2878.htm">组织机构</a>
+                <a href="http://www.guet.edu.cn/lib/info/1040/2879.htm">规章制度</a>
+                <a href="http://www.guet.edu.cn/lib/info/1041/2880.htm">常见问题</a>
+                <a href="http://www.guet.edu.cn/lib/info/1042/2881.htm">办证需知</a>
+                <a href="http://www.guet.edu.cn/lib/info/1043/2883.htm">离校手续</a>
+                <a href="http://www.guet.edu.cn/lib/info/1152/2928.htm">图书馆漫游</a>
+                <a href="http://www.guet.edu.cn/lib/info/1045/2884.htm">信息公开</a>
+                <a href="http://www.guet.edu.cn/lib/info/1046/2885.htm">书刊捐赠</a>
+            </div>
+            <div class="dropdown-content" style="margin-left: 200px; height: 399px;">
+                <div class="dropdown-title">新闻与通知</div>
+                <a href="http://www.guet.edu.cn/lib/gk/xwytz/ggxx.htm">公告消息</a>
+                <a href="gk/xwytz/zydt.htm">资源动态</a>
+                <a href="http://www.guet.edu.cn/lib/gk/xwytz/gnxw.htm">馆内新闻</a>
+            </div>
+        </div>
+        <div class="dropdown">
+            <a href="#" class="dropbtn">资源</a>
+            <div class="dropdown-content">
+                <a href="http://www.guet.edu.cn/lib/info/1025/2886.htm">版权公告</a>
+                <a href="http://202.193.70.166:8020/index.asp" target="_blank">数据库导航</a>
+                <a href="http://202.193.70.166:8020/index.asp?idc=en&mem=true" target="_blank">外文数据库</a>
+                <a href="http://202.193.70.166:8020/index.asp?idc=cn&mem=true" target="_blank">中文数据库</a>
+                <a href="http://202.193.70.166:8020/index.asp?idc=tryout&mem=true" target="_blank">试用数据库</a>
+                <a href="http://202.193.70.169:90/lib/bookdisc.asp" target="_blank">随书光盘数据库</a>
+                <a href="http://www.guet.edu.cn/lib/info/1032/2888.htm">本校学位论文</a>
+                <a href="http://202.193.70.166:8020/index.asp?idc=oa&mem=true" target="_blank">OA数据库</a>
+                <a href="http://www.guet.edu.cn/lib/info/1034/2889.htm" target="_blank">常用阅读软件</a>
+                <a href="http://202.193.70.139/NTRdrNewBook.aspx" target="_blank">新书通报</a>
+                <a href="http://202.193.70.177/" target="_blank">免费资源推荐</a>
+            </div>
+        </div>
+        <div class="dropdown">
+            <a href="#" class="dropbtn">服务</a>
+            <div class="dropdown-content" style="height:369px;">
+                <div class="dropdown-title">借阅服务</div>
+                <a href="http://www.guet.edu.cn/lib/info/1060/2890.htm">图书馆布局</a>
+                <a href="http://202.193.70.139/index.aspx" target="_blank">馆藏书刊查询</a>
+                <a href="http://202.193.70.139/NTRdrLogin.aspx" target="_blank">个人借阅管理</a>
+                <a href="http://202.193.70.139/NTRdrNewBook.aspx" target="_blank">新书通报</a>
+                <a href="http://www.guet.edu.cn/lib/info/1064/2891.htm">开放时间</a>
+                <a href="http://202.193.70.132:8088/" target="_blank">书刊荐购</a>
+                <a href="http://www.guet.edu.cn/lib/zzwy/index.html" target="_blank">自助文印</a>
+            </div>
+            <div class="dropdown-content" style="margin-left: 200px; height:369px;">
+                <div class="dropdown-title">学科服务</div>
+                <a href="http://www.guet.edu.cn/lib/info/1067/2892.htm">文献传递</a>
+                <a href="http://www.guet.edu.cn/lib/info/1068/2893.htm">查收查引</a>
+                <a href="http://www.guet.edu.cn/lib/info/1069/2894.htm">科技查新</a>
+                <a href="http://www.guet.edu.cn/lib/info/1070/2895.htm">用户教育</a>
+                <a href="http://www.guet.edu.cn/lib/info/1071/2896.htm">在线培训</a>
+                <a href="http://ipscience-help.thomsonreuters.com/incitesLiveESI/ESIGroup/overviewESI/esiJournalsList.html">ESI期刊</a>
+                <a href="http://www.guet.edu.cn/lib/info/1074/2900.htm">投稿指南</a>
+                <a href="http://www.guet.edu.cn/lib/info/1075/2901.htm">桂电SCIE收录动态</a>
+                <a href="http://www.guet.edu.cn/lib/info/1076/2899.htm">ESI高水平论文</a>
+                <a href="http://www.fenqubiao.com/" target="_blank">中科院期刊分区在线平台</a>
+            </div>
+            <div class="dropdown-content" style="margin-left: 400px; height:369px;">
+                <div class="dropdown-title">文化服务</div>
+                <a href="http://202.193.70.162:8089/" target="_blank">研讨室预约</a>
+                <a href="http://202.193.70.165/subject/subject.html" target="_blank">专题导读</a>
+                <a href="http://www.guet.edu.cn/lib/info/1080/2902.htm">新生专栏</a>
+                <a href="http://202.193.70.165/dzzt/index.php" target="_blank">电子展厅</a>
+            </div>
+        </div>
+        <div class="dropdown">
+            <a href="#" class="dropbtn">党建园地</a>
+            <div class="dropdown-content">
+                <a href="http://www.guet.edu.cn/lib/djyd/zbdt.htm">支部动态</a>
+                <a href="http://www.guet.edu.cn/lib/djyd/djll.htm">党建理论</a>
+                <a href="http://www.guet.edu.cn/lib/djyd/ztxx.htm">专题学习</a>
+                <a href="http://www.guet.edu.cn/lib/djyd/dwgk.htm">党务公开</a>
+            </div>
+        </div>
+        <div class="dropdown">
+            <a href="#" class="dropbtn">新生专栏</a>
+            <div class="dropdown-content">
+                <a href="http://www.guet.edu.cn/lib/info/1080/2902.htm">你问我答</a>
+                <a href="http://www.guet.edu.cn/lib/info/1153/2929.htm">新生入馆教育视频</a>
+                <a href="http://202.193.70.132:8096/" target="_blank">新生入馆测试</a>
+            </div>
+        </div>
+        <div class="dropdown">
+            <a href="http://202.193.70.139/NTRdrLogin.aspx" class="dropbtn" target="_blank">个人借阅管理</a>
+        </div>
+        <div class="dropdown">
+            <a href="#" class="dropbtn">联系我们</a>
+            <div class="dropdown-content">
+                <a href="mailto:library@guet.edu.cn">馆长信箱</a>
+                <a href="http://www.guet.edu.cn/lib/bbs.jsp?urltype=tree.TreeTempUrl&wbtreeid=1167">请您留言</a>
+            </div>
+        </div>
+</div></div><!-- Menu 代码部分End --><!-- End menu HEAD section -->
+
+<!-- Start sidebar right HEAD section --><!-- add to the <head> of your page -->
+<!-- Start sidebar right HEAD section --><!-- add to the <head> of your page -->
+<ul id="nav-bar">
+  <li class="level-one"><img src="images/picture/weixin.png" width="45" height="45" onmouseover="this.style.opacity=0.8;" onmouseout="this.style.opacity=1" />
+    <ul class="level-two">
+	<li><img src="images/picture/waplibrary1.png" width="90" height="90" border="0" /></li>
+	<li>微信图书馆</li>
+    </ul>
+  </li>
+
+  <li class="level-one"><img src="images/picture/app.png" width="45" height="45" onmouseover="this.style.opacity=0.8;" onmouseout="this.style.opacity=1" />
+    <ul class="level-two">
+	<li><img src="images/picture/waplibrary3.png" width="90" height="90" border="0" /></li>
+	<li>超星学习通<br />邀请码：yzgldzkd</li>
+    </ul>
+  </li>
+
+  <li class="level-one1"><img src="images/picture/qq.png" width="45" height="45" onmouseover="this.style.opacity=0.8;" onmouseout="this.style.opacity=1" />
+    <ul class="level-two1">
+	<li>
+          <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=377406987&site=qq&menu=yes" >
+	  <img border="0" src="http://wpa.qq.com/pa?p=2:377406987:49" alt="点击这里给我发消息" title="有关图书、期刊、数据库的荐购及对现有文献资源的意见和建议，请找我吧"></a>
+	  <div style="margin-left:5px;">资源建设部 刘老师</div>
+	</li>
+
+	<li>
+          <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=150520281&site=qq&menu=yes" >
+	  <img border="0" src="http://wpa.qq.com/pa?p=2:150520281:49" alt="点击这里给我发消息" title="有关花江图书馆流通、阅览等问题，请找我吧"></a>
+	  <div style="margin-left:5px;">读者服务部 韦老师</div>
+	</li>
+
+	<li>
+ 	  <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=1029723910&site=qq&menu=yes" >
+	  <img border="0" src="http://wpa.qq.com/pa?p=2:1029723910:49" alt="点击这里给我发消息" title="有关金鸡岭图书馆流通、阅览等问题，请找我吧"></a>
+	  <div style="margin-left:5px;">读者服务部 田老师</div>
+	</li>
+
+	<li>
+	  <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=532306156&site=qq&menu=yes" >
+	  <img border="0" src="http://wpa.qq.com/pa?p=2:532306156:49" alt="点击这里给我发消息" title="有关文献的收录引用检索、科技查新、信息素养培训、科研数据分析及数据库的使用等问题请找我吧"></a>
+	  <div style="margin-left:5px;">学科与技术服务部 陈老师</div>
+	</li>
+
+	<li>
+	  <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=553552464&site=qq&menu=yes" >
+	  <img border="0" src="http://wpa.qq.com/pa?p=2:553552464:49" alt="点击这里给我发消息" title="有关电子资源的使用、查收查引、原始文献获取、学科服务等问题请找我吧"></a>
+	  <div style="margin-left:5px;">学科与技术服务部 马老师</div>
+	</li>
+
+	<li>
+	  <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=240607828&site=qq&menu=yes" >
+	  <img border="0" src="http://wpa.qq.com/pa?p=2:240607828:49" alt="点击这里给我发消息" title="有关新生培训、厅室预约、展览展示、文化活动、参观交流等问题，请找我吧"></a>
+	  <div style="margin-left:5px;">综合业务部 童老师</div>
+	</li>
+
+	<li>
+ 	  <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=543938445&site=qq&menu=yes" >
+	  <img border="0" src="http://wpa.qq.com/pa?p=2:543938445:49" alt="点击这里给我发消息" title="有关新生培训、厅室预约、展览展示、文化活动、参观交流等问题，请找我吧"></a>
+	  <div style="margin-left:5px;">综合业务部 陈老师</div>
+	</li>
+    </ul> 
+  </li>
+</ul>
+
+
+<!-- End sidebar right HEAD section -->
+<!-- End sidebar right HEAD section -->
+
+<!-- Start BODY section --><!-- add to the <body> of your page --><!-- Start content section --><!-- add to the <head> of your page -->
+<div class="single_area">
+<div class="sidebar_area"><!-- Start sidebar left section --><!-- add to the <head> of your page --><!-- sidebar_area begin --><!-- sidebar_head begin --><script src="js/jquery.min.js" type="text/javascript"></script><script type="text/javascript" src="js/sidebar_menu_min.js"></script><script type="text/javascript">
+			$(document).ready(function (){ 
+	  
+				$(".menu ul li").menu();
+	  
+			}); 
+		</script><link rel="stylesheet" type="text/css" href="css/sidebar-menu-css.css"><!-- sidebar_head end -->
+<div id="content">
+<div class="menu">		<a href="#" title="" style="margin: 5px 0px 5px 135px; font-size: 26px; weight: bolder; color: #000;">联系我们</a>
+		<ul>
+					<li>
+						<a  href="mailto:library@guet.edu.cn"  title="馆长信箱">馆长信箱</a>
+					</li>
+					<li>
+						<a  href="http://www.guet.edu.cn/lib/bbs.jsp?urltype=tree.TreeTempUrl&wbtreeid=1167"  title="请您留言">请您留言</a>
+					</li>
+		</ul>
+</div></div><!-- sidebar_area end --><!-- End sidebar left section --></div>
+<div class="content_area_border">
+<div class="content_area_bg">
+<div class="nav_area">		<a href="index.htm">首页</a>
+		<img src="images/picture/off.png" alt="" title=""  width="28" height="28" style="border:none; vertical-align: top; "/>
+		<a href="lxwm.htm">联系我们</a>
+</div>
+<div class="title_area">请您留言</div>
+<div style="color: #f00; text-indent: 2em">说明：如果需要更进一步的服务,请留下具体联系方式</div>
+<div class="content_area">
+<LINK href="/system/resource/style/component/message/message_new.css" type=text/css rel=stylesheet>
+
+
+<script language="JavaScript" src="/system/resource/message/validdata.js"></script>
+<script language="javascript" src="/system/resource/js/base64.js"></script>
+<script language="javascript" src="/system/resource/js/md5.js"></script>
+<script language=javascript src="/system/resource/storage/service/storageservices.js"></script>
+<script language="javascript"> 
+ 
+/** 
+ *功能说明：去掉字符串左边的空格 
+　　　　*@param string 为传进来的字符串 
+　　　　*@return 为字符串 
+ */ 
+function ltrim(string) 
+{ 
+    var objstr = string; 
+
+    if((objstr == "") || (objstr == " ")) 
+    { 
+        return ""; 
+    } 
+
+    var head; 
+    var exitw = true; 
+
+    while(exitw) 
+    { 
+        if((objstr == "") || (objstr == " ")) 
+        { 
+            return ""; 
+        } 
+
+        head = objstr.charAt(0); 
+        if(head == " ") 
+        { 
+            objstr = objstr.substr(1); 
+        } 
+        else 
+        { 
+            exitw = false; 
+        } 
+    } 
+
+    return objstr; 
+} 
+    function rtrim(string) 
+    { 
+        var objstr = string; 
+     
+        if((objstr == "") || (objstr == " ")) 
+        { 
+            return ""; 
+        } 
+     
+        var head; 
+        var exitw = true; 
+     
+        while(exitw) 
+        { 
+            if((objstr == "") || (objstr == " ")) 
+            { 
+                return ""; 
+            } 
+     
+            head = objstr.charAt(objstr.length - 1); 
+            if(head == " ") 
+            { 
+                objstr = objstr.substr(0, objstr.length - 2); 
+            } 
+            else 
+            { 
+                exitw = false; 
+            } 
+        } 
+     
+        return objstr; 
+    } 
+    /** 
+     *功能说明：去掉字符串两边的空格 
+    　　　　*@param string 为传进来的字符串 
+    　　　　*@return 为字符串　　　 
+    */ 
+    function trim(string) 
+    { 
+        var objstr = string; 
+        objstr = ltrim(objstr); 
+        objstr = rtrim(objstr); 
+        return objstr; 
+    } 
+    function yincang(ischecked) 
+{ 
+ if(ischecked) 
+ document.getElementById("yincangid").style.display="none"; 
+ else 
+ document.getElementById("yincangid").style.display="inline-block"; 
+} 
+ function showmessage(messageid , name) 
+    { 
+       window.showModalDialog('/system/resource/js/message/messagecontents.jsp?wbtreeid=1167&name='+name+'&messageid='+messageid+'&messagecontentcolor=#ffffff&fontstyle= class="font165094" &titlecolor=#E2F2FA&recontentcolor=#d9ecf9',window,"dialogWidth:600px;status:no;dialogHeight:300px");  
+    } 
+    function OpenPopWin(winURL, winWidth, winHeight, moveX, moveY, winFeatures, wName) 
+ { 
+  return WinOpenPopWin(window, winURL, winWidth, winHeight, moveX, moveY, winFeatures, wName); 
+ } 
+   
+    function WinOpenPopWin(win, winURL, winWidth, winHeight, moveX, moveY, winFeatures, wName) 
+ { 
+  if(WinOpenPopWin.arguments.length == 8) 
+      winFeatures = "," + winFeatures; 
+  else 
+      winFeatures = ""; 
+      x = (screen.width - winWidth) / 2; 
+   
+      if(moveX != "") 
+          x = moveX; 
+   
+      y = (screen.height - winHeight) / 2; 
+   
+      if(moveX != "") 
+          y = moveY; 
+   
+      var temp = win.open(winURL, wName, "top=" + y + ",left=" + x + ",width=" + winWidth + ",height=" + winHeight + winFeatures + ",resizable=yes"); 
+      return temp; 
+  } 
+    function show(viewid,submitstyle,owner,dbName,ownerName, url,language) 
+ { 
+     OpenPopWin('/system/resource/js/message/addmessagepage.jsp?pformname=b165094b&viewid='+viewid+'&submitstyle='+submitstyle+'&owner='+owner+'&dbName='+dbName+'&ownerName='+ownerName+'&url='+url+'&language='+language  ,620, 520, "220", "120", "", 'showmessage'); 
+ } 
+    function oprcontent() 
+    { 
+      
+    } 
+     
+</script>
+<form name="b165094b" method="post" id="b165094b" style="display: inline" action="/lib/bbs.jsp?wbtreeid=1167&urltype=tree.TreeTempUrl">
+
+    <table width="94%" border="0" align="center" cellpadding="2" cellspacing="1"><tr>
+
+		<td align="left" Valign="middle">
+			<a href="javascript:show('165094','','1411890787','vsb','lib','L2xpYi9iYnMuanNw','zh_CN');" class="menu">
+			    <span  class="fyfont165094"  style="background-color:"> 
+
+ 				<img src="/system/resource/images/message/lyb_qdt.gif" align="absmiddle" border=0>
+
+                        我要发言
+                 </span>
+             </a>
+		</td>
+	</tr></table>
+
+	<table  class="bgstyle165094"   class="window165094"  width=100% border=0>
+		<tr height="30">
+			<td width="40%" align="center" background="images/picture/tabback1.jpg" nowrap>
+				标题
+			</td>
+			<td width="15%" align="center" background="images/picture/tabback1.jpg" nowrap>
+				分类名称
+			</td>
+			<td width="15%" align="center" background="images/picture/tabback1.jpg" nowrap>
+				发布人
+			</td>
+			<td width="15%" align="center" background="images/picture/tabback1.jpg" nowrap>
+				提交时间
+			</td>
+			<td width="15%" align="center" background="images/picture/tabback1.jpg" nowrap>
+				状态
+			</td>
+		</tr>
+	</table>
+
+	<table  class="window165094"  border="0" width=100% align="center" cellpadding="8" cellspacing="1">
+
+			<tr  class="font165094" >
+				<td width="40%" valign="middle" height="10">
+					<span ><img src="images/ly.png" align="absmiddle" border="0"></span>
+					<span  class="font165094" >
+					    图书馆开放
+					</span>
+				</td>
+				<td width="15%" align="center">默认分类</td>
+				<td width="15%" align="center">116.252.169.*</td>
+				<td width="15%" align="center">2020-04-13</td>
+				<td width="15%" align="center">已回复</td>
+			</tr>
+			<tr valign="top" bgcolor=#ffffff>
+				<td class="zt2" colspan="5">
+					<table width="100%" border="0" cellspacing="3" cellpadding="1"><tr></tr></table>
+
+					<table  class="window165094"  width="100%" border="0"cellpadding="3" cellspacing="1">
+						<tr bgcolor=#ffffff>
+							<td style="word-break: break-all">
+								<span  class="hffont165094" > 
+ 
+                                       大四在19号回校之后是否会开放图书馆？每天开放时间是否有变？ 
+                                </span>
+							</td>
+						</tr>
+					</table>
+
+					<table bgcolor="#d9ecf9"  class="window165094"  width="94%" border="0" align="center" cellpadding="3" cellspacing="1">
+						<tr><td valign="top" style="word-break: break-all">
+								<span  class="hffont165094" >
+								    <IMG height=20 src="/system/resource/images/message/face.gif" width=20 align=absBottom> 
+								    回复：图书馆开放
+									回复人：lib
+									回复时间：2020-04-18 09:39:21
+
+									<p><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-weight:normal;font-size:12.0000pt;mso-font-kerning:1.0000pt;">图书馆老师回复：您好，学生返校后，图书馆会开放，但会采取限人数、测体温等防控措施。</span></p>
+							    </span>
+						</td></tr>
+					</table>
+
+				</td>
+			</tr>
+
+			<tr  class="font1165094" >
+				<td width="40%" valign="middle" height="10">
+					<span ><img src="images/ly.png" align="absmiddle" border="0"></span>
+					<span  class="font1165094" >
+					    下载方面的
+					</span>
+				</td>
+				<td width="15%" align="center">默认分类</td>
+				<td width="15%" align="center">202.193.64.*</td>
+				<td width="15%" align="center">2020-04-08</td>
+				<td width="15%" align="center">已回复</td>
+			</tr>
+			<tr valign="top" bgcolor=#ffffff>
+				<td class="zt2" colspan="5">
+					<table width="100%" border="0" cellspacing="3" cellpadding="1"><tr></tr></table>
+
+					<table  class="window165094"  width="100%" border="0"cellpadding="3" cellspacing="1">
+						<tr bgcolor=#ffffff>
+							<td style="word-break: break-all">
+								<span  class="hffont165094" > 
+ 
+                                       老师好！请问一下在我们图书馆如和下载一些电子书呢？n 
+                                </span>
+							</td>
+						</tr>
+					</table>
+
+					<table bgcolor="#d9ecf9"  class="window165094"  width="94%" border="0" align="center" cellpadding="3" cellspacing="1">
+						<tr><td valign="top" style="word-break: break-all">
+								<span  class="hffont165094" >
+								    <IMG height=20 src="/system/resource/images/message/face.gif" width=20 align=absBottom> 
+								    回复：下载方面的
+									回复人：lib_wei
+									回复时间：2020-04-09 09:03:14
+
+									<p>您好，根据您留言的内容，请您加入图书馆学科服务群（QQ:214738121）或者桂电信息检索培训咨询（QQ:416500095）,就具体问题，咨询群里面的老师，以便得到更好的指导。谢谢！</p>
+							    </span>
+						</td></tr>
+					</table>
+
+				</td>
+			</tr>
+
+			<tr  class="font165094" >
+				<td width="40%" valign="middle" height="10">
+					<span ><img src="images/ly.png" align="absmiddle" border="0"></span>
+					<span  class="font165094" >
+					    知网查重
+					</span>
+				</td>
+				<td width="15%" align="center">默认分类</td>
+				<td width="15%" align="center">240e:a4:e88c:c100:a1fa:469f:9dd6:ee8a</td>
+				<td width="15%" align="center">2020-04-06</td>
+				<td width="15%" align="center">已回复</td>
+			</tr>
+			<tr valign="top" bgcolor=#ffffff>
+				<td class="zt2" colspan="5">
+					<table width="100%" border="0" cellspacing="3" cellpadding="1"><tr></tr></table>
+
+					<table  class="window165094"  width="100%" border="0"cellpadding="3" cellspacing="1">
+						<tr bgcolor=#ffffff>
+							<td style="word-break: break-all">
+								<span  class="hffont165094" > 
+ 
+                                       学生个人怎么进行论文查重 
+                                </span>
+							</td>
+						</tr>
+					</table>
+
+					<table bgcolor="#d9ecf9"  class="window165094"  width="94%" border="0" align="center" cellpadding="3" cellspacing="1">
+						<tr><td valign="top" style="word-break: break-all">
+								<span  class="hffont165094" >
+								    <IMG height=20 src="/system/resource/images/message/face.gif" width=20 align=absBottom> 
+								    回复：知网查重
+									回复人：lib
+									回复时间：2020-04-07 09:15:49
+
+									<p><span style="mso-spacerun:'yes';font-family:黑体;color:rgb(0,0,0);font-weight:normal;font-size:12.0000pt;mso-font-kerning:1.0000pt;">图书馆老师回复：您好</span><span style="mso-spacerun:'yes';font-family:黑体;color:rgb(0,0,0);font-weight:normal;font-size:12.0000pt;mso-font-kerning:1.0000pt;">！</span><span style="mso-spacerun:'yes';font-family:黑体;color:rgb(0,0,0);font-weight:normal;font-size:12.0000pt;mso-font-kerning:1.0000pt;">&nbsp;</span><span style="mso-spacerun:'yes';font-family:黑体;color:rgb(0,0,0);font-size:12.0000pt;mso-font-kerning:1.0000pt;">试用数据库笔杆网和大雅相似度分析可以给我馆读者免费论文检测,请使用VPN通过图书馆数据库导航页面进入。维普论文检测系统是收费的，通过图书馆数据库导航的链接进入，可以打九折。</span><span style="mso-spacerun:'yes';font-family:黑体;color:rgb(0,0,0);font-weight:normal;font-size:12.0000pt;mso-font-kerning:1.0000pt;">祝学习进步</span><span style="mso-spacerun:'yes';font-family:黑体;color:rgb(0,0,0);font-weight:normal;font-size:12.0000pt;mso-font-kerning:1.0000pt;">！</span></p>
+							    </span>
+						</td></tr>
+					</table>
+
+				</td>
+			</tr>
+
+			<tr  class="font1165094" >
+				<td width="40%" valign="middle" height="10">
+					<span ><img src="images/ly.png" align="absmiddle" border="0"></span>
+					<span  class="font1165094" >
+					    文章发表问题
+					</span>
+				</td>
+				<td width="15%" align="center">默认分类</td>
+				<td width="15%" align="center">202.193.64.*</td>
+				<td width="15%" align="center">2020-04-05</td>
+				<td width="15%" align="center">已回复</td>
+			</tr>
+			<tr valign="top" bgcolor=#ffffff>
+				<td class="zt2" colspan="5">
+					<table width="100%" border="0" cellspacing="3" cellpadding="1"><tr></tr></table>
+
+					<table  class="window165094"  width="100%" border="0"cellpadding="3" cellspacing="1">
+						<tr bgcolor=#ffffff>
+							<td style="word-break: break-all">
+								<span  class="hffont165094" > 
+ 
+                                       老师您好，今年中了一篇文章，现在是online 但是没有分配卷号，在我们学校算正式发表吗？还有分区是按什么时间的进行评定？？谢谢老师 
+                                </span>
+							</td>
+						</tr>
+					</table>
+
+					<table bgcolor="#d9ecf9"  class="window165094"  width="94%" border="0" align="center" cellpadding="3" cellspacing="1">
+						<tr><td valign="top" style="word-break: break-all">
+								<span  class="hffont165094" >
+								    <IMG height=20 src="/system/resource/images/message/face.gif" width=20 align=absBottom> 
+								    回复：文章发表问题
+									回复人：lib
+									回复时间：2020-04-07 09:33:35
+
+									<p>读者您好，期刊分区按最新的给，至于您目前只是online，但还未正式取得卷期号的论文是否算正式发表了，这要看学校怎么认定了，建议请您向校科技处咨询。感谢您的咨询，祝生活愉快！</p>
+							    </span>
+						</td></tr>
+					</table>
+
+				</td>
+			</tr>
+
+			<tr  class="font165094" >
+				<td width="40%" valign="middle" height="10">
+					<span ><img src="images/ly.png" align="absmiddle" border="0"></span>
+					<span  class="font165094" >
+					    笔杆网查重国企
+					</span>
+				</td>
+				<td width="15%" align="center">默认分类</td>
+				<td width="15%" align="center">202.193.64.*</td>
+				<td width="15%" align="center">2020-04-04</td>
+				<td width="15%" align="center">已回复</td>
+			</tr>
+			<tr valign="top" bgcolor=#ffffff>
+				<td class="zt2" colspan="5">
+					<table width="100%" border="0" cellspacing="3" cellpadding="1"><tr></tr></table>
+
+					<table  class="window165094"  width="100%" border="0"cellpadding="3" cellspacing="1">
+						<tr bgcolor=#ffffff>
+							<td style="word-break: break-all">
+								<span  class="hffont165094" > 
+ 
+                                       老师，您好，我看到笔杆网的试用时间截止到2020/6/29，为什么现在查重需要付费了？ 
+                                </span>
+							</td>
+						</tr>
+					</table>
+
+					<table bgcolor="#d9ecf9"  class="window165094"  width="94%" border="0" align="center" cellpadding="3" cellspacing="1">
+						<tr><td valign="top" style="word-break: break-all">
+								<span  class="hffont165094" >
+								    <IMG height=20 src="/system/resource/images/message/face.gif" width=20 align=absBottom> 
+								    回复：笔杆网查重国企
+									回复人：lib
+									回复时间：2020-04-04 20:19:06
+
+									<p><!--[if gte mso 9]><xml><w:WordDocument><w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery><w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery><w:DocumentKind>DocumentNotSpecified</w:DocumentKind><w:DrawingGridVerticalSpacing>7.8 磅</w:DrawingGridVerticalSpacing><w:PunctuationKerning></w:PunctuationKerning><w:View>Normal</w:View><w:Compatibility><w:DontGrowAutofit /><w:BalanceSingleByteDoubleByteWidth /><w:DoNotExpandShiftReturn /><w:UseFELayout /></w:Compatibility><w:Zoom>0</w:Zoom></w:WordDocument></xml><![endif]--><p class="MsoNormal"><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-weight:normal;font-size:12.0000pt;mso-font-kerning:1.0000pt;">图书馆老师回复：您好，</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:1.0000pt;">学校没有购买笔杆网，试用</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:1.0000pt;">阶段</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:1.0000pt;">每天有次数</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:1.0000pt;">限制，</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:1.0000pt;">使用完了就得等次日</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:1.0000pt;">。</span></p><!--[if gte mso 9]><xml><w:LatentStyles deflockedstate="false" defunhidewhenused="true" defsemihidden="true" defqformat="false" defpriority="99" latentstylecount="260">
+<w:LsdException locked="false" priority="99" semihidden="false" name="Normal"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="heading 1"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="heading 2"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="heading 3"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="heading 4"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="heading 5"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="heading 6"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="heading 7"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="heading 8"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="heading 9"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="index 1"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="index 2"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="index 3"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="index 4"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="index 5"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="index 6"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="index 7"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="index 8"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="index 9"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="toc 1"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="toc 2"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="toc 3"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="toc 4"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="toc 5"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="toc 6"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="toc 7"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="toc 8"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="toc 9"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Normal Indent"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="footnote text"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="annotation text"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="header"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="footer"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="index heading"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="caption"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="table of figures"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="envelope address"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="envelope return"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="footnote reference"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="annotation reference"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="line number"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="page number"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="endnote reference"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="endnote text"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="table of authorities"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="macro"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="toa heading"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="List"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="List Bullet"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="List Number"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="List 2"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="List 3"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="List 4"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="List 5"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="List Bullet 2"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="List Bullet 3"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="List Bullet 4"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="List Bullet 5"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="List Number 2"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="List Number 3"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="List Number 4"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="List Number 5"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Title"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Closing"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Signature"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Default Paragraph Font"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Body Text"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Body Text Indent"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="List Continue"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="List Continue 2"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="List Continue 3"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="List Continue 4"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="List Continue 5"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Message Header"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Subtitle"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Salutation"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Date"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Body Text First Indent"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Body Text First Indent 2"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Note Heading"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Body Text 2"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Body Text 3"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Body Text Indent 2"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Body Text Indent 3"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Block Text"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Hyperlink"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="FollowedHyperlink"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Strong"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Emphasis"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Document Map"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Plain Text"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="E-mail Signature"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Normal (Web)"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="HTML Acronym"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="HTML Address"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="HTML Cite"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="HTML Code"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="HTML Definition"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="HTML Keyboard"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="HTML Preformatted"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="HTML Sample"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="HTML Typewriter"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="HTML Variable"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Normal Table"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="annotation subject"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="No List"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table Simple 1"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table Simple 2"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table Simple 3"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table Classic 1"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table Classic 2"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table Classic 3"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table Classic 4"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table Colorful 1"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table Colorful 2"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table Colorful 3"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table Columns 1"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table Columns 2"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table Columns 3"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table Columns 4"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table Columns 5"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table Grid 1"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table Grid 2"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table Grid 3"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table Grid 4"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table Grid 5"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table Grid 6"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table Grid 7"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table Grid 8"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table List 1"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table List 2"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table List 3"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table List 4"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table List 5"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table List 6"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table List 7"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table List 8"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table 3D effects 1"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table 3D effects 2"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table 3D effects 3"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table Contemporary"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table Elegant"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table Professional"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table Subtle 1"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table Subtle 2"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table Web 1"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table Web 2"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table Web 3"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Balloon Text"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table Grid"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table Theme"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Light Shading"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Light List"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Light Grid"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium Shading 1"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium Shading 2"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium List 1"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium List 2"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium Grid 1"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium Grid 2"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium Grid 3"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Dark List"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Colorful Shading"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Colorful List"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Colorful Grid"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Light Shading Accent 1"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Light List Accent 1"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Light Grid Accent 1"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium Shading 1 Accent 1"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium Shading 2 Accent 1"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium List 1 Accent 1"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium List 2 Accent 1"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium Grid 1 Accent 1"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium Grid 2 Accent 1"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium Grid 3 Accent 1"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Dark List Accent 1"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Colorful Shading Accent 1"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Colorful List Accent 1"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Colorful Grid Accent 1"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Light Shading Accent 2"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Light List Accent 2"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Light Grid Accent 2"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium Shading 1 Accent 2"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium Shading 2 Accent 2"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium List 1 Accent 2"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium List 2 Accent 2"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium Grid 1 Accent 2"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium Grid 2 Accent 2"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium Grid 3 Accent 2"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Dark List Accent 2"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Colorful Shading Accent 2"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Colorful List Accent 2"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Colorful Grid Accent 2"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Light Shading Accent 3"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Light List Accent 3"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Light Grid Accent 3"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium Shading 1 Accent 3"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium Shading 2 Accent 3"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium List 1 Accent 3"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium List 2 Accent 3"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium Grid 1 Accent 3"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium Grid 2 Accent 3"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium Grid 3 Accent 3"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Dark List Accent 3"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Colorful Shading Accent 3"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Colorful List Accent 3"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Colorful Grid Accent 3"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Light Shading Accent 4"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Light List Accent 4"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Light Grid Accent 4"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium Shading 1 Accent 4"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium Shading 2 Accent 4"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium List 1 Accent 4"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium List 2 Accent 4"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium Grid 1 Accent 4"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium Grid 2 Accent 4"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium Grid 3 Accent 4"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Dark List Accent 4"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Colorful Shading Accent 4"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Colorful List Accent 4"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Colorful Grid Accent 4"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Light Shading Accent 5"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Light List Accent 5"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Light Grid Accent 5"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium Shading 1 Accent 5"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium Shading 2 Accent 5"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium List 1 Accent 5"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium List 2 Accent 5"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium Grid 1 Accent 5"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium Grid 2 Accent 5"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium Grid 3 Accent 5"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Dark List Accent 5"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Colorful Shading Accent 5"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Colorful List Accent 5"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Colorful Grid Accent 5"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Light Shading Accent 6"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Light List Accent 6"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Light Grid Accent 6"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium Shading 1 Accent 6"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium Shading 2 Accent 6"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium List 1 Accent 6"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium List 2 Accent 6"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium Grid 1 Accent 6"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium Grid 2 Accent 6"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium Grid 3 Accent 6"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Dark List Accent 6"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Colorful Shading Accent 6"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Colorful List Accent 6"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Colorful Grid Accent 6"></w:LsdException>
+</w:LatentStyles></xml><![endif]--></p>
+							    </span>
+						</td></tr>
+					</table>
+
+				</td>
+			</tr>
+
+			<tr  class="font1165094" >
+				<td width="40%" valign="middle" height="10">
+					<span ><img src="images/ly.png" align="absmiddle" border="0"></span>
+					<span  class="font1165094" >
+					    笔杆网论文查重续费
+					</span>
+				</td>
+				<td width="15%" align="center">默认分类</td>
+				<td width="15%" align="center">202.193.64.*</td>
+				<td width="15%" align="center">2020-04-03</td>
+				<td width="15%" align="center">已回复</td>
+			</tr>
+			<tr valign="top" bgcolor=#ffffff>
+				<td class="zt2" colspan="5">
+					<table width="100%" border="0" cellspacing="3" cellpadding="1"><tr></tr></table>
+
+					<table  class="window165094"  width="100%" border="0"cellpadding="3" cellspacing="1">
+						<tr bgcolor=#ffffff>
+							<td style="word-break: break-all">
+								<span  class="hffont165094" > 
+ 
+                                       老师，笔杆网论文查重，请学校续费吧，拜托了 
+                                </span>
+							</td>
+						</tr>
+					</table>
+
+					<table bgcolor="#d9ecf9"  class="window165094"  width="94%" border="0" align="center" cellpadding="3" cellspacing="1">
+						<tr><td valign="top" style="word-break: break-all">
+								<span  class="hffont165094" >
+								    <IMG height=20 src="/system/resource/images/message/face.gif" width=20 align=absBottom> 
+								    回复：笔杆网论文查重续费
+									回复人：lib
+									回复时间：2020-04-04 20:18:52
+
+									<p><!--[if gte mso 9]><xml><w:WordDocument><w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery><w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery><w:DocumentKind>DocumentNotSpecified</w:DocumentKind><w:DrawingGridVerticalSpacing>7.8 磅</w:DrawingGridVerticalSpacing><w:PunctuationKerning></w:PunctuationKerning><w:View>Normal</w:View><w:Compatibility><w:DontGrowAutofit /><w:BalanceSingleByteDoubleByteWidth /><w:DoNotExpandShiftReturn /><w:UseFELayout /></w:Compatibility><w:Zoom>0</w:Zoom></w:WordDocument></xml><![endif]--><p class="MsoNormal"><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-weight:normal;font-size:12.0000pt;mso-font-kerning:1.0000pt;">图书馆老师回复：您好，</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:1.0000pt;">学校没有购买笔杆网，试用</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:1.0000pt;">阶段</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:1.0000pt;">每天有次数</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:1.0000pt;">限制，</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:1.0000pt;">使用完了就得等次日</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:1.0000pt;">。</span></p><!--[if gte mso 9]><xml><w:LatentStyles deflockedstate="false" defunhidewhenused="true" defsemihidden="true" defqformat="false" defpriority="99" latentstylecount="260">
+<w:LsdException locked="false" priority="99" semihidden="false" name="Normal"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="heading 1"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="heading 2"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="heading 3"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="heading 4"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="heading 5"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="heading 6"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="heading 7"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="heading 8"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="heading 9"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="index 1"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="index 2"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="index 3"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="index 4"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="index 5"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="index 6"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="index 7"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="index 8"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="index 9"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="toc 1"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="toc 2"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="toc 3"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="toc 4"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="toc 5"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="toc 6"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="toc 7"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="toc 8"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="toc 9"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Normal Indent"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="footnote text"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="annotation text"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="header"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="footer"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="index heading"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="caption"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="table of figures"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="envelope address"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="envelope return"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="footnote reference"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="annotation reference"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="line number"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="page number"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="endnote reference"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="endnote text"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="table of authorities"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="macro"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="toa heading"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="List"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="List Bullet"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="List Number"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="List 2"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="List 3"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="List 4"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="List 5"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="List Bullet 2"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="List Bullet 3"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="List Bullet 4"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="List Bullet 5"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="List Number 2"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="List Number 3"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="List Number 4"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="List Number 5"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Title"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Closing"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Signature"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Default Paragraph Font"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Body Text"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Body Text Indent"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="List Continue"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="List Continue 2"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="List Continue 3"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="List Continue 4"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="List Continue 5"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Message Header"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Subtitle"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Salutation"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Date"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Body Text First Indent"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Body Text First Indent 2"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Note Heading"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Body Text 2"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Body Text 3"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Body Text Indent 2"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Body Text Indent 3"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Block Text"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Hyperlink"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="FollowedHyperlink"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Strong"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Emphasis"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Document Map"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Plain Text"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="E-mail Signature"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Normal (Web)"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="HTML Acronym"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="HTML Address"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="HTML Cite"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="HTML Code"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="HTML Definition"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="HTML Keyboard"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="HTML Preformatted"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="HTML Sample"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="HTML Typewriter"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="HTML Variable"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Normal Table"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="annotation subject"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="No List"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table Simple 1"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table Simple 2"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table Simple 3"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table Classic 1"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table Classic 2"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table Classic 3"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table Classic 4"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table Colorful 1"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table Colorful 2"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table Colorful 3"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table Columns 1"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table Columns 2"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table Columns 3"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table Columns 4"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table Columns 5"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table Grid 1"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table Grid 2"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table Grid 3"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table Grid 4"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table Grid 5"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table Grid 6"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table Grid 7"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table Grid 8"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table List 1"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table List 2"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table List 3"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table List 4"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table List 5"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table List 6"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table List 7"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table List 8"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table 3D effects 1"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table 3D effects 2"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table 3D effects 3"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table Contemporary"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table Elegant"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table Professional"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table Subtle 1"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table Subtle 2"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table Web 1"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table Web 2"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table Web 3"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Balloon Text"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table Grid"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Table Theme"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Light Shading"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Light List"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Light Grid"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium Shading 1"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium Shading 2"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium List 1"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium List 2"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium Grid 1"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium Grid 2"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium Grid 3"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Dark List"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Colorful Shading"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Colorful List"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Colorful Grid"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Light Shading Accent 1"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Light List Accent 1"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Light Grid Accent 1"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium Shading 1 Accent 1"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium Shading 2 Accent 1"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium List 1 Accent 1"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium List 2 Accent 1"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium Grid 1 Accent 1"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium Grid 2 Accent 1"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium Grid 3 Accent 1"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Dark List Accent 1"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Colorful Shading Accent 1"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Colorful List Accent 1"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Colorful Grid Accent 1"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Light Shading Accent 2"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Light List Accent 2"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Light Grid Accent 2"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium Shading 1 Accent 2"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium Shading 2 Accent 2"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium List 1 Accent 2"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium List 2 Accent 2"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium Grid 1 Accent 2"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium Grid 2 Accent 2"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium Grid 3 Accent 2"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Dark List Accent 2"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Colorful Shading Accent 2"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Colorful List Accent 2"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Colorful Grid Accent 2"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Light Shading Accent 3"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Light List Accent 3"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Light Grid Accent 3"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium Shading 1 Accent 3"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium Shading 2 Accent 3"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium List 1 Accent 3"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium List 2 Accent 3"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium Grid 1 Accent 3"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium Grid 2 Accent 3"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium Grid 3 Accent 3"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Dark List Accent 3"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Colorful Shading Accent 3"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Colorful List Accent 3"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Colorful Grid Accent 3"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Light Shading Accent 4"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Light List Accent 4"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Light Grid Accent 4"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium Shading 1 Accent 4"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium Shading 2 Accent 4"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium List 1 Accent 4"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium List 2 Accent 4"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium Grid 1 Accent 4"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium Grid 2 Accent 4"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium Grid 3 Accent 4"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Dark List Accent 4"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Colorful Shading Accent 4"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Colorful List Accent 4"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Colorful Grid Accent 4"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Light Shading Accent 5"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Light List Accent 5"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Light Grid Accent 5"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium Shading 1 Accent 5"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium Shading 2 Accent 5"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium List 1 Accent 5"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium List 2 Accent 5"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium Grid 1 Accent 5"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium Grid 2 Accent 5"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium Grid 3 Accent 5"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Dark List Accent 5"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Colorful Shading Accent 5"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Colorful List Accent 5"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Colorful Grid Accent 5"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Light Shading Accent 6"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Light List Accent 6"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Light Grid Accent 6"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium Shading 1 Accent 6"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium Shading 2 Accent 6"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium List 1 Accent 6"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium List 2 Accent 6"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium Grid 1 Accent 6"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium Grid 2 Accent 6"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Medium Grid 3 Accent 6"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Dark List Accent 6"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Colorful Shading Accent 6"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Colorful List Accent 6"></w:LsdException>
+<w:LsdException locked="false" priority="99" semihidden="false" name="Colorful Grid Accent 6"></w:LsdException>
+</w:LatentStyles></xml><![endif]--></p>
+							    </span>
+						</td></tr>
+					</table>
+
+				</td>
+			</tr>
+
+			<tr  class="font165094" >
+				<td width="40%" valign="middle" height="10">
+					<span ><img src="images/ly.png" align="absmiddle" border="0"></span>
+					<span  class="font165094" >
+					    51cto数据库无法使用
+					</span>
+				</td>
+				<td width="15%" align="center">默认分类</td>
+				<td width="15%" align="center">202.193.64.*</td>
+				<td width="15%" align="center">2020-04-03</td>
+				<td width="15%" align="center">已回复</td>
+			</tr>
+			<tr valign="top" bgcolor=#ffffff>
+				<td class="zt2" colspan="5">
+					<table width="100%" border="0" cellspacing="3" cellpadding="1"><tr></tr></table>
+
+					<table  class="window165094"  width="100%" border="0"cellpadding="3" cellspacing="1">
+						<tr bgcolor=#ffffff>
+							<td style="word-break: break-all">
+								<span  class="hffont165094" > 
+ 
+                                       老师您好，在家使用VPN登陆后显示当前ip无法访问51cto 
+                                </span>
+							</td>
+						</tr>
+					</table>
+
+					<table bgcolor="#d9ecf9"  class="window165094"  width="94%" border="0" align="center" cellpadding="3" cellspacing="1">
+						<tr><td valign="top" style="word-break: break-all">
+								<span  class="hffont165094" >
+								    <IMG height=20 src="/system/resource/images/message/face.gif" width=20 align=absBottom> 
+								    回复：51cto数据库无法使用
+									回复人：lib_wei
+									回复时间：2020-04-03 16:51:41
+
+									<p><p class="MsoNormal"><span style="mso-spacerun:'yes';font-family:黑体;font-weight:normal;font-size:12.0000pt;mso-font-kerning:1.0000pt;">图书馆老师回复：您好</span><span style="mso-spacerun:'yes';font-family:黑体;font-weight:normal;font-size:12.0000pt;mso-font-kerning:1.0000pt;">！该库试用期已过，学校目前没有购买，但新的购置计划正在申报中。</span><span style="mso-spacerun:'yes';font-family:黑体;font-size:12.0000pt;mso-font-kerning:1.0000pt;"></span></p><span style="mso-spacerun:'yes';font-family:黑体;font-weight:normal;font-size:12.0000pt;mso-font-kerning:1.0000pt;">祝学习进步</span><span style="mso-spacerun:'yes';font-family:黑体;font-weight:normal;font-size:12.0000pt;mso-font-kerning:1.0000pt;">！</span></p>
+							    </span>
+						</td></tr>
+					</table>
+
+				</td>
+			</tr>
+
+			<tr  class="font1165094" >
+				<td width="40%" valign="middle" height="10">
+					<span ><img src="images/ly.png" align="absmiddle" border="0"></span>
+					<span  class="font1165094" >
+					    美国交通运输领域学术论文查看
+					</span>
+				</td>
+				<td width="15%" align="center">默认分类</td>
+				<td width="15%" align="center">202.193.64.*</td>
+				<td width="15%" align="center">2020-04-03</td>
+				<td width="15%" align="center">已回复</td>
+			</tr>
+			<tr valign="top" bgcolor=#ffffff>
+				<td class="zt2" colspan="5">
+					<table width="100%" border="0" cellspacing="3" cellpadding="1"><tr></tr></table>
+
+					<table  class="window165094"  width="100%" border="0"cellpadding="3" cellspacing="1">
+						<tr bgcolor=#ffffff>
+							<td style="word-break: break-all">
+								<span  class="hffont165094" > 
+ 
+                                       请问本校是否有开通相关美国大学或研究机构在交通运输领域的数据库，如果没有请老师介绍几个方法以便可以查看美国大学的学术论文。谢谢。 
+                                </span>
+							</td>
+						</tr>
+					</table>
+
+					<table bgcolor="#d9ecf9"  class="window165094"  width="94%" border="0" align="center" cellpadding="3" cellspacing="1">
+						<tr><td valign="top" style="word-break: break-all">
+								<span  class="hffont165094" >
+								    <IMG height=20 src="/system/resource/images/message/face.gif" width=20 align=absBottom> 
+								    回复：美国交通运输领域学术论文查看
+									回复人：lib_wei
+									回复时间：2020-04-03 16:24:54
+
+									<p>您好，根据您留言的内容，请您加入图书馆学科服务群（QQ:214738121）或者桂电信息检索培训咨询（QQ:416500095）,就具体问题，咨询群里面的老师，以便得到更好的指导。谢谢！</p>
+							    </span>
+						</td></tr>
+					</table>
+
+				</td>
+			</tr>
+
+			<tr  class="font165094" >
+				<td width="40%" valign="middle" height="10">
+					<span ><img src="images/ly.png" align="absmiddle" border="0"></span>
+					<span  class="font165094" >
+					    笔杆网查重过期
+					</span>
+				</td>
+				<td width="15%" align="center">默认分类</td>
+				<td width="15%" align="center">202.193.64.*</td>
+				<td width="15%" align="center">2020-04-03</td>
+				<td width="15%" align="center">已回复</td>
+			</tr>
+			<tr valign="top" bgcolor=#ffffff>
+				<td class="zt2" colspan="5">
+					<table width="100%" border="0" cellspacing="3" cellpadding="1"><tr></tr></table>
+
+					<table  class="window165094"  width="100%" border="0"cellpadding="3" cellspacing="1">
+						<tr bgcolor=#ffffff>
+							<td style="word-break: break-all">
+								<span  class="hffont165094" > 
+ 
+                                       <font face="宋体"><font style="font-size:13">老师，您好，我是一名2020届硕士毕业生，今天使用笔杆网查重，发现提醒需要付费，校图书馆是否继续续费，如果会续费，麻烦老师快一点，4.7号前就是第一批论文提交截止时间</font></font> 
+                                </span>
+							</td>
+						</tr>
+					</table>
+
+					<table bgcolor="#d9ecf9"  class="window165094"  width="94%" border="0" align="center" cellpadding="3" cellspacing="1">
+						<tr><td valign="top" style="word-break: break-all">
+								<span  class="hffont165094" >
+								    <IMG height=20 src="/system/resource/images/message/face.gif" width=20 align=absBottom> 
+								    回复：笔杆网查重过期
+									回复人：lib_wei
+									回复时间：2020-04-03 12:06:39
+
+									<p><p class="MsoNormal"><span style="mso-spacerun:'yes';font-family:黑体;font-weight:normal;font-size:12.0000pt;mso-font-kerning:1.0000pt;">图书馆老师回复：您好</span><span style="mso-spacerun:'yes';font-family:黑体;font-weight:normal;font-size:12.0000pt;mso-font-kerning:1.0000pt;">！论文查重，除部分试用阶段免费外，其他都要读者自己付费。</span><span style="mso-spacerun:'yes';font-family:黑体;font-size:12.0000pt;mso-font-kerning:1.0000pt;"></span></p><span style="mso-spacerun:'yes';font-family:黑体;font-weight:normal;font-size:12.0000pt;mso-font-kerning:1.0000pt;">祝学习进步</span><span style="mso-spacerun:'yes';font-family:黑体;font-weight:normal;font-size:12.0000pt;mso-font-kerning:1.0000pt;">！</span></p>
+							    </span>
+						</td></tr>
+					</table>
+
+				</td>
+			</tr>
+
+			<tr  class="font1165094" >
+				<td width="40%" valign="middle" height="10">
+					<span ><img src="images/ly.png" align="absmiddle" border="0"></span>
+					<span  class="font1165094" >
+					    美国大学学术论文查阅，请问...
+					</span>
+				</td>
+				<td width="15%" align="center">默认分类</td>
+				<td width="15%" align="center">202.193.64.*</td>
+				<td width="15%" align="center">2020-04-02</td>
+				<td width="15%" align="center">已回复</td>
+			</tr>
+			<tr valign="top" bgcolor=#ffffff>
+				<td class="zt2" colspan="5">
+					<table width="100%" border="0" cellspacing="3" cellpadding="1"><tr></tr></table>
+
+					<table  class="window165094"  width="100%" border="0"cellpadding="3" cellspacing="1">
+						<tr bgcolor=#ffffff>
+							<td style="word-break: break-all">
+								<span  class="hffont165094" > 
+ 
+                                       美国大学交通领域学术论文查阅，请问学校可以用哪个数据库查到？急，赶论文，谢谢。 
+                                </span>
+							</td>
+						</tr>
+					</table>
+
+					<table bgcolor="#d9ecf9"  class="window165094"  width="94%" border="0" align="center" cellpadding="3" cellspacing="1">
+						<tr><td valign="top" style="word-break: break-all">
+								<span  class="hffont165094" >
+								    <IMG height=20 src="/system/resource/images/message/face.gif" width=20 align=absBottom> 
+								    回复：美国大学学术论文查阅，请问学校可以用哪个数据库查到？急，赶论文，谢谢。
+									回复人：lib_wei
+									回复时间：2020-04-03 16:23:44
+
+									<p>您好，根据您留言的内容，请您加入图书馆学科服务群（QQ:214738121）或者桂电信息检索培训咨询（QQ:416500095）,就具体问题，咨询群里面的老师，以便得到更好的指导。谢谢！</p>
+							    </span>
+						</td></tr>
+					</table>
+
+				</td>
+			</tr>
+
+		<tr>
+			<INPUT TYPE=hidden NAME=b165094bactiontype id=b165094bactiontype  VALUE=""><input type=hidden name=b165094bo value="desc"><input type=hidden name=b165094bk value="wbdate">
+<style type="text/css">
+.headStyle2g7mvmp90j, .headStyle2g7mvmp90j td, .headStyle2g7mvmp90j div {font-size: 12px;font-family:宋体; color: #000000; margin-left: auto; margin-right: auto; line-height:14px;}
+.defaultButtonStyle {font-size: 12px;font-family:宋体; height:20px;color: #000000;BORDER: #AFD5F5 1px solid; margin: 0px;padding: 0px; FILTER:progid:DXImageTransform.Microsoft.Gradient(GradientType=0,StartColorStr=#ffffff, EndColorStr=#BDDBF7);  CURSOR: pointer; line-height:14px;background:-webkit-gradient(linear, 0 0, 0 100%, from(#ffffff), to(#BDDBF7));background: -moz-linear-gradient( top,#ffffff,#BDDBF7);background:-ms-linear-gradient(top,#ffffff 0%,#bddbf7 100%)}
+.defaultinputStyle {font-size: 12px;font-family:宋体; height:20px; border:1px solid #AFD5F5; line-height:14px;}
+.colHeader {font-size: 12px;font-family:宋体; line-height:14px;}
+.headStyle2g7mvmp90j a, .pageList .this-page {font-size: 12px;font-family:宋体; display:inline-block; height:14px; padding: 2px 4px; border: solid 1px #AFD5F5; background: #fff; text-decoration: none; MARGIN-RIGHT: 1px;line-height:14px;}
+.headStyle2g7mvmp90j a:visited {font-size: 12px;font-family:宋体; color: #000000; text-decoration: none; line-height:14px;}
+.headStyle2g7mvmp90j .PrevDisabled {font-size: 12px;font-family:宋体; display:inline-block;height:14px;  margin-right: 3px; padding: 2px 4px; background: #fff;color:#ccc;border: solid 1px #AFD5F5; line-height:14px;}
+.headStyle2g7mvmp90j .SelectList {font-size: 12px;font-family:宋体;line-height:14px;}
+.headStyle2g7mvmp90j .Prev { font-size: 12px;font-family:宋体; margin-right: 3px; padding: 2px 4px;line-height:14px;}
+.headStyle2g7mvmp90j .break {font-size: 12px;font-family:宋体; border: none; text-decoration: none; line-height:14px;}
+.headStyle2g7mvmp90j .NextDisabled { font-size: 12px;font-family:宋体;display:inline-block; height:14px; margin-left: 2px; padding: 2px 4px;background: #fff;color:#ccc;border: solid 1px #AFD5F5; line-height:14px; }
+.headStyle2g7mvmp90j .Next { font-size: 12px;font-family:宋体; margin-left: 2px; padding: 2px 4px;line-height:14px;}
+.headStyle2g7mvmp90j .this-page {font-size: 12px;font-family:宋体;display:inline-block;height:14px;padding: 2px 4px; border: solid 1px #AFD5F5; background: #E1F0FD; font-weight: bold; color:black; MARGIN-RIGHT: 1px;line-height:14px;}
+.headStyle2g7mvmp90j a:hover {font-size: 12px;font-family:宋体;color: black; background: #EFF7FE; border-color: #AFD5F5; text-decoration: none;line-height:14px;}
+.headStyle2g7mvmp90j a:link {font-size: 12px;font-family:宋体;color: #000000; text-decoration: none;line-height:14px;}
+.headStyle2g7mvmp90j a:active { font-size: 12px;font-family:宋体;color: black; text-decoration: none; background: #EFF7FE; line-height:14px;}
+</style>
+			<TR><td colspan=5><table cellspacing=0 class=headStyle2g7mvmp90j width="100%" cellpadding=1><tr valign=middle><TD nowrap align=left width=1% >共465条&nbsp;<input type=hidden name=b165094bfc value="10">&nbsp;1/47&nbsp;</td><td nowrap align=left><div><span class=PrevDisabled>上页</span><span class=this-page>1</span><a href="?b165094bt=47&b165094bp=2&b165094bc=10&urltype=tree.TreeTempUrl&wbtreeid=1167">2</a><a href="?b165094bt=47&b165094bp=3&b165094bc=10&urltype=tree.TreeTempUrl&wbtreeid=1167">3</a><a href="?b165094bt=47&b165094bp=4&b165094bc=10&urltype=tree.TreeTempUrl&wbtreeid=1167">4</a><a href="?b165094bt=47&b165094bp=5&b165094bc=10&urltype=tree.TreeTempUrl&wbtreeid=1167">5</a><a href="?b165094bt=47&b165094bp=6&b165094bc=10&urltype=tree.TreeTempUrl&wbtreeid=1167">6</a><span class=break>..</span><a href="?b165094bt=47&b165094bp=47&b165094bc=10&urltype=tree.TreeTempUrl&wbtreeid=1167">47</a><a href="?b165094bt=47&b165094bp=2&b165094bc=10&urltype=tree.TreeTempUrl&wbtreeid=1167" class="Next">下页</a></div></td><TD nowrap align=right></td></tr></table></td></tr>
+		</tr>
+	</table>
+</form>
+
+
+</form></div>
+<div style="margin-bottom: 35px; color: #f00; text-indent: 2em">说明：如果需要更进一步的服务,请留下具体联系方式</div><br></div></div></div><!-- End BODY section --><!-- Start footer BODY section --><!-- add to the <head> of your page -->
+<div class="footer_border">
+<p></p>
+<div class="outer">
+<div class="in0"><a href="http://www.guet.edu.cn" target="_blank">学校主页</a> </div>
+<div class="in1"><a href="http://202.193.70.191" target="_blank">回到旧版</a> </div>
+<div class="in2"><a href="http://www.guet.edu.cn/lib/info/1064/2891.htm" target="_blank">开馆时间</a> </div>
+<div class="in3"><a href="http://www.guet.edu.cn/lib/info/1060/2890.htm" target="_blank">馆藏分布</a> </div>
+<div class="in4"><a href="http://202.193.70.165/dzzt/index.php" target="_blank">电子展厅</a> </div>
+<div class="in5"><a href="http://www.guet.edu.cn/lib/info/1032/2888.htm" target="_blank">论文提交</a> </div>
+<div class="in6"><a href="http://202.193.70.165/subject/subject.html" target="_blank">专题导读</a> </div>
+<div class="in7"><a href="http://202.193.70.166:8020/index.asp?idc=tryout&mem=true" target="_blank">最新试用</a> </div></div>
+<p></p>
+<p></p>
+<div class="outer1">版权所有：桂林电子科技大学图书馆 电话：(0773)2191353 地址：中国广西桂林金鸡路1号 邮编：541004 </div>
+<p></p></div><!-- End footer BODY section -->
+
+</body></html>

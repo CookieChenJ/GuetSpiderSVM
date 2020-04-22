@@ -1,0 +1,870 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en"><head><title>科技查新-桂林电子科技大学图书馆</title><META Name="keywords" Content="桂林电子科技大学图书馆,科技查新" />
+
+
+
+
+
+<meta charset="UTF-8"><link rel="stylesheet" type="text/css" href="../../css/style.css"><script type="text/javascript" src="../../js/script.js"></script>
+<style>
+	.single_area{margin: auto; padding: 10px 0px 10px 0px ; left:-30px; width: 1200px; font-family: Arial; position: relative;}
+	.sidebar_area{border: 0px solid #999; width: 300px; min-height: 650px; position: absolute; left: 0px; z-index: 1;}
+	.content_area_border{padding-left: 355px; width: 1190px;}
+	.content_area_bg{background: #fff;-moz-box-shadow: 3px 3px 8px #999;box-shadow: 3px 3px 8px #999;-webkit-box-shadow: 3px 3px 8px #999;}
+	.nav_area{margin: auto; border: solid 0px #999; padding-left: 20px; line-height: 25px; vertical-align: middle; color:#000; font-size: 15px; padding-top: 20px;}
+	.nav_area a{color: #2b6ca3; font-size: 14px;}
+	.title_area{margin: auto; border:solid 0px #999; line-height: 38px; vertical-align: middle; color:#000; font-size: 18px; text-align: center;}
+	.time_area{margin: auto; border: solid 0px #999; line-height: 35px; vertical-align: middle; font-size: 12px; color: #666; text-align: center;}
+	<!--
+	.single_area_outer{margin: auto; padding: 0;  width:1200px; border:1px solid #f00;position:relative;}
+	.content_area{margin:auto; padding:0px; border:solid 0px #999; line-height: 25px; width:800px; text-indent: 24px; font-size: 14px;}
+	-->
+	.content_area{border: solid 0px #999; text-indent: 3px; padding-top: 18px; padding-left: 10px; padding-right: 15px; padding-bottom: 20px; color: #555; font-size: 14px; text-indent:2em; line-height: 30px;}
+	.content_area a{color: #2b6ca3;}
+	
+		/* Start footer BODY section */	   
+		.footer_border{margin:auto; padding:0px; width:auto; min-width:1200px; background: #efefef;}
+		.outer{margin: auto; padding-top:2px; padding-left:129px; width:1200px; height:32px; border:1px solid #7aadde; color: #fff; background: #7aadde; position:relative; text-align:center; font-size: 15px;font-weight:bold;line-height: 25px; vertical-align: middle;}
+		.in0{border-right:1px solid #FFF; width:120px; float:left;}
+		.in0 a{color: #fff;}
+		.in1{border-right:1px solid #FFF; width:120px; float:left;}
+		.in1 a{color: #fff;}
+		.in2{border-right:1px solid #FFF; width:120px; float:left;}
+		.in2 a{color: #fff;}
+		.in3{border-right:1px solid #FFF; width:120px; float:left;}
+		.in3 a{color: #fff;}
+		.in4{border-right:1px solid #FFF; width:120px; float:left;}
+		.in4 a{color: #fff;}
+		.in5{border-right:1px solid #FFF; width:120px; float:left;}
+		.in5 a{color: #fff;}
+		.in6{border-right:1px solid #FFF; width:120px; float:left;}
+		.in6 a{color: #fff;}
+		.in7{border-right:0px solid #FFF; width:120px; float:left;}
+		.in7 a{color: #fff;}
+		.outer1{margin: auto; padding-top: 10px; width:1200px; height:90px; border:0px solid #f00;position:relative; text-align:center;}
+
+	
+</style>
+</link></link>
+<style></style>
+
+<style></style>
+
+
+</link>
+<style></style>
+
+<style></style>
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="../../_sitegray/_sitegray_d.css" />
+<script language="javascript" src="../../_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="../../content.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1069,'/content.jsp',2894,1411890787)</script>
+</head>
+<body style="zoom: 1"><!-- Start menu HEAD section --><!-- add to the <head> of your page --><!-- Title 代码部分begin -->
+<div style="text-align: center; margin-left: auto; margin-top: -15px; margin-right: auto"><img title="" alt="" src="../../images/guetliblogo.jpg" width="1200" height="110" style="border-top: medium none; border-right: medium none; border-bottom: medium none; border-left: medium none"></div><!-- Title 代码部分End --><!-- Menu 代码部分begin -->
+<div style="font-size: 15px; width: 1200px; background: #efefef; min-width: 1200px; padding-bottom: 0px; text-align: center; padding-top: 0px; padding-left: 0px; margin: auto; z-index: 120; padding-right: 0px">
+<div class="ulmenu"><!--#begineditable name="网站主导航菜单" viewid="165077" tagname="网站主导航菜单" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""-->        <div class="dropdown">
+            <a href="http://www.guet.edu.cn/lib/" class="dropbtn">首页</a>
+        </div>
+        <div class="dropdown">
+            <a href="#" class="dropbtn">概况</a>
+            <div class="dropdown-content" style="height: 399px;">
+                <div class="dropdown-title">图书馆概况</div>
+                <a href="http://www.guet.edu.cn/lib/info/1036/2875.htm">馆长致辞</a>
+                <a href="http://www.guet.edu.cn/lib/info/1037/2876.htm">本馆简介</a>
+                <a href="http://www.guet.edu.cn/lib/info/1038/2877.htm">现任领导</a>
+                <a href="http://www.guet.edu.cn/lib/info/1039/2878.htm">组织机构</a>
+                <a href="http://www.guet.edu.cn/lib/info/1040/2879.htm">规章制度</a>
+                <a href="http://www.guet.edu.cn/lib/info/1041/2880.htm">常见问题</a>
+                <a href="http://www.guet.edu.cn/lib/info/1042/2881.htm">办证需知</a>
+                <a href="http://www.guet.edu.cn/lib/info/1043/2883.htm">离校手续</a>
+                <a href="http://www.guet.edu.cn/lib/info/1152/2928.htm">图书馆漫游</a>
+                <a href="http://www.guet.edu.cn/lib/info/1045/2884.htm">信息公开</a>
+                <a href="http://www.guet.edu.cn/lib/info/1046/2885.htm">书刊捐赠</a>
+            </div>
+            <div class="dropdown-content" style="margin-left: 200px; height: 399px;">
+                <div class="dropdown-title">新闻与通知</div>
+                <a href="http://www.guet.edu.cn/lib/gk/xwytz/ggxx.htm">公告消息</a>
+                <a href="../../gk/xwytz/zydt.htm">资源动态</a>
+                <a href="http://www.guet.edu.cn/lib/gk/xwytz/gnxw.htm">馆内新闻</a>
+            </div>
+        </div>
+        <div class="dropdown">
+            <a href="#" class="dropbtn">资源</a>
+            <div class="dropdown-content">
+                <a href="http://www.guet.edu.cn/lib/info/1025/2886.htm">版权公告</a>
+                <a href="http://202.193.70.166:8020/index.asp" target="_blank">数据库导航</a>
+                <a href="http://202.193.70.166:8020/index.asp?idc=en&mem=true" target="_blank">外文数据库</a>
+                <a href="http://202.193.70.166:8020/index.asp?idc=cn&mem=true" target="_blank">中文数据库</a>
+                <a href="http://202.193.70.166:8020/index.asp?idc=tryout&mem=true" target="_blank">试用数据库</a>
+                <a href="http://202.193.70.169:90/lib/bookdisc.asp" target="_blank">随书光盘数据库</a>
+                <a href="http://www.guet.edu.cn/lib/info/1032/2888.htm">本校学位论文</a>
+                <a href="http://202.193.70.166:8020/index.asp?idc=oa&mem=true" target="_blank">OA数据库</a>
+                <a href="http://www.guet.edu.cn/lib/info/1034/2889.htm" target="_blank">常用阅读软件</a>
+                <a href="http://202.193.70.139/NTRdrNewBook.aspx" target="_blank">新书通报</a>
+                <a href="http://202.193.70.177/" target="_blank">免费资源推荐</a>
+            </div>
+        </div>
+        <div class="dropdown">
+            <a href="#" class="dropbtn">服务</a>
+            <div class="dropdown-content" style="height:369px;">
+                <div class="dropdown-title">借阅服务</div>
+                <a href="http://www.guet.edu.cn/lib/info/1060/2890.htm">图书馆布局</a>
+                <a href="http://202.193.70.139/index.aspx" target="_blank">馆藏书刊查询</a>
+                <a href="http://202.193.70.139/NTRdrLogin.aspx" target="_blank">个人借阅管理</a>
+                <a href="http://202.193.70.139/NTRdrNewBook.aspx" target="_blank">新书通报</a>
+                <a href="http://www.guet.edu.cn/lib/info/1064/2891.htm">开放时间</a>
+                <a href="http://202.193.70.132:8088/" target="_blank">书刊荐购</a>
+                <a href="http://www.guet.edu.cn/lib/zzwy/index.html" target="_blank">自助文印</a>
+            </div>
+            <div class="dropdown-content" style="margin-left: 200px; height:369px;">
+                <div class="dropdown-title">学科服务</div>
+                <a href="http://www.guet.edu.cn/lib/info/1067/2892.htm">文献传递</a>
+                <a href="http://www.guet.edu.cn/lib/info/1068/2893.htm">查收查引</a>
+                <a href="http://www.guet.edu.cn/lib/info/1069/2894.htm">科技查新</a>
+                <a href="http://www.guet.edu.cn/lib/info/1070/2895.htm">用户教育</a>
+                <a href="http://www.guet.edu.cn/lib/info/1071/2896.htm">在线培训</a>
+                <a href="http://ipscience-help.thomsonreuters.com/incitesLiveESI/ESIGroup/overviewESI/esiJournalsList.html">ESI期刊</a>
+                <a href="http://www.guet.edu.cn/lib/info/1074/2900.htm">投稿指南</a>
+                <a href="http://www.guet.edu.cn/lib/info/1075/2901.htm">桂电SCIE收录动态</a>
+                <a href="http://www.guet.edu.cn/lib/info/1076/2899.htm">ESI高水平论文</a>
+                <a href="http://www.fenqubiao.com/" target="_blank">中科院期刊分区在线平台</a>
+            </div>
+            <div class="dropdown-content" style="margin-left: 400px; height:369px;">
+                <div class="dropdown-title">文化服务</div>
+                <a href="http://202.193.70.162:8089/" target="_blank">研讨室预约</a>
+                <a href="http://202.193.70.165/subject/subject.html" target="_blank">专题导读</a>
+                <a href="http://www.guet.edu.cn/lib/info/1080/2902.htm">新生专栏</a>
+                <a href="http://202.193.70.165/dzzt/index.php" target="_blank">电子展厅</a>
+            </div>
+        </div>
+        <div class="dropdown">
+            <a href="#" class="dropbtn">党建园地</a>
+            <div class="dropdown-content">
+                <a href="http://www.guet.edu.cn/lib/djyd/zbdt.htm">支部动态</a>
+                <a href="http://www.guet.edu.cn/lib/djyd/djll.htm">党建理论</a>
+                <a href="http://www.guet.edu.cn/lib/djyd/ztxx.htm">专题学习</a>
+                <a href="http://www.guet.edu.cn/lib/djyd/dwgk.htm">党务公开</a>
+            </div>
+        </div>
+        <div class="dropdown">
+            <a href="#" class="dropbtn">新生专栏</a>
+            <div class="dropdown-content">
+                <a href="http://www.guet.edu.cn/lib/info/1080/2902.htm">你问我答</a>
+                <a href="http://www.guet.edu.cn/lib/info/1153/2929.htm">新生入馆教育视频</a>
+                <a href="http://202.193.70.132:8096/" target="_blank">新生入馆测试</a>
+            </div>
+        </div>
+        <div class="dropdown">
+            <a href="http://202.193.70.139/NTRdrLogin.aspx" class="dropbtn" target="_blank">个人借阅管理</a>
+        </div>
+        <div class="dropdown">
+            <a href="#" class="dropbtn">联系我们</a>
+            <div class="dropdown-content">
+                <a href="mailto:library@guet.edu.cn">馆长信箱</a>
+                <a href="http://www.guet.edu.cn/lib/bbs.jsp?urltype=tree.TreeTempUrl&wbtreeid=1167">请您留言</a>
+            </div>
+        </div>
+<!--#endeditable--></div></div><!-- Menu 代码部分End --><!-- End menu HEAD section -->
+
+<!-- Start sidebar right HEAD section --><!-- add to the <head> of your page -->
+<!--#begineditable name="网站导航-右侧导航条" viewid="202481" tagname="网站导航-右侧导航条" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp="true"--><!-- Start sidebar right HEAD section --><!-- add to the <head> of your page -->
+<ul id="nav-bar">
+  <li class="level-one"><img src="../../images/picture/weixin.png" width="45" height="45" onmouseover="this.style.opacity=0.8;" onmouseout="this.style.opacity=1" />
+    <ul class="level-two">
+	<li><img src="../../images/picture/waplibrary1.png" width="90" height="90" border="0" /></li>
+	<li>微信图书馆</li>
+    </ul>
+  </li>
+
+  <li class="level-one"><img src="../../images/picture/app.png" width="45" height="45" onmouseover="this.style.opacity=0.8;" onmouseout="this.style.opacity=1" />
+    <ul class="level-two">
+	<li><img src="../../images/picture/waplibrary3.png" width="90" height="90" border="0" /></li>
+	<li>超星学习通<br />邀请码：yzgldzkd</li>
+    </ul>
+  </li>
+
+  <li class="level-one1"><img src="../../images/picture/qq.png" width="45" height="45" onmouseover="this.style.opacity=0.8;" onmouseout="this.style.opacity=1" />
+    <ul class="level-two1">
+	<li>
+          <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=377406987&site=qq&menu=yes">
+	  <img border="0" src="http://wpa.qq.com/pa?p=2:377406987:49" alt="点击这里给我发消息" title="有关图书、期刊、数据库的荐购及对现有文献资源的意见和建议，请找我吧"></a>
+	  <div style="margin-left:5px;">资源建设部 刘老师</div>
+	</li>
+
+	<li>
+          <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=150520281&site=qq&menu=yes">
+	  <img border="0" src="http://wpa.qq.com/pa?p=2:150520281:49" alt="点击这里给我发消息" title="有关花江图书馆流通、阅览等问题，请找我吧"></a>
+	  <div style="margin-left:5px;">读者服务部 韦老师</div>
+	</li>
+
+	<li>
+ 	  <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=1029723910&site=qq&menu=yes">
+	  <img border="0" src="http://wpa.qq.com/pa?p=2:1029723910:49" alt="点击这里给我发消息" title="有关金鸡岭图书馆流通、阅览等问题，请找我吧"></a>
+	  <div style="margin-left:5px;">读者服务部 田老师</div>
+	</li>
+
+	<li>
+	  <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=532306156&site=qq&menu=yes">
+	  <img border="0" src="http://wpa.qq.com/pa?p=2:532306156:49" alt="点击这里给我发消息" title="有关文献的收录引用检索、科技查新、信息素养培训、科研数据分析及数据库的使用等问题请找我吧"></a>
+	  <div style="margin-left:5px;">学科与技术服务部 陈老师</div>
+	</li>
+
+	<li>
+	  <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=553552464&site=qq&menu=yes">
+	  <img border="0" src="http://wpa.qq.com/pa?p=2:553552464:49" alt="点击这里给我发消息" title="有关电子资源的使用、查收查引、原始文献获取、学科服务等问题请找我吧"></a>
+	  <div style="margin-left:5px;">学科与技术服务部 马老师</div>
+	</li>
+
+	<li>
+	  <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=240607828&site=qq&menu=yes">
+	  <img border="0" src="http://wpa.qq.com/pa?p=2:240607828:49" alt="点击这里给我发消息" title="有关新生培训、厅室预约、展览展示、文化活动、参观交流等问题，请找我吧"></a>
+	  <div style="margin-left:5px;">综合业务部 童老师</div>
+	</li>
+
+	<li>
+ 	  <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=543938445&site=qq&menu=yes">
+	  <img border="0" src="http://wpa.qq.com/pa?p=2:543938445:49" alt="点击这里给我发消息" title="有关新生培训、厅室预约、展览展示、文化活动、参观交流等问题，请找我吧"></a>
+	  <div style="margin-left:5px;">综合业务部 陈老师</div>
+	</li>
+    </ul> 
+  </li>
+</ul>
+
+
+<!-- End sidebar right HEAD section --><!--#endeditable-->
+<!-- End sidebar right HEAD section -->
+
+<!-- Start BODY section --><!-- add to the <body> of your page --><!-- Start content section --><!-- add to the <head> of your page -->
+<div class="single_area">
+<div class="sidebar_area"><!-- Start sidebar left section --><!-- add to the <head> of your page --><!-- sidebar_area begin --><!-- sidebar_head begin --><script src="../../js/jquery.min.js" type="text/javascript"></script><script type="text/javascript" src="../../js/sidebar_menu_min.js"></script><script type="text/javascript">
+			$(document).ready(function (){ 
+	  
+				$(".menu ul li").menu();
+	  
+			}); 
+		</script><link rel="stylesheet" type="text/css" href="../../css/sidebar-menu-css.css"><!-- sidebar_head end -->
+<div id="content">
+<div class="menu"><!--#begineditable name="左边栏三级导航" viewid="164980" tagname="左边栏三级导航" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""-->		
+
+				<a href="#" title="" style="margin: 5px 0px 5px 135px; font-size: 26px; weight: bolder; color: #000;">学科服务</a>
+				<ul>
+						<li>
+							<a href="http://www.guet.edu.cn/lib/info/1067/2892.htm" title="文献传递">文献传递</a>
+						</li>
+						<li>
+							<a href="http://www.guet.edu.cn/lib/info/1068/2893.htm" title="查收查引">查收查引</a>
+						</li>
+						<li>
+							<a href="http://www.guet.edu.cn/lib/info/1069/2894.htm" title="科技查新">科技查新</a>
+						</li>
+						<li>
+							<a href="http://www.guet.edu.cn/lib/info/1070/2895.htm" title="用户教育">用户教育</a>
+						</li>
+						<li>
+							<a href="http://www.guet.edu.cn/lib/info/1071/2896.htm" title="在线培训">在线培训</a>
+						</li>
+						<li>
+							<a href="http://ipscience-help.thomsonreuters.com/incitesLiveESI/ESIGroup/overviewESI/esiJournalsList.html" title="ESI期刊">ESI期刊</a>
+						</li>
+						<li>
+							<a href="http://www.guet.edu.cn/lib/info/1074/2900.htm" title="投稿指南">投稿指南</a>
+						</li>
+						<li>
+							<a href="http://www.guet.edu.cn/lib/info/1075/2901.htm" title="桂电SCIE收录动态">桂电SCIE收录动态</a>
+						</li>
+						<li>
+							<a href="http://www.guet.edu.cn/lib/info/1076/2899.htm" title="ESI高水平论文">ESI高水平论文</a>
+						</li>
+						<li>
+							<a href="http://www.fenqubiao.com/" title="中科院期刊分区在线平台">中科院期刊分区在线平台</a>
+						</li>
+				</ul>
+
+<!--#endeditable--></div></div><!-- sidebar_area end --><!-- End sidebar left section --></div>
+<div class="content_area_border">
+<div class="content_area_bg">
+<div class="nav_area"><!--#begineditable name="当前位置" viewid="164968" tagname="当前位置" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""-->		<a href="../../index.htm">首页</a>
+		<img src="../../images/picture/off.png" alt="" title="" width="28" height="28" style="border:none; vertical-align: top" />
+		<a href="../../fw.htm">服务</a>
+		<img src="../../images/picture/off.png" alt="" title="" width="28" height="28" style="border:none; vertical-align: top" />
+		<a href="../../fw/xkfw.htm">学科服务</a>
+		<img src="../../images/picture/off.png" alt="" title="" width="28" height="28" style="border:none; vertical-align: top" />
+		正文
+<!--#endeditable--></div><!--#begineditable name="文章内容" viewid="164969" tagname="文章内容" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""-->
+<script language="javascript" src="/system/resource/js/dynclicks.js"></script><script language="javascript" src="../../_dwr/interface/NewsvoteDWR.js"></script><script language="javascript" src="../../_dwr/engine.js"></script><script language="javascript" src="/system/resource/js/news/newscontent.js"></script><script type="text/javascript">NewsvoteDWR.getNewsLinkUrl(2894,'1411890787','vsb',newsSkip);function newsSkip(data){if(data != ""){window.location.href = data;}}</script><script language="javascript" src="/system/resource/js/ajax.js"></script><form name="_newscontent_fromname"><script language="javascript" src="/system/resource/js/jquery/jquery-latest.min.js"></script>
+<div>
+	<div class="title_area">科技查新</div>
+    <hr>
+    <div id="vsb_content" class="content_area"><p style="text-indent:2em;"><p class="vsbcontent_start" style="text-align: center;"><strong>关于我校图书馆开展科技查新服务的通知</strong></p>
+<p>为配合学校实现“区域一流、国内先进、国际上有一定知名度的特色高水平大学”的目标，进一步提高图书馆信息服务水平，充分发挥我校图书馆各类馆藏资源优势作用，更好地服务于学校的教学科研工作。经协商，桂林电子科技大学图书馆与南京航空航天大学教育部科技查新工作站达成科技查新合作意向，由南京航空航天大学教育部科技查新工作站帮助桂林电子科技大学图书馆，面向校内外开展代理科技查新业务。目前我校正在筹建教育部科技查新站，在此期间，凡由图书馆接受的委托查新项目，查新费用均按南京航空航天大学教育部科技查新工作站收费标准执行，我校师生的课题可以享受加急优惠。</p>
+<p>科技查新服务范围包括：科技项目咨询及成果查新（如，科技立项查新，科技成果鉴定、评估、验收、转化查新，成果申报奖励查新，博士论文开题、评审查新，申请专利查新，技术引进查新，新产品开发查新，国家及地方有关规定所要求的其它查新等）、核心期刊及影响因子检索及参考咨询与文献传递。</p>
+<p>如有需要，请查看服务指南或拨打桂林电子科技大学图书馆学科服务电话进行咨询。</p>
+<p>联系电话： 0773-2291608</p>
+<p>E— mail：libxkb@guet.edu.cn</p>
+<p>联 系 人：</p>
+<p>工作时间：周一至周五（周五下午学习）：上午 8:30—12:00，</p>
+<p>下午 2:00–5:30</p>
+<p>办公地址：花江校区图书馆一楼（C区）学科服务部</p>
+<p><br></p>
+<p style="text-align: center;"><strong>桂林电子科技大学科技查新服务指南</strong></p>
+<p>科技查新（简称查新），是指具有查新业务资质的查新机构根据查新委托人提供的需要查证其新颖性的科学技术内容，按照《科技查新规范》进行操作，并做出结论（查新报告）。</p>
+<p>科技查新服务是国家科技部为避免科研课题重复立项和客观公正地判别科研成果的新颖性而设立的一项工作，由具有科技查新资质的查新机构承担完成。查新机构根据查新委托人提供的需要查证其新颖性的科学技术内容，按照科技查新规范操作，有偿提供科技查新服务。</p>
+<p><strong>一、科技查新服务范围</strong></p>
+<p>1.申请科研立项；</p>
+<p>2.科技成果鉴定、评估、验收、转化；</p>
+<p>3.科技成果申报奖励；</p>
+<p>4.博/硕士论文开题、评审；</p>
+<p>5.技术咨询，包括新技术引进、新产品开发等；</p>
+<p>7.查收查引；</p>
+<p>8.论文收录及引用检索；</p>
+<p>9.核心期刊及影响因子检索；</p>
+<p>10.定题检索</p>
+<p>11.参考咨询与文献传递等。</p>
+<p><strong>二、图书馆科技查新服务程序</strong></p>
+<p>1、申请科技查新的教师、研究生请到图书馆学科部领取“桂林电子科技大学科技查新委托书” （或登录图书馆主页http://www.guet.edu.cn/lib，在“科技查新”栏目中下载“<a href="../../document/kjcx/kjcxht.doc" target="_blank" title="科技查新委托书">桂林电子科技大学科技查新委托书</a>”）<a href="/__local/B/DF/D9/78E86F7F701D4B56EB2374BE586_4406B4B0_8200.doc">（委托单填写样例）</a>。</p>
+<p>2、由课题负责人或掌握课题全面情况的研究人员填写“桂林电子科技大学科技查新委托书”，填写前须认真阅读“桂林电子科技大学科技查新委托书填写说明”和“桂林电子科技大学科技查新委托须知”。</p>
+<p>3、请查新委托人把填好的委托书及与查新项目有关的技术资料，如立项申请、研究报告、总结报告、成果申报表等纸质材料交到花江校区图书馆一楼（C区）学科服务部，同时将委托书及相关材料的电子版发送到桂林电子科技大学科技查新站电子邮箱(libxkb@guet.edu.cn)，并致电确认。</p>
+<p>4、查新人员收到委托人填写好的查新委托书后（含委托书及与查新项目有关的技术资料电子稿），将根据情况确定是否受理查新。确定受理后，会电话通知委托人来馆正式办理查新委托手续。</p>
+<p>5、查新中心在约定的工作时间内按照科技查新工作的流程和规范要求，完成查新任务，并将查新报告送至南京航空航天大学教育部科技查新工作站审核盖章。</p>
+<p>6、科技查新报告严格按照《教育部科技查新工作站查新报告撰写规范》的格式和要求撰写，并出具南京航空航天大学教育部科技查新工作分站正式票据。</p>
+<p><strong>三、科技查新费用</strong></p>
+<p>根据科技部的规定，查新咨询工作为有偿服务，查新费用目前暂按南京航空航天大学教育部科技查新工作站收费标准执行。未尽事宜请阅读桂林电子科技大学科技查新收费标准及有关说明。</p>
+<p><strong>四、收费标准：</strong></p>
+<p>国 内外查新： 8个工作日 1500元/个</p>
+<p>国 内 查 新： 3个工作日 700元/个</p>
+<p>注明： 加急不收费，超过三个查新点价格上浮</p>
+<p>联系电话： 0773-2291608</p>
+<p>E— mail：libxkb@guet.edu.cn</p>
+<p>联 系 人： 马姣玲</p>
+<p>工作时间：周一至周五（周五下午学习）：上午8:30—12:00，</p>
+<p>下午 2：00–5:30</p>
+<p>办公地址：花江校区图书馆一楼（C区）学科服务部</p>
+<p><br></p>
+<p style="text-align: center;"><strong>桂林电子科技大学科技查新委托须知</strong></p>
+<p>科技查新是一项十分严谨的、以文献检索和情报调研相结合的科技情报研究工作。为确保科技查新工作的科学性、客观性、公正性和准确性，保证查新质量，维护查新有关各方的合法权益，敬请委托人在委托查新时注意做好以下事项：</p>
+<p>一、领取科技查新委托单</p>
+<p>1．委托人须到桂林电子科技大学图书馆学科部领取“桂林电子科技大学科技查新委托书”，咨询相关事宜；或从桂林电子科技大学图书馆主页下载。下载地址：<a href="../../document/kjcx/kjcxht.doc" target="_blank" title="科技查新委托书">桂林电子科技大学科技查新委托书</a><a href="/__local/B/DF/D9/78E86F7F701D4B56EB2374BE586_4406B4B0_8200.doc">（委托单填写样例）</a></p>
+<p>2．在填写委托书前，请仔细阅读《科技查新规范》的第3、4、5、10部分，并认真阅读桂林电子科技大学科技查新相关规定及《桂林电子科技大学科技查新委托须知》。</p>
+<p>二、填写科技查新委托书</p>
+<p>科技查新委托书应由课题负责人或掌握课题全面情况的研究人员填写。委托书签字应当使用钢笔或者炭素笔。委托人须按照《科技查新委托书填写说明》的要求，认真地填写《桂林电子科技大学科技查新委托书》上各项内容：</p>
+<p>1.查新项目名称：委托人应填写与科研立项、成果鉴定、申请专利或开题等一致的名称，国内外查新时还需填写课题英文名称；</p>
+<p>2.委托单位和委托人：查新委托人应是本查新项目的负责人或成员，或是掌握项目全面技术的研究人员；委托人应如实填写其姓名，现所在单位名称，通信地址、邮政编码，项目负责人及电话，联系人及电话、电子邮箱等信息；</p>
+<p>3.查新目的及查新范围：查新目的可分为科技立项、科技成果鉴定等。查新范围分为国内查新、国外查新和国内外查新；</p>
+<p>4.查新项目的科学技术要点：科学技术要点应充分反映查新项目的概貌，简述项目的背景、要解决的技术问题、采用的方案、主要技术特征、技术参数或指标、应用范围等相关技术内容；</p>
+<p>5.查新点：查新点指需要查证的技术创新点 (每个查新项目限1-3个查新点)。查新点要以 1、2、3来标记，逐条列出；查新点是查新人员拟定检索词和制定检索策略以至对比分析和判断新颖性的依据，写法上要精练明确，条理清楚（不要把查新项目中的一般性技术特征列为创新点），进行文字表述时要用词科学、准确、逻辑严密。</p>
+<p>6、查新要求：查找国内 (外) 是否有与本项目相同或类似研究，通过对比分析，对查新项目的新颖性作出判断结论；查找国内 (外) 有关本项目的科技文献报道；查新委托人提出的其它查新要求；查新委托人提出的其他愿望；</p>
+<p>7. 参考文献：与查新项目密切相关的国内外同类科学技术和相关科学技术的背景材料（应当尽可能注明文献的著者、题目、刊名、年、卷、期、页）等，以供查新机构在处理查新事务中参考 ( 本查新工作组将妥善保管，结题后归还 ) 。</p>
+<p>8.检索词：关键词（含规范词、同义词、缩写词、相关词等）。关键词应从查新项目的科学技术要点中抽出，用词要符合本专业词汇规范，要注意到词的全称、中外文缩写、学名及其俗称等。化学物质除提供化学名称外，应提供其商品名、俗称、分子式、结构式及 CA 登记号等。</p>
+<p>三、递交填写完毕的查新委托书</p>
+<p>将填写好的电子版查新委托书发往libxkb@guet.edu.cn，并拨打0773-2291608进行确认。同时将填写完毕的纸质“科技查新委托单”递交给查新承办人核查验收（接收地点：桂林电子科技大学图书馆学科部）。</p>
+<p>四、正式办理查新委托手续</p>
+<p>科技查新中心在收到您的委托书后，查新承办人会电话与委托人商谈可否接受委托，可以接受委托的项目，查新机构与委托机构或委托人将正式办理科技查新委托手续，签订“科技查新委托书”，并签字盖章。</p>
+<p>为了更及时有效地完成查新报告，敬请查新委托人协助配合以下工作：</p>
+<p>1、请查新委托人据实、完整、准确地向查新机构提供如下查新资料：</p>
+<p>（1）、科研立项查新须提交：立项申请书、主要参考文献等；</p>
+<p>（2）、成果鉴定查新须提交：项目研制报告、技术报告等；</p>
+<p>（3）、申报奖励查新须提交：奖项申报书及有关报奖材料（查新中心将妥善保管和保密，结题后可归还）；</p>
+<p>2、委托人应在约定时间积极向查新承办人介绍委托查新项目的研究内容，并就查新项目的科学技术要点、查新点与查新要求、检索词、委托书履行的期限、地点和方式、查新范围、查新收费等达成共识。</p>
+<p>3、在查新过程中，查新人员就查新项目提出不明事宜时，查新委托人有责任给予积极的解答与及时的沟通。</p>
+<p>4、查新委托书的内容一经确定后，不能随意更改，确实因需要而更改项目的主要内容、技术性能指标或增加查新点等，则应及时与查新站联系，委托时间也应从修改之日起计算。</p>
+<p>5、查新委托人不得干涉查新活动，不得向查新人员施加任何倾向性影响。即使是委托人已经查过的资料，也必须经过查新人员的重新查证核实。</p>
+<p>五、获取查新报告</p>
+<p>1、查新结论的撰写必须根据检索到的资料和用户委托的查新点以描述性的语言客观撰写。查新人员撰写好查新报告后，委托人应在查新人员的指导下仔细过目，并就非专业的翻译和结论、术语提出参考改正意见。</p>
+<p>2、审核人员对审核中及咨询专家对咨询中出现的问题，有权要求查新人员和委托人做出说明或补充查证。</p>
+<p>3、科技查新报告一经委托人最终确定，委托人应付清全部查新款项，查新约定宣告解除。</p>
+<p>4、委托人若需提前领取查新报告，需在委托时予以申明，可按加急处理。</p>
+<p>5、查新报告一般提供二份正本，用户要求多份时，应事先说明，费用另计。</p>
+<p>6、查新项目已接受委托，且已完成检索工作时，若委托人提出取消查新，则需支付一半查新费作为检索费用；若此时查新报告已完成，委托人则需支付全部费用。</p>
+<p>7、查新工作日自缴费第二天起开始计算。若遇到查新课题集中上报，则查新时限将按照收到课题的先后顺序进行顺延。如果因为用户原因不能按时提交报告，提交报告时间相应后延；同一用户同时提交多个查新项目委托时，需要适当延长查新完成时间。</p>
+<p><br></p>
+<p style="text-align: center;"><strong>填写说明</strong></p>
+<p>一、在填写合同前，请仔细阅读《科技查新规范》的第3、4、5、10部分。</p>
+<p>二、“合同编号”的填写方法</p>
+<p>合同编号为十四位，左起第一至四位为公历年代号，第五、六位为省、自治区、直辖市编码，第七、八、九位为查新机构编号，第十至十四位为合同序号，以上编号不足位的补零。各省、自治区、直辖市的编码按GB/T 2260—1995规定填写。（合同序号由各查新机构自行编排）</p>
+<p>三、查新合同</p>
+<p>是指查新委托人和查新机构约定，由查新机构处理查新委托人的查新事务的合同。合同签字应当使用钢笔或者炭素笔。</p>
+<p>四、查新目的</p>
+<p>可分为立项查新、成果查新等。立项查新包括申报各级、各类科技计划，科研课题开始前的资料收集等；成果查新包括为开展成果鉴定、申报奖励等。</p>
+<p>五、查新点与查新要求</p>
+<p>查新点是指需要查证的内容要点。</p>
+<p>查新要求是指查新委托人对查新提出的具体愿望。一般分为以下四种情况：（1）希望查新机构通过查新，证明在所查范围内国内外有无相同或类似研究；（2）希望查新机构对查新项目分别或综合进行国内外对比分析；（3）希望查新机构对查新项目的新颖性作出判断；（4）查新委托人提出的其他愿望。</p>
+<p>六、查新项目的科学技术要点</p>
+<p>要着重说明查新项目的主要科学技术特征、技术参数或指标、应用范围、查新委托人自我判断的新颖性等，空间不够时可加附页。</p>
+<p>七、参考文献</p>
+<p>是指查新委托人列出的与查新项目密切相关的国内外文献（应当尽可能注明文献的著者、题目、刊名、年、卷、期、页），这些文献仅供查新机构在处理查新事务中参考。</p>
+<p>八、保密责任</p>
+<p>应当包括当事人对技术内容和资料保守秘密的内容、期限和泄露科学技术秘密应当承担的责任。双方可以约定，不论本合同是否变更、解除、终止，本条款均有效。</p>
+<p>九、本合同中，凡是当事人约定认为无需填写的条款，在该条款填写的空白处划（/）表示。</p>
+<p><br></p>
+<p style="text-align: center;"><strong>涉密查新规章</strong></p>
+<p>【大 中 小】</p>
+<p>第一条 为加强我校科技查新（以下简称查新）技术秘密的保护与管理工作，根据《中华人民共和国科学技术保密条例》的规定，特制定本保密制度。</p>
+<p>第二条 查新咨询工作人员应加强保密教育，认真学习、贯彻、执行保密工作的方针、政策和法律、法规，落实各项保密措施，并定期检查，切实作好保密工作。</p>
+<p>第三条 需要保密的查新课题，特别是 涉及知识产权和专利的查新项目， 委托查新单位 / 个人要在《桂林电子科技大学科技查新合同》上写明密级，同时查新人员承诺对 查新委托人的成果和所提供的各种资料的保密。</p>
+<p>第四条 查新机构及其工作人员有责任维护查新项目委托人所有者的知识产权，不得非法占有、使用或者向他人披露、转让查新项目所有者的科技成果。除以下人员和机构外，查新机构及其工作人员应按照合同保守一切与委托查新单位 / 个人申报项目有关的秘密，不得向任何人泄露查新项目的科学技术秘密和查新结论。</p>
+<p>(1) 查新委托人或者由查新委托人明确指定的人（或机构）；</p>
+<p>(2) 法律、法规允许的第三方（如省、自治区、直辖市的科学技术行政部门，国务院有关部门、直属机构、直属事业单位的科技成果管理机构等）；</p>
+<p>(3) 具有管辖权的专业检查组织。</p>
+<p>第五条 按照相关保密规定 ，妥善保存密级查新项目的原始记录、《桂林电子科技大学科技查新合同》、《科技查新报告》等档案材料，直到解密日期。</p>
+<p>第六条 查新单位使用计算机存贮、传输、处理已确定密级的科学技术资料（信息），应按照保密有关法规、规定采取相应保密技术措施。</p>
+<p>第七条 在实施查新保密过程中，如发现有关秘密可能泄露或已经泄露时，应当予以制止，并立即采取补救措施，避免或减轻损害后果。事后应按有关规定上报有关保密工作部门，及时查处泄密事件，对于违反者取消查新资格；触犯有关法律者，须承担法律责任。</p>
+<p class="vsbcontent_end">第八条 查新人员玩忽职守，营私舞弊，出具错误查新报告，造成不良影响和其他后果的，应追究直接责任人的责任。因工作失误造成漏检、误检，查新站退还部分检索费用或免费重检。</p></p></div><div id="div_vote_id"></div>
+        <br />
+    <p align="right">【<a href="javascript:window.opener=null;window.open('','_self');window.close();">关闭</a>】</p><br />
+</div>
+</form><!--#endeditable--></div></div></div><!-- End BODY section --><!-- Start footer BODY section --><!-- add to the <head> of your page -->
+<div class="footer_border">
+<p></p>
+<div class="outer">
+<div class="in0"><a href="http://www.guet.edu.cn" target="_blank">学校主页</a> </div>
+<div class="in1"><a href="http://202.193.70.191" target="_blank">回到旧版</a> </div>
+<div class="in2"><a href="http://www.guet.edu.cn/lib/info/1064/2891.htm" target="_blank">开馆时间</a> </div>
+<div class="in3"><a href="http://www.guet.edu.cn/lib/info/1060/2890.htm" target="_blank">馆藏分布</a> </div>
+<div class="in4"><a href="http://202.193.70.165/dzzt/index.php" target="_blank">电子展厅</a> </div>
+<div class="in5"><a href="http://www.guet.edu.cn/lib/info/1032/2888.htm" target="_blank">论文提交</a> </div>
+<div class="in6"><a href="http://202.193.70.165/subject/subject.html" target="_blank">专题导读</a> </div>
+<div class="in7"><a href="http://202.193.70.166:8020/index.asp?idc=tryout&amp;mem=true" target="_blank">最新试用</a> </div></div>
+<p></p>
+<p></p>
+<div class="outer1">版权所有：桂林电子科技大学图书馆 电话：(0773)2191353 地址：中国广西桂林金鸡路1号 邮编：541004 </div>
+<p></p></div><!-- End footer BODY section -->
+
+</body></html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en"><head><title>科技查新-桂林电子科技大学图书馆</title><META Name="keywords" Content="桂林电子科技大学图书馆,科技查新" />
+
+
+
+
+
+<meta charset="UTF-8"><link rel="stylesheet" type="text/css" href="../../css/style.css"><script type="text/javascript" src="../../js/script.js"></script>
+<style>
+	.single_area{margin: auto; padding: 10px 0px 10px 0px ; left:-30px; width: 1200px; font-family: Arial; position: relative;}
+	.sidebar_area{border: 0px solid #999; width: 300px; min-height: 650px; position: absolute; left: 0px; z-index: 1;}
+	.content_area_border{padding-left: 355px; width: 1190px;}
+	.content_area_bg{background: #fff;-moz-box-shadow: 3px 3px 8px #999;box-shadow: 3px 3px 8px #999;-webkit-box-shadow: 3px 3px 8px #999;}
+	.nav_area{margin: auto; border: solid 0px #999; padding-left: 20px; line-height: 25px; vertical-align: middle; color:#000; font-size: 15px; padding-top: 20px;}
+	.nav_area a{color: #2b6ca3; font-size: 14px;}
+	.title_area{margin: auto; border:solid 0px #999; line-height: 38px; vertical-align: middle; color:#000; font-size: 18px; text-align: center;}
+	.time_area{margin: auto; border: solid 0px #999; line-height: 35px; vertical-align: middle; font-size: 12px; color: #666; text-align: center;}
+	<!--
+	.single_area_outer{margin: auto; padding: 0;  width:1200px; border:1px solid #f00;position:relative;}
+	.content_area{margin:auto; padding:0px; border:solid 0px #999; line-height: 25px; width:800px; text-indent: 24px; font-size: 14px;}
+	-->
+	.content_area{border: solid 0px #999; text-indent: 3px; padding-top: 18px; padding-left: 10px; padding-right: 15px; padding-bottom: 20px; color: #555; font-size: 14px; text-indent:2em; line-height: 30px;}
+	.content_area a{color: #2b6ca3;}
+	
+		/* Start footer BODY section */	   
+		.footer_border{margin:auto; padding:0px; width:auto; min-width:1200px; background: #efefef;}
+		.outer{margin: auto; padding-top:2px; padding-left:129px; width:1200px; height:32px; border:1px solid #7aadde; color: #fff; background: #7aadde; position:relative; text-align:center; font-size: 15px;font-weight:bold;line-height: 25px; vertical-align: middle;}
+		.in0{border-right:1px solid #FFF; width:120px; float:left;}
+		.in0 a{color: #fff;}
+		.in1{border-right:1px solid #FFF; width:120px; float:left;}
+		.in1 a{color: #fff;}
+		.in2{border-right:1px solid #FFF; width:120px; float:left;}
+		.in2 a{color: #fff;}
+		.in3{border-right:1px solid #FFF; width:120px; float:left;}
+		.in3 a{color: #fff;}
+		.in4{border-right:1px solid #FFF; width:120px; float:left;}
+		.in4 a{color: #fff;}
+		.in5{border-right:1px solid #FFF; width:120px; float:left;}
+		.in5 a{color: #fff;}
+		.in6{border-right:1px solid #FFF; width:120px; float:left;}
+		.in6 a{color: #fff;}
+		.in7{border-right:0px solid #FFF; width:120px; float:left;}
+		.in7 a{color: #fff;}
+		.outer1{margin: auto; padding-top: 10px; width:1200px; height:90px; border:0px solid #f00;position:relative; text-align:center;}
+
+	
+</style>
+</link></link>
+<style></style>
+
+<style></style>
+
+
+</link>
+<style></style>
+
+<style></style>
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="../../_sitegray/_sitegray_d.css" />
+<script language="javascript" src="../../_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="../../content.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1069,'/content.jsp',2894,1411890787)</script>
+</head>
+<body style="zoom: 1"><!-- Start menu HEAD section --><!-- add to the <head> of your page --><!-- Title 代码部分begin -->
+<div style="text-align: center; margin-left: auto; margin-top: -15px; margin-right: auto"><img title="" alt="" src="../../images/guetliblogo.jpg" width="1200" height="110" style="border-top: medium none; border-right: medium none; border-bottom: medium none; border-left: medium none"></div><!-- Title 代码部分End --><!-- Menu 代码部分begin -->
+<div style="font-size: 15px; width: 1200px; background: #efefef; min-width: 1200px; padding-bottom: 0px; text-align: center; padding-top: 0px; padding-left: 0px; margin: auto; z-index: 120; padding-right: 0px">
+<div class="ulmenu"><!--#begineditable name="网站主导航菜单" viewid="165077" tagname="网站主导航菜单" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""-->        <div class="dropdown">
+            <a href="http://www.guet.edu.cn/lib/" class="dropbtn">首页</a>
+        </div>
+        <div class="dropdown">
+            <a href="#" class="dropbtn">概况</a>
+            <div class="dropdown-content" style="height: 399px;">
+                <div class="dropdown-title">图书馆概况</div>
+                <a href="http://www.guet.edu.cn/lib/info/1036/2875.htm">馆长致辞</a>
+                <a href="http://www.guet.edu.cn/lib/info/1037/2876.htm">本馆简介</a>
+                <a href="http://www.guet.edu.cn/lib/info/1038/2877.htm">现任领导</a>
+                <a href="http://www.guet.edu.cn/lib/info/1039/2878.htm">组织机构</a>
+                <a href="http://www.guet.edu.cn/lib/info/1040/2879.htm">规章制度</a>
+                <a href="http://www.guet.edu.cn/lib/info/1041/2880.htm">常见问题</a>
+                <a href="http://www.guet.edu.cn/lib/info/1042/2881.htm">办证需知</a>
+                <a href="http://www.guet.edu.cn/lib/info/1043/2883.htm">离校手续</a>
+                <a href="http://www.guet.edu.cn/lib/info/1152/2928.htm">图书馆漫游</a>
+                <a href="http://www.guet.edu.cn/lib/info/1045/2884.htm">信息公开</a>
+                <a href="http://www.guet.edu.cn/lib/info/1046/2885.htm">书刊捐赠</a>
+            </div>
+            <div class="dropdown-content" style="margin-left: 200px; height: 399px;">
+                <div class="dropdown-title">新闻与通知</div>
+                <a href="http://www.guet.edu.cn/lib/gk/xwytz/ggxx.htm">公告消息</a>
+                <a href="../../gk/xwytz/zydt.htm">资源动态</a>
+                <a href="http://www.guet.edu.cn/lib/gk/xwytz/gnxw.htm">馆内新闻</a>
+            </div>
+        </div>
+        <div class="dropdown">
+            <a href="#" class="dropbtn">资源</a>
+            <div class="dropdown-content">
+                <a href="http://www.guet.edu.cn/lib/info/1025/2886.htm">版权公告</a>
+                <a href="http://202.193.70.166:8020/index.asp" target="_blank">数据库导航</a>
+                <a href="http://202.193.70.166:8020/index.asp?idc=en&mem=true" target="_blank">外文数据库</a>
+                <a href="http://202.193.70.166:8020/index.asp?idc=cn&mem=true" target="_blank">中文数据库</a>
+                <a href="http://202.193.70.166:8020/index.asp?idc=tryout&mem=true" target="_blank">试用数据库</a>
+                <a href="http://202.193.70.169:90/lib/bookdisc.asp" target="_blank">随书光盘数据库</a>
+                <a href="http://www.guet.edu.cn/lib/info/1032/2888.htm">本校学位论文</a>
+                <a href="http://202.193.70.166:8020/index.asp?idc=oa&mem=true" target="_blank">OA数据库</a>
+                <a href="http://www.guet.edu.cn/lib/info/1034/2889.htm" target="_blank">常用阅读软件</a>
+                <a href="http://202.193.70.139/NTRdrNewBook.aspx" target="_blank">新书通报</a>
+                <a href="http://202.193.70.177/" target="_blank">免费资源推荐</a>
+            </div>
+        </div>
+        <div class="dropdown">
+            <a href="#" class="dropbtn">服务</a>
+            <div class="dropdown-content" style="height:369px;">
+                <div class="dropdown-title">借阅服务</div>
+                <a href="http://www.guet.edu.cn/lib/info/1060/2890.htm">图书馆布局</a>
+                <a href="http://202.193.70.139/index.aspx" target="_blank">馆藏书刊查询</a>
+                <a href="http://202.193.70.139/NTRdrLogin.aspx" target="_blank">个人借阅管理</a>
+                <a href="http://202.193.70.139/NTRdrNewBook.aspx" target="_blank">新书通报</a>
+                <a href="http://www.guet.edu.cn/lib/info/1064/2891.htm">开放时间</a>
+                <a href="http://202.193.70.132:8088/" target="_blank">书刊荐购</a>
+                <a href="http://www.guet.edu.cn/lib/zzwy/index.html" target="_blank">自助文印</a>
+            </div>
+            <div class="dropdown-content" style="margin-left: 200px; height:369px;">
+                <div class="dropdown-title">学科服务</div>
+                <a href="http://www.guet.edu.cn/lib/info/1067/2892.htm">文献传递</a>
+                <a href="http://www.guet.edu.cn/lib/info/1068/2893.htm">查收查引</a>
+                <a href="http://www.guet.edu.cn/lib/info/1069/2894.htm">科技查新</a>
+                <a href="http://www.guet.edu.cn/lib/info/1070/2895.htm">用户教育</a>
+                <a href="http://www.guet.edu.cn/lib/info/1071/2896.htm">在线培训</a>
+                <a href="http://ipscience-help.thomsonreuters.com/incitesLiveESI/ESIGroup/overviewESI/esiJournalsList.html">ESI期刊</a>
+                <a href="http://www.guet.edu.cn/lib/info/1074/2900.htm">投稿指南</a>
+                <a href="http://www.guet.edu.cn/lib/info/1075/2901.htm">桂电SCIE收录动态</a>
+                <a href="http://www.guet.edu.cn/lib/info/1076/2899.htm">ESI高水平论文</a>
+                <a href="http://www.fenqubiao.com/" target="_blank">中科院期刊分区在线平台</a>
+            </div>
+            <div class="dropdown-content" style="margin-left: 400px; height:369px;">
+                <div class="dropdown-title">文化服务</div>
+                <a href="http://202.193.70.162:8089/" target="_blank">研讨室预约</a>
+                <a href="http://202.193.70.165/subject/subject.html" target="_blank">专题导读</a>
+                <a href="http://www.guet.edu.cn/lib/info/1080/2902.htm">新生专栏</a>
+                <a href="http://202.193.70.165/dzzt/index.php" target="_blank">电子展厅</a>
+            </div>
+        </div>
+        <div class="dropdown">
+            <a href="#" class="dropbtn">党建园地</a>
+            <div class="dropdown-content">
+                <a href="http://www.guet.edu.cn/lib/djyd/zbdt.htm">支部动态</a>
+                <a href="http://www.guet.edu.cn/lib/djyd/djll.htm">党建理论</a>
+                <a href="http://www.guet.edu.cn/lib/djyd/ztxx.htm">专题学习</a>
+                <a href="http://www.guet.edu.cn/lib/djyd/dwgk.htm">党务公开</a>
+            </div>
+        </div>
+        <div class="dropdown">
+            <a href="#" class="dropbtn">新生专栏</a>
+            <div class="dropdown-content">
+                <a href="http://www.guet.edu.cn/lib/info/1080/2902.htm">你问我答</a>
+                <a href="http://www.guet.edu.cn/lib/info/1153/2929.htm">新生入馆教育视频</a>
+                <a href="http://202.193.70.132:8096/" target="_blank">新生入馆测试</a>
+            </div>
+        </div>
+        <div class="dropdown">
+            <a href="http://202.193.70.139/NTRdrLogin.aspx" class="dropbtn" target="_blank">个人借阅管理</a>
+        </div>
+        <div class="dropdown">
+            <a href="#" class="dropbtn">联系我们</a>
+            <div class="dropdown-content">
+                <a href="mailto:library@guet.edu.cn">馆长信箱</a>
+                <a href="http://www.guet.edu.cn/lib/bbs.jsp?urltype=tree.TreeTempUrl&wbtreeid=1167">请您留言</a>
+            </div>
+        </div>
+<!--#endeditable--></div></div><!-- Menu 代码部分End --><!-- End menu HEAD section -->
+
+<!-- Start sidebar right HEAD section --><!-- add to the <head> of your page -->
+<!--#begineditable name="网站导航-右侧导航条" viewid="202481" tagname="网站导航-右侧导航条" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp="true"--><!-- Start sidebar right HEAD section --><!-- add to the <head> of your page -->
+<ul id="nav-bar">
+  <li class="level-one"><img src="../../images/picture/weixin.png" width="45" height="45" onmouseover="this.style.opacity=0.8;" onmouseout="this.style.opacity=1" />
+    <ul class="level-two">
+	<li><img src="../../images/picture/waplibrary1.png" width="90" height="90" border="0" /></li>
+	<li>微信图书馆</li>
+    </ul>
+  </li>
+
+  <li class="level-one"><img src="../../images/picture/app.png" width="45" height="45" onmouseover="this.style.opacity=0.8;" onmouseout="this.style.opacity=1" />
+    <ul class="level-two">
+	<li><img src="../../images/picture/waplibrary3.png" width="90" height="90" border="0" /></li>
+	<li>超星学习通<br />邀请码：yzgldzkd</li>
+    </ul>
+  </li>
+
+  <li class="level-one1"><img src="../../images/picture/qq.png" width="45" height="45" onmouseover="this.style.opacity=0.8;" onmouseout="this.style.opacity=1" />
+    <ul class="level-two1">
+	<li>
+          <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=377406987&site=qq&menu=yes">
+	  <img border="0" src="http://wpa.qq.com/pa?p=2:377406987:49" alt="点击这里给我发消息" title="有关图书、期刊、数据库的荐购及对现有文献资源的意见和建议，请找我吧"></a>
+	  <div style="margin-left:5px;">资源建设部 刘老师</div>
+	</li>
+
+	<li>
+          <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=150520281&site=qq&menu=yes">
+	  <img border="0" src="http://wpa.qq.com/pa?p=2:150520281:49" alt="点击这里给我发消息" title="有关花江图书馆流通、阅览等问题，请找我吧"></a>
+	  <div style="margin-left:5px;">读者服务部 韦老师</div>
+	</li>
+
+	<li>
+ 	  <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=1029723910&site=qq&menu=yes">
+	  <img border="0" src="http://wpa.qq.com/pa?p=2:1029723910:49" alt="点击这里给我发消息" title="有关金鸡岭图书馆流通、阅览等问题，请找我吧"></a>
+	  <div style="margin-left:5px;">读者服务部 田老师</div>
+	</li>
+
+	<li>
+	  <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=532306156&site=qq&menu=yes">
+	  <img border="0" src="http://wpa.qq.com/pa?p=2:532306156:49" alt="点击这里给我发消息" title="有关文献的收录引用检索、科技查新、信息素养培训、科研数据分析及数据库的使用等问题请找我吧"></a>
+	  <div style="margin-left:5px;">学科与技术服务部 陈老师</div>
+	</li>
+
+	<li>
+	  <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=553552464&site=qq&menu=yes">
+	  <img border="0" src="http://wpa.qq.com/pa?p=2:553552464:49" alt="点击这里给我发消息" title="有关电子资源的使用、查收查引、原始文献获取、学科服务等问题请找我吧"></a>
+	  <div style="margin-left:5px;">学科与技术服务部 马老师</div>
+	</li>
+
+	<li>
+	  <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=240607828&site=qq&menu=yes">
+	  <img border="0" src="http://wpa.qq.com/pa?p=2:240607828:49" alt="点击这里给我发消息" title="有关新生培训、厅室预约、展览展示、文化活动、参观交流等问题，请找我吧"></a>
+	  <div style="margin-left:5px;">综合业务部 童老师</div>
+	</li>
+
+	<li>
+ 	  <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=543938445&site=qq&menu=yes">
+	  <img border="0" src="http://wpa.qq.com/pa?p=2:543938445:49" alt="点击这里给我发消息" title="有关新生培训、厅室预约、展览展示、文化活动、参观交流等问题，请找我吧"></a>
+	  <div style="margin-left:5px;">综合业务部 陈老师</div>
+	</li>
+    </ul> 
+  </li>
+</ul>
+
+
+<!-- End sidebar right HEAD section --><!--#endeditable-->
+<!-- End sidebar right HEAD section -->
+
+<!-- Start BODY section --><!-- add to the <body> of your page --><!-- Start content section --><!-- add to the <head> of your page -->
+<div class="single_area">
+<div class="sidebar_area"><!-- Start sidebar left section --><!-- add to the <head> of your page --><!-- sidebar_area begin --><!-- sidebar_head begin --><script src="../../js/jquery.min.js" type="text/javascript"></script><script type="text/javascript" src="../../js/sidebar_menu_min.js"></script><script type="text/javascript">
+			$(document).ready(function (){ 
+	  
+				$(".menu ul li").menu();
+	  
+			}); 
+		</script><link rel="stylesheet" type="text/css" href="../../css/sidebar-menu-css.css"><!-- sidebar_head end -->
+<div id="content">
+<div class="menu"><!--#begineditable name="左边栏三级导航" viewid="164980" tagname="左边栏三级导航" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""-->		
+
+				<a href="#" title="" style="margin: 5px 0px 5px 135px; font-size: 26px; weight: bolder; color: #000;">学科服务</a>
+				<ul>
+						<li>
+							<a href="http://www.guet.edu.cn/lib/info/1067/2892.htm" title="文献传递">文献传递</a>
+						</li>
+						<li>
+							<a href="http://www.guet.edu.cn/lib/info/1068/2893.htm" title="查收查引">查收查引</a>
+						</li>
+						<li>
+							<a href="http://www.guet.edu.cn/lib/info/1069/2894.htm" title="科技查新">科技查新</a>
+						</li>
+						<li>
+							<a href="http://www.guet.edu.cn/lib/info/1070/2895.htm" title="用户教育">用户教育</a>
+						</li>
+						<li>
+							<a href="http://www.guet.edu.cn/lib/info/1071/2896.htm" title="在线培训">在线培训</a>
+						</li>
+						<li>
+							<a href="http://ipscience-help.thomsonreuters.com/incitesLiveESI/ESIGroup/overviewESI/esiJournalsList.html" title="ESI期刊">ESI期刊</a>
+						</li>
+						<li>
+							<a href="http://www.guet.edu.cn/lib/info/1074/2900.htm" title="投稿指南">投稿指南</a>
+						</li>
+						<li>
+							<a href="http://www.guet.edu.cn/lib/info/1075/2901.htm" title="桂电SCIE收录动态">桂电SCIE收录动态</a>
+						</li>
+						<li>
+							<a href="http://www.guet.edu.cn/lib/info/1076/2899.htm" title="ESI高水平论文">ESI高水平论文</a>
+						</li>
+						<li>
+							<a href="http://www.fenqubiao.com/" title="中科院期刊分区在线平台">中科院期刊分区在线平台</a>
+						</li>
+				</ul>
+
+<!--#endeditable--></div></div><!-- sidebar_area end --><!-- End sidebar left section --></div>
+<div class="content_area_border">
+<div class="content_area_bg">
+<div class="nav_area"><!--#begineditable name="当前位置" viewid="164968" tagname="当前位置" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""-->		<a href="../../index.htm">首页</a>
+		<img src="../../images/picture/off.png" alt="" title="" width="28" height="28" style="border:none; vertical-align: top" />
+		<a href="../../fw.htm">服务</a>
+		<img src="../../images/picture/off.png" alt="" title="" width="28" height="28" style="border:none; vertical-align: top" />
+		<a href="../../fw/xkfw.htm">学科服务</a>
+		<img src="../../images/picture/off.png" alt="" title="" width="28" height="28" style="border:none; vertical-align: top" />
+		正文
+<!--#endeditable--></div><!--#begineditable name="文章内容" viewid="164969" tagname="文章内容" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""-->
+<script language="javascript" src="/system/resource/js/dynclicks.js"></script><script language="javascript" src="../../_dwr/interface/NewsvoteDWR.js"></script><script language="javascript" src="../../_dwr/engine.js"></script><script language="javascript" src="/system/resource/js/news/newscontent.js"></script><script type="text/javascript">NewsvoteDWR.getNewsLinkUrl(2894,'1411890787','vsb',newsSkip);function newsSkip(data){if(data != ""){window.location.href = data;}}</script><script language="javascript" src="/system/resource/js/ajax.js"></script><form name="_newscontent_fromname"><script language="javascript" src="/system/resource/js/jquery/jquery-latest.min.js"></script>
+<div>
+	<div class="title_area">科技查新</div>
+    <hr>
+    <div id="vsb_content" class="content_area"><p style="text-indent:2em;"><p class="vsbcontent_start" style="text-align: center;"><strong>关于我校图书馆开展科技查新服务的通知</strong></p>
+<p>为配合学校实现“区域一流、国内先进、国际上有一定知名度的特色高水平大学”的目标，进一步提高图书馆信息服务水平，充分发挥我校图书馆各类馆藏资源优势作用，更好地服务于学校的教学科研工作。经协商，桂林电子科技大学图书馆与南京航空航天大学教育部科技查新工作站达成科技查新合作意向，由南京航空航天大学教育部科技查新工作站帮助桂林电子科技大学图书馆，面向校内外开展代理科技查新业务。目前我校正在筹建教育部科技查新站，在此期间，凡由图书馆接受的委托查新项目，查新费用均按南京航空航天大学教育部科技查新工作站收费标准执行，我校师生的课题可以享受加急优惠。</p>
+<p>科技查新服务范围包括：科技项目咨询及成果查新（如，科技立项查新，科技成果鉴定、评估、验收、转化查新，成果申报奖励查新，博士论文开题、评审查新，申请专利查新，技术引进查新，新产品开发查新，国家及地方有关规定所要求的其它查新等）、核心期刊及影响因子检索及参考咨询与文献传递。</p>
+<p>如有需要，请查看服务指南或拨打桂林电子科技大学图书馆学科服务电话进行咨询。</p>
+<p>联系电话： 0773-2291608</p>
+<p>E— mail：libxkb@guet.edu.cn</p>
+<p>联 系 人：</p>
+<p>工作时间：周一至周五（周五下午学习）：上午 8:30—12:00，</p>
+<p>下午 2:00–5:30</p>
+<p>办公地址：花江校区图书馆一楼（C区）学科服务部</p>
+<p><br></p>
+<p style="text-align: center;"><strong>桂林电子科技大学科技查新服务指南</strong></p>
+<p>科技查新（简称查新），是指具有查新业务资质的查新机构根据查新委托人提供的需要查证其新颖性的科学技术内容，按照《科技查新规范》进行操作，并做出结论（查新报告）。</p>
+<p>科技查新服务是国家科技部为避免科研课题重复立项和客观公正地判别科研成果的新颖性而设立的一项工作，由具有科技查新资质的查新机构承担完成。查新机构根据查新委托人提供的需要查证其新颖性的科学技术内容，按照科技查新规范操作，有偿提供科技查新服务。</p>
+<p><strong>一、科技查新服务范围</strong></p>
+<p>1.申请科研立项；</p>
+<p>2.科技成果鉴定、评估、验收、转化；</p>
+<p>3.科技成果申报奖励；</p>
+<p>4.博/硕士论文开题、评审；</p>
+<p>5.技术咨询，包括新技术引进、新产品开发等；</p>
+<p>7.查收查引；</p>
+<p>8.论文收录及引用检索；</p>
+<p>9.核心期刊及影响因子检索；</p>
+<p>10.定题检索</p>
+<p>11.参考咨询与文献传递等。</p>
+<p><strong>二、图书馆科技查新服务程序</strong></p>
+<p>1、申请科技查新的教师、研究生请到图书馆学科部领取“桂林电子科技大学科技查新委托书” （或登录图书馆主页http://www.guet.edu.cn/lib，在“科技查新”栏目中下载“<a href="../../document/kjcx/kjcxht.doc" target="_blank" title="科技查新委托书">桂林电子科技大学科技查新委托书</a>”）<a href="/__local/B/DF/D9/78E86F7F701D4B56EB2374BE586_4406B4B0_8200.doc">（委托单填写样例）</a>。</p>
+<p>2、由课题负责人或掌握课题全面情况的研究人员填写“桂林电子科技大学科技查新委托书”，填写前须认真阅读“桂林电子科技大学科技查新委托书填写说明”和“桂林电子科技大学科技查新委托须知”。</p>
+<p>3、请查新委托人把填好的委托书及与查新项目有关的技术资料，如立项申请、研究报告、总结报告、成果申报表等纸质材料交到花江校区图书馆一楼（C区）学科服务部，同时将委托书及相关材料的电子版发送到桂林电子科技大学科技查新站电子邮箱(libxkb@guet.edu.cn)，并致电确认。</p>
+<p>4、查新人员收到委托人填写好的查新委托书后（含委托书及与查新项目有关的技术资料电子稿），将根据情况确定是否受理查新。确定受理后，会电话通知委托人来馆正式办理查新委托手续。</p>
+<p>5、查新中心在约定的工作时间内按照科技查新工作的流程和规范要求，完成查新任务，并将查新报告送至南京航空航天大学教育部科技查新工作站审核盖章。</p>
+<p>6、科技查新报告严格按照《教育部科技查新工作站查新报告撰写规范》的格式和要求撰写，并出具南京航空航天大学教育部科技查新工作分站正式票据。</p>
+<p><strong>三、科技查新费用</strong></p>
+<p>根据科技部的规定，查新咨询工作为有偿服务，查新费用目前暂按南京航空航天大学教育部科技查新工作站收费标准执行。未尽事宜请阅读桂林电子科技大学科技查新收费标准及有关说明。</p>
+<p><strong>四、收费标准：</strong></p>
+<p>国 内外查新： 8个工作日 1500元/个</p>
+<p>国 内 查 新： 3个工作日 700元/个</p>
+<p>注明： 加急不收费，超过三个查新点价格上浮</p>
+<p>联系电话： 0773-2291608</p>
+<p>E— mail：libxkb@guet.edu.cn</p>
+<p>联 系 人： 马姣玲</p>
+<p>工作时间：周一至周五（周五下午学习）：上午8:30—12:00，</p>
+<p>下午 2：00–5:30</p>
+<p>办公地址：花江校区图书馆一楼（C区）学科服务部</p>
+<p><br></p>
+<p style="text-align: center;"><strong>桂林电子科技大学科技查新委托须知</strong></p>
+<p>科技查新是一项十分严谨的、以文献检索和情报调研相结合的科技情报研究工作。为确保科技查新工作的科学性、客观性、公正性和准确性，保证查新质量，维护查新有关各方的合法权益，敬请委托人在委托查新时注意做好以下事项：</p>
+<p>一、领取科技查新委托单</p>
+<p>1．委托人须到桂林电子科技大学图书馆学科部领取“桂林电子科技大学科技查新委托书”，咨询相关事宜；或从桂林电子科技大学图书馆主页下载。下载地址：<a href="../../document/kjcx/kjcxht.doc" target="_blank" title="科技查新委托书">桂林电子科技大学科技查新委托书</a><a href="/__local/B/DF/D9/78E86F7F701D4B56EB2374BE586_4406B4B0_8200.doc">（委托单填写样例）</a></p>
+<p>2．在填写委托书前，请仔细阅读《科技查新规范》的第3、4、5、10部分，并认真阅读桂林电子科技大学科技查新相关规定及《桂林电子科技大学科技查新委托须知》。</p>
+<p>二、填写科技查新委托书</p>
+<p>科技查新委托书应由课题负责人或掌握课题全面情况的研究人员填写。委托书签字应当使用钢笔或者炭素笔。委托人须按照《科技查新委托书填写说明》的要求，认真地填写《桂林电子科技大学科技查新委托书》上各项内容：</p>
+<p>1.查新项目名称：委托人应填写与科研立项、成果鉴定、申请专利或开题等一致的名称，国内外查新时还需填写课题英文名称；</p>
+<p>2.委托单位和委托人：查新委托人应是本查新项目的负责人或成员，或是掌握项目全面技术的研究人员；委托人应如实填写其姓名，现所在单位名称，通信地址、邮政编码，项目负责人及电话，联系人及电话、电子邮箱等信息；</p>
+<p>3.查新目的及查新范围：查新目的可分为科技立项、科技成果鉴定等。查新范围分为国内查新、国外查新和国内外查新；</p>
+<p>4.查新项目的科学技术要点：科学技术要点应充分反映查新项目的概貌，简述项目的背景、要解决的技术问题、采用的方案、主要技术特征、技术参数或指标、应用范围等相关技术内容；</p>
+<p>5.查新点：查新点指需要查证的技术创新点 (每个查新项目限1-3个查新点)。查新点要以 1、2、3来标记，逐条列出；查新点是查新人员拟定检索词和制定检索策略以至对比分析和判断新颖性的依据，写法上要精练明确，条理清楚（不要把查新项目中的一般性技术特征列为创新点），进行文字表述时要用词科学、准确、逻辑严密。</p>
+<p>6、查新要求：查找国内 (外) 是否有与本项目相同或类似研究，通过对比分析，对查新项目的新颖性作出判断结论；查找国内 (外) 有关本项目的科技文献报道；查新委托人提出的其它查新要求；查新委托人提出的其他愿望；</p>
+<p>7. 参考文献：与查新项目密切相关的国内外同类科学技术和相关科学技术的背景材料（应当尽可能注明文献的著者、题目、刊名、年、卷、期、页）等，以供查新机构在处理查新事务中参考 ( 本查新工作组将妥善保管，结题后归还 ) 。</p>
+<p>8.检索词：关键词（含规范词、同义词、缩写词、相关词等）。关键词应从查新项目的科学技术要点中抽出，用词要符合本专业词汇规范，要注意到词的全称、中外文缩写、学名及其俗称等。化学物质除提供化学名称外，应提供其商品名、俗称、分子式、结构式及 CA 登记号等。</p>
+<p>三、递交填写完毕的查新委托书</p>
+<p>将填写好的电子版查新委托书发往libxkb@guet.edu.cn，并拨打0773-2291608进行确认。同时将填写完毕的纸质“科技查新委托单”递交给查新承办人核查验收（接收地点：桂林电子科技大学图书馆学科部）。</p>
+<p>四、正式办理查新委托手续</p>
+<p>科技查新中心在收到您的委托书后，查新承办人会电话与委托人商谈可否接受委托，可以接受委托的项目，查新机构与委托机构或委托人将正式办理科技查新委托手续，签订“科技查新委托书”，并签字盖章。</p>
+<p>为了更及时有效地完成查新报告，敬请查新委托人协助配合以下工作：</p>
+<p>1、请查新委托人据实、完整、准确地向查新机构提供如下查新资料：</p>
+<p>（1）、科研立项查新须提交：立项申请书、主要参考文献等；</p>
+<p>（2）、成果鉴定查新须提交：项目研制报告、技术报告等；</p>
+<p>（3）、申报奖励查新须提交：奖项申报书及有关报奖材料（查新中心将妥善保管和保密，结题后可归还）；</p>
+<p>2、委托人应在约定时间积极向查新承办人介绍委托查新项目的研究内容，并就查新项目的科学技术要点、查新点与查新要求、检索词、委托书履行的期限、地点和方式、查新范围、查新收费等达成共识。</p>
+<p>3、在查新过程中，查新人员就查新项目提出不明事宜时，查新委托人有责任给予积极的解答与及时的沟通。</p>
+<p>4、查新委托书的内容一经确定后，不能随意更改，确实因需要而更改项目的主要内容、技术性能指标或增加查新点等，则应及时与查新站联系，委托时间也应从修改之日起计算。</p>
+<p>5、查新委托人不得干涉查新活动，不得向查新人员施加任何倾向性影响。即使是委托人已经查过的资料，也必须经过查新人员的重新查证核实。</p>
+<p>五、获取查新报告</p>
+<p>1、查新结论的撰写必须根据检索到的资料和用户委托的查新点以描述性的语言客观撰写。查新人员撰写好查新报告后，委托人应在查新人员的指导下仔细过目，并就非专业的翻译和结论、术语提出参考改正意见。</p>
+<p>2、审核人员对审核中及咨询专家对咨询中出现的问题，有权要求查新人员和委托人做出说明或补充查证。</p>
+<p>3、科技查新报告一经委托人最终确定，委托人应付清全部查新款项，查新约定宣告解除。</p>
+<p>4、委托人若需提前领取查新报告，需在委托时予以申明，可按加急处理。</p>
+<p>5、查新报告一般提供二份正本，用户要求多份时，应事先说明，费用另计。</p>
+<p>6、查新项目已接受委托，且已完成检索工作时，若委托人提出取消查新，则需支付一半查新费作为检索费用；若此时查新报告已完成，委托人则需支付全部费用。</p>
+<p>7、查新工作日自缴费第二天起开始计算。若遇到查新课题集中上报，则查新时限将按照收到课题的先后顺序进行顺延。如果因为用户原因不能按时提交报告，提交报告时间相应后延；同一用户同时提交多个查新项目委托时，需要适当延长查新完成时间。</p>
+<p><br></p>
+<p style="text-align: center;"><strong>填写说明</strong></p>
+<p>一、在填写合同前，请仔细阅读《科技查新规范》的第3、4、5、10部分。</p>
+<p>二、“合同编号”的填写方法</p>
+<p>合同编号为十四位，左起第一至四位为公历年代号，第五、六位为省、自治区、直辖市编码，第七、八、九位为查新机构编号，第十至十四位为合同序号，以上编号不足位的补零。各省、自治区、直辖市的编码按GB/T 2260—1995规定填写。（合同序号由各查新机构自行编排）</p>
+<p>三、查新合同</p>
+<p>是指查新委托人和查新机构约定，由查新机构处理查新委托人的查新事务的合同。合同签字应当使用钢笔或者炭素笔。</p>
+<p>四、查新目的</p>
+<p>可分为立项查新、成果查新等。立项查新包括申报各级、各类科技计划，科研课题开始前的资料收集等；成果查新包括为开展成果鉴定、申报奖励等。</p>
+<p>五、查新点与查新要求</p>
+<p>查新点是指需要查证的内容要点。</p>
+<p>查新要求是指查新委托人对查新提出的具体愿望。一般分为以下四种情况：（1）希望查新机构通过查新，证明在所查范围内国内外有无相同或类似研究；（2）希望查新机构对查新项目分别或综合进行国内外对比分析；（3）希望查新机构对查新项目的新颖性作出判断；（4）查新委托人提出的其他愿望。</p>
+<p>六、查新项目的科学技术要点</p>
+<p>要着重说明查新项目的主要科学技术特征、技术参数或指标、应用范围、查新委托人自我判断的新颖性等，空间不够时可加附页。</p>
+<p>七、参考文献</p>
+<p>是指查新委托人列出的与查新项目密切相关的国内外文献（应当尽可能注明文献的著者、题目、刊名、年、卷、期、页），这些文献仅供查新机构在处理查新事务中参考。</p>
+<p>八、保密责任</p>
+<p>应当包括当事人对技术内容和资料保守秘密的内容、期限和泄露科学技术秘密应当承担的责任。双方可以约定，不论本合同是否变更、解除、终止，本条款均有效。</p>
+<p>九、本合同中，凡是当事人约定认为无需填写的条款，在该条款填写的空白处划（/）表示。</p>
+<p><br></p>
+<p style="text-align: center;"><strong>涉密查新规章</strong></p>
+<p>【大 中 小】</p>
+<p>第一条 为加强我校科技查新（以下简称查新）技术秘密的保护与管理工作，根据《中华人民共和国科学技术保密条例》的规定，特制定本保密制度。</p>
+<p>第二条 查新咨询工作人员应加强保密教育，认真学习、贯彻、执行保密工作的方针、政策和法律、法规，落实各项保密措施，并定期检查，切实作好保密工作。</p>
+<p>第三条 需要保密的查新课题，特别是 涉及知识产权和专利的查新项目， 委托查新单位 / 个人要在《桂林电子科技大学科技查新合同》上写明密级，同时查新人员承诺对 查新委托人的成果和所提供的各种资料的保密。</p>
+<p>第四条 查新机构及其工作人员有责任维护查新项目委托人所有者的知识产权，不得非法占有、使用或者向他人披露、转让查新项目所有者的科技成果。除以下人员和机构外，查新机构及其工作人员应按照合同保守一切与委托查新单位 / 个人申报项目有关的秘密，不得向任何人泄露查新项目的科学技术秘密和查新结论。</p>
+<p>(1) 查新委托人或者由查新委托人明确指定的人（或机构）；</p>
+<p>(2) 法律、法规允许的第三方（如省、自治区、直辖市的科学技术行政部门，国务院有关部门、直属机构、直属事业单位的科技成果管理机构等）；</p>
+<p>(3) 具有管辖权的专业检查组织。</p>
+<p>第五条 按照相关保密规定 ，妥善保存密级查新项目的原始记录、《桂林电子科技大学科技查新合同》、《科技查新报告》等档案材料，直到解密日期。</p>
+<p>第六条 查新单位使用计算机存贮、传输、处理已确定密级的科学技术资料（信息），应按照保密有关法规、规定采取相应保密技术措施。</p>
+<p>第七条 在实施查新保密过程中，如发现有关秘密可能泄露或已经泄露时，应当予以制止，并立即采取补救措施，避免或减轻损害后果。事后应按有关规定上报有关保密工作部门，及时查处泄密事件，对于违反者取消查新资格；触犯有关法律者，须承担法律责任。</p>
+<p class="vsbcontent_end">第八条 查新人员玩忽职守，营私舞弊，出具错误查新报告，造成不良影响和其他后果的，应追究直接责任人的责任。因工作失误造成漏检、误检，查新站退还部分检索费用或免费重检。</p></p></div><div id="div_vote_id"></div>
+        <br />
+    <p align="right">【<a href="javascript:window.opener=null;window.open('','_self');window.close();">关闭</a>】</p><br />
+</div>
+</form><!--#endeditable--></div></div></div><!-- End BODY section --><!-- Start footer BODY section --><!-- add to the <head> of your page -->
+<div class="footer_border">
+<p></p>
+<div class="outer">
+<div class="in0"><a href="http://www.guet.edu.cn" target="_blank">学校主页</a> </div>
+<div class="in1"><a href="http://202.193.70.191" target="_blank">回到旧版</a> </div>
+<div class="in2"><a href="http://www.guet.edu.cn/lib/info/1064/2891.htm" target="_blank">开馆时间</a> </div>
+<div class="in3"><a href="http://www.guet.edu.cn/lib/info/1060/2890.htm" target="_blank">馆藏分布</a> </div>
+<div class="in4"><a href="http://202.193.70.165/dzzt/index.php" target="_blank">电子展厅</a> </div>
+<div class="in5"><a href="http://www.guet.edu.cn/lib/info/1032/2888.htm" target="_blank">论文提交</a> </div>
+<div class="in6"><a href="http://202.193.70.165/subject/subject.html" target="_blank">专题导读</a> </div>
+<div class="in7"><a href="http://202.193.70.166:8020/index.asp?idc=tryout&amp;mem=true" target="_blank">最新试用</a> </div></div>
+<p></p>
+<p></p>
+<div class="outer1">版权所有：桂林电子科技大学图书馆 电话：(0773)2191353 地址：中国广西桂林金鸡路1号 邮编：541004 </div>
+<p></p></div><!-- End footer BODY section -->
+
+</body></html>

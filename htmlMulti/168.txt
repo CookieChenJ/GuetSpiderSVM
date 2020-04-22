@@ -1,0 +1,612 @@
+<!DOCTYPE html>
+<html>
+
+<HEAD>
+    <TITLE>招生简章-桂林电子科技大学MBA教育中心</TITLE><META Name="keywords" Content="mba,桂林电子科技大学,广西,招生简章" />
+
+    <META charset="UTF-8">
+    <META name="description" content="我校MBA教育始终坚持“正德 厚学 笃行 致新”的校训，以“助力广西、链接东盟、彰显特色”为使命，以“融理弘商 经世致用”为核心价值，依托全校优势教育资源开展MBA教育。我校MBA教育虽然年轻，但是拥有旺盛的生命力。地处广西壮族自治区，虽属西部民族落后地区，但是经过十年薪火相传，MBA教育已经植根于山水甲天下的桂林，开枝散叶为地方经济乃至中国经济发展培养高级管理人员。">
+    <META name="wap-font-scale" content="no">
+    <link rel="shortcut icon" href="../images/favicon.ico" type="image/x-icon">
+    <META name="viewport" content="width=device-width, initial-scale=1.0,user-scalable =no">
+    <META content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+    <LINK rel="stylesheet" href="../css/cui.css">
+    <LINK rel="stylesheet" href="../css/lib.css">
+    <LINK rel="stylesheet" href="../css/style.css">
+    <LINK rel="stylesheet" href="../css/less.css">
+    <script type="text/javascript" src="../js/jquery.js"></script>
+    <script type="text/javascript" src="../js/lib.js"></script>
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="../_sitegray/_sitegray_d.css" />
+<script language="javascript" src="../_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="../page.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/vsbscreen.min.js" id="_vsbscreen" devices="pc|mobile|pad"></script>
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1105,'/page.jsp',-1,1531235930)</script>
+</HEAD>
+
+<body>
+    <div id="top">
+        <div class="wp">
+            <div class="top-r">
+                <!--#begineditable name="top链接" action="webber.wbst.com.SpaceStaticAction" layout="/system/_component/space/tplstaticspace.jsp" tpltype="1" contype="" clone="" viewid="166841" contentviewid="" tagname="top链接"--><ul class="ul-list1">
+<li><a href="https://www.guet.edu.cn" class="v1"><i style="background-image:url(../images/gicon3.png)">&nbsp;</i>学校首页</a></li>
+                <li><a href="https://www.guet.edu.cn/dept5" class="v1"><i style="background-image:url(../images/gicon3.png)">&nbsp;</i>商学院首页</a></li>
+                <li><a class="v1"><i style="background-image:url(../images/gicon51.png)">&nbsp;</i>综合管理平台</a>
+                <div class="subBox">
+                    <dl>
+                <a href="http://mba-e.guet.edu.cn">信息管理系统</a>                    
+ <a href="http://mba-e.guet.edu.cn/index/login">报名申请系统</a>
+ <a href="http://mba-e.guet.edu.cn/mobile">综合面试平台</a> 
+ </dl>
+</div>
+
+
+
+                </li>
+            </ul><!--#endeditable-->
+                <div class="m-search">
+                    <!--#begineditable name="全文检索" action="webber.wbst.com.SpaceStaticAction" layout="/system/_component/news/tplnewslucenesearch.jsp" tpltype="1" contype="" clone="" viewid="166844" contentviewid="" tagname="全文检索"--><script type="text/javascript">
+    function subm166844(){
+      if($('.m-search').hasClass('soBox-click')){
+        if(check166844()){
+          submitSearch166844();
+        }
+      }
+      $('.m-search').addClass('soBox-click');
+      return false;
+    }
+    $('.m-soBox').click(function(){
+      return false;
+    });
+    
+    function check166844(){
+var keyword = document.getElementById('showkeycode166844').value;
+        if(keyword==null||keyword==""){
+            alert("请输入你要检索的内容！");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkeyword166844").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkeyword166844").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkeyword166844").value = base64.encode(document.getElementById("lucenenewssearchkeyword166844").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode166844"));
+        return true;
+    } 
+ function submitSearch166844(){
+        $("#searchform166844").submit();
+    }
+</script>
+<form method="post" id="searchform166844" name="searchform166844" action="../search.jsp?wbtreeid=1105" onsubmit="return check166844()" style="display: inline;">
+ <input type="hidden" id="lucenenewssearchkeyword166844" name="lucenenewssearchkeyword" value=""><input type="hidden" id="_lucenesearchtype166844" name="_lucenesearchtype" value="1"><input type="hidden" id="searchScope166844" name="searchScope" value="1">
+  <div class="m-soBox">
+            <input class="input" placeholder="搜索" size="30" name="showkeycode" id="showkeycode166844" class="querystyle166844">
+            
+            <input type="button" onclick="subm166844()" src="/system/resource/images/research/seach22.gif" class="search">
+</div> 
+</form><script language="javascript" src="/system/resource/js/base64.js"></script><script language="javascript" src="/system/resource/js/formfunc.js"></script>
+<!--#endeditable-->
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="hd">
+       <!--#begineditable name="LOGO" action="webber.wbst.com.basecomponent.BaseComponent" layout="/system/_component/basecomponent/tpllogo.jsp" tpltype="1" contype="" clone="" viewid="201576" contentviewid="" tagname="LOGO"-->
+<DIV class="wp">
+<a href="http://mba.guet.edu.cn" class="logo"><img src="../images/MBA.png" alt="logo"></a>
+</div><!--#endeditable-->
+        <div id="nv">
+            <div class="wp">
+                <!--#begineditable name="网站导航" action="webber.wbst.com.nav.MenuAction" layout="/system/_component/sitenav/tplvnav.jsp" tpltype="1" contype="" clone="" viewid="166727" contentviewid="" tagname="网站导航"--><ul class="nav nav-pc">                    
+<li>
+   <a href="../index.htm" class="v1">首页</a>
+                        </li>
+<li>
+   <a href="../news/xwdt.htm" class="v1">新闻动态</a>
+                            <div class="subBox">
+<dl>
+                            <a href="../news/tzgg.htm" title="通知公告">通知公告<i>&nbsp;</i></a>
+                                                              
+                            <a href="../news/xwdt.htm" title="新闻动态">新闻动态<i>&nbsp;</i></a>
+                                                              
+                            <a href="../news/jxyan_ji.htm" title="教学研究">教学研究<i>&nbsp;</i></a>
+                                                              
+                            <a href="../news/xshd.htm" title="学生活动">学生活动<i>&nbsp;</i></a>
+                                                              
+                            <a href="../news/xsjl.htm" title="学术交流">学术交流<i>&nbsp;</i></a>
+                                                              
+</dl>
+                            </div>
+                        </li>
+<li>
+   <a href="../gkjs/xmjs.htm" class="v1">概况介绍</a>
+                            <div class="subBox">
+<dl>
+                            <a href="../gkjs/xxgk.htm" title="学校概况">学校概况<i>&nbsp;</i></a>
+                                                              
+                            <a href="../gkjs/xmjs.htm" title="项目介绍">项目介绍<i>&nbsp;</i></a>
+                                                              
+                            <a href="../gkjs/gzry.htm" title="工作人员">工作人员<i>&nbsp;</i></a>
+                                                              
+                            <a href="../gkjs/jxzdwyh.htm" title="教学指导委员会">教学指导委员会<i>&nbsp;</i></a>
+                                                              
+                            <a href="../gkjs/szdw.htm" title="师资队伍">师资队伍<i>&nbsp;</i></a>
+                                                              
+                            <a href="../gkjs/hjry.htm" title="获奖荣誉">获奖荣誉<i>&nbsp;</i></a>
+                                                              
+</dl>
+                            </div>
+                        </li>
+<li class="on">
+   <a href="zsxx.htm" class="v1">招生信息</a>
+                            <div class="subBox">
+<dl>
+                            <a href="zsxx.htm" title="招生信息">招生信息<i>&nbsp;</i></a>
+                                                              
+                            <a href="zsjz.htm" title="招生简章">招生简章<i>&nbsp;</i></a>
+                                                              
+                            <a href="xgwt.htm" title="相关问题">相关问题<i>&nbsp;</i></a>
+                                                              
+</dl>
+                            </div>
+                        </li>
+<li>
+   <a href="../MBAlhh.htm" class="v1">MBA联合会</a>
+                            <div class="subBox">
+<dl>
+                            <a href="../MBAlhh/ljlhhcy.htm" title="历届联合会成员">历届联合会成员<i>&nbsp;</i></a>
+                                                              
+</dl>
+                            </div>
+                        </li>
+<li>
+   <a href="../zyfz.htm" class="v1">职业发展</a>
+                            <div class="subBox">
+<dl>
+                            <a href="../zyfz/MBAtxh.htm" title="MBA同学会">MBA同学会<i>&nbsp;</i></a>
+                                                              
+</dl>
+                            </div>
+                        </li>
+<li>
+   <a href="../qyfw.htm" class="v1">企业服务</a>
+                        </li>
+<li>
+   <a href="../lxwm.htm" class="v1">联系我们</a>
+                            <div class="subBox">
+<dl>
+                            <a href="../lxwm/zzsm.htm" title="郑重声明">郑重声明<i>&nbsp;</i></a>
+                                                              
+</dl>
+                            </div>
+                        </li>
+</ul><!--#endeditable-->
+            </div>
+        </div>
+    </div>
+    <div id="hd-m">
+        <div class="wp">
+          <!--#begineditable name="LOGO" action="webber.wbst.com.basecomponent.BaseComponent" layout="/system/_component/basecomponent/tpllogo.jsp" tpltype="1" contype="" clone="" viewid="201576" contentviewid="" tagname="LOGO"-->
+<DIV class="wp">
+<a href="http://mba.guet.edu.cn" class="logo"><img src="../images/MBA.png" alt="logo"></a>
+</div><!--#endeditable-->
+        </div>
+        <span class="menuBtn"></span>
+        <div class="so-Box">
+            <!--#begineditable name="手机全文检索" action="webber.wbst.com.SpaceStaticAction" layout="/system/_component/news/tplnewslucenesearch.jsp" tpltype="1" contype="" clone="" viewid="166845" contentviewid="" tagname="手机全文检索"--><script>
+   //提交搜索方法
+   function subm(){
+      if($('.m-search').hasClass('soBox-click')){
+       if(check166845()){
+        submitSearch();
+      }
+     }
+     var obj=$('.m-search');
+     obj.addClass('soBox-click');
+   }
+    $('#index  .m-soBox').click(function(){
+      return false;
+    });
+    function check166845(){
+ var keyword = document.getElementById('showkeycode166845').value;
+        if(keyword==null||keyword==""){
+            alert("请输入你要检索的内容！");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkeyword166845").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkeyword166845").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkeyword166845").value = base64.encode(document.getElementById("lucenenewssearchkeyword166845").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode166845"));
+        return true;
+    } 
+    function submitSearch(){
+        $("#searchform1166845").submit();
+    }
+</script>
+
+<form method="post" id="searchform1166845" name="searchform1166845" action="../search.jsp?wbtreeid=1105" onsubmit="return check166845()" style="display: inline;">         
+ <input type="hidden" id="lucenenewssearchkeyword166845" name="lucenenewssearchkeyword" value=""><input type="hidden" id="_lucenesearchtype166845" name="_lucenesearchtype" value="1"><input type="hidden" id="searchScope166845" name="searchScope" value="1">      
+     <span></span>
+            <input type="text" size="10" name="showkeycode" id="showkeycode166845" placeholder="搜索">
+
+            
+                <span class="close"></span>
+                <span class="btn"></span>
+                <input type="submit" onclick="subm()" value=""> <!-- src="" -->
+            
+
+</form>
+<!--#endeditable-->
+        </div>
+        <div class="inner">
+            <div class="bg"></div><ul class="nav nav-m">
+            <!--#begineditable name="手机导航" action="webber.wbst.com.nav.MenuAction" layout="/system/_component/sitenav/tplvnav.jsp" tpltype="1" contype="" clone="" viewid="166759" contentviewid="" tagname="手机导航"-->    
+        <li><a class="v1" href="../index.htm">首页</a> 
+        </li>
+
+        <li><a class="v1" href="../news/xwdt.htm">新闻动态</a> 
+         <i class="first-level on"><em></em></i>
+	<div class="subBox">
+          <dl>
+            <dd><a class="v2" href="../news/tzgg.htm">通知公告</a><i></i></a> 
+            </dd>
+
+            <dd><a class="v2" href="../news/xwdt.htm">新闻动态</a><i></i></a> 
+            </dd>
+
+            <dd><a class="v2" href="../news/jxyan_ji.htm">教学研究</a><i></i></a> 
+            </dd>
+
+            <dd><a class="v2" href="../news/xshd.htm">学生活动</a><i></i></a> 
+            </dd>
+
+            <dd><a class="v2" href="../news/xsjl.htm">学术交流</a><i></i></a> 
+            </dd>
+        </dl></div>       
+        </li>
+
+        <li><a class="v1" href="../gkjs/xmjs.htm">概况介绍</a> 
+         <i class="first-level on"><em></em></i>
+	<div class="subBox">
+          <dl>
+            <dd><a class="v2" href="../gkjs/xxgk.htm">学校概况</a><i></i></a> 
+            </dd>
+
+            <dd><a class="v2" href="../gkjs/xmjs.htm">项目介绍</a><i></i></a> 
+            </dd>
+
+            <dd><a class="v2" href="../gkjs/gzry.htm">工作人员</a><i></i></a> 
+            </dd>
+
+            <dd><a class="v2" href="../gkjs/jxzdwyh.htm">教学指导委员会</a><i></i></a> 
+            </dd>
+
+            <dd><a class="v2" href="../gkjs/szdw.htm">师资队伍</a><i></i></a> 
+            </dd>
+
+            <dd><a class="v2" href="../gkjs/hjry.htm">获奖荣誉</a><i></i></a> 
+            </dd>
+        </dl></div>       
+        </li>
+
+        <li><a class="v1" href="zsxx.htm">招生信息</a> 
+         <i class="first-level on"><em></em></i>
+	<div class="subBox">
+          <dl>
+            <dd><a class="v2" href="zsxx.htm">招生信息</a><i></i></a> 
+            </dd>
+
+            <dd><a class="v2" href="zsjz.htm">招生简章</a><i></i></a> 
+            </dd>
+
+            <dd><a class="v2" href="xgwt.htm">相关问题</a><i></i></a> 
+            </dd>
+        </dl></div>       
+        </li>
+
+        <li><a class="v1" href="../MBAlhh.htm">MBA联合会</a> 
+         <i class="first-level on"><em></em></i>
+	<div class="subBox">
+          <dl>
+            <dd><a class="v2" href="../MBAlhh/ljlhhcy.htm">历届联合会成员</a><i></i></a> 
+            </dd>
+        </dl></div>       
+        </li>
+
+        <li><a class="v1" href="../zyfz.htm">职业发展</a> 
+         <i class="first-level on"><em></em></i>
+	<div class="subBox">
+          <dl>
+            <dd><a class="v2" href="../zyfz/MBAtxh.htm">MBA同学会</a><i></i></a> 
+            </dd>
+        </dl></div>       
+        </li>
+
+        <li><a class="v1" href="../qyfw.htm">企业服务</a> 
+        </li>
+
+        <li><a class="v1" href="../lxwm.htm">联系我们</a> 
+         <i class="first-level on"><em></em></i>
+	<div class="subBox">
+          <dl>
+            <dd><a class="v2" href="../lxwm/zzsm.htm">郑重声明</a><i></i></a> 
+            </dd>
+        </dl></div>       
+        </li>
+<li><a class="v1" href="https://www.guet.edu.cn/dept5">学院首页</a></li>
+<li><a class="v1" href="http://mba-e.guet.edu.cn/">信息管理系统</a>
+<i class="first-level on"><em></em></i>
+<div class="subBox">  
+<dl>  
+<dd>  
+<A class="v2" href="http://mba-e.guet.edu.cn/index/login">招生系统<i></i></a>  
+</dd>  
+<dd>  
+ <A class="v2" href="http://mba-e.guet.edu.cn/mobile">面试系统<i></i></a>  
+</dd>  
+</dl>
+</div>
+</li><!--#endeditable--></UL>
+        </div>
+    </div>
+    <div id="ban">
+        <!--#begineditable name="页面banner" action="webber.wbst.com.SpaceStaticAction" layout="/system/_component/space/tplstaticspace.jsp" tpltype="1" contype="" clone="" viewid="166852" contentviewid="" tagname="页面banner"--><div class="slider"> 
+<div class="item" style="background-image:url(../index/20200107.jpg)"></div>  
+<div class="item" style="background-image:url(../index/20200108.jpg)"><a href="http://mba-e.guet.edu.cn/index/login" target="_blank"> </a>  </div> 
+<div class="item" style="background-image:url(../index/1.jpg)"></div>
+</div><!--#endeditable-->
+    </div>
+    <div id="bd">
+        <div class="wp">
+            <div class="row">
+                <div class="side-col">
+                    <div class="g-title1">
+                        <h3>
+                            <!--#begineditable name="一级栏目名称" action="webber.wbst.com.nav.MenuAction" layout="/system/_component/sitenav/tplshowcolumnname.jsp" tpltype="1" contype="" clone="" viewid="166738" contentviewid="" tagname="一级栏目名称"-->招生信息<!--#endeditable-->
+                        </h3>
+                    </div>
+                    <!--#begineditable name="二级导航" action="webber.wbst.com.nav.MenuAction" layout="/system/_component/sitenav/tplvnav.jsp" tpltype="1" contype="" clone="" viewid="166736" contentviewid="" tagname="二级导航"-->    <ul class="snav">
+                            <li>
+                    <a href="zsxx.htm" class="s1" title="招生信息">招生信息</a>
+                </li>
+                    <li class="on">
+                    <a href="zsjz.htm" class="s1" title="招生简章">招生简章</a>
+                </li>
+                    <li>
+                    <a href="xgwt.htm" class="s1" title="相关问题">相关问题</a>
+                </li>
+    </ul><!--#endeditable-->
+                </div>
+                <div class="main-col">
+                    <!--#begineditable name="当前位置" action="webber.wbst.com.util.SitelinkAction" layout="/system/_component/sitenav/tplcurposition.jsp" tpltype="1" contype="" clone="" viewid="166737" contentviewid="" tagname="当前位置"--><div class="m-cur">
+    当前位置: 
+                        <a href="../index.htm">首页</a>
+                >>
+                <a href="zsxx.htm">招生信息</a>
+                >>
+                <a href="zsjz.htm">招生简章</a>
+</div><!--#endeditable-->
+                    <div class="m-cur"></div>
+                    <div class="m-tit1">
+                        <h3>
+                            <!--#begineditable name="栏目名称" action="webber.wbst.com.nav.MenuAction" layout="/system/_component/sitenav/tplshowcolumnname.jsp" tpltype="1" contype="" clone="" viewid="166735" contentviewid="" tagname="栏目名称"-->招生简章<!--#endeditable--><i></i></h3>
+                    </div>
+                    <div class="m-article">
+                        <div class="con">
+                            <!--#begineditable name="单篇正文" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/tplcontentlist.jsp" tpltype="1" contype="news" clone="" viewid="166743" contentviewid="" tagname="单篇正文"-->
+
+<script language="javascript" src="/system/resource/js/dynclicks.js"></script>
+<script language="javascript" src="/system/resource/js/ajax.js"></script><script language="javascript">_getBatchClickTimes('null',1531235930,'wbnews','u12')</script>
+<script>function seeContenta12(contentid,size,displayid){	document.getElementById(contentid).innerHTML = '[';	for(var i=0;i<=size;i++){		var allcontentid = contentid+(i+1);		if(allcontentid==displayid){			document.getElementById(contentid).innerHTML += " <span id='"+allcontentid+"' name='"+allcontentid+"'  >"+(i+1)+"</span> ";			document.getElementById(displayid).style.display = 'block';		}else{			document.getElementById(contentid).innerHTML += " <span style='cursor:pointer' id='"+allcontentid+"' name='"+allcontentid+"' onclick=seeContenta12('"+contentid+"','"+size+"','"+allcontentid+"')  >"+(i+1)+"</span> ";			document.getElementById(allcontentid).style.display = 'none';		}	}	document.getElementById(contentid).innerHTML += ']';}</script>
+<script>_addDynClicks('wbnews',1531235930,1009)</script>
+
+<div class="m-arti">
+    <div id="vsb_content_1009_u121"><div id="vsb_content"><p>桂林电子科技大学坐落于世界著名的风景游览城市和中国历史文化名城桂林市，是国家工业和信息化部与广西共建高校、国家国防科技工业局与广西共建高校、国家“中西部高校基础能力建设工程”入选高校、广西重点建设高校。</p>
+<p>桂林电子科技大学2009年获国务院学位办批准，成为MBA教育办学单位。成立MBA教育中心挂靠在商学院。我校MBA教育始终坚持“正德 厚学 笃行 致新”的校训，以“助力广西、链接东盟、彰显特色”为使命，以“融理弘商 经世致用”为核心价值，依托全校优势教育资源开展MBA教育。</p>
+<p>桂林电子科技大学MBA教育项目依托学校电子信息学科优势，面向东盟、北部湾经济区、信息产业和现代制造业，实施“差异化、特色化和品牌化”培养战略，培养具备信息技术背景，拥有战略眼光、国际视野、领导能力和高度社会责任感的优秀职业经理人。</p>
+<p>我校MBA项目以中文授课为主，课程设置兼顾国际化视野和本土化思维，授课教师全部为副教授、教授，博士占比50%。MBA项目力邀诸多国内外顶级学者、企业高层为学生开设选修课、校企课程、讲座等以丰富学生学习体验，扩展学生知识与经验。MBA教育鼓励并引导学生在校期间通过丰富的职业发展论坛、学术论坛、社会公益活动等形式，锻炼提高自身沟通、合作等软性技能与领导力，从而实现MBA利益相关者价值最大化。我校MBA教育以广西为原点，借助广西背靠大西南、毗邻粤港澳、面向东南亚的区位优势，依托学校信息化优势学科背景，融合数字经济与管理学科发展，打造项目核心竞争力。</p>
+<p>我校一贯重视过程管理，坚持认真办学，积极加强与全国各MBA院校交流，MBA品牌得到社会广泛认可。我校获得中国MBA联盟、中国MBA发展论坛、中国MBA华南联盟等各级各类诸多表彰。商学院领导、老师获中国MBA联盟领袖年会“最受欢迎商学院教授奖”、“MBA培养院校卓越领袖奖”，商学院获第12届中国MBA联盟领袖年会“十佳特色商学院奖”，MBA联合会获第12届中国MBA联盟领袖年会“十佳MBA联合会奖”，诸多MBA学员获“优秀MBA联合会主席”、“创业新星”、“中国MBA十大贡献”“中国MBA新秀”等表彰与荣誉。</p>
+<p>我校MBA教育虽然年轻，但是拥有旺盛的生命力。地处广西壮族自治区，虽属西部民族落后地区，但是经过十年薪火相传，MBA教育已经植根于山水甲天下的桂林，开枝散叶为地方经济乃至中国经济发展培养高级管理人员。</p>
+<p><strong>一、专业方向</strong></p>
+<p>1、组织与战略管理；</p>
+<p>2、电子商务与物流管理；</p>
+<p>3、人力资源管理；</p>
+<p>4、生产运作管理；</p>
+<p>5、营销管理；</p>
+<p>6、财务与金融管理。</p>
+<p><strong>二、招生名额</strong></p>
+<p>以当年国家下达指标为限（预计110人左右）。</p>
+<p><strong>三、报名条件</strong></p>
+<p>国民教育系列大学本科毕业生有3年（含3年）以上工作经验者；</p>
+<p>国民教育系列大专毕业有5年（含5年）以上工作经验者；</p>
+<p>国民教育系列硕士/博士学位，并有2年（含2年）以上工作经验者。</p>
+<p><strong>四、招生对象</strong></p>
+<p>1、政府部门、事业单位（含社会团体）有关人员；</p>
+<p>2、工商企业（含民企）经营管理人员；</p>
+<p>3、从事教学、科研及管理工作的各类人员。</p>
+<p><strong>五、课程设置</strong></p>
+<p>（一）学前</p>
+<p>1、预备学习模块</p>
+<p>教学要求简介、职业服务简介、拓展训练、团队建设与沟通</p>
+<p>2、开学典礼</p>
+<p>（二）第一——四学期</p>
+<p>1、学位基础课</p>
+<p>社会主义经济理论与实践、商务英语</p>
+<p>2、学位核心课</p>
+<p>市场营销、数据、模型与决策、运营管理、战略管理、人力资源管理、管理经济学、会计学、财务管理、信息系统与信息资源管理</p>
+<p>3、选修课</p>
+<p>管理学、项目管理、网络时代的质量管理、XBRL与财务报告分析、公司金融、服务管理、税收筹划战略、创业管理、风险与危机管理、网络营销、商务智能与客户关系管理、领导力与组织行为、跨文化与管理、电子商务与供应链管理、商业模式设计、商业模拟、VBSE创业训练等</p>
+<p>4、社会责任与职业素养</p>
+<p>管理伦理与企业文化、创新与企业家精神、管理沟通、法律实务等</p>
+<p>5、职业经理人素质专题</p>
+<p>6、职业生涯发展与规划</p>
+<p>7、工商管理论坛</p>
+<p>8、游学活动</p>
+<p>（三）毕业</p>
+<p>1、毕业典礼</p>
+<p>2、学位授予</p>
+<p>3、终身学习：游学活动、免费课程、企业咨询、MBA同学会</p>
+<p><strong>六、学制与学习方式</strong></p>
+<p>1、学制为2—5年，实施学分制。参加全国联考并被正式录取，在规定的年限内修完规定学分，交清学费，通过MBA硕士论文答辩，经学校批准后，授予硕士研究生毕业证书和工商管理硕士（MBA）学位证书（双证）。</p>
+<p>2、学习方式：分为全日制脱产MBA（Full-time MBA）与非全日制在职MBA（Part-time MBA）。</p>
+<p>全日制脱产MBA学制2-5年，脱产培养；非全日制在职MBA学制2.5-5年，招收集中班、周末班。</p>
+<p>录取为全日制指标、非全日制指标。原则上非全日制招收在职定向就业人员。</p>
+<p>开班情况视当年录取情况决定。</p>
+<p><strong>七、学费和弘商奖学金</strong></p>
+<p>1、学费按照￥60,000元收取，分两年缴纳。</p>
+<p>2、学校设立“MBA弘商奖学金”，对第一志愿报考我校的学生进行奖励。</p>
+<p>根据录取综合分数，设立一等奖学金1名，奖励￥5,000元；设立二等奖学金3名，各奖励￥3,000元；设立三等奖学金6名，各奖励￥2,000元。</p>
+<p><strong>八、报名</strong></p>
+<p>硕士研究生招生考试报名包括网上报名和现场确认两个阶段。所有参加硕士研究生招生考试的考生均须进行网上报名，并到报考点现场确认网报信息、缴费和采集本人图像等相关电子信息。</p>
+<p>工商管理（MBA）专业学位考生应选择工作或户口所在地省级教育招生考试机构指定的报考点办理网上报名和现场确认手续。</p>
+<p>（一）网上报名</p>
+<p>1、网上报名时间</p>
+<p>10月10日至10月31日，每天9:00-22:00。逾期不再补报，也不得再修改报名信息。</p>
+<p>2、网上预报名时间</p>
+<p>9月24日至9月27日，每天9:00-22:00。</p>
+<p>3、报名流程</p>
+<p>考生登录“中国研究生招生信息网”(公网网址：http://yz.chsi.com.cn，教育网址：http://yz.chsi.cn，以下简称“研招网”)浏览报考须知，按教育部、省级教育招生考试机构、报考点以及报考招生单位的网上公告要求报名。</p>
+<p>报名期间将对考生学历(学籍)信息进行网上校验，并在考生提交报名信息三天内反馈校验结果。考生可随时上网查看学历(学籍)校验结果。考生也可在报名前或报名期间自行登录“中国高等教育学生信息网”(网址：http://www.chsi.com.cn)查询本人学历(学籍)信息。未通过学历(学籍)校验的考生应及时到学籍学历权威认证机构进行认证，在现场确认时将认证报告交报考点核验。</p>
+<p>凡不按要求报名、网报信息误填、错填或填报虚假信息而造成不能考试或录取的，后果由考生本人承担。</p>
+<p>网上报名有关具体要求和注意事项，详见研招网报考须知。</p>
+<p>（二）现场确认</p>
+<p>1、现场确认时间</p>
+<p>具体时间由各省级教育招生考试机构根据本地区报考情况自行确定和公布。</p>
+<p>请考生及时关注各省级教育招生考试机构发布的公告，在规定时间内到指定地点现场核对并确认个人网上报名信息。逾期不再补办。</p>
+<p>2、现场确认程序</p>
+<p>1）考生到报考点指定的地方进行现场确认。</p>
+<p>2）考生提交本人居民身份证、学历学位证书(普通高校、成人高校、普通高校举办的成人高校学历教育应届本科毕业生持学生证)和网上报名编号，由报考点工作人员进行核对。报考“退役大学生士兵”专项硕士研究生招生计划的考生还应提交本人《入伍批准书》和《退出现役证》原件或复印件。</p>
+<p>在录取当年9月1日前可取得国家承认本科毕业证书的自学考试和网络教育本科生，须凭颁发毕业证书的省级自学考试机构或网络教育高校出具的相关证明方可办理网上报名现场确认手续。</p>
+<p>未通过网上学历(学籍)校验的考生应及时到学籍学历权威认证机构进行认证，在现场确认时将认证报告交报考点核验。</p>
+<p>考生应认真了解并严格按照报考条件及相关政策要求选择填报志愿。现场确认时要对本人网上报名信息进行认真核对并确认，报名信息经考生确认后一律不作修改。因不符合报考条件及相关政策要求，或因网报信息填写错误、填报虚假信息而造成不能考试、复试或录取的，后果由考生本人承担。</p>
+<p>3）考生应按规定缴纳报考费。</p>
+<p>4)考生应按报考点规定配合采集本人图像等相关电子信息。</p>
+<p>(三)打印准考证</p>
+<p>考生可凭网报用户名和密码登录“研招网”下载打印《准考证》。《准考证》正反两面在使用期间不得涂改。考生凭下载打印的《准考证》及居民身份证参加考试。请考生务必妥善保管个人网报用户名、密码及《准考证》、居民身份证等证件，避免泄露丢失造成损失。</p>
+<p><strong>九、考试和录取</strong></p>
+<p>MBA入学考试分为初试和复试两个阶段。</p>
+<p>1、初试</p>
+<p>（1）初试科目有英语（满分100分，不测试听力）、综合能力（满分200分，包括数学、逻辑与写作三部分）两门。</p>
+<p>（2）初试为全国联考。</p>
+<p>（3）全国硕士研究生招生考试初试时间为：12月(上午8:30-11:30，下午14:00-17:00)，具体时间以准考证载明时间为准。</p>
+<p>初试方式均为笔试。</p>
+<p>考试时间以北京时间为准。不在规定日期举行的硕士研究生入学考试，国家一律不予承认。</p>
+<p>2、复试</p>
+<p>由桂林电子科技大学MBA教育中心组织，包含政治理论笔试和综合素质面试等，主要对考生综合素质和能力进行评估。复试成绩按一定比例计入总分。复试时间及相关安排以复试通知为准。</p>
+<p>3、录取</p>
+<p>我校按照教育部划定的B线进行招生，在全国MBA入学考试统一分数线上择优录取。录取当年9月入学。</p>
+<p><strong>十、学位论文及学位授予</strong></p>
+<p>学位论文结合本企业或本行业的课题或研究方向进行，由导师负责指导。</p>
+<p>在规定年限内修完学分，论文达到硕士学位标准，颁发国家承认的硕士毕业证和硕士学位证书。</p>
+<p><strong>十一、联系方式</strong></p>
+<p>联系电话、传真：0773-2190801</p>
+<p>招生咨询热线：0773-2239024&nbsp; 2190801 &nbsp;2230093</p>
+<p>地址：桂林市金鸡路1号桂林电子科技大学金鸡岭校区勤正楼5楼MBA教育中心</p>
+<p>邮编：541004</p>
+<p><br></p>
+<p>（以上内容如有调整，以录取当年通知为准）</p></div></div>
+    <span id="vsb_content_1009_u12" name="vsb_content_1009_u12"></span><br /><br />
+    
+</div>
+<!--#endeditable-->
+
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="fd">
+        <div class="fd-top">
+            <div class="wp">
+                <!--#begineditable name="底部" action="webber.wbst.com.SpaceStaticAction" layout="/system/_component/space/tplstaticspace.jsp" tpltype="1" contype="" clone="" viewid="166842" contentviewid="" tagname="底部"-->  <div class="fd-con"> 
+   <div class="l-con"> 
+    <dl> 
+     <dt>
+      栏目
+     </dt> 
+     <dd> 
+      <a href="../news/xwdt.htm">新闻动态</a> 
+      <a href="zsxx.htm">招生信息</a> 
+      <a href="../news/tzgg.htm">通知公告</a> 
+      <a href="../news/jxyan_ji.htm">教学研究</a> 
+      <a href="../news/xshd.htm">学生活动</a> 
+      <a href="../news/xsjl.htm">学术交流</a> 
+     </dd> 
+    </dl> 
+    <dl> 
+     <dt>
+      信息化管理
+     </dt> 
+     <dd> 
+      <a href="http://mba-e.guet.edu.cn/index/applyclasslist">教室预约申请</a> 
+      <a href="http://mba-e.guet.edu.cn/">教务管理系统</a> 
+      <a href="http://mba-e.guet.edu.cn/index/login">招生报名系统</a> 
+      <a href="http://mba-e.guet.edu.cn/mobile">无纸化面试系统</a> 
+      <a href="http://yjsgl.guet.edu.cn/gssblogin.aspx">专业硕士学位信息登记</a> 
+     </dd> 
+    </dl> 
+    <dl> 
+     <dt>
+      链接
+     </dt> 
+     <dd> 
+      <a href="http://www.mbacn.edu.cn/">全国MBA教育指导委员会</a> 
+      <a href="http://www.guet.edu.cn">桂林电子科技大学</a> 
+      <a href="https://www.guet.edu.cn/dept5">桂林电子科技大学商学院</a> 
+      <a href="https://www.guet.edu.cn/gra">桂林电子科技大学研究生院</a> 
+      <a href="http://yz.chsi.com.cn">中国研究生招生信息网</a>
+	</dd>  
+
+    </dl> 
+   </div> 
+   <div class="r-con"> 
+    <div class="txt"> 
+     <p>地址：广西桂林市金鸡路1号桂林电子科技大学金鸡岭校区勤正楼<br />电话：0773-2190801<br />传真：0773-2190801<br /> 邮编：541004<br /></p>
+     <br />
+     <img src="../images/qrcode.jpg" width="150px" />
+    </div> 
+   </div>
+  </div><!--#endeditable-->
+            </div>
+        </div>
+
+        <div class="fd-copy">
+            <div class="wp">
+                <p>&copy; 2019 桂林电子科技大学MBA教育中心 版权所有 <img class="footer-logo" src="../images/logo-light.png"></p>
+            </div>
+        </div>
+    </div>
+    <a class="topBtn" href="javascript:void(0);"></a>
+    <link rel="stylesheet" href="../css/slick.css">
+    <script src="../js/slick.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('#ban .slider').slick({
+                dots: true,
+                arrows: false,
+                autoplay: true,
+                slidesToShow: 1,
+                autoplaySpeed: 5000,
+                pauseOnHover: false,
+                lazyLoad: 'ondemand'
+            });
+        });
+    </script>
+</body>
+
+</html>
+<html><head><title>已撤销的内容</title></head><body>该内容已经被撤销。</body></html>

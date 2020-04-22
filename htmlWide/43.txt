@@ -1,0 +1,995 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>统战部 </title><META Name="keywords" Content="统战部 " />
+
+
+        <link type="text/css" href="dfiles/12970/_css/_system/system.css" rel="stylesheet" />
+        <link type="text/css" href="dfiles/12970/_upload/site/1/style/1/1.css" rel="stylesheet" />
+        <link type="text/css" href="dfiles/12970/_upload/site/00/3d/61/style/76/76.css" rel="stylesheet" />
+        <link href="dfiles/12970/_css/tpl2/system.css" type="text/css" rel="stylesheet">
+        <link type="text/css" href="dfiles/12970/_js/_portletplugs/sudyextend/sudyextend.css" rel="stylesheet" />
+        <link href="dfiles/12970/_css/tpl2/default/default.css" type="text/css" rel="stylesheet">
+        <link type="text/css" href="dfiles/12970/_js/_portletplugs/simplenews/css/simplenews.css" rel="stylesheet" />
+        <link type="text/css" href="dfiles/12970/_js/_portletplugs/sudynavi/css/sudynav.css" rel="stylesheet" />
+
+
+        <script language="javascript" src="il_b__files/jquery.min.js"></script>
+        <script language="javascript" src="il_b__files/jquery-3.3.1.min.js"></script>
+
+        <script language="javascript" src="dfiles/12970/_js/jquery.sudy.wp.visitcount.js"></script>
+
+
+        <script type="text/javascript" src="dfiles/12970/_js/_portletplugs/sudyextend/sudyextend.js"></script>
+        <script type="text/javascript" src="dfiles/12970/_js/_portletplugs/sudynavi/jquery.sudynav.js"></script>
+        <script type="text/javascript" src="dfiles/12970/_upload/tpl/00/a8/168/template168/extends/extends.js"></script>
+        <link rel="stylesheet" href="dfiles/12970/_upload/tpl/00/a8/168/template168/extends/extends.css" type="text/css">
+        <link rel="stylesheet" href="il_b__files/style.css" type="text/css" media="all">
+        <link rel="shortcut icon" href="_upload/tpl/00/a8/168/template168/images/favicon.ico" type="image/x-icon">
+        <link rel="icon" href="_upload/tpl/00/a8/168/template168/images/favicon.ico" mce_href="/_upload/tpl/00/a8/168/template168/images/favicon.ico" type="image/x-icon">
+        <link type="text/css" href="dfiles/css/font-awesome.css" rel="stylesheet" />
+        <link type="text/css" href="dfiles/css/style.css" rel="stylesheet" />
+        <link type="text/css" href="dfiles/css/iconfont.css" rel="stylesheet" />
+        <!-- Link Swiper's CSS -->
+        <link rel="stylesheet" href="swiper/css/swiper.min.css">
+
+        <style type="text/css">
+            #wrapper {
+                height: 450px;}
+
+            .tb960x90 {
+                display: none !important;
+                display: none;}
+
+            #slider-wrap {
+                height: 450px;}
+
+            #slider-wrap ul {
+                height: 450px;}
+
+            #slider-wrap ul li {
+                height: 450px;}
+
+            #slider-wrap ul#slider li>span {
+                bottom: 0px;}
+
+            #slider-wrap ul#slider li>span {
+                display: block;
+                background: #8a1e1f;
+                position: relative;
+                z-index: 10;
+                margin-top: -50px;
+                opacity: 0.6;}
+
+            #slider-wrap ul#slider li>span h3 {
+                line-height: 50px;
+                text-align: center;
+                font-size: 18px;}
+
+            .fa-arrow-right:before {
+                content: "";}
+
+            .fa-arrow-left:before {
+                content: "";}
+
+            .iconfont {
+                margin-top: 20px;}
+        </style>
+        <style>
+
+            .swiper-container {
+        width: 1200px;
+        height: 450px;}
+        .swiper-slide {
+        text-align: center;
+        font-size: 18px;
+        background: #fff;
+
+        /* center slide text vertically */
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: -webkit-flex;
+        display: flex;
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        -webkit-justify-content: center;
+        justify-content: center;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        -webkit-align-items: center;
+        align-items: center;}
+        
+        .swiper-slide>h3 {display: block;
+            background: rgba(200, 16, 16,0.6);
+            width: 100%;
+            color: #FFF;
+            height: 45px;
+            position: absolute;
+            z-index: 11; bottom: 0px;line-height: 45px;text-align: center;font-size: 16px;}
+        </style>
+    <!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="index.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/vsbscreen.min.js" id="_vsbscreen" devices="pc|mobile|pad"></script>
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1410805066)</script>
+</head>
+    <body>
+        <!--Begin:head-->
+        <div class="wrapper" id="header">
+            <div class="inner">
+                <!--Begin:head-->
+                <div class="head clearfix">
+
+                    <!--#begineditable name="LOGO" viewid="201968" tagname="LOGO" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""-->
+<!-- 网站logo图片地址请在本组件"内容配置-网站logo"处填写 -->
+<a href="" title="统战部"><img src="images/logo01.png" width="1200" height="140" border="0" alt="统战部" title="统战部"></a><!--#endeditable-->
+
+                    <!--  <div class="sitelogo">
+                        <div frag="面板01">
+                            <div frag="窗口01" portletmode="siteLogo">
+
+                            </div>
+                        </div>
+                    </div>
+                    <!--<div class="sitetitle" frag="面板02">
+                <div class="sitetitlecon" frag="窗口02">
+                    
+                </div>
+            </div>-->
+                    <!--End:head-->
+                </div>
+            </div>
+        </div>
+        <!--Begin:nav-->
+        <div class="wrapper" id="nav">
+            <div class="inner">
+                <div class="navbar" frag="面板1">
+                    <div class="navbox" frag="窗口1" portletmode="simpleSudyNavi">
+                        <div id="wp_nav_w1">
+                            <!--#begineditable name="网站导航" viewid="201945" tagname="网站导航" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--> 
+
+<ul class="wp_nav" data-nav-config="{drop_v: 'down', drop_w: 'right', dir: 'y', opacity_main: '1', opacity_sub: '0.8', dWidth: '0'}">
+              <li class="nav-item i2 "> 
+         <a href="index.htm" target="_self"><span class="item-name">首页</span></a><i class="mark"></i> 
+         </li> 
+         <li class="nav-item i2 "> 
+         <a href="bmjs.htm" target="_self"><span class="item-name">部门介绍</span></a><i class="mark"></i> 
+         <ul class="sub-nav"> 
+
+             <li class="nav-item i2-1 "> 
+             <a href="bmjs/jgsz.htm" target="_self"><span class="item-name" style="    width: 108px;    text-align: center;">机构设置</span></a><i class="mark"></i> 
+              
+             </li> 
+
+             <li class="nav-item i2-1 "> 
+             <a href="bmjs/gzzz.htm" target="_self"><span class="item-name" style="    width: 108px;    text-align: center;">工作职责</span></a><i class="mark"></i> 
+              
+             </li> 
+         </ul> 
+         </li> 
+         <li class="nav-item i2 "> 
+         <a href="rdzx.htm" target="_self"><span class="item-name">人大政协</span></a><i class="mark"></i> 
+         </li> 
+         <li class="nav-item i2 "> 
+         <a href="dptt2.htm" target="_self"><span class="item-name">党派团体</span></a><i class="mark"></i> 
+         <ul class="sub-nav"> 
+
+             <li class="nav-item i2-1 "> 
+             <a href="dptt2/dptt.htm" target="_self"><span class="item-name" style="    width: 108px;    text-align: center;">党派团体</span></a><i class="mark"></i> 
+              
+             </li> 
+
+             <li class="nav-item i2-1 "> 
+             <a href="dptt2/zgmg.htm" target="_self"><span class="item-name" style="    width: 108px;    text-align: center;">中国民革</span></a><i class="mark"></i> 
+              
+             </li> 
+
+             <li class="nav-item i2-1 "> 
+             <a href="dptt2/zgmm.htm" target="_self"><span class="item-name" style="    width: 108px;    text-align: center;">中国民盟</span></a><i class="mark"></i> 
+              
+             </li> 
+
+             <li class="nav-item i2-1 "> 
+             <a href="dptt2/zgmj.htm" target="_self"><span class="item-name" style="    width: 108px;    text-align: center;">中国民建</span></a><i class="mark"></i> 
+              
+             </li> 
+
+             <li class="nav-item i2-1 "> 
+             <a href="dptt2/zgmj1.htm" target="_self"><span class="item-name" style="    width: 108px;    text-align: center;">中国民进</span></a><i class="mark"></i> 
+              
+             </li> 
+
+             <li class="nav-item i2-1 "> 
+             <a href="dptt2/ngd.htm" target="_self"><span class="item-name" style="    width: 108px;    text-align: center;">农工党</span></a><i class="mark"></i> 
+              
+             </li> 
+
+             <li class="nav-item i2-1 "> 
+             <a href="dptt2/zgd.htm" target="_self"><span class="item-name" style="    width: 108px;    text-align: center;">致公党</span></a><i class="mark"></i> 
+              
+             </li> 
+
+             <li class="nav-item i2-1 "> 
+             <a href="dptt2/jsxs.htm" target="_self"><span class="item-name" style="    width: 108px;    text-align: center;">九三学社</span></a><i class="mark"></i> 
+              
+             </li> 
+         </ul> 
+         </li> 
+         <li class="nav-item i2 "> 
+         <a href="gatq.htm" target="_self"><span class="item-name">港澳台侨</span></a><i class="mark"></i> 
+         </li> 
+         <li class="nav-item i2 "> 
+         <a href="mzzj.htm" target="_self"><span class="item-name">民族宗教</span></a><i class="mark"></i> 
+         </li> 
+         <li class="nav-item i2 "> 
+         <a href="dwzsfz.htm" target="_self"><span class="item-name">党外知识分子</span></a><i class="mark"></i> 
+         </li> 
+         <li class="nav-item i2 "> 
+         <a href="lxggry.htm" target="_self"><span class="item-name">留学归国人员</span></a><i class="mark"></i> 
+         </li> 
+         <li class="nav-item i2 "> 
+         <a href="gzjb.htm" target="_self"><span class="item-name">工作简报</span></a><i class="mark"></i> 
+         </li> 
+</ul> <!--#endeditable-->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--End:nav-->
+
+
+        <!--Start:banner-->
+        <!-- Swiper -->
+        <div class="swiper-container">
+            <div class="swiper-wrapper">
+
+                <!--#begineditable name="banner轮播图" viewid="202254" tagname="banner轮播图" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""-->    <script language="javascript" src="/system/resource/js/dynclicks.js"></script> 
+             
+	  
+		<div class="swiper-slide">
+			<a href="">
+				<img src="images/582B180B6358AEBAB59C3D0D555_454CAA36_345EB.jpg" width="1200" height="450">
+			</a>
+			<h3>广西统一战线理论研究基地揭牌仪式暨统战理论宣讲报告会</h3>
+		</div>
+	 
+
+			
+         
+         
+	  
+		<div class="swiper-slide">
+			<a href="">
+				<img src="images/tzbdy11.jpg" width="1200" height="450">
+			</a>
+			<h3>统战调研会</h3>
+		</div>
+	 
+
+			
+         
+         
+	  
+		<div class="swiper-slide">
+			<a href="">
+				<img src="images/zjpx1.jpg" width="1200" height="450">
+			</a>
+			<h3>宗教培训</h3>
+		</div>
+	 
+
+			
+         
+         
+	  
+		<div class="swiper-slide">
+			<a href="">
+				<img src="images/tzdy2.jpg" width="1200" height="450">
+			</a>
+			<h3>统战调研2</h3>
+		</div>
+	 
+
+			
+         
+<!--#endeditable-->
+
+            </div>
+            <!-- Add Arrows -->
+            <div class="swiper-button-next"></div>
+            <div class="swiper-button-prev"></div>
+        </div>
+
+        <!--End:banner-->
+        </div>
+        <!--End:head-->
+        <div class="wrapper" id="m-container1">
+            <div class="inner">
+                <div class="mod mod1 clearfix">
+                    <div class="ml fl" frag="面板11">
+                        <div class="post post1 post-11 mbox" frag="窗口11" portletmode="simpleNews">
+                            <div class="tt">
+                                <h3 class="tit"><span class="title" frag="标题">统战新闻</span></h3>
+                                <div class="more_btn" frag="按钮" type="更多"><a href="index/tzxw.htm" class="w11_more" target=""><span class="more_text" frag="按钮内容">更多>></span></a></div>
+                            </div>
+                            <div class="con">
+
+                                <!--#begineditable name="工作动态-左侧-标题列表" viewid="201948" tagname="工作动态-左侧-标题列表" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--><ul class="news_pic clearfix">
+   <li class="newspic n1 clearfix">
+                                <span class="news_img"><img src="/__local/2/95/45/3E4A9ACF3E95E77860FB56447BD_DF792141_5A341.jpg" width="315" height="180"></span>
+                                <span class="news_title"><a href="info/1017/1611.htm" target="_blank" title="致公党桂电支部到贺州扶贫点开展科技服务">致公党桂电支部到贺州扶贫点开展科技服务</a></span>
+                                <span class="news_info"><a href="info/1017/1611.htm" target="_blank" title="致公党桂电支部到贺州扶贫点开展科技服务">致公党桂电支部到贺州扶贫点开展科技服务 ​3月28日，致公党桂林电子科技...</a></span>
+                                </li>
+</ul><script>_showDynClickBatch(['dynclicks_u3_1611'],[1611],"wbnews", 1410805066)</script>
+<!--#endeditable-->
+
+                            </div>
+                        </div>
+                        <div class="post post1 post-111 mbox" frag="窗口111" portletmode="simpleNews">
+                            <div class="con">
+                                <!--#begineditable name="工作动态-标题列表" viewid="201946" tagname="工作动态-标题列表" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--><ul class="news_list clearfix">
+   <li class="newslist n1 clearfix">
+                                <span class="list_title"><a href="info/1017/1609.htm" target="_blank" title="鹿心社陈武：加快推进大健康和文旅产业跨越式发展">鹿心社陈武：加快推进大健康和文旅产业跨越式发展</a>	</span>
+                                <span class="post-time">2020-03-31</span>
+                                </li>
+   <li class="newslist n1 clearfix">
+                                <span class="list_title"><a href="info/1017/1608.htm" target="_blank" title="自治区党委、自治区人民政府出台《广西营造更好发展环境支持民营企业改革发展实施方案》">自治区党委、自治区人民政府出台《广西营造更好...</a>	</span>
+                                <span class="post-time">2020-03-31</span>
+                                </li>
+   <li class="newslist n1 clearfix">
+                                <span class="list_title"><a href="info/1017/1611.htm" target="_blank" title="致公党桂电支部到贺州扶贫点开展科技服务">致公党桂电支部到贺州扶贫点开展科技服务</a>	</span>
+                                <span class="post-time">2020-03-31</span>
+                                </li>
+   <li class="newslist n1 clearfix">
+                                <span class="list_title"><a href="info/1017/1586.htm" target="_blank" title="我校举行广西统一战线理论研究基地揭牌仪式暨统战理论宣讲报告会">我校举行广西统一战线理论研究基地揭牌仪式暨统...</a>	</span>
+                                <span class="post-time">2019-12-13</span>
+                                </li>
+   <li class="newslist n1 clearfix">
+                                <span class="list_title"><a href="info/1017/1587.htm" target="_blank" title="【不忘初心、牢记使命】机关组织与统战党支部、国防生学院师生党支部召开专题民主生活会（图）">【不忘初心、牢记使命】机关组织与统战党支部、...</a>	</span>
+                                <span class="post-time">2019-12-11</span>
+                                </li>
+   <li class="newslist n1 clearfix">
+                                <span class="list_title"><a href="info/1017/1588.htm" target="_blank" title="民建桂电支部和九三电科大支社开展“不忘初心，携手同行”主题活动">民建桂电支部和九三电科大支社开展“不忘初心，...</a>	</span>
+                                <span class="post-time">2019-12-10</span>
+                                </li>
+   <li class="newslist n1 clearfix">
+                                <span class="list_title"><a href="info/1017/1567.htm" target="_blank" title="【十九届四中全会《决定》权威解读】尤权：坚持大统战工作格局">【十九届四中全会《决定》权威解读】尤权：坚持...</a>	</span>
+                                <span class="post-time">2019-11-13</span>
+                                </li>
+   <li class="newslist n1 clearfix">
+                                <span class="list_title"><a href="info/1017/1566.htm" target="_blank" title="我校获批广西统一战线理论研究基地">我校获批广西统一战线理论研究基地</a>	</span>
+                                <span class="post-time">2019-10-24</span>
+                                </li>
+</ul><script>_showDynClickBatch(['dynclicks_u4_1609','dynclicks_u4_1608','dynclicks_u4_1611','dynclicks_u4_1586','dynclicks_u4_1587','dynclicks_u4_1588','dynclicks_u4_1567','dynclicks_u4_1566'],[1609,1608,1611,1586,1587,1588,1567,1566],"wbnews", 1410805066)</script>
+<!--#endeditable-->
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="mn fr" frag="面板21">
+                        <div class="post post1 post-21 mbox" frag="窗口21" portletmode="simpleNews">
+                            <div class="tt">
+                                <h3 class="tit"><span class="title" frag="标题">通知公告</span></h3>
+                                <div class="more_btn" frag="按钮" type="更多"><a href="index/tzgg.htm" class="w21_more" target=""><span class="more_text" frag="按钮内容">更多>></span></a></div>
+                            </div>
+                            <div class="con">
+                            	<!--#begineditable name="通知公告1-标题列表" viewid="202406" tagname="通知公告1-标题列表" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp="true"--> 
+
+  <ul class="news_list_time">
+        <div class="post_all-2 m1 clearfix">
+      <div class="datetime">
+    <span class="post_time1">12</span>
+    <span class="post_time2">2019-12</span>
+      </div>
+      <div class="post-word"> <a href="info/1016/1576.htm" target="_blank" title="关于党外代表人士大调研项目结果的通知">关于党外代表人士大调研项目结果的通知</a></div>
+    </div>
+    <div class="post_all-2 m1 clearfix">
+      <div class="datetime">
+    <span class="post_time1">15</span>
+    <span class="post_time2">2019-10</span>
+      </div>
+      <div class="post-word"> <a href="info/1016/1558.htm" target="_blank" title="关于桂林电子科技大学党外代表人士调研项目评审结果公示">关于桂林电子科技大学党外代表人士调研...</a></div>
+    </div>
+    <div class="post_all-2 m1 clearfix">
+      <div class="datetime">
+    <span class="post_time1">16</span>
+    <span class="post_time2">2019-07</span>
+      </div>
+      <div class="post-word"> <a href="info/1016/1366.htm" target="_blank" title="关于开展党外代表人士大调研活动的通知">关于开展党外代表人士大调研活动的通知</a></div>
+    </div>
+    <div class="post_all-2 m1 clearfix">
+      <div class="datetime">
+    <span class="post_time1">03</span>
+    <span class="post_time2">2019-07</span>
+      </div>
+      <div class="post-word"> <a href="info/1016/1342.htm" target="_blank" title="关于做好学校归国留学人员统计工作的通知">关于做好学校归国留学人员统计工作的通知</a></div>
+    </div>
+   
+  </ul><script>_showDynClickBatch(['dynclicks_u5_1576','dynclicks_u5_1558','dynclicks_u5_1366','dynclicks_u5_1342'],[1576,1558,1366,1342],"wbnews", 1410805066)</script>
+<!--#endeditable--> 
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="wrapper" id="m-container2">
+            <div class="inner">
+                <div class="mod mod2 clearfix">
+                    <div class="ml fl" frag="面板12">
+                        <div class="post post1 post-12 mbox" frag="窗口12" portletmode="simpleNews">
+                            <div class="tt">
+                                <h3 class="tit"><span class="title" frag="标题">参政议政</span></h3>
+                                <div class="more_btn" frag="按钮" type="更多"><a href="czyz.htm" class="w12_more" target=""><span class="more_text" frag="按钮内容">更多>></span></a></div>
+                            </div>
+                            <div class="con">
+                                <!--#begineditable name="参政议政-图-标题列表" viewid="202291" tagname="参政议政-图-标题列表" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--><ul class="news_list clearfix">
+   <li class="newsdate n1 clearfix">
+    <div class="dateleft">
+    <span class="date_title"><a href="info/1014/1508.htm" target="_blank" title="民建桂电支部组织考察临桂新区环城水系工程">民建桂电支部组织考察临桂新区环城水系工程</a></span>
+    <span class="date_info"><a href="info/1014/1508.htm" target="_blank" title="民建桂电支部组织考察临桂新区环城水系工程">为了解新区水系建设情况，2018年11月6日，民建桂电支部组织开...</a></span>
+    </div>
+    <div class="datetime">
+    <span class="post_time1">16</span>
+    <span class="post_time2">2018-11</span>
+    </div>
+    </li>
+</ul><script>_showDynClickBatch(['dynclicks_u6_1508'],[1508],"wbnews", 1410805066)</script>
+<!--#endeditable--> 
+                            </div>
+                        </div>
+                        <div class="post post1 post-122 mbox" frag="窗口122" portletmode="simpleNews">
+                            <div class="con">
+                                <!--#begineditable name="参政议政-标题列表" viewid="202292" tagname="参政议政-标题列表" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--><ul class="news_pic clearfix">
+            <li class="newslist n1 clearfix">
+    <span class="news_title"><a href="info/1014/1508.htm" target="_blank" title="民建桂电支部组织考察临桂新区环城水系工程">民建桂电支部组织考察临桂新区环城水系工程</a></span>
+    <span class="post-time">11-16</span>
+    </li>
+    <li class="newslist n1 clearfix">
+    <span class="news_title"><a href="info/1014/1509.htm" target="_blank" title="学校党委统战部组织党外人士前往贺州开展扶贫工作调研">学校党委统战部组织党外人士前往贺州开展扶...</a></span>
+    <span class="post-time">07-12</span>
+    </li>
+    <li class="newslist n1 clearfix">
+    <span class="news_title"><a href="info/1014/1510.htm" target="_blank" title="我校九三学社社员被聘为 九三学社广西区委参政党理论研究中心研究员">我校九三学社社员被聘为 九三学社广西区委参...</a></span>
+    <span class="post-time">06-17</span>
+    </li>
+    <li class="newslist n1 clearfix">
+    <span class="news_title"><a href="info/1014/1526.htm" target="_blank" title="致公党桂林电子科大支部开展调研活动（图）">致公党桂林电子科大支部开展调研活动（图）</a></span>
+    <span class="post-time">07-06</span>
+    </li>
+    <li class="newslist n1 clearfix">
+    <span class="news_title"><a href="info/1014/1521.htm" target="_blank" title="中国致公党桂电支部赴恭城县开展课题调研（图）">中国致公党桂电支部赴恭城县开展课题调研（图）</a></span>
+    <span class="post-time">11-28</span>
+    </li>
+    </ul><script>_showDynClickBatch(['dynclicks_u7_1508','dynclicks_u7_1509','dynclicks_u7_1510','dynclicks_u7_1526','dynclicks_u7_1521'],[1508,1509,1510,1526,1521],"wbnews", 1410805066)</script>
+<!--#endeditable--> 
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="mc fl" frag="面板22">
+                        <div class="post post1 post-22 mbox" frag="窗口22" portletmode="simpleNews">
+                            <div class="tt">
+                                <h3 class="tit"><span class="title" frag="标题">建言献策</span></h3>
+                                <div class="more_btn" frag="按钮" type="更多"><a href="jyxc.htm" class="w22_more" target=""><span class="more_text" frag="按钮内容">更多>></span></a></div>
+                            </div>
+                            <div class="con">
+                            	
+                                 <!--#begineditable name="建言献策1-标题列表" viewid="202407" tagname="建言献策1-标题列表" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp="true"--> 
+<ul class="news_pic clearfix">
+                                      <li class="newslist n1 clearfix">
+                                <span class="news_title"><a href="info/1019/1159.htm" target="_blank" title="严宗光：关于鼓励企业为大学生提供更多实习实践岗位的建议">严宗光：关于鼓励企业为大学生提供更多...</a></span>
+                                <span class="post-time">05-04</span>
+                                </li>
+                                <li class="newslist n1 clearfix">
+                                <span class="news_title"><a href="info/1019/1158.htm" target="_blank" title="民盟：关于建议金鸡路垃圾转运站迁移的提案">民盟：关于建议金鸡路垃圾转运站迁移的提案</a></span>
+                                <span class="post-time">01-01</span>
+                                </li>
+                                <li class="newslist n1 clearfix">
+                                <span class="news_title"><a href="info/1019/1157.htm" target="_blank" title="严宗光：关于解决东二环金鸡路口严重拥堵问题的提案">严宗光：关于解决东二环金鸡路口严重拥...</a></span>
+                                <span class="post-time">12-09</span>
+                                </li>
+                                <li class="newslist n1 clearfix">
+                                <span class="news_title"><a href="info/1019/1156.htm" target="_blank" title="廖柏明：关于发挥党派在政府法律顾问制度中的积极作用的建议">廖柏明：关于发挥党派在政府法律顾问制...</a></span>
+                                <span class="post-time">07-08</span>
+                                </li>
+                                <li class="newslist n1 clearfix">
+                                <span class="news_title"><a href="info/1019/1155.htm" target="_blank" title="蔡续：芳香路与普陀路交叉路口急需安装照明灯和交通指示灯的建议">蔡续：芳香路与普陀路交叉路口急需安装...</a></span>
+                                <span class="post-time">06-27</span>
+                                </li>
+                                <li class="newslist n1 clearfix">
+                                <span class="news_title"><a href="info/1019/1154.htm" target="_blank" title="蔡续：对区内主要交通道路两边公共停车位加强管理的建议">蔡续：对区内主要交通道路两边公共停车...</a></span>
+                                <span class="post-time">06-27</span>
+                                </li>
+                                <li class="newslist n1 clearfix">
+                                <span class="news_title"><a href="info/1019/1153.htm" target="_blank" title="蔡续：关于进一步加强我区高新特色文化氛围营造的建议">蔡续：关于进一步加强我区高新特色文化...</a></span>
+                                <span class="post-time">06-27</span>
+                                </li>
+                                <li class="newslist n1 clearfix">
+                                <span class="news_title"><a href="info/1019/1152.htm" target="_blank" title="蔡续：关于尽快启动桂林市东二环路公交枢纽项目规划及建设的提案">蔡续：关于尽快启动桂林市东二环路公交...</a></span>
+                                <span class="post-time">06-27</span>
+                                </li>
+                                <li class="newslist n1 clearfix">
+                                <span class="news_title"><a href="info/1019/1151.htm" target="_blank" title="王卫东：《关于加快我市汽车电子产业发展的建议》">王卫东：《关于加快我市汽车电子产业发...</a></span>
+                                <span class="post-time">06-23</span>
+                                </li>
+                            </ul><script>_showDynClickBatch(['dynclicks_u8_1159','dynclicks_u8_1158','dynclicks_u8_1157','dynclicks_u8_1156','dynclicks_u8_1155','dynclicks_u8_1154','dynclicks_u8_1153','dynclicks_u8_1152','dynclicks_u8_1151'],[1159,1158,1157,1156,1155,1154,1153,1152,1151],"wbnews", 1410805066)</script>
+<!--#endeditable-->
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="mr fr" frag="面板23">
+                        <div class="post post1 post-23 mbox" frag="窗口23" portletmode="simpleNews">
+                            <div class="tt">
+                                <h3 class="tit"><span class="title" frag="标题">社会服务</span></h3>
+                                <div class="more_btn" frag="按钮" type="更多"><a href="shfw.htm" class="w23_more" target=""><span class="more_text" frag="按钮内容">更多>></span></a></div>
+                            </div>
+                            <div class="con">
+                                <!--#begineditable name="社会服务-标题列表" viewid="202294" tagname="社会服务-标题列表" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--><ul>
+   <li class="newsimg n1 clearfix">
+	<span class="news_img"><img src="/__local/A/EF/26/EDABA917CBE0FA315133DF637C7_069AB54F_564D1.jpg" width="140" height="108"></span>
+	<span class="img_title"><a href="info/1037/1331.htm" target="_blank" title="民进桂电支部到阳朔金宝乡开展教育扶贫活动">民进桂电支部到阳朔金宝乡开展教育扶贫活动</a></span>
+	<span class="img_info"><a href="info/1037/1331.htm" target="_blank" title="民进桂电支部到阳朔金宝乡开展教育扶贫活动">5月30日，民进桂林电子科技大学支部成员在支部主任曲宗琴教授的带领下，前往阳朔金宝乡阳朔垌小...</a></span>
+	</li>
+   <li class="newsimg n1 clearfix">
+	<span class="news_img"><img src="/__local/1/73/51/9ED860D40688C465DF8F2EDC474_86364C98_2F228.jpg" width="140" height="108"></span>
+	<span class="img_title"><a href="info/1037/1286.htm" target="_blank" title="民建桂电支部组织开展水系工程考察调研活动">民建桂电支部组织开展水系工程考察调研活动</a></span>
+	<span class="img_info"><a href="info/1037/1286.htm" target="_blank" title="民建桂电支部组织开展水系工程考察调研活动">2018年11月6日，民建桂电支部组织开展了对临桂新区环城水系工程的考察调研活动，参加调研的人员...</a></span>
+	</li>
+</ul><script>_showDynClickBatch(['dynclicks_u9_1331','dynclicks_u9_1286'],[1331,1286],"wbnews", 1410805066)</script>
+<!--#endeditable--> 
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+
+
+        
+        <div class="wrapper" id="m-container3" style="margin-bottom:50px;">
+            <div class="inner">
+                <div class="mod mod2 clearfix" style="border-bottom: 1px dashed #cdcccc;">
+                    <div class="ml fl" frag="面板12">
+                        <div class="post post1 post-12 mbox" frag="窗口12" portletmode="simpleNews">
+                            <div class="tt">
+                                <h3 class="tit"><span class="title" frag="标题">统战政策</span></h3>
+                                <div class="more_btn" frag="按钮" type="更多"><a href="tzzc.htm" class="w12_more" target=""><span class="more_text" frag="按钮内容">更多>></span></a></div>
+                            </div>
+                            <div class="con">
+                            <!--#begineditable name="统战政策-标题列表" viewid="202285" tagname="统战政策-标题列表" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--><ul class="news_list clearfix">
+   <li class="newsdate n1 clearfix">
+    <div class="dateleft">
+    <span class="date_title"><a href="info/1038/1616.htm" target="_blank" title="2020年广西区民族宗教政策法规工作要点定了！">2020年广西区民族宗教政策法规工作要点定了！</a></span>
+    <span class="date_info"><a href="info/1038/1616.htm" target="_blank" title="2020年广西区民族宗教政策法规工作要点定了！">近日，广西区民宗委下发2020年全区民族宗教政策法规工作要点...</a></span>
+    </div>
+    <div class="datetime" style="    margin-top: 25px;">
+    <span class="post_time1">02</span>
+    <span class="post_time2">2020-04</span>
+    </div>
+    </li>
+   <li class="newsdate n1 clearfix">
+    <div class="dateleft">
+    <span class="date_title"><a href="info/1038/1610.htm" target="_blank" title="鹿心社陈武：加快推进大健康和文旅产业跨越式发展">鹿心社陈武：加快推进大健康和文旅产业跨越式发展</a></span>
+    <span class="date_info"><a href="info/1038/1610.htm" target="_blank" title="鹿心社陈武：加快推进大健康和文旅产业跨越式发展">3月27日，自治区党委书记、自治区人大常委会主任鹿心社，自治...</a></span>
+    </div>
+    <div class="datetime" style="    margin-top: 25px;">
+    <span class="post_time1">31</span>
+    <span class="post_time2">2020-03</span>
+    </div>
+    </li>
+   <li class="newsdate n1 clearfix">
+    <div class="dateleft">
+    <span class="date_title"><a href="info/1038/1312.htm" target="_blank" title="中国共产党统一战线工作条例（试行）">中国共产党统一战线工作条例（试行）</a></span>
+    <span class="date_info"><a href="info/1038/1312.htm" target="_blank" title="中国共产党统一战线工作条例（试行）">​第一章　总则　第一条　为加强和规范统一战线工作，巩固和...</a></span>
+    </div>
+    <div class="datetime" style="    margin-top: 25px;">
+    <span class="post_time1">27</span>
+    <span class="post_time2">2019-05</span>
+    </div>
+    </li>
+   <li class="newsdate n1 clearfix">
+    <div class="dateleft">
+    <span class="date_title"><a href="info/1038/1295.htm" target="_blank" title="中国共产党对民族问题的基本观点和基本政策">中国共产党对民族问题的基本观点和基本政策</a></span>
+    <span class="date_info"><a href="info/1038/1295.htm" target="_blank" title="中国共产党对民族问题的基本观点和基本政策">（１）民族的产生、发展和消亡是一个漫长的历史过程，社会主...</a></span>
+    </div>
+    <div class="datetime" style="    margin-top: 25px;">
+    <span class="post_time1">24</span>
+    <span class="post_time2">2019-05</span>
+    </div>
+    </li>
+   <li class="newsdate n1 clearfix">
+    <div class="dateleft">
+    <span class="date_title"><a href="info/1038/1280.htm" target="_blank" title="&lt;宗教事务条例&gt;中华人民共和国国务院令第686号">&lt;宗教事务条例&gt;中华人民共和国国务院令第686号</a></span>
+    <span class="date_info"><a href="info/1038/1280.htm" target="_blank" title="&lt;宗教事务条例&gt;中华人民共和国国务院令第686号">​《宗教事务条例》已经2017年6月14日国务院第176次常务会议...</a></span>
+    </div>
+    <div class="datetime" style="    margin-top: 25px;">
+    <span class="post_time1">19</span>
+    <span class="post_time2">2019-05</span>
+    </div>
+    </li>
+</ul><script>_showDynClickBatch(['dynclicks_u10_1616','dynclicks_u10_1610','dynclicks_u10_1312','dynclicks_u10_1295','dynclicks_u10_1280'],[1616,1610,1312,1295,1280],"wbnews", 1410805066)</script>
+<!--#endeditable-->
+                                 
+                            </div>
+                        </div>
+                         
+                    </div>
+                    <div class="mc fl" frag="面板22">
+                        <div class="post post1 post-22 mbox" frag="窗口22" portletmode="simpleNews">
+                            <div class="tt">
+                                <h3 class="tit"><span class="title" frag="标题">统战理论</span></h3>
+                                <div class="more_btn" frag="按钮" type="更多"><a href="tzll.htm" class="w22_more" target=""><span class="more_text" frag="按钮内容">更多>></span></a></div>
+                            </div>
+                            <div class="con">
+                                <!--#begineditable name="统战理论-标题列表" viewid="202286" tagname="统战理论-标题列表" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--> 
+<ul class="news_pic clearfix">
+                                      <li class="newslist n1 clearfix">
+                                <span class="news_title"><a href="info/1015/1290.htm" target="_blank" title="习近平总书记关于宗教工作重要论述">习近平总书记关于宗教工作重要论述</a></span>
+                                <span class="post-time">05-24</span>
+                                </li>
+                                <li class="newslist n1 clearfix">
+                                <span class="news_title"><a href="info/1015/1291.htm" target="_blank" title="宗教工作知识问答">宗教工作知识问答</a></span>
+                                <span class="post-time">05-23</span>
+                                </li>
+                                <li class="newslist n1 clearfix">
+                                <span class="news_title"><a href="info/1015/1225.htm" target="_blank" title="巴特尔：落实全面从严治党责任 推进民族团结进步事业">巴特尔：落实全面从严治党责任 推进民族...</a></span>
+                                <span class="post-time">03-30</span>
+                                </li>
+                                <li class="newslist n1 clearfix">
+                                <span class="news_title"><a href="info/1015/1240.htm" target="_blank" title="【速学】谈民族工作，习近平引用古语如此精妙！">【速学】谈民族工作，习近平引用古语如...</a></span>
+                                <span class="post-time">06-15</span>
+                                </li>
+                                <li class="newslist n1 clearfix">
+                                <span class="news_title"><a href="info/1015/1224.htm" target="_blank" title="【学习】读《习近平谈治国理政》第二卷：新时代统一战线的思想航标">【学习】读《习近平谈治国理政》第二卷...</a></span>
+                                <span class="post-time">05-27</span>
+                                </li>
+                                <li class="newslist n1 clearfix">
+                                <span class="news_title"><a href="info/1015/1223.htm" target="_blank" title="让统战工作多些互联网思维">让统战工作多些互联网思维</a></span>
+                                <span class="post-time">05-11</span>
+                                </li>
+                                <li class="newslist n1 clearfix">
+                                <span class="news_title"><a href="info/1015/1239.htm" target="_blank" title="民族工作“三个离不开”“五个认同”的内容">民族工作“三个离不开”“五个认同”的内容</a></span>
+                                <span class="post-time">04-24</span>
+                                </li>
+                                <li class="newslist n1 clearfix">
+                                <span class="news_title"><a href="info/1015/1222.htm" target="_blank" title="纪念“五一口号”的重大意义">纪念“五一口号”的重大意义</a></span>
+                                <span class="post-time">04-24</span>
+                                </li>
+                                <li class="newslist n1 clearfix">
+                                <span class="news_title"><a href="info/1015/1221.htm" target="_blank" title="发挥党外知识分子智库作用的思路与对策">发挥党外知识分子智库作用的思路与对策</a></span>
+                                <span class="post-time">03-28</span>
+                                </li>
+                            </ul><script>_showDynClickBatch(['dynclicks_u11_1290','dynclicks_u11_1291','dynclicks_u11_1225','dynclicks_u11_1240','dynclicks_u11_1224','dynclicks_u11_1223','dynclicks_u11_1239','dynclicks_u11_1222','dynclicks_u11_1221'],[1290,1291,1225,1240,1224,1223,1239,1222,1221],"wbnews", 1410805066)</script>
+<!--#endeditable-->
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="mr fr" frag="面板23">
+                        <div class="post post1 post-23 mbox" frag="窗口23" portletmode="simpleNews">
+                            <div class="tt">
+                                <h3 class="tit"><span class="title" frag="标题">学习园地</span></h3>
+                                <div class="more_btn" frag="按钮" type="更多"><a href="xxyd.htm" class="w23_more" target=""><span class="more_text" frag="按钮内容">更多>></span></a></div>
+                            </div>
+                            <div class="con">
+                                <!--#begineditable name="学习园地-标题" viewid="202295" tagname="学习园地-标题" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--><ul class="news_list clearfix" style="margin-top:20px;">
+   <li class="newsdate n1 clearfix">
+    <div class="dateleft">
+    <span class="date_title"><a href="info/1020/1190.htm" target="_blank" title="梁晋涛  党外知识分子联谊会培训心得体会">梁晋涛  党外知识分子联谊会培训心得体会</a></span>
+    <span class="date_info"><a href="info/1020/1190.htm" target="_blank" title="梁晋涛  党外知识分子联谊会培训心得体会">在学校党委统战部、党外知识分子联谊会推荐下，我有幸于2018...</a></span>
+    </div>
+    <div class="datetime" style="    margin-top: 25px;">
+    <span class="post_time1">12</span>
+    <span class="post_time2">2018-10</span>
+    </div>
+    </li>
+   <li class="newsdate n1 clearfix">
+    <div class="dateleft">
+    <span class="date_title"><a href="info/1020/1189.htm" target="_blank" title="黎霜    参加2018年广西高校党外人士代表培训班学习心得">黎霜    参加2018年广西高校党外人士代表培训班学习心得</a></span>
+    <span class="date_info"><a href="info/1020/1189.htm" target="_blank" title="黎霜    参加2018年广西高校党外人士代表培训班学习心得">在得知有机会参加2018年广西高校党外代表人士培训班的时候，...</a></span>
+    </div>
+    <div class="datetime" style="    margin-top: 25px;">
+    <span class="post_time1">25</span>
+    <span class="post_time2">2018-06</span>
+    </div>
+    </li>
+   <li class="newsdate n1 clearfix">
+    <div class="dateleft">
+    <span class="date_title"><a href="info/1020/1188.htm" target="_blank" title="王华：发挥网络信息优势优化政协民主监督渠道及效能">王华：发挥网络信息优势优化政协民主监督渠道及效能</a></span>
+    <span class="date_info"><a href="info/1020/1188.htm" target="_blank" title="王华：发挥网络信息优势优化政协民主监督渠道及效能">随着信息技术的发展，网络已成为人们传播及获取信息的主要途...</a></span>
+    </div>
+    <div class="datetime" style="    margin-top: 25px;">
+    <span class="post_time1">08</span>
+    <span class="post_time2">2018-06</span>
+    </div>
+    </li>
+</ul><script>_showDynClickBatch(['dynclicks_u12_1190','dynclicks_u12_1189','dynclicks_u12_1188'],[1190,1189,1188],"wbnews", 1410805066)</script>
+<!--#endeditable--> 
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <div class="wrapper" id="footer">
+            <div class="inner clearfix">
+                <div class="left" style="padding:0px;height:80px;">
+                    <div class="copyright" style="    padding: 15px 0px 0px 0px;">
+                        <!--#begineditable name="版权" viewid="201975" tagname="版权" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--><!-- 版权内容请在本组件"内容配置-版权"处填写 -->
+<p style="font-size: medium; font-family: &quot;Microsoft YaHei&quot;; white-space: normal; word-spacing: 0px; text-transform: none; font-weight: 400; color: rgb(0,0,0); font-style: normal; orphans: 2; widows: 2; letter-spacing: normal; text-indent: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial"><span style="color: #ffffff">©版权所有：桂林电子科技大学&nbsp; 校址：中国广西桂林金鸡路1号&nbsp; </span></p><p style="font-size: medium; font-family: &quot;Microsoft YaHei&quot;; white-space: normal; word-spacing: 0px; text-transform: none; font-weight: 400; color: rgb(0,0,0); font-style: normal; orphans: 2; widows: 2; letter-spacing: normal; text-indent: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial"><span style="color: #ffffff">邮编：541004&nbsp; 传真：0773-2290083</span></p><p style="font-size: medium; font-family: &quot;Microsoft YaHei&quot;; white-space: normal; word-spacing: 0px; text-transform: none; font-weight: 400; color: rgb(0,0,0); font-style: normal; orphans: 2; widows: 2; letter-spacing: normal; text-indent: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial"><span style="color: #ffffff">桂ICP备05000961号 桂公安网备45030502000232号</span></p><p>&nbsp;</p><!--#endeditable-->
+                    </div>
+                </div>
+                <div class="right clearfix">
+                    <div class="contact" frag="面板99">
+                        <div class="contactbox" frag="窗口99">
+                            <div class="sudy-links" id="sudy-links-w99" style="display: block">
+                                <span class="links-name" style="display: block">--统战系统--</span>
+                                <div class="links-wrap" style="width: 198px">
+                                    <div id="wp_news_w99">
+
+                                        <ul class="wp_article_list">
+
+                                            <!--#begineditable name="左-链接列表" viewid="201984" tagname="左-链接列表" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--><script language="javascript" src="/system/resource/js/openlink.js"></script> 
+    <li class="list_item i1">
+	<div class="fields pr_fields">
+		<span class="Article_Index">1</span>
+		<span class="Article_Title"><a href="http://www.rmzxb.com.cn/index.shtml" target="_blank" title="">人民政协网</a></span>
+	</div>
+	<div class="fields ex_fields">
+ 
+
+	</div>
+	</li>
+    <li class="list_item i1">
+	<div class="fields pr_fields">
+		<span class="Article_Index">1</span>
+		<span class="Article_Title"><a href="http://www.cppcc.gov.cn/" target="_blank" title="">中国人民政治协商会议全国委员会</a></span>
+	</div>
+	<div class="fields ex_fields">
+ 
+
+	</div>
+	</li>
+    <li class="list_item i1">
+	<div class="fields pr_fields">
+		<span class="Article_Index">1</span>
+		<span class="Article_Title"><a href="http://tyzx.people.cn/GB/index.html" target="_blank" title="">中国统一战线新闻网</a></span>
+	</div>
+	<div class="fields ex_fields">
+ 
+
+	</div>
+	</li>
+    <li class="list_item i1">
+	<div class="fields pr_fields">
+		<span class="Article_Index">1</span>
+		<span class="Article_Title"><a href="http://www.zhongguotongcuhui.org.cn/" target="_blank" title="">中国和平统一促进会</a></span>
+	</div>
+	<div class="fields ex_fields">
+ 
+
+	</div>
+	</li>
+<!--#endeditable-->
+
+                                        </ul>
+                                    </div>
+
+                                </div>
+                            </div>
+                            <script type="text/javascript">
+                                $(function() {
+                                    $("#sudy-links-w99").sudyLinks({
+                                        handle: ".links-name",
+                                        wrap: ".links-wrap",
+                                        trigger: "mouseenter",
+                                        effect: "show",
+                                        speed: 300,
+                                        hidePause: 800
+                                    });
+                                });
+                            </script>
+
+                        </div>
+                    </div>
+                    <div class="contact1" frag="面板100">
+                        <div class="contactbox" frag="窗口100">
+                            <div class="sudy-links" id="sudy-links-w100" style="display: block">
+                                <span class="links-name" style="display: block">--校内链接--</span>
+                                <div class="links-wrap" style="width: 198px">
+                                    <div id="wp_news_w100">
+
+                                        <ul class="wp_article_list">
+
+                                            <!--#begineditable name="中-链接列表" viewid="201985" tagname="中-链接列表" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--> 
+    <li class="list_item i1">
+	<div class="fields pr_fields">
+		<span class="Article_Index">1</span>
+		<span class="Article_Title"><a href="http://www.guet.edu.cn/extGuetWeb/" target="_blank" title="">桂林电子科技大学</a></span>
+	</div>
+	<div class="fields ex_fields">
+ 
+
+	</div>
+	</li>
+    <li class="list_item i1">
+	<div class="fields pr_fields">
+		<span class="Article_Index">1</span>
+		<span class="Article_Title"><a href="http://zzb.guet.cn/" target="_blank" title="">桂电组织部网站</a></span>
+	</div>
+	<div class="fields ex_fields">
+ 
+
+	</div>
+	</li>
+    <li class="list_item i1">
+	<div class="fields pr_fields">
+		<span class="Article_Index">1</span>
+		<span class="Article_Title"><a href="http://dangxuan.guet.edu.cn/#" target="_blank" title="">桂电宣传部网站</a></span>
+	</div>
+	<div class="fields ex_fields">
+ 
+
+	</div>
+	</li>
+    <li class="list_item i1">
+	<div class="fields pr_fields">
+		<span class="Article_Index">1</span>
+		<span class="Article_Title"><a href="http://lib.guet.edu.cn/" target="_blank" title="">桂电图书馆网站</a></span>
+	</div>
+	<div class="fields ex_fields">
+ 
+
+	</div>
+	</li>
+<!--#endeditable-->
+
+                                        </ul>
+                                    </div>
+
+                                </div>
+                            </div>
+                            <script type="text/javascript">
+                                $(function() {
+                                    $("#sudy-links-w100").sudyLinks({
+                                        handle: ".links-name",
+                                        wrap: ".links-wrap",
+                                        trigger: "mouseenter",
+                                        effect: "show",
+                                        speed: 300,
+                                        hidePause: 800
+                                    });
+                                });
+                            </script>
+
+                        </div>
+                    </div>
+                    <div class="contact2" frag="面板101">
+                        <div class="contactbox" frag="窗口101">
+                            <div class="sudy-links" id="sudy-links-w101" style="display: block">
+                                <span class="links-name" style="display: block">--其他链接--</span>
+                                <div class="links-wrap" style="width: 198px">
+                                    <div id="wp_news_w101">
+
+                                        <ul class="wp_article_list">
+
+                                            <!--#begineditable name="右-链接列表" viewid="201986" tagname="右-链接列表" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--> 
+    <li class="list_item i1">
+	<div class="fields pr_fields">
+		<span class="Article_Index">1</span>
+		<span class="Article_Title"><a href="http://www.people.com.cn/" target="_blank" title="">人民网</a></span>
+	</div>
+	<div class="fields ex_fields">
+ 
+
+	</div>
+	</li>
+    <li class="list_item i1">
+	<div class="fields pr_fields">
+		<span class="Article_Index">1</span>
+		<span class="Article_Title"><a href="http://www.xinhuanet.com/" target="_blank" title="">新华网</a></span>
+	</div>
+	<div class="fields ex_fields">
+ 
+
+	</div>
+	</li>
+    <li class="list_item i1">
+	<div class="fields pr_fields">
+		<span class="Article_Index">1</span>
+		<span class="Article_Title"><a href="http://www.youth.cn/" target="_blank" title="">中国青年网</a></span>
+	</div>
+	<div class="fields ex_fields">
+ 
+
+	</div>
+	</li>
+    <li class="list_item i1">
+	<div class="fields pr_fields">
+		<span class="Article_Index">1</span>
+		<span class="Article_Title"><a href="http://www.ifeng.com/" target="_blank" title="">凤凰网</a></span>
+	</div>
+	<div class="fields ex_fields">
+ 
+
+	</div>
+	</li>
+<!--#endeditable-->
+
+                                        </ul>
+                                    </div>
+
+                                </div>
+                            </div>
+                            <script type="text/javascript">
+                                $(function() {
+                                    $("#sudy-links-w101").sudyLinks({
+                                        handle: ".links-name",
+                                        wrap: ".links-wrap",
+                                        trigger: "mouseenter",
+                                        effect: "show",
+                                        speed: 300,
+                                        hidePause: 800
+                                    });
+                                });
+                            </script>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Swiper JS -->
+        <script src="swiper/js/swiper.min.js"></script>
+
+        <!-- Initialize Swiper -->
+        <script>
+            var swiper = new Swiper('.swiper-container', {
+                pagination: '.swiper-pagination',
+                paginationClickable: true,
+                nextButton: '.swiper-button-next',
+                prevButton: '.swiper-button-prev',
+                spaceBetween: 30,
+                autoplay: 5000,
+                effect: 'fade' // 'slide' or 'fade' or 'cube' or 'coverflow' or 'flip'
+
+
+            });
+        </script>
+
+    </body>
+</html>

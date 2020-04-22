@@ -1,0 +1,173 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head><title>
+	欢迎您使用：研究生教育管理系统......
+</title>
+<script language="javascript" type="text/javascript">
+function Max(){ 
+// window.moveTo(0,0);   
+ // window.resizeTo(screen.availWidth,screen.availHeight);
+
+}
+function reLoadPic() {
+    var fcode = document.getElementById("imgValidate");
+    fcode.src = "Utility/CodeNubImg.aspx?"+Math.random();
+    //alert(document.getElementById("imgValidate").innerText);
+
+}    
+  </script>
+
+    <link href="App_Themes/css/btnStyle.css" rel="stylesheet" type="text/css" />
+    <style type="text/css">
+        .style4
+        {
+            height: 29px;
+        }
+        .style7
+        {
+            height: 16px;
+        }
+        .style10
+        {
+            height: 24px;
+        }
+        .style14
+        {
+            height: 125px;
+        }
+        .style15
+        {
+            height: 125px;
+            width: 468px;
+        }
+        .txt
+        {
+            width:300px;  height: 25px;
+        }
+        .style16
+        {
+            width: 40%;
+        }
+    </style>
+    </head>
+<body onload="javascript: Max();" 
+    style="font-size: 12pt; background-color:#088AC6; margin-top:0px; height: 100%;">
+<!--[if IE 6]>
+<script>
+function judge(){
+            alert("您的浏览器内核版本较低，为了不影响正常使用建议升级！");
+            window.location.href = "http://windows.microsoft.com/zh-cn/internet-explorer/download-ie";
+}
+judge();
+</script>
+<![endif]-->
+    <form name="form1" method="post" action="login.aspx" id="form1">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTQ3MjkxNzgyMw9kFgICAw9kFgICFQ8PFgIeB1Zpc2libGVoZGQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgIFDWltZ2J0bkxvaW5nT0sFC2ltZ2J0blJlc2V0xyVGy0moSKJhE1YO27ZIIndFYLKdVCXj/1g1wLgtV9k=" />
+</div>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="C2EE9ABB" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBgKqrZibCQKl1bKzCQK1qbSRCwKX++fdCAL0m+XUDQKH8dKHC15nnpKTyMONiIwuKnvDrs9q4TBf8hcqd3OwBHOCU/Om" />
+</div>
+    <div style="   background-image: url('image/login2.jpg');  background-repeat:no-repeat; height: 95%;width:100%; ; background-position:center;">
+   
+    
+    <div style="width: 100%; height: 100%; position: relative;"  >
+
+            <table style="height: 100%; width: 100%">
+            <tr>
+                <td colspan="3">
+                    <br />
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3" style="text-align: center; height: 200px;"  valign="bottom" align=center>
+                       
+                        <span id="Label4" style="color:White;font-size:XX-Large;font-weight:bold;font-style:normal;text-decoration:none;">桂林电子科技大学研究生教育管理系统</span>
+                        <span id="Label5" style="color:White;font-size:XX-Large;font-weight:bold;font-style:normal;text-decoration:none;text-align: center"></span>
+                        <br />
+                        <br />
+                     
+                        <br />   <span style="font-size: 9pt; text-align: center;"> <hr  style=" width:50%"/>   <br />
+                        <br />
+                        <br />
+                </td>
+            </tr>
+            <tr>
+                <td style="text-align: right; " class="style16" >
+                        <span id="Label1" style="font-size:Small;">用户名：</span>
+                </td>
+                <td style="text-align: left; " class="style7" colspan="2">
+                        <input name="txtUserName" type="text" id="txtUserName" class="txt" style="font-family:Arial Black;" /></td>
+            </tr>
+            <tr>
+                <td style="text-align: right; " class="style16" >
+                    <span id="Label2" style="font-size:Small;">密码：</span>
+                </td>
+                <td style="text-align: left; " class="style10" colspan="2">
+                        <input name="txtPassword" type="password" id="txtPassword" class="txt" autocomplete="off" style="font-family:Arial Black;" /></td>
+            </tr>
+            <tr>
+                <td style="text-align: right; " class="style16" >
+                        <span id="Label3" style="font-size:Small;">验证码：</span>
+                </td>
+                <td style="text-align: left; " class="style4" colspan="2">
+                        <input name="txtVerifyCode" type="text" id="txtVerifyCode" class="txt" style="font-family:Arial Black;" /><img id="imgValidate" alt="点击更新验证码" onclick="reLoadPic();" src="Utility/CodeNubImg.aspx"
+                            style="width: 52px; height: 20px"  align="absmiddle"/></td>
+            </tr>
+            <tr>
+                <td style="text-align: left" class="style15">
+                   
+                  
+                </td>
+                <td style="text-align: left" valign="top" >
+                   <br />
+                    <input type="image" name="imgbtnLoingOK" id="imgbtnLoingOK" src="image/btnloginok.jpg" style="border-width:0px;" />
+                    <input type="image" name="imgbtnReset" id="imgbtnReset" src="image/btnReset.jpg" onclick="Clear();" style="border-width:0px;" />
+                      
+                  
+                  <br />
+                       
+                        </td>
+                <td style="text-align: left" class="style14">
+                   
+                        
+                        &nbsp;</td>
+            </tr>
+            <tr>
+                <td style="text-align: center; vertical-align: top; " colspan="3" 
+                     >
+                
+                    <span style="font-size: 9pt; text-align: center;"> <hr  style=" width:50%"/><br />【研究生教育管理信息系统】<br />
+                        版权所有：桂林电子科技大学【 侵权必究】，若需要使用该系统，请与系统供应商联系<br />
+                    建议浏览器IE7以上、使用分辨率为１２８０＊７６８</span><br />
+                    <br />
+                   
+                </td>
+            </tr>
+            </table>
+
+    </div>
+   
+    
+ 
+    </form>
+</body>
+</html>
+<script language="javascript" type="text/javascript">
+  function MaxScreen()
+  {
+    //self.moveTo(0,0);
+    //self.resizeTo(screen.availHeight,screen.availWidth); 
+  }
+  function Clear() {
+      document.getElementById("txtUserName").value = "";
+      document.getElementById("txtPassword").value = "";
+      document.getElementById("txtVerifyCode").value = "";
+  }
+</script>

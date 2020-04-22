@@ -1,0 +1,832 @@
+<!DOCTYPE html>
+<HTML lang="zh-CN"><HEAD><TITLE>桂林电子科技大学商学院</TITLE><META Name="keywords" Content="商学院,桂林电子科技大学" />
+
+
+<META name="robots" content="index,follow">
+<META charset="UTF-8">
+<META name="description" content="">
+<META name="wap-font-scale" content="no">
+<META name="viewport" content="width=device-width, initial-scale=1.0,user-scalable=no">
+<META content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+  <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon" /> 
+<LINK rel="stylesheet" href="css/cui.css">
+<LINK rel="stylesheet" href="css/lib.css">
+<LINK rel="stylesheet" href="css/style.css">
+<LINK rel="stylesheet" href="css/less.css">
+<script src="js/jquery.js"></script>
+
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="index.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1572,'/index.jsp',-1,1411889542)</script>
+</HEAD>
+<BODY class="index">
+<DIV id="index">
+    <DIV class="bg"></DIV>
+    <!-- 顶部 -->
+    <DIV id="top">
+        <DIV class="wp2">
+            <DIV class="top-l">
+            <a href="" class="logo"><img src="images/logo2.png" alt=""></a>
+            </DIV>
+            <DIV class="top-r">
+                <div class="index-top"><!--#begineditable name="全文检索" action="webber.wbst.com.SpaceStaticAction" layout="/system/_component/news/tplnewslucenesearch.jsp" tpltype="1" contype="" clone="" viewid="166847" contentviewid="" tagname="全文检索"--><script type="text/javascript">
+    function subm166847(){
+      if($('.m-search').hasClass('soBox-click')){
+        if(check166847()){
+          submitSearch166847();
+        }
+      }
+      $('.m-search').addClass('soBox-click');
+      return false;
+    }
+    $('.m-soBox').click(function(){
+      return false;
+    });
+    
+    function check166847(){
+var keyword = document.getElementById('showkeycode166847').value;
+        if(keyword==null||keyword==""){
+            alert("请输入你要检索的内容！");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkeyword166847").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkeyword166847").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkeyword166847").value = base64.encode(document.getElementById("lucenenewssearchkeyword166847").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode166847"));
+        return true;
+    } 
+ function submitSearch166847(){
+        $("#searchform166847").submit();
+    }
+</script>
+<div class="m-search">
+<form method="post" id="searchform166847" name="searchform166847" action="search.jsp?wbtreeid=1572" onsubmit="return check166847()" style="display: inline;">
+ <div class="m-soBox">
+ <input type="hidden" id="lucenenewssearchkeyword166847" name="lucenenewssearchkeyword" value=""><input type="hidden" id="_lucenesearchtype166847" name="_lucenesearchtype" value="1"><input type="hidden" id="searchScope166847" name="searchScope" value="0">
+ <span></span>
+
+            <input class="input" placeholder="搜索" size="30" name="showkeycode" id="showkeycode166847" class="querystyle166847">
+            
+            <input class="search" type="button" onclick="subm166847()" align="absmiddle" style="cursor:pointer">
+</div> 
+</form></div><script language="javascript" src="/system/resource/js/base64.js"></script><script language="javascript" src="/system/resource/js/formfunc.js"></script>
+<!--#endeditable-->
+<!--#begineditable name="头部连接" action="webber.wbst.com.SpaceStaticAction" layout="/system/_component/space/tplstaticspace.jsp" tpltype="1" contype="" clone="" viewid="166840" contentviewid="" tagname="头部连接"--><ul class="ul-list1">
+<li><a href="http://www.guet.edu.cn" class="v1"><i style="background-image:url(images/gicon3.png)">&nbsp;</i>学校首页</a></li>
+<li><a href="http://gxsei.gxfwpt.com" class="v1"><i style="background-image:url(images/gicon3.png)">&nbsp;</i>广西战略性新兴产业研究基地</a></li>
+<li><a href="http://qyyygl.guet.edu.cn" class="v1"><i style="background-image:url(images/gicon3.png)">&nbsp;</i>实验教学示范中心</a></li>
+<li><a href="https://www.guet.edu.cn/mba" class="v1"><i style="background-image:url(images/gicon3.png)">&nbsp;</i>MBA教育中心</a>
+<div class="subBox">
+<dl>
+<a href="http://mba-e.guet.edu.cn">信息系统</a> 
+ <a href="http://mba-e.guet.edu.cn/index/login">招生报名</a>
+ </dl>
+</div>
+</li>
+</ul><!--#endeditable-->              
+                </div>  
+                <!------导航开始----->
+                <DIV class="index-bottom">
+                <!--#begineditable name="网站导航" action="webber.wbst.com.nav.MenuAction" layout="/system/_component/sitenav/tplvnav.jsp" tpltype="1" contype="" clone="" viewid="166744" contentviewid="" tagname="网站导航"--><ul class="nav nav-pc">
+<li class="on"><A href="index.htm" class="v1">首页</A>
+</li>
+<li><A href="xyjs/xygk.htm" class="v1">学院介绍</A>
+ <div class="subBox">
+<dl>
+  <dd><A class="v2" href="xyjs/xygk.htm">学院概况</A><i></i></dd>
+  <dd><A class="v2" href="xyjs/xyling_d.htm">学院领导</A><i></i></dd>
+  <dd><A class="v2" href="xyjs/zzjg/xzhjig.htm">组织机构</A><i></i></dd>
+  <dd><A class="v2" href="xyjs/szdw.htm">师资队伍</A><i></i></dd>
+  <dd><A class="v2" href="xyjs/lxwm.htm">联系我们</A><i></i></dd>
+</dl>
+</div>
+</li>
+<li><A href="news/xyxw.htm" class="v1">新闻动态</A>
+ <div class="subBox">
+<dl>
+  <dd><A class="v2" href="news/tzgg.htm">通知公告</A><i></i></dd>
+  <dd><A class="v2" href="news/xyxw.htm">学院新闻</A><i></i></dd>
+  <dd><A class="v2" href="news/djgz.htm">党建工作</A><i></i></dd>
+  <dd><A class="v2" href="news/xshd.htm">学生活动</A><i></i></dd>
+  <dd><A class="v2" href="news/xsjiao_l.htm">学术交流</A><i></i></dd>
+</dl>
+</div>
+</li>
+<li><A href="dqgogn_zu/zzgk.htm" class="v1">党群工作</A>
+ <div class="subBox">
+<dl>
+  <dd><A class="v2" href="dqgogn_zu/zzgk.htm">组织概况</A><i></i></dd>
+  <dd><A class="v2" href="dqgogn_zu/lzjian_sh/djdg.htm">廉政建设</A><i></i></dd>
+  <dd><A class="v2" href="dqgogn_zu/xxyd.htm">学习园地</A><i></i></dd>
+  <dd><A class="v2" href="dqgogn_zu/zdwj.htm">制度文件</A><i></i></dd>
+  <dd><A class="v2" href="dqgogn_zu/zgzj.htm">职工之家</A><i></i></dd>
+</dl>
+</div>
+</li>
+<li><A href="kxyj1/kygk.htm" class="v1">科学研究</A>
+ <div class="subBox">
+<dl>
+  <dd><A class="v2" href="kxyj1/kygk.htm">科研概况</A><i></i></dd>
+  <dd><A class="v2" href="kxyj1/ke_yan_xiang_mu.htm">科研项目</A><i></i></dd>
+  <dd><A class="v2" href="kxyj1/kycg.htm">科研成果</A><i></i></dd>
+  <dd><A class="v2" href="http://gxsei.gxfwpt.com">科研基地</A><i></i></dd>
+</dl>
+</div>
+</li>
+<li><A href="xsgz/xgdw.htm" class="v1">学生工作</A>
+ <div class="subBox">
+<dl>
+  <dd><A class="v2" href="xsgz/xgdw.htm">学工队伍</A><i></i></dd>
+  <dd><A class="v2" href="xsgz/xszz.htm">学生组织</A><i></i></dd>
+  <dd><A class="v2" href="xsgz/xshd.htm">学生活动</A><i></i></dd>
+  <dd><A class="v2" href="xsgz/xsry.htm">学生荣誉</A><i></i></dd>
+  <dd><A class="v2" href="xsgz/bslc.htm">办事流程</A><i></i></dd>
+  <dd><A class="v2" href="xsgz/gzzd.htm">规章制度</A><i></i></dd>
+</dl>
+</div>
+</li>
+<li><A href="rcpy/bkjy/zyjs.htm" class="v1">人才培养</A>
+ <div class="subBox">
+<dl>
+  <dd><A class="v2" href="rcpy/bkjy/zyjs.htm">本科教育</A><i></i></dd>
+  <dd><A class="v2" href="rcpy/yjsjy/xkjs.htm">研究生教育</A><i></i></dd>
+  <dd><A class="v2" href="http://mba.guet.edu.cn">MBA教育</A><i></i></dd>
+</dl>
+</div>
+</li>
+<li><A href="https://www.guet.edu.cn/rsc/info/1105/1695.htm" class="v1">人才招聘</A>
+</li>
+</ul><!--#endeditable-->
+                </DIV>
+            </DIV>
+            <SPAN class="menuBtn"></SPAN>
+            </DIV>
+        </DIV><!-- 顶部 end-->
+    </DIV>
+<!-- 手机导航 -->
+<DIV id="hd-m"><a href="" class="logo" title="商学院"><img src="images/logo2.png"></a>
+<SPAN class="menuBtn"></SPAN>
+<DIV class="so-Box"><!--#begineditable name="手机检索" action="webber.wbst.com.SpaceStaticAction" layout="/system/_component/news/tplnewslucenesearch.jsp" tpltype="1" contype="" clone="" viewid="166848" contentviewid="" tagname="手机检索"--><script>
+   //提交搜索方法
+   function subm(){
+      if($('.m-search').hasClass('soBox-click')){
+       if(check166848()){
+        submitSearch();
+      }
+     }
+     var obj=$('.m-search');
+     obj.addClass('soBox-click');
+   }
+    $('#index  .m-soBox').click(function(){
+      return false;
+    });
+    function check166848(){
+ var keyword = document.getElementById('showkeycode166848').value;
+        if(keyword==null||keyword==""){
+            alert("请输入你要检索的内容！");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkeyword166848").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkeyword166848").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkeyword166848").value = base64.encode(document.getElementById("lucenenewssearchkeyword166848").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode166848"));
+        return true;
+    } 
+    function submitSearch(){
+        $("#searchform1166848").submit();
+    }
+</script>
+
+<form method="post" id="searchform1166848" name="searchform1166848" action="search.jsp?wbtreeid=1572" onsubmit="return check166848()" style="display: inline;">         
+ <input type="hidden" id="lucenenewssearchkeyword166848" name="lucenenewssearchkeyword" value=""><input type="hidden" id="_lucenesearchtype166848" name="_lucenesearchtype" value="1"><input type="hidden" id="searchScope166848" name="searchScope" value="0">      
+     <span></span>
+            <input type="text" size="10" name="showkeycode" id="showkeycode166848" placeholder="搜索">
+
+            
+                <span class="close"></span>
+                <span class="btn"></span>
+                <input type="submit" onclick="subm()" value=""> <!-- src="" -->
+            
+
+</form>
+<!--#endeditable--></div>
+<DIV class="inner">
+<DIV class="bg"></DIV><ul class="nav nav-m">
+<!--#begineditable name="手机导航" action="webber.wbst.com.nav.MenuAction" layout="/system/_component/sitenav/tplvnav.jsp" tpltype="1" contype="" clone="" viewid="166760" contentviewid="" tagname="手机导航"-->    
+        <li><a class="v1" href="index.htm">首页</a> 
+        </li>
+
+        <li><a class="v1" href="xyjs/xygk.htm">学院介绍</a> 
+         <i class="first-level on"><em></em></i>
+    <div class="subBox">
+          <dl>
+            <dd><a class="v2" href="xyjs/xygk.htm">学院概况</a><i></i></a> 
+            </dd>
+
+            <dd><a class="v2" href="xyjs/xyling_d.htm">学院领导</a><i></i></a> 
+            </dd>
+
+            <dd><a class="v2" href="xyjs/zzjg/xzhjig.htm">组织机构</a><i></i></a> 
+            <i class="second-level on"><em></em></i>
+        <div class="subBox2">
+        <div class="con">
+                <a href="xyjs/zzjg/xzhjig.htm">行政机构</a> 
+                <a href="xyjs/zzjg/yjjg.htm">研究机构</a> 
+                <a href="xyjs/zzjg/jxjg.htm">教学机构</a> 
+            </div></div>            
+            </dd>
+
+            <dd><a class="v2" href="xyjs/szdw.htm">师资队伍</a><i></i></a> 
+            </dd>
+
+            <dd><a class="v2" href="xyjs/lxwm.htm">联系我们</a><i></i></a> 
+            </dd>
+        </dl></div>       
+        </li>
+
+        <li><a class="v1" href="news/xyxw.htm">新闻动态</a> 
+         <i class="first-level on"><em></em></i>
+    <div class="subBox">
+          <dl>
+            <dd><a class="v2" href="news/tzgg.htm">通知公告</a><i></i></a> 
+            </dd>
+
+            <dd><a class="v2" href="news/xyxw.htm">学院新闻</a><i></i></a> 
+            </dd>
+
+            <dd><a class="v2" href="news/djgz.htm">党建工作</a><i></i></a> 
+            </dd>
+
+            <dd><a class="v2" href="news/xshd.htm">学生活动</a><i></i></a> 
+            </dd>
+
+            <dd><a class="v2" href="news/xsjiao_l.htm">学术交流</a><i></i></a> 
+            </dd>
+        </dl></div>       
+        </li>
+
+        <li><a class="v1" href="dqgogn_zu/zzgk.htm">党群工作</a> 
+         <i class="first-level on"><em></em></i>
+    <div class="subBox">
+          <dl>
+            <dd><a class="v2" href="dqgogn_zu/zzgk.htm">组织概况</a><i></i></a> 
+            </dd>
+
+            <dd><a class="v2" href="dqgogn_zu/lzjian_sh/djdg.htm">廉政建设</a><i></i></a> 
+            <i class="second-level on"><em></em></i>
+        <div class="subBox2">
+        <div class="con">
+                <a href="dqgogn_zu/lzjian_sh/djdg.htm">党纪党规</a> 
+                <a href="dqgogn_zu/lzjian_sh/xxgk.htm">信息公开</a> 
+            </div></div>            
+            </dd>
+
+            <dd><a class="v2" href="dqgogn_zu/xxyd.htm">学习园地</a><i></i></a> 
+            </dd>
+
+            <dd><a class="v2" href="dqgogn_zu/zdwj.htm">制度文件</a><i></i></a> 
+            </dd>
+
+            <dd><a class="v2" href="dqgogn_zu/zgzj.htm">职工之家</a><i></i></a> 
+            </dd>
+        </dl></div>       
+        </li>
+
+        <li><a class="v1" href="kxyj1/kygk.htm">科学研究</a> 
+         <i class="first-level on"><em></em></i>
+    <div class="subBox">
+          <dl>
+            <dd><a class="v2" href="kxyj1/kygk.htm">科研概况</a><i></i></a> 
+            </dd>
+
+            <dd><a class="v2" href="kxyj1/ke_yan_xiang_mu.htm">科研项目</a><i></i></a> 
+            </dd>
+
+            <dd><a class="v2" href="kxyj1/kycg.htm">科研成果</a><i></i></a> 
+            </dd>
+
+            <dd><a class="v2" href="http://gxsei.gxfwpt.com">科研基地</a><i></i></a> 
+            </dd>
+        </dl></div>       
+        </li>
+
+        <li><a class="v1" href="xsgz/xgdw.htm">学生工作</a> 
+         <i class="first-level on"><em></em></i>
+    <div class="subBox">
+          <dl>
+            <dd><a class="v2" href="xsgz/xgdw.htm">学工队伍</a><i></i></a> 
+            </dd>
+
+            <dd><a class="v2" href="xsgz/xszz.htm">学生组织</a><i></i></a> 
+            </dd>
+
+            <dd><a class="v2" href="xsgz/xshd.htm">学生活动</a><i></i></a> 
+            <i class="second-level on"><em></em></i>
+        <div class="subBox2">
+        <div class="con">
+                <a href="xsgz/xshd/xue_feng_ji.htm">学风建设</a> 
+                <a href="xsgz/xshd/xywen_h.htm">校园文化</a> 
+                <a href="xsgz/xshd/tstj.htm">特色团建</a> 
+                <a href="xsgz/xshd/kjjs.htm">科技竞赛</a> 
+            </div></div>            
+            </dd>
+
+            <dd><a class="v2" href="xsgz/xsry.htm">学生荣誉</a><i></i></a> 
+            </dd>
+
+            <dd><a class="v2" href="xsgz/bslc.htm">办事流程</a><i></i></a> 
+            </dd>
+
+            <dd><a class="v2" href="xsgz/gzzd.htm">规章制度</a><i></i></a> 
+            </dd>
+        </dl></div>       
+        </li>
+
+        <li><a class="v1" href="rcpy/bkjy/zyjs.htm">人才培养</a> 
+         <i class="first-level on"><em></em></i>
+    <div class="subBox">
+          <dl>
+            <dd><a class="v2" href="rcpy/bkjy/zyjs.htm">本科教育</a><i></i></a> 
+            <i class="second-level on"><em></em></i>
+        <div class="subBox2">
+        <div class="con">
+                <a href="rcpy/bkjy/zyjs.htm">专业介绍</a> 
+                <a href="rcpy/bkjy/zsjz.htm">招生简章</a> 
+                <a href="rcpy/bkjy/jpkc.htm">精品课程</a> 
+                <a href="rcpy/bkjy/sjpt.htm">实践平台</a> 
+                <a href="rcpy/bkjy/xkjscg.htm">学科竞赛成果</a> 
+                <a href="rcpy/bkjy/jxgg1.htm">教学改革</a> 
+                <a href="rcpy/bkjy/yxjs.htm">优秀教师</a> 
+            </div></div>            
+            </dd>
+
+            <dd><a class="v2" href="rcpy/yjsjy/xkjs.htm">研究生教育</a><i></i></a> 
+            <i class="second-level on"><em></em></i>
+        <div class="subBox2">
+        <div class="con">
+                <a href="rcpy/yjsjy/xkjs.htm">学科介绍</a> 
+                <a href="rcpy/yjsjy/dsdw.htm">导师队伍</a> 
+                <a href="rcpy/yjsjy/yjszs.htm">研究生招生</a> 
+                <a href="rcpy/yjsjy/xqhz.htm">校企合作</a> 
+                <a href="rcpy/yjsjy/cxcy.htm">创新创业</a> 
+                <a href="rcpy/yjsjy/sIjy.htm">双I教育</a> 
+            </div></div>            
+            </dd>
+
+            <dd><a class="v2" href="http://mba.guet.edu.cn">MBA教育</a><i></i></a> 
+            </dd>
+        </dl></div>       
+        </li>
+
+        <li><a class="v1" href="https://www.guet.edu.cn/rsc/info/1105/1695.htm" target="_blank">人才招聘</a> 
+        </li>
+<li><a class="v1" href="https://www.guet.edu.cn">学校首页</a></li>
+<li><a class="v1" href="http://qyyy l.guet.edu.cn">实验教学示范中心</a></li>
+<li><a class="v1" href="https://www.guet.edu.cn/mba">MBA教育中心</a></li>
+<!--#endeditable--></UL>
+</DIV></DIV><!-- 手机导航 end-->
+
+<!---banner---->
+<DIV id="banner"><!--#begineditable name="banner" action="webber.wbst.com.SpaceStaticAction" layout="/system/_component/space/tplstaticspace.jsp" tpltype="1" contype="" clone="" viewid="166745" contentviewid="" tagname="banner"--><div class="slider">
+<div class="item" style="background-image:url(index/20200222.jpg)"></div>
+<div class="item" style="background-image:url(index/20200218.jpg)"></div>
+<div class="item" style="background-image:url(index/20200207.jpg)"></div>
+<div class="item" style="background-image:url(index/20190923.jpg)"><a href="dqgogn_zu/ztxx.htm"></a></div>
+<div class="item" style="background-image:url(index/20190301.jpg)"></div>
+<div class="item" style="background-image:url(index/20190305.jpg)"><a href="http://mba.guet.edu.cn" target="_blank"></a></div>
+<div class="item" style="background-image:url(index/20190419.jpg)"></div>
+</div>                    <!--#endeditable--></DIV><!-- banner end -->
+<!-- 主内容 -->
+<div id="bd">
+    <DIV class="m-tab3">
+<DIV class="wp"><SPAN>教学项目：</SPAN> 
+<UL id=".m-listtab ul" class="TAB_DOWN">
+<LI class="on"><A href="javascript:void(0);">本科</A> </LI>
+<LI><A href="javascript:void(0);">研究生</A> </LI>
+<LI><A href="javascript:void(0);">MBA</A> </LI>
+<LI><A href="javascript:void(0);">MPAcc</A> </LI>
+<LI><A href="javascript:void(0);">EDP培训</A> </LI>
+<LI><A href="javascript:void(0);">2019级ACCA方向班<img src="images/new.gif"> </A></LI>
+</UL></DIV>
+</DIV>
+<DIV class="m-listtab">
+    <div class="wp">
+                <ul><p><a href="rcpy/bkjy/zyjs.htm">专业介绍</a>  |  <a href="rcpy/bkjy/zsjz.htm">2019年招生简章</a>  |  <a href="<span style='color:red;font-size:9pt'>转换链接错误</span>">优秀教师</a>  |  <a href="rcpy/bkjy/jpkc.htm">精品课程</a> | <a href="rcpy/bkjy/sjpt.htm">实践平台</a> | <a href="rcpy/bkjy/xkjscg.htm">学科竞赛成果</a>  |  <a href="rcpy/bkjy/jxgg1.htm">教学改革</a></p></ul>
+                    <ul style="display:none">                        
+                            <p>管理科学与工程、理论经济学等2个一级学科硕士点，企业管理等1个二级学科硕士点。<br /><a href="rcpy/yjsjy/xkjs.htm">学科介绍</a>  | <a href="rcpy/yjsjy/yjszs.htm">研究生招生</a>  |   <a href="rcpy/yjsjy/dsdw.htm">导师队伍</a>  |  <a href="rcpy/yjsjy/xqhz.htm">校企合作</a>  |  <a href="rcpy/yjsjy/cxcy.htm">创新创业</a>  |  <a href="rcpy/yjsjy/sIjy.htm">双I教育</a></p>                       
+                    </ul>
+                    <ul style="display:none">                       
+                           <p>MBA教育项目依托学校电子信息学科优势，面向东盟、北部湾经济区、信息产业和现代制造业，实施“差异化、特色化和品牌化”培养战略，培养具备信息技术背景，拥有战略眼光、国际视野、领导能力和高度社会责任感的优秀职业经理人。<br />详情请访问<a href="https://www.guet.edu.cn/mba">MBA教育中心</a>。</p>
+                    </ul>
+                    <ul style="display:none"><p>会计硕士专业学位的目标是培养具有良好职业道德，系统掌握现代会计理论与实务以及相关领域的知识与技能，具备会计工作领导能力的高素质会计人才。</p></ul>
+<ul style="display:none"><p>企业经理人员短期课程进修项目，是为满足组织提升、探寻卓越理念、成就现代企业领袖而设计的教学项目。如需合作请与我们联系。</p></ul>
+<ul style="display:none"><p>经学校批准，桂林电子科技大学商学院将在商学院2019级文理各专业本科新生中开放报名并进行二次选拔，组建会计学专业ACCA方向班。详情请浏览><a href="info/1760/1654.htm">招生简章</a>。</p></ul>                   
+            </div>
+
+</DIV> 
+<!--<div class="m-section1">
+<a href="/system/go.jsp?treeid=1760&apptype=content&urltype=news.NewsContentUrl&param=wbnewsid%3D1654">
+<img src="/index/20190809.jpg"></a>
+</div>-->
+        
+        <div class="m-index1">
+            <div class="wp">
+            <div class="col-l">
+                <div class="g-title2">
+                    <ul id=".index1-content" class="ul-list3 TAB_SLICK">
+                        <li class="on"><a href="javascript:void(0);">学院新闻</a> </li>
+                        <!--<li><a href="javascript:void(0);">学生风采</a></li>-->
+                    </ul>
+                </div>
+                <div class="index1-content"><a href="news/xyxw.htm" class="m-more">更多</a>
+<!--#begineditable name="标题列表" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/tpltitlelist.jsp" tpltype="1" contype="news" clone="" viewid="166832" contentviewid="" tagname="标题列表"--><script language="javascript" src="/system/resource/js/dynclicks.js"></script><div class="m-slick1">
+<a href="info/1655/1997.htm" title="商学院领导班子深入毕业班学生宿舍走访慰问" class="item">
+<div class="pic">
+    <img src="/__local/F/C8/6F/36ED8A16EEBE8FB615E8372F331_D4822A82_5B7E9.jpg">
+</div>
+<div class="txt">
+<span>商学院领导班子深入毕业班学生宿舍走访慰问</span>
+</div>
+</a>
+<a href="info/1655/1996.htm" title="商学院线上召开毕业生返校安全教育网络会议" class="item">
+<div class="pic">
+    <img src="/__local/A/30/4A/FCA6BE72D425C1CE3BBA291B8FC_EE230186_31ECF.jpg">
+</div>
+<div class="txt">
+<span>商学院线上召开毕业生返校安全教育网络会议</span>
+</div>
+</a>
+<a href="info/1655/1986.htm" title="商学院召开2019-2020（2）学期教学-学工联动网络会议" class="item">
+<div class="pic">
+    <img src="/__local/A/62/8E/931C396C4D9CBCA3934742842FE_C155245D_2055F.png">
+</div>
+<div class="txt">
+<span>商学院召开2019-2020（2）学期教学-学工联动网络会议</span>
+</div>
+</a>
+<a href="info/1655/1985.htm" title="商学院线上召开考研动员和指导大会" class="item">
+<div class="pic">
+    <img src="/__local/3/3D/4A/B0F715C8860FF0902816EA5362B_BEDB8EB4_1A307.jpg">
+</div>
+<div class="txt">
+<span>商学院线上召开考研动员和指导大会</span>
+</div>
+</a>
+<a href="info/1655/1984.htm" title="商学院召开2020届毕业生应征入伍政策解读暨答疑会" class="item">
+<div class="pic">
+    <img src="/__local/7/E2/7C/BEA17AED8ED5D7D52656ABB5ECF_F654D020_20038.png">
+</div>
+<div class="txt">
+<span>商学院召开2020届毕业生应征入伍政策解读暨答疑会</span>
+</div>
+</a>
+</div><script>_showDynClickBatch(['dynclicks_u6_1997','dynclicks_u6_1996','dynclicks_u6_1986','dynclicks_u6_1985','dynclicks_u6_1984'],[1997,1996,1986,1985,1984],"wbnews", 1411889542)</script>
+<!--#endeditable-->
+<!--#begineditable name="通知列表" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/tpltitlelist.jsp" tpltype="1" contype="news" clone="" viewid="166836" contentviewid="" tagname="通知列表"--><div class="r-box">
+<div class="box-title"><a href="news/tzgg.htm">通知公告</a></div>
+<ul class="m-list13">
+  <li><h3><a title="商学院2020年度大学生创新项目推荐公示" href="info/1651/1994.htm" target="_blank">商学院2020年度大学生创新项目推荐公示</a><h3><span>2020年04月17日</span></li>
+  <li><h3><a title="学校发布2020年春季学期桂林本部毕业年级学生错时错峰返校安排" href="https://www.guet.edu.cn/info/1151/52237.htm" target="_blank">学校发布2020年春季学期桂林本部毕业年级学生错时错峰返校安排</a><h3><span>2020年04月13日</span></li>
+  <li><h3><a title="商学院2020年度大学生创业类项目推荐公示" href="info/1651/1995.htm" target="_blank">商学院2020年度大学生创业类项目推荐公示</a><h3><span>2020年04月13日</span></li>
+  <li><h3><a title="关于2019-2020-2学期商学院团委推荐优秀团员作为党的培养对象名单的公示" href="info/1651/1981.htm" target="_blank">关于2019-2020-2学期商学院团委推荐优秀团员作为党的培养对象名单的公示</a><h3><span>2020年04月13日</span></li>
+  <li><h3><a title="商学院教代会代表推选名单公示" href="info/1651/1976.htm" target="_blank">商学院教代会代表推选名单公示</a><h3><span>2020年04月09日</span></li>
+</ul>
+</div><script>_showDynClickBatch(['dynclicks_u7_1994','dynclicks_u7_1982','dynclicks_u7_1995','dynclicks_u7_1981','dynclicks_u7_1976'],[1994,1982,1995,1981,1976],"wbnews", 1411889542)</script>
+<!--#endeditable-->
+                </div>
+
+            </div>
+            <div class="col-r">
+                <h2 class="g-title2">信息化</h2>
+                <ul class="m-list14">
+                    <li class="il"><a href="http://dzoa.guet.edu.cn/Account/LogOn?ReturnUrl=%2F" target="_blank" title="">党政办公综合平台</a></li>
+                    <li class="il"><a href="http://guetw5.fastoa.co" target="_blank">协同办公系统</a></li>
+                    <li class="il"><A href="http://icampus.guet.edu.cn">智慧校园</a></li>
+        <li class="il"><a href="cyxz/bkjx.htm" target="_blank">常用资料下载</a></li>
+                </ul>
+                <!---<a href="http://mba.guet.edu.cn" class="btm">信息管理系统</a>--->
+        </div>
+    </div></DIV>
+
+
+
+
+
+
+
+<DIV class="m-section3">
+    <div class="wp">
+        <h2 class="g-title2">学术活动预告</h2><a class="m-more" href="news/xshdyg.htm">更多</a>
+            <div class="tab-content2">
+                    <div class="section"><!--#begineditable name="学术交流" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/tpltitlelist.jsp" tpltype="1" contype="news" clone="" viewid="166831" contentviewid="" tagname="学术交流"--><ul class="ul-list5">
+ <li>
+                        <a href="info/1654/1807.htm" target="_blank" class="con">
+                            <span>12/12</span>
+                            <div class="txt">马来西亚精英大学（HELP）叶锦莲博士讲学预告</div>
+                        </a></li>
+ <li>
+                        <a href="info/1654/1802.htm" target="_blank" class="con">
+                            <span>12/6</span>
+                            <div class="txt">关于青岛大学苏志伟教授来校讲学预告</div>
+                        </a></li>
+ <li>
+                        <a href="info/1654/1766.htm" target="_blank" class="con">
+                            <span>11/23</span>
+                            <div class="txt">商业伦理与会计职业道德</div>
+                        </a></li>
+ <li>
+                        <a href="info/1654/1762.htm" target="_blank" class="con">
+                            <span>11/26</span>
+                            <div class="txt">考虑流动性风险下选择权市场动态价格稳定机制与保证金调整之研究</div>
+                        </a></li>
+ <li>
+                        <a href="info/1654/1756.htm" target="_blank" class="con">
+                            <span>11/12</span>
+                            <div class="txt">大数据实践及应用型人才培养</div>
+                        </a></li>
+ <li>
+                        <a href="info/1654/1423.htm" target="_blank" class="con">
+                            <span>05/09</span>
+                            <div class="txt">观管理哲学：框架、原理和实践的思知行一</div>
+                        </a></li>
+                        </UL><script>_showDynClickBatch(['dynclicks_u8_1807','dynclicks_u8_1802','dynclicks_u8_1766','dynclicks_u8_1762','dynclicks_u8_1756','dynclicks_u8_1423'],[1807,1802,1766,1762,1756,1423],"wbnews", 1411889542)</script>
+<!--#endeditable--></div>
+             </div>
+     </div>
+</div>
+
+
+<div class="m-index1">
+<div class="wp">
+<H2 class="g-title2">党建工作</H2><A class="m-more" href="news/djgz.htm">更多</A>
+<UL class="m-listnews">
+
+<!--#begineditable name="图片文章列表" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/tplimagenews.jsp" tpltype="1" contype="news" clone="" viewid="166975" contentviewid="" tagname="图片文章列表"--><script language="javascript" src="/system/resource/js/jquery/jquery-latest.min.js"></script>        <li>
+<a href="info/1780/1780.htm" target="_blank" title="商学院组织开展“不忘初心、牢记使命”主题教育廉政观影会" class="inner">
+                                <img src="/__local/5/AD/71/8E4DD2C18CA3D3C985A1C65510F_E84BF3FB_46A4D.jpg" alt="">
+                                <p class="word">商学院组织开展“不忘初心、牢记使命”主题教育廉政观影会</p>
+                                <div class="shade">
+                                    <h4>商学院组织开展“不忘初心、牢记使命”主题教育廉政观影会</h4>
+                                    <span>2019年11月18日</span>
+                                    <p>为深入推进主题教育，营造廉洁从教、风清气正的学院氛围，  11月15日下午，商学院在金鸡岭校区10教516会议室组织开展“不忘初心、牢记使命”主题教育廉政观影会。商学院领导班子成员以及全体教师党员参加了廉政观影会。此次观影会，学院党委选择播放了江西九江市纪委拍摄的微电影《归》和《暗查》。通过观看教育片，警醒广大教师党员要对党纪国法明底线，知敬畏，时刻筑牢拒腐防变的思想道德防线。同时也要认真落实好习近平总书...</p>
+                                </div>
+                            </a>
+</li>
+        <li>
+<a href="info/1780/1768.htm" target="_blank" title="商学院党委召开第十四次中心组学习" class="inner">
+                                <img src="/__local/A/8B/9F/28195B3D1906CCA40CD604A25C5_0E1942B7_52AFA4.jpg" alt="">
+                                <p class="word">商学院党委召开第十四次中心组学习</p>
+                                <div class="shade">
+                                    <h4>商学院党委召开第十四次中心组学习</h4>
+                                    <span>2019年11月14日</span>
+                                    <p>​11月12日下午，根据商学院“不忘初心、牢记使命”主题教育安排，学院党委在金鸡岭校区10教403会议室组织召开中心组第十四次学习，紧密围绕“党的政治建设”开展学习讨论。会议由学院党委书记龚义主持，全体中心组成员参加了此次会议。会上，学院副院长韦秀仙带领中心组学习了《中共中央关于加强党的政治建设的意见》、习近平总书记在中央政治局第十五次集体学习时的重要精神以及习近平总书记在内蒙古视察并指导主题教育时的重...</p>
+                                </div>
+                            </a>
+</li>
+        <li>
+<a href="info/1780/1775.htm" target="_blank" title="【主题教育 整治动态】商学院召开学生工作专题会议" class="inner">
+                                <img src="/__local/8/E2/BC/B39D80E0CF86443221315FA0A52_8705AB55_428C8.jpg" alt="">
+                                <p class="word">【主题教育 整治动态】商学院召开学生工作专题会议</p>
+                                <div class="shade">
+                                    <h4>【主题教育 整治动态】商学院召开学生工作专题会议</h4>
+                                    <span>2019年11月13日</span>
+                                    <p>根据商学院“不忘初心、牢记使命”主题教育整治工作的部署安排，11月12日上午，学院在金鸡岭校区10教403会议室召开学生工作专题会议，阶段性总结学院“三全育人”专项整改和学生社团管理工作整改落实情况。学院党委书记龚义、学院党委副书记龙雪梅以及全体辅导员参加本次会议。会上，龚义书记听取了主题教育期间“三全育人”专项整改和学生社团管理工作整改落实的汇报，并就优化考研教室、“一党一社团共建”、“社团文化日”品...</p>
+                                </div>
+                            </a>
+</li>
+<script>_showDynClickBatch(['dynclicks_u9_1780','dynclicks_u9_1768','dynclicks_u9_1775'],[1780,1768,1775],"wbnews", 1411889542)</script>
+<!--#endeditable--></UL>
+
+</div>
+</div>
+
+<DIV class="m-section3">
+<div class="wp">
+<H2 class="g-title2">学生风采</H2><A class="m-more" href="news/xshd.htm">更多</A>
+<UL class="ul-list4">
+<!--#begineditable name="学生风采" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/tpltitlelist.jsp" tpltype="1" contype="news" clone="" viewid="201053" contentviewid="" tagname="学生风采"--><li class="li1">
+<div class="top">
+<div class="txt">
+<h3><a href="info/1653/1953.htm">桂商学子在行动(三)| 青春“逆行” “疫”往直前</a></h3>
+                                <span>2020年03月12日</span>
+                                <p>“青年兴则国家兴，青年强则国家强！”疫情当前，商学院青年志愿者们用满腔热血和实际行动诠释着当代青年的责任与担当，用自己的青春力量筑起保护家乡人民的坚固防线。今天继续跟随小商人来看看他们的故事吧！桂林电子科技大学商学院2018级会计学专业研究生 吕菲菲吕菲菲，女，学号1805308009，共青团员，桂林电子科技大学商学院2018级会计专业研究生，现担任院研究生会学术部部长和班级干部。当举国上下众志成城抗击肺炎之时，...</p>
+                                <a href="info/1653/1953.htm" class="more">更多</a>
+                                <i class="icon1">&nbsp;</i>
+                            </div>
+                           <a href="info/1653/1953.htm" class="pic" style="background-image:url(/__local/5/AD/59/65E61ED66D4B59344BDAE185FD0_B69B78AF_53767.jpg);"><img src="/__local/5/AD/59/65E61ED66D4B59344BDAE185FD0_B69B78AF_53767.jpg" alt=""></a>
+
+
+<div class="bottom">
+<div class="txt">
+<h3><a href="info/1653/1954.htm">桂商学子在行动(二)| 助力社区疫情防控 筑起防疫青春长城</a></h3>
+                                <span>2020年03月05日</span>
+                                <p>突如其来的疫情打破了往日平静的生活让很多人面临着前所未有的挑战在这场防疫阻击战中有奔赴一线的医护人员有坚守岗位的基层工作者是他们用自己的力量铸就了抗疫的长城而在我们身边也有很多这样的榜样他们用自己的青春和热情奉献社会让我们一起走进身边的小伙伴 听听他们在“抗疫”期间志愿服务的故事吧桂林电子科技大学商学院2018级会计学专业研究生 蒋晴倩蒋晴倩是桂林电子科技大学商学院在读研究生，同时也是商学院研究生第...</p>
+                                <a href="info/1653/1954.htm" class="more">更多</a>
+                                <i class="icon2">&nbsp;</i>
+                            </div>
+                           <a href="info/1653/1954.htm" class="pic" style="background-image:url(/__local/9/22/26/752276384F7C0FF74BA61BCD4D0_32BB7627_4D50F.jpg);"><img src="/__local/9/22/26/752276384F7C0FF74BA61BCD4D0_32BB7627_4D50F.jpg" alt=""></a>
+
+<li class="li2">
+
+<div class="txt">
+<h3><a href="info/1653/1950.htm">桂商学子在行动（一）| 助力社区防疫工作，“战疫”中点亮青春</a></h3>
+                                <span>2020年02月28日</span>
+                                <p>2020年的新年突如其来的新冠疫情打破了往日的宁静   一场没有硝烟的“战争”就这样吹响了号角疫情持续蔓延牵动着无数人的心全国各地的商院学子以实际行动投身疫情防控第一线 助力家乡打赢这场没有硝烟的疫情防控战桂林电子科技大学商学院2019级管理科学与工程专业研究生 余苗余苗是桂林电子科技大学商学院在读研究生，同时也是商学院研究生第四党支部的一名党员。作为一名中国共产党员，当疫情来临时，她积极响应当地政府的号召...</p>
+                                <a href="info/1653/1950.htm" class="more">更多</a>
+                                <i class="icon3">&nbsp;</i>
+                            </div>
+                           <a href="info/1653/1950.htm" class="pic" style="background-image:url(/__local/F/2B/29/90907EAEADD9F843800006BC10D_EB2FB28D_24B1D.jpg);"><img src="/__local/F/2B/29/90907EAEADD9F843800006BC10D_EB2FB28D_24B1D.jpg" alt=""></a>
+</li><script>_showDynClickBatch(['dynclicks_u10_1953','dynclicks_u10_1954','dynclicks_u10_1950'],[1953,1954,1950],"wbnews", 1411889542)</script>
+<!--#endeditable-->
+</UL></div></div><DIV class=" m-section4">
+<DIV class="wp2">
+<DIV class="txt">
+<h3> <span style="color: #ffffff">融理弘商 经世致用</span> </h3> 
+<p>助力广西  链接东盟  彰显特色</p>
+</DIV>
+<DIV class="ul-list6">
+<DIV class="slider">
+<div class="item"> 
+ <div class="con"> 
+  <div class="title fadeIn">
+    教职工
+  </div> 
+  <p class="fadeInDown"><span>110</span>人</p> 
+ </div> 
+</div> 
+<div class="item"> 
+ <div class="con"> 
+  <div class="title fadeIn">
+    具备高级职称 
+  </div> 
+  <p class="fadeInDown"><span>70%</span> </p> 
+ </div> 
+</div> 
+<div class="item"> 
+ <div class="con"> 
+  <div class="title fadeIn">
+    博士学位 
+  </div> 
+  <p class="fadeInDown"><span>33%</span></p> 
+ </div> 
+</div> 
+<div class="item"> 
+ <div class="con"> 
+  <div class="title fadeIn">
+    在校本科学生 
+  </div> 
+  <p class="fadeInDown"><span>2500+</span>人</p> 
+ </div> 
+</div> 
+<div class="item"> 
+ <div class="con"> 
+  <div class="title fadeIn">
+    在校硕士研究生 
+  </div> 
+  <p class="fadeInDown"><span>500+</span>人</p> 
+ </div> 
+</div> 
+<div class="item"> 
+ <div class="con"> 
+  <div class="title fadeIn">
+    校友 
+  </div> 
+  <p class="fadeInDown"><span><a href="#">3000+</a></span>人</p> 
+ </div> 
+</div></DIV></DIV></DIV></DIV>
+
+
+<div class="m-tab-lb">
+            <div class="wp">
+                <ul class="ul-list2">
+    
+                    <li><A href="http://utsc.guet.edu.cn">本科教学服务网</a></li>
+                    <li><A href="https://www.guet.edu.cn/gra">研究生教学服务网</a></li>
+                  <li><A href="https://www.guet.edu.cn/zs/">招生信息网</a></li>                    
+          <li><A href="http://job.guet.edu.cn">毕业生就业网</a></li>
+                    
+                </ul>
+            </div>
+        </div>
+
+
+</div>
+<!----底部----->
+  <!--#begineditable name="底部" action="webber.wbst.com.SpaceStaticAction" layout="/system/_component/space/tplstaticspace.jsp" tpltype="1" contype="" clone="" viewid="166948" contentviewid="" tagname="底部"--><div id="fd">
+<div class="fd-top">
+    <div class="wp">
+        <div class="fd-con">
+            <div class="l-con">
+                <dl>
+                <dt>新闻动态</dt>
+                <dd>
+                <a href="news/tzgg.htm">通知公告</a>
+                <a href="news/xyxw.htm">学院新闻</a>
+                <a href="news/djgz.htm">党建工作</a>
+        <a href="news/xshd.htm">学生活动</a>
+        <a href="news/xshdyg.htm">学术交流</a>
+                </dd>
+                </dl>
+                
+                <dl>
+                <dt>链接</dt>
+                <dd>
+                <a href="http://www.guet.edu.cn">桂林电子科技大学</a>                
+                <a href="http://www.mbacn.edu.cn/" targat="_blank">全国MBA教指委</a>
+                <a href="http://www.mpacc.cn/" target="_blank">全国MBAcc教指委</a>
+                <a href="https://www.guet.edu.cn/mba">MBA教育中心</a>
+                <a href="http://guetw5.fastoa.co">协同办公系统</a>
+                <a href="http://gxsei.gxfwpt.com">广西战略性新兴产业研究基地</a>
+                </dd>
+                </dl>
+                <!---<dl>
+                <dt>新闻动态</dt>
+                <dd>
+                <a href="#">新闻动态</a>
+                <a href="#">新闻动态</a>
+                <a href="#">新闻动态</a>
+                </dd>
+                </dl>---->
+            </div>
+            <div class="r-con">
+                <div class="txt">
+                <p>地址：广西桂林市金鸡路1号桂林电子科技大学金鸡岭校区勤正楼<br />电话：0773-2191500<br />传真：0773-2191501<br />
+纪委监督举报邮箱：sxyjw@guet.edu.cn<br />邮编：541004<br /></p><img src="images/business-educational-alliance-logo.png" />
+                </div>
+            </div>
+        </div>
+    </div>
+  </div>
+    
+  <div class="fd-copy">
+    <div class="wp">
+        <p>&copy; 2019-2020 桂林电子科技大学商学院 版权所有 <img class="footer-logo" src="images/logo-light.png"></p>
+    </div>
+  </div><!--#endeditable-->
+<div>
+<a class="topBtn" href="javascript:void(0);"></a>
+<!----底部结束----> 
+
+<script type="text/javascript" src="js/lib.js"></script></script><link rel="stylesheet" href="css/slick.css"><script src="js/slick.min.js"></script>
+<script>
+    $(document).ready(function() {
+        $('#banner .slider').slick({
+            dots:true,
+            arrows:false,
+            autoplay:true,
+            slidesToShow: 1,
+            autoplaySpeed: 5000,
+            pauseOnHover:false,
+            lazyLoad: 'ondemand'
+        });
+        $('.m-slick1').slick({
+            dots:true,
+            arrows:false,
+            autoplay:false,
+            slidesToShow: 1,
+            autoplaySpeed: 3000,
+            pauseOnHover:false,
+            lazyLoad: 'ondemand'
+        });
+$('.ul-list6 .slider').slick({
+            dots:false,
+            arrows:false,
+            autoplay:true,
+            slidesToShow: 4,
+            slidesToScroll: 4,
+            autoplaySpeed: 6000,
+            pauseOnHover:false,
+            infinite: true,
+            lazyLoad: 'ondemand',
+            responsive: [
+                {
+                    breakpoint: 480,
+                    settings: {
+                    slidesToShow: 2,
+                    slidesToScroll: 2
+                    }
+                },
+            ]
+        });
+
+    });
+
+</script>
+
+</BODY></HTML>

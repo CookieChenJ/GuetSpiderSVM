@@ -1,0 +1,708 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>马克思主义学院</title><META Name="keywords" Content="桂林电子科技大学,马克思主义学院,桂电马克思主义学院" />
+
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <link rel="stylesheet" type="text/css" href="images/1_css.css">
+    <link rel="stylesheet" type="text/css" href="style/sty.css">
+    <style>
+    body{
+    background: url(img/body_bg.jpg) center top no-repeat,#f1f1f1;}
+    </style>
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="index.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1055,'/index.jsp',-1,1411890065)</script>
+</head>
+
+<body>
+<!--顶部logo区域 开始-->
+<table width="1000" border="0" align="center" cellpadding="0" cellspacing="0">
+    <tbody>
+        <tr>
+            <td width="610" height="110" valign="center">
+                <img src="img/logo.png" />
+            </td>
+            <td height="110" valign="top" align="right">
+            <table cellpadding="0" cellspacing="0" style="margin-top:35px;">
+                <tr>
+                <td width="20" style="background: url(img/themes-icon-d.png) no-repeat left -44px;">
+                </td>
+                    <td height="25" style="line-height:25px;font-size:12px;background:url(img/themes-icon-d.png) no-repeat right -44px;padding-right:20px;">
+                    <a href="index.htm" target="_self" style="color:#fff;">首页</a>
+                    <a href="javascript:void(0);" style="color:#fff;margin:0 10px;">关于我们</a>
+                    <a href="http://mwb.guet.edu.cn/system/login.jsp" target="_blank" style="color:#fff;">登录</a>
+                    </td>
+                </tr>
+            </table>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<!--顶部logo区域 结束-->
+<!--导航 开始-->
+<table width="1000" border="0" align="center" cellpadding="0" cellspacing="0">
+    <tbody>
+        <tr>
+            <td width="100%" height="40" valign="center" bgcolor="#7d0101"><!--#begineditable name="网站导航" action="webber.wbst.com.util.SitelinkAction" layout="/system/_component/sitenav/vnav.jsp" tpltype="0" contype="" clone="" viewid="161811" contentviewid="" tagname="网站导航"--><style type="text/css">
+td.b1_0_{FONT-SIZE:9pt;}
+td.b2_0_{FONT-SIZE:9pt;background-size: initial;background-origin: initial;background-clip: initial;background-image: url(img/themes-icon-c.png);background-position-y: 0%;background-repeat: repeat-x;}
+td.b3_0_{FONT-SIZE:9pt;text-align: center;height: 40px;line-height: 40px;background-color: #7d0101;padding-left: 15px;padding-right: 15px;border-bottom: 1px solid #cccccc;}
+td.b4_0_{FONT-SIZE:9pt;text-align: center;height: 40px;line-height: 40px;background-color: #7d0101;padding-left: 15px;padding-right: 15px;border-bottom: 1px solid #cccccc;}
+a.menu0_0_:link {TEXT-DECORATION: none;};
+a.menu0_0_:visited { TEXT-DECORATION: none;};
+a.menu0_0_:hover {TEXT-DECORATION: none;};
+a.menu0_0_:active {TEXT-DECORATION: none;};
+table.tb1_0_{FONT-SIZE:9pt;border:0;}
+span.s1_0_{line-height: 38px;color: #ffffff;font-size: 16px;text-decoration: none;padding-left: 12px;padding-right: 12px;}
+span.s2_0_{line-height: 200%;color: #ffffff;font-size: 16px;text-decoration: none;text-align: center;}
+span.s10_0_{line-height: 38px;color: #ffffff;font-size: 16px;text-decoration: none;padding-left: 12px;padding-right: 12px;}
+span.s20_0_{line-height: 200%;color: #ffffff;font-size: 16px;text-decoration: none;text-align: center;}
+</style>
+<SCRIPT language="javascript"> 
+ var showfix_0_ = 1;
+ var isvertical_0_ = false;
+</SCRIPT>
+<script language="javascript" src="/system/resource/js/menu/text.js"></script>
+<TABLE id="t1_0_" cellSpacing="0" cellPadding="0" border="0" height="0" width="0"><TR><TD valign="center"></TD><TD valign="middle" height="0" width="0" nowrap class="b1_0_" align="center" id="a_0_1085" onmouseover="tshowLayers('1085','b2_0_', '_0_')" onmouseout="thideLayers('1085','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="index.htm"><span class="fontstyle161811">&nbsp;首页&nbsp;</span></a></TD><TD valign="center"></TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1086" onmouseover="tshowLayers('1086','b2_0_', '_0_')" onmouseout="thideLayers('1086','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1044"><span class="fontstyle161811">&nbsp;学院概况&nbsp;</span></a></TD><TD valign="center"></TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1087" onmouseover="tshowLayers('1087','b2_0_', '_0_')" onmouseout="thideLayers('1087','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="xysz.htm"><span class="fontstyle161811">&nbsp;学院师资&nbsp;</span></a></TD><TD valign="center"></TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1095" onmouseover="tshowLayers('1095','b2_0_', '_0_')" onmouseout="thideLayers('1095','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="#"><span class="fontstyle161811">&nbsp;本科教学&nbsp;</span></a></TD><TD valign="center"></TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1088" onmouseover="tshowLayers('1088','b2_0_', '_0_')" onmouseout="thideLayers('1088','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1047"><span class="fontstyle161811">&nbsp;研究生工作&nbsp;</span></a></TD><TD valign="center"></TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1089" onmouseover="tshowLayers('1089','b2_0_', '_0_')" onmouseout="thideLayers('1089','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1048"><span class="fontstyle161811">&nbsp;学科学术&nbsp;</span></a></TD><TD valign="center"></TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1090" onmouseover="tshowLayers('1090','b2_0_', '_0_')" onmouseout="thideLayers('1090','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1049"><span class="fontstyle161811">&nbsp;党建工作&nbsp;</span></a></TD><TD valign="center"></TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1091" onmouseover="tshowLayers('1091','b2_0_', '_0_')" onmouseout="thideLayers('1091','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1050"><span class="fontstyle161811">&nbsp;资料文件下载&nbsp;</span></a></TD><TD valign="center"></TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1092" onmouseover="tshowLayers('1092','b2_0_', '_0_')" onmouseout="thideLayers('1092','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="lxfs.htm"><span class="fontstyle161811">&nbsp;联系方式&nbsp;</span></a></TD><TD valign="center"></TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1093" onmouseover="tshowLayers('1093','b2_0_', '_0_')" onmouseout="thideLayers('1093','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1051"><span class="fontstyle161811">&nbsp;人才引进&nbsp;</span></a></TD></TR></TR><TR><td align="left" nowrap></td><td></td><td align="left" nowrap></td><td></td><td align="left" nowrap></td><td></td><td align="left" nowrap><DIV class="main_0_" id="layer_0_1095" onmouseover="tshownull('1095','b2_0_', '_0_')" onmouseout="thideLayers('1095','b1_0_', '_0_','true')" style="z-index:99999;display: none; POSITION: absolute;"><TABLE align="center" class="tb1_0_" cellSpacing="0" cellPadding="0" border="0"><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_0_', '_0_');" onmouseout="TOUT(this,'b3_0_', '_0_');" class="b3_0_">
+<A class="menu0_0_" href="bkjx_list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1104"><span class="ejfontstyle161811">&nbsp;教研室工作&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_0_', '_0_');" onmouseout="TOUT(this,'b3_0_', '_0_');" class="b3_0_">
+<A class="menu0_0_" href="bkjx_list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1105"><span class="ejfontstyle161811">&nbsp;教学资源&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_0_', '_0_');" onmouseout="TOUT(this,'b3_0_', '_0_');" class="b3_0_">
+<A class="menu0_0_" href="bkjx_list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1106"><span class="ejfontstyle161811">&nbsp;常用下载&nbsp;</span></a></TD></tr></table></div></td><td></td><td align="left" nowrap></td><td></td><td align="left" nowrap></td><td></td><td align="left" nowrap></td><td></td><td align="left" nowrap></td><td></td><td align="left" nowrap></td><td></td><td align="left" nowrap></td><td></td></TR></table><!--#endeditable--></td>
+        </tr>
+    </tbody>
+</table>
+<!--导航 结束-->
+<!--公告及搜索 开始-->
+<table width="1000" border="0" align="center" cellpadding="0" cellspacing="0">
+    <tbody>
+        <tr>
+        <td width="70" height="45" style="padding-left:25px;background: url(img/icon-voice.png) no-repeat left center;font-size:12px;color:#595959;line-height:45px;">通知公告：</td>
+            <td width="730" height="45" valign="center"><!--#begineditable name="网站公告" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/affichenews.jsp" tpltype="0" contype="news" clone="" viewid="161867" contentviewid="" tagname="网站公告"-->
+<div id="c161867">
+  <ul id="scrollUljsu1js">
+    <li><span class="leaderfont161867">&nbsp;</span><span><a href="info/1053/1549.htm" title="学院纪委信箱" target="_blank"><span class="titlestyle161867">学院纪委信箱</span></a>&nbsp;</span><span>&nbsp;</span><span></span></li><li><span class="leaderfont161867">&nbsp;</span><span><a href="info/1053/2173.htm" title="【疫情防控】关于实行广西健康码亮码出行制度的通告" target="_blank"><span class="titlestyle161867">【疫情防控】关于实行广西健康码亮码出行制度的通告</span></a>&nbsp;</span><span>&nbsp;</span><span></span></li><li><span class="leaderfont161867">&nbsp;</span><span><a href="info/1053/2163.htm" title="【疫情防控】关于启用数字防疫系统的通知" target="_blank"><span class="titlestyle161867">【疫情防控】关于启用数字防疫系统的通知</span></a>&nbsp;</span><span>&nbsp;</span><span></span></li><li><span class="leaderfont161867">&nbsp;</span><span><a href="info/1053/2157.htm" title="【疫情防控】关于实行扫码出入制度的通告" target="_blank"><span class="titlestyle161867">【疫情防控】关于实行扫码出入制度的通告</span></a>&nbsp;</span><span>&nbsp;</span><span></span></li><li><span class="leaderfont161867">&nbsp;</span><span><a href="info/1053/2151.htm" title="【疫情防控】桂林电子科技大学疫情防控工作领导小组通告（第5号）" target="_blank"><span class="titlestyle161867">【疫情防控】桂林电子科技大学疫情防控工作领导小组通告（第5...</span></a>&nbsp;</span><span>&nbsp;</span><span></span></li>
+  </ul>
+ </div>
+ 
+<script language="javascript" src="/system/resource/js/news/affichenew.js"></script>
+<script language="javascript" type="text/javascript">
+function affichejsu1js(){
+  new afficheMarquee(
+    "scrollUljsu1js",  //容器ID<br />
+    18,
+    3000
+    );
+  };
+  affichejsu1js();
+</script>
+<!--#endeditable--></td>
+            <td width="200" height="45" valign="center" align="right"><!--#begineditable name="搜索" action="webber.wbst.com.SpaceStaticAction" layout="/system/_component/news/newslucenesearch.jsp" tpltype="0" contype="" clone="" viewid="161832" contentviewid="" tagname="搜索"--><script language="javascript" src="/system/resource/js/base64.js"></script> 
+<script language="javascript" src="/system/resource/js/formfunc.js"></script> 
+<script type="text/javascript">
+function checksearch161832(type){
+        var keyword = document.getElementById('showkeycode161832').value;
+        if(keyword==null||keyword==""){
+            alert("请输入你要检索的内容！");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkeyword161832").value = Simplized(keyword );
+        }else
+        {
+        	document.getElementById("lucenenewssearchkeyword161832").value = keyword;            
+        }
+        document.getElementById('_lucenesearchtype161832').value=1;
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkeyword161832").value = base64.encode(document.getElementById("lucenenewssearchkeyword161832").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode161832"));
+        return true;
+    } 
+
+</script>
+<form action="search.jsp?wbtreeid=1055" method="post" id="searchform161832" name="searchform161832" onsubmit="return checksearch161832(1)" target="_blank" style="display: inline">
+  <input type="hidden" id="lucenenewssearchkeyword161832" name="lucenenewssearchkeyword" value="">
+  <input type="hidden" id="_lucenesearchtype161832" name="_lucenesearchtype" value="">
+  <input type="hidden" id="searchScope" name="searchScope" value="0">
+ <table class="searchstyle161832" width="100%" align="center" border="0" cellspacing="0" cellpadding="3">
+  <tr>
+   <td><span></span></td><td align="right" width="1%" nowrap><input name="showkeycode" id="showkeycode161832" class="querystyle161832"></td>
+                 <td align="left">
+                
+    <input type="image" src="img/icon-search.png" align="absmiddle" style="cursor: hand">
+    
+   </td>
+  </tr>
+ </table>
+</form><!--#endeditable--></td>
+        </tr>
+    </tbody>
+</table>
+<!--公告及搜索 结束-->
+<!--栏目第1行 开始-->
+<table width="1000" border="0" align="center" cellpadding="0" cellspacing="0" style="background: url(img/themes-icon-c.png) repeat-x left -72px;border:1px solid #e7e7e7;margin-bottom:10px;">
+    <tbody>
+        <tr>
+            <td width="725" height="275" valign="top">
+                <table cellpadding="0" cellspacing="0">
+                    <tbody>
+                        <tr style="background: url(img/themes-icon-c.png) repeat-x center -501px;">
+                            <td width="675" valign="center" style="background: url(img/themes-icon-a.png) no-repeat left 7px;"></td>
+                            <td width="50" height="30" valign="center" style="background: url(img/themes-icon-a.png) no-repeat left -510px;"><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1052" target="_blank" style="display:block;width:50px;height:30px;"></a><td>
+                        </tr>
+                    </tbody>
+                </table>
+                <table cellpadding="0" cellspacing="0">
+                    <tbody>
+                        <tr>
+                            <td width="290" height="230" valign="top" style="padding:10px 5px 5px 5px;"><!--#begineditable name="网站公告" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/imagechangenews.jsp" tpltype="0" contype="news" clone="" viewid="161825" contentviewid="" tagname="网站公告"-->
+<LINK href="/system/resource/style/component/news/list/imagechangenews.css" type="text/css" rel="stylesheet">
+<script language="javascript" src="/system/resource/js/news/imagechangenews.js"></script><script language="JavaScript">
+var u_u3_icn = new ImageChangeNews("u_u3_", 290, 200, 4, 2.0, true, false, false, true);
+
+//初始化图片, 并启动定时
+function u_u3_init_img()
+{
+
+    u_u3_icn.addimg("\/__local\/B\/22\/7C\/F8B5BCF7B0BF9824B5652F360A4_28C5C1F0_A265.jpg", "info\/1052\/1592.htm", "我校全体思政课教师参加全国高校思想政...", "");
+
+    u_u3_icn.addimg("\/__local\/D\/3E\/C1\/1C79A7F9066720236D42BEAF888_0A4552A5_9912.jpg", "info\/1052\/1532.htm", "苏国辉老师参加第二届世界马克思主义大会", "");
+
+    u_u3_icn.addimg("\/__local\/3\/06\/68\/2B1BD801A06E53B9F4EDF056EAF_5943BF45_9825.png", "info\/1052\/1028.htm", "学校党委书记张学洪到我院调研", "");
+
+    u_u3_icn.addimg("\/__local\/D\/7A\/13\/05D0F6F429E42631176137A0D02_A9CC7982_A180.png", "info\/1052\/1029.htm", "东北师范大学马克思主义学部到我院交流工作", "");
+
+    u_u3_icn.addimg("\/__local\/0\/93\/54\/A29FCB9AC7C1A36EDC9B898EC43_BF36AB24_801D.png", "info\/1052\/1030.htm", "马克思主义理论宣讲团进行集体备课", "");
+
+    u_u3_icn.addimg("\/__local\/2\/5F\/11\/45C8E1604C63E40CC99AADE505F_8EC94FFA_A6EC.png", "info\/1052\/1031.htm", "学院召开学习十九大报告理论研讨会", "");
+
+    u_u3_icn.changeimg(0);
+}
+</script><table cellspacing="0" cellpadding="0" border="0" style="padding:0px margin:0px; border:0px">
+    <tr><td>
+        <div style="OVERFLOW: hidden;height:200px;width:290px">
+            <div id="u_u3_div" align="center" style="padding:0px;margin:0px;border:0px solid black;background-color:#a00c00;FILTER: progid:DXImageTransform.Microsoft.RevealTrans (duration=2.0,transition=23);height:200px;width:290px">
+                <div id="u_u3_imgdiv" style="padding:0px;border:0px;"><a id="u_u3_url" target="_blank"><img id="u_u3_pic" border="0" width="290" height="200" src="/system/resource/images/space.gif"></a></div>
+            </div>
+            <div style="filter:alpha(style=1,opacity=10,finishOpacity=80);width:290px;height:19px;text-align:right;top:-19px;position:relative;padding:0px;margin:0px;border:0px;">
+<a href="javascript:u_u3_icn.changeimg(0)" ; id="u_u3_selectNode0" class="imagechangenews_pnode" target="_self">1</a><a href="javascript:u_u3_icn.changeimg(1)" ; id="u_u3_selectNode1" class="imagechangenews_pnode" target="_self">2</a><a href="javascript:u_u3_icn.changeimg(2)" ; id="u_u3_selectNode2" class="imagechangenews_pnode" target="_self">3</a><a href="javascript:u_u3_icn.changeimg(3)" ; id="u_u3_selectNode3" class="imagechangenews_pnode" target="_self">4</a><a href="javascript:u_u3_icn.changeimg(4)" ; id="u_u3_selectNode4" class="imagechangenews_pnode" target="_self">5</a><a href="javascript:u_u3_icn.changeimg(5)" ; id="u_u3_selectNode5" class="imagechangenews_pnode" target="_self">6</a>
+            </div></div></td></tr>
+       
+    <tr><td height="30">
+        <div align="center" style="overflow:hidden;text-overflow:ellipsis;height:30px;width:290px;"><a target="_blank" class="titlestyle161825" id="u_u3_newstitle"></a></div>
+    </td></tr>
+<div align="left" display="none" style="overflow:hidden;text-overflow:ellipsis;height:0px;width:290px;padding-left:2px;padding-right:2px"><a target="_blank" class="summarystyle161825" id="u_u3_newssummary"></a></div>   
+</table><SCRIPT language="JavaScript">u_u3_init_img();</SCRIPT><!--#endeditable--></td>
+                            <td width="435" valign="top" style="padding:5px;"><!--#begineditable name="学院要闻文字列表" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/titlelist.jsp" tpltype="0" contype="news" clone="" viewid="161826" contentviewid="" tagname="学院要闻文字列表"--><table width="100%" cellspacing="3" cellpadding="0">
+  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont161826"><img src="img/list-style1.png" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1052/2201.htm" class="c161826" title="马克思主义学院召开全体教职工网络会议" target="_blank">
+        马克思主义学院召开全体教职工网络会议
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle161826" width="1%" nowrap>2020/03/19</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont161826"><img src="img/list-style1.png" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1052/2172.htm" class="c161826" title="【疫情防控】将疫情防控融入课堂，践行立德树人初心（图）" target="_blank">
+        【疫情防控】将疫情防控融入课堂，践行...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle161826" width="1%" nowrap>2020/03/15</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont161826"><img src="img/list-style1.png" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1052/2166.htm" class="c161826" title="【疫情防控】我校组织学生收看“全国大学生同上一堂疫情防控思政大课”(图）" target="_blank">
+        【疫情防控】我校组织学生收看“全国大...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle161826" width="1%" nowrap>2020/03/11</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont161826"><img src="img/list-style1.png" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1052/2165.htm" class="c161826" title="【疫情防控】马克思主义学院“思政小课堂”传递战疫正能量" target="_blank">
+        【疫情防控】马克思主义学院“思政小课...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle161826" width="1%" nowrap>2020/03/03</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont161826"><img src="img/list-style1.png" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1052/2164.htm" class="c161826" title="【疫情防控】教书育人是教师最神圣的职责——给全体教师的一封信" target="_blank">
+        【疫情防控】教书育人是教师最神圣的职...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle161826" width="1%" nowrap>2020/02/27</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont161826"><img src="img/list-style1.png" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1052/2162.htm" class="c161826" title="【疫情防控】马院将疫情防控融入网络思政课" target="_blank">
+        【疫情防控】马院将疫情防控融入网络思政课
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle161826" width="1%" nowrap>2020/02/25</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont161826"><img src="img/list-style1.png" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1052/2155.htm" class="c161826" title="【疫情防控】马克思主义学院部署疫情防控及新学期各项工作" target="_blank">
+        【疫情防控】马克思主义学院部署疫情防...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle161826" width="1%" nowrap>2020/02/19</td></tr>
+</table><!--#endeditable--></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+            <td width="15" cellpadding="0"></td>
+            <td width="260" height="45" valign="top" align="right" cellpadding="0">
+                <table cellpadding="0" cellspacing="0">
+                    <tbody>
+                        <tr style="background: url(img/themes-icon-c.png) repeat-x center -501px;">
+                            <td width="210" height="30" valign="center" style="background: url(img/themes-icon-a.png) no-repeat left -23px;"></td>
+                            <td width="50" valign="center" style="background: url(img/themes-icon-a.png) no-repeat left -510px;"><a target="_blank" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1053" style="display:block;width:50px;height:30px;"></a><td>
+                        </tr>
+                    </tbody>
+                </table>
+                <table cellpadding="0" cellspacing="0">
+                    <tbody>
+                        <tr>
+                            <td width="260" height="230" valign="top" style="padding:5px;"><!--#begineditable name="通知公告" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/titlelist.jsp" tpltype="0" contype="news" clone="" viewid="161827" contentviewid="" tagname="通知公告"--><table width="100%" cellspacing="3" cellpadding="0">
+  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont161827"><img src="img/list-style2.png" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1053/1549.htm" class="c161827" title="学院纪委信箱" target="_blank">
+        学院纪委信箱
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle161827" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont161827"><img src="img/list-style2.png" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1053/2173.htm" class="c161827" title="【疫情防控】关于实行广西健康码亮码出行制度的通告" target="_blank">
+        【疫情防控】关于实行广西健康码亮...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle161827" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont161827"><img src="img/list-style2.png" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1053/2163.htm" class="c161827" title="【疫情防控】关于启用数字防疫系统的通知" target="_blank">
+        【疫情防控】关于启用数字防疫系统...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle161827" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont161827"><img src="img/list-style2.png" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1053/2157.htm" class="c161827" title="【疫情防控】关于实行扫码出入制度的通告" target="_blank">
+        【疫情防控】关于实行扫码出入制度...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle161827" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont161827"><img src="img/list-style2.png" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1053/2151.htm" class="c161827" title="【疫情防控】桂林电子科技大学疫情防控工作领导小组通告（第5号）" target="_blank">
+        【疫情防控】桂林电子科技大学疫情...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle161827" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont161827"><img src="img/list-style2.png" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1053/2150.htm" class="c161827" title="【疫情防控】桂林电子科技大学疫情防控工作领导小组通告（第4号）" target="_blank">
+        【疫情防控】桂林电子科技大学疫情...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle161827" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont161827"><img src="img/list-style2.png" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1053/2149.htm" class="c161827" title="【疫情防控】桂林电子科技大学疫情防控工作领导小组通告（第3号）" target="_blank">
+        【疫情防控】桂林电子科技大学疫情...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle161827" width="1%" nowrap></td></tr>
+</table><!--#endeditable--></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<!--栏目第1行 结束-->
+<!--栏目第2行 开始-->
+<table width="1000" border="0" align="center" cellpadding="0" cellspacing="0" style="background: url(img/themes-icon-c.png) repeat-x left -72px;border:1px solid #e7e7e7;margin-bottom:10px;">
+    <tbody>
+        <tr>
+            <td width="330" height="255" valign="top">
+                <table width="100%" cellpadding="0" cellspacing="0">
+                    <tbody>
+                        <tr style="background:url(img/themes-icon-c.png) repeat-x left -450px;">
+                            <td width="283" height="30" style="padding-left:10px;">学院快讯<td>
+                            <td width="50" style="background: url(img/themes-icon-a.png) no-repeat -160px -510px;"><a target="_blank" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1054" style="display:block;width:50px;height:30px;"></a><td>
+                        </tr>
+                    </tbody>
+                </table>
+                <table width="100%" cellpadding="0" cellspacing="0">
+                    <tbody>
+                        <tr>
+                        <td>
+                            <!--#begineditable name="学院快讯" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/titlelist.jsp" tpltype="0" contype="news" clone="" viewid="161828" contentviewid="" tagname="学院快讯"--><table class="winstyle161828" width="100%" cellspacing="3" cellpadding="0">
+  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont161828"><img src="img/list-style2.png" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1054/2217.htm" class="c161828" title="中国近现代史纲要教研室召开线上线下教学衔接工作会议" target="_blank">
+        中国近现代史纲要教研室召开线上线...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle161828" width="1%" nowrap>2020/04/09</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont161828"><img src="img/list-style2.png" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1054/2215.htm" class="c161828" title="教研室里的年轻人" target="_blank">
+        教研室里的年轻人
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle161828" width="1%" nowrap>2020/04/07</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont161828"><img src="img/list-style2.png" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1054/2214.htm" class="c161828" title="我院教师参加“新中国成立70周年与中国特色社会主义”学术研讨会" target="_blank">
+        我院教师参加“新中国成立70周年与...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle161828" width="1%" nowrap>2020/04/07</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont161828"><img src="img/list-style2.png" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1054/2133.htm" class="c161828" title="我院教师参加第十二届全国“毛泽东论坛”" target="_blank">
+        我院教师参加第十二届全国“毛泽东...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle161828" width="1%" nowrap>2019/12/27</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont161828"><img src="img/list-style2.png" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1054/2122.htm" class="c161828" title="“人类命运共同体与当代中国马克思主义”国际学术研讨会召开" target="_blank">
+        “人类命运共同体与当代中国马克思...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle161828" width="1%" nowrap>2019/12/19</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont161828"><img src="img/list-style2.png" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1054/2111.htm" class="c161828" title="马克思主义学院开展心理素质拓展训练融入思政课实践教学活动" target="_blank">
+        马克思主义学院开展心理素质拓展训...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle161828" width="1%" nowrap>2019/12/12</td></tr>
+</table><!--#endeditable--></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+            <td width="10" valign="top"><p style="height:30px;background:url(img/themes-icon-c.png) repeat-x left -450px;"></p></td>
+            <td width="330" height="255" valign="top">
+                <table width="100%" cellpadding="0" cellspacing="0">
+                    <tbody>
+                        <tr style="background:url(img/themes-icon-c.png) repeat-x left -450px;">
+                            <td width="283" height="30" style="padding-left:10px;">党建工作<td>
+                            <td width="50" style="background: url(img/themes-icon-a.png) no-repeat -160px -510px;"><a target="_blank" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1049" style="display:block;width:50px;height:30px;"></a><td>
+                        </tr>
+                    </tbody>
+                </table>
+                <table width="100%" cellpadding="0" cellspacing="0">
+                    <tbody>
+                        <tr>
+                            <td valign="top" width="320" height="200"><!--#begineditable name="党建工作" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/titlelist.jsp" tpltype="0" contype="news" clone="" viewid="161829" contentviewid="" tagname="党建工作"--><table class="winstyle161829" width="100%" cellspacing="3" cellpadding="0">
+  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont161829"><img src="img/list-style2.png" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1049/2102.htm" class="c161829" title="【不忘初心、牢记使命】马克思主义学院党委召开主题教育推进会" target="_blank">
+        【不忘初心、牢记使命】马克...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle161829" width="1%" nowrap>2019/11/28</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont161829"><img src="img/list-style2.png" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1049/2101.htm" class="c161829" title="【不忘初心、牢记使命】马克思主义学院党委理论中心组召开“六破六立”专题学习研讨会" target="_blank">
+        【不忘初心、牢记使命】马克...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle161829" width="1%" nowrap>2019/11/28</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont161829"><img src="img/list-style2.png" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1049/2100.htm" class="c161829" title="马克思主义学院开展十九届四中全会精神集体备课" target="_blank">
+        马克思主义学院开展十九届四...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle161829" width="1%" nowrap>2019/11/28</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont161829"><img src="img/list-style2.png" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1049/2094.htm" class="c161829" title="【不忘初心、牢记使命】马克思主义学院开展警示教育活动" target="_blank">
+        【不忘初心、牢记使命】马克...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle161829" width="1%" nowrap>2019/11/20</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont161829"><img src="img/list-style2.png" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1049/2096.htm" class="c161829" title="马克思主义学院召开全面从严治党暨党风廉政建设专题研讨会议" target="_blank">
+        马克思主义学院召开全面从严...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle161829" width="1%" nowrap>2019/11/20</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont161829"><img src="img/list-style2.png" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1049/2095.htm" class="c161829" title="【不忘初心、牢记使命】马克思主义学院召开党委扩大会议专题学习十九届四中全会精神" target="_blank">
+        【不忘初心、牢记使命】马克...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle161829" width="1%" nowrap>2019/11/20</td></tr>
+</table><!--#endeditable--></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+            <td width="10" valign="top"><p style="height:30px;background:url(img/themes-icon-c.png) repeat-x left -450px;"></p></td>
+            <td width="320" height="255" valign="top">
+                <table width="100%" cellpadding="0" cellspacing="0">
+                    <tbody>
+                        <tr style="background: url(img/themes-icon-c.png) repeat-x center -600px;">
+                            <td width="320" height="32" style="background:url(img/lan_sbj_53.png) no-repeat;"><td>
+                        </tr>
+                    </tbody>
+                </table>
+                <table width="100%" cellpadding="3" cellspacing="0" style="margin-top:5px;">
+                    <tbody>
+                        <tr>
+                            <td width="320" height="48">
+                                <a href="javascript:void(0);"><img src="img/btn_sbj1_63.jpg" /><a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td width="320" height="48">
+                                <a href="javascript:void(0);"><img src="img/btn_sbj2_67.jpg" /><a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td width="320" height="48">
+                                <a href="http://jcyk.myclub2.com/" target="_blank"><img src="img/btn_sbj3_69.jpg" /><a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td width="320" height="48">
+                                <a href="http://shangbao.myclub2.com" target="_blank"><img src="img/btn_sbj4_71.jpg" /><a>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<!--栏目第2行 结束-->
+<!--友情链接 开始-->
+<table width="1000" border="0" align="center" cellpadding="0" cellspacing="0" style="border:1px solid #e7e7e7;margin-bottom:10px;">
+    <tbody>
+        <tr>
+            <td width="100%" height="50" valign="top">
+                <table width="100%" cellpadding="0" cellspacing="0">
+                    <tbody>
+                        <tr style="background: url(img/themes-icon-c.png) repeat-x center -501px;">
+                            <td height="30" style="background: url(img/themes-icon-a.png) no-repeat left -55px;"><td>
+                        </tr>
+                    </tbody>
+                </table>
+                <table width="100%" cellpadding="0" cellspacing="0">
+                    <tbody>
+                        <tr>
+                        <td height="50"><!--#begineditable name="友情链接" action="webber.wbst.com.url.ColumnUrl" layout="/system/_component/columnurl/linkguide.jsp" tpltype="0" contype="url" clone="" viewid="161830" contentviewid="" tagname="友情链接"-->
+
+
+
+<script language="javascript" src="/system/resource/js/dynclicks.js"></script>
+<table class="winstyle161830"><tr>
+        
+        <td>
+            <A class="c161830" HREF="http://data.people.com.cn/rmyq" onclick="_addDynClicks('wburl',1411890065,28592)" target="_blank">
+            	 人民舆情 
+            </A>
+             
+        </td>
+            <td class="leaderstyle161830"></td>
+        
+        <td>
+            <A class="c161830" HREF="http://data.people.com.cn/pd/zywx" onclick="_addDynClicks('wburl',1411890065,28593)" target="_blank">
+            	 人民数据中国共产党重要文献 
+            </A>
+             
+        </td>
+            </tr>
+</table><!--#endeditable--></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<!--友情链接 结束-->
+<!--版权 开始-->
+<table width="1000" border="0" align="center" cellpadding="0" cellspacing="0" style="border:1px solid #e7e7e7;margin-bottom:10px;">
+    <tbody>
+        <tr>
+            <td width="100%" height="61" valign="center" style="background: url(img/themes-icon-c.png) repeat-x left -370px;">
+                <p style="text-align:center;color:#fff;font-size:12px;">2018 ©马克思主义学院版权所有 广西高校思想政治教育信息化研究中心技术支持 电话：0773-2310263</p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<!--版权 结束-->
+</body> 
+</html> 

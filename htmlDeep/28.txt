@@ -1,0 +1,980 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>不忘初心，牢记使命-桂林电子科技大学北海校区</title><META Name="keywords" Content="桂林电子科技大学北海校区,北海校区,桂林电子科技大学北海校区" />
+
+
+<meta name="description" content="" />
+<link href="skin/css/bootstrap.min.css" type="text/css" rel="stylesheet" />
+<link href="skin/css/style.css" type="text/css" rel="stylesheet" />
+<script type="text/javascript" src="skin/js/jquery.min.js"></script>
+<script type="text/javascript" src="skin/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="skin/js/touchslide.1.1.js"></script>
+<script type="text/javascript" src="skin/js/common.js"></script>
+<!--[if (gt IE 9)|!(IE)]><!-->
+<link href="skin/css/animate.min.css" type="text/css" rel="stylesheet" />
+<script type="text/javascript" src="skin/js/wow.min.js"></script>
+<!--<![endif]-->
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="bwcx_list.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1211,'/bwcx_list.jsp',-1,1411857808)</script>
+</head>
+<body>
+<!--头部开始--> 
+<header id="header">
+  <div class="container">
+    <div id="logo"><a href="" title="桂林电子科技大学北海校区"><img src="skin/images/logo.png" alt="桂林电子科技大学北海校区" /></a></div>
+    <div id="header_right">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+      <div class="language"> 
+        <ul>
+          <li><a href="http://192.168.4.213/" target="_blank">【校区智慧校园】</a></li>
+          <li><a href="http://icampus.guet.edu.cn/login.aspx" target="_blank">【本部智慧校园】</a></li>
+        </ul>
+      </div>
+      <div class="clear"></div>
+      <div id="search" class="wow bounceInDown" style="width: 225px;"><!--#begineditable name="全文检索" action="" layout="" tpltype="" contype="" clone="" viewid="201021" contentviewid="" tagname="全文检索"--><script type="text/javascript">
+    function _nl_ys_check(){
+        
+        var keyword = document.getElementById('showkeycode201021').value;
+        if(keyword==null||keyword==""){
+            alert("请输入你要检索的内容！");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkeyword201021").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkeyword201021").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkeyword201021").value = base64.encode(document.getElementById("lucenenewssearchkeyword201021").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode201021"));
+        return true;
+    } 
+</script>
+<form action="search.jsp?wbtreeid=1211" method="post" id="au0a" name="au0a" onsubmit="return _nl_ys_check()" style="display: inline">
+         <input type="hidden" id="lucenenewssearchkeyword201021" name="lucenenewssearchkeyword" value=""><input type="hidden" id="_lucenesearchtype201021" name="_lucenesearchtype" value="1"><input type="hidden" id="searchScope201021" name="searchScope" value="0">
+         <input type="hidden" name="kwtype" value="0" />
+         <input type="text" name="showkeycode" id="showkeycode201021" placeholder="search" class="skw" size="12" onfocus="javascript:clearsearch(this);" onblur="javascript:redosearch(this);" />
+         <input name="submit" type="submit" class="sub" value="" />
+</form>
+
+
+
+<script language="javascript" src="/system/resource/js/base64.js"></script><script language="javascript" src="/system/resource/js/formfunc.js"></script>
+<!--#endeditable--></div>
+    </div>
+    <div class="clear"></div>
+    <div class="row mobile_nav">
+      <nav class="collapse navbar-collapse"><!--#begineditable name="网站导航2" action="" layout="" tpltype="" contype="" clone="" viewid="200950" contentviewid="" tagname="网站导航2"--><ul>
+              <li class="first_menu"><a class="current" href="index.htm">首页</a></li>
+            <li><a class="" href="xqgk/xqjj.htm">校区概况</a>
+            </li>
+            <li><a class="" href="jgsz/gljigou.htm">机构设置</a>
+            </li>
+            <li><a class="" href="djgz.htm">党建工作</a>
+            </li>
+            <li><a class="" href="rcpy/bkjy.htm">人才培养</a>
+            </li>
+            <li><a class="" href="kxyanjiu.htm">科学研究</a>
+            </li>
+            <li><a class="" href="xgtw/xsgongzuo.htm">学工团委</a>
+            </li>
+            <li><a class="" href="https://www.guet.edu.cn/bh_zs/">招生就业</a>
+            </li>
+            <li><a class="" href="jxjy.htm">继续教育</a>
+            </li>
+            <li><a class="" href="cpyc.htm">诚聘英才</a>
+            </li>
+            <li><a class="" href="gjjy.htm">国际教育</a>
+            </li>
+            <li><a class="" href="xyVR.htm">校园VR</a>
+            </li>
+            <li><a class="" href="zlxz.htm">资料下载</a>
+            </li>
+          <!--<li><a href='/' ><img src='/skin/images/cn.jpg' /></a></li>
+          <li><a href='/en/'><img src='/skin/images/en.jpg' /></a></li>-->
+          <div class="search_m">
+            <form name="formsearch" action="plus/search.php">
+              <input type="hidden" name="kwtype" value="0">
+              <input name="q" placeholder="search" class="skw" size="12" onfocus="javascript:clearsearch(this);" onblur="javascript:redosearch(this);">
+              <input name="submit" type="submit" class="sub" value="">
+            </form>
+          </div>
+        </ul><!--#endeditable--></nav>
+    </div>
+  </div>
+</header>
+<div class="clear"></div>
+<nav id="navigate">
+  <div class="container"><!--#begineditable name="网站导航1" action="" layout="" tpltype="" contype="" clone="" viewid="200948" contentviewid="" tagname="网站导航1"--><ul>
+                <li class="first_menu"><a class="current" href="index.htm">首页</a></li>
+            <li><a class="" href="xqgk/xqjj.htm">校区概况</a>
+                    <ul>
+                            <li><a href="xqgk/xqjj.htm" title="校区简介">校区简介</a></li>
+                            <li><a href="xqgk/xqld.htm" title="校区领导">校区领导</a></li>
+                            <li><a href="xqgk/xyfg.htm" title="校园风光">校园风光</a></li>
+                    </ul>
+            </li>
+            <li><a class="" href="jgsz/gljigou.htm">机构设置</a>
+                    <ul>
+                            <li><a href="jgsz/gljigou.htm" title="管理机构">管理机构</a></li>
+                            <li><a href="jgsz/jxdw.htm" title="教学单位">教学单位</a></li>
+                            <li><a href="jgsz/qtjig.htm" title="其他机构">其他机构</a></li>
+                    </ul>
+            </li>
+            <li><a class="" href="djgz.htm">党建工作</a>
+            </li>
+            <li><a class="" href="rcpy/bkjy.htm">人才培养</a>
+                    <ul>
+                            <li><a href="rcpy/bkjy.htm" title="本科教育">本科教育</a></li>
+                            <li><a href="rcpy/gzjy.htm" title="高职教育">高职教育</a></li>
+                            <li><a href="rcpy/ssjy.htm" title="硕士教育">硕士教育</a></li>
+                    </ul>
+            </li>
+            <li><a class="" href="kxyanjiu.htm">科学研究</a>
+            </li>
+            <li><a class="" href="xgtw/xsgongzuo.htm">学工团委</a>
+                    <ul>
+                            <li><a href="xgtw/xsgongzuo.htm" title="学生工作">学生工作</a></li>
+                            <li><a href="xgtw/twgz.htm" title="团委工作">团委工作</a></li>
+                    </ul>
+            </li>
+            <li><a class="" href="https://www.guet.edu.cn/bh_zs/">招生就业</a>
+                    <ul>
+                            <li><a href="https://www.guet.edu.cn/bh_zs/" title="招生信息">招生信息</a></li>
+                            <li><a href="https://www.guet.edu.cn/bh_jy/" title="就业信息">就业信息</a></li>
+                    </ul>
+            </li>
+            <li><a class="" href="jxjy.htm">继续教育</a>
+            </li>
+            <li><a class="" href="cpyc.htm">诚聘英才</a>
+            </li>
+            <li><a class="" href="gjjy.htm">国际教育</a>
+            </li>
+            <li><a class="" href="xyVR.htm">校园VR</a>
+            </li>
+            <li><a class="" href="zlxz.htm">资料下载</a>
+            </li>
+ </ul><!--#endeditable--></div>
+</nav>
+
+<div id="nav_bottom"></div>
+<div class="clear"></div>
+<div class="clear"></div>
+<!--内容区开始-->
+<div class="main">
+  <div class="container"> <div id="left">
+  <div class="left_list">
+    <div class="left_top"><!--#begineditable name="左侧父类名称" action="webber.wbst.com.nav.MenuAction" layout="/system/_component/sitenav/tplvnav.jsp" tpltype="1" contype="" clone="" viewid="200956" contentviewid="" tagname="左侧父类名称"-->
+
+      
+    
+
+
+
+      
+    
+
+
+
+      
+    
+
+
+
+      
+    
+
+
+
+      
+    
+
+
+
+      
+    
+
+
+
+      
+    
+
+
+
+      
+    
+
+
+
+      
+    
+
+
+
+      
+    
+
+
+
+      
+    
+
+
+
+      
+    
+
+
+
+      
+    
+
+<!--#endeditable--></div>
+    <div class="left_con">
+      <div class="type_list">
+        <ul>
+          <!--#begineditable name="子栏目" action="webber.wbst.com.nav.MenuAction" layout="/system/_component/sitenav/tplvnav.jsp" tpltype="1" contype="" clone="" viewid="200957" contentviewid="" tagname="子栏目"--><li class="first_cat"><a href="bwcx_ljsm.htm" class="current">不忘初心，牢记使命</a></li>
+<!--#endeditable-->
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="blank30"></div>
+  <div class="left_list left_list2 email_box">
+    <div class="left_top">
+      <p>
+      学校主题教育征求意见箱</br>
+      （主题办信箱）：</br>
+      guetbwcxztb@163.com
+      </p>
+    </div>
+  </div>
+   <div class="left_list left_list2 email_box">
+    <div class="left_top">
+      <p>
+      北海校区主题教育征求意见箱</br>
+      （主题办信箱）：</br>
+      gdbgzhb@163.com
+      </p>
+    </div>
+  </div>
+</div>
+
+    <div id="right">
+      <div id="right_top">
+        <h3><!--#begineditable name="当前子栏目" action="" layout="" tpltype="" contype="" clone="" viewid="201078" contentviewid="" tagname="当前子栏目"-->
+
+
+
+<!--#endeditable--></h3>
+        <span>
+        <li><!--#begineditable name="当前位置" action="webber.wbst.com.util.SitelinkAction" layout="/system/_component/sitenav/curposition.jsp" tpltype="0" contype="" clone="" viewid="200959" contentviewid="" tagname="当前位置"-->  
+<table class="winstyle200959" cellspacing="0" cellpadding="0"><tr><td nowrap>当前位置：   
+<a href="index.htm"><span class="fontstyle200959">首页</span></a><span class="splitflagstyle200959">>></span><a href="bwcx_ljsm.htm"><span class="fontstyle200959">不忘初心，牢记使命</span></a></td></tr></table><!--#endeditable--></li>
+        </span> </div>
+      <div id="right_con"><!--#begineditable name="新闻翻页列表" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/stattplpagedownv2.jsp" tpltype="1" contype="news" clone="" viewid="200962" contentviewid="" tagname="新闻翻页列表"-->
+
+<script language="javascript" src="/system/resource/js/dynclicks.js"></script><script language="javascript" src="/system/resource/js/news/statpagedown.js"></script><div class="articleList">
+          <ul>
+            
+ <div class="art_list wow fadeInUp">
+   <div class="art_title">
+       <a href="info/1211/2409.htm">【不忘初心 牢记使命】经济与管理学院举办“不忘初心，牢记使命”主题教育活动之教室文化墙设计大赛颁奖典礼（图）
+   </a>
+   </div>
+   <div class="art_author">
+       <span>来源：</span>
+       <span>作者：</span> 
+       <span>日期：2020年01月02日</span>
+   </div>
+   <div class="art_des"> 12月29日，由经济与管理学院党总支主办，经济与管理学院团委学生会承办的“不忘初心，牢记使命”主题教育活动之教室文化墙设计大赛颁奖典礼在9406教室顺利举行，学院党总支副书记唐庭湖，学院工会主席杨扬亚级学院老师代表出席了颁奖典礼。颁奖典礼由廖厚德老师主持。本次比赛历时一个多月，各个班级均高度重视，积极参与，他们集思广益，用创意装扮，将班级最好的面貌展现出来。最终市场营销专业（1912050401、1912050402）获...</div>
+ </div>
+ <div class="art_list wow fadeInUp">
+   <div class="art_title">
+       <a href="info/1211/2344.htm">【不忘初心 牢记使命】基础教学部直属党支部召开“不忘初心 牢记使命”主题教育专题民主生活会</a>
+   </div>
+   <div class="art_author">
+       <span>来源：</span>
+       <span>作者：</span> 
+       <span>日期：2019年12月12日</span>
+   </div>
+   <div class="art_des"> 12月5日，基础教学部直属党支部在6524办公室召开“不忘初心 牢记使命”主题教育专题民主生活会，校区纪委书记杨春梅到会指导，基础教学部领导班子成员参加会议，基础教学部直属党支部委员及各教研室代表列席会议，会议由基础教学部直属党支部书记刘江同志主持。 会上，基础教学部主任陈旭同志就基础教学部直属党支部开展“不忘初心 牢记使命”主题教育以来取得的成绩与查摆出的问题向与会同志作检视汇报，并带头作深刻的自我剖...</div>
+ </div>
+ <div class="art_list wow fadeInUp">
+   <div class="art_title">
+       <a href="info/1211/2342.htm">【不忘初心 牢记使命】电子信息学院教工党支部召开2019年“不忘初心、牢记使命”专题组织生活会和民主评议党员活动</a>
+   </div>
+   <div class="art_author">
+       <span>来源：</span>
+       <span>作者：</span> 
+       <span>日期：2019年12月12日</span>
+   </div>
+   <div class="art_des">     12月10日上午，电子信息学院教工党支部在7508会议室召开“不忘初心、牢记使命”专题组织生活会。北海校区副校长于新华出席会议，教工党支部全体党员参加会议，会议由教工党支部书记万剑锋同志主持。  会上，党支部书记万剑锋从“不忘初心、牢记使命”主题教育学习开展情况、工作要点及成效、存在的问题、整改措施等方面对2019年支部工作进行了总结；并要求全体支部党员今后继续加强习近平新时代中国特色社会主义思想学习，...</div>
+ </div>
+ <div class="art_list wow fadeInUp">
+   <div class="art_title">
+       <a href="info/1211/2326.htm">【不忘初心 牢记使命】经济与管理学院党总支召开2019年度主题教育专题民主生活会（图）
+   </a>
+   </div>
+   <div class="art_author">
+       <span>来源：</span>
+       <span>作者：</span> 
+       <span>日期：2019年12月09日</span>
+   </div>
+   <div class="art_des">​    12月6日下午，经济与管理学院党总支召开“不忘初心、牢记使命”主题教育专题民主生活会。学院党总支书记喻艳同志主持会议，北海校区党委书记秦竟芝同志到会指导，学院领导班子全体成员参加了会议。    会上，喻艳书记代表学院领导班子作检视剖析发言，通报了2019年度学院党总支的工作报告，包括主题教育中的收获、征集意见和整改情况、原因剖析、需要明示的情况、整改措施等五个方面。随后，喻艳书记做个人检视剖析发言并...</div>
+ </div>
+ <div class="art_list wow fadeInUp">
+   <div class="art_title">
+       <a href="info/1211/2319.htm">​【不忘初心 牢记使命】电子信息学院召开主题教育工作系列会议（图）
+   </a>
+   </div>
+   <div class="art_author">
+       <span>来源：</span>
+       <span>作者：</span> 
+       <span>日期：2019年12月06日</span>
+   </div>
+   <div class="art_des">  根据“不忘初心 牢记使命”主题教育有关重要指示精神和工作部署要求，12月4日下午，电子信息学院党总支在7508会议室召开主题教育工作系列会议，党总支中心组全体成员参加会议。    首先，学院党总支书记彭东亚主持学院典型事例分析会议。彭书记支出：学院党总支聚焦专题民主生活会主题，从师生反应强烈、社会影响较大的事例中筛选出学院师资队伍建设作为典型案例。彭东亚结合自身情况，深入剖析典型事例产生根源，与会人员对...</div>
+ </div>
+</ul>
+</div>
+<div class="blank clear"></div>
+<!-- 分页开始-->
+<div class="pages"> 
+       <div align="center"><INPUT TYPE="hidden" NAME="actiontype" VALUE=""><input type="hidden" name="_scode_" value="1585272635517"><input type="hidden" name="urltype" value="tree.TreeTempUrl"><input type="hidden" name="wbtreeid" value="1211"><input type="hidden" name="outFlag" value="false">
+<style type="text/css">
+.headStyle1wucem1y3i, .headStyle1wucem1y3i td, .headStyle1wucem1y3i div {font-size: 12px;font-family:宋体; color: #000000; margin-left: auto; margin-right: auto; line-height:14px;}
+.defaultButtonStyle {font-size: 12px;font-family:宋体; height:20px;color: #000000;BORDER: #AFD5F5 1px solid; margin: 0px;padding: 0px; FILTER:progid:DXImageTransform.Microsoft.Gradient(GradientType=0,StartColorStr=#ffffff, EndColorStr=#BDDBF7);  CURSOR: pointer; line-height:14px;background:-webkit-gradient(linear, 0 0, 0 100%, from(#ffffff), to(#BDDBF7));background: -moz-linear-gradient( top,#ffffff,#BDDBF7);background:-ms-linear-gradient(top,#ffffff 0%,#bddbf7 100%);}
+.defaultinputStyle {font-size: 12px;font-family:宋体; height:20px; border:1px solid #AFD5F5; line-height:14px;}
+.colHeader {font-size: 12px;font-family:宋体; line-height:14px;}
+.headStyle1wucem1y3i a, .pageList .this-page {font-size: 12px;font-family:宋体; display:inline-block; height:14px; padding: 2px 4px; border: solid 1px #AFD5F5; background: #fff; text-decoration: none; MARGIN-RIGHT: 1px;line-height:14px;}
+.headStyle1wucem1y3i a:visited {font-size: 12px;font-family:宋体; color: #000000; text-decoration: none; line-height:14px;}
+.headStyle1wucem1y3i .PrevDisabled {font-size: 12px;font-family:宋体; display:inline-block;height:14px;  margin-right: 3px; padding: 2px 4px; background: #fff;color:#ccc;border: solid 1px #AFD5F5; line-height:14px;}
+.headStyle1wucem1y3i .SelectList {font-size: 12px;font-family:宋体;line-height:14px;}
+.headStyle1wucem1y3i .Prev { font-size: 12px;font-family:宋体; margin-right: 3px; padding: 2px 4px;line-height:14px;}
+.headStyle1wucem1y3i .break {font-size: 12px;font-family:宋体; border: none; text-decoration: none; line-height:14px;}
+.headStyle1wucem1y3i .NextDisabled { font-size: 12px;font-family:宋体;display:inline-block; height:14px; margin-left: 2px; padding: 2px 4px;background: #fff;color:#ccc;border: solid 1px #AFD5F5; line-height:14px;}
+.headStyle1wucem1y3i .Next { font-size: 12px;font-family:宋体; margin-left: 2px; padding: 2px 4px;line-height:14px;}
+.headStyle1wucem1y3i .this-page {font-size: 12px;font-family:宋体;display:inline-block;height:14px;padding: 2px 4px; border: solid 1px #AFD5F5; background: #E1F0FD; font-weight: bold; color:black; MARGIN-RIGHT: 1px;line-height:14px;}
+.headStyle1wucem1y3i a:hover {font-size: 12px;font-family:宋体;color: black; background: #EFF7FE; border-color: #AFD5F5; text-decoration: none;line-height:14px;}
+.headStyle1wucem1y3i a:link {font-size: 12px;font-family:宋体;color: #000000; text-decoration: none;line-height:14px;}
+.headStyle1wucem1y3i a:active { font-size: 12px;font-family:宋体;color: black; text-decoration: none; background: #EFF7FE; line-height:14px;}
+</style><script language="javascript" src="/system/resource/js/gotopage.js"></script><script type="text/javascript">function a200962_gopage_fun(){_simple_list_gotopage_fun(39,'a200962GOPAGE',2)}</script><table cellspacing="0" cellpadding="0" border="0"><TR><td colspan="0"><table cellspacing="0" class="headStyle1wucem1y3i" width="100%" cellpadding="1"><tr valign="middle"><TD nowrap align="left" width="1%" id="fanye200962">共192条&nbsp;&nbsp;1/39&nbsp;</td><td nowrap align="left"><div><span class="PrevDisabled">首页</span><span class="PrevDisabled">上页</span><a href="bwcx_ljsm/38.htm" class="Next">下页</a><a href="bwcx_ljsm/1.htm" class="Next">尾页</a>&nbsp;&nbsp;<input align="absmiddle" type="button" class="defaultButtonStyle" id="gotopagebut" name="a200962Find" value="转到" onclick="javascript:a200962_gopage_fun()"><INPUT size="2" align="absmiddle" class="defaultInputStyle" NAME="a200962GOPAGE" id="a200962GOPAGE" VALUE="" style="margin-left:1px;margin-right:1px">页</div></td></tr></table></table></div>
+</div>
+
+<!-- 分页结束--><script>_showDynClickBatch(['dynclicks_u7_2409','dynclicks_u7_2344','dynclicks_u7_2342','dynclicks_u7_2326','dynclicks_u7_2319'],[2409,2344,2342,2326,2319],"wbnews", 1411857808)</script><!--#endeditable--></div>
+    </div>
+  </div>
+</div>
+<!--内容区结束-->
+<div class="clear"></div>
+<!-- 友情链接 start --> 
+<div id="link" class="wow fadeInUp">
+  <div class="container">
+    <div class="link_box">
+ <div id="tel" style="font-weight: 400; font-size: 16px;color: #000000">
+ <div style="width: 115px;float: left;">院部快速导航：</div>
+ <!--#begineditable name="链接" action="" layout="" tpltype="" contype="" clone="" viewid="200955" contentviewid="" tagname="链接"-->
+
+
+
+
+<table><tr>
+        
+        <td>
+            <A class="c200955" HREF="#" onclick="_addDynClicks('wburl',1411857808,38686)" target="_blank" title="海洋工程学院">
+            	 海洋工程学院 
+            </A>
+             
+        </td>
+            <td class="leaderstyle200955"> |</td>
+        
+        <td>
+            <A class="c200955" HREF="#" onclick="_addDynClicks('wburl',1411857808,38687)" target="_blank">
+            	 电子信息学院 
+            </A>
+             
+        </td>
+            <td class="leaderstyle200955"> |</td>
+        
+        <td>
+            <A class="c200955" HREF="#" onclick="_addDynClicks('wburl',1411857808,38688)" target="_blank">
+            	 计算机工程学院 
+            </A>
+             
+        </td>
+            <td class="leaderstyle200955"> |</td>
+        
+        <td>
+            <A class="c200955" HREF="#" onclick="_addDynClicks('wburl',1411857808,38689)" target="_blank">
+            	 设计与创意学院 
+            </A>
+             
+        </td>
+            <td class="leaderstyle200955"> |</td>
+        
+        <td>
+            <A class="c200955" HREF="#" onclick="_addDynClicks('wburl',1411857808,38690)" target="_blank">
+            	 经济与管理学院 
+            </A>
+             
+        </td>
+            <td class="leaderstyle200955"> |</td>
+        
+        <td>
+            <A class="c200955" HREF="#" onclick="_addDynClicks('wburl',1411857808,38691)" target="_blank">
+            	 基础教学部 
+            </A>
+             
+        </td>
+            <td class="leaderstyle200955"> |</td>
+        
+        <td>
+            <A class="c200955" HREF="#" onclick="_addDynClicks('wburl',1411857808,38692)" target="_blank">
+            	 桂电东盟教育中心 
+            </A>
+             
+        </td>
+            </tr>
+</table><!--#endeditable--></div>
+ <div id="tel" style="font-weight: 400; font-size: 16px;color: #000000">
+校区意见箱：beiguanzhb@163.com
+&nbsp;校区纪委举报邮箱：bhxqjw@guet.edu.cn
+        &nbsp;&nbsp;&nbsp;<a href="http://www.guet.edu.cn/jwjc/jb.jsp?urltype=tree.TreeTempUrl&wbtreeid=1089">
+                        桂林电子科技大学纪检监察举报网站
+                    </a>
+</div>
+    </div>
+  </div>
+</div>
+<!-- 友情链接 end -->
+<div class="blank38"></div>
+<div class="clear"></div>
+<footer id="footer">
+  <div class="container">
+    <div id="copy_txt" class="wow fadeInUp">Copyright@2008-2018桂林电子科技大学北海校区</div>
+<div>地址: 广西北海市银海区南珠大道9号 邮编：536000 电话：0779-3221218 传真：0779-3221082 </div>
+  </div>
+</footer>
+ <script type="text/javascript">
+  $(function(){
+    $(".pages *").css("height","30px");
+    $(".pages *").css("line-height","25px");
+    $("a.c200955").css("FONT-SIZE","12pt");
+  });
+</script>
+<style>
+    .left_list.left_list2.email_box {
+        box-shadow: 0px 0px 5px #ccc0;
+        margin-top: 10px;
+        font-size: 15px;
+        text-align: center;}
+    .email_box > .left_top {
+        background-image: url(skin/pic/mail_bg.jpg);
+        background-size: 100% 100%;
+        padding-top: 7px;
+        line-height: 15px;}
+</style>
+<!--版权区结束-->
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>不忘初心，牢记使命-桂林电子科技大学北海校区</title><META Name="keywords" Content="桂林电子科技大学北海校区,北海校区,桂林电子科技大学北海校区" />
+
+
+<meta name="description" content="" />
+<link href="skin/css/bootstrap.min.css" type="text/css" rel="stylesheet" />
+<link href="skin/css/style.css" type="text/css" rel="stylesheet" />
+<script type="text/javascript" src="skin/js/jquery.min.js"></script>
+<script type="text/javascript" src="skin/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="skin/js/touchslide.1.1.js"></script>
+<script type="text/javascript" src="skin/js/common.js"></script>
+<!--[if (gt IE 9)|!(IE)]><!-->
+<link href="skin/css/animate.min.css" type="text/css" rel="stylesheet" />
+<script type="text/javascript" src="skin/js/wow.min.js"></script>
+<!--<![endif]-->
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="bwcx_list.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1211,'/bwcx_list.jsp',-1,1411857808)</script>
+</head>
+<body>
+<!--头部开始--> 
+<header id="header">
+  <div class="container">
+    <div id="logo"><a href="" title="桂林电子科技大学北海校区"><img src="skin/images/logo.png" alt="桂林电子科技大学北海校区" /></a></div>
+    <div id="header_right">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+      <div class="language"> 
+        <ul>
+          <li><a href="http://192.168.4.213/" target="_blank">【校区智慧校园】</a></li>
+          <li><a href="http://icampus.guet.edu.cn/login.aspx" target="_blank">【本部智慧校园】</a></li>
+        </ul>
+      </div>
+      <div class="clear"></div>
+      <div id="search" class="wow bounceInDown" style="width: 225px;"><!--#begineditable name="全文检索" action="" layout="" tpltype="" contype="" clone="" viewid="201021" contentviewid="" tagname="全文检索"--><script type="text/javascript">
+    function _nl_ys_check(){
+        
+        var keyword = document.getElementById('showkeycode201021').value;
+        if(keyword==null||keyword==""){
+            alert("请输入你要检索的内容！");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkeyword201021").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkeyword201021").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkeyword201021").value = base64.encode(document.getElementById("lucenenewssearchkeyword201021").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode201021"));
+        return true;
+    } 
+</script>
+<form action="search.jsp?wbtreeid=1211" method="post" id="au0a" name="au0a" onsubmit="return _nl_ys_check()" style="display: inline">
+         <input type="hidden" id="lucenenewssearchkeyword201021" name="lucenenewssearchkeyword" value=""><input type="hidden" id="_lucenesearchtype201021" name="_lucenesearchtype" value="1"><input type="hidden" id="searchScope201021" name="searchScope" value="0">
+         <input type="hidden" name="kwtype" value="0" />
+         <input type="text" name="showkeycode" id="showkeycode201021" placeholder="search" class="skw" size="12" onfocus="javascript:clearsearch(this);" onblur="javascript:redosearch(this);" />
+         <input name="submit" type="submit" class="sub" value="" />
+</form>
+
+
+
+<script language="javascript" src="/system/resource/js/base64.js"></script><script language="javascript" src="/system/resource/js/formfunc.js"></script>
+<!--#endeditable--></div>
+    </div>
+    <div class="clear"></div>
+    <div class="row mobile_nav">
+      <nav class="collapse navbar-collapse"><!--#begineditable name="网站导航2" action="" layout="" tpltype="" contype="" clone="" viewid="200950" contentviewid="" tagname="网站导航2"--><ul>
+              <li class="first_menu"><a class="current" href="index.htm">首页</a></li>
+            <li><a class="" href="xqgk/xqjj.htm">校区概况</a>
+            </li>
+            <li><a class="" href="jgsz/gljigou.htm">机构设置</a>
+            </li>
+            <li><a class="" href="djgz.htm">党建工作</a>
+            </li>
+            <li><a class="" href="rcpy/bkjy.htm">人才培养</a>
+            </li>
+            <li><a class="" href="kxyanjiu.htm">科学研究</a>
+            </li>
+            <li><a class="" href="xgtw/xsgongzuo.htm">学工团委</a>
+            </li>
+            <li><a class="" href="https://www.guet.edu.cn/bh_zs/">招生就业</a>
+            </li>
+            <li><a class="" href="jxjy.htm">继续教育</a>
+            </li>
+            <li><a class="" href="cpyc.htm">诚聘英才</a>
+            </li>
+            <li><a class="" href="gjjy.htm">国际教育</a>
+            </li>
+            <li><a class="" href="xyVR.htm">校园VR</a>
+            </li>
+            <li><a class="" href="zlxz.htm">资料下载</a>
+            </li>
+          <!--<li><a href='/' ><img src='/skin/images/cn.jpg' /></a></li>
+          <li><a href='/en/'><img src='/skin/images/en.jpg' /></a></li>-->
+          <div class="search_m">
+            <form name="formsearch" action="plus/search.php">
+              <input type="hidden" name="kwtype" value="0">
+              <input name="q" placeholder="search" class="skw" size="12" onfocus="javascript:clearsearch(this);" onblur="javascript:redosearch(this);">
+              <input name="submit" type="submit" class="sub" value="">
+            </form>
+          </div>
+        </ul><!--#endeditable--></nav>
+    </div>
+  </div>
+</header>
+<div class="clear"></div>
+<nav id="navigate">
+  <div class="container"><!--#begineditable name="网站导航1" action="" layout="" tpltype="" contype="" clone="" viewid="200948" contentviewid="" tagname="网站导航1"--><ul>
+                <li class="first_menu"><a class="current" href="index.htm">首页</a></li>
+            <li><a class="" href="xqgk/xqjj.htm">校区概况</a>
+                    <ul>
+                            <li><a href="xqgk/xqjj.htm" title="校区简介">校区简介</a></li>
+                            <li><a href="xqgk/xqld.htm" title="校区领导">校区领导</a></li>
+                            <li><a href="xqgk/xyfg.htm" title="校园风光">校园风光</a></li>
+                    </ul>
+            </li>
+            <li><a class="" href="jgsz/gljigou.htm">机构设置</a>
+                    <ul>
+                            <li><a href="jgsz/gljigou.htm" title="管理机构">管理机构</a></li>
+                            <li><a href="jgsz/jxdw.htm" title="教学单位">教学单位</a></li>
+                            <li><a href="jgsz/qtjig.htm" title="其他机构">其他机构</a></li>
+                    </ul>
+            </li>
+            <li><a class="" href="djgz.htm">党建工作</a>
+            </li>
+            <li><a class="" href="rcpy/bkjy.htm">人才培养</a>
+                    <ul>
+                            <li><a href="rcpy/bkjy.htm" title="本科教育">本科教育</a></li>
+                            <li><a href="rcpy/gzjy.htm" title="高职教育">高职教育</a></li>
+                            <li><a href="rcpy/ssjy.htm" title="硕士教育">硕士教育</a></li>
+                    </ul>
+            </li>
+            <li><a class="" href="kxyanjiu.htm">科学研究</a>
+            </li>
+            <li><a class="" href="xgtw/xsgongzuo.htm">学工团委</a>
+                    <ul>
+                            <li><a href="xgtw/xsgongzuo.htm" title="学生工作">学生工作</a></li>
+                            <li><a href="xgtw/twgz.htm" title="团委工作">团委工作</a></li>
+                    </ul>
+            </li>
+            <li><a class="" href="https://www.guet.edu.cn/bh_zs/">招生就业</a>
+                    <ul>
+                            <li><a href="https://www.guet.edu.cn/bh_zs/" title="招生信息">招生信息</a></li>
+                            <li><a href="https://www.guet.edu.cn/bh_jy/" title="就业信息">就业信息</a></li>
+                    </ul>
+            </li>
+            <li><a class="" href="jxjy.htm">继续教育</a>
+            </li>
+            <li><a class="" href="cpyc.htm">诚聘英才</a>
+            </li>
+            <li><a class="" href="gjjy.htm">国际教育</a>
+            </li>
+            <li><a class="" href="xyVR.htm">校园VR</a>
+            </li>
+            <li><a class="" href="zlxz.htm">资料下载</a>
+            </li>
+ </ul><!--#endeditable--></div>
+</nav>
+
+<div id="nav_bottom"></div>
+<div class="clear"></div>
+<div class="clear"></div>
+<!--内容区开始-->
+<div class="main">
+  <div class="container"> <div id="left">
+  <div class="left_list">
+    <div class="left_top"><!--#begineditable name="左侧父类名称" action="webber.wbst.com.nav.MenuAction" layout="/system/_component/sitenav/tplvnav.jsp" tpltype="1" contype="" clone="" viewid="200956" contentviewid="" tagname="左侧父类名称"-->
+
+      
+    
+
+
+
+      
+    
+
+
+
+      
+    
+
+
+
+      
+    
+
+
+
+      
+    
+
+
+
+      
+    
+
+
+
+      
+    
+
+
+
+      
+    
+
+
+
+      
+    
+
+
+
+      
+    
+
+
+
+      
+    
+
+
+
+      
+    
+
+
+
+      
+    
+
+<!--#endeditable--></div>
+    <div class="left_con">
+      <div class="type_list">
+        <ul>
+          <!--#begineditable name="子栏目" action="webber.wbst.com.nav.MenuAction" layout="/system/_component/sitenav/tplvnav.jsp" tpltype="1" contype="" clone="" viewid="200957" contentviewid="" tagname="子栏目"--><li class="first_cat"><a href="bwcx_ljsm.htm" class="current">不忘初心，牢记使命</a></li>
+<!--#endeditable-->
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="blank30"></div>
+  <div class="left_list left_list2 email_box">
+    <div class="left_top">
+      <p>
+      学校主题教育征求意见箱</br>
+      （主题办信箱）：</br>
+      guetbwcxztb@163.com
+      </p>
+    </div>
+  </div>
+   <div class="left_list left_list2 email_box">
+    <div class="left_top">
+      <p>
+      北海校区主题教育征求意见箱</br>
+      （主题办信箱）：</br>
+      gdbgzhb@163.com
+      </p>
+    </div>
+  </div>
+</div>
+
+    <div id="right">
+      <div id="right_top">
+        <h3><!--#begineditable name="当前子栏目" action="" layout="" tpltype="" contype="" clone="" viewid="201078" contentviewid="" tagname="当前子栏目"-->
+
+
+
+<!--#endeditable--></h3>
+        <span>
+        <li><!--#begineditable name="当前位置" action="webber.wbst.com.util.SitelinkAction" layout="/system/_component/sitenav/curposition.jsp" tpltype="0" contype="" clone="" viewid="200959" contentviewid="" tagname="当前位置"-->  
+<table class="winstyle200959" cellspacing="0" cellpadding="0"><tr><td nowrap>当前位置：   
+<a href="index.htm"><span class="fontstyle200959">首页</span></a><span class="splitflagstyle200959">>></span><a href="bwcx_ljsm.htm"><span class="fontstyle200959">不忘初心，牢记使命</span></a></td></tr></table><!--#endeditable--></li>
+        </span> </div>
+      <div id="right_con"><!--#begineditable name="新闻翻页列表" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/stattplpagedownv2.jsp" tpltype="1" contype="news" clone="" viewid="200962" contentviewid="" tagname="新闻翻页列表"-->
+
+<script language="javascript" src="/system/resource/js/dynclicks.js"></script><script language="javascript" src="/system/resource/js/news/statpagedown.js"></script><div class="articleList">
+          <ul>
+            
+ <div class="art_list wow fadeInUp">
+   <div class="art_title">
+       <a href="info/1211/2409.htm">【不忘初心 牢记使命】经济与管理学院举办“不忘初心，牢记使命”主题教育活动之教室文化墙设计大赛颁奖典礼（图）
+   </a>
+   </div>
+   <div class="art_author">
+       <span>来源：</span>
+       <span>作者：</span> 
+       <span>日期：2020年01月02日</span>
+   </div>
+   <div class="art_des"> 12月29日，由经济与管理学院党总支主办，经济与管理学院团委学生会承办的“不忘初心，牢记使命”主题教育活动之教室文化墙设计大赛颁奖典礼在9406教室顺利举行，学院党总支副书记唐庭湖，学院工会主席杨扬亚级学院老师代表出席了颁奖典礼。颁奖典礼由廖厚德老师主持。本次比赛历时一个多月，各个班级均高度重视，积极参与，他们集思广益，用创意装扮，将班级最好的面貌展现出来。最终市场营销专业（1912050401、1912050402）获...</div>
+ </div>
+ <div class="art_list wow fadeInUp">
+   <div class="art_title">
+       <a href="info/1211/2344.htm">【不忘初心 牢记使命】基础教学部直属党支部召开“不忘初心 牢记使命”主题教育专题民主生活会</a>
+   </div>
+   <div class="art_author">
+       <span>来源：</span>
+       <span>作者：</span> 
+       <span>日期：2019年12月12日</span>
+   </div>
+   <div class="art_des"> 12月5日，基础教学部直属党支部在6524办公室召开“不忘初心 牢记使命”主题教育专题民主生活会，校区纪委书记杨春梅到会指导，基础教学部领导班子成员参加会议，基础教学部直属党支部委员及各教研室代表列席会议，会议由基础教学部直属党支部书记刘江同志主持。 会上，基础教学部主任陈旭同志就基础教学部直属党支部开展“不忘初心 牢记使命”主题教育以来取得的成绩与查摆出的问题向与会同志作检视汇报，并带头作深刻的自我剖...</div>
+ </div>
+ <div class="art_list wow fadeInUp">
+   <div class="art_title">
+       <a href="info/1211/2342.htm">【不忘初心 牢记使命】电子信息学院教工党支部召开2019年“不忘初心、牢记使命”专题组织生活会和民主评议党员活动</a>
+   </div>
+   <div class="art_author">
+       <span>来源：</span>
+       <span>作者：</span> 
+       <span>日期：2019年12月12日</span>
+   </div>
+   <div class="art_des">     12月10日上午，电子信息学院教工党支部在7508会议室召开“不忘初心、牢记使命”专题组织生活会。北海校区副校长于新华出席会议，教工党支部全体党员参加会议，会议由教工党支部书记万剑锋同志主持。  会上，党支部书记万剑锋从“不忘初心、牢记使命”主题教育学习开展情况、工作要点及成效、存在的问题、整改措施等方面对2019年支部工作进行了总结；并要求全体支部党员今后继续加强习近平新时代中国特色社会主义思想学习，...</div>
+ </div>
+ <div class="art_list wow fadeInUp">
+   <div class="art_title">
+       <a href="info/1211/2326.htm">【不忘初心 牢记使命】经济与管理学院党总支召开2019年度主题教育专题民主生活会（图）
+   </a>
+   </div>
+   <div class="art_author">
+       <span>来源：</span>
+       <span>作者：</span> 
+       <span>日期：2019年12月09日</span>
+   </div>
+   <div class="art_des">​    12月6日下午，经济与管理学院党总支召开“不忘初心、牢记使命”主题教育专题民主生活会。学院党总支书记喻艳同志主持会议，北海校区党委书记秦竟芝同志到会指导，学院领导班子全体成员参加了会议。    会上，喻艳书记代表学院领导班子作检视剖析发言，通报了2019年度学院党总支的工作报告，包括主题教育中的收获、征集意见和整改情况、原因剖析、需要明示的情况、整改措施等五个方面。随后，喻艳书记做个人检视剖析发言并...</div>
+ </div>
+ <div class="art_list wow fadeInUp">
+   <div class="art_title">
+       <a href="info/1211/2319.htm">​【不忘初心 牢记使命】电子信息学院召开主题教育工作系列会议（图）
+   </a>
+   </div>
+   <div class="art_author">
+       <span>来源：</span>
+       <span>作者：</span> 
+       <span>日期：2019年12月06日</span>
+   </div>
+   <div class="art_des">  根据“不忘初心 牢记使命”主题教育有关重要指示精神和工作部署要求，12月4日下午，电子信息学院党总支在7508会议室召开主题教育工作系列会议，党总支中心组全体成员参加会议。    首先，学院党总支书记彭东亚主持学院典型事例分析会议。彭书记支出：学院党总支聚焦专题民主生活会主题，从师生反应强烈、社会影响较大的事例中筛选出学院师资队伍建设作为典型案例。彭东亚结合自身情况，深入剖析典型事例产生根源，与会人员对...</div>
+ </div>
+</ul>
+</div>
+<div class="blank clear"></div>
+<!-- 分页开始-->
+<div class="pages"> 
+       <div align="center"><INPUT TYPE="hidden" NAME="actiontype" VALUE=""><input type="hidden" name="_scode_" value="1585272635517"><input type="hidden" name="urltype" value="tree.TreeTempUrl"><input type="hidden" name="wbtreeid" value="1211"><input type="hidden" name="outFlag" value="false">
+<style type="text/css">
+.headStyle1wucem1y3i, .headStyle1wucem1y3i td, .headStyle1wucem1y3i div {font-size: 12px;font-family:宋体; color: #000000; margin-left: auto; margin-right: auto; line-height:14px;}
+.defaultButtonStyle {font-size: 12px;font-family:宋体; height:20px;color: #000000;BORDER: #AFD5F5 1px solid; margin: 0px;padding: 0px; FILTER:progid:DXImageTransform.Microsoft.Gradient(GradientType=0,StartColorStr=#ffffff, EndColorStr=#BDDBF7);  CURSOR: pointer; line-height:14px;background:-webkit-gradient(linear, 0 0, 0 100%, from(#ffffff), to(#BDDBF7));background: -moz-linear-gradient( top,#ffffff,#BDDBF7);background:-ms-linear-gradient(top,#ffffff 0%,#bddbf7 100%);}
+.defaultinputStyle {font-size: 12px;font-family:宋体; height:20px; border:1px solid #AFD5F5; line-height:14px;}
+.colHeader {font-size: 12px;font-family:宋体; line-height:14px;}
+.headStyle1wucem1y3i a, .pageList .this-page {font-size: 12px;font-family:宋体; display:inline-block; height:14px; padding: 2px 4px; border: solid 1px #AFD5F5; background: #fff; text-decoration: none; MARGIN-RIGHT: 1px;line-height:14px;}
+.headStyle1wucem1y3i a:visited {font-size: 12px;font-family:宋体; color: #000000; text-decoration: none; line-height:14px;}
+.headStyle1wucem1y3i .PrevDisabled {font-size: 12px;font-family:宋体; display:inline-block;height:14px;  margin-right: 3px; padding: 2px 4px; background: #fff;color:#ccc;border: solid 1px #AFD5F5; line-height:14px;}
+.headStyle1wucem1y3i .SelectList {font-size: 12px;font-family:宋体;line-height:14px;}
+.headStyle1wucem1y3i .Prev { font-size: 12px;font-family:宋体; margin-right: 3px; padding: 2px 4px;line-height:14px;}
+.headStyle1wucem1y3i .break {font-size: 12px;font-family:宋体; border: none; text-decoration: none; line-height:14px;}
+.headStyle1wucem1y3i .NextDisabled { font-size: 12px;font-family:宋体;display:inline-block; height:14px; margin-left: 2px; padding: 2px 4px;background: #fff;color:#ccc;border: solid 1px #AFD5F5; line-height:14px;}
+.headStyle1wucem1y3i .Next { font-size: 12px;font-family:宋体; margin-left: 2px; padding: 2px 4px;line-height:14px;}
+.headStyle1wucem1y3i .this-page {font-size: 12px;font-family:宋体;display:inline-block;height:14px;padding: 2px 4px; border: solid 1px #AFD5F5; background: #E1F0FD; font-weight: bold; color:black; MARGIN-RIGHT: 1px;line-height:14px;}
+.headStyle1wucem1y3i a:hover {font-size: 12px;font-family:宋体;color: black; background: #EFF7FE; border-color: #AFD5F5; text-decoration: none;line-height:14px;}
+.headStyle1wucem1y3i a:link {font-size: 12px;font-family:宋体;color: #000000; text-decoration: none;line-height:14px;}
+.headStyle1wucem1y3i a:active { font-size: 12px;font-family:宋体;color: black; text-decoration: none; background: #EFF7FE; line-height:14px;}
+</style><script language="javascript" src="/system/resource/js/gotopage.js"></script><script type="text/javascript">function a200962_gopage_fun(){_simple_list_gotopage_fun(39,'a200962GOPAGE',2)}</script><table cellspacing="0" cellpadding="0" border="0"><TR><td colspan="0"><table cellspacing="0" class="headStyle1wucem1y3i" width="100%" cellpadding="1"><tr valign="middle"><TD nowrap align="left" width="1%" id="fanye200962">共192条&nbsp;&nbsp;1/39&nbsp;</td><td nowrap align="left"><div><span class="PrevDisabled">首页</span><span class="PrevDisabled">上页</span><a href="bwcx_ljsm/38.htm" class="Next">下页</a><a href="bwcx_ljsm/1.htm" class="Next">尾页</a>&nbsp;&nbsp;<input align="absmiddle" type="button" class="defaultButtonStyle" id="gotopagebut" name="a200962Find" value="转到" onclick="javascript:a200962_gopage_fun()"><INPUT size="2" align="absmiddle" class="defaultInputStyle" NAME="a200962GOPAGE" id="a200962GOPAGE" VALUE="" style="margin-left:1px;margin-right:1px">页</div></td></tr></table></table></div>
+</div>
+
+<!-- 分页结束--><script>_showDynClickBatch(['dynclicks_u7_2409','dynclicks_u7_2344','dynclicks_u7_2342','dynclicks_u7_2326','dynclicks_u7_2319'],[2409,2344,2342,2326,2319],"wbnews", 1411857808)</script><!--#endeditable--></div>
+    </div>
+  </div>
+</div>
+<!--内容区结束-->
+<div class="clear"></div>
+<!-- 友情链接 start --> 
+<div id="link" class="wow fadeInUp">
+  <div class="container">
+    <div class="link_box">
+ <div id="tel" style="font-weight: 400; font-size: 16px;color: #000000">
+ <div style="width: 115px;float: left;">院部快速导航：</div>
+ <!--#begineditable name="链接" action="" layout="" tpltype="" contype="" clone="" viewid="200955" contentviewid="" tagname="链接"-->
+
+
+
+
+<table><tr>
+        
+        <td>
+            <A class="c200955" HREF="#" onclick="_addDynClicks('wburl',1411857808,38686)" target="_blank" title="海洋工程学院">
+            	 海洋工程学院 
+            </A>
+             
+        </td>
+            <td class="leaderstyle200955"> |</td>
+        
+        <td>
+            <A class="c200955" HREF="#" onclick="_addDynClicks('wburl',1411857808,38687)" target="_blank">
+            	 电子信息学院 
+            </A>
+             
+        </td>
+            <td class="leaderstyle200955"> |</td>
+        
+        <td>
+            <A class="c200955" HREF="#" onclick="_addDynClicks('wburl',1411857808,38688)" target="_blank">
+            	 计算机工程学院 
+            </A>
+             
+        </td>
+            <td class="leaderstyle200955"> |</td>
+        
+        <td>
+            <A class="c200955" HREF="#" onclick="_addDynClicks('wburl',1411857808,38689)" target="_blank">
+            	 设计与创意学院 
+            </A>
+             
+        </td>
+            <td class="leaderstyle200955"> |</td>
+        
+        <td>
+            <A class="c200955" HREF="#" onclick="_addDynClicks('wburl',1411857808,38690)" target="_blank">
+            	 经济与管理学院 
+            </A>
+             
+        </td>
+            <td class="leaderstyle200955"> |</td>
+        
+        <td>
+            <A class="c200955" HREF="#" onclick="_addDynClicks('wburl',1411857808,38691)" target="_blank">
+            	 基础教学部 
+            </A>
+             
+        </td>
+            <td class="leaderstyle200955"> |</td>
+        
+        <td>
+            <A class="c200955" HREF="#" onclick="_addDynClicks('wburl',1411857808,38692)" target="_blank">
+            	 桂电东盟教育中心 
+            </A>
+             
+        </td>
+            </tr>
+</table><!--#endeditable--></div>
+ <div id="tel" style="font-weight: 400; font-size: 16px;color: #000000">
+校区意见箱：beiguanzhb@163.com
+&nbsp;校区纪委举报邮箱：bhxqjw@guet.edu.cn
+        &nbsp;&nbsp;&nbsp;<a href="http://www.guet.edu.cn/jwjc/jb.jsp?urltype=tree.TreeTempUrl&wbtreeid=1089">
+                        桂林电子科技大学纪检监察举报网站
+                    </a>
+</div>
+    </div>
+  </div>
+</div>
+<!-- 友情链接 end -->
+<div class="blank38"></div>
+<div class="clear"></div>
+<footer id="footer">
+  <div class="container">
+    <div id="copy_txt" class="wow fadeInUp">Copyright@2008-2018桂林电子科技大学北海校区</div>
+<div>地址: 广西北海市银海区南珠大道9号 邮编：536000 电话：0779-3221218 传真：0779-3221082 </div>
+  </div>
+</footer>
+ <script type="text/javascript">
+  $(function(){
+    $(".pages *").css("height","30px");
+    $(".pages *").css("line-height","25px");
+    $("a.c200955").css("FONT-SIZE","12pt");
+  });
+</script>
+<style>
+    .left_list.left_list2.email_box {
+        box-shadow: 0px 0px 5px #ccc0;
+        margin-top: 10px;
+        font-size: 15px;
+        text-align: center;}
+    .email_box > .left_top {
+        background-image: url(skin/pic/mail_bg.jpg);
+        background-size: 100% 100%;
+        padding-top: 7px;
+        line-height: 15px;}
+</style>
+<!--版权区结束-->
+</body>
+</html>

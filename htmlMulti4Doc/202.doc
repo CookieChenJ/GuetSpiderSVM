@@ -1,0 +1,527 @@
+<!DOCTYPE html>
+<HTML>
+
+<HEAD>
+    <TITLE>广西密码学与信息安全重点实验室</TITLE><META Name="keywords" Content="广西密码学与信息安全重点实验室, 密码学, 信息安全" />
+
+    <META charset="utf-8">
+    <LINK rel="stylesheet" type="text/css" href="css/style.css">
+    <LINK rel="stylesheet" type="text/css" href="css/publice.css">
+    <script type="text/javascript" src="js/jquery-1.8.3.min.js"></script>
+    <script type="text/javascript" src="js/jquery.js"></script>
+    <script type="text/javascript" src="js/superslide.2.1.js"></script>
+    <script type="text/javascript" src="js/jquery.soChange.js"></script>
+    <script type="text/javascript" src="js/index.js"></script>
+    <script type="text/javascript">
+        $(function () {
+            $(".mainmenu dl").hide();
+            $("li.mainmenu").hover(function () {
+                $(this).find("dl").stop(true, true);
+                $(this).find("dl").slideDown();
+            }, function () {
+                $(this).find("dl").stop(true, true);
+                $(this).find("dl").slideUp();
+            });
+        })
+    </script>
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="index.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/vsbscreen.min.js" id="_vsbscreen" devices="pc|mobile|pad"></script>
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1532532942)</script>
+</HEAD>
+
+<BODY>
+    <!--top s-->
+    <DIV class="topWrap clearfix">
+        <DIV class="topDiv">
+            <DIV class="logo">
+                <!--#begineditable contype="" name="高校LOGO" action="" layout="" clone="0" namechanged="0" order="0" ispublic="0" tagname="高校LOGO" viewid="166913" contentviewid="" stylesysid=""-->
+<!-- 网站logo图片地址请在本组件"内容配置-网站logo"处填写 -->
+
+<a href="index.htm"><img src="images/logo-2.png"></a>
+<!--#endeditable-->
+            </DIV>
+            <DIV class="topR fr">
+                <DIV class="topR_t fr">
+                    <!--#begineditable contype="" name="主页|收藏" action="" layout="" clone="0" namechanged="0" order="1" ispublic="0" tagname="主页|收藏" viewid="166914" contentviewid="" stylesysid=""-->
+<script language="javascript">
+function dosuba166914a()
+{
+    try{
+        var ua = navigator.userAgent.toLowerCase();
+        if(ua.indexOf("msie 8")>-1)
+        {
+            window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE8
+        }else if(ua.toLowerCase().indexOf("rv:")>-1)
+        {
+            window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE11+
+        }else{
+            if (document.all) 
+            {
+                window.external.addFavorite(document.location.href, document.title);
+            }else if(window.sidebar)
+            {
+                window.sidebar.addPanel( document.title, document.location.href, "");//firefox
+            }
+            else
+            {
+                alert(hotKeysa166914a());
+            }
+        }
+
+    }
+    catch (e){alert("无法自动添加到收藏夹，请使用 Ctrl + d 手动添加");}
+}
+function hotKeysa166914a() 
+{
+    var ua = navigator.userAgent.toLowerCase(); 
+    var str = "";    
+    var isWebkit = (ua.indexOf('webkit') != - 1); 
+    var isMac = (ua.indexOf('mac') != - 1);     
+    if (ua.indexOf('konqueror') != - 1) 
+    {  
+        str = 'CTRL + B'; // Konqueror   
+    } 
+    else if (window.home || isWebkit || isMac) 
+    {        
+        str = (isMac ? 'Command/Cmd' : 'CTRL') + ' + D'; // Netscape, Safari, iCab, IE5/Mac   
+    }
+    return ((str) ? '无法自动添加到收藏夹，请使用' + str + '手动添加' : str);
+}
+function setHomepagea166914a()
+{
+    var url = document.location.href;
+    if (document.all)
+    {
+        document.body.style.behavior='url(#default#homepage)';
+        document.body.setHomePage(url);
+    }
+    else if (window.sidebar)
+    {
+        if(window.netscape)
+        {
+             try{
+                  netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+             }catch (e){
+                   alert("该操作被浏览器拒绝，如果想启用该功能，请在地址栏内输入 about:config,然后将项 signed.applets.codebase_principal_support 值该为true");
+             }
+        }
+    var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components. interfaces.nsIPrefBranch);
+    prefs.setCharPref('browser.startup.homepage',url);
+    }
+    else
+    {
+        alert("浏览器不支持自动设为首页，请手动设置");
+    }
+}
+</script>
+
+            <A onclick="javascript:dosuba166914a();" href="#" style="TEXT-DECORATION: none;">
+                加入收藏
+            </A>|
+            <A href="http://mwb.guet.edu.cn/" target="_blank" style="TEXT-DECORATION: none;">
+               管理入口
+            </A>|
+            <A href="http://www.guet.edu.cn/" target="_blank" style="TEXT-DECORATION: none;">
+               学校主页
+            </A><!--#endeditable-->
+                </DIV>
+                <DIV style="clear: both"></DIV>
+                <!--#begineditable contype="" name="头部检索" action="" layout="" clone="0" namechanged="0" order="2" ispublic="0" tagname="头部检索" viewid="166915" contentviewid="" stylesysid=""--><script type="text/javascript">
+    function _nl_ys_check(){
+        
+        var keyword = document.getElementById('showkeycode166915').value;
+        if(keyword==null||keyword==""){
+            alert("请输入你要检索的内容！");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkeyword166915").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkeyword166915").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkeyword166915").value = base64.encode(document.getElementById("lucenenewssearchkeyword166915").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode166915"));
+        return true;
+    } 
+    function submitForm()
+    {
+        document.getElementById("au2a").submit();
+    }
+     function test44()
+                {
+                    var tempStr=document.getElementById('showkeycode166915').value;
+                    if(tempStr=="")
+                    {
+                        document.getElementById('showkeycode166915').value="请输入关键字搜索";
+                    }
+                }
+                
+                 function test33()
+                {
+                    var tempStr=document.getElementById('showkeycode166915').value;
+                    if(tempStr=="请输入关键字搜索")
+                    {
+                        document.getElementById('showkeycode166915').value="";
+                    }
+                }
+</script>
+<div class="Search">
+<form action="ssjgy.jsp?wbtreeid=1001" method="post" id="au2a" name="au2a" onsubmit="return _nl_ys_check()">
+ <input type="hidden" id="lucenenewssearchkeyword166915" name="lucenenewssearchkeyword" value=""><input type="hidden" id="_lucenesearchtype166915" name="_lucenesearchtype" value="1"><input type="hidden" id="searchScope166915" name="searchScope" value="0">
+ <input type="text" value="请输入关键字搜索" name="showkeycode" class="search_text" onclick="test33()" onblur="test44()" id="showkeycode166915" />
+                <div class="fdj fr"><input type="submit" class="button pngFix" value=""></div>
+</form>
+</div><script language="javascript" src="/system/resource/js/base64.js"></script><script language="javascript" src="/system/resource/js/formfunc.js"></script>
+<!--#endeditable-->
+                <!--#begineditable contype="" name="浮动图片" action="" layout="" clone="0" namechanged="0" order="3" ispublic="0" tagname="浮动图片" viewid="166919" contentviewid="" stylesysid=""-->   
+   
+   
+   
+<script language="javascript" src="/system/resource/js/dynclicks.js"></script>   
+</SCRIPT><!--#endeditable-->
+                <script type="text/javascript">
+                    function test3() {
+                        var tempStr = document.getElementById('test2').value;
+                        if (tempStr == "请输入关键字搜索") {
+                            document.getElementById('test2').value = "";
+                        }
+                    }
+                    function test4() {
+                        var tempStr = document.getElementById('test2').value;
+                        if (tempStr == "") {
+                            document.getElementById('test2').value = "请输入关键字搜索";
+                        }
+                    }
+                </script>
+            </DIV>
+        </DIV>
+    </DIV>
+    <!--nav-->
+    <DIV class="navWrap  clearfix">
+        <DIV class="nav">
+            <!--#begineditable contype="" name="主导航" action="" layout="" clone="0" namechanged="0" order="4" ispublic="0" tagname="主导航" viewid="166916" contentviewid="" stylesysid=""--><div class="navWrap  clearfix">
+    <div class="nav">
+    <ul>
+            <li>
+            <a class="link" href="index.htm">首页</a>
+        </li>
+        <li class="mainmenu">
+
+            <a class="link" href="sysgk/sysjj.htm">实验室概况</a>
+   
+            <dl class="chang">
+
+                    <dd><a href="sysgk/sysjj.htm">实验室简介</a></dd>
+
+                    <dd><a href="sysgk/yjfx.htm">研究方向</a></dd>
+
+                    <dd><a href="sysgk/yjnr.htm">研究内容</a></dd>
+
+                    <dd><a href="sysgk/ysts.htm">优势特色</a></dd>
+
+                    <dd><a href="sysgk/gzjh.htm">工作计划</a></dd>
+            </dl>
+        </li>
+        <li class="mainmenu">
+
+            <a class="link" href="rcdw/kytd.htm">人才队伍</a>
+   
+            <dl class="chang">
+
+                    <dd><a href="rcdw/kytd.htm">科研团队</a></dd>
+
+                    <dd><a href="rcdw/yxrc.htm">优秀人才</a></dd>
+
+                    <dd><a href="rcdw/jsml.htm">教师名录</a></dd>
+            </dl>
+        </li>
+        <li class="mainmenu">
+
+            <a class="link" href="kycg/kygk.htm">科研成果</a>
+   
+            <dl class="chang">
+
+                    <dd><a href="kycg/kygk.htm">科研概况</a></dd>
+
+                    <dd><a href="kycg/lwzz.htm">论文专著</a></dd>
+
+                    <dd><a href="kycg/dbxcg.htm">代表性成果</a></dd>
+
+                    <dd><a href="kycg/hjcg.htm">获奖成果</a></dd>
+            </dl>
+        </li>
+        <li class="mainmenu">
+
+            <a class="link" href="hzjl/xsbg.htm">合作交流</a>
+   
+            <dl class="chang">
+
+                    <dd><a href="hzjl/xsbg.htm">学术报告</a></dd>
+
+                    <dd><a href="hzjl/zbhy.htm">主办会议</a></dd>
+
+                    <dd><a href="hzjl/jlhz.htm">交流合作</a></dd>
+            </dl>
+        </li>
+        <li class="mainmenu">
+
+            <a class="link" href="<span style='color:red;font-size:9pt'>转换链接错误</span>">工作动态</a>
+   
+            <dl class="chang">
+
+                    <dd><a href="gzdt/kydt.htm">科研动态</a></dd>
+
+                    <dd><a href="gzdt/tzgg.htm">通知公告</a></dd>
+            </dl>
+        </li>
+        <li class="mainmenu">
+
+            <a class="link" href="kfkt/sqzn.htm">开放课题</a>
+   
+            <dl class="chang">
+
+                    <dd><a href="kfkt/sqzn.htm">申请指南</a></dd>
+
+                    <dd><a href="kfkt/glbf.htm">管理办法</a></dd>
+
+                    <dd><a href="kfkt/jfxz.htm">经费细则</a></dd>
+
+                    <dd><a href="kfkt/zzqk.htm">资助情况</a></dd>
+            </dl>
+        </li>
+        <li class="mainmenu">
+
+            <a class="link" href="xzzq.htm">下载专区</a>
+   
+        </li>
+     
+    </ul>
+</div>
+</div>
+<script type="text/javascript">
+
+    $(".mainmenu dl").hide();
+
+</script><!--#endeditable-->
+        </DIV>
+    </DIV>
+    <DIV class="container w1000 clearfix">
+        <DIV class="content contenta">
+            <DIV class="informBox fl">
+                <DIV class="dynamic">
+                    <H2>图片专题</H2><SPAN><A href="<span style='color:red;font-size:9pt'>转换链接错误</span>" onfocus="undefined" onfocus="undefined"><IMG src="temp/more.png" style="margin-top: 15px"></A></SPAN>
+                </DIV>
+                <!--新闻信息-->
+                <!--#begineditable contype="" name="图片专题" action="" layout="" clone="0" namechanged="0" order="5" ispublic="0" tagname="图片专题" viewid="166918" contentviewid="" stylesysid=""--><div class="new_inforBox fl">
+                <div class="newBox newBoxb">
+                    <div class="new_pic new_picb">
+                        <div id="slideBox" class="slideBox slideBox5">
+                            <div class="hd">
+                                <ul>
+<li>1</li>
+<li>2</li>
+<li>3</li>
+<li>4</li>
+</ul>
+                            </div>
+                            <div class="bd">
+                                <ul style="height:330px;">
+<li><a href="info/1048/1092.htm" target="_blank"><img src="/__local/1/A9/C4/72BE550299C5E7D0B762701DBD0_37251419_524C3.png" width="660" height="330" /><p>实验室联合举办第二届网络空间安全与大数据技术高峰论坛</p></a></li>
+<li><a href="info/1048/1093.htm" target="_blank"><img src="/__local/6/74/3E/CD602BCC727E7F9E9DAD395701F_4E0547A0_50F97.png" width="660" height="330" /><p>华南理工大学文贵华教授来校讲学</p></a></li>
+<li><a href="info/1048/1040.htm" target="_blank"><img src="/__local/5/07/54/C1AB5844FFD1938F6804D091289_640DCADE_2ED5E.jpg" width="660" height="330" /><p>2017年学术年会</p></a></li>
+<li><a href="info/1047/1094.htm" target="_blank"><img src="/__local/9/84/E1/FA82AA0C4CB70DFAB923A1D9545_B65EDDB8_AE11.jpg" width="660" height="330" /><p>法国巴黎八大学Sihem Mesnager教授及西南交通大学周正春教授来校讲学</p></a></li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>  
+            </div><script>_showDynClickBatch(['dynclicks_u5_1092','dynclicks_u5_1093','dynclicks_u5_1040','dynclicks_u5_1094'],[1092,1093,1040,1094],"wbnews", 1532532942)</script>
+<!--#endeditable-->
+                <!--通知公告-->
+            </DIV>
+            <DIV class="informBox fr">
+                <DIV class="dynamic" style="width: 320px">
+                    <H2>通知公告</H2><SPAN><A href="index/tzgg.htm" onfocus="undefined" onfocus="undefined"><IMG src="temp/more.png" style="margin-top: 15px"></A></SPAN>
+                </DIV>
+                <DIV class="infor_list infor_lista">
+                    <!--#begineditable contype="" name="通知公告" action="" layout="" clone="0" namechanged="0" order="7" ispublic="0" tagname="通知公告" viewid="166890" contentviewid="" stylesysid=""--><ul class="dynamic_list dynamic_listb dynamic_liste fr">
+   <li><a href="info/1075/1148.htm" style="float:left;">丁勇教授指导的研究生荣获2019...</a><span>11/20</span></li>
+   <li><a href="info/1075/1137.htm" style="float:left;">关于网络空间安全系列学术报告...</a><span>10/18</span></li>
+   <li><a href="info/1075/1138.htm" style="float:left;">关于山东大学王美琴教授来校讲...</a><span>10/11</span></li>
+   <li><a href="info/1075/1139.htm" style="float:left;">关于西安电子科技大学胡予濮教...</a><span>10/10</span></li>
+   <li><a href="info/1075/1140.htm" style="float:left;">2019年实验室开放课题资助名单</a><span>09/10</span></li>
+   <li><a href="info/1075/1141.htm" style="float:left;">美国哥伦比亚大学John Paisley...</a><span>07/01</span></li>
+   <li><a href="info/1075/1142.htm" style="float:left;">关于美国天普大学杜小江教授来...</a><span>06/27</span></li>
+   <li><a href="info/1075/1143.htm" style="float:left;">关于美国佛罗里达大西洋大学朱...</a><span>06/26</span></li>
+</ul><script>_showDynClickBatch(['dynclicks_u6_1148','dynclicks_u6_1137','dynclicks_u6_1138','dynclicks_u6_1139','dynclicks_u6_1140','dynclicks_u6_1141','dynclicks_u6_1142','dynclicks_u6_1143'],[1148,1137,1138,1139,1140,1141,1142,1143],"wbnews", 1532532942)</script>
+<!--#endeditable-->
+                </DIV>
+            </DIV>
+        </DIV>
+        <DIV class="content contente">
+            <DIV class="informBox fl">
+                <DIV class="dynamic dynamicb dynamice" style="width: 660px">
+                    <H2>新闻中心</H2><SPAN><A href="index/xwzx.htm" onfocus="undefined" onfocus="undefined"><IMG src="img/w_more.png" style="margin-top: 18px"></A></SPAN>
+                </DIV>
+                <DIV class="infor_list infor_listaxxxx"><!--#begineditable name="新闻中心列表" action="" layout="" tpltype="" contype="" clone="" viewid="202078" contentviewid="" tagname="新闻中心列表"--><ul class="tw_list">
+            <div class="tw_box">
+            <div class="tw_pic"><img src=""></div>
+            <div class="tw_text">
+                <div class="tw_title"> <span class="tw_title1" style="float:left">丁勇教授指导的研究生荣获2019年度...</span><span style="float:right">2019-11-20</span>
+                    <span class="clear"></span>
+                </div>
+                <div class="tw_abstract">
+                    <a href="info/1048/1147.htm"><span>日前，2019 中国计算机学会区块链技术大会在成都圆满结束。我校计算机与信息安全学院丁勇教授指导的研究生邹秀清、罗得寸、相恒奎等团队撰写的《基于区块链的河长制水质信息存证系统》荣获年度大会最佳学术论文，...[详情]</span></a>
+                </div>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <div class="tw_box">
+            <div class="tw_pic"><img src=""></div>
+            <div class="tw_text">
+                <div class="tw_title"> <span class="tw_title1" style="float:left">2019编码及其应用前沿学术论坛在桂...</span><span style="float:right">2019-06-03</span>
+                    <span class="clear"></span>
+                </div>
+                <div class="tw_abstract">
+                    <a href="info/1048/1149.htm"><span>“编码及其应用前沿学术论坛”将于2019年6月9日至2019年6月10日在桂林电子科技大学金鸡校区10教516举行。论坛由由桂林电子科技大学计算机与信息安全学院、广西密码学与信息安全重点实验室承办。本届论坛主要对对...[详情]</span></a>
+                </div>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <div class="tw_box">
+            <div class="tw_pic"><img src="/__local/1/A9/C4/72BE550299C5E7D0B762701DBD0_37251419_524C3.png"></div>
+            <div class="tw_text">
+                <div class="tw_title"> <span class="tw_title1" style="float:left">实验室联合举办第二届网络空间安全...</span><span style="float:right">2019-01-05</span>
+                    <span class="clear"></span>
+                </div>
+                <div class="tw_abstract">
+                    <a href="info/1048/1092.htm"><span>2019年1月14-15日，广西可信软件重点实验室、广西密码学与信息安全重点实验室联合举办桂林电子科技大学第二届网络空间安全与大数据技术高峰论坛。中国工程院沈昌祥院士、华东师范大学周傲英教授、西安电子科技大...[详情]</span></a>
+                </div>
+            </div>
+            <div class="clear"></div>
+        </div>
+</ul><script>_showDynClickBatch(['dynclicks_u7_1147','dynclicks_u7_1149','dynclicks_u7_1092'],[1147,1149,1092],"wbnews", 1532532942)</script>
+<!--#endeditable--></DIV>
+            </DIV>
+            <DIV class="informBox informBoxc fr" style="margin-left: 0px">
+                <DIV class="informBoxWrapper">
+                    <DIV class="dynamic dynamicb dynamice" style="width: 316px;">
+                        <H2>学术活动</H2><SPAN><A href="hzjl/xsbg.htm" onfocus="undefined" onfocus="undefined"><IMG src="img/w_more.png" style="margin-top: 18px"></A></SPAN>
+                    </DIV>
+                    <DIV class="infor_list infor_lista">
+                        <!--#begineditable contype="" name="学术活动" action="" layout="" clone="0" namechanged="0" order="8" ispublic="0" tagname="学术活动" viewid="166891" contentviewid="" stylesysid=""--><ul class="dynamic_list dynamic_listb dynamic_liste fr">
+   <li><a href="info/1091/1106.htm" style="float:left;">关于网络空间安全系列学术报告...</a><span>10-18</span></li>
+   <li><a href="info/1091/1104.htm" style="float:left;">关于山东大学王美琴教授来校讲...</a><span>10-11</span></li>
+   <li><a href="info/1091/1120.htm" style="float:left;">关于西安电子科技大学胡予濮教...</a><span>10-10</span></li>
+   <li><a href="info/1091/1108.htm" style="float:left;">美国哥伦比亚大学John Paisley...</a><span>07-01</span></li>
+   <li><a href="info/1091/1122.htm" style="float:left;">关于美国天普大学杜小江教授来...</a><span>06-27</span></li>
+</ul><script>_showDynClickBatch(['dynclicks_u8_1106','dynclicks_u8_1104','dynclicks_u8_1120','dynclicks_u8_1108','dynclicks_u8_1122'],[1106,1104,1120,1108,1122],"wbnews", 1532532942)</script>
+<!--#endeditable-->
+                    </DIV>
+                </DIV>
+                <DIV class="dynamic dynamicb dynamice" style="width: 316px">
+                    <H2>开放课题</H2><SPAN><A href="kfkt/sqzn.htm" onfocus="undefined" onfocus="undefined"><IMG src="img/w_more.png" style="margin-top: 18px"></A></SPAN>
+                </DIV>
+                <DIV class="infor_list infor_lista">
+                    <!--#begineditable contype="" name="开放课题" action="" layout="" clone="0" namechanged="" order="6" ispublic="0" tagname="开放课题" viewid="166885" contentviewid="" stylesysid=""--><div class="infor_list">
+   <ul class="dynamic_list dynamic_listb dynamic_liste">
+   <li><a href="info/1084/1173.htm"><em>广西密码学与信息安全重点实验...</em><span>12-31</span></a></li>
+<li><a href="info/1085/1172.htm"><em>广西密码学与信息安全重点实验...</em><span>12-31</span></a></li>
+<li><a href="info/1085/1154.htm"><em>广西密码学与信息安全重点实验...</em><span>12-10</span></a></li>
+<li><a href="info/1085/1112.htm"><em>经费管理办法</em><span>11-05</span></a></li>
+<li><a href="info/1084/1155.htm"><em>实验室研究课题申请书</em><span>03-12</span></a></li>
+<li><a href="info/1084/1111.htm"><em>开放课题申报指南</em><span>09-03</span></a></li>
+   </ul>
+</div><script>_showDynClickBatch(['dynclicks_u9_1173','dynclicks_u9_1172','dynclicks_u9_1154','dynclicks_u9_1112','dynclicks_u9_1155','dynclicks_u9_1111'],[1173,1172,1154,1112,1155,1111],"wbnews", 1532532942)</script>
+<!--#endeditable-->
+                </DIV><BR>
+
+            </DIV>
+        </DIV>
+        <DIV class="content contente">
+            <DIV class="vsb-space new_inforBox new_inforBoxk" columns="1" style="width:996px">
+                <DIV class="dynamic" style="background:none; width:977px;">
+                    <H2>常用链接</H2>
+                </DIV>
+                <DIV class="zp_pic"><!--#begineditable name="常用链接图片列表" action="webber.wbst.com.image.ColumnImage" layout="/system/_component/columnimage/tplimagelist.jsp" tpltype="1" contype="image" clone="" viewid="202091" contentviewid="" tagname="常用链接图片列表"-->    <ul>
+  <li> <a href="https://www.guet.edu.cn" target="_blank"><img src="images/pic_guet.jpg"></img></a></li>
+  <li> <a href="http://kjt.gxzf.gov.cn/gxkjt/" target="_blank"><img src="images/pic_gxkjt.jpg"></img></a></li>
+  <li> <a href="http://www.most.gov.cn/" target="_blank"><img src="images/pic_kjb.jpg"></img></a></li>
+  <li> <a href="http://www.nsfc.gov.cn/" target="_blank"><img src="images/pic_nnsf.jpg"></img></a></li>
+  <li> <a href="https://isisn.nsfc.gov.cn/egrantweb/" target="_blank"><img src="images/pic_sis.jpg"></img></a></li>
+  <li> <a href="http://gkg.kjt.gxzf.gov.cn/egrantweb/" target="_blank"><img src="images/pic_gxtimp.jpg"></img></a></li>
+</ul><!--#endeditable--></DIV>
+            </DIV>
+        </DIV>
+    </DIV>
+    <!--foot-->
+    <DIV class="footWrap clearfix">
+        <DIV class="footDiv_two">
+            <DIV class="foot_two">
+                <!--#begineditable contype="" name="版权" action="" layout="" clone="0" namechanged="0" order="10" ispublic="0" tagname="版权" viewid="166894" contentviewid="" stylesysid=""--><!-- 版权内容请在本组件"内容配置-版权"处填写 -->
+<p style="text-align: center;">Copyright© 2018 All Rights Reserved. 广西密码学与信息安全重点实验室</p><p style="text-align: center;">地址：广西桂林市七星区金鸡路1号 邮编：541004</p><!--#endeditable-->
+            </DIV>
+        </DIV>
+    </DIV>
+    <script type="text/javascript">
+        $(function () {
+            $(".select").each(function () {
+                var s = $(this);
+                var z = parseInt(s.css("z-index"));
+                var dt = $(this).children("dt");
+                var dd = $(this).children("dd");
+                var _show = function () { dd.slideDown(200); dt.addClass("cur"); s.css("z-index", z + 1); };   //展开效果
+                var _hide = function () { dd.slideUp(200); dt.removeClass("cur"); s.css("z-index", z); };    //关闭效果
+                dt.click(function () { dd.is(":hidden") ? _show() : _hide(); });
+                dd.find("a").click(function () { dt.html($(this).html()); _hide(); });     //选择效果（如需要传值，可自定义参数，在此处返回对应的“value”值 ）
+                $("body").click(function (i) { !$(i.target).parents(".select").first().is(s) ? _hide() : ""; });
+            })
+        });
+    </script>
+    <script type="text/javascript">
+        $(function () {
+            //切换对象为其他，这里为包含图片和标题的层
+            $('#change_32 div.changeDiv').soChange({//对象指向层，层内包含图片及标题
+                thumbObj: '#change_32 .ul_change_a2 span',
+                thumbNowClass: 'on'//自定义导航对象当前class为on
+            });
+        });
+    </script>
+    <script type="text/javascript">
+        function setContentTab(name, curr, n) {
+            for (i = 1; i <= n; i++) {
+                var menu = document.getElementById(name + i);
+
+                var cont = document.getElementById("con_" + name + "_" + i);
+                if (menu != null) {
+                    menu.className = i == curr ? "up" : "";
+                }
+                if (i == curr) {
+                    cont.style.display = "block";
+                } else {
+
+                    if (cont != null) {
+                        cont.style.display = "none";
+                    }
+                }
+            }
+        }
+    </script>
+    <script type="text/javascript">
+        $(".pic ul li").hover(function () {
+            $(this).stop(true).animate({ width: "848px" }, 500).siblings().stop(true).animate({ width: "50px" }, 500);
+        });
+    </script>
+
+</BODY>
+
+</HTML>

@@ -1,0 +1,1410 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head><title>桂林电子科技大学信息公开网</title><META Name="keywords" Content="桂林电子科技大学信息公开网" />
+
+
+
+
+
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type"><link rel="stylesheet" type="text/css" href="style/css.css">
+
+
+<style></style>
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="index.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/vsbscreen.min.js" id="_vsbscreen" devices="pc|mobile|pad"></script>
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1409629465)</script>
+</head>
+<body>
+<table cellspacing="0" cellpadding="0" width="1000" align="center" background="images/logo.jpg" border="0">
+<tbody>
+<tr>
+<td height="195" valign="middle" style="padding-left: 60px"></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" width="1000" align="center" background="images/index_03.gif" border="0">
+<tbody>
+<tr>
+<td height="35" align="center"><!--#begineditable name="网站导航" viewid="201082" tagname="网站导航" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><style type="text/css">
+td.b1_0_{FONT-SIZE:9pt;}
+td.b2_0_{FONT-SIZE:9pt;}
+td.b3_0_{FONT-SIZE:9pt;BACKGROUND-COLOR: #eff8fe;}
+td.b4_0_{FONT-SIZE:9pt;BACKGROUND-COLOR: #e8f0fb;}
+a.menu0_0_:link {TEXT-DECORATION: none;};
+a.menu0_0_:visited { TEXT-DECORATION: none;};
+a.menu0_0_:hover {TEXT-DECORATION: none;};
+a.menu0_0_:active {TEXT-DECORATION: none;};
+table.tb1_0_{FONT-SIZE:9pt;border:0;}
+span.s1_0_{COLOR: #ffff00;FONT-SIZE: 10pt;FONT-WEIGHT: bold;}
+span.s2_0_{FONT-SIZE: 9pt;COLOR: #cc0000;LINE-HEIGHT: 160%;}
+span.s10_0_{COLOR: #ffffff;FONT-SIZE: 10pt;FONT-WEIGHT: bold;TEXT-DECORATION: none;}
+span.s20_0_{FONT-SIZE: 9pt;COLOR: #222222;LINE-HEIGHT: 160%;}
+</style>
+<SCRIPT language="javascript"> 
+ var showfix_0_ = 1;
+ var isvertical_0_ = false;
+</SCRIPT>
+<script language="javascript" src="/system/resource/js/menu/text.js"></script>
+<TABLE id="t1_0_" cellSpacing="0" cellPadding="0" border="0" height="0" width="960"><TR><TD valign="center"></TD><TD valign="middle" height="0" width="0" nowrap class="b1_0_" align="center" id="a_0_1001" onmouseover="tshowLayers('1001','b2_0_', '_0_')" onmouseout="thideLayers('1001','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="index.htm"><span class="fontstyle201082">&nbsp;首页&nbsp;</span></a></TD><TD valign="center" class="leaderfont201082">|</TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1079" onmouseover="tshowLayers('1079','b2_0_', '_0_')" onmouseout="thideLayers('1079','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="xxgk.htm"><span class="fontstyle201082">&nbsp;学校概况&nbsp;</span></a></TD><TD valign="center" class="leaderfont201082">|</TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1080" onmouseover="tshowLayers('1080','b2_0_', '_0_')" onmouseout="thideLayers('1080','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="dwgk.htm"><span class="fontstyle201082">&nbsp;党务公开&nbsp;</span></a></TD><TD valign="center" class="leaderfont201082">|</TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1081" onmouseover="tshowLayers('1081','b2_0_', '_0_')" onmouseout="thideLayers('1081','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="mzzx.htm"><span class="fontstyle201082">&nbsp;民主治校&nbsp;</span></a></TD><TD valign="center" class="leaderfont201082">|</TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1082" onmouseover="tshowLayers('1082','b2_0_', '_0_')" onmouseout="thideLayers('1082','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="jxgl.htm"><span class="fontstyle201082">&nbsp;教学管理&nbsp;</span></a></TD><TD valign="center" class="leaderfont201082">|</TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1083" onmouseover="tshowLayers('1083','b2_0_', '_0_')" onmouseout="thideLayers('1083','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="kygl.htm"><span class="fontstyle201082">&nbsp;科研管理&nbsp;</span></a></TD><TD valign="center" class="leaderfont201082">|</TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1084" onmouseover="tshowLayers('1084','b2_0_', '_0_')" onmouseout="thideLayers('1084','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="xsgz.htm"><span class="fontstyle201082">&nbsp;学生工作&nbsp;</span></a></TD><TD valign="center" class="leaderfont201082">|</TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1085" onmouseover="tshowLayers('1085','b2_0_', '_0_')" onmouseout="thideLayers('1085','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="gbrs.htm"><span class="fontstyle201082">&nbsp;干部人事&nbsp;</span></a></TD><TD valign="center" class="leaderfont201082">|</TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1086" onmouseover="tshowLayers('1086','b2_0_', '_0_')" onmouseout="thideLayers('1086','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="cwgl.htm"><span class="fontstyle201082">&nbsp;财务管理&nbsp;</span></a></TD><TD valign="center" class="leaderfont201082">|</TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1087" onmouseover="tshowLayers('1087','b2_0_', '_0_')" onmouseout="thideLayers('1087','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="jjzc.htm"><span class="fontstyle201082">&nbsp;基建资产&nbsp;</span></a></TD><TD valign="center" class="leaderfont201082">|</TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1131" onmouseover="tshowLayers('1131','b2_0_', '_0_')" onmouseout="thideLayers('1131','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="http://mwb.guet.edu.cn/system/login.jsp" target="_blank"><span class="fontstyle201082">&nbsp;管理&nbsp;</span></a></TD></TR></TR></table><!--#endeditable--></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" width="1000" align="center" background="images/index_07.gif" border="0">
+<tbody>
+<tr>
+<td width="27" align="left"><img src="images/index_05.gif" width="27" height="30"></td>
+<td width="473" align="left" style="padding-left: 30px"><!--#begineditable name="文本日历" viewid="201083" tagname="文本日历" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><script language="javascript" src="/system/resource/js/calendar/simple.js"></script>               
+<script language="JavaScript">
+//阳历
+var c_Calendar201083EnDateString;
+
+var c_Calendar201083WeekDayString;
+
+//阴历
+var c_Calendar201083CnDateString;
+//节气
+var c_Calendar201083JQString;
+//年
+var c_Calendar201083YearString;
+//月
+var c_Calendar201083MonthString;
+//日
+var c_Calendar201083DayString;
+//周
+var c_Calendar201083WeekString;
+function RunGLNL201083()
+{          
+    var  sc =new Simple_Calendar ();
+    sc.init();
+    c_Calendar201083CnDateString=sc.getCnDateString();
+    c_Calendar201083WeekDayString=sc.getCalendarWeekString();
+    c_Calendar201083JQString=sc.getJQString();
+    c_Calendar201083EnDateString=sc.getEnDateString();
+    c_Calendar201083YearString=sc.getYearString();
+    c_Calendar201083MonthString=sc.getMonthString();
+    c_Calendar201083DayString=sc.getDayString();
+    c_Calendar201083WeekString=sc.getWeekString();
+}
+RunGLNL201083();
+document.write('<div id="c_lunar201083"   class="fontstyle201083"  >');       
+document.write(c_Calendar201083EnDateString);
+document.write("&nbsp;&nbsp;"+c_Calendar201083WeekDayString);
+document.write("&nbsp;&nbsp;"+c_Calendar201083CnDateString);
+
+
+document.write("</div>");
+
+</script>
+<!--#endeditable--></td>
+<td width="474" align="right" style="padding-right: 30px"><!--#begineditable name="简单检索" viewid="201084" tagname="简单检索" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""-->
+
+
+
+
+
+
+<script language="javascript" src="/system/resource/js/base64.js"></script>
+<script language="javascript" src="/system/resource/js/formfunc.js"></script>
+<form action="search.jsp?wbtreeid=1001" method="post" name="a201084a" target="_blank" onsubmit="return subsearchdataa201084a()" style="display: inline;">
+ <input type="hidden" name="Find" value="find">
+ <input type="hidden" name="entrymode" value="1">
+ <input type="hidden" id="INTEXT2" name="INTEXT2" value="">
+ <input type="hidden" name="news_search_code">
+ <table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+   <td Valign="middle" nowrap="nowrap" height="22">
+    <font class="leaderfont201084">站内搜索：</font>
+    
+        <input type="hidden" name="wbtreeids" value="0">
+    </td><td><span id="intextspana201084a"></span><iframe id="intextframea201084a" src="about:blank" scrolling="no" frameborder="0" style="position:absolute;top:0px;left:0px;display:none;"></iframe><input size="22" name="INTEXT" class="querystyle201084">
+   </td>
+   <td align="absmiddle" nowrap="nowrap" height="1">
+   <input type="image" src="images/index_10.gif" valign="bottom" style="cursor: hand"></td>
+  </tr>
+  
+ </table>
+</form>
+<script>
+String.prototype.trim= function()       
+{              
+    var t = this.replace(/(^\s*)|(\s*$)/g, "");     
+    return t.replace(/(^　*)|(　*$)/g, "");     
+}
+ 
+function subsearchdataa201084a()
+{ 
+	
+	if(document.a201084a.INTEXT.value.trim()=="")
+	{
+		alert("请输入查询关键字！");
+		return false;
+	}
+	
+	
+    if(checkDataa201084a(document.a201084a))
+    {
+       return true;  
+    }
+    return false;
+}       
+</script>
+
+<script> 
+function checkDataa201084a(formname)
+{
+	if(formname.INTEXT.value.trim()=="")
+	{
+		alert("请输入查询关键字！");
+		return false;
+	}
+
+	var  base64 = new Base64();
+    if(window.toFF==1)
+        {
+            var ssvalue = formname.INTEXT.value;
+            formname.INTEXT2.value = Simplized(ssvalue);
+            formname.INTEXT2.value = base64.encode(formname.INTEXT2.value);
+        }else
+        formname.INTEXT2.value = formname.INTEXT.value;
+        formname.INTEXT2.value = base64.encode(formname.INTEXT2.value);
+       return true;
+}
+</script>
+<!--#endeditable--></td>
+<td width="26" align="right"><img src="images/index_08.gif" width="26" height="30"></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" width="1000" align="center" border="0">
+<tbody>
+<tr>
+<td bgcolor="#ffffff" height="10"></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" width="1000" align="center" border="0">
+<tbody>
+<tr>
+<td width="377" height="10" align="center" valign="top" bgcolor="#ffffff">
+<table cellspacing="0" cellpadding="0" width="367" background="images/index_40.gif" border="0">
+<tbody>
+<tr>
+<td height="30" width="43">&nbsp;</td>
+<td class="h5" width="270" align="left">信息公开制度</td>
+<td width="54"><a href="xxgkzd/xxgkzd.htm"><span style="font-size: 12px; color: #000">更多&gt;&gt;</span></a></td></tr></tbody></table>
+<table cellspacing="5" cellpadding="0" width="367" border="0" style="border-right: #cccccc 1px solid; border-bottom: #cccccc 1px solid; border-left: #cccccc 1px solid">
+<tbody>
+<tr>
+<td height="230" valign="middle" align="left"><!--#begineditable name="信息公开制度" viewid="201088" tagname="信息公开制度" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><table width="100%" cellspacing="3" cellpadding="0">
+  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont201088"><img src="images/index_23.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1136/6445.htm" class="c201088" title="桂林电子科技大学2018-2019学年信息公开工作年报" target="_blank">
+        桂林电子科技大学2018-2019学年...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle201088" width="1%" nowrap>[2019/10/29]</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont201088"><img src="images/index_23.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1136/6395.htm" class="c201088" title="桂林电子科技大学2017-2018学年信息公开工作年报" target="_blank">
+        桂林电子科技大学2017-2018学年...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle201088" width="1%" nowrap>[2018/12/11]</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont201088"><img src="images/index_23.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1136/1259.htm" class="c201088" title="桂林电子科技大学2016-2017学年信息公开工作年报" target="_blank">
+        桂林电子科技大学2016-2017学年...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle201088" width="1%" nowrap>[2017/10/31]</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont201088"><img src="images/index_23.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1136/1260.htm" class="c201088" title="教育部办公厅关于全面推进政务公开工作的实施意见(（教办厅〔2017〕3号）" target="_blank">
+        教育部办公厅关于全面推进政务...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle201088" width="1%" nowrap>[2017/09/21]</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont201088"><img src="images/index_23.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1136/1261.htm" class="c201088" title="桂林电子科技大学2015-2016学年信息公开工作年报" target="_blank">
+        桂林电子科技大学2015-2016学年...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle201088" width="1%" nowrap>[2017/04/08]</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont201088"><img src="images/index_23.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1136/1262.htm" class="c201088" title="教育部关于公布《高等学校信息公开事项清单》的通知（教办函[2014]23号）" target="_blank">
+        教育部关于公布《高等学校信息...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle201088" width="1%" nowrap>[2016/12/15]</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont201088"><img src="images/index_23.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1136/1263.htm" class="c201088" title="桂林电子科技大学2014-2015学年信息公开工作年报" target="_blank">
+        桂林电子科技大学2014-2015学年...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle201088" width="1%" nowrap>[2015/11/18]</td></tr>
+</table><!--#endeditable--></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" width="367" align="center" border="0">
+<tbody>
+<tr>
+<td bgcolor="#ffffff" height="10"></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" width="367" background="images/index_40.gif" border="0">
+<tbody>
+<tr>
+<td height="30" width="43">&nbsp;</td>
+<td class="h5" width="270" align="left">重要会议决议</td>
+<td width="54"><a href="zyhyjy/zyhyjy.htm"><span style="font-size: 12px; color: #000">更多&gt;&gt;</span></a></td></tr></tbody></table>
+<table cellspacing="5" cellpadding="0" width="367" border="0" style="border-right: #cccccc 1px solid; border-bottom: #cccccc 1px solid; border-left: #cccccc 1px solid">
+<tbody>
+<tr>
+<td height="230" valign="middle" align="left"><!--#begineditable name="重要会议决议" viewid="201129" tagname="重要会议决议" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--><table width="100%" cellspacing="3" cellpadding="0">
+  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont201129"><img src="images/index_23.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1137/1280.htm" class="c201129" title="2018年第5次校长办公会议纪要" target="_blank">
+        2018年第5次校长办公会议纪要
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle201129" width="1%" nowrap>04月09日</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont201129"><img src="images/index_23.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1137/1279.htm" class="c201129" title="2018年第4次校长办公会议纪要" target="_blank">
+        2018年第4次校长办公会议纪要
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle201129" width="1%" nowrap>04月03日</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont201129"><img src="images/index_23.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1137/1278.htm" class="c201129" title="2018年第3次校长办公会议纪要" target="_blank">
+        2018年第3次校长办公会议纪要
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle201129" width="1%" nowrap>03月16日</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont201129"><img src="images/index_23.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1137/1277.htm" class="c201129" title="2018年第2次校长办公会议纪要" target="_blank">
+        2018年第2次校长办公会议纪要
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle201129" width="1%" nowrap>03月07日</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont201129"><img src="images/index_23.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1137/1276.htm" class="c201129" title="2018年第1次校长办公会议纪要" target="_blank">
+        2018年第1次校长办公会议纪要
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle201129" width="1%" nowrap>01月16日</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont201129"><img src="images/index_23.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1137/1275.htm" class="c201129" title="2017年第20次校长办公会议纪要" target="_blank">
+        2017年第20次校长办公会议纪要
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle201129" width="1%" nowrap>12月15日</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont201129"><img src="images/index_23.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1137/1274.htm" class="c201129" title="2017年第19次校长办公会议纪要" target="_blank">
+        2017年第19次校长办公会议纪要
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle201129" width="1%" nowrap>12月11日</td></tr>
+</table><!--#endeditable--></td></tr></tbody></table></td>
+<td bgcolor="#ffffff" valign="top" width="417" align="center">
+<table cellspacing="0" cellpadding="0" width="407" background="images/index_16.gif" border="0">
+<tbody>
+<tr>
+<td height="30" width="43">&nbsp;</td>
+<td class="h5" width="270" align="left">最新发布</td>
+<td width="54"></td></tr></tbody></table>
+<table cellspacing="5" cellpadding="0" width="407" border="0" style="border-right: #cccccc 1px solid; border-bottom: #cccccc 1px solid; border-left: #cccccc 1px solid">
+<tbody>
+<tr>
+<td height="230" valign="middle" align="left"><!--#begineditable name="最新公告标题列表" viewid="201086" tagname="最新公告标题列表" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><table width="100%" cellspacing="3" cellpadding="0">
+  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont201086"><img src="images/index_23.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    <a href="cwgl/cwgl.htm"><span class="columnstyle201086">[财务管理]</span></a>
+    
+        <a href="info/1124/6465.htm" class="c201086" title="桂林电子科技大学2020年部门预算、“三公”经费预算信息公开" target="_blank">
+        桂林电子科技大学2020年部门预...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle201086" width="1%" nowrap>[2020/02/11]</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont201086"><img src="images/index_23.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    <a href="jxgl/xkzy.htm"><span class="columnstyle201086">[学科专业]</span></a>
+    
+        <a href="info/1106/6456.htm" class="c201086" title="桂林电子科技大学2018-2019学年本科教学质量报告" target="_blank">
+        桂林电子科技大学2018-2019学年...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle201086" width="1%" nowrap>[2020/01/15]</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont201086"><img src="images/index_23.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    <a href="jxgl/szqk.htm"><span class="columnstyle201086">[师资情况]</span></a>
+    
+        <a href="info/1109/6440.htm" class="c201086" title="关于表彰学校2018年“本科教学质量优秀奖”获奖教师的决定" target="_blank">
+        关于表彰学校2018年“本科教学...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle201086" width="1%" nowrap>[2019/11/15]</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont201086"><img src="images/index_23.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    <a href="jxgl/szqk.htm"><span class="columnstyle201086">[师资情况]</span></a>
+    
+        <a href="info/1109/6439.htm" class="c201086" title="桂林电子科技大学基层教学组织建设与管理办法（试行）" target="_blank">
+        桂林电子科技大学基层教学组织...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle201086" width="1%" nowrap>[2019/11/15]</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont201086"><img src="images/index_23.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    <a href="jxgl/szqk.htm"><span class="columnstyle201086">[师资情况]</span></a>
+    
+        <a href="info/1109/6438.htm" class="c201086" title="桂林电子科技大学教授、副教授为本科生上课的规定" target="_blank">
+        桂林电子科技大学教授、副教授...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle201086" width="1%" nowrap>[2019/11/15]</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont201086"><img src="images/index_23.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    <a href="jxgl/xkzy.htm"><span class="columnstyle201086">[学科专业]</span></a>
+    
+        <a href="info/1106/6437.htm" class="c201086" title="桂林电子科技大学普通高等教育全日制本科学生学籍管理实施细则（修订）" target="_blank">
+        桂林电子科技大学普通高等教育...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle201086" width="1%" nowrap>[2019/11/15]</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont201086"><img src="images/index_23.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    <a href="jxgl/xkzy.htm"><span class="columnstyle201086">[学科专业]</span></a>
+    
+        <a href="info/1106/6436.htm" class="c201086" title="桂林电子科技大学人才培养方案管理办法（修订）" target="_blank">
+        桂林电子科技大学人才培养方案...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle201086" width="1%" nowrap>[2019/11/15]</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont201086"><img src="images/index_23.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    <a href="jxgl/xkzy.htm"><span class="columnstyle201086">[学科专业]</span></a>
+    
+        <a href="info/1106/6435.htm" class="c201086" title="桂林电子科技大学境外教材选用管理办法（试行）" target="_blank">
+        桂林电子科技大学境外教材选用...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle201086" width="1%" nowrap>[2019/11/15]</td></tr>
+</table><!--#endeditable--></td></tr></tbody></table>
+
+<table cellspacing="0" cellpadding="0" width="367" align="center" border="0">
+<tbody>
+<tr>
+<td bgcolor="#ffffff" height="10"></td></tr></tbody></table>
+
+
+<table cellspacing="0" cellpadding="0" width="407" background="images/index_42.gif" border="0">
+<tbody>
+<tr>
+<td height="30" width="43">&nbsp;</td>
+<td align="left" class="h5">其它主动公开项目</td>
+</tr></tbody></table>
+
+
+
+<table cellspacing="5" cellpadding="0" width="407" border="0" style="border-right: #cccccc 1px solid; border-bottom: #cccccc 1px solid; border-left: #cccccc 1px solid">
+<tbody>
+<tr>
+<td width="15" height="230" align="left" valign="middle"></td>
+<td valign="top" align="left">
+<table cellspacing="0" cellpadding="0" width="367" align="center" border="0">
+<tbody>
+<tr>
+<td bgcolor="#ffffff" height="10"></td></tr></tbody></table><!--#begineditable name="其它主动公开项目" viewid="201170" tagname="其它主动公开项目" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""-->     
+     
+  
+     
+ 
+<script language="javascript" src="/system/resource/js/dynclicks.js"></script>
+<table border="0" width="0">     
+    <tr>   
+            <td align="absmiddle">
+<span class="leaderstyle201170"></span></td>     
+            <td width="100" align="left">   
+                <A class="c201170" HREF="https://www.guet.edu.cn/pubinfo/crjgl.htm" onclick="_addDynClicks('wburl',1409629465,38796)">出入境管理</A>
+                 
+            </td>     
+   
+            <td align="absmiddle">
+
+                <span class="jumpstyle201170"></span>
+            <span class="leaderstyle201170"></span></td>     
+            <td width="100" align="left">   
+                <A class="c201170" HREF="https://www.guet.edu.cn/pubinfo/bszn.htm" onclick="_addDynClicks('wburl',1409629465,38797)">办事指南</A>
+                 
+            </td>     
+   
+            <td align="absmiddle">
+
+                <span class="jumpstyle201170"></span>
+            <span class="leaderstyle201170"></span></td>     
+            <td width="100" align="left">   
+                <A class="c201170" HREF="https://www.guet.edu.cn/pubinfo/xxgzzd.htm" onclick="_addDynClicks('wburl',1409629465,38798)">学校规章制度</A>
+                 
+            </td>     
+</tr><tr>   
+            <td align="absmiddle">
+<span class="leaderstyle201170"></span></td>     
+            <td width="100" align="left">   
+                <A class="c201170" HREF="https://www.guet.edu.cn/pubinfo/cybg.htm" onclick="_addDynClicks('wburl',1409629465,38799)">常用表格</A>
+                 
+            </td>     
+   
+            <td align="absmiddle">
+
+                <span class="jumpstyle201170"></span>
+            <span class="leaderstyle201170"></span></td>     
+            <td width="100" align="left">   
+                <A class="c201170" HREF="https://www.guet.edu.cn/pubinfo/bslc.htm" onclick="_addDynClicks('wburl',1409629465,38800)">办事流程</A>
+                 
+            </td>     
+   
+            <td align="absmiddle">
+
+                <span class="jumpstyle201170"></span>
+            <span class="leaderstyle201170"></span></td>     
+            <td width="100" align="left">   
+                <A class="c201170" HREF="https://www.guet.edu.cn/pubinfo/ltxzt.htm" onclick="_addDynClicks('wburl',1409629465,38801)">离退休专题</A>
+                 
+            </td>     
+</tr><tr>   
+            <td align="absmiddle">
+<span class="leaderstyle201170"></span></td>     
+            <td width="100" align="left">   
+                <A class="c201170" HREF="https://www.guet.edu.cn/pubinfo/wshd.htm" onclick="_addDynClicks('wburl',1409629465,38802)">网上互动</A>
+                 
+            </td>     
+   
+            <td align="absmiddle">
+
+                <span class="jumpstyle201170"></span>
+            <span class="leaderstyle201170"></span></td>     
+            <td width="100" align="left">   
+                <A class="c201170" HREF="https://www.guet.edu.cn/pubinfo/jdgz.htm" onclick="_addDynClicks('wburl',1409629465,38803)">监督工作</A>
+                 
+            </td>     
+   
+            <td align="absmiddle">
+
+                <span class="jumpstyle201170"></span>
+            <span class="leaderstyle201170"></span></td>     
+            <td width="100" align="left">   
+                <A class="c201170" HREF="https://www.guet.edu.cn/pubinfo/zyhyjy/zyhyjy.htm" onclick="_addDynClicks('wburl',1409629465,38804)">校级重要会议</A>
+                 
+            </td>     
+</tr><tr>   
+            <td align="absmiddle">
+<span class="leaderstyle201170"></span></td>     
+            <td width="100" align="left">   
+                <A class="c201170" HREF="https://www.guet.edu.cn/pubinfo/fwbz.htm" onclick="_addDynClicks('wburl',1409629465,38805)">服务保障</A>
+                 
+            </td>     
+   
+            <td align="absmiddle">
+
+                <span class="jumpstyle201170"></span>
+            <span class="leaderstyle201170"></span></td>     
+            <td width="100" align="left">   
+                <A class="c201170" HREF="https://www.guet.edu.cn/pubinfo/msrd.htm" onclick="_addDynClicks('wburl',1409629465,38812)">民生热点</A>
+                 
+            </td>     
+   
+            <td align="absmiddle">
+
+                <span class="jumpstyle201170"></span>
+            <span class="leaderstyle201170"></span></td>     
+            <td width="100" align="left">   
+                <A class="c201170" HREF="https://www.guet.edu.cn/pubinfo/aqwmxy.htm" onclick="_addDynClicks('wburl',1409629465,38813)">安全文明校园</A>
+                 
+            </td>     
+</tr><tr>   
+            <td align="absmiddle">
+<span class="leaderstyle201170"></span></td>     
+            <td width="100" align="left">   
+                <A class="c201170" HREF="https://www.guet.edu.cn/pubinfo/xwxk.htm" onclick="_addDynClicks('wburl',1409629465,38814)">学位学科</A>
+                 
+            </td>     
+</tr></table><!--#endeditable--></td>
+</tr>
+</tbody></table>
+
+</td>
+<td bgcolor="#ffffff" valign="top" align="center">
+<table cellspacing="0" cellpadding="0" width="196" border="0">
+<tbody>
+<tr>
+<td height="200" valign="middle" align="center"><!--#begineditable name="图片按钮链接" viewid="201085" tagname="图片按钮链接" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""-->
+
+
+
+
+
+<table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+    <td><a href="mailto:xzxx@guet.edu.cn" target="_blank" onclick="_addDynClicks('wbimage',1409629465,33100)"><img src="images/xzxx.GIF" width="188" height="37" hspace="3" vspace="4" border="0"></a></td>
+        </tr>
+        <tr>
+    <td><a href="https://www.guet.edu.cn/pubinfo/cwgl.htm" target="_blank" onclick="_addDynClicks('wbimage',1409629465,33099)"><img src="images/cw.gif" width="188" height="37" hspace="3" vspace="4" border="0"></a></td>
+        </tr>
+        <tr>
+    <td><a href="https://www.guet.edu.cn/pubinfo/wshd.htm" target="_blank" onclick="_addDynClicks('wbimage',1409629465,33098)"><img src="images/dc.GIF" width="188" height="37" hspace="3" vspace="4" border="0"></a></td>
+        </tr>
+        <tr>
+    <td><a href="https://www.guet.edu.cn/pubinfo/jjzc.htm" target="_blank" onclick="_addDynClicks('wbimage',1409629465,33097)"><img src="images/tb.GIF" width="188" height="37" hspace="3" vspace="4" border="0"></a></td>
+        </tr>
+        </table><!--#endeditable--></td></tr></tbody></table>
+
+<table cellspacing="0" cellpadding="0" width="190" align="center" border="0">
+<tbody>
+<tr>
+<td bgcolor="#ffffff" height="10"></td></tr></tbody></table>
+
+<table cellspacing="0" cellpadding="0" width="196" background="images/index_62.gif" border="0">
+<tbody>
+<tr>
+<td height="30" width="43">&nbsp;</td>
+<td align="left" class="h5">申请受理与监督检查</td>
+</tr></tbody></table>
+<table cellspacing="5" cellpadding="0" width="196" border="0" style="border-right: #cccccc 1px solid; border-bottom: #cccccc 1px solid; border-left: #cccccc 1px solid">
+<tbody>
+<tr>
+<td height="300" valign="middle" align="left"><!--#begineditable name="申请受理与监督检查" viewid="201148" tagname="申请受理与监督检查" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--><script language="javascript" src="/system/resource/js/news/mp4video.js"></script><table class="winstyle201148" width="100%">
+    <tr>
+        <td><p><span style="color: #0070c0"><strong>信息公开受理</strong></span><strong><br></strong><strong>部门：</strong>信息公开工作办公室<br><strong>地址：</strong>桂林电子科技大学党政办公室信息科<br><strong>电话：</strong>0773-2291350<br><strong>邮政编码：</strong>541004<br><strong>电子邮箱：</strong>xxk@guet.edu.cn<br><br><span style="color: #0070c0"><strong>信息公开监督投诉</strong></span><strong><br></strong><strong>部门：</strong>监察室<br><strong>地址：</strong>桂林电子科技大学<br><strong>电话：</strong>0773-2290659<br><strong>邮政编码：</strong>541004<br><strong>电子邮箱：</strong>jub@guet.edu.cn</p></td>
+    </tr>
+</table><!--#endeditable--></td></tr></tbody></table>
+
+</td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" width="1000" align="center" border="0">
+<tbody>
+<tr>
+<td bgcolor="#ffffff" height="10"></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0" width="1000" align="center">
+<tbody>
+<tr>
+<td height="80" align="center" bgcolor="#FFFFFF" class="heise12x" style="border-bottom: #cccccc 1px solid;border-left: #cccccc 1px solid;border-top: #cccccc 1px solid;border-right: #cccccc 1px solid"><!--#begineditable name="版权" viewid="201095" tagname="版权" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--><p><span style="font-size: 16px">桂林电子科技大学信息公开网</span></p><!--#endeditable--></td></tr></tbody></table>
+
+</body></html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head><title>桂林电子科技大学信息公开网</title><META Name="keywords" Content="桂林电子科技大学信息公开网" />
+
+
+
+
+
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type"><link rel="stylesheet" type="text/css" href="style/css.css">
+
+
+<style></style>
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="index.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/vsbscreen.min.js" id="_vsbscreen" devices="pc|mobile|pad"></script>
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1409629465)</script>
+</head>
+<body>
+<table cellspacing="0" cellpadding="0" width="1000" align="center" background="images/logo.jpg" border="0">
+<tbody>
+<tr>
+<td height="195" valign="middle" style="padding-left: 60px"></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" width="1000" align="center" background="images/index_03.gif" border="0">
+<tbody>
+<tr>
+<td height="35" align="center"><!--#begineditable name="网站导航" viewid="201082" tagname="网站导航" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><style type="text/css">
+td.b1_0_{FONT-SIZE:9pt;}
+td.b2_0_{FONT-SIZE:9pt;}
+td.b3_0_{FONT-SIZE:9pt;BACKGROUND-COLOR: #eff8fe;}
+td.b4_0_{FONT-SIZE:9pt;BACKGROUND-COLOR: #e8f0fb;}
+a.menu0_0_:link {TEXT-DECORATION: none;};
+a.menu0_0_:visited { TEXT-DECORATION: none;};
+a.menu0_0_:hover {TEXT-DECORATION: none;};
+a.menu0_0_:active {TEXT-DECORATION: none;};
+table.tb1_0_{FONT-SIZE:9pt;border:0;}
+span.s1_0_{COLOR: #ffff00;FONT-SIZE: 10pt;FONT-WEIGHT: bold;}
+span.s2_0_{FONT-SIZE: 9pt;COLOR: #cc0000;LINE-HEIGHT: 160%;}
+span.s10_0_{COLOR: #ffffff;FONT-SIZE: 10pt;FONT-WEIGHT: bold;TEXT-DECORATION: none;}
+span.s20_0_{FONT-SIZE: 9pt;COLOR: #222222;LINE-HEIGHT: 160%;}
+</style>
+<SCRIPT language="javascript"> 
+ var showfix_0_ = 1;
+ var isvertical_0_ = false;
+</SCRIPT>
+<script language="javascript" src="/system/resource/js/menu/text.js"></script>
+<TABLE id="t1_0_" cellSpacing="0" cellPadding="0" border="0" height="0" width="960"><TR><TD valign="center"></TD><TD valign="middle" height="0" width="0" nowrap class="b1_0_" align="center" id="a_0_1001" onmouseover="tshowLayers('1001','b2_0_', '_0_')" onmouseout="thideLayers('1001','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="index.htm"><span class="fontstyle201082">&nbsp;首页&nbsp;</span></a></TD><TD valign="center" class="leaderfont201082">|</TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1079" onmouseover="tshowLayers('1079','b2_0_', '_0_')" onmouseout="thideLayers('1079','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="xxgk.htm"><span class="fontstyle201082">&nbsp;学校概况&nbsp;</span></a></TD><TD valign="center" class="leaderfont201082">|</TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1080" onmouseover="tshowLayers('1080','b2_0_', '_0_')" onmouseout="thideLayers('1080','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="dwgk.htm"><span class="fontstyle201082">&nbsp;党务公开&nbsp;</span></a></TD><TD valign="center" class="leaderfont201082">|</TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1081" onmouseover="tshowLayers('1081','b2_0_', '_0_')" onmouseout="thideLayers('1081','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="mzzx.htm"><span class="fontstyle201082">&nbsp;民主治校&nbsp;</span></a></TD><TD valign="center" class="leaderfont201082">|</TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1082" onmouseover="tshowLayers('1082','b2_0_', '_0_')" onmouseout="thideLayers('1082','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="jxgl.htm"><span class="fontstyle201082">&nbsp;教学管理&nbsp;</span></a></TD><TD valign="center" class="leaderfont201082">|</TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1083" onmouseover="tshowLayers('1083','b2_0_', '_0_')" onmouseout="thideLayers('1083','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="kygl.htm"><span class="fontstyle201082">&nbsp;科研管理&nbsp;</span></a></TD><TD valign="center" class="leaderfont201082">|</TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1084" onmouseover="tshowLayers('1084','b2_0_', '_0_')" onmouseout="thideLayers('1084','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="xsgz.htm"><span class="fontstyle201082">&nbsp;学生工作&nbsp;</span></a></TD><TD valign="center" class="leaderfont201082">|</TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1085" onmouseover="tshowLayers('1085','b2_0_', '_0_')" onmouseout="thideLayers('1085','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="gbrs.htm"><span class="fontstyle201082">&nbsp;干部人事&nbsp;</span></a></TD><TD valign="center" class="leaderfont201082">|</TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1086" onmouseover="tshowLayers('1086','b2_0_', '_0_')" onmouseout="thideLayers('1086','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="cwgl.htm"><span class="fontstyle201082">&nbsp;财务管理&nbsp;</span></a></TD><TD valign="center" class="leaderfont201082">|</TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1087" onmouseover="tshowLayers('1087','b2_0_', '_0_')" onmouseout="thideLayers('1087','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="jjzc.htm"><span class="fontstyle201082">&nbsp;基建资产&nbsp;</span></a></TD><TD valign="center" class="leaderfont201082">|</TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1131" onmouseover="tshowLayers('1131','b2_0_', '_0_')" onmouseout="thideLayers('1131','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="http://mwb.guet.edu.cn/system/login.jsp" target="_blank"><span class="fontstyle201082">&nbsp;管理&nbsp;</span></a></TD></TR></TR></table><!--#endeditable--></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" width="1000" align="center" background="images/index_07.gif" border="0">
+<tbody>
+<tr>
+<td width="27" align="left"><img src="images/index_05.gif" width="27" height="30"></td>
+<td width="473" align="left" style="padding-left: 30px"><!--#begineditable name="文本日历" viewid="201083" tagname="文本日历" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><script language="javascript" src="/system/resource/js/calendar/simple.js"></script>               
+<script language="JavaScript">
+//阳历
+var c_Calendar201083EnDateString;
+
+var c_Calendar201083WeekDayString;
+
+//阴历
+var c_Calendar201083CnDateString;
+//节气
+var c_Calendar201083JQString;
+//年
+var c_Calendar201083YearString;
+//月
+var c_Calendar201083MonthString;
+//日
+var c_Calendar201083DayString;
+//周
+var c_Calendar201083WeekString;
+function RunGLNL201083()
+{          
+    var  sc =new Simple_Calendar ();
+    sc.init();
+    c_Calendar201083CnDateString=sc.getCnDateString();
+    c_Calendar201083WeekDayString=sc.getCalendarWeekString();
+    c_Calendar201083JQString=sc.getJQString();
+    c_Calendar201083EnDateString=sc.getEnDateString();
+    c_Calendar201083YearString=sc.getYearString();
+    c_Calendar201083MonthString=sc.getMonthString();
+    c_Calendar201083DayString=sc.getDayString();
+    c_Calendar201083WeekString=sc.getWeekString();
+}
+RunGLNL201083();
+document.write('<div id="c_lunar201083"   class="fontstyle201083"  >');       
+document.write(c_Calendar201083EnDateString);
+document.write("&nbsp;&nbsp;"+c_Calendar201083WeekDayString);
+document.write("&nbsp;&nbsp;"+c_Calendar201083CnDateString);
+
+
+document.write("</div>");
+
+</script>
+<!--#endeditable--></td>
+<td width="474" align="right" style="padding-right: 30px"><!--#begineditable name="简单检索" viewid="201084" tagname="简单检索" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""-->
+
+
+
+
+
+
+<script language="javascript" src="/system/resource/js/base64.js"></script>
+<script language="javascript" src="/system/resource/js/formfunc.js"></script>
+<form action="search.jsp?wbtreeid=1001" method="post" name="a201084a" target="_blank" onsubmit="return subsearchdataa201084a()" style="display: inline;">
+ <input type="hidden" name="Find" value="find">
+ <input type="hidden" name="entrymode" value="1">
+ <input type="hidden" id="INTEXT2" name="INTEXT2" value="">
+ <input type="hidden" name="news_search_code">
+ <table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+   <td Valign="middle" nowrap="nowrap" height="22">
+    <font class="leaderfont201084">站内搜索：</font>
+    
+        <input type="hidden" name="wbtreeids" value="0">
+    </td><td><span id="intextspana201084a"></span><iframe id="intextframea201084a" src="about:blank" scrolling="no" frameborder="0" style="position:absolute;top:0px;left:0px;display:none;"></iframe><input size="22" name="INTEXT" class="querystyle201084">
+   </td>
+   <td align="absmiddle" nowrap="nowrap" height="1">
+   <input type="image" src="images/index_10.gif" valign="bottom" style="cursor: hand"></td>
+  </tr>
+  
+ </table>
+</form>
+<script>
+String.prototype.trim= function()       
+{              
+    var t = this.replace(/(^\s*)|(\s*$)/g, "");     
+    return t.replace(/(^　*)|(　*$)/g, "");     
+}
+ 
+function subsearchdataa201084a()
+{ 
+	
+	if(document.a201084a.INTEXT.value.trim()=="")
+	{
+		alert("请输入查询关键字！");
+		return false;
+	}
+	
+	
+    if(checkDataa201084a(document.a201084a))
+    {
+       return true;  
+    }
+    return false;
+}       
+</script>
+
+<script> 
+function checkDataa201084a(formname)
+{
+	if(formname.INTEXT.value.trim()=="")
+	{
+		alert("请输入查询关键字！");
+		return false;
+	}
+
+	var  base64 = new Base64();
+    if(window.toFF==1)
+        {
+            var ssvalue = formname.INTEXT.value;
+            formname.INTEXT2.value = Simplized(ssvalue);
+            formname.INTEXT2.value = base64.encode(formname.INTEXT2.value);
+        }else
+        formname.INTEXT2.value = formname.INTEXT.value;
+        formname.INTEXT2.value = base64.encode(formname.INTEXT2.value);
+       return true;
+}
+</script>
+<!--#endeditable--></td>
+<td width="26" align="right"><img src="images/index_08.gif" width="26" height="30"></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" width="1000" align="center" border="0">
+<tbody>
+<tr>
+<td bgcolor="#ffffff" height="10"></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" width="1000" align="center" border="0">
+<tbody>
+<tr>
+<td width="377" height="10" align="center" valign="top" bgcolor="#ffffff">
+<table cellspacing="0" cellpadding="0" width="367" background="images/index_40.gif" border="0">
+<tbody>
+<tr>
+<td height="30" width="43">&nbsp;</td>
+<td class="h5" width="270" align="left">信息公开制度</td>
+<td width="54"><a href="xxgkzd/xxgkzd.htm"><span style="font-size: 12px; color: #000">更多&gt;&gt;</span></a></td></tr></tbody></table>
+<table cellspacing="5" cellpadding="0" width="367" border="0" style="border-right: #cccccc 1px solid; border-bottom: #cccccc 1px solid; border-left: #cccccc 1px solid">
+<tbody>
+<tr>
+<td height="230" valign="middle" align="left"><!--#begineditable name="信息公开制度" viewid="201088" tagname="信息公开制度" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><table width="100%" cellspacing="3" cellpadding="0">
+  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont201088"><img src="images/index_23.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1136/6445.htm" class="c201088" title="桂林电子科技大学2018-2019学年信息公开工作年报" target="_blank">
+        桂林电子科技大学2018-2019学年...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle201088" width="1%" nowrap>[2019/10/29]</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont201088"><img src="images/index_23.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1136/6395.htm" class="c201088" title="桂林电子科技大学2017-2018学年信息公开工作年报" target="_blank">
+        桂林电子科技大学2017-2018学年...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle201088" width="1%" nowrap>[2018/12/11]</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont201088"><img src="images/index_23.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1136/1259.htm" class="c201088" title="桂林电子科技大学2016-2017学年信息公开工作年报" target="_blank">
+        桂林电子科技大学2016-2017学年...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle201088" width="1%" nowrap>[2017/10/31]</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont201088"><img src="images/index_23.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1136/1260.htm" class="c201088" title="教育部办公厅关于全面推进政务公开工作的实施意见(（教办厅〔2017〕3号）" target="_blank">
+        教育部办公厅关于全面推进政务...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle201088" width="1%" nowrap>[2017/09/21]</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont201088"><img src="images/index_23.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1136/1261.htm" class="c201088" title="桂林电子科技大学2015-2016学年信息公开工作年报" target="_blank">
+        桂林电子科技大学2015-2016学年...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle201088" width="1%" nowrap>[2017/04/08]</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont201088"><img src="images/index_23.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1136/1262.htm" class="c201088" title="教育部关于公布《高等学校信息公开事项清单》的通知（教办函[2014]23号）" target="_blank">
+        教育部关于公布《高等学校信息...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle201088" width="1%" nowrap>[2016/12/15]</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont201088"><img src="images/index_23.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1136/1263.htm" class="c201088" title="桂林电子科技大学2014-2015学年信息公开工作年报" target="_blank">
+        桂林电子科技大学2014-2015学年...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle201088" width="1%" nowrap>[2015/11/18]</td></tr>
+</table><!--#endeditable--></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" width="367" align="center" border="0">
+<tbody>
+<tr>
+<td bgcolor="#ffffff" height="10"></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" width="367" background="images/index_40.gif" border="0">
+<tbody>
+<tr>
+<td height="30" width="43">&nbsp;</td>
+<td class="h5" width="270" align="left">重要会议决议</td>
+<td width="54"><a href="zyhyjy/zyhyjy.htm"><span style="font-size: 12px; color: #000">更多&gt;&gt;</span></a></td></tr></tbody></table>
+<table cellspacing="5" cellpadding="0" width="367" border="0" style="border-right: #cccccc 1px solid; border-bottom: #cccccc 1px solid; border-left: #cccccc 1px solid">
+<tbody>
+<tr>
+<td height="230" valign="middle" align="left"><!--#begineditable name="重要会议决议" viewid="201129" tagname="重要会议决议" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--><table width="100%" cellspacing="3" cellpadding="0">
+  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont201129"><img src="images/index_23.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1137/1280.htm" class="c201129" title="2018年第5次校长办公会议纪要" target="_blank">
+        2018年第5次校长办公会议纪要
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle201129" width="1%" nowrap>04月09日</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont201129"><img src="images/index_23.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1137/1279.htm" class="c201129" title="2018年第4次校长办公会议纪要" target="_blank">
+        2018年第4次校长办公会议纪要
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle201129" width="1%" nowrap>04月03日</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont201129"><img src="images/index_23.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1137/1278.htm" class="c201129" title="2018年第3次校长办公会议纪要" target="_blank">
+        2018年第3次校长办公会议纪要
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle201129" width="1%" nowrap>03月16日</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont201129"><img src="images/index_23.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1137/1277.htm" class="c201129" title="2018年第2次校长办公会议纪要" target="_blank">
+        2018年第2次校长办公会议纪要
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle201129" width="1%" nowrap>03月07日</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont201129"><img src="images/index_23.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1137/1276.htm" class="c201129" title="2018年第1次校长办公会议纪要" target="_blank">
+        2018年第1次校长办公会议纪要
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle201129" width="1%" nowrap>01月16日</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont201129"><img src="images/index_23.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1137/1275.htm" class="c201129" title="2017年第20次校长办公会议纪要" target="_blank">
+        2017年第20次校长办公会议纪要
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle201129" width="1%" nowrap>12月15日</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont201129"><img src="images/index_23.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1137/1274.htm" class="c201129" title="2017年第19次校长办公会议纪要" target="_blank">
+        2017年第19次校长办公会议纪要
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle201129" width="1%" nowrap>12月11日</td></tr>
+</table><!--#endeditable--></td></tr></tbody></table></td>
+<td bgcolor="#ffffff" valign="top" width="417" align="center">
+<table cellspacing="0" cellpadding="0" width="407" background="images/index_16.gif" border="0">
+<tbody>
+<tr>
+<td height="30" width="43">&nbsp;</td>
+<td class="h5" width="270" align="left">最新发布</td>
+<td width="54"></td></tr></tbody></table>
+<table cellspacing="5" cellpadding="0" width="407" border="0" style="border-right: #cccccc 1px solid; border-bottom: #cccccc 1px solid; border-left: #cccccc 1px solid">
+<tbody>
+<tr>
+<td height="230" valign="middle" align="left"><!--#begineditable name="最新公告标题列表" viewid="201086" tagname="最新公告标题列表" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><table width="100%" cellspacing="3" cellpadding="0">
+  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont201086"><img src="images/index_23.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    <a href="cwgl/cwgl.htm"><span class="columnstyle201086">[财务管理]</span></a>
+    
+        <a href="info/1124/6465.htm" class="c201086" title="桂林电子科技大学2020年部门预算、“三公”经费预算信息公开" target="_blank">
+        桂林电子科技大学2020年部门预...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle201086" width="1%" nowrap>[2020/02/11]</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont201086"><img src="images/index_23.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    <a href="jxgl/xkzy.htm"><span class="columnstyle201086">[学科专业]</span></a>
+    
+        <a href="info/1106/6456.htm" class="c201086" title="桂林电子科技大学2018-2019学年本科教学质量报告" target="_blank">
+        桂林电子科技大学2018-2019学年...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle201086" width="1%" nowrap>[2020/01/15]</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont201086"><img src="images/index_23.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    <a href="jxgl/szqk.htm"><span class="columnstyle201086">[师资情况]</span></a>
+    
+        <a href="info/1109/6440.htm" class="c201086" title="关于表彰学校2018年“本科教学质量优秀奖”获奖教师的决定" target="_blank">
+        关于表彰学校2018年“本科教学...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle201086" width="1%" nowrap>[2019/11/15]</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont201086"><img src="images/index_23.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    <a href="jxgl/szqk.htm"><span class="columnstyle201086">[师资情况]</span></a>
+    
+        <a href="info/1109/6439.htm" class="c201086" title="桂林电子科技大学基层教学组织建设与管理办法（试行）" target="_blank">
+        桂林电子科技大学基层教学组织...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle201086" width="1%" nowrap>[2019/11/15]</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont201086"><img src="images/index_23.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    <a href="jxgl/szqk.htm"><span class="columnstyle201086">[师资情况]</span></a>
+    
+        <a href="info/1109/6438.htm" class="c201086" title="桂林电子科技大学教授、副教授为本科生上课的规定" target="_blank">
+        桂林电子科技大学教授、副教授...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle201086" width="1%" nowrap>[2019/11/15]</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont201086"><img src="images/index_23.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    <a href="jxgl/xkzy.htm"><span class="columnstyle201086">[学科专业]</span></a>
+    
+        <a href="info/1106/6437.htm" class="c201086" title="桂林电子科技大学普通高等教育全日制本科学生学籍管理实施细则（修订）" target="_blank">
+        桂林电子科技大学普通高等教育...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle201086" width="1%" nowrap>[2019/11/15]</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont201086"><img src="images/index_23.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    <a href="jxgl/xkzy.htm"><span class="columnstyle201086">[学科专业]</span></a>
+    
+        <a href="info/1106/6436.htm" class="c201086" title="桂林电子科技大学人才培养方案管理办法（修订）" target="_blank">
+        桂林电子科技大学人才培养方案...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle201086" width="1%" nowrap>[2019/11/15]</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont201086"><img src="images/index_23.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    <a href="jxgl/xkzy.htm"><span class="columnstyle201086">[学科专业]</span></a>
+    
+        <a href="info/1106/6435.htm" class="c201086" title="桂林电子科技大学境外教材选用管理办法（试行）" target="_blank">
+        桂林电子科技大学境外教材选用...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle201086" width="1%" nowrap>[2019/11/15]</td></tr>
+</table><!--#endeditable--></td></tr></tbody></table>
+
+<table cellspacing="0" cellpadding="0" width="367" align="center" border="0">
+<tbody>
+<tr>
+<td bgcolor="#ffffff" height="10"></td></tr></tbody></table>
+
+
+<table cellspacing="0" cellpadding="0" width="407" background="images/index_42.gif" border="0">
+<tbody>
+<tr>
+<td height="30" width="43">&nbsp;</td>
+<td align="left" class="h5">其它主动公开项目</td>
+</tr></tbody></table>
+
+
+
+<table cellspacing="5" cellpadding="0" width="407" border="0" style="border-right: #cccccc 1px solid; border-bottom: #cccccc 1px solid; border-left: #cccccc 1px solid">
+<tbody>
+<tr>
+<td width="15" height="230" align="left" valign="middle"></td>
+<td valign="top" align="left">
+<table cellspacing="0" cellpadding="0" width="367" align="center" border="0">
+<tbody>
+<tr>
+<td bgcolor="#ffffff" height="10"></td></tr></tbody></table><!--#begineditable name="其它主动公开项目" viewid="201170" tagname="其它主动公开项目" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""-->     
+     
+  
+     
+ 
+<script language="javascript" src="/system/resource/js/dynclicks.js"></script>
+<table border="0" width="0">     
+    <tr>   
+            <td align="absmiddle">
+<span class="leaderstyle201170"></span></td>     
+            <td width="100" align="left">   
+                <A class="c201170" HREF="https://www.guet.edu.cn/pubinfo/crjgl.htm" onclick="_addDynClicks('wburl',1409629465,38796)">出入境管理</A>
+                 
+            </td>     
+   
+            <td align="absmiddle">
+
+                <span class="jumpstyle201170"></span>
+            <span class="leaderstyle201170"></span></td>     
+            <td width="100" align="left">   
+                <A class="c201170" HREF="https://www.guet.edu.cn/pubinfo/bszn.htm" onclick="_addDynClicks('wburl',1409629465,38797)">办事指南</A>
+                 
+            </td>     
+   
+            <td align="absmiddle">
+
+                <span class="jumpstyle201170"></span>
+            <span class="leaderstyle201170"></span></td>     
+            <td width="100" align="left">   
+                <A class="c201170" HREF="https://www.guet.edu.cn/pubinfo/xxgzzd.htm" onclick="_addDynClicks('wburl',1409629465,38798)">学校规章制度</A>
+                 
+            </td>     
+</tr><tr>   
+            <td align="absmiddle">
+<span class="leaderstyle201170"></span></td>     
+            <td width="100" align="left">   
+                <A class="c201170" HREF="https://www.guet.edu.cn/pubinfo/cybg.htm" onclick="_addDynClicks('wburl',1409629465,38799)">常用表格</A>
+                 
+            </td>     
+   
+            <td align="absmiddle">
+
+                <span class="jumpstyle201170"></span>
+            <span class="leaderstyle201170"></span></td>     
+            <td width="100" align="left">   
+                <A class="c201170" HREF="https://www.guet.edu.cn/pubinfo/bslc.htm" onclick="_addDynClicks('wburl',1409629465,38800)">办事流程</A>
+                 
+            </td>     
+   
+            <td align="absmiddle">
+
+                <span class="jumpstyle201170"></span>
+            <span class="leaderstyle201170"></span></td>     
+            <td width="100" align="left">   
+                <A class="c201170" HREF="https://www.guet.edu.cn/pubinfo/ltxzt.htm" onclick="_addDynClicks('wburl',1409629465,38801)">离退休专题</A>
+                 
+            </td>     
+</tr><tr>   
+            <td align="absmiddle">
+<span class="leaderstyle201170"></span></td>     
+            <td width="100" align="left">   
+                <A class="c201170" HREF="https://www.guet.edu.cn/pubinfo/wshd.htm" onclick="_addDynClicks('wburl',1409629465,38802)">网上互动</A>
+                 
+            </td>     
+   
+            <td align="absmiddle">
+
+                <span class="jumpstyle201170"></span>
+            <span class="leaderstyle201170"></span></td>     
+            <td width="100" align="left">   
+                <A class="c201170" HREF="https://www.guet.edu.cn/pubinfo/jdgz.htm" onclick="_addDynClicks('wburl',1409629465,38803)">监督工作</A>
+                 
+            </td>     
+   
+            <td align="absmiddle">
+
+                <span class="jumpstyle201170"></span>
+            <span class="leaderstyle201170"></span></td>     
+            <td width="100" align="left">   
+                <A class="c201170" HREF="https://www.guet.edu.cn/pubinfo/zyhyjy/zyhyjy.htm" onclick="_addDynClicks('wburl',1409629465,38804)">校级重要会议</A>
+                 
+            </td>     
+</tr><tr>   
+            <td align="absmiddle">
+<span class="leaderstyle201170"></span></td>     
+            <td width="100" align="left">   
+                <A class="c201170" HREF="https://www.guet.edu.cn/pubinfo/fwbz.htm" onclick="_addDynClicks('wburl',1409629465,38805)">服务保障</A>
+                 
+            </td>     
+   
+            <td align="absmiddle">
+
+                <span class="jumpstyle201170"></span>
+            <span class="leaderstyle201170"></span></td>     
+            <td width="100" align="left">   
+                <A class="c201170" HREF="https://www.guet.edu.cn/pubinfo/msrd.htm" onclick="_addDynClicks('wburl',1409629465,38812)">民生热点</A>
+                 
+            </td>     
+   
+            <td align="absmiddle">
+
+                <span class="jumpstyle201170"></span>
+            <span class="leaderstyle201170"></span></td>     
+            <td width="100" align="left">   
+                <A class="c201170" HREF="https://www.guet.edu.cn/pubinfo/aqwmxy.htm" onclick="_addDynClicks('wburl',1409629465,38813)">安全文明校园</A>
+                 
+            </td>     
+</tr><tr>   
+            <td align="absmiddle">
+<span class="leaderstyle201170"></span></td>     
+            <td width="100" align="left">   
+                <A class="c201170" HREF="https://www.guet.edu.cn/pubinfo/xwxk.htm" onclick="_addDynClicks('wburl',1409629465,38814)">学位学科</A>
+                 
+            </td>     
+</tr></table><!--#endeditable--></td>
+</tr>
+</tbody></table>
+
+</td>
+<td bgcolor="#ffffff" valign="top" align="center">
+<table cellspacing="0" cellpadding="0" width="196" border="0">
+<tbody>
+<tr>
+<td height="200" valign="middle" align="center"><!--#begineditable name="图片按钮链接" viewid="201085" tagname="图片按钮链接" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""-->
+
+
+
+
+
+<table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+    <td><a href="mailto:xzxx@guet.edu.cn" target="_blank" onclick="_addDynClicks('wbimage',1409629465,33100)"><img src="images/xzxx.GIF" width="188" height="37" hspace="3" vspace="4" border="0"></a></td>
+        </tr>
+        <tr>
+    <td><a href="https://www.guet.edu.cn/pubinfo/cwgl.htm" target="_blank" onclick="_addDynClicks('wbimage',1409629465,33099)"><img src="images/cw.gif" width="188" height="37" hspace="3" vspace="4" border="0"></a></td>
+        </tr>
+        <tr>
+    <td><a href="https://www.guet.edu.cn/pubinfo/wshd.htm" target="_blank" onclick="_addDynClicks('wbimage',1409629465,33098)"><img src="images/dc.GIF" width="188" height="37" hspace="3" vspace="4" border="0"></a></td>
+        </tr>
+        <tr>
+    <td><a href="https://www.guet.edu.cn/pubinfo/jjzc.htm" target="_blank" onclick="_addDynClicks('wbimage',1409629465,33097)"><img src="images/tb.GIF" width="188" height="37" hspace="3" vspace="4" border="0"></a></td>
+        </tr>
+        </table><!--#endeditable--></td></tr></tbody></table>
+
+<table cellspacing="0" cellpadding="0" width="190" align="center" border="0">
+<tbody>
+<tr>
+<td bgcolor="#ffffff" height="10"></td></tr></tbody></table>
+
+<table cellspacing="0" cellpadding="0" width="196" background="images/index_62.gif" border="0">
+<tbody>
+<tr>
+<td height="30" width="43">&nbsp;</td>
+<td align="left" class="h5">申请受理与监督检查</td>
+</tr></tbody></table>
+<table cellspacing="5" cellpadding="0" width="196" border="0" style="border-right: #cccccc 1px solid; border-bottom: #cccccc 1px solid; border-left: #cccccc 1px solid">
+<tbody>
+<tr>
+<td height="300" valign="middle" align="left"><!--#begineditable name="申请受理与监督检查" viewid="201148" tagname="申请受理与监督检查" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--><script language="javascript" src="/system/resource/js/news/mp4video.js"></script><table class="winstyle201148" width="100%">
+    <tr>
+        <td><p><span style="color: #0070c0"><strong>信息公开受理</strong></span><strong><br></strong><strong>部门：</strong>信息公开工作办公室<br><strong>地址：</strong>桂林电子科技大学党政办公室信息科<br><strong>电话：</strong>0773-2291350<br><strong>邮政编码：</strong>541004<br><strong>电子邮箱：</strong>xxk@guet.edu.cn<br><br><span style="color: #0070c0"><strong>信息公开监督投诉</strong></span><strong><br></strong><strong>部门：</strong>监察室<br><strong>地址：</strong>桂林电子科技大学<br><strong>电话：</strong>0773-2290659<br><strong>邮政编码：</strong>541004<br><strong>电子邮箱：</strong>jub@guet.edu.cn</p></td>
+    </tr>
+</table><!--#endeditable--></td></tr></tbody></table>
+
+</td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" width="1000" align="center" border="0">
+<tbody>
+<tr>
+<td bgcolor="#ffffff" height="10"></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0" width="1000" align="center">
+<tbody>
+<tr>
+<td height="80" align="center" bgcolor="#FFFFFF" class="heise12x" style="border-bottom: #cccccc 1px solid;border-left: #cccccc 1px solid;border-top: #cccccc 1px solid;border-right: #cccccc 1px solid"><!--#begineditable name="版权" viewid="201095" tagname="版权" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--><p><span style="font-size: 16px">桂林电子科技大学信息公开网</span></p><!--#endeditable--></td></tr></tbody></table>
+
+</body></html>

@@ -1,0 +1,690 @@
+<!DOCTYPE html>
+<HTML><HEAD><TITLE>学生工作处</TITLE><META Name="keywords" Content="学生工作处" />
+
+
+
+<META content="text/html; charset=UTF-8" http-equiv="Content-Type">
+<META name="viewport" content="width=device-width, initial-scale=1.0"><LINK rel="stylesheet" type="text/css" href="css/style.css" media="all"><LINK id="main-css" rel="stylesheet" type="text/css" href="css/main.css"><script type="text/javascript" src="js/jquery-1.8.3.min.js"></script><script type="text/javascript" src="js/jquery.min.js"></script><script type="text/javascript" src="js/rev-setting-1.js"></script><script type="text/javascript" src="rs-plugin/js/jquery.themepunch.revolution.min.js"></script><script type="text/javascript" src="js/tab.js"></script><script type="text/javascript">
+    //图片滚动 调用方法 imgscroll({speed: 30,amount: 1,dir: "up"});
+    $.fn.imgscroll = function (o) {
+        var defaults = {
+            speed: 40,
+            amount: 0,
+            width: 1,
+            dir: "left"
+        };
+        o = $.extend(defaults, o);
+
+        return this.each(function () {
+            var _li = $("li", this);
+            _li.parent().parent().css({ overflow: "hidden", position: "relative" }); //div
+            _li.parent().css({ margin: "0", padding: "0", overflow: "hidden", position: "relative", "list-style": "none" }); //ul
+            _li.css({ position: "relative", overflow: "hidden" }); //li
+            if (o.dir == "left") _li.css({ float: "left" });
+
+            //初始大小
+            var _li_size = 0;
+            for (var i = 0; i < _li.size(); i++)
+                _li_size += o.dir == "left" ? _li.eq(i).outerWidth(true) : _li.eq(i).outerHeight(true);
+
+            //循环所需要的元素
+            if (o.dir == "left") _li.parent().css({ width: (_li_size * 3) + "px" });
+            _li.parent().empty().append(_li.clone()).append(_li.clone()).append(_li.clone());
+            _li = $("li", this);
+
+            //滚动
+            var _li_scroll = 0;
+            function goto() {
+                _li_scroll += o.width;
+                if (_li_scroll > _li_size) {
+                    _li_scroll = 0;
+                    _li.parent().css(o.dir == "left" ? { left: -_li_scroll } : { top: -_li_scroll });
+                    _li_scroll += o.width;
+                }
+                _li.parent().animate(o.dir == "left" ? { left: -_li_scroll } : { top: -_li_scroll }, o.amount);
+            }
+
+            //开始
+            var move = setInterval(function () { goto(); }, o.speed);
+            _li.parent().hover(function () {
+                clearInterval(move);
+            }, function () {
+                clearInterval(move);
+                move = setInterval(function () { goto(); }, o.speed);
+            });
+        });
+    };
+    //友情链接下拉框跳转弹出新窗口
+    function frlink(selObj) {
+        window.open(selObj.options[selObj.selectedIndex].value);
+    }
+</script>
+
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="index.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/vsbscreen.min.js" id="_vsbscreen" devices="pc|mobile|pad"></script>
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1070,'/index.jsp',-1,1410805416)</script>
+</HEAD>
+<BODY>
+<DIV class="all-web"><!--hearer nav part start-->
+<DIV id="hearder2" class="clearfix">
+<DIV class="logo"><IMG src="images/biaoti2.png"> </DIV><!-- <div class="logo-name">学生工作处</div> -->
+<DIV class="form-tools">
+<FORM id="search" method="post" name="search" action="#"><!-- <div class="tools-link">
+            <a href="index2.html" target="_blank">学生工作处</a>
+        </div> -->
+<DIV class="search-box"><INPUT id="textfield" class="input-text" name="keywords" type="text" placeholder="请输入搜索关键词"> <INPUT class="input-submit" src="images/search.png" type="image"></DIV></FORM></DIV></DIV>
+<DIV id="menu-box" class="clearfix">
+<UL>
+<LI><A href="">首页</A></LI>
+<LI><A href="bmgk.htm">部门概况</A> 
+<UL>
+<LI><A href="info/1091/1130.htm">单位介绍</A> </LI>
+<LI><A href="info/1091/1131.htm">领导组成</A> </LI>
+<LI><A href="info/1091/1132.htm">机构设置</A> </LI>
+<LI><A href="info/1091/1133.htm">工作职责</A> </LI></UL></LI>
+<LI><A href="wdmtg.htm">教育管理</A></LI>
+<LI><A href="xsgygl.htm">公寓管理</A></LI>
+<LI><A href="http://exp.gliet.edu.cn/xszzzx/" target="_blank">资助中心</A></LI>
+<LI><A href="http://job.guet.edu.cn/" target="_blank">就业服务</A></LI>
+<LI><A href="http://www.yiban.cn/school/index/id/5000109" target="_blank">易路有你</A></LI>
+<LI><A href="http://exp.gliet.edu.cn/RGPsyWeb/Index.aspx" target="_blank">心理健康</A></LI>
+<LI><A href="#">规章制度</A> 
+<UL>
+<LI><A href="bszn.htm" style="font-size: 14px">办事指南</A></LI>
+<LI><A href="gjjywj.htm" style="font-size: 14px">国家教育文件</A></LI>
+<LI><A href="jxglwj.htm" style="font-size: 14px">教学管理文件</A></LI>
+<LI><A href="jyglwj.htm" style="font-size: 14px">教育管理文件</A></LI>
+<LI><A href="jdglwj.htm" style="font-size: 14px">奖贷管理文件</A></LI></UL></LI>
+<LI><A href="zlxz.htm">资料下载</A></LI>
+<LI><A href="#">联系我们</A> 
+<UL>
+<LI><A href="info/1091/1153.htm">领导信箱</A> </LI>
+<LI><A href="info/1091/1154.htm">电子邮件</A> </LI>
+<LI><A href="info/1091/1155.htm">通信地址</A> </LI>
+<LI><A href="info/1091/1156.htm">联系电话</A> </LI></UL></LI></UL></DIV><!--hearer nav part end--><!--banner scoll-->
+<DIV class="fullwidthbanner-container">
+<DIV id="revolution-slider"><!--#begineditable name="banner变换" action="webber.wbst.com.image.ColumnImage" layout="/system/_component/columnimage/bannerchangeimage.jsp" tpltype="0" contype="image" clone="" viewid="167049" contentviewid="" tagname="banner变换"--><style type="text/css">
+ul,li{
+    padding:0;
+    margin:0;
+    list-style:none;}
+#flashBoxu_u0_{
+    width:1000px;
+    height:300px;
+    border:0px solid #EEE;
+    position:relative;
+    margin-left: auto;
+    margin-right: auto;}
+#flashBoxu_u0_ img{
+    /*初始不要显示*/
+    display:none;
+    /*用边框来实现空位，因为margin和paading有时会引起些麻烦*/
+    border:0px solid #FFF;}
+#flashBoxu_u0_ ul{
+    position:absolute;
+    right:7px;
+    bottom:3px;
+    font:9px tahoma;}
+#flashBoxu_u0_ ul li{
+    display:block;
+    float:left;
+    width:12px;
+    height:12px;
+    line-height:12px;
+    margin-right:3px;
+    border:0px solid #999;
+    background:#F0F0F0;
+    text-align:center;
+    cursor:pointer;}
+#flashBoxu_u0_ ul li.hover{
+    border-color:red;
+    background:#FFE1E1;
+    color:red;}
+</style>
+<script type="text/javascript">
+function flashBoxCtrl(o){
+    this.obj=document.getElementById(o);
+    //这个私有方法虽然写了，但暂时没用到
+    function addListener(ele,eventName,functionBody){
+        if (ele.attachEvent){
+            ele.attachEvent("on"+eventName, functionBody);
+        }else if (ele.addEventListener){
+            ele.addEventListener("on"+eventName,functionBody, false);
+        }else{
+            return false;
+        }
+    }
+    //初始化
+    this.init=function(){
+        var objImg=this.obj.getElementsByTagName("img");
+        var tagLength=objImg.length;
+        if (tagLength>0){
+            var oUl=document.createElement("ul");
+            oUl.setAttribute("id",o+"numTag");
+            for (var i=0;i<tagLength;i++){
+                var oLi=oUl.appendChild(document.createElement("li"));
+                if (i==0){
+                    oLi.setAttribute("class","hover"); //初始化时把第一个设置为高亮
+                    oLi.setAttribute("className","hover");
+                }
+                //设置标签的数字
+                oLi.appendChild(document.createTextNode((i+1)));
+            }
+            this.obj.appendChild(oUl);
+            objImg[0].style.display="block";
+            //设置标签事件
+            var oTag=this.obj.getElementsByTagName("li");
+            for (var i=0;i<oTag.length;i++){
+                var flag = 0;
+                var temp = 0;
+                var timeout=null;
+                var step = function(){
+                    for (j=0;j<oTag.length;j++){
+                        oTag[j].className="";
+                        objImg[j].style.display="none";
+                    }
+                    this.className="hover";
+                    flag = flag>=oTag.length-1?0:flag+1;
+                    objImg[flag].style.display="block";
+                    oTag[flag].className = "hover";
+                    timeout = setTimeout(step,8000);
+                };
+                oTag[i].onmouseover=function(){
+                    for (j=0;j<oTag.length;j++){
+                        oTag[j].className="";
+                        objImg[j].style.display="none";
+                        temp = j;
+                    }
+                    this.className="hover";
+                    objImg[this.innerHTML-1].style.display="block";
+                    temp = this.innerHTML-1;
+                    flag = i;
+                    clearInterval(timeout);
+                }
+                oTag[i].onmouseout = function(){
+                    for (j=0;j<oTag.length;j++){
+                        oTag[j].className="";
+                        objImg[j].style.display="none";
+                    }
+                    flag = temp;
+                    objImg[temp].style.display="block";
+                    oTag[temp].className = "hover";
+                    timeout = setTimeout(step,8000);
+                }
+                if(i==0)
+                {
+                    timeout = setTimeout(step,8000);
+                }
+            }
+        }
+    };
+    //自动滚动的方法还没写
+    this.imgRoll=function(){};
+    //生成对象时自动加载init()方法以初始化对象
+    this.init();
+}
+</script>
+<table cellspacing="0" cellpadding="0" border="0"><tr><td><div id="flashBoxu_u0_"><img src="images/44.jpg" border="0" width="1000" height="300" alt="关于进一步做好防疫期间网站宣传工作的通知" title="关于进一步做好防疫期间网站宣传工作的通知" /><a href="images/703.jpg" target="_blank"><img src="images/703.jpg" border="0" width="1000" height="300" /></a><a href="images/525.jpg" target="_blank"><img src="images/525.jpg" border="0" width="1000" height="300" /></a></div></td></tr></table><SCRIPT language="JavaScript">new flashBoxCtrl("flashBoxu_u0_");</SCRIPT><!--#endeditable--></DIV></DIV><!--banner scoll end--><!-- index1-div1 -->
+<DIV id="index1-div1" class="clearfix">
+<DIV id="tab_scroll" class="index1-left675">
+<UL id="tab">
+<LI class="fli"><A href="djrdzx.htm" target="_blank">党建热点知讯</A></LI>
+<LI><A href="xgtwzbkx.htm" target="_blank">学工团委支部快讯</A></LI></UL>
+<DIV id="tab_con">
+<DIV class="fdiv"><SPAN id="banner_lun_bo_img_box" style="margin: 10px; display: block; float: left"><IMG id="banner_lun_bo_img" src="images/2.jpg"> </SPAN>
+<UL style="padding-bottom: 5px; padding-left: 15px"><!--#begineditable name="党建热点知讯" clone="0" namechanged="0" order="0" ispublic="0" tagname="党建热点知讯" viewid="167007" contentviewid="" contype="" stylesysid="" layout="" action=""--><script language="javascript" src="/system/resource/js/dynclicks.js"></script><li><a href="info/1089/3666.htm" target="_blank" title="【不忘初心、牢记使命】党的十九届四中全会在我校师生中引起强烈反响">【不忘初心、牢记使命】党的十九届四中全会在我校师生中引起强烈反响</a><span>2019-11-05</span></li>
+                 
+                            
+<li><a href="info/1089/3665.htm" target="_blank" title="【不忘初心、牢记使命】校领导以“扎实做好学校安全稳定工作”为题上主题教育专题党课">【不忘初心、牢记使命】校领导以“扎实做好学校安全稳定工作”为题上主题教育专题党课</a><span>2019-11-04</span></li>
+                 
+                            
+<li><a href="info/1089/3664.htm" target="_blank" title="【不忘初心、牢记使命】校长徐华蕊上主题教育专题党课（图）">【不忘初心、牢记使命】校长徐华蕊上主题教育专题党课（图）</a><span>2019-11-02</span></li>
+                 
+                            
+<li><a href="info/1089/3661.htm" target="_blank" title="中国共产党第十九届中央委员会第四次全体会议公报">中国共产党第十九届中央委员会第四次全体会议公报</a><span>2019-11-01</span></li>
+                 
+                            
+<li><a href="info/1089/3662.htm" target="_blank" title="【不忘初心、牢记使命】校领导赴贺州开展脱贫攻坚工作专题调研（图）">【不忘初心、牢记使命】校领导赴贺州开展脱贫攻坚工作专题调研（图）</a><span>2019-10-31</span></li>
+                 
+                            
+<li><a href="info/1089/3627.htm" target="_blank" title="【不忘初心、牢记使命】 校领导给全校纪检监察干部上主题教育专题党课">【不忘初心、牢记使命】 校领导给全校纪检监察干部上主题教育专题党课</a><span>2019-10-29</span></li>
+                 
+                            
+<script>_showDynClickBatch(['dynclicks_u1_3666','dynclicks_u1_3665','dynclicks_u1_3664','dynclicks_u1_3661','dynclicks_u1_3662','dynclicks_u1_3627'],[3666,3665,3664,3661,3662,3627],"wbnews", 1410805416)</script>
+<!--#endeditable--></UL></DIV><!--学工团委支部快讯 start-->
+<DIV class="fdiv"><SPAN style="margin: 10px; display: block; float: left"><IMG src="images/3.jpg"> <SPAN style="position: absolute; display: block; float: right; top: 690px"></SPAN></SPAN>
+<UL style="padding-bottom: 5px; padding-left: 15px"><!--#begineditable name="学工团委支部快讯" clone="0" namechanged="0" order="1" ispublic="0" tagname="学工团委支部快讯" viewid="167008" contentviewid="" contype="" stylesysid="" layout="" action=""--><li><a href="info/1088/3935.htm" target="_blank" title="【不忘初心、牢记使命】学工团委党支部召开主题教育专题组织生活会和专题民主生活会（图）">【不忘初心、牢记使命】学工团委党支部召开主题教育专题组织生活</a><span>2019-12-05</span></li>
+                 
+                            
+<li><a href="info/1088/3887.htm" target="_blank" title="【不忘初心、牢记使命】学工团委党支部召开主题教育专题学习研讨会（图）">【不忘初心、牢记使命】学工团委党支部召开主题教育专题学习研讨</a><span>2019-11-29</span></li>
+                 
+                            
+<li><a href="info/1088/3671.htm" target="_blank" title="【不忘初心、牢记使命】学工团委党支部召开对照党章党规找差距专题会议（图）">【不忘初心、牢记使命】学工团委党支部召开对照党章党规找差距专</a><span>2019-11-02</span></li>
+                 
+                            
+<li><a href="info/1088/3555.htm" target="_blank" title="【不忘初心、牢记使命】学工团委党支部组织主题教育第二次学习研讨（图）">【不忘初心、牢记使命】学工团委党支部组织主题教育第二次学习研</a><span>2019-10-21</span></li>
+                 
+                            
+<li><a href="info/1088/3553.htm" target="_blank" title="【不忘初心、牢记使命】学工团委党支部开展主题教育学习研讨（图）">【不忘初心、牢记使命】学工团委党支部开展主题教育学习研讨（图</a><span>2019-10-16</span></li>
+                 
+                            
+<li><a href="info/1088/3395.htm" target="_blank" title="【不忘初心、牢记使命】学工团委党支部召开“不忘初心、牢记使命”主题教育​工作会议（图）">【不忘初心、牢记使命】学工团委党支部召开“不忘初心、牢记使命</a><span>2019-09-25</span></li>
+                 
+                            
+<script>_showDynClickBatch(['dynclicks_u2_3935','dynclicks_u2_3887','dynclicks_u2_3671','dynclicks_u2_3555','dynclicks_u2_3553','dynclicks_u2_3395'],[3935,3887,3671,3555,3553,3395],"wbnews", 1410805416)</script>
+<!--#endeditable--></UL></DIV><!--学工团委支部快讯 end--></DIV>
+<script type="text/javascript">
+    var tabs = document.getElementById("tab").getElementsByTagName("li");
+    var divs = document.getElementById("tab_con").getElementsByTagName("div");
+    for (var i = 0; i < tabs.length; i++) {
+        tabs[i].onmouseover = function () { change(this); }
+    }
+
+    function change(obj) {
+        for (var i = 0; i < tabs.length; i++) {
+            if (tabs[i] == obj) {
+                tabs[i].className = "fli";
+                divs[i].className = "fdiv";
+            }
+            else {
+                tabs[i].className = "";
+                divs[i].className = "";
+            }
+        }
+    }
+
+</script></DIV>
+<DIV class="index1-right300">
+<DIV class="title-box">通知公告<A class="title-more" title="查看更多" href="tzgg.htm#detail2-box"><IMG src="images/12.gif"></A></DIV>
+<DIV id="demo" class="notice">
+<UL id="demo1"><!--#begineditable name="通知公告" clone="0" namechanged="0" order="2" ispublic="0" tagname="通知公告" viewid="167032" contentviewid="" contype="" stylesysid="" layout="" action=""--><li>
+                    <a href="info/1087/4002.htm" target="_blank" title="关于进一步做好防疫期间网站宣传工作的通知">关于进一步做好防疫期间网站宣传工作的通知</a>&nbsp;<span>[2020-02-18]</span>
+                </li>
+
+<li>
+                    <a href="info/1087/4015.htm" target="_blank" title="关于2019年度桂林电子科技大学职称自主评审结果的公示">关于2019年度桂林电子科技大学职称自主评审结果的公示</a>&nbsp;<span>[2019-12-30]</span>
+                </li>
+
+<li>
+                    <a href="info/1087/4011.htm" target="_blank" title="桂林电子科技大学2020年公开招聘专职辅导员拟聘人员公示">桂林电子科技大学2020年公开招聘专职辅导员拟聘人员公示</a>&nbsp;<span>[2019-12-26]</span>
+                </li>
+
+<li>
+                    <a href="info/1087/4010.htm" target="_blank" title="桂林电子科技大学2019年第三批高薪招聘思想政治理论课专任教师拟">桂林电子科技大学2019年第三批高薪招聘思想政治理论课专任教师拟</a>&nbsp;<span>[2019-12-24]</span>
+                </li>
+
+<li>
+                    <a href="info/1087/4009.htm" target="_blank" title="桂林电子科技大学2019年第二批高薪招聘思想政治理论课专任教师拟">桂林电子科技大学2019年第二批高薪招聘思想政治理论课专任教师拟</a>&nbsp;<span>[2019-12-24]</span>
+                </li>
+
+<li>
+                    <a href="info/1087/4016.htm" target="_blank" title="关于做好我校2020年国家公派高级研究学者及访问学者（含博士后）">关于做好我校2020年国家公派高级研究学者及访问学者（含博士后）</a>&nbsp;<span>[2019-12-20]</span>
+                </li>
+
+<li>
+                    <a href="info/1087/4008.htm" target="_blank" title="桂林电子科技大学2019年第四批管理人员招聘拟聘人员公示">桂林电子科技大学2019年第四批管理人员招聘拟聘人员公示</a>&nbsp;<span>[2019-12-18]</span>
+                </li>
+
+<li>
+                    <a href="info/1087/4007.htm" target="_blank" title="桂林电子科技大学2019年第三批高薪招聘思想政治理论课专任教师考">桂林电子科技大学2019年第三批高薪招聘思想政治理论课专任教师考</a>&nbsp;<span>[2019-12-18]</span>
+                </li>
+
+<li>
+                    <a href="info/1087/4006.htm" target="_blank" title="桂林电子科技大学2019年教育发展基金会科员招聘拟聘人员公示">桂林电子科技大学2019年教育发展基金会科员招聘拟聘人员公示</a>&nbsp;<span>[2019-12-16]</span>
+                </li>
+
+<script>_showDynClickBatch(['dynclicks_u3_4002','dynclicks_u3_4015','dynclicks_u3_4011','dynclicks_u3_4010','dynclicks_u3_4009','dynclicks_u3_4016','dynclicks_u3_4008','dynclicks_u3_4007','dynclicks_u3_4006'],[4002,4015,4011,4010,4009,4016,4008,4007,4006],"wbnews", 1410805416)</script>
+<!--#endeditable--></UL></DIV></DIV><script type="text/javascript"> 
+     //通知公告滚动代码
+     var speed = 40
+     var demo = document.getElementById("demo");
+     var demo2 = document.getElementById("demo2");
+     var demo1 = document.getElementById("demo1");
+     demo2.innerHTML = demo1.innerHTML;
+     console.log(demo2.offsetTop)
+     function Marquee() {
+         if (demo.scrollHeight - demo.offsetHeight - demo.scrollTop <= 0)
+             demo.scrollTop = 0;
+         else {
+             demo.scrollTop++
+         }
+
+     }
+     var MyMar = setInterval(Marquee, speed)
+     demo.onmouseover = function () { clearInterval(MyMar) }
+     demo.onmouseout = function () { MyMar = setInterval(Marquee, speed) } 
+</script></DIV><!-- index1-div2 -->
+<DIV id="index1-div2" class="clearfix">
+<DIV class="index1-left675">
+<DIV class="index1-li-box">
+<DIV class="index1-left330">
+<DIV class="title-box">学工动态<A class="title-more" title="查看更多" href="xgdt.htm#detail2-box" target="_blank"><IMG src="images/12.gif"></A></DIV>
+<UL><!--#begineditable name="学工动态" clone="0" namechanged="0" order="3" ispublic="0" tagname="学工动态" viewid="167010" contentviewid="" contype="" stylesysid="" layout="" action=""--><li>
+                        <a href="info/1086/3938.htm" target="_blank" title="自治区学生资助管理中心主任全斌应邀到校作专题报告（图）">自治区学生资助管理中心主任全斌应邀到校作专</a><span>2019-12-13</span>
+                    </li>
+                 
+                    
+<li>
+                        <a href="info/1086/3937.htm" target="_blank" title="学校举办首期家庭经济困难学生红十字救护员培训班">学校举办首期家庭经济困难学生红十字救护员培</a><span>2019-12-10</span>
+                    </li>
+                 
+                    
+<li>
+                        <a href="info/1086/3936.htm" target="_blank" title="学校2019年 “造梦空间”大学生公寓美化大赛落幕（图）">学校2019年 “造梦空间”大学生公寓美化大赛</a><span>2019-12-06</span>
+                    </li>
+                 
+                    
+<li>
+                        <a href="info/1086/3934.htm" target="_blank" title="【主题教育·整治动态】学生工作处开展学生晚归、夜不归寝集中清查整治工作">【主题教育·整治动态】学生工作处开展学生晚</a><span>2019-12-04</span>
+                    </li>
+                 
+                    
+<li>
+                        <a href="info/1086/3886.htm" target="_blank" title="2019年广西高校第二期易班培训班落下帷幕（图）">2019年广西高校第二期易班培训班落下帷幕（图</a><span>2019-11-28</span>
+                    </li>
+                 
+                    
+<li>
+                        <a href="info/1086/3885.htm" target="_blank" title="【不忘初心、牢记使命】学校各部门组织开展“创建文明校园我行动”活动(图)">【不忘初心、牢记使命】学校各部门组织开展“</a><span>2019-11-22</span>
+                    </li>
+                 
+                    
+<li>
+                        <a href="info/1086/3802.htm" target="_blank" title="【主题教育•整治动态】 学校改造升级花江校区学生公寓学习场所（图）">【主题教育•整治动态】 学校改造升级花江校</a><span>2019-11-15</span>
+                    </li>
+                 
+                    
+<li>
+                        <a href="info/1086/3801.htm" target="_blank" title="【主题教育•整治动态】学校成立学生工作指导委员会">【主题教育•整治动态】学校成立学生工作指导</a><span>2019-11-14</span>
+                    </li>
+                 
+                    
+<li>
+                        <a href="info/1086/3800.htm" target="_blank" title="【主题教育•整治动态】学校开展新进辅导员基础业务能力培训（图）">【主题教育•整治动态】学校开展新进辅导员基</a><span>2019-11-14</span>
+                    </li>
+                 
+                    
+<script>_showDynClickBatch(['dynclicks_u4_3938','dynclicks_u4_3937','dynclicks_u4_3936','dynclicks_u4_3934','dynclicks_u4_3886','dynclicks_u4_3885','dynclicks_u4_3802','dynclicks_u4_3801','dynclicks_u4_3800'],[3938,3937,3936,3934,3886,3885,3802,3801,3800],"wbnews", 1410805416)</script>
+<!--#endeditable--></UL></DIV>
+<DIV class="index1-right330">
+<DIV class="title-box">学院风采<A class="title-more" title="查看更多" href="xyfc.htm#detail2-box" target="_blank"><IMG src="images/12.gif"></A></DIV>
+<UL><!--#begineditable name="学院风采" clone="0" namechanged="0" order="4" ispublic="0" tagname="学院风采" viewid="167011" contentviewid="" contype="" stylesysid="" layout="" action=""--><li><a href="info/1081/3992.htm" target="_blank" title="商学院召开2019年学工—公寓座谈会（图）">商学院召开2019年学工—公寓座谈会（图）</a><span>2019-12-23</span></li>                                  
+                                              
+                    
+<li><a href="info/1081/3991.htm" target="_blank" title="商学院召开网球高水平运动员座谈会">商学院召开网球高水平运动员座谈会</a><span>2019-12-23</span></li>                                  
+                                              
+                    
+<li><a href="info/1081/3990.htm" target="_blank" title="商学院邀请国防科技大学谭跃进教授来院讲学（图）">商学院邀请国防科技大学谭跃进教授来院讲学（图）</a><span>2019-12-23</span></li>                                  
+                                              
+                    
+<li><a href="info/1081/3989.htm" target="_blank" title="电子工程与自动化学院党委组织观看专题片《我们走在大路上》（图）">电子工程与自动化学院党委组织观看专题片《我们走在</a><span>2019-12-20</span></li>                                  
+                                              
+                    
+<li><a href="info/1081/3988.htm" target="_blank" title="建筑与交通工程学院领导为学院师生党员上廉政专题党课（图）">建筑与交通工程学院领导为学院师生党员上廉政专题党</a><span>2019-12-20</span></li>                                  
+                                              
+                    
+<li><a href="info/1081/3987.htm" target="_blank" title="【不忘初心、牢记使命】计算机与信息安全学院党委开展主题教育工作评估座谈会（图）">【不忘初心、牢记使命】计算机与信息安全学院党委开</a><span>2019-12-20</span></li>                                  
+                                              
+                    
+<li><a href="info/1081/3986.htm" target="_blank" title="计算机与信息安全学院召开全体教职工大会">计算机与信息安全学院召开全体教职工大会</a><span>2019-12-20</span></li>                                  
+                                              
+                    
+<li><a href="info/1081/3985.htm" target="_blank" title="建交学院举办第一届“荣耀建交”年度颁奖典礼（图）">建交学院举办第一届“荣耀建交”年度颁奖典礼（图）</a><span>2019-12-20</span></li>                                  
+                                              
+                    
+<li><a href="info/1081/3984.htm" target="_blank" title="计算机与信息安全学院师生赴深圳锐明技术股份有限公司参观交流">计算机与信息安全学院师生赴深圳锐明技术股份有限公</a><span>2019-12-20</span></li>                                  
+                                              
+                    
+<script>_showDynClickBatch(['dynclicks_u5_3992','dynclicks_u5_3991','dynclicks_u5_3990','dynclicks_u5_3989','dynclicks_u5_3988','dynclicks_u5_3987','dynclicks_u5_3986','dynclicks_u5_3985','dynclicks_u5_3984'],[3992,3991,3990,3989,3988,3987,3986,3985,3984],"wbnews", 1410805416)</script>
+<!--#endeditable--></UL></DIV></DIV><!-- slider -->
+<DIV class="index1-pic-gun">
+<DIV class="title-box">学工风采<A class="title-more" title="查看更多"><IMG src="images/12.gif"></A></DIV>
+<DIV class="index1-scrollleft clearfix">
+<UL>
+<LI><A><IMG alt="学工风采" src="images/xuegongfengcai/fengcai1.jpg"></A> <SPAN>学工风采</SPAN> </LI>
+<LI><A><IMG alt="学工风采" src="images/xuegongfengcai/fengcai2.jpg"></A> <SPAN>学工风采</SPAN> </LI>
+<LI><A><IMG alt="学工风采" src="images/xuegongfengcai/fengcai3.jpg"></A> <SPAN>学工风采</SPAN> </LI>
+<LI><A><IMG alt="学工风采" src="images/xuegongfengcai/fengcai4.jpg"></A> <SPAN>学工风采</SPAN> </LI></UL></DIV><script type="text/javascript">
+                $(document).ready(function () {
+
+                    $(".index1-scrollleft").imgscroll({
+                        speed: 40,    //图片滚动速度
+                        amount: 0,    //图片滚动过渡时间
+                        width: 1,     //图片滚动步数
+                        dir: "left"   // "left" 或 "up" 向左或向上滚动
+                    });
+
+                });
+            </script></DIV><!-- slider end --></DIV>
+<DIV class="index1-right300">
+<DIV class="index1-login-box">
+<DIV id="wrap" class="wrap">
+<UL class="tabClick title-box">
+<LI class="active"><A href="wdmtg.htm#detail2-boxl" target="_blank">晚点名提纲</A></LI>
+<LI><A href="xxwj.htm#detail2-box" target="_blank">校学文件</A></LI>
+<LI><A href="zlxz.htm#detail2-box" target="_blank">资料下载</A></LI></UL>
+<DIV class="lineBorder">
+<DIV class="lineDiv"><!--移动的div--></DIV></DIV>
+<DIV class="tabCon">
+<DIV class="tabBox">
+<DIV class="tabList">
+<UL><!--#begineditable name="晚点名提纲" clone="0" namechanged="0" order="5" ispublic="0" tagname="晚点名提纲" viewid="167012" contentviewid="" contype="" stylesysid="" layout="" action=""--><li><a href="info/1082/3538.htm" target="_blank" title="2019-2020学年第一学期第七周晚点名提纲">2019-2020学年第一学期第七周晚点名提纲</a></li>
+                            
+                                    
+<li><a href="info/1082/3537.htm" target="_blank" title="2019-2020学年第一学期第五周晚点名提纲">2019-2020学年第一学期第五周晚点名提纲</a></li>
+                            
+                                    
+<li><a href="info/1082/3536.htm" target="_blank" title="2019-2020学年第一学期第四周晚点名提纲">2019-2020学年第一学期第四周晚点名提纲</a></li>
+                            
+                                    
+<li><a href="info/1082/3535.htm" target="_blank" title="2019-2020学年第一学期第三周晚点名提纲">2019-2020学年第一学期第三周晚点名提纲</a></li>
+                            
+                                    
+<li><a href="info/1082/3534.htm" target="_blank" title="2019-2020学年第一学期第二周晚点名提纲">2019-2020学年第一学期第二周晚点名提纲</a></li>
+                            
+                                    
+<script>_showDynClickBatch(['dynclicks_u6_3538','dynclicks_u6_3537','dynclicks_u6_3536','dynclicks_u6_3535','dynclicks_u6_3534'],[3538,3537,3536,3535,3534],"wbnews", 1410805416)</script>
+<!--#endeditable--></UL></DIV>
+<DIV class="tabList">
+<UL><!--#begineditable name="校学文件" clone="0" namechanged="0" order="6" ispublic="0" tagname="校学文件" viewid="167030" contentviewid="" contype="" stylesysid="" layout="" action=""--><li><a href="news_detail.aspx?id=1911&tid=9" target="_blank" title="校学（2017）2号：关于做好学期末及寒假各项工作的通知-修改">校学【2017】16号关于开展2017年“助学筑梦、励志成长、担当</a></li>
+                                                               
+                                
+<li><a href="news_detail.aspx?id=1911&tid=9" target="_blank" title="校学（2017）2号：关于做好学期末及寒假各项工作的通知-修改">校学【2017】15号关于开展2017年“自强之星”评选的通知</a></li>
+                                                               
+                                
+<li><a href="news_detail.aspx?id=1911&tid=9" target="_blank" title="校学（2017）2号：关于做好学期末及寒假各项工作的通知-修改">校学【2017】14号关于开展2017年“学生资助政策宣传月”活动</a></li>
+                                                               
+                                
+<li><a href="news_detail.aspx?id=1911&tid=9" target="_blank" title="校学（2017）2号：关于做好学期末及寒假各项工作的通知-修改">校学【2017】13号关于开展我校2017年学风建设大讨论活动的通</a></li>
+                                                               
+                                
+<li><a href="news_detail.aspx?id=1911&tid=9" target="_blank" title="校学（2017）2号：关于做好学期末及寒假各项工作的通知-修改">校学【2017】12号关于召开2017届毕业生就业工作推进会的通知</a></li>
+                                                               
+                                
+<script>_showDynClickBatch(['dynclicks_u7_2112','dynclicks_u7_2111','dynclicks_u7_2110','dynclicks_u7_2107','dynclicks_u7_2105'],[2112,2111,2110,2107,2105],"wbnews", 1410805416)</script>
+<!--#endeditable--></UL></DIV>
+<DIV class="tabList">
+<UL><!--#begineditable name="资料下载" clone="0" namechanged="0" order="7" ispublic="0" tagname="资料下载" viewid="167014" contentviewid="" contype="" stylesysid="" layout="" action=""--><li><a href="info/1084/3797.htm" target="_blank" title="学生工作部（处）内设科室工作职责说明书">学生工作部（处）内设科室工作职责</a></li>
+                            
+                                
+<li><a href="info/1084/2902.htm" target="_blank" title="校外人员入住学生公寓审批表">校外人员入住学生公寓审批表</a></li>
+                            
+                                
+<li><a href="info/1084/2038.htm" target="_blank" title="学生退学离校手续单（2019年6月）">学生退学离校手续单（2019年6月）</a></li>
+                            
+                                
+<li><a href="info/1084/2054.htm" target="_blank" title="桂林电子科技大学学生证遗失证明.docx">桂林电子科技大学学生证遗失证明.d</a></li>
+                            
+                                
+<li><a href="info/1084/2052.htm" target="_blank" title="国家奖学金审批表.doc">国家奖学金审批表.doc</a></li>
+                            
+                                
+<script>_showDynClickBatch(['dynclicks_u8_3797','dynclicks_u8_2902','dynclicks_u8_2038','dynclicks_u8_2054','dynclicks_u8_2052'],[3797,2902,2038,2054,2052],"wbnews", 1410805416)</script>
+<!--#endeditable--></UL></DIV></DIV></DIV></DIV></DIV><!--            
+        <div class="index1-list-menu">
+            <div class="title-box">学生工作服务平台</div>
+            <ul>
+                <li><a href="detail1.html">到课率</a></li>
+                <li><a href="detail1.html">教务系统</a></li>
+                <li><a href="detail1.html">迎新系统</a></li>
+                <li><a href="detail1.html">处长信箱</a></li>
+                <li><a href="detail1.html">辅导员测评</a></li>
+            </ul>
+        </div>
+            -->
+<DIV class="index1-list-menu">
+<DIV class="title-box">学生工作服务平台</DIV>
+<TABLE border="0" width="100%" height="210" style="margin-left: 34px">
+<TBODY>
+<TR>
+<TD><A href="http://172.16.13.32:8088/zizhu/a/login" target="_blank"><IMG src="images/xlzx.jpg"></A></TD>
+<TD><A href="xsgygl.htm" target=""><IMG src="images/jwgl.jpg"></A></TD></TR>
+<TR>
+<TD><A href="http://utsc.guet.edu.cn/" target="_blank"><IMG src="images/jwxt.jpg"></A></TD>
+<TD><A href="http://exp.gliet.edu.cn/dkl3/web/login.aspx" target="_blank"><IMG src="images/jxzy.jpg"></A></TD></TR>
+<TR>
+<TD><A href="https://xsgl.guet.edu.cn/fxbc5sl4no01w6xf/login" target="_blank"><IMG src="images/ZHXG.jpg"></A></TD>
+<TD><A href="http://szhxy.guet.edu.cn/qxgl/public/Login.aspx?ReturnUrl=%2fqxgl%2fDefault.aspx" target="_blank"><IMG src="images/szhxy.jpg"></A></TD></TR></TBODY></TABLE></DIV></DIV></DIV><!-- div5 -->
+<DIV id="div5" class="clearfix">
+<DIV class="link-box"><SPAN>友情链接：</SPAN> <SELECT class="select-link" name="select" onchange="window.open(this.value)"> <OPTION value="https://www.guet.edu.cn/" selected>--- 教育类网站 ---</OPTION> <OPTION value="http://www.gliet.edu.cn/" ?>桂林电子科技大学</OPTION> <OPTION value="http://tw.guet.edu.cn/" ?>校团委</OPTION> <OPTION value="http://www.guet.edu.cn/dangxuan/" ?>宣传部</OPTION></SELECT>
+<SELECT class="select-link" name="select" onchange="window.open(this.value)"> <OPTION value="https://www.guet.edu.cn/" selected>--- 校园类网站 ---</OPTION> <OPTION value="http://www.yiban.cn/yforumprovince/indexorg/puid/6125719/">易班管理中心</OPTION> <OPTION value="http://exp.gliet.edu.cn/RGPsyWeb/Index.aspx">心理健康及教育中心</OPTION> <OPTION value="http://gra.guet.edu.cn/">研究生管理</OPTION> <OPTION value="http://utsc.guet.edu.cn/">教务系统</OPTION><OPTION value="https://xsgl.guet.edu.cn/al/login">智慧学工系统</OPTION></SELECT> <SELECT class="select-link" name="select" onchange="window.open(this.value)"> <OPTION value="https://www.guet.edu.cn/" selected>--- 其它类网站 ---</OPTION> <OPTION value="http://xlpc.bilian.xin/a/login">易班微风心理</OPTION> <OPTION value="http://gxyb1.bilian.xin/dangke/a/login;JSESSIONID=6acbbe373d124056942550a6ac126a64">广西高校易班青马营后台</OPTION> <OPTION value="http://gxyb1.bilian.xin/zizhu/a/login;JSESSIONID=ab369dc0407746228318db74b89b7af0">广西高校易班知恩后台</OPTION></SELECT> </DIV></DIV>
+<DIV id="div6">版权声明: 桂林电子科技大学 学生工作处　　技术支持与维护: 求索工作室　桂ICP备05013339号　 <A href="http://mwb.guet.edu.cn/system/login.jsp" target="_blank">管理入口</A></DIV><!--tab切换的js--><script charset="utf-8">
+            window.onload = function () {
+                var windowWidth = document.getElementById("wrap").offsetWidth; // 宽度;
+                var wrap = document.getElementById('wrap');
+                var tabClick = wrap.querySelectorAll('.tabClick')[0];
+                var tabLi = tabClick.getElementsByTagName('li');
+
+                var tabBox = wrap.querySelectorAll('.tabBox')[0];
+                var tabList = tabBox.querySelectorAll('.tabList');
+
+                var lineBorder = wrap.querySelectorAll('.lineBorder')[0];
+                var lineDiv = lineBorder.querySelectorAll('.lineDiv')[0];
+
+                var tar = 0;
+                var endX = 0;
+                var dist = 0;
+
+                tabBox.style.overflow = 'hidden';
+                tabBox.style.position = 'relative';
+                tabBox.style.width = windowWidth * tabList.length + "px";
+
+                for (var i = 0; i < tabLi.length; i++) {
+                    tabList[i].style.width = windowWidth + "px";
+                    tabList[i].style.float = 'left';
+                    tabList[i].style.float = 'left';
+                    tabList[i].style.padding = '0';
+                    tabList[i].style.margin = '0';
+                    tabList[i].style.verticalAlign = 'top';
+                    tabList[i].style.display = 'table-cell';
+                }
+
+                for (var i = 0; i < tabLi.length; i++) {
+                    tabLi[i].start = i;
+                    tabLi[i].onmouseover = function () {
+                        var star = this.start;
+                        for (var i = 0; i < tabLi.length; i++) {
+                            tabLi[i].className = '';
+                        };
+                        tabLi[star].className = 'active';
+                        init.lineAnme(lineDiv, windowWidth / tabLi.length * star)
+                        init.translate(tabBox, windowWidth, star);
+                        endX = -star * windowWidth;
+                    }
+                }
+
+                function OnTab(star) {
+                    if (star < 0) {
+                        star = 0;
+                    } else if (star >= tabLi.length) {
+                        star = tabLi.length - 1
+                    }
+                    for (var i = 0; i < tabLi.length; i++) {
+                        tabLi[i].className = '';
+                    };
+
+                    tabLi[star].className = 'active';
+                    init.translate(tabBox, windowWidth, star);
+                    endX = -star * windowWidth;
+                };
+
+                tabBox.addEventListener('touchstart', chstart, false);
+                tabBox.addEventListener('touchmove', chmove, false);
+                tabBox.addEventListener('touchend', chend, false);
+                //按下
+                function chstart(ev) {
+                    ev.preventDefault;
+                    var touch = ev.touches[0];
+                    tar = touch.pageX;
+                    tabBox.style.webkitTransition = 'all 0s ease-in-out';
+                    tabBox.style.transition = 'all 0s ease-in-out';
+                };
+                //滑动
+                function chmove(ev) {
+                    var stars = wrap.querySelector('.active').start;
+                    ev.preventDefault;
+                    var touch = ev.touches[0];
+                    var distance = touch.pageX - tar;
+                    dist = distance;
+                    init.touchs(tabBox, windowWidth, tar, distance, endX);
+                    init.lineAnme(lineDiv, -dist / tabLi.length - endX / 4);
+                };
+                //离开
+                function chend(ev) {
+                    var str = tabBox.style.transform;
+                    var strs = JSON.stringify(str.split(",", 1));
+                    endX = Number(strs.substr(14, strs.length - 18));
+
+                    if (endX > 0) {
+                        init.back(tabBox, windowWidth, tar, 0, 0, 0.3);
+                        endX = 0
+                    } else if (endX < -windowWidth * tabList.length + windowWidth) {
+                        endX = -windowWidth * tabList.length + windowWidth
+                        init.back(tabBox, windowWidth, tar, 0, endX, 0.3);
+                    } else if (dist < -windowWidth / 3) {
+                        OnTab(tabClick.querySelector('.active').start + 1);
+                        init.back(tabBox, windowWidth, tar, 0, endX, 0.3);
+                    } else if (dist > windowWidth / 3) {
+                        OnTab(tabClick.querySelector('.active').start - 1);
+                    } else {
+                        OnTab(tabClick.querySelector('.active').start);
+                    }
+                    var stars = wrap.querySelector('.active').start;
+                    init.lineAnme(lineDiv, stars * windowWidth / 4);
+
+                };
+            };
+
+            var init = {
+                translate: function (obj, windowWidth, star) {
+                    obj.style.webkitTransform = 'translate3d(' + -star * windowWidth + 'px,0,0)';
+                    obj.style.transform = 'translate3d(' + -star * windowWidth + ',0,0)px';
+                    obj.style.webkitTransition = 'all 0.3s ease-in-out';
+                    obj.style.transition = 'all 0.3s ease-in-out';
+                },
+                touchs: function (obj, windowWidth, tar, distance, endX) {
+                    obj.style.webkitTransform = 'translate3d(' + (distance + endX) + 'px,0,0)';
+                    obj.style.transform = 'translate3d(' + (distance + endX) + ',0,0)px';
+                },
+                lineAnme: function (obj, stance) {
+                    obj.style.webkitTransform = 'translate3d(' + stance + 'px,0,0)';
+                    obj.style.transform = 'translate3d(' + stance + 'px,0,0)';
+                    obj.style.webkitTransition = 'all 0.1s ease-in-out';
+                    obj.style.transition = 'all 0.1s ease-in-out';
+                },
+                back: function (obj, windowWidth, tar, distance, endX, time) {
+                    obj.style.webkitTransform = 'translate3d(' + (distance + endX) + 'px,0,0)';
+                    obj.style.transform = 'translate3d(' + (distance + endX) + ',0,0)px';
+                    obj.style.webkitTransition = 'all ' + time + 's ease-in-out';
+                    obj.style.transition = 'all ' + time + 's ease-in-out';
+                },
+            }
+
+</script></DIV>
+
+</BODY></HTML>

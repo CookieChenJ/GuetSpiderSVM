@@ -1,0 +1,795 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en"><head><title>常见问题-桂林电子科技大学图书馆</title><META Name="keywords" Content="桂林电子科技大学图书馆,常见问题" />
+
+
+
+
+
+<meta charset="UTF-8"><link rel="stylesheet" type="text/css" href="../../css/style.css"><script type="text/javascript" src="../../js/script.js"></script>
+<style>
+	.single_area{margin: auto; padding: 10px 0px 10px 0px ; left:-30px; width: 1200px; font-family: Arial; position: relative;}
+	.sidebar_area{border: 0px solid #999; width: 300px; min-height: 650px; position: absolute; left: 0px; z-index: 1;}
+	.content_area_border{padding-left: 355px; width: 1190px;}
+	.content_area_bg{background: #fff;-moz-box-shadow: 3px 3px 8px #999;box-shadow: 3px 3px 8px #999;-webkit-box-shadow: 3px 3px 8px #999;}
+	.nav_area{margin: auto; border: solid 0px #999; padding-left: 20px; line-height: 25px; vertical-align: middle; color:#000; font-size: 15px; padding-top: 20px;}
+	.nav_area a{color: #2b6ca3; font-size: 14px;}
+	.title_area{margin: auto; border:solid 0px #999; line-height: 38px; vertical-align: middle; color:#000; font-size: 18px; text-align: center;}
+	.time_area{margin: auto; border: solid 0px #999; line-height: 35px; vertical-align: middle; font-size: 12px; color: #666; text-align: center;}
+	<!--
+	.single_area_outer{margin: auto; padding: 0;  width:1200px; border:1px solid #f00;position:relative;}
+	.content_area{margin:auto; padding:0px; border:solid 0px #999; line-height: 25px; width:800px; text-indent: 24px; font-size: 14px;}
+	-->
+	.content_area{border: solid 0px #999; text-indent: 3px; padding-top: 18px; padding-left: 10px; padding-right: 15px; padding-bottom: 20px; color: #555; font-size: 14px; text-indent:2em; line-height: 30px;}
+	.content_area a{color: #2b6ca3;}
+	
+		/* Start footer BODY section */	   
+		.footer_border{margin:auto; padding:0px; width:auto; min-width:1200px; background: #efefef;}
+		.outer{margin: auto; padding-top:2px; padding-left:129px; width:1200px; height:32px; border:1px solid #7aadde; color: #fff; background: #7aadde; position:relative; text-align:center; font-size: 15px;font-weight:bold;line-height: 25px; vertical-align: middle;}
+		.in0{border-right:1px solid #FFF; width:120px; float:left;}
+		.in0 a{color: #fff;}
+		.in1{border-right:1px solid #FFF; width:120px; float:left;}
+		.in1 a{color: #fff;}
+		.in2{border-right:1px solid #FFF; width:120px; float:left;}
+		.in2 a{color: #fff;}
+		.in3{border-right:1px solid #FFF; width:120px; float:left;}
+		.in3 a{color: #fff;}
+		.in4{border-right:1px solid #FFF; width:120px; float:left;}
+		.in4 a{color: #fff;}
+		.in5{border-right:1px solid #FFF; width:120px; float:left;}
+		.in5 a{color: #fff;}
+		.in6{border-right:1px solid #FFF; width:120px; float:left;}
+		.in6 a{color: #fff;}
+		.in7{border-right:0px solid #FFF; width:120px; float:left;}
+		.in7 a{color: #fff;}
+		.outer1{margin: auto; padding-top: 10px; width:1200px; height:90px; border:0px solid #f00;position:relative; text-align:center;}
+
+	
+</style>
+</link></link>
+<style></style>
+
+<style></style>
+
+
+</link>
+<style></style>
+
+<style></style>
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="../../_sitegray/_sitegray_d.css" />
+<script language="javascript" src="../../_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="../../content.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1041,'/content.jsp',2880,1411890787)</script>
+</head>
+<body style="zoom: 1"><!-- Start menu HEAD section --><!-- add to the <head> of your page --><!-- Title 代码部分begin -->
+<div style="text-align: center; margin-left: auto; margin-top: -15px; margin-right: auto"><img title="" alt="" src="../../images/guetliblogo.jpg" width="1200" height="110" style="border-top: medium none; border-right: medium none; border-bottom: medium none; border-left: medium none"></div><!-- Title 代码部分End --><!-- Menu 代码部分begin -->
+<div style="font-size: 15px; width: 1200px; background: #efefef; min-width: 1200px; padding-bottom: 0px; text-align: center; padding-top: 0px; padding-left: 0px; margin: auto; z-index: 120; padding-right: 0px">
+<div class="ulmenu"><!--#begineditable name="网站主导航菜单" viewid="165077" tagname="网站主导航菜单" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""-->        <div class="dropdown">
+            <a href="http://www.guet.edu.cn/lib/" class="dropbtn">首页</a>
+        </div>
+        <div class="dropdown">
+            <a href="#" class="dropbtn">概况</a>
+            <div class="dropdown-content" style="height: 399px;">
+                <div class="dropdown-title">图书馆概况</div>
+                <a href="http://www.guet.edu.cn/lib/info/1036/2875.htm">馆长致辞</a>
+                <a href="http://www.guet.edu.cn/lib/info/1037/2876.htm">本馆简介</a>
+                <a href="http://www.guet.edu.cn/lib/info/1038/2877.htm">现任领导</a>
+                <a href="http://www.guet.edu.cn/lib/info/1039/2878.htm">组织机构</a>
+                <a href="http://www.guet.edu.cn/lib/info/1040/2879.htm">规章制度</a>
+                <a href="http://www.guet.edu.cn/lib/info/1041/2880.htm">常见问题</a>
+                <a href="http://www.guet.edu.cn/lib/info/1042/2881.htm">办证需知</a>
+                <a href="http://www.guet.edu.cn/lib/info/1043/2883.htm">离校手续</a>
+                <a href="http://www.guet.edu.cn/lib/info/1152/2928.htm">图书馆漫游</a>
+                <a href="http://www.guet.edu.cn/lib/info/1045/2884.htm">信息公开</a>
+                <a href="http://www.guet.edu.cn/lib/info/1046/2885.htm">书刊捐赠</a>
+            </div>
+            <div class="dropdown-content" style="margin-left: 200px; height: 399px;">
+                <div class="dropdown-title">新闻与通知</div>
+                <a href="http://www.guet.edu.cn/lib/gk/xwytz/ggxx.htm">公告消息</a>
+                <a href="../../gk/xwytz/zydt.htm">资源动态</a>
+                <a href="http://www.guet.edu.cn/lib/gk/xwytz/gnxw.htm">馆内新闻</a>
+            </div>
+        </div>
+        <div class="dropdown">
+            <a href="#" class="dropbtn">资源</a>
+            <div class="dropdown-content">
+                <a href="http://www.guet.edu.cn/lib/info/1025/2886.htm">版权公告</a>
+                <a href="http://202.193.70.166:8020/index.asp" target="_blank">数据库导航</a>
+                <a href="http://202.193.70.166:8020/index.asp?idc=en&mem=true" target="_blank">外文数据库</a>
+                <a href="http://202.193.70.166:8020/index.asp?idc=cn&mem=true" target="_blank">中文数据库</a>
+                <a href="http://202.193.70.166:8020/index.asp?idc=tryout&mem=true" target="_blank">试用数据库</a>
+                <a href="http://202.193.70.169:90/lib/bookdisc.asp" target="_blank">随书光盘数据库</a>
+                <a href="http://www.guet.edu.cn/lib/info/1032/2888.htm">本校学位论文</a>
+                <a href="http://202.193.70.166:8020/index.asp?idc=oa&mem=true" target="_blank">OA数据库</a>
+                <a href="http://www.guet.edu.cn/lib/info/1034/2889.htm" target="_blank">常用阅读软件</a>
+                <a href="http://202.193.70.139/NTRdrNewBook.aspx" target="_blank">新书通报</a>
+                <a href="http://202.193.70.177/" target="_blank">免费资源推荐</a>
+            </div>
+        </div>
+        <div class="dropdown">
+            <a href="#" class="dropbtn">服务</a>
+            <div class="dropdown-content" style="height:369px;">
+                <div class="dropdown-title">借阅服务</div>
+                <a href="http://www.guet.edu.cn/lib/info/1060/2890.htm">图书馆布局</a>
+                <a href="http://202.193.70.139/index.aspx" target="_blank">馆藏书刊查询</a>
+                <a href="http://202.193.70.139/NTRdrLogin.aspx" target="_blank">个人借阅管理</a>
+                <a href="http://202.193.70.139/NTRdrNewBook.aspx" target="_blank">新书通报</a>
+                <a href="http://www.guet.edu.cn/lib/info/1064/2891.htm">开放时间</a>
+                <a href="http://202.193.70.132:8088/" target="_blank">书刊荐购</a>
+                <a href="http://www.guet.edu.cn/lib/zzwy/index.html" target="_blank">自助文印</a>
+            </div>
+            <div class="dropdown-content" style="margin-left: 200px; height:369px;">
+                <div class="dropdown-title">学科服务</div>
+                <a href="http://www.guet.edu.cn/lib/info/1067/2892.htm">文献传递</a>
+                <a href="http://www.guet.edu.cn/lib/info/1068/2893.htm">查收查引</a>
+                <a href="http://www.guet.edu.cn/lib/info/1069/2894.htm">科技查新</a>
+                <a href="http://www.guet.edu.cn/lib/info/1070/2895.htm">用户教育</a>
+                <a href="http://www.guet.edu.cn/lib/info/1071/2896.htm">在线培训</a>
+                <a href="http://ipscience-help.thomsonreuters.com/incitesLiveESI/ESIGroup/overviewESI/esiJournalsList.html">ESI期刊</a>
+                <a href="http://www.guet.edu.cn/lib/info/1074/2900.htm">投稿指南</a>
+                <a href="http://www.guet.edu.cn/lib/info/1075/2901.htm">桂电SCIE收录动态</a>
+                <a href="http://www.guet.edu.cn/lib/info/1076/2899.htm">ESI高水平论文</a>
+                <a href="http://www.fenqubiao.com/" target="_blank">中科院期刊分区在线平台</a>
+            </div>
+            <div class="dropdown-content" style="margin-left: 400px; height:369px;">
+                <div class="dropdown-title">文化服务</div>
+                <a href="http://202.193.70.162:8089/" target="_blank">研讨室预约</a>
+                <a href="http://202.193.70.165/subject/subject.html" target="_blank">专题导读</a>
+                <a href="http://www.guet.edu.cn/lib/info/1080/2902.htm">新生专栏</a>
+                <a href="http://202.193.70.165/dzzt/index.php" target="_blank">电子展厅</a>
+            </div>
+        </div>
+        <div class="dropdown">
+            <a href="#" class="dropbtn">党建园地</a>
+            <div class="dropdown-content">
+                <a href="http://www.guet.edu.cn/lib/djyd/zbdt.htm">支部动态</a>
+                <a href="http://www.guet.edu.cn/lib/djyd/djll.htm">党建理论</a>
+                <a href="http://www.guet.edu.cn/lib/djyd/ztxx.htm">专题学习</a>
+                <a href="http://www.guet.edu.cn/lib/djyd/dwgk.htm">党务公开</a>
+            </div>
+        </div>
+        <div class="dropdown">
+            <a href="#" class="dropbtn">新生专栏</a>
+            <div class="dropdown-content">
+                <a href="http://www.guet.edu.cn/lib/info/1080/2902.htm">你问我答</a>
+                <a href="http://www.guet.edu.cn/lib/info/1153/2929.htm">新生入馆教育视频</a>
+                <a href="http://202.193.70.132:8096/" target="_blank">新生入馆测试</a>
+            </div>
+        </div>
+        <div class="dropdown">
+            <a href="http://202.193.70.139/NTRdrLogin.aspx" class="dropbtn" target="_blank">个人借阅管理</a>
+        </div>
+        <div class="dropdown">
+            <a href="#" class="dropbtn">联系我们</a>
+            <div class="dropdown-content">
+                <a href="mailto:library@guet.edu.cn">馆长信箱</a>
+                <a href="http://www.guet.edu.cn/lib/bbs.jsp?urltype=tree.TreeTempUrl&wbtreeid=1167">请您留言</a>
+            </div>
+        </div>
+<!--#endeditable--></div></div><!-- Menu 代码部分End --><!-- End menu HEAD section -->
+
+<!-- Start sidebar right HEAD section --><!-- add to the <head> of your page -->
+<!--#begineditable name="网站导航-右侧导航条" viewid="202481" tagname="网站导航-右侧导航条" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp="true"--><!-- Start sidebar right HEAD section --><!-- add to the <head> of your page -->
+<ul id="nav-bar">
+  <li class="level-one"><img src="../../images/picture/weixin.png" width="45" height="45" onmouseover="this.style.opacity=0.8;" onmouseout="this.style.opacity=1" />
+    <ul class="level-two">
+	<li><img src="../../images/picture/waplibrary1.png" width="90" height="90" border="0" /></li>
+	<li>微信图书馆</li>
+    </ul>
+  </li>
+
+  <li class="level-one"><img src="../../images/picture/app.png" width="45" height="45" onmouseover="this.style.opacity=0.8;" onmouseout="this.style.opacity=1" />
+    <ul class="level-two">
+	<li><img src="../../images/picture/waplibrary3.png" width="90" height="90" border="0" /></li>
+	<li>超星学习通<br />邀请码：yzgldzkd</li>
+    </ul>
+  </li>
+
+  <li class="level-one1"><img src="../../images/picture/qq.png" width="45" height="45" onmouseover="this.style.opacity=0.8;" onmouseout="this.style.opacity=1" />
+    <ul class="level-two1">
+	<li>
+          <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=377406987&site=qq&menu=yes">
+	  <img border="0" src="http://wpa.qq.com/pa?p=2:377406987:49" alt="点击这里给我发消息" title="有关图书、期刊、数据库的荐购及对现有文献资源的意见和建议，请找我吧"></a>
+	  <div style="margin-left:5px;">资源建设部 刘老师</div>
+	</li>
+
+	<li>
+          <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=150520281&site=qq&menu=yes">
+	  <img border="0" src="http://wpa.qq.com/pa?p=2:150520281:49" alt="点击这里给我发消息" title="有关花江图书馆流通、阅览等问题，请找我吧"></a>
+	  <div style="margin-left:5px;">读者服务部 韦老师</div>
+	</li>
+
+	<li>
+ 	  <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=1029723910&site=qq&menu=yes">
+	  <img border="0" src="http://wpa.qq.com/pa?p=2:1029723910:49" alt="点击这里给我发消息" title="有关金鸡岭图书馆流通、阅览等问题，请找我吧"></a>
+	  <div style="margin-left:5px;">读者服务部 田老师</div>
+	</li>
+
+	<li>
+	  <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=532306156&site=qq&menu=yes">
+	  <img border="0" src="http://wpa.qq.com/pa?p=2:532306156:49" alt="点击这里给我发消息" title="有关文献的收录引用检索、科技查新、信息素养培训、科研数据分析及数据库的使用等问题请找我吧"></a>
+	  <div style="margin-left:5px;">学科与技术服务部 陈老师</div>
+	</li>
+
+	<li>
+	  <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=553552464&site=qq&menu=yes">
+	  <img border="0" src="http://wpa.qq.com/pa?p=2:553552464:49" alt="点击这里给我发消息" title="有关电子资源的使用、查收查引、原始文献获取、学科服务等问题请找我吧"></a>
+	  <div style="margin-left:5px;">学科与技术服务部 马老师</div>
+	</li>
+
+	<li>
+	  <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=240607828&site=qq&menu=yes">
+	  <img border="0" src="http://wpa.qq.com/pa?p=2:240607828:49" alt="点击这里给我发消息" title="有关新生培训、厅室预约、展览展示、文化活动、参观交流等问题，请找我吧"></a>
+	  <div style="margin-left:5px;">综合业务部 童老师</div>
+	</li>
+
+	<li>
+ 	  <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=543938445&site=qq&menu=yes">
+	  <img border="0" src="http://wpa.qq.com/pa?p=2:543938445:49" alt="点击这里给我发消息" title="有关新生培训、厅室预约、展览展示、文化活动、参观交流等问题，请找我吧"></a>
+	  <div style="margin-left:5px;">综合业务部 陈老师</div>
+	</li>
+    </ul> 
+  </li>
+</ul>
+
+
+<!-- End sidebar right HEAD section --><!--#endeditable-->
+<!-- End sidebar right HEAD section -->
+
+<!-- Start BODY section --><!-- add to the <body> of your page --><!-- Start content section --><!-- add to the <head> of your page -->
+<div class="single_area">
+<div class="sidebar_area"><!-- Start sidebar left section --><!-- add to the <head> of your page --><!-- sidebar_area begin --><!-- sidebar_head begin --><script src="../../js/jquery.min.js" type="text/javascript"></script><script type="text/javascript" src="../../js/sidebar_menu_min.js"></script><script type="text/javascript">
+			$(document).ready(function (){ 
+	  
+				$(".menu ul li").menu();
+	  
+			}); 
+		</script><link rel="stylesheet" type="text/css" href="../../css/sidebar-menu-css.css"><!-- sidebar_head end -->
+<div id="content">
+<div class="menu"><!--#begineditable name="左边栏三级导航" viewid="164980" tagname="左边栏三级导航" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""-->		
+				<a href="#" title="" style="margin: 5px 0px 5px 135px; font-size: 26px; weight: bolder; color: #000;">图书馆概况</a>
+				<ul>
+						<li>
+							<a href="http://www.guet.edu.cn/lib/info/1036/2875.htm" title="馆长致辞">馆长致辞</a>
+						</li>
+						<li>
+							<a href="http://www.guet.edu.cn/lib/info/1037/2876.htm" title="本馆简介">本馆简介</a>
+						</li>
+						<li>
+							<a href="http://www.guet.edu.cn/lib/info/1038/2877.htm" title="现任领导">现任领导</a>
+						</li>
+						<li>
+							<a href="http://www.guet.edu.cn/lib/info/1039/2878.htm" title="组织机构">组织机构</a>
+						</li>
+						<li>
+							<a href="http://www.guet.edu.cn/lib/info/1040/2879.htm" title="规章制度">规章制度</a>
+						</li>
+						<li>
+							<a href="http://www.guet.edu.cn/lib/info/1041/2880.htm" title="常见问题">常见问题</a>
+						</li>
+						<li>
+							<a href="http://www.guet.edu.cn/lib/info/1042/2881.htm" title="办证需知">办证需知</a>
+						</li>
+						<li>
+							<a href="http://www.guet.edu.cn/lib/info/1043/2883.htm" title="离校手续">离校手续</a>
+						</li>
+						<li>
+							<a href="http://www.guet.edu.cn/lib/info/1152/2928.htm" title="图书馆漫游">图书馆漫游</a>
+						</li>
+						<li>
+							<a href="http://www.guet.edu.cn/lib/info/1045/2884.htm" title="信息公开">信息公开</a>
+						</li>
+						<li>
+							<a href="http://www.guet.edu.cn/lib/info/1046/2885.htm" title="书刊捐赠">书刊捐赠</a>
+						</li>
+				</ul>
+
+<!--#endeditable--></div></div><!-- sidebar_area end --><!-- End sidebar left section --></div>
+<div class="content_area_border">
+<div class="content_area_bg">
+<div class="nav_area"><!--#begineditable name="当前位置" viewid="164968" tagname="当前位置" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""-->		<a href="../../index.htm">首页</a>
+		<img src="../../images/picture/off.png" alt="" title="" width="28" height="28" style="border:none; vertical-align: top" />
+		<a href="../../gk.htm">概况</a>
+		<img src="../../images/picture/off.png" alt="" title="" width="28" height="28" style="border:none; vertical-align: top" />
+		<a href="../../gk/tsggk.htm">图书馆概况</a>
+		<img src="../../images/picture/off.png" alt="" title="" width="28" height="28" style="border:none; vertical-align: top" />
+		正文
+<!--#endeditable--></div><!--#begineditable name="文章内容" viewid="164969" tagname="文章内容" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""-->
+<script language="javascript" src="/system/resource/js/dynclicks.js"></script><script language="javascript" src="../../_dwr/interface/NewsvoteDWR.js"></script><script language="javascript" src="../../_dwr/engine.js"></script><script language="javascript" src="/system/resource/js/news/newscontent.js"></script><script type="text/javascript">NewsvoteDWR.getNewsLinkUrl(2880,'1411890787','vsb',newsSkip);function newsSkip(data){if(data != ""){window.location.href = data;}}</script><script language="javascript" src="/system/resource/js/ajax.js"></script><form name="_newscontent_fromname"><script language="javascript" src="/system/resource/js/jquery/jquery-latest.min.js"></script>
+<div>
+	<div class="title_area">常见问题</div>
+    <hr>
+    <div id="vsb_content" class="content_area"><p style="text-indent:2em;"><p class="vsbcontent_start">&nbsp;</p>
+<div>
+ <p><strong>一般性问题</strong></p>
+</div>
+<div>
+ <p>1、图书馆主页的网址是什么？</p>
+</div>
+<div>
+ <p>答：http://www.guet.edu.cn/lib。主页不仅全面反映了图书馆所提供的资源和服务，而且通过网络链接了许多可以免费获取的国内外有实用价值的信息资源。</p>
+</div>
+<div>
+ <p>2、有关图书馆的问题向谁咨询？</p>
+</div>
+<div>
+ <p>答：图书馆“学科与技术服务部”负责解答读者的咨询。您可以利用图书馆主页上的“咨询”栏目中留言，也可以通过电子邮件<a href="mailto:libxkb@guet.edu.cn">libxkb@guet.edu.cn</a>，或者电话2291608提出您的问题，我们会及时为您解答。</p>
+</div>
+<div>
+ <p>3、对图书馆的工作及服务有意见或建议，向谁反映？</p>
+</div>
+<div>
+ <p>答：图书馆主页上设有“咨询”栏目，另外您可以打电话2291909向馆长反映，或者通过电子邮件<a href="mailto:libxkb@guet.edu.cn">libxkb@guet.edu.cn</a>，图书馆各书库设有读者留言簿。欢迎读者提出批评和建议，对留有网址或电话的读者意见，图书馆都会逐一答复。</p>
+</div>
+<div>
+ <p>4、怎样查询”我的借阅情况”</p>
+</div>
+<div>
+ <p>答：在图书馆主页点击“个人借阅管理”，输入读者证号（一卡通号），学生初始密码为出生年月日YYYYMMDD,教工初始密码1234，登录即可进入“我的图书馆”，查询相关信息。</p>
+</div>
+<div>
+ <p>5、图书馆设有哪些部门?</p>
+</div>
+<div>
+ <p>答：读者服务部、资源建议部、学科与技术服务部、综合服务部。</p>
+</div>
+<div>
+ <p>6、 图书馆实行连续开放吗？</p>
+</div>
+<div>
+ <p>答：图书馆所有阅览室和书库都实行连续开放，具体时间请参阅图书馆主页-&gt;服务-&gt;借阅服务-&gt;开放时间。</p>
+</div>
+<div>
+ <p>7、图书馆的资源如何布局?</p>
+</div>
+<div>
+ <p>答：请参考“图书馆馆布局”，馆藏资源均实行开架阅览，电子阅览室对本校师生开放，每读者每月限免费60小时。</p>
+</div>
+<div>
+ <p>8、从哪里可以获得利用图书馆的指南资料?</p>
+</div>
+<div>
+ <p>答：在图书馆主页“概况”及“服务”栏目中可以浏览和下载，另外，图书馆会经常印一些小册子，供读者免费使用。</p>
+</div>
+<div>
+ <p>9、如何向图书馆推荐购买新书和增订期刊？</p>
+</div>
+<div>
+ <p>答：图书馆主页专门提供了“图书荐购”的栏目，读者可以随时在此栏目中推荐新书，另外，您也可以直接向采访部门提出建议（Tel：2291356），或在图书馆总服务台、书库填写纸质资源荐购单，图书馆十分重视读者对书刊的推荐意见。</p>
+</div>
+<div>
+ <p>10、图书馆有新书通报吗？</p>
+</div>
+<div>
+ <p>答：有。在主页“资源”栏目下可以浏览<a href="http://202.193.70.139/NTRdrNewBook.aspx">“新书通报”</a>。</p>
+</div>
+<div>
+ <p>11、图书馆举办哪些读者培训讲座？从哪里能看到通知？</p>
+</div>
+<div>
+ <p>答：图书馆每个学期都举办书目查询、各种数据库检索方法以及图书馆新资源、新服务的培训讲座，通知一般公告在图书馆主页“最新公告”中。</p>
+</div>
+<div>
+ <p>12、可以在图书馆上网吗？</p>
+</div>
+<div>
+ <p>答：可以。金鸡岭图书馆一楼电子阅览室、花江图书馆4楼C区的电子阅览室、花江图书馆全馆无线网络为本校读者提供上网服务。</p>
+</div>
+<div>
+ <p>13、图书馆的存包柜可以随便使用吗？</p>
+</div>
+<div>
+ <p>答： 可以，使用时间为图书馆的开放时间，晚上闭馆时自觉取走您的物品。</p>
+</div>
+<div>
+ <p>14、代书板如何使用？</p>
+</div>
+<div>
+ <p>答：读者持代书板进书库找书或阅览，应把代书板放在您抽出书的位置，当您确定要借这本书时，可将代书板和书一起带出，将代书板放在指定位置，然后到自助借阅机或大厅办理借书手续。</p>
+</div>
+<div>
+ <p><strong>查找资料</strong></p>
+</div>
+<div>
+ <p>15、中外文图书在哪里办理借阅手续？</p>
+</div>
+<div>
+ <p>答： 图书馆的中外文图书均可在图书馆自助借阅机上办理借阅手续，也可以到图书馆前台办理。</p>
+</div>
+<div>
+ <p>16、中文期刊在哪里阅览？</p>
+</div>
+<div>
+ <p>答：(1)中文现刊在金岭校区图书馆一楼一库、花江校区图书馆四楼B区的现刊阅览室，过刊在花江校区图书馆四楼B区的期刊阅览室。（2）可通过图书馆电子资源中的镜像站点“中国学术期刊”、“重庆维普期刊全文数据库”浏览和下载国内出版的10000多种中文电子期刊全文。（3）网络数据库中的中国知识资源总库和重庆维普中文科技期刊全文数据库，还有万方数字化期刊都可以浏览和下载全文。</p>
+</div>
+<div>
+ <p>17、外文期刊在哪里阅览？</p>
+</div>
+<div>
+ <p>答：(1)在花江校区图书馆四楼B区期刊阅览室。（2） 可通过图书馆主页的电子资源栏目中的网络数据库浏览和下载图书馆订购的3000多种西文电子期刊全文。</p>
+</div>
+<div>
+ <p>18、文学、艺术类刊物、报纸在哪里阅览？</p>
+</div>
+<div>
+ <p>答：在金岭校区图书馆一楼一库期刊阅览室和花江校区图书馆四楼B区期刊阅览室。</p>
+</div>
+<div>
+ <p>19、桂林电子科技大学的硕士学位论文在哪里阅览？</p>
+</div>
+<div>
+ <p>答：在花江图书馆四楼C区的工具书阅览室。另外图书馆主页上的“论文提交”或者数据库导航中的“本校学位论文”中，可以下载和浏览我校自1999年以来的所有学位论文全文。</p>
+</div>
+<div>
+ <p>20、工具书在哪里查阅？</p>
+</div>
+<div>
+ <p>答：在花江图书馆四楼C区的工具书阅览室。该室收藏字典、词典、百科全书、年鉴、标准、手册、机构名录、人名录、学位论文及一些会议资料。</p>
+</div>
+<div>
+ <p>21、怎样知道图书馆订购了哪些期刊？</p>
+</div>
+<div>
+ <p>答：1、可通过图书馆主页的图书检索中的书目检索。已知期刊名称，可以通过题名途径检索；已知出版期刊的机构或学术团体，可以从著者途径检索；如果要查找某个学科的外文期刊，可通过主题或分类途径来检索，或通过电话2291429询问。 2、通过图书馆主页上电子资源可以查询浏览我馆订购的中外文电子期刊。</p>
+</div>
+<div>
+ <p>22、“四大检索工具”（Ei、SCI、ISTP、ISR）在哪儿检索？</p>
+</div>
+<div>
+ <p>答： “四大检索工具”指的是《工程索引（Ei）》、《科学引文索引（SCI）》、《科技会议录索引（ISTP）》、《科学评论索引（ISR）》，均可在图书馆书馆主页“资源”中“外文数据库”栏目下可以检索。</p>
+</div>
+<div>
+ <p>23、在哪里可以检索中文期刊的文摘索引?</p>
+</div>
+<div>
+ <p>答：检索中文期刊文摘索引有二种途径。(1)通过主页的“资源”栏目下“中文数据库”中重庆维普资讯公司的“中文科技期刊数据库（文摘版）”（1989—），该库收录中国大陆及港台地区出版的11000多种科技期刊；(2)通过“电子资源”栏目中的“中国学术期刊”，利用《中国期刊网题录摘要数据库》（1994—），收录国内出版的7000多种学术期刊。</p>
+</div>
+<div>
+ <p>25、如何找到与课题相关的文献? 答：首先根据课题内容归纳出中、英文关键词，然后利用图书馆主页“本馆电子资源”栏目中提供的数据库检索。如果这些数据库仍不能满足要求，可以用网络进行搜索，另外可到图书馆二楼信息服务中心咨询。</p>
+</div>
+<div>
+ <p>26、知道某篇文献的出处，如何获取原文？</p>
+</div>
+<div>
+ <p>答：首先根据文献出处（如期刊名或会议论文集名等），通过图书馆主页上的“书目查询”检索本馆是否收藏有刊登该文献的印刷本期刊和会议录；如果本馆有收藏，则可直接到相应阅览室阅览全文。另外还可通过主页中的电子资源查询电子版期刊、会议并无缝链接浏览电子版原文。对于本馆未收藏的文献，请与学科与技术服务部联系，他们能够通过国内外各种途径竭力帮您找到所需要的原文。</p>
+</div>
+<div>
+ <p>27、如何查找国内外标准？</p>
+</div>
+<div>
+ <p>答（1）IEEE/IEE出版的3150余种标准可通过主页上的IEL全文数据库检索获取。（2）图书馆主页“检索”栏目中有标准检索，包含有中国知网标准数据库等。（3）图书馆主页电子资源的网络数据库中有中国通信标准与信息网，包括所有国内和国外的通信类标准，全年可以下载15000页。</p>
+</div>
+<div>
+ <p>28、如何查找国内学位论文？</p>
+</div>
+<div>
+ <p>答： 1、通过图书馆主页资源中的中文数据库进入中国知识资源总库中的中国优秀博、硕士学位论文数据库库，可以检索、浏览、下载国内学位论文470660篇全文。2、还可通过图书馆主页电子资源的镜像站点中的万方中国学位论文全文库，该库可以检索到国内学位论文470000余篇。</p>
+</div>
+<div>
+ <p>29、如何查找国际学位论文？</p>
+</div>
+<div>
+ <p>答：国际学位论文的查找：通过图书馆主页上的资源栏目下的外文数据库中的“国际博硕士论文全文数据库（PQDD）”，可查询、浏览、下载国际学位论文 150000余篇。</p>
+</div>
+<div>
+ <p>30、如何查找国际会议论文？</p>
+</div>
+<div>
+ <p>答：国际会议论文：通过图书馆主页资源中的外文数据库IEL可以检索、浏览、下载IEEE和IEE的5150种国际会议的全文。通过美国ACM数据库也可以检索、浏览、下载美国计算机学会主办的国际会议的全文。通过SPIE数据库可以检索、浏览和下载国际光学工程学会的所有会议论文。</p>
+</div>
+<div>
+ <p>31、如何查找国内会议论文？</p>
+</div>
+<div>
+ <p>答：国内会议论文：通过图书馆主页资源中的中文数据库，进入中国知网，中国重要会议论文全文数据库，该数据库收录了自2000年以来的会议论文770000余篇。</p>
+</div>
+<div>
+ <p>32、如何查找专利文献？</p>
+</div>
+<div>
+ <p>答：1、通过图书馆主页上检索栏目中的专利检索的“国家知识产权局”可以免费检索所有的中国专利，并可下载专利说明书的全文，另外通过此网页，可以链接到世界各国的专利局。 2、图书馆四楼的中文期刊阅览室有国内的三种专利公报，也可供读者查阅。</p>
+</div>
+<div>
+ <p>33、如何查找科技报告？</p>
+</div>
+<div>
+ <p>答：目前我馆还没有收藏科技报告类的文献，如果需要，读者可通过信息服务中心代为办理。</p>
+</div>
+<div>
+ <p>34、如何获得即将召开的国内外会议信息？</p>
+</div>
+<div>
+ <p>答：通过查找国内外相关专业协会或学会网站，可获得最新会议信息。</p>
+</div>
+<div>
+ <p>35、如何查找馆藏媒体资源？</p>
+</div>
+<div>
+ <p>答：媒体资源按载体类型分有：光盘资源、录音带资源、录像带资源。 其中光盘和录音带资源，读者可通过图书馆“馆藏查询”检索。我馆的随书媒体资源条码号前面加英文字母D,单纯的媒体资源条码号前面加英文字母G。</p>
+</div>
+<div>
+ <p>36、如何获得图书馆未收藏的图书或文献？</p>
+</div>
+<div>
+ <p>答：可以通过图书馆学科与技术服务部代为索取、复印国内外其它图书馆或文献机构的图书文献。详情请咨询学科服务部（Tel：2291608 Email:<a href="mailto:libxkb@guet.edu.cn">libxkb@guet.edu.cn</a>）。</p>
+</div>
+<div>
+ <p>37、在本馆找不到的期刊，能从网上查到国内哪里有收藏的线索吗？</p>
+</div>
+<div>
+ <p>答：可以。请查询图书馆主页电子资源下网络数据库中的“全国期刊联合目录”和“国家科技图书文献中心”网站。前者提供全国500余家图书情报机构的期刊馆藏信息。</p>
+</div>
+<div>
+ <p>38、 如何查询个人发表的论文被SCI、Ei、ISTP等检索刊物收录的情况？</p>
+</div>
+<div>
+ <p>答：对于SCI、Ei、ISTP三大检索工具，分别有印刷版(Print)、光盘版(CD-ROM)、网络版(Web)、联机版(Online) 四种形式。各个检索工具、各个版本在收录范围、检索性能等方面各不相同，特别是在查询个人或单位发表文章的收录和引用时，情况比较复杂。学科服务部可以为您提供被收录检索服务（Tel：2291608）。</p>
+</div>
+<div>
+ <p>39、哪些期刊是中文核心期刊？</p>
+</div>
+<div>
+ <p>答：通常所说的中文核心期刊，指的是戴龙基、张其苏主编的《中文核心期刊要目总览》。读者可到特种文献阅览室查阅，也可以到信息服务中心查阅，也可以通过图书馆主页的读者指南了解相关信息。</p>
+</div>
+<div>
+ <p>40、Internet上有哪些免费利用的文献资源，如何访问？</p>
+</div>
+<div>
+ <p>答：图书馆搜集整理了很多有实用价值的网上免费利用的文献资源。在主页的相关链接和推荐站点栏目中。</p>
+</div>
+<div>
+ <p>41、从校园网上可以检索图书馆的哪些数据库？需要办理什么手续？</p>
+</div>
+<div>
+ <p>答：图书馆主页的“电子资源”栏目下列出的数据库校园网内只可使用镜像站点中的资源，网络数据库和试用数据库需出校IP方可使用。</p>
+</div>
+<div>
+ <p><strong>数据库检索</strong></p>
+</div>
+<div>
+ <p>42、如何使用图书馆的电子资源？</p>
+</div>
+<div>
+ <p>答：在使用图书馆的电子资源之前，需先下载并安装各数据库相应的全文浏览器，图书馆的“相关下载”栏目为读者提供了所有必需的最新版本的全文浏览器。</p>
+</div>
+<div>
+ <p>43、不熟悉各种数据库的检索方法，如何获得帮助？</p>
+</div>
+<div>
+ <p>答：在每个数据库的主页面上都提供有帮助信息。另外，图书馆信息服务中心会经常免费发一些简单的使用简介的小册子，也可通过电话和Email获得帮助（Email:<a href="mailto:libxkb@guet.edu.cn">libxkb@guet.edu.cn</a>, Tel:2291608）及图书馆主页的“读者留言”栏目提出您的问题，您都会获得及时、满意的答复。</p>
+</div>
+<div>
+ <p>44、怎样查找国外生产的电子元器件参数？</p>
+</div>
+<div>
+ <p>答：PARTMINER公司通过因特网免费提供《世界电子元器件参数（CAPSXpert）》的检索服务。该库收录了国外1,500多个著名电子元器件厂商的180多万种器件的详细资料（全文），包括技术参数、图表和全文使用手册等（可以下载或打印），是查找国外电子元器件参数的有效工具。该网站地址：http://www.freetradezone.com。也可通过图书馆主页的推荐站点链接进入。</p>
+</div>
+<div>
+ <p><strong>公共书目查询</strong></p>
+</div>
+<div>
+ <p>45、能在图书馆以外的联网计算机上查询我校图书馆的公共书目吗？</p>
+</div>
+<div>
+ <p>答：可以。在任何一台联网计算机上，在任何时间都可以查询桂林电子科技大学图书馆的公共书目。</p>
+</div>
+<div>
+ <p>46、能在图书馆公共书目查询系统中查询图书馆收藏的期刊吗? 答：可以。馆藏图书与期刊的书目信息存放在同一个书目数据库中。查询期刊与查询图书基本类似，只是需要在查询之前先选择文献类型。</p>
+</div>
+<div>
+ <p>47、怎样知道图书馆订购期刊的到馆情况？</p>
+</div>
+<div>
+ <p>答：在公共书目查询系统中检索到期刊的详细记录后，点击“记到情况”，即可看到期刊到馆的情况。</p>
+</div>
+<div>
+ <p>48、图书馆内只在大厅设有书目查询终端吗？</p>
+</div>
+<div>
+ <p>答：图书馆除在大厅设有书目查询终端外，在三楼的电子阅览室也可以免费查询图书馆的藏书和个人的图书借阅情况。</p>
+</div>
+<div>
+ <p>49、图书馆的全部馆藏在联机公共书目系统中都可以查到吗？</p>
+</div>
+<div>
+ <p>答：不能。通过公共书目查询系统可以查到的馆藏包括：全部中、西文图书、中西文期刊，媒体资源、中西文电子期刊。目前，馆藏的日文和俄文文献还没有包括在书目数据库中。</p>
+</div>
+<div>
+ <p><strong>图书流通阅览</strong></p>
+</div>
+<div>
+ <p>50、图书借期有哪几种类型？</p>
+</div>
+<div>
+ <p>答：有两种：教工、研究生借期60天，续借一次，30天，学生及其他读者借期30天，续借一次，30天。</p>
+</div>
+<div>
+ <p>51、如何借阅随书光盘？有什么规则？</p>
+</div>
+<div>
+ <p>答：在花江图书馆四楼电子阅览室借阅随书光盘，具体规则如下： （1）每位读者凭证限借三碟，期限30天，超期罚款0.1元/天。 （2）借出时读者应仔细检查盘面有无损坏，如有损坏应及时向工作人员提出；否则后果自负。 （3）归还时工作人员应仔细检查盘面及袋子有无损坏，如发现盘面有损坏，赔偿10元/碟，纸袋损坏赔偿1元/个，塑料袋损坏赔偿0.5元/个。</p>
+</div>
+<div>
+ <p>52、想复制英语磁带怎么办？</p>
+</div>
+<div>
+ <p>答：由于目前图书馆暂无磁带翻录设备，故英语磁带放在外语系语音室一套，如有需要，可到外语系复制。</p>
+</div>
+<div>
+ <p>53、在哪里办理借还书手续？</p>
+</div>
+<div>
+ <p>答： 所有书库的图书均可在各书库自助借还机或者在一楼大厅办理借还手续。</p>
+</div>
+<div>
+ <p>54、允许读者在还一本书的同时又马上将其借出吗？</p>
+</div>
+<div>
+ <p>答：为保障全体读者的利益，归还的图书在工作人员重新上架之后才可以再次借出。</p>
+</div>
+<div>
+ <p>55、图书馆不开门的时间可以还书吗？</p>
+</div>
+<div>
+ <p>答：可以。为了方便读者在闭馆时段还书，金鸡岭图书馆设立了24小时自助还书机。读者可在闭馆时归还该校区图书馆图书。&nbsp;</p>
+</div>
+<div>
+ <p>56、到期的图书还可以续借吗？</p>
+</div>
+<div>
+ <p>怎样办理续借手续？</p>
+</div>
+<div>
+ <p>答：可以。到期的图书可以续借一次，时间为一个月。 读者登录到“我的图书馆”，点击“借阅查询”，即可看到你目前的借阅情况，再在想要续借的图书上进行相应的操作即可。</p>
+</div>
+<div>
+ <p>57、怎样知道个人借书情况和还书期限？</p>
+</div>
+<div>
+ <p>答：读者可通过任何一台联网的计算机查询个人借书情况。在图书馆主页登录“我的图书馆”点击“ 借阅情况查询”， 可以看到本人所借图书的索书号、书名、还书日期等信息。</p>
+</div>
+<div>
+ <p>58、发现借书记录与实际情况不符，怎么办？</p>
+</div>
+<div>
+ <p>答：出现个人借书记录与实际情况不符的情况，请到图书馆大厅的还书处查询；或到二楼信息服务中心查询。</p>
+</div>
+<div>
+ <p><strong>有关规则</strong></p>
+</div>
+<div>
+ <p>59、入馆需持有什么证件？</p>
+</div>
+<div>
+ <p>答：为保障图书资料及读者个人财物安全，一般情况下，读者应凭本人一卡通方可入馆。</p>
+</div>
+<div>
+ <p>60、怎样办理借书证？</p>
+</div>
+<div>
+ <p>答：图书馆自1995年开始，实行计算机管理，读者持校园一卡通方可借书。</p>
+</div>
+<div>
+ <p>61、一卡通丢失了怎么办？</p>
+</div>
+<div>
+ <p>答：读者丢失一卡通后，应立即到学校一卡通中心办理挂失手续。然后再重新补办。</p>
+</div>
+<div>
+ <p>62、可以使用别人的借书证借书吗？</p>
+</div>
+<div>
+ <p>答：借书证是读者在图书馆借阅图书、查阅资料的有效证件，只限本人使用。图书馆允许读者帮助其他人归还图书。使用他人图书证将对当事人双方处以停止借书权利两个月的处罚，并对当事人双方进行批评教育。</p>
+</div>
+<div>
+ <p>63、调离、休学或因公、因私出境的读者需要办理退证手续吗？</p>
+</div>
+<div>
+ <p>答：按照学校规定，调离、休学或因公、因私出境（参加国际会议、学校组团出访、短期出国旅游除外）的读者必须到图书馆归还所借图书、还清欠款，退还借书证，办理离校手续。</p>
+</div>
+<div>
+ <p>64、图书过期为什么要罚款？</p>
+</div>
+<div>
+ <p>答：实行图书过期罚款制度的目的是为维护大多数读者的利益，保障图书的正常流通。这也是一种国际惯例。</p>
+</div>
+<div>
+ <p>65、图书过期罚款有哪些规定？</p>
+</div>
+<div>
+ <p>答：未在规定日期之内归还图书的读者要交纳逾期款。借期为60天或30天的图书，过期每册每天逾期款0.10元 。</p>
+</div>
+<div>
+ <p>66、可以在图书馆的书上勾画吗？</p>
+</div>
+<div>
+ <p>答：不可以。图书馆的书是国家财产，不是私有财产，爱护公物是公民的基本道德。借阅图书馆的图书，不可以勾画、批注，如果有同学在上面勾画，要按照有关规定进行赔偿。</p>
+</div>
+<div>
+ <p>67、撕剪了图书馆的书怎么办？</p>
+</div>
+<div>
+ <p>答：撕剪图书馆图书是故意破坏公物的行为，违者将被处以：如果财产帐号在24万以前，处以原书价20倍的罚款，24万以后，处以原书价10倍的罚款。</p>
+</div>
+<div>
+ <p>68、偷盗图书馆的图书如何处罚？</p>
+</div>
+<div>
+ <p>答：1、要写出书面检讨。 2、在全校通报批评。 3、如果条码号在0240000以前，处以原书价20倍的罚款，0240000以后，处以原书价10倍的罚款。</p>
+</div>
+<div>
+ <p>69、本人因公出差而造成图书过期，可以免除罚款吗？</p>
+</div>
+<div>
+ <p>答：不可以。任何原因造成的图书过期都将影响图书的流通。为避免个人经济损失，请出差前查看个人借阅记录，及时办理图书归还手续，也可委托他人代为还书。如遇不可预见事件而造成的图书过期，图书馆将视具体问题酌情处理。</p>
+</div>
+<div>
+ <p>70、持有过期图书是否影响继续借书？</p>
+</div>
+<div>
+ <p>答：是，如果读者有过期图书，系统将会停止您继续借书，归还过期图书并缴纳过期罚款后将立即恢复读者借书权力。</p>
+</div>
+<div>
+ <p>71、研究生和本科生毕业时需要在图书馆办理手续吗？<br></p>
+</div>
+<div>
+ <p>答：需要。研究生毕业首先要先将学位论文的电子版在网上提交，然后到资源建设部验收，盖章。 本科生毕业需以班级为单位到图书馆总服务台办理离校手续。</p>
+</div>
+<div>
+ <p><strong>咨询服务</strong></p>
+</div>
+<div>
+ <p>72、学科与技术服务部提供哪些服务？</p>
+</div>
+<div>
+ <p>答： 学科与技术服务部面向读者提供的服务主要包括：指导读者正确使用图书馆、网上解答、电话答疑、从国内外索取原始文献，图书馆用户的定期培训、现代信息检索课教学、为师生提供文献被收录、被引用的信息服务等。</p>
+</div>
+<div>
+ <p>73、学科服务部可以为校外读者提供服务吗？</p>
+</div>
+<div>
+ <p>答：可以。不过有些服务是有偿的，具体规定请咨询2291608。</p>
+</div>
+<div>
+ <p>74、本校读者可以从其它图书馆借书吗？</p>
+</div>
+<div>
+ <p>答： 不可以。</p>
+</div>
+<div>
+ <p>75、通过学科与技术服务部从外面复印一篇论文(全文)要花多少钱？需要多长时间？</p>
+</div>
+<div>
+ <p>答：一般情况下，复印一篇论文的费用为：“复印费+邮寄费+服务费”，时间约5-7天。</p>
+</div>
+<div>
+ <p>76、图书馆提供科技查新咨询服务吗？</p>
+</div>
+<div>
+ <p>答：</p>
+ <div>
+  <p class="vsbcontent_end">目前我馆已与桂林国际联机检索中心合作，为老师们提供更快捷便利、优惠的服务，欢迎从事课题研究的教师、研究生及科研人员需要成果鉴定、报奖、科研立项查新的，请到我馆学科服务部办理。</p>
+ </div>
+</div></p></div><div id="div_vote_id"></div>
+        <br />
+    <p align="right">【<a href="javascript:window.opener=null;window.open('','_self');window.close();">关闭</a>】</p><br />
+</div>
+</form><!--#endeditable--></div></div></div><!-- End BODY section --><!-- Start footer BODY section --><!-- add to the <head> of your page -->
+<div class="footer_border">
+<p></p>
+<div class="outer">
+<div class="in0"><a href="http://www.guet.edu.cn" target="_blank">学校主页</a> </div>
+<div class="in1"><a href="http://202.193.70.191" target="_blank">回到旧版</a> </div>
+<div class="in2"><a href="http://www.guet.edu.cn/lib/info/1064/2891.htm" target="_blank">开馆时间</a> </div>
+<div class="in3"><a href="http://www.guet.edu.cn/lib/info/1060/2890.htm" target="_blank">馆藏分布</a> </div>
+<div class="in4"><a href="http://202.193.70.165/dzzt/index.php" target="_blank">电子展厅</a> </div>
+<div class="in5"><a href="http://www.guet.edu.cn/lib/info/1032/2888.htm" target="_blank">论文提交</a> </div>
+<div class="in6"><a href="http://202.193.70.165/subject/subject.html" target="_blank">专题导读</a> </div>
+<div class="in7"><a href="http://202.193.70.166:8020/index.asp?idc=tryout&amp;mem=true" target="_blank">最新试用</a> </div></div>
+<p></p>
+<p></p>
+<div class="outer1">版权所有：桂林电子科技大学图书馆 电话：(0773)2191353 地址：中国广西桂林金鸡路1号 邮编：541004 </div>
+<p></p></div><!-- End footer BODY section -->
+
+</body></html>

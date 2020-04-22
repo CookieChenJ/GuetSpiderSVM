@@ -1,0 +1,1208 @@
+
+
+
+
+
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <link href="style/layout.css" rel="stylesheet" type="text/css" />
+    <link href="style/index.css" rel="stylesheet" type="text/css" />   
+    <style>
+    body {
+    background: url(images/images/bg_01.jpg) top left repeat-x;
+    padding: 0px;
+    margin: 0px;}
+.k_menu {
+    width: 100%;
+    height: 57px;
+    background: url(images/images/bg_02.jpg) top left repeat-x;}
+.k_footer {
+    background: url(images/images/bg_06.jpg) repeat-x;
+    height: 70px;}
+    .k_left .k_left_menu{
+    width: 227px;
+    height: 186px;
+    background: url(images/images/bg_left_menu.png) left top no-repeat;
+    position: relative;}
+.k_left_block .k_left_block_head {
+    height: 35px;
+    background: url(images/images/bg_03.gif) left top repeat;
+    position: relative;}
+
+.k_left_block .k_left_block_head .k_column_name {
+    height: 35px;
+    line-height: 35px;
+    padding-left: 41px;
+    background: url(images/images/img_03.gif) left top no-repeat;
+    margin: 0px 0px;
+    color: #fff;
+    font-size: 14px;}
+    .k_right_block .k_right_block_head {
+    height: 35px;
+    background: url(images/images/bg_04.gif) left top repeat;
+    position: relative;}
+
+.k_right_block .k_right_block_head .k_column_name {
+    height: 35px;
+    line-height: 35px;
+    padding-left: 41px;
+    background: url(images/images/img_04.gif) left top no-repeat;
+    margin: 0px 0px;
+    color: #005ec8;
+    font-size: 14px;}
+    .k_right_block2 .k_right_block_head {
+    background: none;
+    border-bottom: 1px dashed #848484;}
+.k_right_block2 .k_right_block_head .k_column_name {
+    background: url(images/images/ico_01.gif) 14px center no-repeat;}
+    </style> 
+<title>桂林电子科技大学大学科技园管理委员会</title><META Name="keywords" Content="桂林电子科技大学大学科技园管理委员会,桂林电子科技大学科技园" />
+
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="index.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1411891089)</script>
+</head>
+<body>
+    <div class="k_layout">
+        <a href="#">
+            <img src="images/images/img_01.jpg" />
+        </a>
+        <img class="k_logo2" src="images/images/bg_03.jpg" />
+    </div>
+    <div class="k_menu">
+        <div class="k_layout k_menu_main"><!--#begineditable name="网站导航" action="webber.wbst.com.util.SitelinkAction" layout="/system/_component/sitenav/vnav.jsp" tpltype="0" contype="" clone="" viewid="163736" contentviewid="" tagname="网站导航"--><style type="text/css">
+td.b1_0_{FONT-SIZE:9pt;width: 107px;}
+td.b2_0_{FONT-SIZE:9pt;width: 107px;background-image: url(images/images/bt_over.jpg);}
+td.b3_0_{FONT-SIZE:9pt;BORDER-BOTTOM: #cccccc 1px solid;BACKGROUND-COLOR: #eeeeee;BORDER-RIGHT: #cccccc 1px solid;}
+td.b4_0_{FONT-SIZE:9pt;BORDER-BOTTOM: #cccccc 1px solid;BACKGROUND-COLOR: #eeeeee;BORDER-RIGHT: #cccccc 1px solid;}
+a.menu0_0_:link {TEXT-DECORATION: none;};
+a.menu0_0_:visited { TEXT-DECORATION: none;};
+a.menu0_0_:hover {TEXT-DECORATION: none;};
+a.menu0_0_:active {TEXT-DECORATION: none;};
+table.tb1_0_{FONT-SIZE:9pt;border:0;}
+span.s1_0_{line-height: 57px;color: #ffffff;font-size: 14px;text-decoration: none;font-family: 幼圆;font-weight: bold;}
+span.s2_0_{LINE-HEIGHT: 160%;FONT-FAMILY: 宋体;COLOR: #cc0000;FONT-SIZE: 11pt;TEXT-DECORATION: none;}
+span.s10_0_{line-height: 57px;color: #525252;font-size: 14px;text-decoration: none;font-family: 幼圆;font-weight: bold;}
+span.s20_0_{LINE-HEIGHT: 160%;FONT-FAMILY: 宋体;COLOR: #000000;FONT-SIZE: 11pt;TEXT-DECORATION: none;}
+</style>
+<SCRIPT language="javascript"> 
+ var showfix_0_ = 1;
+ var isvertical_0_ = false;
+</SCRIPT>
+<script language="javascript" src="/system/resource/js/menu/text.js"></script>
+<TABLE id="t1_0_" cellSpacing="0" cellPadding="0" border="0" height="0" width="0"><TR><TD valign="center"></TD><TD valign="middle" height="0" width="0" nowrap class="b1_0_" align="center" id="a_0_1018" onmouseover="tshowLayers('1018','b2_0_', '_0_')" onmouseout="thideLayers('1018','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="index.htm" target="_blank"><span class="fontstyle163736">&nbsp;园区首页&nbsp;</span></a></TD><TD valign="center"></TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1021" onmouseover="tshowLayers('1021','b2_0_', '_0_')" onmouseout="thideLayers('1021','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="info/1044/1374.htm" target="_blank"><span class="fontstyle163736">&nbsp;机构设置&nbsp;</span></a></TD><TD valign="center"></TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1011" onmouseover="tshowLayers('1011','b2_0_', '_0_')" onmouseout="thideLayers('1011','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1002" target="_blank"><span class="fontstyle163736">&nbsp;园区动态&nbsp;</span></a></TD><TD valign="center"></TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1012" onmouseover="tshowLayers('1012','b2_0_', '_0_')" onmouseout="thideLayers('1012','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="info/1033/1023.htm" target="_blank"><span class="fontstyle163736">&nbsp;园区简介&nbsp;</span></a></TD><TD valign="center"></TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1013" onmouseover="tshowLayers('1013','b2_0_', '_0_')" onmouseout="thideLayers('1013','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1004" target="_blank"><span class="fontstyle163736">&nbsp;企业展示&nbsp;</span></a></TD><TD valign="center"></TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1014" onmouseover="tshowLayers('1014','b2_0_', '_0_')" onmouseout="thideLayers('1014','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1005" target="_blank"><span class="fontstyle163736">&nbsp;园区招商&nbsp;</span></a></TD><TD valign="center"></TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1015" onmouseover="tshowLayers('1015','b2_0_', '_0_')" onmouseout="thideLayers('1015','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1006" target="_blank"><span class="fontstyle163736">&nbsp;园区服务&nbsp;</span></a></TD><TD valign="center"></TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1016" onmouseover="tshowLayers('1016','b2_0_', '_0_')" onmouseout="thideLayers('1016','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1007" target="_blank"><span class="fontstyle163736">&nbsp;规章制度&nbsp;</span></a></TD><TD valign="center"></TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1017" onmouseover="tshowLayers('1017','b2_0_', '_0_')" onmouseout="thideLayers('1017','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="guestbook.jsp?urltype=tree.TreeTempUrl&wbtreeid=1022" target="_blank"><span class="fontstyle163736">&nbsp;联系我们&nbsp;</span></a></TD></TR></TR></table><!--#endeditable--></div>
+    </div>
+    <div class="k_layout k_banner">
+        <img class="k_banner_img" src="images/images/img_02.jpg" />
+    </div>
+    <div class="k_layout k_column">
+        <div class="k_left">
+            <div class="k_left_block">
+                <div class="k_left_block_head">
+                    <p class="k_column_name">园区招商</p>
+                    <a class="k_column_more" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1005" target="_blank">
+                        <img src="images/images/img_more.gif" />
+                    </a>
+                </div>
+                <div class="k_left_block_body"><!--#begineditable name="招商园区" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/titlelist.jsp" tpltype="0" contype="news" clone="" viewid="163652" contentviewid="" tagname="招商园区"--><table width="100%" cellspacing="3" cellpadding="0">
+  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont163652">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1005/1011.htm" class="c163652" title="桂林电子科技大学科技园入园申请表（适用于迁入企业）" target="_blank">
+        桂林电子科技大学科技园入园申请...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle163652" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont163652">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1005/1010.htm" class="c163652" title="桂林电子科技大学科技园入园申请表（新设立企业）" target="_blank">
+        桂林电子科技大学科技园入园申请...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle163652" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont163652">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1005/1009.htm" class="c163652" title="桂林电子科技大学科技园众创空间入驻申请书" target="_blank">
+        桂林电子科技大学科技园众创空间...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle163652" width="1%" nowrap></td></tr>
+</table><!--#endeditable--></div>
+            </div>
+            <div class="k_left_block">
+                <div class="k_left_block_head">
+                    <p class="k_column_name">最新公告</p>
+                    <a class="k_column_more" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1008" target="_blank">
+                        <img src="images/images/img_more.gif" />
+                    </a>
+                </div>
+                <div class="k_left_block_body"><!--#begineditable name="最新公告" action="" layout="" tpltype="" contype="" clone="" viewid="163670" contentviewid="" tagname="最新公告"--><table width="100%" cellspacing="3" cellpadding="0">
+  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont163670">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1008/1685.htm" class="c163670" title="关于疫情防控期间企业复工管理的通知" target="_blank">
+        关于疫情防控期间企业复工管理的通知
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle163670" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont163670">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1008/1592.htm" class="c163670" title="关于开展第六届广西创业大赛的通知" target="_blank">
+        关于开展第六届广西创业大赛的通知
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle163670" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont163670">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1008/1624.htm" class="c163670" title="《桂林国家高新区关于促进小微企业发展的若干措施》实施细则 （试行）" target="_blank">
+        《桂林国家高新区关于促进小微企...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle163670" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont163670">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1008/1623.htm" class="c163670" title="关于开展消防安全隐患排查整改专项检查通知" target="_blank">
+        关于开展消防安全隐患排查整改专...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle163670" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont163670">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1008/1551.htm" class="c163670" title="关于规范电动车充电安全管理的公告" target="_blank">
+        关于规范电动车充电安全管理的公告
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle163670" width="1%" nowrap></td></tr>
+</table><!--#endeditable--></div>
+            </div>
+            <div class="k_left_block">
+                <div class="k_left_block_head">
+                    <p class="k_column_name">资讯园地</p>
+                    <a class="k_column_more" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1009" target="_blank">
+                        <img src="images/images/img_more.gif" />
+                    </a>
+                </div>
+                <div class="k_left_block_body"><!--#begineditable name="资讯园地" action="" layout="" tpltype="" contype="" clone="" viewid="163671" contentviewid="" tagname="资讯园地"--><table width="100%" cellspacing="3" cellpadding="0">
+  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont163671">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1009/1338.htm" class="c163671" title="2016年中国创新创业报告" target="_blank">
+        2016年中国创新创业报告
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle163671" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont163671">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1009/1337.htm" class="c163671" title="中国创新创业 2015 年度报告" target="_blank">
+        中国创新创业 2015 年度报告
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle163671" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont163671">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1009/1336.htm" class="c163671" title="国务院关于印发实施《中华人民共和国 促进科技成果转化法》若干规定的通知" target="_blank">
+        国务院关于印发实施《中华人民共...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle163671" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont163671">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1009/1335.htm" class="c163671" title="国务院办公厅关于加快众创空间发展 服务实体经济转型升级的指导意见" target="_blank">
+        国务院办公厅关于加快众创空间发...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle163671" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont163671">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1009/1334.htm" class="c163671" title="教育部关于做好2016届全国普通高等学校 毕业生就业创业工作的通知" target="_blank">
+        教育部关于做好2016届全国普通高...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle163671" width="1%" nowrap></td></tr>
+</table><!--#endeditable--></div>
+            </div>
+            <div class="k_link_block"><!--#begineditable name="友情链接" action="webber.wbst.com.url.ColumnUrl" layout="/system/_component/columnurl/linkselect.jsp" tpltype="0" contype="url" clone="" viewid="163672" contentviewid="" tagname="友情链接"-->    
+    
+    
+    
+  
+<script language="javascript" src="/system/resource/js/dynclicks.js"></script>
+    
+<script language="javascript">    
+<!--    
+    function doLinksu4(o)    
+    {    
+        var link=document.getElementsByName("su4")[0];    
+        var index=link.selectedIndex;    
+        if (index==-1 || index>=link.options.length)    
+        {    
+          return;    
+        }    
+        var value = link.options[index].value;    
+        var obj = document.getElementById("hu4");    
+        obj.href = value;
+        var wburlid =link.options[index].getAttribute("aa163672aa");
+        _addDynClicks('wburl',1411891089,wburlid)
+            
+                     obj.target = "_blank"
+                    
+         if(document.all){
+          obj.click();     
+        }         
+         else 
+        { 
+          window.open(value);
+         }
+       
+       if(o.selectedIndex != 0)    
+       {    
+           o.selectedIndex = 0;    
+       }    
+    }    
+-->    
+</script>  
+<table>    
+    <tr><td align="center">    
+            <span class="titlestyle163672"></span> <a id="hu4"></a>    
+            <select name="su4" class="selectstyle163672" onChange="doLinksu4(this)">    
+                <option value="">　　　--友情链接--</option>    
+                <option vsbhrefname="value" aa163672aa="31356" value="http://www.gliet.edu.cn/">校主页    
+                <option vsbhrefname="value" aa163672aa="31362" value="http://www.gxst.gov.cn/">广西科学技术厅    
+                <option vsbhrefname="value" aa163672aa="31363" value="http://www.gxedu.gov.cn/">广西壮族自治区教育厅    
+                </select>    
+        </td><tr></table><!--#endeditable--></div>
+            <div class="k_pageview_block">
+              <p>今日访问量<span><!--#begineditable name="今日访问量" action="webber.wbst.com.util.CounterAction" layout="/system/_component/jsq/tpljsq_wz.jsp" tpltype="1" contype="" clone="" viewid="163843" contentviewid="" tagname="今日访问量"--><script language="javascript" src="_dwr/engine.js"></script><script language="javascript" src="_dwr/util.js"></script><script language="javascript" src="_dwr/interface/PageCounterDWR.js"></script><span id="a163843" name="a163843" style="color: #505ABC; font-weight: bold;"></span>   
+
+<script>
+function getvisittimea163843()
+{       
+    PageCounterDWR.getVisittime('1411891089','1001','IP_DAY','0','4',callbackdataa163843)
+}
+function callbackdataa163843(data)
+{
+    document.getElementById("a163843").innerHTML = data; 
+}
+getvisittimea163843();
+</script><!--#endeditable-->，</span></p>
+              <p>您是第<span><!--#begineditable name="第几个访客" action="" layout="" tpltype="" contype="" clone="" viewid="163847" contentviewid="" tagname="第几个访客"--><span id="a163847" name="a163847" style="color: #505ABC; font-weight: bold;"></span>   
+
+<script>
+function getvisittimea163847()
+{       
+    PageCounterDWR.getVisittime('1411891089','1001','IP_TOTAL','0','6',callbackdataa163847)
+}
+function callbackdataa163847(data)
+{
+    document.getElementById("a163847").innerHTML = data; 
+}
+getvisittimea163847();
+</script><!--#endeditable--></span>位访客</p>
+            </div>
+        </div>
+        <div class="k_right">
+            <div class="k_right_block">
+                <div class="k_right_block_head">
+                    <p class="k_column_name">园区动态</p>
+                    <a class="k_column_more" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1002" target="_blank">
+                        <img src="images/images/img_05.gif" />
+                    </a>
+                </div>
+                <div class="k_right_block_body">
+                  <div class="k_right_block_body">
+                    <div class="k_yqdt_left"><!--#begineditable name="园区动态幻灯片" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/imagechangenews.jsp" tpltype="0" contype="news" clone="" viewid="163658" contentviewid="" tagname="园区动态幻灯片"-->
+<LINK href="/system/resource/style/component/news/list/imagechangenews.css" type="text/css" rel="stylesheet">
+<script language="javascript" src="/system/resource/js/news/imagechangenews.js"></script><script language="JavaScript">
+var u_u7_icn = new ImageChangeNews("u_u7_", 225, 150, 4, 2.0, true, false, false, true);
+
+//初始化图片, 并启动定时
+function u_u7_init_img()
+{
+
+    u_u7_icn.addimg("\/__local\/8\/AE\/63\/213AF95B318B59A5CF0E809F60D_BE1390CE_CA9F.jpg", "info\/1002\/1489.htm", "全区创新支撑产业高质量发...", "");
+
+    u_u7_icn.addimg("\/__local\/3\/4D\/F3\/A57D35090B6B20A299BE98A745F_B50273BB_985E.jpg", "info\/1002\/1486.htm", "陈岳林主任讲党课，学习新...", "");
+
+    u_u7_icn.addimg("\/__local\/C\/88\/A1\/D0CC9062DC83C69C9238F279131_08D9A705_78AF.png", "info\/1002\/1483.htm", "我校大学科技园在孵企业—...", "");
+
+    u_u7_icn.addimg("\/__local\/6\/1A\/B5\/0E9C3306D3EAD9DDD303245224A_2B079C24_72D8.jpg", "info\/1002\/1482.htm", "深圳市益田集团股份有限公...", "");
+
+    u_u7_icn.addimg("\/__local\/6\/B4\/19\/A1F238422DD552CBCAE88B5C9B3_C04B47F9_F9C4.jpg", "info\/1002\/1481.htm", "大学科技园领导赴贺州桂岭...", "");
+
+    u_u7_icn.changeimg(0);
+}
+</script><table cellspacing="0" cellpadding="0" border="0" style="padding:0px margin:0px; border:0px">
+    <tr><td>
+        <div style="OVERFLOW: hidden;height:150px;width:225px">
+            <div id="u_u7_div" align="center" style="padding:0px;margin:0px;border:0px solid black;background-color:#000000;FILTER: progid:DXImageTransform.Microsoft.RevealTrans (duration=2.0,transition=23);height:150px;width:225px">
+                <div id="u_u7_imgdiv" style="padding:0px;border:0px;"><a id="u_u7_url" target="_blank"><img id="u_u7_pic" border="0" width="225" height="150" src="/system/resource/images/space.gif"></a></div>
+            </div>
+            <div style="filter:alpha(style=1,opacity=10,finishOpacity=80);width:225px;height:19px;text-align:right;top:-19px;position:relative;padding:0px;margin:0px;border:0px;">
+<a href="javascript:u_u7_icn.changeimg(0)" ; id="u_u7_selectNode0" class="imagechangenews_pnode" target="_self">1</a><a href="javascript:u_u7_icn.changeimg(1)" ; id="u_u7_selectNode1" class="imagechangenews_pnode" target="_self">2</a><a href="javascript:u_u7_icn.changeimg(2)" ; id="u_u7_selectNode2" class="imagechangenews_pnode" target="_self">3</a><a href="javascript:u_u7_icn.changeimg(3)" ; id="u_u7_selectNode3" class="imagechangenews_pnode" target="_self">4</a><a href="javascript:u_u7_icn.changeimg(4)" ; id="u_u7_selectNode4" class="imagechangenews_pnode" target="_self">5</a>
+            </div></div></td></tr>
+       
+    <tr><td height="25">
+        <div align="center" style="overflow:hidden;text-overflow:ellipsis;height:25px;width:225px;"><a target="_blank" class="titlestyle163658" id="u_u7_newstitle"></a></div>
+    </td></tr>
+<div align="left" display="none" style="overflow:hidden;text-overflow:ellipsis;height:0px;width:225px;padding-left:2px;padding-right:2px"><a target="_blank" class="summarystyle163658" id="u_u7_newssummary"></a></div>   
+</table><SCRIPT language="JavaScript">u_u7_init_img();</SCRIPT><!--#endeditable--></div>
+                    <div class="k_yqdt_right"><!--#begineditable name="园区动态" action="" layout="" tpltype="" contype="" clone="" viewid="163659" contentviewid="" tagname="园区动态"--><table width="100%" cellspacing="0" cellpadding="0">
+  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont163659">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1002/1649.htm" class="c163659" title="【不忘初心、牢记使命】我校牵头成立广西高校科技成果转化联盟(图）" target="_blank">
+        【不忘初心、牢记使命】我校牵头成立广西高校科技...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle163659" width="1%" nowrap>2019/12/10</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont163659">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1002/1704.htm" class="c163659" title="校领导到大学科技园调研视察" target="_blank">
+        校领导到大学科技园调研视察
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle163659" width="1%" nowrap>2020/03/31</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont163659">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1002/1702.htm" class="c163659" title="【疫情防控】校领导检查大学科技园入驻企业复工复产有序开放情况" target="_blank">
+        【疫情防控】校领导检查大学科技园入驻企业复工复...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle163659" width="1%" nowrap>2020/03/17</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont163659">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1002/1703.htm" class="c163659" title="【疫情防控】大学科技园多渠道开展疫情防护知识宣传" target="_blank">
+        【疫情防控】大学科技园多渠道开展疫情防护知识宣传
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle163659" width="1%" nowrap>2020/03/16</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont163659">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1002/1701.htm" class="c163659" title="【疫情防控】大学科技园入驻企业复工" target="_blank">
+        【疫情防控】大学科技园入驻企业复工
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle163659" width="1%" nowrap>2020/03/11</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont163659">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1002/1684.htm" class="c163659" title="【疫情防控】大学科技园对园区开展防疫消毒工作" target="_blank">
+        【疫情防控】大学科技园对园区开展防疫消毒工作
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle163659" width="1%" nowrap>2020/02/09</td></tr>
+</table><!--#endeditable--></div>
+                  </div>
+                </div>
+            </div>
+            <div class="k_right_block">
+                <div class="k_right_block_head">
+                    <p class="k_column_name">科技园资质</p>
+                    <a class="k_column_more" href="info/1033/1023.htm" target="_blank">
+                        <img src="images/images/img_05.gif" />
+                    </a>
+                </div>
+                <div class="k_right_block_body"><!--#begineditable name="科技园资质" action="webber.wbst.com.image.ColumnImage" layout="/system/_component/columnimage/imagelist.jsp" tpltype="0" contype="image" clone="" viewid="163660" contentviewid="" tagname="科技园资质"-->
+
+
+
+
+
+<table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+    <td><img src="images/image_content/kjyzz_4.JPG" width="180" height="146" hspace="0" vspace="0" border="0"></td>
+        <td><img src="images/image_content/kjyzz_3.JPG" width="180" height="146" hspace="0" vspace="0" border="0"></td>
+        <td><img src="images/image_content/kjyzz_2.jpg" width="180" height="146" hspace="0" vspace="0" border="0"></td>
+        <td><img src="images/image_content/kjyzz_1.JPG" width="180" height="146" hspace="0" vspace="0" border="0"></td>
+        </tr>
+        </table><!--#endeditable--></div>
+            </div>
+            <div class="k_right_block k_right_block2">
+                <div class="k_right_block_head">
+                    <p class="k_column_name">园区简介</p>
+                </div>
+                <div class="k_right_block_body">
+                  <div class="k_kjyjj_left"><!--#begineditable name="园区简介" action="webber.wbst.com.anno.ColumnAnno" layout="/system/_component/columncopyright/copyright.jsp" tpltype="0" contype="anno" clone="" viewid="163872" contentviewid="" tagname="园区简介"--><script language="javascript" src="/system/resource/js/news/mp4video.js"></script><table class="winstyle163872" width="100%">
+    <tr>
+        <td><p style="line-height: 1.75em;"><span Microsoft YaHei"; font-size: 12px; color: rgb(127, 127, 127);" style="font-family: 微软雅黑, ">&nbsp; &nbsp; &nbsp; 桂林电子科技大学科技园（以下简称科技园）于2011年9月正式运行，学校与桂林国家高新区管委会联合申报的“桂林大学科技园”于2014年9月获国家科技部、教育部认定为广西区首家国家级大学科技园，桂林电子科技大学科技园众创空间于2016年10月获国家科技部认定为广西首批国家备案众创空间，桂电成为广西唯一同时建成了国家级大学科技园和国家级众创空间的高校。科技园同时还是“广西壮族自治区级科技企业孵化器”、“广西技术转移示范机构”、“广西壮族自治区首批小型微型企业创业创新示范基地”“桂林市微型企业创业孵化园”、“桂林市首批小型微型企业创业创新示范基地”。<a href="info/1033/1023.htm" target="_blank">【详细】</a></span></p></td>
+    </tr>
+</table><!--#endeditable--></div>
+                  <div class="k_kjyjj_right"><!--#begineditable name="园区简介首页图片" action="webber.wbst.com.column.ColumnMarkImage1" layout="/system/_component/column/columnimage1.jsp" tpltype="0" contype="" clone="" viewid="163870" contentviewid="" tagname="园区简介首页图片"--><img src="images/images/img_11.jpg" width="220" height="145" border="0"><!--#endeditable--></div>
+                </div>
+            </div>
+            <div class="k_right_block">
+                <div class="k_right_block_head">
+                    <p class="k_column_name">企业展示</p>
+                    <a class="k_column_more" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1004" target="_blank">
+                        <img src="images/images/img_05.gif" />
+                    </a>
+                </div>
+                <div class="k_right_block_body"><!--#begineditable name="企业展示" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/tpltitlelist.jsp" tpltype="1" contype="news" clone="" viewid="163665" contentviewid="" tagname="企业展示"--><a class="k_qyzs_a" href="info/1004/1043.htm" title="广西桂林腾元信息科技有限公司" target="_blank">广西桂林腾元信息科技有限公司</a>
+<a class="k_qyzs_a" href="info/1004/1042.htm" title="广西康浩旺医疗器械有限公司" target="_blank">广西康浩旺医疗器械有限公司</a>
+<a class="k_qyzs_a" href="info/1004/1041.htm" title="广西德元工程项目管理有限责任公司" target="_blank">广西德元工程项目管理有限责任公司</a>
+<a class="k_qyzs_a" href="info/1004/1040.htm" title="桂林移领网络科技有限公司" target="_blank">桂林移领网络科技有限公司</a>
+<a class="k_qyzs_a" href="info/1004/1039.htm" title="广西智度信息科技有限公司" target="_blank">广西智度信息科技有限公司</a>
+<a class="k_qyzs_a" href="info/1004/1038.htm" title="桂林市鑫广隆财务信息咨询有限责任公司" target="_blank">桂林市鑫广隆财务信息咨询有限责任公司</a>
+<a class="k_qyzs_a" href="info/1004/1037.htm" title="桂林志成信息技术有限公司简介" target="_blank">桂林志成信息技术有限公司简介</a>
+<a class="k_qyzs_a" href="info/1004/1036.htm" title="桂林正东机械制造有限公司" target="_blank">桂林正东机械制造有限公司</a>
+<a class="k_qyzs_a" href="info/1004/1035.htm" title="桂林显艺电子科技有限公司" target="_blank">桂林显艺电子科技有限公司</a>
+<a class="k_qyzs_a" href="info/1004/1034.htm" title="桂林市三松文化传媒有限公司" target="_blank">桂林市三松文化传媒有限公司</a>
+<a class="k_qyzs_a" href="info/1004/1033.htm" title="桂林泡面电子科技有限公司" target="_blank">桂林泡面电子科技有限公司</a>
+<a class="k_qyzs_a" href="info/1004/1032.htm" title="桂林欧立教育信息咨询有限公司" target="_blank">桂林欧立教育信息咨询有限公司</a>
+<a class="k_qyzs_a" href="info/1004/1031.htm" title="桂林米创科技有限公司" target="_blank">桂林米创科技有限公司</a>
+<a class="k_qyzs_a" href="info/1004/1030.htm" title="桂林晶准测控技术有限责任公司" target="_blank">桂林晶准测控技术有限责任公司</a>
+<a class="k_qyzs_a" href="info/1004/1029.htm" title="桂林行友网络科技有限公司" target="_blank">桂林行友网络科技有限公司</a>
+<a class="k_qyzs_a" href="info/1004/1028.htm" title="桂林市启标投资有限公司" target="_blank">桂林市启标投资有限公司</a>
+<a class="k_qyzs_a" href="info/1004/1027.htm" title="桂林大容文化科技有限公司" target="_blank">桂林大容文化科技有限公司</a>
+<a class="k_qyzs_a" href="info/1004/1026.htm" title="桂林中联电子科技有限公司" target="_blank">桂林中联电子科技有限公司</a>
+<a class="k_qyzs_a" href="info/1004/1025.htm" title="桂林高德科技有限责任公司" target="_blank">桂林高德科技有限责任公司</a>
+<a class="k_qyzs_a" href="info/1004/1024.htm" title="桂林市创深电子科技有限公司" target="_blank">桂林市创深电子科技有限公司</a>
+<a class="k_qyzs_a" href="info/1004/1078.htm" title="桂林环宇文化传播有限公司" target="_blank">桂林环宇文化传播有限公司</a>
+<a class="k_qyzs_a" href="info/1004/1077.htm" title="桂林恒昌电子科技有限公司" target="_blank">桂林恒昌电子科技有限公司</a>
+<a class="k_qyzs_a" href="info/1004/1076.htm" title="桂林智谷睿森网络科技有限公司" target="_blank">桂林智谷睿森网络科技有限公司</a>
+<a class="k_qyzs_a" href="info/1004/1075.htm" title="桂林明辉信息科技有限公司" target="_blank">桂林明辉信息科技有限公司</a>
+<a class="k_qyzs_a" href="info/1004/1074.htm" title="桂林新元文化信息咨询有限公司" target="_blank">桂林新元文化信息咨询有限公司</a>
+<a class="k_qyzs_a" href="info/1004/1073.htm" title="澳柯赛（桂林）医疗器械有限公司" target="_blank">澳柯赛（桂林）医疗器械有限公司</a>
+<a class="k_qyzs_a" href="info/1004/1072.htm" title="桂林市晶瑞电子有限责任公司" target="_blank">桂林市晶瑞电子有限责任公司</a>
+<a class="k_qyzs_a" href="info/1004/1071.htm" title="桂林佳朋信息科技有限公司" target="_blank">桂林佳朋信息科技有限公司</a>
+<script>_showDynClickBatch(['dynclicks_u12_1043','dynclicks_u12_1042','dynclicks_u12_1041','dynclicks_u12_1040','dynclicks_u12_1039','dynclicks_u12_1038','dynclicks_u12_1037','dynclicks_u12_1036','dynclicks_u12_1035','dynclicks_u12_1034','dynclicks_u12_1033','dynclicks_u12_1032','dynclicks_u12_1031','dynclicks_u12_1030','dynclicks_u12_1029','dynclicks_u12_1028','dynclicks_u12_1027','dynclicks_u12_1026','dynclicks_u12_1025','dynclicks_u12_1024','dynclicks_u12_1078','dynclicks_u12_1077','dynclicks_u12_1076','dynclicks_u12_1075','dynclicks_u12_1074','dynclicks_u12_1073','dynclicks_u12_1072','dynclicks_u12_1071'],[1043,1042,1041,1040,1039,1038,1037,1036,1035,1034,1033,1032,1031,1030,1029,1028,1027,1026,1025,1024,1078,1077,1076,1075,1074,1073,1072,1071],"wbnews", 1411891089)</script>
+<!--#endeditable--></div>
+            </div>
+        </div>
+    </div>
+    <div class="k_layout k_img_line">
+        <img src="images/images/img_14.jpg" />
+    </div>
+    <div class="k_layout k_footer">
+        <p class="k_footer_p">版权所有：桂林电子科技大学科技园　地址：中国广西桂林七星区六合路123号　邮编：541004  电话：0773-2208536　备案号：桂ICP备 05000961 号 前置审核编号：桂JS200601-05 </p>
+    </div>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <link href="style/layout.css" rel="stylesheet" type="text/css" />
+    <link href="style/index.css" rel="stylesheet" type="text/css" />   
+    <style>
+    body {
+    background: url(images/images/bg_01.jpg) top left repeat-x;
+    padding: 0px;
+    margin: 0px;}
+.k_menu {
+    width: 100%;
+    height: 57px;
+    background: url(images/images/bg_02.jpg) top left repeat-x;}
+.k_footer {
+    background: url(images/images/bg_06.jpg) repeat-x;
+    height: 70px;}
+    .k_left .k_left_menu{
+    width: 227px;
+    height: 186px;
+    background: url(images/images/bg_left_menu.png) left top no-repeat;
+    position: relative;}
+.k_left_block .k_left_block_head {
+    height: 35px;
+    background: url(images/images/bg_03.gif) left top repeat;
+    position: relative;}
+
+.k_left_block .k_left_block_head .k_column_name {
+    height: 35px;
+    line-height: 35px;
+    padding-left: 41px;
+    background: url(images/images/img_03.gif) left top no-repeat;
+    margin: 0px 0px;
+    color: #fff;
+    font-size: 14px;}
+    .k_right_block .k_right_block_head {
+    height: 35px;
+    background: url(images/images/bg_04.gif) left top repeat;
+    position: relative;}
+
+.k_right_block .k_right_block_head .k_column_name {
+    height: 35px;
+    line-height: 35px;
+    padding-left: 41px;
+    background: url(images/images/img_04.gif) left top no-repeat;
+    margin: 0px 0px;
+    color: #005ec8;
+    font-size: 14px;}
+    .k_right_block2 .k_right_block_head {
+    background: none;
+    border-bottom: 1px dashed #848484;}
+.k_right_block2 .k_right_block_head .k_column_name {
+    background: url(images/images/ico_01.gif) 14px center no-repeat;}
+    </style> 
+<title>桂林电子科技大学大学科技园管理委员会</title><META Name="keywords" Content="桂林电子科技大学大学科技园管理委员会,桂林电子科技大学科技园" />
+
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="index.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1411891089)</script>
+</head>
+<body>
+    <div class="k_layout">
+        <a href="#">
+            <img src="images/images/img_01.jpg" />
+        </a>
+        <img class="k_logo2" src="images/images/bg_03.jpg" />
+    </div>
+    <div class="k_menu">
+        <div class="k_layout k_menu_main"><!--#begineditable name="网站导航" action="webber.wbst.com.util.SitelinkAction" layout="/system/_component/sitenav/vnav.jsp" tpltype="0" contype="" clone="" viewid="163736" contentviewid="" tagname="网站导航"--><style type="text/css">
+td.b1_0_{FONT-SIZE:9pt;width: 107px;}
+td.b2_0_{FONT-SIZE:9pt;width: 107px;background-image: url(images/images/bt_over.jpg);}
+td.b3_0_{FONT-SIZE:9pt;BORDER-BOTTOM: #cccccc 1px solid;BACKGROUND-COLOR: #eeeeee;BORDER-RIGHT: #cccccc 1px solid;}
+td.b4_0_{FONT-SIZE:9pt;BORDER-BOTTOM: #cccccc 1px solid;BACKGROUND-COLOR: #eeeeee;BORDER-RIGHT: #cccccc 1px solid;}
+a.menu0_0_:link {TEXT-DECORATION: none;};
+a.menu0_0_:visited { TEXT-DECORATION: none;};
+a.menu0_0_:hover {TEXT-DECORATION: none;};
+a.menu0_0_:active {TEXT-DECORATION: none;};
+table.tb1_0_{FONT-SIZE:9pt;border:0;}
+span.s1_0_{line-height: 57px;color: #ffffff;font-size: 14px;text-decoration: none;font-family: 幼圆;font-weight: bold;}
+span.s2_0_{LINE-HEIGHT: 160%;FONT-FAMILY: 宋体;COLOR: #cc0000;FONT-SIZE: 11pt;TEXT-DECORATION: none;}
+span.s10_0_{line-height: 57px;color: #525252;font-size: 14px;text-decoration: none;font-family: 幼圆;font-weight: bold;}
+span.s20_0_{LINE-HEIGHT: 160%;FONT-FAMILY: 宋体;COLOR: #000000;FONT-SIZE: 11pt;TEXT-DECORATION: none;}
+</style>
+<SCRIPT language="javascript"> 
+ var showfix_0_ = 1;
+ var isvertical_0_ = false;
+</SCRIPT>
+<script language="javascript" src="/system/resource/js/menu/text.js"></script>
+<TABLE id="t1_0_" cellSpacing="0" cellPadding="0" border="0" height="0" width="0"><TR><TD valign="center"></TD><TD valign="middle" height="0" width="0" nowrap class="b1_0_" align="center" id="a_0_1018" onmouseover="tshowLayers('1018','b2_0_', '_0_')" onmouseout="thideLayers('1018','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="index.htm" target="_blank"><span class="fontstyle163736">&nbsp;园区首页&nbsp;</span></a></TD><TD valign="center"></TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1021" onmouseover="tshowLayers('1021','b2_0_', '_0_')" onmouseout="thideLayers('1021','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="info/1044/1374.htm" target="_blank"><span class="fontstyle163736">&nbsp;机构设置&nbsp;</span></a></TD><TD valign="center"></TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1011" onmouseover="tshowLayers('1011','b2_0_', '_0_')" onmouseout="thideLayers('1011','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1002" target="_blank"><span class="fontstyle163736">&nbsp;园区动态&nbsp;</span></a></TD><TD valign="center"></TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1012" onmouseover="tshowLayers('1012','b2_0_', '_0_')" onmouseout="thideLayers('1012','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="info/1033/1023.htm" target="_blank"><span class="fontstyle163736">&nbsp;园区简介&nbsp;</span></a></TD><TD valign="center"></TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1013" onmouseover="tshowLayers('1013','b2_0_', '_0_')" onmouseout="thideLayers('1013','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1004" target="_blank"><span class="fontstyle163736">&nbsp;企业展示&nbsp;</span></a></TD><TD valign="center"></TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1014" onmouseover="tshowLayers('1014','b2_0_', '_0_')" onmouseout="thideLayers('1014','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1005" target="_blank"><span class="fontstyle163736">&nbsp;园区招商&nbsp;</span></a></TD><TD valign="center"></TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1015" onmouseover="tshowLayers('1015','b2_0_', '_0_')" onmouseout="thideLayers('1015','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1006" target="_blank"><span class="fontstyle163736">&nbsp;园区服务&nbsp;</span></a></TD><TD valign="center"></TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1016" onmouseover="tshowLayers('1016','b2_0_', '_0_')" onmouseout="thideLayers('1016','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1007" target="_blank"><span class="fontstyle163736">&nbsp;规章制度&nbsp;</span></a></TD><TD valign="center"></TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1017" onmouseover="tshowLayers('1017','b2_0_', '_0_')" onmouseout="thideLayers('1017','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="guestbook.jsp?urltype=tree.TreeTempUrl&wbtreeid=1022" target="_blank"><span class="fontstyle163736">&nbsp;联系我们&nbsp;</span></a></TD></TR></TR></table><!--#endeditable--></div>
+    </div>
+    <div class="k_layout k_banner">
+        <img class="k_banner_img" src="images/images/img_02.jpg" />
+    </div>
+    <div class="k_layout k_column">
+        <div class="k_left">
+            <div class="k_left_block">
+                <div class="k_left_block_head">
+                    <p class="k_column_name">园区招商</p>
+                    <a class="k_column_more" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1005" target="_blank">
+                        <img src="images/images/img_more.gif" />
+                    </a>
+                </div>
+                <div class="k_left_block_body"><!--#begineditable name="招商园区" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/titlelist.jsp" tpltype="0" contype="news" clone="" viewid="163652" contentviewid="" tagname="招商园区"--><table width="100%" cellspacing="3" cellpadding="0">
+  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont163652">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1005/1011.htm" class="c163652" title="桂林电子科技大学科技园入园申请表（适用于迁入企业）" target="_blank">
+        桂林电子科技大学科技园入园申请...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle163652" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont163652">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1005/1010.htm" class="c163652" title="桂林电子科技大学科技园入园申请表（新设立企业）" target="_blank">
+        桂林电子科技大学科技园入园申请...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle163652" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont163652">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1005/1009.htm" class="c163652" title="桂林电子科技大学科技园众创空间入驻申请书" target="_blank">
+        桂林电子科技大学科技园众创空间...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle163652" width="1%" nowrap></td></tr>
+</table><!--#endeditable--></div>
+            </div>
+            <div class="k_left_block">
+                <div class="k_left_block_head">
+                    <p class="k_column_name">最新公告</p>
+                    <a class="k_column_more" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1008" target="_blank">
+                        <img src="images/images/img_more.gif" />
+                    </a>
+                </div>
+                <div class="k_left_block_body"><!--#begineditable name="最新公告" action="" layout="" tpltype="" contype="" clone="" viewid="163670" contentviewid="" tagname="最新公告"--><table width="100%" cellspacing="3" cellpadding="0">
+  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont163670">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1008/1685.htm" class="c163670" title="关于疫情防控期间企业复工管理的通知" target="_blank">
+        关于疫情防控期间企业复工管理的通知
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle163670" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont163670">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1008/1592.htm" class="c163670" title="关于开展第六届广西创业大赛的通知" target="_blank">
+        关于开展第六届广西创业大赛的通知
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle163670" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont163670">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1008/1624.htm" class="c163670" title="《桂林国家高新区关于促进小微企业发展的若干措施》实施细则 （试行）" target="_blank">
+        《桂林国家高新区关于促进小微企...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle163670" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont163670">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1008/1623.htm" class="c163670" title="关于开展消防安全隐患排查整改专项检查通知" target="_blank">
+        关于开展消防安全隐患排查整改专...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle163670" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont163670">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1008/1551.htm" class="c163670" title="关于规范电动车充电安全管理的公告" target="_blank">
+        关于规范电动车充电安全管理的公告
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle163670" width="1%" nowrap></td></tr>
+</table><!--#endeditable--></div>
+            </div>
+            <div class="k_left_block">
+                <div class="k_left_block_head">
+                    <p class="k_column_name">资讯园地</p>
+                    <a class="k_column_more" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1009" target="_blank">
+                        <img src="images/images/img_more.gif" />
+                    </a>
+                </div>
+                <div class="k_left_block_body"><!--#begineditable name="资讯园地" action="" layout="" tpltype="" contype="" clone="" viewid="163671" contentviewid="" tagname="资讯园地"--><table width="100%" cellspacing="3" cellpadding="0">
+  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont163671">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1009/1338.htm" class="c163671" title="2016年中国创新创业报告" target="_blank">
+        2016年中国创新创业报告
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle163671" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont163671">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1009/1337.htm" class="c163671" title="中国创新创业 2015 年度报告" target="_blank">
+        中国创新创业 2015 年度报告
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle163671" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont163671">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1009/1336.htm" class="c163671" title="国务院关于印发实施《中华人民共和国 促进科技成果转化法》若干规定的通知" target="_blank">
+        国务院关于印发实施《中华人民共...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle163671" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont163671">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1009/1335.htm" class="c163671" title="国务院办公厅关于加快众创空间发展 服务实体经济转型升级的指导意见" target="_blank">
+        国务院办公厅关于加快众创空间发...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle163671" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont163671">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1009/1334.htm" class="c163671" title="教育部关于做好2016届全国普通高等学校 毕业生就业创业工作的通知" target="_blank">
+        教育部关于做好2016届全国普通高...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle163671" width="1%" nowrap></td></tr>
+</table><!--#endeditable--></div>
+            </div>
+            <div class="k_link_block"><!--#begineditable name="友情链接" action="webber.wbst.com.url.ColumnUrl" layout="/system/_component/columnurl/linkselect.jsp" tpltype="0" contype="url" clone="" viewid="163672" contentviewid="" tagname="友情链接"-->    
+    
+    
+    
+  
+<script language="javascript" src="/system/resource/js/dynclicks.js"></script>
+    
+<script language="javascript">    
+<!--    
+    function doLinksu4(o)    
+    {    
+        var link=document.getElementsByName("su4")[0];    
+        var index=link.selectedIndex;    
+        if (index==-1 || index>=link.options.length)    
+        {    
+          return;    
+        }    
+        var value = link.options[index].value;    
+        var obj = document.getElementById("hu4");    
+        obj.href = value;
+        var wburlid =link.options[index].getAttribute("aa163672aa");
+        _addDynClicks('wburl',1411891089,wburlid)
+            
+                     obj.target = "_blank"
+                    
+         if(document.all){
+          obj.click();     
+        }         
+         else 
+        { 
+          window.open(value);
+         }
+       
+       if(o.selectedIndex != 0)    
+       {    
+           o.selectedIndex = 0;    
+       }    
+    }    
+-->    
+</script>  
+<table>    
+    <tr><td align="center">    
+            <span class="titlestyle163672"></span> <a id="hu4"></a>    
+            <select name="su4" class="selectstyle163672" onChange="doLinksu4(this)">    
+                <option value="">　　　--友情链接--</option>    
+                <option vsbhrefname="value" aa163672aa="31356" value="http://www.gliet.edu.cn/">校主页    
+                <option vsbhrefname="value" aa163672aa="31362" value="http://www.gxst.gov.cn/">广西科学技术厅    
+                <option vsbhrefname="value" aa163672aa="31363" value="http://www.gxedu.gov.cn/">广西壮族自治区教育厅    
+                </select>    
+        </td><tr></table><!--#endeditable--></div>
+            <div class="k_pageview_block">
+              <p>今日访问量<span><!--#begineditable name="今日访问量" action="webber.wbst.com.util.CounterAction" layout="/system/_component/jsq/tpljsq_wz.jsp" tpltype="1" contype="" clone="" viewid="163843" contentviewid="" tagname="今日访问量"--><script language="javascript" src="_dwr/engine.js"></script><script language="javascript" src="_dwr/util.js"></script><script language="javascript" src="_dwr/interface/PageCounterDWR.js"></script><span id="a163843" name="a163843" style="color: #505ABC; font-weight: bold;"></span>   
+
+<script>
+function getvisittimea163843()
+{       
+    PageCounterDWR.getVisittime('1411891089','1001','IP_DAY','0','4',callbackdataa163843)
+}
+function callbackdataa163843(data)
+{
+    document.getElementById("a163843").innerHTML = data; 
+}
+getvisittimea163843();
+</script><!--#endeditable-->，</span></p>
+              <p>您是第<span><!--#begineditable name="第几个访客" action="" layout="" tpltype="" contype="" clone="" viewid="163847" contentviewid="" tagname="第几个访客"--><span id="a163847" name="a163847" style="color: #505ABC; font-weight: bold;"></span>   
+
+<script>
+function getvisittimea163847()
+{       
+    PageCounterDWR.getVisittime('1411891089','1001','IP_TOTAL','0','6',callbackdataa163847)
+}
+function callbackdataa163847(data)
+{
+    document.getElementById("a163847").innerHTML = data; 
+}
+getvisittimea163847();
+</script><!--#endeditable--></span>位访客</p>
+            </div>
+        </div>
+        <div class="k_right">
+            <div class="k_right_block">
+                <div class="k_right_block_head">
+                    <p class="k_column_name">园区动态</p>
+                    <a class="k_column_more" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1002" target="_blank">
+                        <img src="images/images/img_05.gif" />
+                    </a>
+                </div>
+                <div class="k_right_block_body">
+                  <div class="k_right_block_body">
+                    <div class="k_yqdt_left"><!--#begineditable name="园区动态幻灯片" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/imagechangenews.jsp" tpltype="0" contype="news" clone="" viewid="163658" contentviewid="" tagname="园区动态幻灯片"-->
+<LINK href="/system/resource/style/component/news/list/imagechangenews.css" type="text/css" rel="stylesheet">
+<script language="javascript" src="/system/resource/js/news/imagechangenews.js"></script><script language="JavaScript">
+var u_u7_icn = new ImageChangeNews("u_u7_", 225, 150, 4, 2.0, true, false, false, true);
+
+//初始化图片, 并启动定时
+function u_u7_init_img()
+{
+
+    u_u7_icn.addimg("\/__local\/8\/AE\/63\/213AF95B318B59A5CF0E809F60D_BE1390CE_CA9F.jpg", "info\/1002\/1489.htm", "全区创新支撑产业高质量发...", "");
+
+    u_u7_icn.addimg("\/__local\/3\/4D\/F3\/A57D35090B6B20A299BE98A745F_B50273BB_985E.jpg", "info\/1002\/1486.htm", "陈岳林主任讲党课，学习新...", "");
+
+    u_u7_icn.addimg("\/__local\/C\/88\/A1\/D0CC9062DC83C69C9238F279131_08D9A705_78AF.png", "info\/1002\/1483.htm", "我校大学科技园在孵企业—...", "");
+
+    u_u7_icn.addimg("\/__local\/6\/1A\/B5\/0E9C3306D3EAD9DDD303245224A_2B079C24_72D8.jpg", "info\/1002\/1482.htm", "深圳市益田集团股份有限公...", "");
+
+    u_u7_icn.addimg("\/__local\/6\/B4\/19\/A1F238422DD552CBCAE88B5C9B3_C04B47F9_F9C4.jpg", "info\/1002\/1481.htm", "大学科技园领导赴贺州桂岭...", "");
+
+    u_u7_icn.changeimg(0);
+}
+</script><table cellspacing="0" cellpadding="0" border="0" style="padding:0px margin:0px; border:0px">
+    <tr><td>
+        <div style="OVERFLOW: hidden;height:150px;width:225px">
+            <div id="u_u7_div" align="center" style="padding:0px;margin:0px;border:0px solid black;background-color:#000000;FILTER: progid:DXImageTransform.Microsoft.RevealTrans (duration=2.0,transition=23);height:150px;width:225px">
+                <div id="u_u7_imgdiv" style="padding:0px;border:0px;"><a id="u_u7_url" target="_blank"><img id="u_u7_pic" border="0" width="225" height="150" src="/system/resource/images/space.gif"></a></div>
+            </div>
+            <div style="filter:alpha(style=1,opacity=10,finishOpacity=80);width:225px;height:19px;text-align:right;top:-19px;position:relative;padding:0px;margin:0px;border:0px;">
+<a href="javascript:u_u7_icn.changeimg(0)" ; id="u_u7_selectNode0" class="imagechangenews_pnode" target="_self">1</a><a href="javascript:u_u7_icn.changeimg(1)" ; id="u_u7_selectNode1" class="imagechangenews_pnode" target="_self">2</a><a href="javascript:u_u7_icn.changeimg(2)" ; id="u_u7_selectNode2" class="imagechangenews_pnode" target="_self">3</a><a href="javascript:u_u7_icn.changeimg(3)" ; id="u_u7_selectNode3" class="imagechangenews_pnode" target="_self">4</a><a href="javascript:u_u7_icn.changeimg(4)" ; id="u_u7_selectNode4" class="imagechangenews_pnode" target="_self">5</a>
+            </div></div></td></tr>
+       
+    <tr><td height="25">
+        <div align="center" style="overflow:hidden;text-overflow:ellipsis;height:25px;width:225px;"><a target="_blank" class="titlestyle163658" id="u_u7_newstitle"></a></div>
+    </td></tr>
+<div align="left" display="none" style="overflow:hidden;text-overflow:ellipsis;height:0px;width:225px;padding-left:2px;padding-right:2px"><a target="_blank" class="summarystyle163658" id="u_u7_newssummary"></a></div>   
+</table><SCRIPT language="JavaScript">u_u7_init_img();</SCRIPT><!--#endeditable--></div>
+                    <div class="k_yqdt_right"><!--#begineditable name="园区动态" action="" layout="" tpltype="" contype="" clone="" viewid="163659" contentviewid="" tagname="园区动态"--><table width="100%" cellspacing="0" cellpadding="0">
+  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont163659">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1002/1649.htm" class="c163659" title="【不忘初心、牢记使命】我校牵头成立广西高校科技成果转化联盟(图）" target="_blank">
+        【不忘初心、牢记使命】我校牵头成立广西高校科技...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle163659" width="1%" nowrap>2019/12/10</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont163659">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1002/1704.htm" class="c163659" title="校领导到大学科技园调研视察" target="_blank">
+        校领导到大学科技园调研视察
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle163659" width="1%" nowrap>2020/03/31</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont163659">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1002/1702.htm" class="c163659" title="【疫情防控】校领导检查大学科技园入驻企业复工复产有序开放情况" target="_blank">
+        【疫情防控】校领导检查大学科技园入驻企业复工复...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle163659" width="1%" nowrap>2020/03/17</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont163659">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1002/1703.htm" class="c163659" title="【疫情防控】大学科技园多渠道开展疫情防护知识宣传" target="_blank">
+        【疫情防控】大学科技园多渠道开展疫情防护知识宣传
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle163659" width="1%" nowrap>2020/03/16</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont163659">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1002/1701.htm" class="c163659" title="【疫情防控】大学科技园入驻企业复工" target="_blank">
+        【疫情防控】大学科技园入驻企业复工
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle163659" width="1%" nowrap>2020/03/11</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont163659">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1002/1684.htm" class="c163659" title="【疫情防控】大学科技园对园区开展防疫消毒工作" target="_blank">
+        【疫情防控】大学科技园对园区开展防疫消毒工作
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle163659" width="1%" nowrap>2020/02/09</td></tr>
+</table><!--#endeditable--></div>
+                  </div>
+                </div>
+            </div>
+            <div class="k_right_block">
+                <div class="k_right_block_head">
+                    <p class="k_column_name">科技园资质</p>
+                    <a class="k_column_more" href="info/1033/1023.htm" target="_blank">
+                        <img src="images/images/img_05.gif" />
+                    </a>
+                </div>
+                <div class="k_right_block_body"><!--#begineditable name="科技园资质" action="webber.wbst.com.image.ColumnImage" layout="/system/_component/columnimage/imagelist.jsp" tpltype="0" contype="image" clone="" viewid="163660" contentviewid="" tagname="科技园资质"-->
+
+
+
+
+
+<table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+    <td><img src="images/image_content/kjyzz_4.JPG" width="180" height="146" hspace="0" vspace="0" border="0"></td>
+        <td><img src="images/image_content/kjyzz_3.JPG" width="180" height="146" hspace="0" vspace="0" border="0"></td>
+        <td><img src="images/image_content/kjyzz_2.jpg" width="180" height="146" hspace="0" vspace="0" border="0"></td>
+        <td><img src="images/image_content/kjyzz_1.JPG" width="180" height="146" hspace="0" vspace="0" border="0"></td>
+        </tr>
+        </table><!--#endeditable--></div>
+            </div>
+            <div class="k_right_block k_right_block2">
+                <div class="k_right_block_head">
+                    <p class="k_column_name">园区简介</p>
+                </div>
+                <div class="k_right_block_body">
+                  <div class="k_kjyjj_left"><!--#begineditable name="园区简介" action="webber.wbst.com.anno.ColumnAnno" layout="/system/_component/columncopyright/copyright.jsp" tpltype="0" contype="anno" clone="" viewid="163872" contentviewid="" tagname="园区简介"--><script language="javascript" src="/system/resource/js/news/mp4video.js"></script><table class="winstyle163872" width="100%">
+    <tr>
+        <td><p style="line-height: 1.75em;"><span Microsoft YaHei"; font-size: 12px; color: rgb(127, 127, 127);" style="font-family: 微软雅黑, ">&nbsp; &nbsp; &nbsp; 桂林电子科技大学科技园（以下简称科技园）于2011年9月正式运行，学校与桂林国家高新区管委会联合申报的“桂林大学科技园”于2014年9月获国家科技部、教育部认定为广西区首家国家级大学科技园，桂林电子科技大学科技园众创空间于2016年10月获国家科技部认定为广西首批国家备案众创空间，桂电成为广西唯一同时建成了国家级大学科技园和国家级众创空间的高校。科技园同时还是“广西壮族自治区级科技企业孵化器”、“广西技术转移示范机构”、“广西壮族自治区首批小型微型企业创业创新示范基地”“桂林市微型企业创业孵化园”、“桂林市首批小型微型企业创业创新示范基地”。<a href="info/1033/1023.htm" target="_blank">【详细】</a></span></p></td>
+    </tr>
+</table><!--#endeditable--></div>
+                  <div class="k_kjyjj_right"><!--#begineditable name="园区简介首页图片" action="webber.wbst.com.column.ColumnMarkImage1" layout="/system/_component/column/columnimage1.jsp" tpltype="0" contype="" clone="" viewid="163870" contentviewid="" tagname="园区简介首页图片"--><img src="images/images/img_11.jpg" width="220" height="145" border="0"><!--#endeditable--></div>
+                </div>
+            </div>
+            <div class="k_right_block">
+                <div class="k_right_block_head">
+                    <p class="k_column_name">企业展示</p>
+                    <a class="k_column_more" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1004" target="_blank">
+                        <img src="images/images/img_05.gif" />
+                    </a>
+                </div>
+                <div class="k_right_block_body"><!--#begineditable name="企业展示" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/tpltitlelist.jsp" tpltype="1" contype="news" clone="" viewid="163665" contentviewid="" tagname="企业展示"--><a class="k_qyzs_a" href="info/1004/1043.htm" title="广西桂林腾元信息科技有限公司" target="_blank">广西桂林腾元信息科技有限公司</a>
+<a class="k_qyzs_a" href="info/1004/1042.htm" title="广西康浩旺医疗器械有限公司" target="_blank">广西康浩旺医疗器械有限公司</a>
+<a class="k_qyzs_a" href="info/1004/1041.htm" title="广西德元工程项目管理有限责任公司" target="_blank">广西德元工程项目管理有限责任公司</a>
+<a class="k_qyzs_a" href="info/1004/1040.htm" title="桂林移领网络科技有限公司" target="_blank">桂林移领网络科技有限公司</a>
+<a class="k_qyzs_a" href="info/1004/1039.htm" title="广西智度信息科技有限公司" target="_blank">广西智度信息科技有限公司</a>
+<a class="k_qyzs_a" href="info/1004/1038.htm" title="桂林市鑫广隆财务信息咨询有限责任公司" target="_blank">桂林市鑫广隆财务信息咨询有限责任公司</a>
+<a class="k_qyzs_a" href="info/1004/1037.htm" title="桂林志成信息技术有限公司简介" target="_blank">桂林志成信息技术有限公司简介</a>
+<a class="k_qyzs_a" href="info/1004/1036.htm" title="桂林正东机械制造有限公司" target="_blank">桂林正东机械制造有限公司</a>
+<a class="k_qyzs_a" href="info/1004/1035.htm" title="桂林显艺电子科技有限公司" target="_blank">桂林显艺电子科技有限公司</a>
+<a class="k_qyzs_a" href="info/1004/1034.htm" title="桂林市三松文化传媒有限公司" target="_blank">桂林市三松文化传媒有限公司</a>
+<a class="k_qyzs_a" href="info/1004/1033.htm" title="桂林泡面电子科技有限公司" target="_blank">桂林泡面电子科技有限公司</a>
+<a class="k_qyzs_a" href="info/1004/1032.htm" title="桂林欧立教育信息咨询有限公司" target="_blank">桂林欧立教育信息咨询有限公司</a>
+<a class="k_qyzs_a" href="info/1004/1031.htm" title="桂林米创科技有限公司" target="_blank">桂林米创科技有限公司</a>
+<a class="k_qyzs_a" href="info/1004/1030.htm" title="桂林晶准测控技术有限责任公司" target="_blank">桂林晶准测控技术有限责任公司</a>
+<a class="k_qyzs_a" href="info/1004/1029.htm" title="桂林行友网络科技有限公司" target="_blank">桂林行友网络科技有限公司</a>
+<a class="k_qyzs_a" href="info/1004/1028.htm" title="桂林市启标投资有限公司" target="_blank">桂林市启标投资有限公司</a>
+<a class="k_qyzs_a" href="info/1004/1027.htm" title="桂林大容文化科技有限公司" target="_blank">桂林大容文化科技有限公司</a>
+<a class="k_qyzs_a" href="info/1004/1026.htm" title="桂林中联电子科技有限公司" target="_blank">桂林中联电子科技有限公司</a>
+<a class="k_qyzs_a" href="info/1004/1025.htm" title="桂林高德科技有限责任公司" target="_blank">桂林高德科技有限责任公司</a>
+<a class="k_qyzs_a" href="info/1004/1024.htm" title="桂林市创深电子科技有限公司" target="_blank">桂林市创深电子科技有限公司</a>
+<a class="k_qyzs_a" href="info/1004/1078.htm" title="桂林环宇文化传播有限公司" target="_blank">桂林环宇文化传播有限公司</a>
+<a class="k_qyzs_a" href="info/1004/1077.htm" title="桂林恒昌电子科技有限公司" target="_blank">桂林恒昌电子科技有限公司</a>
+<a class="k_qyzs_a" href="info/1004/1076.htm" title="桂林智谷睿森网络科技有限公司" target="_blank">桂林智谷睿森网络科技有限公司</a>
+<a class="k_qyzs_a" href="info/1004/1075.htm" title="桂林明辉信息科技有限公司" target="_blank">桂林明辉信息科技有限公司</a>
+<a class="k_qyzs_a" href="info/1004/1074.htm" title="桂林新元文化信息咨询有限公司" target="_blank">桂林新元文化信息咨询有限公司</a>
+<a class="k_qyzs_a" href="info/1004/1073.htm" title="澳柯赛（桂林）医疗器械有限公司" target="_blank">澳柯赛（桂林）医疗器械有限公司</a>
+<a class="k_qyzs_a" href="info/1004/1072.htm" title="桂林市晶瑞电子有限责任公司" target="_blank">桂林市晶瑞电子有限责任公司</a>
+<a class="k_qyzs_a" href="info/1004/1071.htm" title="桂林佳朋信息科技有限公司" target="_blank">桂林佳朋信息科技有限公司</a>
+<script>_showDynClickBatch(['dynclicks_u12_1043','dynclicks_u12_1042','dynclicks_u12_1041','dynclicks_u12_1040','dynclicks_u12_1039','dynclicks_u12_1038','dynclicks_u12_1037','dynclicks_u12_1036','dynclicks_u12_1035','dynclicks_u12_1034','dynclicks_u12_1033','dynclicks_u12_1032','dynclicks_u12_1031','dynclicks_u12_1030','dynclicks_u12_1029','dynclicks_u12_1028','dynclicks_u12_1027','dynclicks_u12_1026','dynclicks_u12_1025','dynclicks_u12_1024','dynclicks_u12_1078','dynclicks_u12_1077','dynclicks_u12_1076','dynclicks_u12_1075','dynclicks_u12_1074','dynclicks_u12_1073','dynclicks_u12_1072','dynclicks_u12_1071'],[1043,1042,1041,1040,1039,1038,1037,1036,1035,1034,1033,1032,1031,1030,1029,1028,1027,1026,1025,1024,1078,1077,1076,1075,1074,1073,1072,1071],"wbnews", 1411891089)</script>
+<!--#endeditable--></div>
+            </div>
+        </div>
+    </div>
+    <div class="k_layout k_img_line">
+        <img src="images/images/img_14.jpg" />
+    </div>
+    <div class="k_layout k_footer">
+        <p class="k_footer_p">版权所有：桂林电子科技大学科技园　地址：中国广西桂林七星区六合路123号　邮编：541004  电话：0773-2208536　备案号：桂ICP备 05000961 号 前置审核编号：桂JS200601-05 </p>
+    </div>
+</body>
+</html>

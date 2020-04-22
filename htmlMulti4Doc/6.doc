@@ -1,0 +1,721 @@
+<!DOCTYPE html><html><head><title>国际合作与交流处 、国际学院</title><META Name="keywords" Content="国际合作与交流处 、国际学院,首页" />
+
+
+
+
+
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type"><link rel="stylesheet" type="text/css" href="dfiles/31365/css/gjxy_public.css"><link rel="stylesheet" type="text/css" href="dfiles/31365/css/gjxy_index.css"><link rel="stylesheet" type="text/css" href="dfiles/31365/css/zzsc.css"><script type="text/javascript" src="dfiles/31365/js/jquery.pack.js"></script><script type="text/javascript" src="dfiles/31365/js/jquery.superslide.js"></script><script type="text/javascript" src="dfiles/31365/js/jquery1.42.min.js"></script><script type="text/javascript" src="dfiles/31365/js/jquery.superslide.2.1.js"></script><script type="text/javascript" src="dfiles/31365/js/jquery.tools.min.js"></script>
+<style>
+.tj a{ color:red;}
+#left_c ul li #channel3789{color:#FF8C00; text-decoration: underline;}
+</style>
+
+<style>
+.tj a{ color:red;}
+</style>
+<!--<base href="#/">--><script>var $pageInfo = {publishmentSystemID : 1, channelID : 1, contentID : 0, siteUrl : "", homeUrl : "/home", currentUrl : "/", rootUrl : "", apiUrl : "/api"};</script>
+
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="index.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/vsbscreen.min.js" id="_vsbscreen" devices="pc|mobile|pad"></script>
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1011,'/index.jsp',-1,1411856311)</script>
+</head>
+<body>
+<div id="header" style="margin-bottom: 25px">
+<div id="top"><span>您可以选择网站语言版本：<a href="http://172.16.64.138:7070">English</a> | <a href="#">Chinese</a></span> </div>
+<div id="flash"><img src="dfiles/31365/images/top.jpg" width="1003" height="142"></div>
+<div class="sou">
+<div id="inav_sou"><!--#begineditable name="简单检索" viewid="167160" tagname="简单检索" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""-->
+
+
+
+
+
+<form action="seach.jsp?wbtreeid=1011" method="post" name="a167160a" onsubmit="return subsearchdataa167160a()" style="display: inline;">
+  <input type="hidden" name="Find" value="find"><input type="hidden" name="entrymode" value="1"><input type="hidden" id="INTEXT2" name="INTEXT2" value=""><input type="hidden" name="news_search_code">
+ <table border="0" cellspacing="1" cellpadding="0">
+      <tr>
+           <td Valign="middle" nowrap="nowrap" height="30">
+                 <span style="font-size:9pt;">站内搜索：</span>
+                  <input type="hidden" name="condition" value="0">   </td>
+                <td>
+                <span id="intextspana167160a"></span>
+                <!--<iframe id="intextframea167160a"   src="about:blank"   scrolling="no" frameborder="0" style="position:absolute;top:0px;left:0px;display:none;"></iframe>-->
+                <input size="10" name="INTEXT" style="height:30px">
+           </td>
+           <td align="absmiddle" nowrap="nowrap" height="1">
+                    <input type="image" src="images/sou.png" align="absmiddle" valign="bottom" style="cursor: hand">
+
+           </td>
+      </tr>
+ </table>
+</form>
+<script>
+String.prototype.trim= function()       
+{              
+    var t = this.replace(/(^\s*)|(\s*$)/g, "");     
+    return t.replace(/(^　*)|(　*$)/g, "");     
+}  
+function subsearchdataa167160a()
+{ 
+    if(document.a167160a.INTEXT.value.trim()=="")
+    {
+        alert("请输入查询关键字！");
+        return false;
+    }
+    if(checkDataa167160a(document.a167160a))
+    {
+       return true;  
+    }
+    return false;
+}       
+</script>
+
+    <script> 
+    function checkDataa167160a(formname)
+    {
+        if(a167160a.INTEXT.value.trim()=="")
+        {
+            alert("请输入查询关键字！");
+            return false;
+        }       
+        var  base64 = new Base64();
+        if(window.toFF==1)
+            {
+                var ssvalue = a167160a.INTEXT.value;
+                document.a167160a.INTEXT2.value = base64.encode(Simplized(ssvalue));
+            }else
+            document.a167160a.INTEXT2.value = base64.encode(document.a167160a.INTEXT.value);
+           return true;
+    }
+    </script>
+<script language="javascript" src="/system/resource/js/base64.js"></script> 
+<!--#endeditable--></div></div><!--导航开始--><!--#begineditable name="网站导航" viewid="167051" tagname="网站导航" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><ul id="nav" class="nav clearfix" style="padding-left:2px;">
+        <li class="nLi">
+        <h3>
+           <a href="index.htm" title="首页">     首页</a>
+	     <stl:yes></stl:yes>
+        </h3>
+      </li>
+    
+      <li class="nLi">
+        <h3>
+           <a href="xygk.htm" title="学院概况">     学院概况</a>
+	     <stl:yes></stl:yes>
+        </h3>
+	    
+                <ul class="sub">
+                <li><a a href="xygk/xyjj.htm" title="学院简介">学院简介</a></li>
+                <li><a a href="xygk/jgsz.htm" title="机构设置">机构设置</a></li>
+                <li><a a href="xygk/xrld.htm" title="现任领导">现任领导</a></li>
+                <li><a a href="xygk/wjsz.htm" title="外教师资">外教师资</a></li>
+                </ul>
+      </li>
+    
+      <li class="nLi">
+        <h3>
+           <a href="rcpy.htm" title="人才培养">     人才培养</a>
+	     <stl:yes></stl:yes>
+        </h3>
+	    
+                <ul class="sub">
+                <li><a a href="rcpy/lxszspy.htm" title="留学生招生培养">留学生招生培养</a></li>
+                <li><a a href="rcpy/a2_s_2xmpy.htm" title="2 十 2项目培养">2 十 2项目培养</a></li>
+                </ul>
+      </li>
+    
+      <li class="nLi">
+        <h3>
+           <a href="jxgl.htm" title="教学管理">     教学管理</a>
+	     <stl:yes></stl:yes>
+        </h3>
+	    
+                <ul class="sub">
+                <li><a a href="http://gedu.guet.edu.cn/" title="国际学院教务系统">国际学院教务系统</a></li>
+                <li><a a href="jxgl/jxdt.htm" title="教学动态">教学动态</a></li>
+                <li><a a href="jxgl/jxtz.htm" title="教学通知">教学通知</a></li>
+                <li><a a href="jxgl/xlxwsq.htm" title="学历学位申请">学历学位申请</a></li>
+                </ul>
+      </li>
+    
+      <li class="nLi">
+        <h3>
+           <a href="wsjl.htm" title="外事交流">     外事交流</a>
+	     <stl:yes></stl:yes>
+        </h3>
+	    
+                <ul class="sub">
+                <li><a a href="wsjl/zwhzbx.htm" title="中外合作办学">中外合作办学</a></li>
+                <li><a a href="wsjl/ygcf.htm" title="因公出访">因公出访</a></li>
+                <li><a a href="wsjl/lhsw.htm" title="来华事务">来华事务</a></li>
+                <li><a a href="wsjl/gjhy.htm" title="国际会议">国际会议</a></li>
+                <li><a a href="wsjl/cglx.htm" title="出国留学">出国留学</a></li>
+                <li><a a href="wsjl/zcfg.htm" title="政策法规">政策法规</a></li>
+                <li><a a href="wsjl/bmsp.htm" title="保密审批">保密审批</a></li>
+                </ul>
+      </li>
+    
+      <li class="nLi">
+        <h3>
+           <a href="djgz.htm" title="党建工作">     党建工作</a>
+	     <stl:yes></stl:yes>
+        </h3>
+	    
+                <ul class="sub">
+                <li><a a href="djgz/ztxx.htm" title="专题学习">专题学习</a></li>
+                <li><a a href="djgz/gzzd.htm" title="规章制度">规章制度</a></li>
+                <li><a a href="djgz/lddygl.htm" title="流动党员管理">流动党员管理</a></li>
+                <li><a a href="djgz/llxx.htm" title="理论学习">理论学习</a></li>
+                <li><a a href="djgz/jcdt.htm" title="基层动态">基层动态</a></li>
+                </ul>
+      </li>
+    
+      <li class="nLi">
+        <h3>
+           <a href="xsgz.htm" title="学生工作">     学生工作</a>
+	     <stl:yes></stl:yes>
+        </h3>
+	    
+                <ul class="sub">
+                <li><a a href="xsgz/gzdt.htm" title="工作动态">工作动态</a></li>
+                <li><a a href="xsgz/gzzd.htm" title="规章制度">规章制度</a></li>
+                <li><a a href="xsgz/txgz.htm" title="团学工作">团学工作</a></li>
+                <li><a a href="xsgz/xfjs.htm" title="学风建设">学风建设</a></li>
+                <li><a a href="xsgz/ybdt.htm" title="易班动态">易班动态</a></li>
+                <li><a a href="xsgz/stgl.htm" title="社团管理">社团管理</a></li>
+                <li><a a href="xsgz/jyzd.htm" title="就业指导">就业指导</a></li>
+                <li><a a href="xsgz/zlxz.htm" title="资料下载">资料下载</a></li>
+                </ul>
+      </li>
+    
+      <li class="nLi">
+        <h3>
+           <a href="xyxw.htm" title="学院新闻">     学院新闻</a>
+	     <stl:yes></stl:yes>
+        </h3>
+      </li>
+    
+      <li class="nLi">
+        <h3>
+           <a href="English.htm" title="English">     English</a>
+	     <stl:yes></stl:yes>
+        </h3>
+	    
+                <ul class="sub">
+                <li><a a href="English/Home.htm" title="Home">Home</a></li>
+                <li><a a href="English/About_US.htm" title="About US">About US</a></li>
+                <li><a a href="English/Students_Cultivation.htm" title="Students Cultivation">Students Cultivation</a></li>
+                <li><a a href="English/Scholarship.htm" title="Scholarship">Scholarship</a></li>
+                <li><a a href="English/News___Notice.htm" title="News &amp; Notice">News &amp; Notice</a></li>
+                <li><a a href="English/Laws___Regulations.htm" title="Laws &amp; Regulations">Laws &amp; Regulations</a></li>
+                <li><a a href="English/Download.htm" title="Download">Download</a></li>
+                <li><a a href="English/Contact_us.htm" title="Contact us">Contact us</a></li>
+                </ul>
+      </li>
+    
+</ul><!--#endeditable--><script id="jsID" type="text/javascript">
+            
+            jQuery("#nav").slide({ 
+                type:"menu",// 效果类型，针对菜单/导航而引入的参数（默认slide）
+                titCell:".nLi", //鼠标触发对象
+                targetCell:".sub", //titCell里面包含的要显示/消失的对象
+                effect:"slideDown", //targetCell下拉效果
+                delayTime:300 , //效果时间
+                triggerTime:0, //鼠标延迟触发时间（默认150）
+                returnDefault:true //鼠标移走后返回默认状态，例如默认频道是"预告片"，鼠标移走后会返回"预告片"（默认false）
+            });
+        </script><!--导航结束--></div>
+<div id="contaion">
+<div class="tb"></div>
+<div class="flash">
+<div class="banner">
+<div class="yh fl">
+<div class="scroll b1"><!--#begineditable name="首页幻灯片" viewid="167099" tagname="首页幻灯片" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><style type="text/css">
+ul,li{
+    padding:0;
+    margin:0;
+    list-style:none;}
+#flashBoxu_u2_{
+    width:1000px;
+    height:350px;
+    border:0px solid #EEE;
+    position:relative;
+    margin-left: auto;
+    margin-right: auto;}
+#flashBoxu_u2_ img{
+    /*初始不要显示*/
+    display:none;
+    /*用边框来实现空位，因为margin和paading有时会引起些麻烦*/
+    border:0px solid #FFF;}
+#flashBoxu_u2_ ul{
+    position:absolute;
+    right:7px;
+    bottom:3px;
+    font:9px tahoma;}
+#flashBoxu_u2_ ul li{
+    display:block;
+    float:left;
+    width:12px;
+    height:12px;
+    line-height:12px;
+    margin-right:3px;
+    border:0px solid #999;
+    background:#F0F0F0;
+    text-align:center;
+    cursor:pointer;}
+#flashBoxu_u2_ ul li.hover{
+    border-color:red;
+    background:#FFE1E1;
+    color:red;}
+</style>
+<script type="text/javascript">
+function flashBoxCtrl(o){
+    this.obj=document.getElementById(o);
+    //这个私有方法虽然写了，但暂时没用到
+    function addListener(ele,eventName,functionBody){
+        if (ele.attachEvent){
+            ele.attachEvent("on"+eventName, functionBody);
+        }else if (ele.addEventListener){
+            ele.addEventListener("on"+eventName,functionBody, false);
+        }else{
+            return false;
+        }
+    }
+    //初始化
+    this.init=function(){
+        var objImg=this.obj.getElementsByTagName("img");
+        var tagLength=objImg.length;
+        if (tagLength>0){
+            var oUl=document.createElement("ul");
+            oUl.setAttribute("id",o+"numTag");
+            for (var i=0;i<tagLength;i++){
+                var oLi=oUl.appendChild(document.createElement("li"));
+                if (i==0){
+                    oLi.setAttribute("class","hover"); //初始化时把第一个设置为高亮
+                    oLi.setAttribute("className","hover");
+                }
+                //设置标签的数字
+                oLi.appendChild(document.createTextNode((i+1)));
+            }
+            this.obj.appendChild(oUl);
+            objImg[0].style.display="block";
+            //设置标签事件
+            var oTag=this.obj.getElementsByTagName("li");
+            for (var i=0;i<oTag.length;i++){
+                var flag = 0;
+                var temp = 0;
+                var timeout=null;
+                var step = function(){
+                    for (j=0;j<oTag.length;j++){
+                        oTag[j].className="";
+                        objImg[j].style.display="none";
+                    }
+                    this.className="hover";
+                    flag = flag>=oTag.length-1?0:flag+1;
+                    objImg[flag].style.display="block";
+                    oTag[flag].className = "hover";
+                    timeout = setTimeout(step,4000);
+                };
+                oTag[i].onmouseover=function(){
+                    for (j=0;j<oTag.length;j++){
+                        oTag[j].className="";
+                        objImg[j].style.display="none";
+                        temp = j;
+                    }
+                    this.className="hover";
+                    objImg[this.innerHTML-1].style.display="block";
+                    temp = this.innerHTML-1;
+                    flag = i;
+                    clearInterval(timeout);
+                }
+                oTag[i].onmouseout = function(){
+                    for (j=0;j<oTag.length;j++){
+                        oTag[j].className="";
+                        objImg[j].style.display="none";
+                    }
+                    flag = temp;
+                    objImg[temp].style.display="block";
+                    oTag[temp].className = "hover";
+                    timeout = setTimeout(step,4000);
+                }
+                if(i==0)
+                {
+                    timeout = setTimeout(step,4000);
+                }
+            }
+        }
+    };
+    //自动滚动的方法还没写
+    this.imgRoll=function(){};
+    //生成对象时自动加载init()方法以初始化对象
+    this.init();
+}
+</script>
+<table cellspacing="0" cellpadding="0" border="0"><tr><td><div id="flashBoxu_u2_"><img src="63C5308F47C0B54004D49C1DC2E_01C70946_2733D.jpg" border="0" width="1000" height="350" /><img src="3747A32DC89DB38FC251D97798E_058738E7_15C90.jpg" border="0" width="1000" height="350" /></div></td></tr></table><SCRIPT language="JavaScript">new flashBoxCtrl("flashBoxu_u2_");</SCRIPT><!--#endeditable--></div></div></div></div>
+<img src="dfiles/31365/images/xyxw.jpg" width="91" height="27">
+<img src="dfiles/31365/images/daheng.jpg?d=0.8194232586982367" width="1003" height="12">
+
+<div class="Notice">
+<div class="title" style="height: 0px; width: 986px"><span class="gengduo"></span><span class="shu">&nbsp;</span> </div><!--#begineditable name="学院新闻" viewid="167143" tagname="学院新闻" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""-->
+<LINK href="/system/resource/style/component/news/list/imagechangenews.css" type="text/css" rel="stylesheet">
+<script language="javascript" src="/system/resource/js/news/imagechangenews.js"></script><script language="JavaScript">
+var u_u3_icn = new ImageChangeNews("u_u3_", 310, 178, 4, 2.0, true, false, false, true);
+
+//初始化图片, 并启动定时
+function u_u3_init_img()
+{
+
+    u_u3_icn.addimg("\/__local\/7\/E2\/6A\/0347C406DE9DC068809DFCB2205_F8B7C96F_8936.jpg", "info\/1044\/1287.htm", "校领导带队到国际学院指导...", "");
+
+    u_u3_icn.addimg("\/__local\/F\/D9\/64\/4536F3AC9A4DC5966CBE56E3B02_2615A154_11637.jpg", "info\/1044\/1281.htm", "【不忘初心、牢记使命】国...", "");
+
+    u_u3_icn.addimg("\/__local\/7\/4E\/35\/29F4889025FF6D6D7FC1C65BBC2_708BA666_8EF8.jpg", "info\/1044\/1275.htm", "国际学院开展主题党日活动", "");
+
+    u_u3_icn.addimg("\/__local\/D\/7B\/08\/FF982B1C58F3C28D23B1A188434_1BE285DE_105A0.jpg", "info\/1044\/1278.htm", "国际学院教工党支部党员主...", "");
+
+    u_u3_icn.addimg("\/__local\/E\/92\/06\/526C95BC597ED612DE3B68E3AC0_C9DBCB6F_ED1D.jpg", "info\/1044\/1274.htm", "国际学院开展“党员带头，...", "");
+
+    u_u3_icn.addimg("\/__local\/0\/B5\/E6\/05D80322E9A50EF332AB954A027_5F6FD96D_EAA3.png", "info\/1044\/1282.htm", "国际学院“果青工作室”庆...", "");
+
+    u_u3_icn.changeimg(0);
+}
+</script><table cellspacing="0" cellpadding="0" border="0" style="padding:0px margin:0px; border:0px">
+    <tr><td>
+        <div style="OVERFLOW: hidden;height:178px;width:310px">
+            <div id="u_u3_div" align="center" style="padding:0px;margin:0px;border:0px solid black;background-color:#000000;FILTER: progid:DXImageTransform.Microsoft.RevealTrans (duration=2.0,transition=23);height:178px;width:310px">
+                <div id="u_u3_imgdiv" style="padding:0px;border:0px;"><a id="u_u3_url" target="_blank"><img id="u_u3_pic" border="0" width="310" height="178" src="/system/resource/images/space.gif"></a></div>
+            </div>
+            <div style="filter:alpha(style=1,opacity=10,finishOpacity=80);width:310px;height:19px;text-align:right;top:-19px;position:relative;padding:0px;margin:0px;border:0px;">
+<a href="javascript:u_u3_icn.changeimg(0)" ; id="u_u3_selectNode0" class="imagechangenews_pnode" target="_self">1</a><a href="javascript:u_u3_icn.changeimg(1)" ; id="u_u3_selectNode1" class="imagechangenews_pnode" target="_self">2</a><a href="javascript:u_u3_icn.changeimg(2)" ; id="u_u3_selectNode2" class="imagechangenews_pnode" target="_self">3</a><a href="javascript:u_u3_icn.changeimg(3)" ; id="u_u3_selectNode3" class="imagechangenews_pnode" target="_self">4</a><a href="javascript:u_u3_icn.changeimg(4)" ; id="u_u3_selectNode4" class="imagechangenews_pnode" target="_self">5</a><a href="javascript:u_u3_icn.changeimg(5)" ; id="u_u3_selectNode5" class="imagechangenews_pnode" target="_self">6</a>
+            </div></div></td></tr>
+       
+    <tr><td height="25">
+        <div align="center" style="overflow:hidden;text-overflow:ellipsis;height:25px;width:310px;"><a target="_blank" class="titlestyle167143" id="u_u3_newstitle"></a></div>
+    </td></tr>
+<div align="left" display="none" style="overflow:hidden;text-overflow:ellipsis;height:0px;width:310px;padding-left:2px;padding-right:2px"><a target="_blank" class="summarystyle167143" id="u_u3_newssummary"></a></div>   
+</table><SCRIPT language="JavaScript">u_u3_init_img();</SCRIPT><!--#endeditable--></div>
+<div class="Txhd" style="width: 629px">
+<div style="width: 643px"><span class="gengduo"><a href="xyxw.htm" target="_blank">更多&gt;&gt; </a></span><!--<span class="shu"></span>--></div>
+<div class="content"><!--#begineditable name="学校要闻" viewid="167145" tagname="学校要闻" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><script language="javascript" src="/system/resource/js/dynclicks.js"></script><ul style="width:650px;">
+   <li><a href="info/1044/1345.htm" target="_blank" title="【疫情防控】海螺水泥公司为我校孔子学院捐赠疫情防控物资">【疫情防控】海螺水泥公司为我校孔子学院捐赠疫情防控物资</a><span class="date">[04-13]</span></li>
+   <li><a href="info/1044/1337.htm" target="_blank" title="【疫情防控】石梅：战“疫”中外国留学生的温暖守护者">【疫情防控】石梅：战“疫”中外国留学生的温暖守护者</a><span class="date">[03-03]</span></li>
+   <li><a href="info/1044/1336.htm" target="_blank" title="【疫情防控】学校对新冠肺炎疫情防控工作中表现突出的石梅同志进行通报表扬（图）">【疫情防控】学校对新冠肺炎疫情防控工作中表现突出的石梅同志进行通报表扬（图）</a><span class="date">[03-03]</span></li>
+   <li><a href="info/1044/1333.htm" target="_blank" title="【疫情防控】疫情当前，携手共度 ——爱尔兰国立科克大学致中国学子的一封信">【疫情防控】疫情当前，携手共度 ——爱尔兰国立科克大学致中国学子的一封信</a><span class="date">[02-24]</span></li>
+   <li><a href="https://www.guet.edu.cn/info/1151/51699.htm" target="_blank" title="【疫情防控】校长徐华蕊在新学期第一课上的讲课内容全文">【疫情防控】校长徐华蕊在新学期第一课上的讲课内容全文</a><span class="date">[02-24]</span></li>
+   <li><a href="info/1044/1331.htm" target="_blank" title="【疫情防控】校领导慰问留学生并指导疫情防控工作">【疫情防控】校领导慰问留学生并指导疫情防控工作</a><span class="date">[02-21]</span></li>
+</ul><script>_showDynClickBatch(['dynclicks_u4_1345','dynclicks_u4_1337','dynclicks_u4_1336','dynclicks_u4_1333','dynclicks_u4_1332','dynclicks_u4_1331'],[1345,1337,1336,1333,1332,1331],"wbnews", 1411856311)</script>
+<!--#endeditable--></div></div>
+<div class="Link">
+<div class="title"><span class="gengduo"><a href="tzgg.htm" target="_blank">更多&gt;&gt;</a></span><span class="shu" style="margin-left: -30px"></span>通知公告</div>
+<div class="content"><!--#begineditable name="通知公告" viewid="167150" tagname="通知公告" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><ul>
+   <li><a href="info/1042/1349.htm" target="_blank" title="国际学院/国合处/港澳台办公室外事科科长推荐人选公示">国际学院/国合处/港...</a><span class="date">[04-13]</span></li>
+   <li><a href="info/1042/1348.htm" target="_blank" title="国际学院/国合处/港澳台办公室办公室主任推荐人选公示">国际学院/国合处/港...</a><span class="date">[04-13]</span></li>
+   <li><a href="info/1042/1341.htm" target="_blank" title="国际学院教学科科长推荐人选公示">国际学院教学科科长...</a><span class="date">[04-03]</span></li>
+   <li><a href="info/1042/1292.htm" target="_blank" title="关于遴选2020/2021学年澳门特区政府内地研究生奖学金项目候选人的通知">关于遴选2020/2021学...</a><span class="date">[11-25]</span></li>
+   <li><a href="info/1042/1334.htm" target="_blank" title="桂林电子科技大学2020年免试招收台湾学生简章">桂林电子科技大学202...</a><span class="date">[02-28]</span></li>
+   <li><a href="info/1042/1289.htm" target="_blank" title="关于报送2020年度教职工因公临时出国（境）计划的通知">关于报送2020年度教...</a><span class="date">[11-22]</span></li>
+</ul><script>_showDynClickBatch(['dynclicks_u5_1349','dynclicks_u5_1348','dynclicks_u5_1341','dynclicks_u5_1292','dynclicks_u5_1334','dynclicks_u5_1289'],[1349,1348,1341,1292,1334,1289],"wbnews", 1411856311)</script>
+<!--#endeditable--></div></div>
+<div class="Report">
+<div class="title"><span class="gengduo"><a href="rcpy.htm" target="_blank">更多&gt;&gt;</a></span><span class="shu"></span>人才培养</div>
+<div class="content"><!--#begineditable name="人才培养" viewid="167148" tagname="人才培养" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><ul>
+   <li><a href="info/1059/1066.htm" target="_blank" title="工商管理( Business Administration)">工商管理( Business Administration)</a><span class="date">[04-15]</span></li>
+   <li><a href="info/1059/1060.htm" target="_blank" title="土木工程专业">土木工程专业</a><span class="date">[04-15]</span></li>
+   <li><a href="info/1059/1059.htm" target="_blank" title="机械电子工程专业">机械电子工程专业</a><span class="date">[04-15]</span></li>
+   <li><a href="info/1059/1057.htm" target="_blank" title="企业管理专业课程设置（硕士留学生）">企业管理专业课程设置（硕士留学生）</a><span class="date">[04-15]</span></li>
+   <li><a href="info/1059/1055.htm" target="_blank" title="跨文化传播管理学科硕士研究生培养方案 （2016国际学生）">跨文化传播管理学科硕士研究生培养方案 ...</a><span class="date">[04-15]</span></li>
+   <li><a href="info/1061/1052.htm" target="_blank" title="国际学院开展“我幸福，我快乐”心理行为素质拓展活动">国际学院开展“我幸福，我快乐”心理行...</a><span class="date">[04-15]</span></li>
+</ul><script>_showDynClickBatch(['dynclicks_u6_1066','dynclicks_u6_1060','dynclicks_u6_1059','dynclicks_u6_1057','dynclicks_u6_1055','dynclicks_u6_1052'],[1066,1060,1059,1057,1055,1052],"wbnews", 1411856311)</script>
+<!--#endeditable--></div></div>
+<div class="Academic">
+<div class="title"><span class="gengduo"><a href="wsjl.htm" target="_blank">更多&gt;&gt;</a></span><span class="shu"></span>外事交流</div>
+<div class="content"><!--#begineditable name="外事交流" viewid="167149" tagname="外事交流" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><ul>
+   <li><a href="info/1094/1347.htm" target="_blank" title="【疫情防控】海螺水泥公司为我校孔子学院捐赠疫情防控物资">【疫情防控】海螺水泥公司为我校孔子学...</a><span class="date">[04-13]</span></li>
+   <li><a href="info/1094/1343.htm" target="_blank" title="【疫情防控】我校向柬埔寨马德望省政府及孔子学院捐赠防疫物资">【疫情防控】我校向柬埔寨马德望省政府...</a><span class="date">[04-07]</span></li>
+   <li><a href="info/1070/1295.htm" target="_blank" title="桂林电子科技大学国际会议申办审批流程">桂林电子科技大学国际会议申办审批流程</a><span class="date">[12-03]</span></li>
+   <li><a href="info/1072/1305.htm" target="_blank" title="桂电〔2019〕27号《桂林电子科技大学本科生赴境外交流学习管理办法》">桂电〔2019〕27号《桂林电子科技大学本...</a><span class="date">[12-03]</span></li>
+   <li><a href="info/1072/1304.htm" target="_blank" title="桂电教〔2016〕20号《桂林电子科技大学全日制普通本科生赴国(境)外交流学习成绩管理办法（试行）》">桂电教〔2016〕20号《桂林电子科技大学...</a><span class="date">[12-03]</span></li>
+   <li><a href="info/1072/1303.htm" target="_blank" title="桂电学〔2016〕12号《桂林电子科技大学在校生海外访学助学金管理办法》">桂电学〔2016〕12号《桂林电子科技大学...</a><span class="date">[12-03]</span></li>
+</ul><script>_showDynClickBatch(['dynclicks_u7_1347','dynclicks_u7_1343','dynclicks_u7_1295','dynclicks_u7_1305','dynclicks_u7_1304','dynclicks_u7_1303'],[1347,1343,1295,1305,1304,1303],"wbnews", 1411856311)</script>
+<!--#endeditable--></div></div>
+<div class="Link" style="display: none">
+<div class="title">下载中心</div>
+<div class="content">
+<ul>
+<div class="ncmqxx">
+<div class="bdc">
+<li><a href="contents/134/172.html" target="_blank">入住确认单 </a><span class="date">[10-16]</span></li>
+<li><a href="contents/134/171.html" target="_blank">外国留学生申请表 </a><span class="date">[10-16]</span></li>
+<li><a href="contents/134/170.html" target="_blank">桂林电子科技大学出国（境）人员申请审批表...</a><span class="date">[10-16]</span></li>
+<li><a href="contents/134/169.html" target="_blank">外籍专业人员管理规定（暂行）</a><span class="date">[10-16]</span> </li></div></div></ul></div></div>
+<div class="Report" style="display: none">
+<div class="title"><span class="gengduo"><a href="channels/25.html" target="_blank">更多&gt;&gt;</a></span><span class="shu"></span>外事交流</div>
+<div class="content">
+<ul>
+<li><span class="date">[06-27]</span><a href="contents/191/852.html" target="_blank">1. 因公出国（涉密人员审批）</a>
+<li><span class="date">[03-05]</span><a href="contents/114/593.html" target="_blank">1.持因公护照出国（处级及以上领导...</a>
+<li><span class="date">[06-27]</span><a href="contents/191/850.html" target="_blank">2. 境外来访（保密审批）</a>
+<li><span class="date">[03-04]</span><a href="contents/114/594.html" target="_blank">2. 持因公护照出国 （普通教学科研...</a>
+<li><span class="date">[06-27]</span><a href="contents/191/849.html" target="_blank">1. 因公出国（涉密人员审批）</a>
+<li><span class="date">[03-03]</span><a href="contents/114/595.html" target="_blank">3. 特殊情况下持因私护照出国 （处...</a> </li></ul></div></div>
+<div class="Academic" style="display: none">
+<div class="title"><span class="gengduo"><a href="channels/27.html" target="_blank">更多&gt;&gt;</a></span><span class="shu"></span>学生工作</div>
+<div class="content">
+<ul>
+<li><span class="date">[11-03]</span><a href="contents/29/339.html" target="_blank">学生资助管理制度</a>
+<li><span class="date">[11-03]</span><a href="contents/49/332.html" target="_blank">免于执行《国家学生体质健康标准》...</a>
+<li><span class="date">[11-03]</span><a href="contents/29/338.html" target="_blank">学生工作资料、文档管理制度</a>
+<li><span class="date">[10-10]</span><a href="contents/49/325.html" target="_blank">桂电本科生申请外宿审批登记表</a>
+<li><span class="date">[11-03]</span><a href="contents/29/337.html" target="_blank">学生工作办公室助理管理办法</a>
+<li><span class="date">[10-27]</span><a href="contents/46/328.html" target="_blank">桂电国际学院“最美助班”投票轻应...</a> </li></ul></div></div>
+<div class="picMarquee-left">
+<div class="bd">
+<div class="tempWrap" style="overflow: hidden; width: 855px; position: relative"><!--#begineditable name="底部滚动图片" viewid="167101" tagname="底部滚动图片" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><script language="javascript" src="/system/resource/js/vsbpreloadimg.js"></script>
+<TABLE width="925" cellSpacing="0" cellPadding="0" align="center" border="0"> 
+    <TR><TD>
+        <DIV id="u_u8_demo" style="OVERFLOW:hidden;WIDTH:925px;COLOR:#ffffff"><TABLE cellSpacing="0" cellPadding="0" border="0">
+                <TR><TD id="u_u8_demo1" vAlign="top" width="925"><table border="0" cellpadding="0" cellspacing="0" width="925">
+                        <tr>
+
+                            <td valign="top" align="center" style="padding-left:10px;padding-right:10px"><div style="padding: 0px; width:154px"><table cellpadding="0" cellspacing="0" style="border:0px solid black;">
+                                    <tr><td width="154" height="118" valign="middle" align="center"><img name="u_u8_img" border="0" src="/system/resource/images/loading.gif" alt="校园活动" title="校园活动" hspace="0" vspace="0"></td></tr>
+                                </table></div><div style="padding-top:1px;padding-bottom:1px">
+                            <span class="titlestyle167101">校园活动</span>
+                            
+
+                          </div></td>
+                            <td valign="top" align="center" style="padding-left:10px;padding-right:10px"><div style="padding: 0px; width:154px"><table cellpadding="0" cellspacing="0" style="border:0px solid black;">
+                                    <tr><td width="154" height="118" valign="middle" align="center"><img name="u_u8_img" border="0" src="/system/resource/images/loading.gif" alt="留学生" title="留学生" hspace="0" vspace="0"></td></tr>
+                                </table></div><div style="padding-top:1px;padding-bottom:1px">
+                            <span class="titlestyle167101">留学生</span>
+                            
+
+                          </div></td>
+                            <td valign="top" align="center" style="padding-left:10px;padding-right:10px"><div style="padding: 0px; width:154px"><table cellpadding="0" cellspacing="0" style="border:0px solid black;">
+                                    <tr><td width="154" height="118" valign="middle" align="center"><img name="u_u8_img" border="0" src="/system/resource/images/loading.gif" alt="舞蹈大赛" title="舞蹈大赛" hspace="0" vspace="0"></td></tr>
+                                </table></div><div style="padding-top:1px;padding-bottom:1px">
+                            <span class="titlestyle167101">舞蹈大赛</span>
+                            
+
+                          </div></td>
+                            <td valign="top" align="center" style="padding-left:10px;padding-right:10px"><div style="padding: 0px; width:154px"><table cellpadding="0" cellspacing="0" style="border:0px solid black;">
+                                    <tr><td width="154" height="118" valign="middle" align="center"><img name="u_u8_img" border="0" src="/system/resource/images/loading.gif" alt="外教参与拔河比赛" title="外教参与拔河比赛" hspace="0" vspace="0"></td></tr>
+                                </table></div><div style="padding-top:1px;padding-bottom:1px">
+                            <span class="titlestyle167101">外教参与拔河比赛</span>
+                            
+
+                          </div></td>
+                            <td valign="top" align="center" style="padding-left:10px;padding-right:10px"><div style="padding: 0px; width:154px"><table cellpadding="0" cellspacing="0" style="border:0px solid black;">
+                                    <tr><td width="154" height="118" valign="middle" align="center"><img name="u_u8_img" border="0" src="/system/resource/images/loading.gif" alt="舞蹈大赛" title="舞蹈大赛" hspace="0" vspace="0"></td></tr>
+                                </table></div><div style="padding-top:1px;padding-bottom:1px">
+                            <span class="titlestyle167101">舞蹈大赛</span>
+                            
+
+                          </div></td>
+                            <td valign="top" align="center" style="padding-left:10px;padding-right:10px"><div style="padding: 0px; width:154px"><table cellpadding="0" cellspacing="0" style="border:0px solid black;">
+                                    <tr><td width="154" height="118" valign="middle" align="center"><img name="u_u8_img" border="0" src="/system/resource/images/loading.gif" alt="校园活动" title="校园活动" hspace="0" vspace="0"></td></tr>
+                                </table></div><div style="padding-top:1px;padding-bottom:1px">
+                            <span class="titlestyle167101">校园活动</span>
+                            
+
+                          </div></td>
+                            <td valign="top" align="center" style="padding-left:10px;padding-right:10px"><div style="padding: 0px; width:154px"><table cellpadding="0" cellspacing="0" style="border:0px solid black;">
+                                    <tr><td width="154" height="118" valign="middle" align="center"><img name="u_u8_img" border="0" src="/system/resource/images/loading.gif" alt="十大歌手" title="十大歌手" hspace="0" vspace="0"></td></tr>
+                                </table></div><div style="padding-top:1px;padding-bottom:1px">
+                            <span class="titlestyle167101">十大歌手</span>
+                            
+
+                          </div></td>
+                            <td valign="top" align="center" style="padding-left:10px;padding-right:10px"><div style="padding: 0px; width:154px"><table cellpadding="0" cellspacing="0" style="border:0px solid black;">
+                                    <tr><td width="154" height="118" valign="middle" align="center"><img name="u_u8_img" border="0" src="/system/resource/images/loading.gif" alt="留学生舞蹈" title="留学生舞蹈" hspace="0" vspace="0"></td></tr>
+                                </table></div><div style="padding-top:1px;padding-bottom:1px">
+                            <span class="titlestyle167101">留学生舞蹈</span>
+                            
+
+                          </div></td>
+                            <td valign="top" align="center" style="padding-left:10px;padding-right:10px"><div style="padding: 0px; width:154px"><table cellpadding="0" cellspacing="0" style="border:0px solid black;">
+                                    <tr><td width="154" height="118" valign="middle" align="center"><img name="u_u8_img" border="0" src="/system/resource/images/loading.gif" alt="十大歌手" title="十大歌手" hspace="0" vspace="0"></td></tr>
+                                </table></div><div style="padding-top:1px;padding-bottom:1px">
+                            <span class="titlestyle167101">十大歌手</span>
+                            
+
+                          </div></td>
+                            <td valign="top" align="center" style="padding-left:10px;padding-right:10px"><div style="padding: 0px; width:154px"><table cellpadding="0" cellspacing="0" style="border:0px solid black;">
+                                    <tr><td width="154" height="118" valign="middle" align="center"><img name="u_u8_img" border="0" src="/system/resource/images/loading.gif" alt="" title="" hspace="0" vspace="0"></td></tr>
+                                </table></div><div style="padding-top:1px;padding-bottom:1px">
+                            <span class="titlestyle167101"></span>
+                            
+
+                          </div></td></tr>
+           </table></TD> 
+          <TD id="u_u8_demo2" vAlign="top" width="925"></TD> 
+        </TR> 
+      </TABLE> 
+      </DIV> 
+    </TD> 
+  </TR> 
+</TABLE> 
+<SCRIPT language="javascript">
+    var u_u8_imgs = new VsbPreloadImgArray();
+    
+    //初始化图片
+    function u_u8_init_img()
+    {
+
+            u_u8_imgs.addImg("images\/19\/03\/23\/2ybtqvlpgw\/17132418947.png", "0", u_u8_onimgload);
+
+            u_u8_imgs.addImg("images\/19\/03\/23\/2ybtqvlpgw\/17132321570.png", "1", u_u8_onimgload);
+
+            u_u8_imgs.addImg("images\/19\/03\/23\/2ybtqvlpgw\/17131959306.png", "2", u_u8_onimgload);
+
+            u_u8_imgs.addImg("images\/19\/03\/23\/2ybtqvlpgw\/17131144827.png", "3", u_u8_onimgload);
+
+            u_u8_imgs.addImg("images\/19\/03\/23\/2ybtqvlpgw\/17121753674.jpg", "4", u_u8_onimgload);
+
+            u_u8_imgs.addImg("images\/19\/03\/23\/2ybtqvlpgw\/1785514685.jpg", "5", u_u8_onimgload);
+
+            u_u8_imgs.addImg("images\/19\/03\/23\/2ybtqvlpgw\/1785348744.jpg", "6", u_u8_onimgload);
+
+            u_u8_imgs.addImg("images\/19\/03\/23\/2ybtqvlpgw\/1713243288.png", "7", u_u8_onimgload);
+
+            u_u8_imgs.addImg("images\/19\/03\/23\/2ybtqvlpgw\/1713213404.png", "8", u_u8_onimgload);
+
+            u_u8_imgs.addImg("images\/19\/03\/23\/2ybtqvlpgw\/178531574.JPG", "9", u_u8_onimgload);
+
+    }
+    function u_u8_onimgload(img, imgid)
+    {
+        var imgobjs = document.getElementsByName("u_u8_img");
+        var imgindex = new Number(imgid);
+        
+        img.showImg(imgobjs[imgindex], 154, 118, true, true);
+        img.showImg(imgobjs[imgindex+ 10], 154, 118, true, true);
+    }
+
+
+    var u_u8_MyMar;
+    var u_u8_speed3;
+    var u_u8_move = true;
+    var u_u8_movenum = 0;
+    var u_u8_pos = null; //td位置组
+    
+    function u_u8_initpos()
+    {
+        u_u8_pos = new Array();
+        
+        var tds1 = document.getElementById("u_u8_demo1").childNodes[0].rows[0].cells;
+        
+        for(i = 0 ;i < tds1.length; i++)
+        {
+            u_u8_pos[u_u8_pos.length] = tds1[i].offsetLeft;
+        }
+        
+        var tds2 = document.getElementById("u_u8_demo2").childNodes[0].rows[0].cells;
+        var tds2offset = document.getElementById("u_u8_demo2").offsetLeft;
+        for(i = 0 ;i < tds2.length; i++)
+        {
+            u_u8_pos[u_u8_pos.length] = tds2[i].offsetLeft + tds2offset;
+        }
+    }
+    
+    function u_u8_getpos(scrollpos)
+    {
+        for(i = 0; i < u_u8_pos.length; i++)
+        {
+            if(scrollpos < u_u8_pos[i])
+                return i-1;
+        }
+    }
+
+
+    function u_u8_Marquee() 
+    { 
+        try 
+        { 
+            if(!u_u8_move)
+                return;
+            
+            var demoobj = document.getElementById("u_u8_demo");
+            var demo1obj = document.getElementById("u_u8_demo1");
+
+            //滚动步长
+            var scrollstep = 1
+            
+            //当前位置
+            var oldscrollLeft = demoobj.scrollLeft;
+            
+            //更新后的位置, 已考虑过回滚
+            var newscrollLeft = (oldscrollLeft + scrollstep)%demo1obj.scrollWidth;
+
+            
+            demoobj.scrollLeft = newscrollLeft; 
+            
+        } 
+        catch(e) 
+        { 
+        } 
+    } 
+
+    function u_u8_clearInterval()
+    {
+        clearInterval(u_u8_MyMar);
+    }
+    
+    function u_u8_setInterval()
+    {
+        u_u8_MyMar = setInterval(u_u8_Marquee,u_u8_speed3);
+    }
+    
+    function u_u8_stopmove()
+    {
+        u_u8_move = false;
+    }
+
+    function u_u8_startmove()
+    {
+        u_u8_move = true;
+    }
+    
+    function u_u8_init()
+    {
+        u_u8_speed3 = 50;
+        if(u_u8_speed3 < 1)
+        {
+            u_u8_speed3 = 1;
+        }
+        
+        document.getElementById("u_u8_demo").onmouseover = u_u8_stopmove;
+        document.getElementById("u_u8_demo").onmouseout = u_u8_startmove;
+
+        document.getElementById("u_u8_demo2").innerHTML = document.getElementById("u_u8_demo1").innerHTML;
+        
+        u_u8_init_img();
+
+        u_u8_setInterval();
+
+    }
+    
+    u_u8_init();
+</SCRIPT><!--#endeditable--></div></div><script type="text/javascript">
+    jQuery(".picMarquee-left").slide({mainCell:".bd ul",autoPlay:true,effect:"leftMarquee",vis:5,interTime:50});
+    </script>
+<div class="clr"></div></div></div>
+<div class="footer_back">
+<div class="footer_center">
+<div class="footer_top">
+<div class="link_tit">友情链接</div>
+<div class="link">
+<ul>
+<li><a href="http://www.guet.edu.cn/" target="_blank">学校主页</a> </li>
+<li><a href="http://www.guet.edu.cn/jgsz.htm" target="_blank">学校机构设置</a> </li>
+<li><a href="http://gedu.guet.edu.cn/" target="_blank">国际学院教务系统</a> </li></ul></div></div>
+<div class="footer_bottom">Copyright ? 2017 国际学院--桂林电子科技大学，保留所有权利。<br>地址：广西桂林市七星区金鸡岭1号 邮编：541004 学院办公室电话/传真：0773-2192305<br>举报邮箱：guetgjxy@126.com 举报电话：0773-2305295 </div></div></div><!--浮动窗口开始--><!--浮动窗口结束-->
+<div></div>
+<div></div>
+<div id="cFooTEr"></div>
+
+</body></html>

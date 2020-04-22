@@ -1,0 +1,1095 @@
+<HTML><HEAD><TITLE>认知无线电与信息处理省部共建教育部重点实验室</TITLE><META Name="keywords" Content="认知无线电与信息处理省部共建教育部重点实验室" />
+
+
+
+<META content="text/html; charset=UTF-8" http-equiv="Content-Type"><LINK rel="stylesheet" type="text/css" href="images/1_css.css">
+
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="/rzwx/index.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1002,'/index.jsp',-1,1411892173)</script>
+</HEAD>
+<BODY >
+<TABLE cellspacing="0" cellpadding="0" width="100%" align="center" background="images/1_top_bg1.gif" border="0">
+<TBODY>
+<TR>
+<TD height="124" valign="bottom" background="images/1_top_bg.jpg" style="background-repeat: no-repeat; background-position: center top">
+<TABLE cellspacing="0" cellpadding="0" width="1002" align="center" border="0">
+<TBODY>
+<TR>
+<TD>&nbsp;</TD>
+<TD colspan="3">&nbsp;</TD>
+<TD>&nbsp;</TD></TR>
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;<script language="javascript">
+function dosuba201124a()
+{
+    try{
+		var ua = navigator.userAgent.toLowerCase();
+		if(ua.indexOf("msie 8")>-1)
+		{
+			window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE8
+		}else if(ua.toLowerCase().indexOf("rv:")>-1)
+        {
+            window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE11+
+        }else{
+			if (document.all) 
+			{
+				window.external.addFavorite(document.location.href, document.title);
+			}else if(window.sidebar)
+			{
+				window.sidebar.addPanel( document.title, document.location.href, "");//firefox
+			}
+			else
+			{
+				alert(hotKeysa201124a());
+			}
+		}
+
+    }
+    catch (e){alert("无法自动添加到收藏夹，请使用 Ctrl + d 手动添加");}
+}
+function hotKeysa201124a() 
+{
+	var ua = navigator.userAgent.toLowerCase(); 
+	var str = "";    
+	var isWebkit = (ua.indexOf('webkit') != - 1); 
+	var isMac = (ua.indexOf('mac') != - 1);     
+	if (ua.indexOf('konqueror') != - 1) 
+	{  
+		str = 'CTRL + B'; // Konqueror   
+	} 
+	else if (window.home || isWebkit || isMac) 
+	{        
+		str = (isMac ? 'Command/Cmd' : 'CTRL') + ' + D'; // Netscape, Safari, iCab, IE5/Mac   
+	}
+	return ((str) ? '无法自动添加到收藏夹，请使用' + str + '手动添加' : str);
+}
+function setHomepagea201124a()
+{
+	var url = document.location.href;
+    if (document.all)
+    {
+        document.body.style.behavior='url(#default#homepage)';
+        document.body.setHomePage(url);
+    }
+    else if (window.sidebar)
+    {
+        if(window.netscape)
+        {
+             try{
+                  netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+             }catch (e){
+                   alert("该操作被浏览器拒绝，如果想启用该功能，请在地址栏内输入 about:config,然后将项 signed.applets.codebase_principal_support 值该为true");
+             }
+    	}
+	var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components. interfaces.nsIPrefBranch);
+	prefs.setCharPref('browser.startup.homepage',url);
+	}
+	else
+	{
+		alert("浏览器不支持自动设为首页，请手动设置");
+	}
+}
+</script><table><tr><td style="font-size:9pt"><A href="javascript:setHomepagea201124a()"><span  class="font201124" >设为首页</span></A>&nbsp;<span  class="splitcharstyle201124" > | </span>&nbsp;<A  onclick="javascript:dosuba201124a();" href="#"><span  class="font201124" >加入收藏</span></A></td></tr></table>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </TD>
+<TD>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </TD>
+<TD>&nbsp;</TD></TR>
+<TR>
+<TD></TD>
+<TD height="121" width="451" colspan="3" align="center">
+<table border="0" cellspacing="0" cellpadding="0"><tr><td><img src="images/LOGO1.jpg"     border="0" alt="认知无线电与信息处理省部共建教育部重点实" title="认知无线电与信息处理省部共建教育部重点实" ></td></tr></table></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+<TABLE cellspacing="0" cellpadding="0" width="100%" align="center" background="images/1_dh_bgone.gif" border="0">
+<TBODY></TBODY></TABLE>
+<TABLE cellspacing="0" cellpadding="0" width="996" align="center" border="0">
+<TBODY>
+<TR>
+<TD height="5">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </TD>
+<TD>&nbsp;<script>
+    var newimg1 = new Image();
+    newimg1.src = "/system/resource/images/nav/imgnav_vsb_level1_bg_1.gif";
+    var newimg2 = new Image();
+    newimg2.src = "/system/resource/images/nav/imgnav_vsb_level1_bg_2.gif";
+    var newimg3 = new Image();
+    newimg3.src = "/system/resource/images/nav/imgnav_vsb_level2_bg_1.png";
+</script>
+<!--[if IE 6]> <style>#c201115{behavior: url("/system/resource/js/hover.htc")}</style><![endif]--> 
+<DIV id="c201115"> 
+<UL>
+<LI><A id="current" href="index.jsp">首页</A>
+</LI>
+<LI><A href="sysgk.htm">实验室概括</A>
+<UL>
+  <LI><A href="sysgk/sysjj.htm">实验室简介</A></LI>
+  <LI><A href="sysgk/sypt.htm">实验平台</A></LI>
+  <LI><A href="sysgk/glbf.htm">管理办法</A></LI>
+</UL>
+</LI>
+<LI><A href="yjdw.htm">研究队伍</A>
+<UL>
+  <LI><A href="yjdw/xsdtr.htm">学术带头人</A></LI>
+  <LI><A href="yjdw/dwjs.htm">队伍建设</A></LI>
+  <LI><A href="yjdw/ldryqk.htm">流动人员情况</A></LI>
+  <LI><A href="yjdw/rcpy.htm">人才培养</A></LI>
+</UL>
+</LI>
+<LI><A href="yjfx.htm">研究方向</A>
+<UL>
+  <LI><A href="yjfx/wxcsjs.htm">无线传输技术</A></LI>
+  <LI><A href="yjfx/xxjcycl.htm">信息检测与处理</A></LI>
+  <LI><A href="yjfx/kdwxysp.htm">宽带无线与射频</A></LI>
+  <LI><A href="yjfx/wxcgqwl.htm">无线传感器网络</A></LI>
+  <LI><A href="yjfx/fbszzxt.htm">分布式自治系统</A></LI>
+</UL>
+</LI>
+<LI><A href="jscg.htm">建设成果</A>
+<UL>
+  <LI><A href="jscg/dbxlz.htm">代表性论著</A></LI>
+  <LI><A href="jscg/zlqk.htm">专利情况</A></LI>
+  <LI><A href="jscg/hjqk.htm">获奖情况</A></LI>
+</UL>
+</LI>
+<LI><A href="jjkt.htm">基金课题</A>
+<UL>
+  <LI><A href="jjkt/jjxm.htm">基金项目</A></LI>
+  <LI><A href="jjkt/kfkt.htm">开放课题</A></LI>
+</UL>
+</LI>
+<LI><A href="hzjl.htm">合作交流</A>
+<UL>
+  <LI><A href="hzjl/xshy.htm">学术会议</A></LI>
+  <LI><A href="hzjl/xsjz.htm">学术讲座</A></LI>
+</UL>
+</LI>
+<LI><A href="list2.jsp?urltype=tree.TreeTempUrl&wbtreeid=1024">下载中心</A>
+</LI>
+</UL>
+</div></TD></TR></TBODY></TABLE>
+<TABLE cellspacing="0" cellpadding="0" width="996" align="center" border="0">
+<TBODY>
+<TR>
+<TD><IMG src="images/1_body_01.gif" width="996" height="8"></TD></TR></TBODY></TABLE>
+<TABLE cellspacing="0" cellpadding="0" width="996" align="center" background="images/1_indexbodybg_info.gif" border="0">
+<TBODY>
+<TR>
+<TD height="244" valign="top" width="10"></TD>
+<TD valign="top" width="313"></TD>
+<TD valign="top" width="391">
+<LINK href="/system/resource/style/component/news/list/imagechangenews.css" type=text/css rel=stylesheet>
+<script language="javascript" src="/system/resource/js/news/imagechangenews.js"></script><script language=JavaScript>
+var u_u3_icn = new ImageChangeNews("u_u3_", 1000, 400, 4, 2.0, false, false, false, true);
+
+//初始化图片, 并启动定时
+function u_u3_init_img()
+{
+
+    u_u3_icn.addimg("\/__local\/0\/64\/20\/E7C37906FB58739BCC43F382BA8_B2661C80_8A58C.png", "info\/1002\/1058.htm", "", "");
+
+    u_u3_icn.addimg("\/__local\/3\/5F\/AC\/F60ABDCDDD0DEA5FDC64D67A276_BD0F4370_48737.png", "info\/1002\/1051.htm", "", "");
+
+    u_u3_icn.addimg("\/__local\/E\/D3\/75\/465DDC4825D3F28A2D32DF41E9C_D24E35F7_617B8.png", "info\/1002\/1049.htm", "", "");
+
+    u_u3_icn.addimg("\/__local\/B\/6F\/15\/E83C561F91054247F0A6A8CB4B6_E97FAAD8_51A1F.png", "info\/1002\/1050.htm", "", "");
+
+    u_u3_icn.changeimg(0);
+}
+</script><table  cellspacing=0 cellpadding=0 border=0 style="padding:0px margin:0px; border:0px" >
+    <tr><td>
+        <div style="OVERFLOW: hidden;height:400px;width:1000px">
+            <div id="u_u3_div"  style="padding:0px;margin:0px;border:0px solid black;background-color:#000000;FILTER: progid:DXImageTransform.Microsoft.RevealTrans (duration=2.0,transition=23);height:400px;width:1000px" align=center>
+                <div id="u_u3_imgdiv" style="padding:0px;border:0px;"><a id="u_u3_url" target="_blank"><img id="u_u3_pic" border=0 width=1000 height=400 src="/system/resource/images/space.gif"></a></div>
+            </div>
+            <div style="filter:alpha(style=1,opacity=10,finishOpacity=80);width:1000px;height:19px;text-align:right;top:-19px;position:relative;padding:0px;margin:0px;border:0px;">
+<a href='javascript:u_u3_icn.changeimg(0)'; id=u_u3_selectNode0 class=imagechangenews_pnode target=_self>1</a><a href='javascript:u_u3_icn.changeimg(1)'; id=u_u3_selectNode1 class=imagechangenews_pnode target=_self>2</a><a href='javascript:u_u3_icn.changeimg(2)'; id=u_u3_selectNode2 class=imagechangenews_pnode target=_self>3</a><a href='javascript:u_u3_icn.changeimg(3)'; id=u_u3_selectNode3 class=imagechangenews_pnode target=_self>4</a>
+            </div></div></td></tr>
+<div style="overflow:hidden;text-overflow:ellipsis;height:0px;width:1000px;" 
+            align=center display=none><a  target="_blank"  class="titlestyle201116"  id="u_u3_newstitle"></a></div><div style="overflow:hidden;text-overflow:ellipsis;height:0px;width:1000px;padding-left:2px;padding-right:2px" 
+            align=left display=none><a  target="_blank"  class="summarystyle201116"  id="u_u3_newssummary"></a></div>   
+</table><SCRIPT language=JavaScript>u_u3_init_img();</SCRIPT></TD>
+<TD valign="top" width="274"></TD>
+<TD width="8"></TD></TR></TBODY></TABLE>
+<TABLE cellspacing="0" cellpadding="0" width="996" align="center" background="images/1_indexbodybg_info.gif" border="0">
+<TBODY>
+<TR>
+<TD height="348" valign="top" width="10"></TD>
+<TD valign="top" rowspan="2" width="692">
+<TABLE cellspacing="0" cellpadding="0" width="100%" align="center" border="0">
+<TBODY>
+<TR>
+<TD height="10"></TD></TR></TBODY></TABLE>
+<TABLE cellspacing="0" cellpadding="0" width="100%" align="center" border="0">
+<TBODY>
+<TR>
+<TD height="8"></TD></TR></TBODY></TABLE>
+<TABLE cellspacing="0" cellpadding="0" width="691" align="center" border="0">
+<TBODY>
+<TR>
+<TD height="185" valign="top" width="345">
+<TABLE cellspacing="0" cellpadding="0" width="340" align="center" background="images/1_title_index.gif" border="0">
+<TBODY>
+<TR>
+<TD height="34" width="36" align="center"><IMG src="images/1_ico001.gif" width="16" height="16"></TD>
+<TD class="h6" width="251">新闻动态</TD>
+<TD width="46"><A href="#"></A></TD></TR></TBODY></TABLE>
+<TABLE cellspacing="0" cellpadding="5" width="340" align="center" background="images/1_title_index4.gif" border="0" style="border-right: #e2e2e2 1px solid; background-repeat: repeat-x; background-position: 50% top; border-left: #e2e2e2 1px solid">
+<TBODY>
+<TR>
+<TD height="145" valign="top">&nbsp;
+       
+    <INPUT TYPE=hidden NAME=a4actiontype id=a4actiontype  VALUE=""><input type=hidden name=a4o value="desc"><input type=hidden name=a4k value="wbtop">
+<style type="text/css">
+.headStyle28vtyxd8ba, .headStyle28vtyxd8ba td, .headStyle28vtyxd8ba div {font-size: 12px;font-family:宋体; color: #000000; margin-left: auto; margin-right: auto; line-height:14px;}
+.defaultButtonStyle {font-size: 12px;font-family:宋体; height:20px;color: #000000;BORDER: #AFD5F5 1px solid; margin: 0px;padding: 0px; FILTER:progid:DXImageTransform.Microsoft.Gradient(GradientType=0,StartColorStr=#ffffff, EndColorStr=#BDDBF7);  CURSOR: pointer; line-height:14px;background:-webkit-gradient(linear, 0 0, 0 100%, from(#ffffff), to(#BDDBF7));background: -moz-linear-gradient( top,#ffffff,#BDDBF7);background:-ms-linear-gradient(top,#ffffff 0%,#bddbf7 100%)}
+.defaultinputStyle {font-size: 12px;font-family:宋体; height:20px; border:1px solid #AFD5F5; line-height:14px;}
+.colHeader {font-size: 12px;font-family:宋体; line-height:14px;}
+.headStyle28vtyxd8ba a, .pageList .this-page {font-size: 12px;font-family:宋体; display:inline-block; height:14px; padding: 2px 4px; border: solid 1px #AFD5F5; background: #fff; text-decoration: none; MARGIN-RIGHT: 1px;line-height:14px;}
+.headStyle28vtyxd8ba a:visited {font-size: 12px;font-family:宋体; color: #000000; text-decoration: none; line-height:14px;}
+.headStyle28vtyxd8ba .PrevDisabled {font-size: 12px;font-family:宋体; display:inline-block;height:14px;  margin-right: 3px; padding: 2px 4px; background: #fff;color:#ccc;border: solid 1px #AFD5F5; line-height:14px;}
+.headStyle28vtyxd8ba .SelectList {font-size: 12px;font-family:宋体;line-height:14px;}
+.headStyle28vtyxd8ba .Prev { font-size: 12px;font-family:宋体; margin-right: 3px; padding: 2px 4px;line-height:14px;}
+.headStyle28vtyxd8ba .break {font-size: 12px;font-family:宋体; border: none; text-decoration: none; line-height:14px;}
+.headStyle28vtyxd8ba .NextDisabled { font-size: 12px;font-family:宋体;display:inline-block; height:14px; margin-left: 2px; padding: 2px 4px;background: #fff;color:#ccc;border: solid 1px #AFD5F5; line-height:14px; }
+.headStyle28vtyxd8ba .Next { font-size: 12px;font-family:宋体; margin-left: 2px; padding: 2px 4px;line-height:14px;}
+.headStyle28vtyxd8ba .this-page {font-size: 12px;font-family:宋体;display:inline-block;height:14px;padding: 2px 4px; border: solid 1px #AFD5F5; background: #E1F0FD; font-weight: bold; color:black; MARGIN-RIGHT: 1px;line-height:14px;}
+.headStyle28vtyxd8ba a:hover {font-size: 12px;font-family:宋体;color: black; background: #EFF7FE; border-color: #AFD5F5; text-decoration: none;line-height:14px;}
+.headStyle28vtyxd8ba a:link {font-size: 12px;font-family:宋体;color: #000000; text-decoration: none;line-height:14px;}
+.headStyle28vtyxd8ba a:active { font-size: 12px;font-family:宋体;color: black; text-decoration: none; background: #EFF7FE; line-height:14px;}
+</style>
+    <table width=100%  class="winstyle201118" >     
+     
+      <tr height="20">  
+        <td style="font-size:9pt">
+         <span  class="leaderfont201118" >·</span>
+          
+            
+          <a class="c201118" href="info/1002/1058.htm" target="_blank"   title="通信电小天线关键技术研究应用">  
+                        通信电小天线关键技术研究应用
+            </a>
+        
+        </span>
+        </td>  
+        
+        <td width=1% nowrap valign="middle" align=right  class="timestyle201118" >2019/05/05&nbsp;</td>     
+        
+      </tr>
+
+      
+     
+      <tr height="20">  
+        <td style="font-size:9pt">
+         <span  class="leaderfont201118" >·</span>
+          
+            
+          <a class="c201118" href="info/1002/1051.htm" target="_blank"   title="Es层超视距散射通信系统">  
+                        Es层超视距散射通信系统
+            </a>
+        
+        </span>
+        </td>  
+        
+        <td width=1% nowrap valign="middle" align=right  class="timestyle201118" >2019/05/05&nbsp;</td>     
+        
+      </tr>
+
+      
+     
+      <tr height="20">  
+        <td style="font-size:9pt">
+         <span  class="leaderfont201118" >·</span>
+          
+            
+          <a class="c201118" href="info/1061/1078.htm" target="_blank"   title="开放课题">  
+                        开放课题
+            </a>
+        
+        </span>
+        </td>  
+        
+        <td width=1% nowrap valign="middle" align=right  class="timestyle201118" >2019/05/07&nbsp;</td>     
+        
+      </tr>
+
+      
+     
+      <tr height="20">  
+        <td style="font-size:9pt">
+         <span  class="leaderfont201118" >·</span>
+          
+            
+          <a class="c201118" href="info/1068/1077.htm" target="_blank"   title="实验室简介">  
+                        实验室简介
+            </a>
+        
+        </span>
+        </td>  
+        
+        <td width=1% nowrap valign="middle" align=right  class="timestyle201118" >2019/05/07&nbsp;</td>     
+        
+      </tr>
+
+      
+     
+      <tr height="20">  
+        <td style="font-size:9pt">
+         <span  class="leaderfont201118" >·</span>
+          
+            
+          <a class="c201118" href="info/1066/1076.htm" target="_blank"   title="人才培养">  
+                        人才培养
+            </a>
+        
+        </span>
+        </td>  
+        
+        <td width=1% nowrap valign="middle" align=right  class="timestyle201118" >2019/05/07&nbsp;</td>     
+        
+      </tr>
+
+      
+      <tr height="1">
+      <td colspan="3" align="center"><hr style="border-style:dashed;border-color:#999999;width:100%;height:1px;border-width:1px 0px 0px 0px;visibility:inherit"/></td>
+      </tr>
+      
+     
+      <tr height="20">  
+        <td style="font-size:9pt">
+         <span  class="leaderfont201118" >·</span>
+          
+            
+          <a class="c201118" href="info/1065/1075.htm" target="_blank"   title="流动人员情况">  
+                        流动人员情况
+            </a>
+        
+        </span>
+        </td>  
+        
+        <td width=1% nowrap valign="middle" align=right  class="timestyle201118" >2019/05/07&nbsp;</td>     
+        
+      </tr>
+
+      
+     
+      <tr height="20">  
+        <td style="font-size:9pt">
+         <span  class="leaderfont201118" >·</span>
+          
+            
+          <a class="c201118" href="info/1064/1074.htm" target="_blank"   title="成员情况">  
+                        成员情况
+            </a>
+        
+        </span>
+        </td>  
+        
+        <td width=1% nowrap valign="middle" align=right  class="timestyle201118" >2019/05/07&nbsp;</td>     
+        
+      </tr>
+
+      
+     
+      <tr height="20">  
+        <td style="font-size:9pt">
+         <span  class="leaderfont201118" >·</span>
+          
+            
+          <a class="c201118" href="info/1063/1073.htm" target="_blank"   title="学术带头人">  
+                        学术带头人
+            </a>
+        
+        </span>
+        </td>  
+        
+        <td width=1% nowrap valign="middle" align=right  class="timestyle201118" >2019/05/07&nbsp;</td>     
+        
+      </tr>
+
+      
+     
+      <tr height="20">  
+        <td style="font-size:9pt">
+         <span  class="leaderfont201118" >·</span>
+          
+            
+          <a class="c201118" href="info/1057/1070.htm" target="_blank"   title="学术会议">  
+                        学术会议
+            </a>
+        
+        </span>
+        </td>  
+        
+        <td width=1% nowrap valign="middle" align=right  class="timestyle201118" >2019/05/07&nbsp;</td>     
+        
+      </tr>
+
+      
+     
+      <tr height="20">  
+        <td style="font-size:9pt">
+         <span  class="leaderfont201118" >·</span>
+          
+            
+          <a class="c201118" href="info/1060/1061.htm" target="_blank"   title="基金项目">  
+                        基金项目
+            </a>
+        
+        </span>
+        </td>  
+        
+        <td width=1% nowrap valign="middle" align=right  class="timestyle201118" >2019/05/07&nbsp;</td>     
+        
+      </tr>
+
+      
+
+     
+        
+        
+        <tr><td colspan='3' align=center>
+            <table height="39" cellpadding=0 cellspacing=0 border=0>
+                <TR><td colspan=0><table cellspacing=0 class=headStyle28vtyxd8ba width="100%" cellpadding=1><tr valign=middle><TD nowrap align=left width=1% >共14条&nbsp;<input type=hidden name=a4fc value="10">&nbsp;1/2&nbsp;</td><td nowrap align=left><div><span class=PrevDisabled>上页</span><span class=this-page>1</span><a href="?a4t=2&a4p=2&a4c=10">2</a><a href="?a4t=2&a4p=2&a4c=10" class="Next">下页</a></div></td><TD nowrap align=right></td></tr></table></td></tr>
+            </table>
+        </td></tr>
+    </table></TD></TR></TBODY></TABLE>
+<TABLE cellspacing="0" cellpadding="0" width="333" align="center" border="0">
+<TBODY>
+<TR>
+<TD valign="top"><IMG src="images/1_title_index3.gif" width="340" height="6"></TD></TR></TBODY></TABLE></TD>
+<TD valign="top" width="10">&nbsp;</TD>
+<TD valign="top" width="336">
+<TABLE cellspacing="0" cellpadding="0" width="340" align="center" background="images/1_title_index.gif" border="0">
+<TBODY>
+<TR>
+<TD height="34" width="36" align="center"><IMG src="images/1_ico001.gif" width="16" height="16"></TD>
+<TD class="h6" width="251">研究方向</TD>
+<TD width="46"><A href="#"></A></TD></TR></TBODY></TABLE>
+<TABLE cellspacing="0" cellpadding="5" width="340" align="center" background="images/1_title_index4.gif" border="0" style="border-right: #e2e2e2 1px solid; background-repeat: repeat-x; background-position: 50% top; border-left: #e2e2e2 1px solid">
+<TBODY>
+<TR>
+<TD height="145" valign="top">&nbsp;
+       
+    <INPUT TYPE=hidden NAME=a5actiontype id=a5actiontype  VALUE=""><input type=hidden name=a5o value="desc"><input type=hidden name=a5k value="wbtop">
+<style type="text/css">
+.headStyle1zf2pb18bc, .headStyle1zf2pb18bc td, .headStyle1zf2pb18bc div {font-size: 12px;font-family:宋体; color: #000000; margin-left: auto; margin-right: auto; line-height:14px;}
+.defaultButtonStyle {font-size: 12px;font-family:宋体; height:20px;color: #000000;BORDER: #AFD5F5 1px solid; margin: 0px;padding: 0px; FILTER:progid:DXImageTransform.Microsoft.Gradient(GradientType=0,StartColorStr=#ffffff, EndColorStr=#BDDBF7);  CURSOR: pointer; line-height:14px;background:-webkit-gradient(linear, 0 0, 0 100%, from(#ffffff), to(#BDDBF7));background: -moz-linear-gradient( top,#ffffff,#BDDBF7);background:-ms-linear-gradient(top,#ffffff 0%,#bddbf7 100%)}
+.defaultinputStyle {font-size: 12px;font-family:宋体; height:20px; border:1px solid #AFD5F5; line-height:14px;}
+.colHeader {font-size: 12px;font-family:宋体; line-height:14px;}
+.headStyle1zf2pb18bc a, .pageList .this-page {font-size: 12px;font-family:宋体; display:inline-block; height:14px; padding: 2px 4px; border: solid 1px #AFD5F5; background: #fff; text-decoration: none; MARGIN-RIGHT: 1px;line-height:14px;}
+.headStyle1zf2pb18bc a:visited {font-size: 12px;font-family:宋体; color: #000000; text-decoration: none; line-height:14px;}
+.headStyle1zf2pb18bc .PrevDisabled {font-size: 12px;font-family:宋体; display:inline-block;height:14px;  margin-right: 3px; padding: 2px 4px; background: #fff;color:#ccc;border: solid 1px #AFD5F5; line-height:14px;}
+.headStyle1zf2pb18bc .SelectList {font-size: 12px;font-family:宋体;line-height:14px;}
+.headStyle1zf2pb18bc .Prev { font-size: 12px;font-family:宋体; margin-right: 3px; padding: 2px 4px;line-height:14px;}
+.headStyle1zf2pb18bc .break {font-size: 12px;font-family:宋体; border: none; text-decoration: none; line-height:14px;}
+.headStyle1zf2pb18bc .NextDisabled { font-size: 12px;font-family:宋体;display:inline-block; height:14px; margin-left: 2px; padding: 2px 4px;background: #fff;color:#ccc;border: solid 1px #AFD5F5; line-height:14px; }
+.headStyle1zf2pb18bc .Next { font-size: 12px;font-family:宋体; margin-left: 2px; padding: 2px 4px;line-height:14px;}
+.headStyle1zf2pb18bc .this-page {font-size: 12px;font-family:宋体;display:inline-block;height:14px;padding: 2px 4px; border: solid 1px #AFD5F5; background: #E1F0FD; font-weight: bold; color:black; MARGIN-RIGHT: 1px;line-height:14px;}
+.headStyle1zf2pb18bc a:hover {font-size: 12px;font-family:宋体;color: black; background: #EFF7FE; border-color: #AFD5F5; text-decoration: none;line-height:14px;}
+.headStyle1zf2pb18bc a:link {font-size: 12px;font-family:宋体;color: #000000; text-decoration: none;line-height:14px;}
+.headStyle1zf2pb18bc a:active { font-size: 12px;font-family:宋体;color: black; text-decoration: none; background: #EFF7FE; line-height:14px;}
+</style>
+    <table width=100%  class="winstyle201121" >     
+     
+      <tr height="20">  
+        <td style="font-size:9pt">
+         <span  class="leaderfont201121" >·</span>
+          
+            
+          <a class="c201121" href="info/1004/1067.htm" target="_blank"   title="无线传输技术研究">  
+                        无线传输技术研究
+            </a>
+        
+        </span>
+        </td>  
+        
+        <td width=1% nowrap valign="middle" align=right  class="timestyle201121" >2019/05/07&nbsp;</td>     
+        
+      </tr>
+
+      
+     
+      <tr height="20">  
+        <td style="font-size:9pt">
+         <span  class="leaderfont201121" >·</span>
+          
+            
+          <a class="c201121" href="info/1004/1053.htm" target="_blank"   title="信息检测与处理研究">  
+                        信息检测与处理研究
+            </a>
+        
+        </span>
+        </td>  
+        
+        <td width=1% nowrap valign="middle" align=right  class="timestyle201121" >2019/05/05&nbsp;</td>     
+        
+      </tr>
+
+      
+     
+      <tr height="20">  
+        <td style="font-size:9pt">
+         <span  class="leaderfont201121" >·</span>
+          
+            
+          <a class="c201121" href="info/1004/1054.htm" target="_blank"   title="宽带天线与射频技术研究">  
+                        宽带天线与射频技术研究
+            </a>
+        
+        </span>
+        </td>  
+        
+        <td width=1% nowrap valign="middle" align=right  class="timestyle201121" >2019/05/05&nbsp;</td>     
+        
+      </tr>
+
+      
+     
+      <tr height="20">  
+        <td style="font-size:9pt">
+         <span  class="leaderfont201121" >·</span>
+          
+            
+          <a class="c201121" href="info/1004/1055.htm" target="_blank"   title="无线传感器网络研究">  
+                        无线传感器网络研究
+            </a>
+        
+        </span>
+        </td>  
+        
+        <td width=1% nowrap valign="middle" align=right  class="timestyle201121" >2019/05/05&nbsp;</td>     
+        
+      </tr>
+
+      
+     
+      <tr height="20">  
+        <td style="font-size:9pt">
+         <span  class="leaderfont201121" >·</span>
+          
+            
+          <a class="c201121" href="info/1004/1056.htm" target="_blank"   title="分布式自治系统安全技术研究">  
+                        分布式自治系统安全技术研究
+            </a>
+        
+        </span>
+        </td>  
+        
+        <td width=1% nowrap valign="middle" align=right  class="timestyle201121" >2019/05/05&nbsp;</td>     
+        
+      </tr>
+
+      
+
+     
+        
+        
+        <tr><td colspan='3' align=center>
+            <table height="39" cellpadding=0 cellspacing=0 border=0>
+                <TR><td colspan=0><table cellspacing=0 class=headStyle1zf2pb18bc width="100%" cellpadding=1><tr valign=middle><TD nowrap align=left width=1% >共5条&nbsp;<input type=hidden name=a5fc value="10">&nbsp;1/1&nbsp;</td><td nowrap align=left><div><span class=PrevDisabled>上页</span><span class=this-page>1</span><span class=NextDisabled>下页</span></div></td><TD nowrap align=right></td></tr></table></td></tr>
+            </table>
+        </td></tr>
+    </table></TD></TR></TBODY></TABLE>
+<TABLE cellspacing="0" cellpadding="0" width="333" align="center" border="0">
+<TBODY>
+<TR>
+<TD height="6" valign="top"><IMG src="images/1_title_index3.gif" width="340" height="6"></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD>&nbsp; </TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD></TR>
+<TR>
+<TD>&nbsp; 
+<TABLE cellspacing="0" cellpadding="0" width="269" align="left" background="images/1_title2_01.gif" border="0">
+<TBODY>
+<TR>
+<TD height="34" width="45">
+<P align="left">&nbsp;</P></TD>
+<TD class="h2" width="185"><FONT color="#15b8b8">实验平台展示</FONT></TD>
+<TD width="47"></TD></TR></TBODY></TABLE></TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD></TR></TBODY></TABLE>
+<TABLE cellspacing="0" cellpadding="0" width="100%" align="center" border="0">
+<TBODY>
+<TR></TR></TBODY></TABLE>
+<TABLE cellspacing="0" cellpadding="0" width="691" align="center" border="0">
+<TBODY>
+<TR></TR></TBODY></TABLE><script language="javascript" src="/system/resource/js/vsbpreloadimg.js"></script><script language="javascript" src="/system/resource/js/dynclicks.js"></script>
+<TABLE  width="690" cellSpacing=0 cellPadding=0  align=center border=0> 
+    <TR><TD>
+        <DIV id=u_u6_demo style="OVERFLOW:hidden;WIDTH:690px;COLOR:#ffffff"><TABLE cellSpacing=0 cellPadding=0 border=0>
+                <TR><TD id=u_u6_demo1 vAlign=top width="690"><table border="0" cellpadding=0 cellspacing=0 width="690">
+                        <tr>
+
+                            <td valign="top" align=center style="padding-left:1px;padding-right:2px"><div style="padding: 0px; width:250px"><table cellpadding=0 cellspacing=0  style="border:1px solid black;">
+                                    <tr><td width='250' height='160' valign="middle" align="center"><img name="u_u6_img" border="0" src="/system/resource/images/loading.gif" alt="实验平台展示" title="实验平台展示" hspace="0" vspace="0"></td></tr>
+                                </table></div></td>
+                            <td valign="top" align=center style="padding-left:1px;padding-right:2px"><div style="padding: 0px; width:250px"><table cellpadding=0 cellspacing=0  style="border:1px solid black;">
+                                    <tr><td width='250' height='160' valign="middle" align="center"><img name="u_u6_img" border="0" src="/system/resource/images/loading.gif" alt="实验平台展示" title="实验平台展示" hspace="0" vspace="0"></td></tr>
+                                </table></div></td>
+                            <td valign="top" align=center style="padding-left:1px;padding-right:2px"><div style="padding: 0px; width:250px"><table cellpadding=0 cellspacing=0  style="border:1px solid black;">
+                                    <tr><td width='250' height='160' valign="middle" align="center"><img name="u_u6_img" border="0" src="/system/resource/images/loading.gif" alt="实验平台展示" title="实验平台展示" hspace="0" vspace="0"></td></tr>
+                                </table></div></td>
+                            <td valign="top" align=center style="padding-left:1px;padding-right:2px"><div style="padding: 0px; width:250px"><table cellpadding=0 cellspacing=0  style="border:1px solid black;">
+                                    <tr><td width='250' height='160' valign="middle" align="center"><img name="u_u6_img" border="0" src="/system/resource/images/loading.gif" alt="实验平台展示" title="实验平台展示" hspace="0" vspace="0"></td></tr>
+                                </table></div></td>
+                            <td valign="top" align=center style="padding-left:1px;padding-right:2px"><div style="padding: 0px; width:250px"><table cellpadding=0 cellspacing=0  style="border:1px solid black;">
+                                    <tr><td width='250' height='160' valign="middle" align="center"><img name="u_u6_img" border="0" src="/system/resource/images/loading.gif" alt="实验平台展示" title="实验平台展示" hspace="0" vspace="0"></td></tr>
+                                </table></div></td></tr>
+           </table></TD> 
+          <TD id=u_u6_demo2 vAlign=top width="690"></TD> 
+        </TR> 
+      </TABLE> 
+      </DIV> 
+    </TD> 
+  </TR> 
+</TABLE> 
+<SCRIPT language = "javascript">
+    var u_u6_imgs = new VsbPreloadImgArray();
+    
+    //初始化图片
+    function u_u6_init_img()
+    {
+
+            u_u6_imgs.addImg("images\/19\/04\/29\/1nlbabqudd\/004.png", "0", u_u6_onimgload);
+
+            u_u6_imgs.addImg("images\/19\/04\/29\/1nlbabqudd\/005.png", "1", u_u6_onimgload);
+
+            u_u6_imgs.addImg("images\/19\/04\/29\/1nlbabqudd\/003.png", "2", u_u6_onimgload);
+
+            u_u6_imgs.addImg("images\/19\/04\/29\/1nlbabqudd\/002.png", "3", u_u6_onimgload);
+
+            u_u6_imgs.addImg("images\/19\/04\/29\/1nlbabqudd\/001.jpg", "4", u_u6_onimgload);
+
+    }
+    function u_u6_onimgload(img, imgid)
+    {
+        var imgobjs = document.getElementsByName("u_u6_img");
+        var imgindex = new Number(imgid);
+        
+        img.showImg(imgobjs[imgindex], 250, 160, true, true);
+        img.showImg(imgobjs[imgindex+ 5], 250, 160, true, true);
+    }
+
+
+    var u_u6_MyMar;
+    var u_u6_speed3;
+    var u_u6_move = true;
+    var u_u6_movenum = 0;
+    var u_u6_pos = null; //td位置组
+    
+    function u_u6_initpos()
+    {
+        u_u6_pos = new Array();
+        
+        var tds1 = document.getElementById("u_u6_demo1").childNodes[0].rows[0].cells;
+        
+        for(i = 0 ;i < tds1.length; i++)
+        {
+            u_u6_pos[u_u6_pos.length] = tds1[i].offsetLeft;
+        }
+        
+        var tds2 = document.getElementById("u_u6_demo2").childNodes[0].rows[0].cells;
+        var tds2offset = document.getElementById("u_u6_demo2").offsetLeft;
+        for(i = 0 ;i < tds2.length; i++)
+        {
+            u_u6_pos[u_u6_pos.length] = tds2[i].offsetLeft + tds2offset;
+        }
+    }
+    
+    function u_u6_getpos(scrollpos)
+    {
+        for(i = 0; i < u_u6_pos.length; i++)
+        {
+            if(scrollpos < u_u6_pos[i])
+                return i-1;
+        }
+    }
+
+
+    function u_u6_Marquee() 
+    { 
+        try 
+        { 
+            if(!u_u6_move)
+                return;
+            
+            var demoobj = document.getElementById("u_u6_demo");
+            var demo1obj = document.getElementById("u_u6_demo1");
+
+            //滚动步长
+            var scrollstep = 1
+            
+            //当前位置
+            var oldscrollLeft = demoobj.scrollLeft;
+            
+            //更新后的位置, 已考虑过回滚
+            var newscrollLeft = (oldscrollLeft + scrollstep)%demo1obj.scrollWidth;
+
+            
+            //间歇滚动            
+            if(u_u6_pos == null)
+                u_u6_initpos();
+            //滚动前td
+            var oldpos = u_u6_getpos(oldscrollLeft);
+            //滚动后td
+            var newpos = u_u6_getpos(newscrollLeft);
+            //经过td数量
+            if(oldpos != newpos)
+            {
+                u_u6_movenum++;
+            }
+            //达到数量， 停留一定时间
+
+            if(u_u6_movenum >= 1)
+            {
+                u_u6_movenum = 0;
+                newscrollLeft = u_u6_pos[newpos];
+                u_u6_clearInterval();
+                setTimeout(u_u6_setInterval, 1*1000);
+            }
+            
+            demoobj.scrollLeft = newscrollLeft; 
+            
+        } 
+        catch(e) 
+        { 
+        } 
+    } 
+
+    function u_u6_clearInterval()
+    {
+        clearInterval(u_u6_MyMar);
+    }
+    
+    function u_u6_setInterval()
+    {
+        u_u6_MyMar = setInterval(u_u6_Marquee,u_u6_speed3);
+    }
+    
+    function u_u6_stopmove()
+    {
+        u_u6_move = false;
+    }
+
+    function u_u6_startmove()
+    {
+        u_u6_move = true;
+    }
+    
+    function u_u6_init()
+    {
+        u_u6_speed3 = 1;
+        if(u_u6_speed3 < 1)
+        {
+            u_u6_speed3 = 1;
+        }
+        
+        document.getElementById("u_u6_demo").onmouseover = u_u6_stopmove;
+        document.getElementById("u_u6_demo").onmouseout = u_u6_startmove;
+
+        document.getElementById("u_u6_demo2").innerHTML = document.getElementById("u_u6_demo1").innerHTML;
+        
+        u_u6_init_img();
+        
+        setTimeout(u_u6_setInterval, 1*1000);
+
+    }
+    
+    u_u6_init();
+</SCRIPT></TD>
+<TD valign="top" width="12">&nbsp;</TD>
+<TD valign="top" width="274">
+<TABLE cellspacing="0" cellpadding="0" width="100%" align="center" border="0">
+<TBODY>
+<TR>
+<TD>&nbsp;</TD></TR>
+<TR>
+<TD height="5">
+
+
+
+
+
+<form action='ssjg.jsp?wbtreeid=1002' method='post' name='a201147a'  style="display: inline;" onsubmit="return subsearchdataa201147a()">
+  <input type='hidden' name='Find' value='find'><input type='hidden' name='entrymode' value='1'><input type='hidden' id='INTEXT2'  name='INTEXT2' value=''><input type='hidden' name='news_search_code'>
+ <table border='0' cellspacing="1" cellpadding="0" >
+      <tr>
+           <td Valign="middle" nowrap="nowrap" height="22">
+                 <span style="font-size:9pt;">站内搜索：</span>
+                  <input type='hidden' name='condition' value=0>   </td><td>
+                <span id="intextspana201147a"></span>
+                <iframe id="intextframea201147a"   src="about:blank"   scrolling="no" frameborder="0" style="position:absolute;top:0px;left:0px;display:none;"></iframe>
+                <input size='12' name='INTEXT' style="height:22px"  >
+           </td>
+           <td align="absmiddle" nowrap="nowrap" height="1">
+                    <input type='submit' name="FindButton" value='搜索'  />
+
+           </td>
+      </tr>
+ </table>
+</form>
+<script>
+String.prototype.trim= function()       
+{              
+    var t = this.replace(/(^\s*)|(\s*$)/g, "");     
+    return t.replace(/(^　*)|(　*$)/g, "");     
+}  
+function subsearchdataa201147a()
+{ 
+    if(document.a201147a.INTEXT.value.trim()=="")
+    {
+        alert("请输入查询关键字！");
+        return false;
+    }
+    if(checkDataa201147a(document.a201147a))
+    {
+       return true;  
+    }
+    return false;
+}       
+</script>
+
+    <script> 
+    function checkDataa201147a(formname)
+    {
+        if(a201147a.INTEXT.value.trim()=="")
+        {
+            alert("请输入查询关键字！");
+            return false;
+        }       
+        var  base64 = new Base64();
+        if(window.toFF==1)
+            {
+                var ssvalue = a201147a.INTEXT.value;
+                document.a201147a.INTEXT2.value = base64.encode(Simplized(ssvalue));
+            }else
+            document.a201147a.INTEXT2.value = base64.encode(document.a201147a.INTEXT.value);
+           return true;
+    }
+    </script>
+<script language="javascript" src="/system/resource/js/base64.js"></script> </TD></TR>
+<TR>
+<TD>&nbsp;</TD></TR></TBODY></TABLE>
+<TABLE cellspacing="0" cellpadding="0" width="269" align="center" background="images/1_title2_01.gif" border="0">
+<TBODY>
+<TR>
+<TD height="34" width="45">&nbsp;</TD>
+<TD class="h2" width="185">建设成果</TD>
+<TD width="47"></TD></TR></TBODY></TABLE>
+<TABLE cellspacing="0" cellpadding="5" width="269" align="center" border="0" style="border-right: #d0d0d0 1px solid; border-bottom: #d0d0d0 1px solid; border-left: #d0d0d0 1px solid">
+<TBODY>
+<TR>
+<TD height="227" valign="top">&nbsp;
+       
+    <INPUT TYPE=hidden NAME=a8actiontype id=a8actiontype  VALUE=""><input type=hidden name=a8o value="desc"><input type=hidden name=a8k value="wbtop">
+<style type="text/css">
+.headStyle2ojmgs88bd, .headStyle2ojmgs88bd td, .headStyle2ojmgs88bd div {font-size: 12px;font-family:宋体; color: #000000; margin-left: auto; margin-right: auto; line-height:14px;}
+.defaultButtonStyle {font-size: 12px;font-family:宋体; height:20px;color: #000000;BORDER: #AFD5F5 1px solid; margin: 0px;padding: 0px; FILTER:progid:DXImageTransform.Microsoft.Gradient(GradientType=0,StartColorStr=#ffffff, EndColorStr=#BDDBF7);  CURSOR: pointer; line-height:14px;background:-webkit-gradient(linear, 0 0, 0 100%, from(#ffffff), to(#BDDBF7));background: -moz-linear-gradient( top,#ffffff,#BDDBF7);background:-ms-linear-gradient(top,#ffffff 0%,#bddbf7 100%)}
+.defaultinputStyle {font-size: 12px;font-family:宋体; height:20px; border:1px solid #AFD5F5; line-height:14px;}
+.colHeader {font-size: 12px;font-family:宋体; line-height:14px;}
+.headStyle2ojmgs88bd a, .pageList .this-page {font-size: 12px;font-family:宋体; display:inline-block; height:14px; padding: 2px 4px; border: solid 1px #AFD5F5; background: #fff; text-decoration: none; MARGIN-RIGHT: 1px;line-height:14px;}
+.headStyle2ojmgs88bd a:visited {font-size: 12px;font-family:宋体; color: #000000; text-decoration: none; line-height:14px;}
+.headStyle2ojmgs88bd .PrevDisabled {font-size: 12px;font-family:宋体; display:inline-block;height:14px;  margin-right: 3px; padding: 2px 4px; background: #fff;color:#ccc;border: solid 1px #AFD5F5; line-height:14px;}
+.headStyle2ojmgs88bd .SelectList {font-size: 12px;font-family:宋体;line-height:14px;}
+.headStyle2ojmgs88bd .Prev { font-size: 12px;font-family:宋体; margin-right: 3px; padding: 2px 4px;line-height:14px;}
+.headStyle2ojmgs88bd .break {font-size: 12px;font-family:宋体; border: none; text-decoration: none; line-height:14px;}
+.headStyle2ojmgs88bd .NextDisabled { font-size: 12px;font-family:宋体;display:inline-block; height:14px; margin-left: 2px; padding: 2px 4px;background: #fff;color:#ccc;border: solid 1px #AFD5F5; line-height:14px; }
+.headStyle2ojmgs88bd .Next { font-size: 12px;font-family:宋体; margin-left: 2px; padding: 2px 4px;line-height:14px;}
+.headStyle2ojmgs88bd .this-page {font-size: 12px;font-family:宋体;display:inline-block;height:14px;padding: 2px 4px; border: solid 1px #AFD5F5; background: #E1F0FD; font-weight: bold; color:black; MARGIN-RIGHT: 1px;line-height:14px;}
+.headStyle2ojmgs88bd a:hover {font-size: 12px;font-family:宋体;color: black; background: #EFF7FE; border-color: #AFD5F5; text-decoration: none;line-height:14px;}
+.headStyle2ojmgs88bd a:link {font-size: 12px;font-family:宋体;color: #000000; text-decoration: none;line-height:14px;}
+.headStyle2ojmgs88bd a:active { font-size: 12px;font-family:宋体;color: black; text-decoration: none; background: #EFF7FE; line-height:14px;}
+</style>
+    <table width=100%  class="winstyle201119" >     
+     
+      <tr height="20">  
+        <td style="font-size:9pt">
+         <span  class="leaderfont201119" >·</span>
+          
+            
+          <a class="c201119" href="info/1043/1042.htm" target="_blank"   title="代表性论著">  
+                        代表性论著
+            </a>
+        
+        </span>
+        </td>  
+        
+        <td width=1% nowrap valign="middle" align=right  class="timestyle201119" >2019/05/05&nbsp;</td>     
+        
+      </tr>
+
+      
+     
+      <tr height="20">  
+        <td style="font-size:9pt">
+         <span  class="leaderfont201119" >·</span>
+          
+            
+          <a class="c201119" href="info/1044/1043.htm" target="_blank"   title="专利情况">  
+                        专利情况
+            </a>
+        
+        </span>
+        </td>  
+        
+        <td width=1% nowrap valign="middle" align=right  class="timestyle201119" >2019/05/05&nbsp;</td>     
+        
+      </tr>
+
+      
+     
+      <tr height="20">  
+        <td style="font-size:9pt">
+         <span  class="leaderfont201119" >·</span>
+          
+            
+          <a class="c201119" href="info/1045/1044.htm" target="_blank"   title="获奖情况">  
+                        获奖情况
+            </a>
+        
+        </span>
+        </td>  
+        
+        <td width=1% nowrap valign="middle" align=right  class="timestyle201119" >2019/05/05&nbsp;</td>     
+        
+      </tr>
+
+      
+
+     
+        
+        
+        <tr><td colspan='3' align=center>
+            <table height="39" cellpadding=0 cellspacing=0 border=0>
+                <TR><td colspan=0><table cellspacing=0 class=headStyle2ojmgs88bd width="100%" cellpadding=1><tr valign=middle><TD nowrap align=left width=1% >共3条&nbsp;<input type=hidden name=a8fc value="10">&nbsp;1/1&nbsp;</td><td nowrap align=left><div><span class=PrevDisabled>上页</span><span class=this-page>1</span><span class=NextDisabled>下页</span></div></td><TD nowrap align=right></td></tr></table></td></tr>
+            </table>
+        </td></tr>
+    </table></TD></TR>
+<TR>
+<TD>&nbsp;</TD></TR></TBODY></TABLE>
+<TABLE cellspacing="0" cellpadding="0" width="100%" align="center" border="0">
+<TBODY></TBODY></TABLE>
+<TABLE cellspacing="0" cellpadding="0" width="269" align="center" background="images/1_title2_01.gif" border="0">
+<TBODY>
+<TR></TR>
+<TR>
+<TD height="34" width="45">&nbsp;</TD>
+<TD class="h6" width="185">下载中心</TD>
+<TD width="47"></TD></TR></TBODY></TABLE>
+<TABLE cellspacing="0" cellpadding="5" width="269" align="center" border="0" style="border-right: #d0d0d0 1px solid; border-bottom: #d0d0d0 1px solid; border-left: #d0d0d0 1px solid">
+<TBODY>
+<TR>
+<TD height="149" valign="top">&nbsp;
+       
+    <INPUT TYPE=hidden NAME=a9actiontype id=a9actiontype  VALUE=""><input type=hidden name=a9o value="desc"><input type=hidden name=a9k value="wbtop">
+<style type="text/css">
+.headStyle1vib5g78be, .headStyle1vib5g78be td, .headStyle1vib5g78be div {font-size: 12px;font-family:宋体; color: #000000; margin-left: auto; margin-right: auto; line-height:14px;}
+.defaultButtonStyle {font-size: 12px;font-family:宋体; height:20px;color: #000000;BORDER: #AFD5F5 1px solid; margin: 0px;padding: 0px; FILTER:progid:DXImageTransform.Microsoft.Gradient(GradientType=0,StartColorStr=#ffffff, EndColorStr=#BDDBF7);  CURSOR: pointer; line-height:14px;background:-webkit-gradient(linear, 0 0, 0 100%, from(#ffffff), to(#BDDBF7));background: -moz-linear-gradient( top,#ffffff,#BDDBF7);background:-ms-linear-gradient(top,#ffffff 0%,#bddbf7 100%)}
+.defaultinputStyle {font-size: 12px;font-family:宋体; height:20px; border:1px solid #AFD5F5; line-height:14px;}
+.colHeader {font-size: 12px;font-family:宋体; line-height:14px;}
+.headStyle1vib5g78be a, .pageList .this-page {font-size: 12px;font-family:宋体; display:inline-block; height:14px; padding: 2px 4px; border: solid 1px #AFD5F5; background: #fff; text-decoration: none; MARGIN-RIGHT: 1px;line-height:14px;}
+.headStyle1vib5g78be a:visited {font-size: 12px;font-family:宋体; color: #000000; text-decoration: none; line-height:14px;}
+.headStyle1vib5g78be .PrevDisabled {font-size: 12px;font-family:宋体; display:inline-block;height:14px;  margin-right: 3px; padding: 2px 4px; background: #fff;color:#ccc;border: solid 1px #AFD5F5; line-height:14px;}
+.headStyle1vib5g78be .SelectList {font-size: 12px;font-family:宋体;line-height:14px;}
+.headStyle1vib5g78be .Prev { font-size: 12px;font-family:宋体; margin-right: 3px; padding: 2px 4px;line-height:14px;}
+.headStyle1vib5g78be .break {font-size: 12px;font-family:宋体; border: none; text-decoration: none; line-height:14px;}
+.headStyle1vib5g78be .NextDisabled { font-size: 12px;font-family:宋体;display:inline-block; height:14px; margin-left: 2px; padding: 2px 4px;background: #fff;color:#ccc;border: solid 1px #AFD5F5; line-height:14px; }
+.headStyle1vib5g78be .Next { font-size: 12px;font-family:宋体; margin-left: 2px; padding: 2px 4px;line-height:14px;}
+.headStyle1vib5g78be .this-page {font-size: 12px;font-family:宋体;display:inline-block;height:14px;padding: 2px 4px; border: solid 1px #AFD5F5; background: #E1F0FD; font-weight: bold; color:black; MARGIN-RIGHT: 1px;line-height:14px;}
+.headStyle1vib5g78be a:hover {font-size: 12px;font-family:宋体;color: black; background: #EFF7FE; border-color: #AFD5F5; text-decoration: none;line-height:14px;}
+.headStyle1vib5g78be a:link {font-size: 12px;font-family:宋体;color: #000000; text-decoration: none;line-height:14px;}
+.headStyle1vib5g78be a:active { font-size: 12px;font-family:宋体;color: black; text-decoration: none; background: #EFF7FE; line-height:14px;}
+</style>
+    <table width=100%  class="winstyle201122" >     
+     
+      <tr height="20">  
+        <td style="font-size:9pt">
+         <span  class="leaderfont201122" >·</span>
+          
+            
+          <a class="c201122" href="info/1024/1041.htm" target="_blank"   title="认知无线电立项项目11-18网站公开版">  
+                        认知无线电立项项目11-18网 …
+            </a>
+        
+        </span>
+        </td>  
+        
+        <td width=1% nowrap valign="middle" align=right  class="timestyle201122" >2019/04/29&nbsp;</td>     
+        
+      </tr>
+
+      
+
+     
+        
+        
+        <tr><td colspan='3' align=center>
+            <table height="39" cellpadding=0 cellspacing=0 border=0>
+                <TR><td colspan=0><table cellspacing=0 class=headStyle1vib5g78be width="100%" cellpadding=1><tr valign=middle><TD nowrap align=left width=1% >共1条&nbsp;<input type=hidden name=a9fc value="10">&nbsp;1/1&nbsp;</td><td nowrap align=left><div><span class=PrevDisabled>上页</span><span class=this-page>1</span><span class=NextDisabled>下页</span></div></td><TD nowrap align=right></td></tr></table></td></tr>
+            </table>
+        </td></tr>
+    </table></TD></TR></TBODY></TABLE></TD>
+<TD width="8"></TD></TR>
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;    
+    
+    
+    
+  
+
+    
+<script language = "javascript">    
+<!--    
+    function doLinksu10(o)    
+    {    
+        var link=document.getElementsByName("su10")[0];    
+        var index=link.selectedIndex;    
+        if (index==-1 || index>=link.options.length)    
+        {    
+          return;    
+        }    
+        var value = link.options[index].value;    
+        var obj = document.getElementById("hu10");    
+        obj.href = value;
+        var wburlid =link.options[index].getAttribute("aa201117aa");
+        _addDynClicks('wburl',1411892173,wburlid)
+            
+         if(document.all){
+          obj.click();     
+        }         
+         else 
+        { 
+          window.open(value);
+         }
+       
+       if(o.selectedIndex != 0)    
+       {    
+           o.selectedIndex = 0;    
+       }    
+    }    
+-->    
+</script>  
+<table >    
+    <tr><td align="center">    
+            <span  class="titlestyle201117" ></span> <a id="hu10"></a>    
+            <select name="su10"  class="selectstyle201117"   onChange="doLinksu10(this)">    
+                <option value="">　　　--友情链接--</option>    
+                <option vsbhrefname="value" aa201117aa="38775" value="http://www.guet.edu.cn/">桂林电子科技大学    
+                <option vsbhrefname="value" aa201117aa="38776" value="http://www.guet.edu.cn/dept2/">信息与通信学院    
+                <option vsbhrefname="value" aa201117aa="38777" value="http://www.guet.edu.cn/lib/">桂电图书馆    
+                </select>    
+        </td><tr></table></TD>
+<TD>&nbsp;</TD></TR></TBODY></TABLE>
+<TABLE cellspacing="0" cellpadding="0" width="996" align="center" border="0">
+<TBODY></TBODY></TABLE>
+<TABLE cellspacing="0" cellpadding="0" width="996" align="center" border="0">
+<TBODY></TBODY></TABLE>
+<TABLE cellspacing="0" cellpadding="0" width="996" align="center" border="0">
+<TBODY>
+<TR>
+<TD colspan="2">&nbsp;<p style="text-align: center">认知无线电与信息处理省部共建教育部重点实验室&nbsp;&nbsp;地址：广西桂林市七星区金鸡路1号<br />电话：0773-2290203&nbsp;&nbsp;邮编：541004<br /></p></TD></TR></TBODY></TABLE>
+
+</BODY></HTML>

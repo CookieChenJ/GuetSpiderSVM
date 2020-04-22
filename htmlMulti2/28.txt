@@ -1,0 +1,85 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>桂电党政办公综合平台-登录页面</title>
+    <link href="/Content/login/css/layout.css" rel="stylesheet" />
+    <script src="/Scripts/jquery-1.9.1.min.js"></script>
+    <script src="/Scripts/jquery-migrate-1.1.1.min.js"></script>
+    <script type="text/javascript">
+        $(function () {
+            $(document.forms[0]).submit(function () {
+                var loginBtn = $(".login-btn");
+                var $form = $(this);
+                loginBtn.addClass('disabled').prop("disabled", true);
+                $.post($form.attr('action'), $form.serialize(), function (result) {
+                    if (result.success) {
+                        location.href = result.data.returnUrl; 
+                    } else {
+                        loginBtn.removeClass('disabled').prop("disabled", false);
+                        var modelState = result.modelState;
+                        if (modelState) {
+                            for (var item in modelState) {
+                                $('[name="' + item + '"]').addClass('error');
+                                $('[data-valmsg-for="' + item + '"]').html('<span class="error-msg">' + modelState[item] + '</span>');
+                            }
+                        } else {
+                            $('.validation-summary-valid').html('<span class="error-msg">' + r.message + '</span>');
+                        }
+                        $('.error-msg').fadeOut(3000);
+                    }
+                }, "json");
+                return false;
+            });
+            $('input.txt,input.pwd').change(function () { $(this).removeClass('error'); });
+        });
+    </script>
+</head>
+<body>
+    <!--[if lt IE 8]>
+        <div style="background-color: #000000; padding: 15px; color: #ccc; text-align: center;">
+            您正在使用低版本IE浏览器浏览本系统，部分功能可能无法正常使用，请升级到IE8或者更高版本的浏览器。
+        <a style="color: #fff;font-weight: bold;" href="http://dlsw.baidu.com/sw-search-sp/soft/41/23253/IE8-WindowsXP-x86-CHS.2728888507.exe">点击下载IE8（WinXP 32位）</a>
+        </div>
+    <![endif]-->
+    <div id="layout">
+        <div class="logo"></div>
+        <div class="main">
+            <div class="login-from">
+                <form action="/Account/LogOn?authenticationType=Cookies&amp;ReturnUrl2=%2F" method="post">
+                    <div class="validation-summary-valid" data-valmsg-summary="true"><ul><li style="display:none"></li>
+</ul></div>
+                    <div class="row">
+                        <div class="form-label">
+                            <label for="Username">用户名</label>
+                        </div>
+                        <div class="form-controls">
+                            <input class="txt" data-val="true" data-val-required="请输入用户名" id="Username" name="Username" type="text" value="" />
+                            <span class="field-validation-valid" data-valmsg-for="Username" data-valmsg-replace="true"></span>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="form-label">
+                            <label for="Password">密码</label>
+                        </div>
+                        <div class="form-controls">
+                            <input class="pwd" data-val="true" data-val-required="请输入密码" id="Password" name="Password" type="password" />
+                            <span class="field-validation-valid" data-valmsg-for="Password" data-valmsg-replace="true"></span>
+                        </div>
+                    </div>
+                    <div class="row" style="display:none;">
+                        <div class="form-controls">
+                            <label><input class="check-box" data-val="true" data-val-required="记住密码 字段是必需的。" id="Remember" name="Remember" type="checkbox" value="true" /><input name="Remember" type="hidden" value="false" />记住密码</label>
+                        </div>
+                    </div>
+                    <div class="btns">
+                        <button class="login-btn" type="submit"></button>
+                    </div>
+                </form>
+            </div>
+        </div>
+        <div class="footer"><span>版权所有：桂林电子科技大学网络传播与网络教育研究所 &copy; 2020</span></div>
+    </div>
+</body>
+</html>

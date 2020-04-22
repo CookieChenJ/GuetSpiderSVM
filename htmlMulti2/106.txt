@@ -1,0 +1,1042 @@
+<HTML>
+<head>
+    <title>艺术与设计学院</title><META Name="keywords" Content="桂林电子科技大学，艺术与设计学院，四院，4院，桂林电子科技大学艺术与设计学院，艺术学院，设计学院" />
+
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+    <style>
+    *{
+    font-family:"Microsoft YaHei";text-decoration: none;}
+    
+body{
+padding:0px;
+margin:0px;
+font-family:"Microsoft YaHei";
+background:#f2f7f7;}
+img
+border:none;
+}
+a{text-decoration:none !important;}
+a:hover{
+color:#00993f;}
+/*tab***********************************************/
+ .c_tab_head{
+              width: 100%;
+              height: 45px;
+              border-bottom: 1px solid #61ba7a;}
+         .c_head_item{
+             display: block;
+             width: 33.33%;
+             height: 45px;
+             line-height: 45px;
+             float: left;
+             text-align: center;
+             background: #fff;            
+             text-decoration: none;
+             font-size: 16px;
+             color: #515151;
+             background: #fff;}
+         .c_head_item.c_active{
+            color: #fff;
+            background: #61ba7a;}
+         .c_head_item span{
+             display: block;
+             height: 20px;
+            margin-top: 13px;
+            line-height: 20px;}
+         .c_border{
+             border-left: 1px solid #dfdfdf;
+             border-right: 1px solid #dfdfdf;}    
+             .c_body_item{
+             overflow:hidden;
+             padding-bottom:15px;}     
+</style>
+<script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+   
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="index.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1015,'/index.jsp',-1,1411889458)</script>
+</head>
+<body>
+<!--顶部logo及导航---------------------------------------------------------------------------------------------------------------------->
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="margin:0 auto;background:#fff;padding-bottom:50px;">
+  <tbody>
+    <tr>          
+      <td>
+        <table border="0" cellspacing="0" cellpadding="0" width="1200" height="100" style="margin:25px auto;">
+          <tbody>
+            <tr>
+          <td width="195" height="100" valign="center">
+            <a href="#">
+              <img border="0" src="images/images/logo_index.png">
+            </a>
+          </td>
+          <td width="805"><!--#begineditable name="网站导航" action="webber.wbst.com.util.SitelinkAction" layout="/system/_component/sitenav/vnav.jsp" tpltype="0" contype="" clone="" viewid="162038" contentviewid="" tagname="网站导航"--><style type="text/css">
+td.b1_0_{FONT-SIZE:9pt;height: 50px;line-height: 50px;padding-left: 5px;padding-right: 5px;}
+td.b2_0_{FONT-SIZE:9pt;height: 50px;line-height: 50px;padding-left: 5px;padding-right: 5px;}
+td.b3_0_{FONT-SIZE:9pt;height: 40px;line-height: 40px;font-size: 16px;background-color: #ffffff;padding-left: 10px;padding-right: 10px;border-width: 1px;border-style: solid;border-color: #f3f3f3 #dddddd;border-image: initial;}
+td.b4_0_{FONT-SIZE:9pt;height: 40px;line-height: 40px;font-size: 16px;background-color: #ffffff;padding-left: 10px;padding-right: 10px;border-width: 1px;border-style: solid;border-color: #f3f3f3 #dddddd;border-image: initial;}
+a.menu0_0_:link {TEXT-DECORATION: none;};
+a.menu0_0_:visited { TEXT-DECORATION: none;};
+a.menu0_0_:hover {TEXT-DECORATION: none;};
+a.menu0_0_:active {TEXT-DECORATION: none;};
+table.tb1_0_{FONT-SIZE:9pt;border:0;}
+span.s1_0_{line-height: 160%;font-family: "Microsoft YaHei";font-size: 16px;text-decoration: none;color: #00993e;padding-bottom: 15px;border-bottom: 1px solid #1fa14d;}
+span.s2_0_{height: 40px;line-height: 40px;padding-left: 20px;padding-right: 20px;font-size: 16px;color: #00993f;}
+span.s10_0_{line-height: 160%;font-family: "Microsoft YaHei";color: #4a4a4a;font-size: 16px;text-decoration: none;padding-bottom: 15px;}
+span.s20_0_{height: 40px;line-height: 40px;padding-left: 20px;padding-right: 20px;font-size: 16px;color: #4a4a4a;}
+</style>
+<SCRIPT language="javascript"> 
+ var showfix_0_ = 1;
+ var isvertical_0_ = false;
+</SCRIPT>
+<script language="javascript" src="/system/resource/js/menu/text.js"></script>
+<TABLE id="t1_0_" cellSpacing="0" cellPadding="0" border="0" height="0" width="0"><TR><TD valign="center"></TD><TD valign="middle" height="0" width="0" nowrap class="b1_0_" align="center" id="a_0_1015" onmouseover="tshowLayers('1015','b2_0_', '_0_')" onmouseout="thideLayers('1015','b1_0_', '_0_','false','true')"><a class="menu0_0_" href="index.htm"><span class="currentfontStyle162038">&nbsp;首页&nbsp;</span></a></TD><TD valign="center"></TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1161" onmouseover="tshowLayers('1161','b2_0_', '_0_')" onmouseout="thideLayers('1161','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="xygk.htm"><span class="fontstyle162038">&nbsp;学院概况&nbsp;</span></a></TD><TD valign="center"></TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1186" onmouseover="tshowLayers('1186','b2_0_', '_0_')" onmouseout="thideLayers('1186','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="bkjy.htm"><span class="fontstyle162038">&nbsp;本科教育&nbsp;</span></a></TD><TD valign="center"></TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1187" onmouseover="tshowLayers('1187','b2_0_', '_0_')" onmouseout="thideLayers('1187','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="ssjy.htm"><span class="fontstyle162038">&nbsp;硕士教育&nbsp;</span></a></TD><TD valign="center"></TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1188" onmouseover="tshowLayers('1188','b2_0_', '_0_')" onmouseout="thideLayers('1188','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="kjyj.htm"><span class="fontstyle162038">&nbsp;科教研究&nbsp;</span></a></TD><TD valign="center"></TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1162" onmouseover="tshowLayers('1162','b2_0_', '_0_')" onmouseout="thideLayers('1162','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="xsgz.jsp?urltype=tree.TreeTempUrl&wbtreeid=1162"><span class="fontstyle162038">&nbsp;学生工作&nbsp;</span></a></TD><TD valign="center"></TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1189" onmouseover="tshowLayers('1189','b2_0_', '_0_')" onmouseout="thideLayers('1189','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="gjjl.htm"><span class="fontstyle162038">&nbsp;国际交流&nbsp;</span></a></TD><TD valign="center"></TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1190" onmouseover="tshowLayers('1190','b2_0_', '_0_')" onmouseout="thideLayers('1190','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="zpzs.jsp?urltype=tree.TreeTempUrl&wbtreeid=1190"><span class="fontstyle162038">&nbsp;作品展示&nbsp;</span></a></TD><TD valign="center"></TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1166" onmouseover="tshowLayers('1166','b2_0_', '_0_')" onmouseout="thideLayers('1166','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="djzl.jsp?urltype=tree.TreeTempUrl&wbtreeid=1166"><span class="fontstyle162038">&nbsp;党建专栏&nbsp;</span></a></TD><TD valign="center"></TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1321" onmouseover="tshowLayers('1321','b2_0_', '_0_')" onmouseout="thideLayers('1321','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1321"><span class="fontstyle162038">&nbsp;常用下载&nbsp;</span></a></TD><TD valign="center"></TD><TD valign="middle" width="0" nowrap class="b1_0_" align="center" id="a_0_1341" onmouseover="tshowLayers('1341','b2_0_', '_0_')" onmouseout="thideLayers('1341','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="ssjy.jsp?urltype=tree.TreeTempUrl&wbtreeid=1341"><span class="fontstyle162038">&nbsp;EngLish&nbsp;</span></a></TD></TR></TR><TR><td align="left" nowrap></td><td></td><td align="left" nowrap><DIV class="main_0_" id="layer_0_1161" onmouseover="tshownull('1161','b2_0_', '_0_')" onmouseout="thideLayers('1161','b1_0_', '_0_','true')" style="z-index:99999;display: none; POSITION: absolute;"><TABLE align="center" class="tb1_0_" cellSpacing="0" cellPadding="0" border="0"><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_0_', '_0_');" onmouseout="TOUT(this,'b3_0_', '_0_');" class="b3_0_">
+<A class="menu0_0_" href="xygk/xyjj.htm"><span class="ejfontstyle162038">&nbsp;学院简介&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_0_', '_0_');" onmouseout="TOUT(this,'b3_0_', '_0_');" class="b3_0_">
+<A class="menu0_0_" href="xygk/ldbz.htm"><span class="ejfontstyle162038">&nbsp;领导班子&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_0_', '_0_');" onmouseout="TOUT(this,'b3_0_', '_0_');" class="b3_0_">
+<A class="menu0_0_" href="xygk/jgsz.htm"><span class="ejfontstyle162038">&nbsp;机构设置&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_0_', '_0_');" onmouseout="TOUT(this,'b3_0_', '_0_');" class="b3_0_">
+<A class="menu0_0_" href="gwzz_list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1331"><span class="ejfontstyle162038">&nbsp;岗位职责&nbsp;</span></a></TD></tr></table></div></td><td></td><td align="left" nowrap><DIV class="main_0_" id="layer_0_1186" onmouseover="tshownull('1186','b2_0_', '_0_')" onmouseout="thideLayers('1186','b1_0_', '_0_','true')" style="z-index:99999;display: none; POSITION: absolute;"><TABLE align="center" class="tb1_0_" cellSpacing="0" cellPadding="0" border="0"><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_0_', '_0_');" onmouseout="TOUT(this,'b3_0_', '_0_');" class="b3_0_">
+<A class="menu0_0_" href="bkjy/zyjs.htm"><span class="ejfontstyle162038">&nbsp;专业介绍&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_0_', '_0_');" onmouseout="TOUT(this,'b3_0_', '_0_');" class="b3_0_">
+<A class="menu0_0_" href="bkjy/szdw.htm"><span class="ejfontstyle162038">&nbsp;师资队伍&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_0_', '_0_');" onmouseout="TOUT(this,'b3_0_', '_0_');" class="b3_0_">
+<A class="menu0_0_" href="bkjy/jxyj.htm"><span class="ejfontstyle162038">&nbsp;教学研究&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_0_', '_0_');" onmouseout="TOUT(this,'b3_0_', '_0_');" class="b3_0_">
+<A class="menu0_0_" href="bkjy.jsp?urltype=tree.TreeTempUrl&wbtreeid=1255"><span class="ejfontstyle162038">&nbsp;实践基地&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_0_', '_0_');" onmouseout="TOUT(this,'b3_0_', '_0_');" class="b3_0_">
+<A class="menu0_0_" href="bkjy/gzsjs.htm"><span class="ejfontstyle162038">&nbsp;工作室介绍&nbsp;</span></a></TD></tr></table></div></td><td></td><td align="left" nowrap><DIV class="main_0_" id="layer_0_1187" onmouseover="tshownull('1187','b2_0_', '_0_')" onmouseout="thideLayers('1187','b1_0_', '_0_','true')" style="z-index:99999;display: none; POSITION: absolute;"><TABLE align="center" class="tb1_0_" cellSpacing="0" cellPadding="0" border="0"><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_0_', '_0_');" onmouseout="TOUT(this,'b3_0_', '_0_');" class="b3_0_">
+<A class="menu0_0_" href="ssjy/xsss.htm"><span class="ejfontstyle162038">&nbsp;学术硕士&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_0_', '_0_');" onmouseout="TOUT(this,'b3_0_', '_0_');" class="b3_0_">
+<A class="menu0_0_" href="ssjy/zyss.htm"><span class="ejfontstyle162038">&nbsp;专业硕士&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_0_', '_0_');" onmouseout="TOUT(this,'b3_0_', '_0_');" class="b3_0_">
+<A class="menu0_0_" href="ssjy/dsdw.htm"><span class="ejfontstyle162038">&nbsp;导师队伍&nbsp;</span></a></TD></tr></table></div></td><td></td><td align="left" nowrap><DIV class="main_0_" id="layer_0_1188" onmouseover="tshownull('1188','b2_0_', '_0_')" onmouseout="thideLayers('1188','b1_0_', '_0_','true')" style="z-index:99999;display: none; POSITION: absolute;"><TABLE align="center" class="tb1_0_" cellSpacing="0" cellPadding="0" border="0"><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_0_', '_0_');" onmouseout="TOUT(this,'b3_0_', '_0_');" class="b3_0_">
+<A class="menu0_0_" href="kjyj/jxpt.htm"><span class="ejfontstyle162038">&nbsp;教学平台&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_0_', '_0_');" onmouseout="TOUT(this,'b3_0_', '_0_');" class="b3_0_">
+<A class="menu0_0_" href="kjyj/kypt.htm"><span class="ejfontstyle162038">&nbsp;科研平台&nbsp;</span></a></TD></tr><tr><TD height="0" nowrap align="left" id="a_0_1203" onmouseover="tshow('1203','b4_0_', this, '_0_')" onmouseout="thideLayers('1203','b3_0_', '_0_')" class="b3_0_"> <a class="menu0_0_" href="kjyj/cgjs.htm"><span class="ejfontstyle162038">&nbsp;成果介绍&nbsp;</span><span></span></a></TD><td height="0" nowrap width="0" valign="top"><DIV class="main_0_" id="layer_0_1203" onmouseover="tshownull('1203','b4_0_', '_0_')" onmouseout="thideLayers('1203','b3_0_', '_0_')" style="z-index:99999;visibility: hidden; POSITION: absolute;"><TABLE align="center" class="tb1_0_" cellSpacing="0" cellPadding="0" border="0"><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_0_', '_0_');" onmouseout="TOUT(this,'b3_0_', '_0_');" class="b3_0_">
+<A class="menu0_0_" href="kjyj/cgjs/jxcg.htm"><span class="ejfontstyle162038">&nbsp;教学成果&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_0_', '_0_');" onmouseout="TOUT(this,'b3_0_', '_0_');" class="b3_0_">
+<A class="menu0_0_" href="kjyj/cgjs/kycg.htm"><span class="ejfontstyle162038">&nbsp;科研成果&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_0_', '_0_');" onmouseout="TOUT(this,'b3_0_', '_0_');" class="b3_0_">
+<A class="menu0_0_" href="kjyj/cgjs/zzlw.htm"><span class="ejfontstyle162038">&nbsp;著作论文&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_0_', '_0_');" onmouseout="TOUT(this,'b3_0_', '_0_');" class="b3_0_">
+<A class="menu0_0_" href="kjyj/cgjs/zlcg.htm"><span class="ejfontstyle162038">&nbsp;专利成果&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_0_', '_0_');" onmouseout="TOUT(this,'b3_0_', '_0_');" class="b3_0_">
+<A class="menu0_0_" href="kjyj/cgjs/kyjl.htm"><span class="ejfontstyle162038">&nbsp;科研奖励&nbsp;</span></a></TD></tr></table></div></td></tr></table></div></td><td></td><td align="left" nowrap><DIV class="main_0_" id="layer_0_1162" onmouseover="tshownull('1162','b2_0_', '_0_')" onmouseout="thideLayers('1162','b1_0_', '_0_','true')" style="z-index:99999;display: none; POSITION: absolute;"><TABLE align="center" class="tb1_0_" cellSpacing="0" cellPadding="0" border="0"><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_0_', '_0_');" onmouseout="TOUT(this,'b3_0_', '_0_');" class="b3_0_">
+<A class="menu0_0_" href="xsgz.jsp?urltype=tree.TreeTempUrl&wbtreeid=1209"><span class="ejfontstyle162038">&nbsp;团学工作&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_0_', '_0_');" onmouseout="TOUT(this,'b3_0_', '_0_');" class="b3_0_">
+<A class="menu0_0_" href="xsgz.jsp?urltype=tree.TreeTempUrl&wbtreeid=1210"><span class="ejfontstyle162038">&nbsp;社团活动&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_0_', '_0_');" onmouseout="TOUT(this,'b3_0_', '_0_');" class="b3_0_">
+<A class="menu0_0_" href="xsgz.jsp?urltype=tree.TreeTempUrl&wbtreeid=1211"><span class="ejfontstyle162038">&nbsp;学子风采&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_0_', '_0_');" onmouseout="TOUT(this,'b3_0_', '_0_');" class="b3_0_">
+<A class="menu0_0_" href="xsgz.jsp?urltype=tree.TreeTempUrl&wbtreeid=1212"><span class="ejfontstyle162038">&nbsp;奖学助贷&nbsp;</span></a></TD></tr></table></div></td><td></td><td align="left" nowrap><DIV class="main_0_" id="layer_0_1189" onmouseover="tshownull('1189','b2_0_', '_0_')" onmouseout="thideLayers('1189','b1_0_', '_0_','true')" style="z-index:99999;display: none; POSITION: absolute;"><TABLE align="center" class="tb1_0_" cellSpacing="0" cellPadding="0" border="0"><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_0_', '_0_');" onmouseout="TOUT(this,'b3_0_', '_0_');" class="b3_0_">
+<A class="menu0_0_" href="gjjl/hzgx.htm"><span class="ejfontstyle162038">&nbsp;合作高校&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_0_', '_0_');" onmouseout="TOUT(this,'b3_0_', '_0_');" class="b3_0_">
+<A class="menu0_0_" href="gjjl.jsp?urltype=tree.TreeTempUrl&wbtreeid=1262"><span class="ejfontstyle162038">&nbsp;留学项目&nbsp;</span></a></TD></tr></table></div></td><td></td><td align="left" nowrap><DIV class="main_0_" id="layer_0_1190" onmouseover="tshownull('1190','b2_0_', '_0_')" onmouseout="thideLayers('1190','b1_0_', '_0_','true')" style="z-index:99999;display: none; POSITION: absolute;"><TABLE align="center" class="tb1_0_" cellSpacing="0" cellPadding="0" border="0"><tr><TD height="0" nowrap align="left" id="a_0_1263" onmouseover="tshow('1263','b4_0_', this, '_0_')" onmouseout="thideLayers('1263','b3_0_', '_0_')" class="b3_0_"> <a class="menu0_0_" href="zpzs.jsp?urltype=tree.TreeTempUrl&wbtreeid=1263"><span class="ejfontstyle162038">&nbsp;优秀毕设&nbsp;</span><span></span></a></TD><td height="0" nowrap width="0" valign="top"><DIV class="main_0_" id="layer_0_1263" onmouseover="tshownull('1263','b4_0_', '_0_')" onmouseout="thideLayers('1263','b3_0_', '_0_')" style="z-index:99999;visibility: hidden; POSITION: absolute;"><TABLE align="center" class="tb1_0_" cellSpacing="0" cellPadding="0" border="0"><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_0_', '_0_');" onmouseout="TOUT(this,'b3_0_', '_0_');" class="b3_0_">
+<A class="menu0_0_" href="zpzs.jsp?urltype=tree.TreeTempUrl&wbtreeid=1301"><span class="ejfontstyle162038">&nbsp;环境设计&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_0_', '_0_');" onmouseout="TOUT(this,'b3_0_', '_0_');" class="b3_0_">
+<A class="menu0_0_" href="zpzs.jsp?urltype=tree.TreeTempUrl&wbtreeid=1302"><span class="ejfontstyle162038">&nbsp;动画&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_0_', '_0_');" onmouseout="TOUT(this,'b3_0_', '_0_');" class="b3_0_">
+<A class="menu0_0_" href="zpzs.jsp?urltype=tree.TreeTempUrl&wbtreeid=1303"><span class="ejfontstyle162038">&nbsp;产品设计&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_0_', '_0_');" onmouseout="TOUT(this,'b3_0_', '_0_');" class="b3_0_">
+<A class="menu0_0_" href="zpzs.jsp?urltype=tree.TreeTempUrl&wbtreeid=1304"><span class="ejfontstyle162038">&nbsp;视觉传达设计&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_0_', '_0_');" onmouseout="TOUT(this,'b3_0_', '_0_');" class="b3_0_">
+<A class="menu0_0_" href="zpzs.jsp?urltype=tree.TreeTempUrl&wbtreeid=1305"><span class="ejfontstyle162038">&nbsp;服装与服饰设计&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_0_', '_0_');" onmouseout="TOUT(this,'b3_0_', '_0_');" class="b3_0_">
+<A class="menu0_0_" href="zpzs.jsp?urltype=tree.TreeTempUrl&wbtreeid=1306"><span class="ejfontstyle162038">&nbsp;书法学&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_0_', '_0_');" onmouseout="TOUT(this,'b3_0_', '_0_');" class="b3_0_">
+<A class="menu0_0_" href="zpzs.jsp?urltype=tree.TreeTempUrl&wbtreeid=1307"><span class="ejfontstyle162038">&nbsp;数字媒体技术&nbsp;</span></a></TD></tr></table></div></td></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_0_', '_0_');" onmouseout="TOUT(this,'b3_0_', '_0_');" class="b3_0_">
+<A class="menu0_0_" href="hjzp.jsp?urltype=tree.TreeTempUrl&wbtreeid=1264"><span class="ejfontstyle162038">&nbsp;获奖作品&nbsp;</span></a></TD></tr></table></div></td><td></td><td align="left" nowrap><DIV class="main_0_" id="layer_0_1166" onmouseover="tshownull('1166','b2_0_', '_0_')" onmouseout="thideLayers('1166','b1_0_', '_0_','true')" style="z-index:99999;display: none; POSITION: absolute;"><TABLE align="center" class="tb1_0_" cellSpacing="0" cellPadding="0" border="0"><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_0_', '_0_');" onmouseout="TOUT(this,'b3_0_', '_0_');" class="b3_0_">
+<A class="menu0_0_" href="djzl.jsp?urltype=tree.TreeTempUrl&wbtreeid=1265"><span class="ejfontstyle162038">&nbsp;规章制度&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_0_', '_0_');" onmouseout="TOUT(this,'b3_0_', '_0_');" class="b3_0_">
+<A class="menu0_0_" href="djzl.jsp?urltype=tree.TreeTempUrl&wbtreeid=1266"><span class="ejfontstyle162038">&nbsp;理论学习&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_0_', '_0_');" onmouseout="TOUT(this,'b3_0_', '_0_');" class="b3_0_">
+<A class="menu0_0_" href="djzl.jsp?urltype=tree.TreeTempUrl&wbtreeid=1267"><span class="ejfontstyle162038">&nbsp;支部风采&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_0_', '_0_');" onmouseout="TOUT(this,'b3_0_', '_0_');" class="b3_0_">
+<A class="menu0_0_" href="djzl.jsp?urltype=tree.TreeTempUrl&wbtreeid=1268"><span class="ejfontstyle162038">&nbsp;工会活动&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_0_', '_0_');" onmouseout="TOUT(this,'b3_0_', '_0_');" class="b3_0_">
+<A class="menu0_0_" href="djzl.jsp?urltype=tree.TreeTempUrl&wbtreeid=1271"><span class="ejfontstyle162038">&nbsp;专题活动&nbsp;</span></a></TD></tr></table></div></td><td></td><td align="left" nowrap></td><td></td><td align="left" nowrap></td><td></td></TR></table><!--#endeditable--></td>
+         
+          <td width="140"><!--#begineditable name="全文检索" action="webber.wbst.com.SpaceStaticAction" layout="/system/_component/news/newslucenesearch.jsp" tpltype="0" contype="" clone="" viewid="162064" contentviewid="" tagname="全文检索"--><script language="javascript" src="/system/resource/js/base64.js"></script> 
+<script language="javascript" src="/system/resource/js/formfunc.js"></script> 
+<script type="text/javascript">
+function checksearch162064(type){
+        var keyword = document.getElementById('showkeycode162064').value;
+        if(keyword==null||keyword==""){
+            alert("请输入你要检索的内容！");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkeyword162064").value = Simplized(keyword );
+        }else
+        {
+        	document.getElementById("lucenenewssearchkeyword162064").value = keyword;            
+        }
+        document.getElementById('_lucenesearchtype162064').value=1;
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkeyword162064").value = base64.encode(document.getElementById("lucenenewssearchkeyword162064").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode162064"));
+        return true;
+    } 
+
+</script>
+<form action="search.jsp?wbtreeid=1015" method="post" id="searchform162064" name="searchform162064" onsubmit="return checksearch162064(1)" style="display: inline">
+  <input type="hidden" id="lucenenewssearchkeyword162064" name="lucenenewssearchkeyword" value="">
+  <input type="hidden" id="_lucenesearchtype162064" name="_lucenesearchtype" value="">
+  <input type="hidden" id="searchScope" name="searchScope" value="0">
+ <table class="searchstyle162064" width="100%" align="center" border="0" cellspacing="0" cellpadding="1">
+  <tr>
+   <td><span></span></td><td align="right" width="1%" nowrap><input name="showkeycode" id="showkeycode162064" class="querystyle162064"></td>
+                 <td align="left">
+                
+    <input type="image" src="images/images/bg_search.png" align="absmiddle" style="cursor: hand">
+    
+   </td>
+  </tr>
+ </table>
+</form><!--#endeditable--></td>
+                <tbody>
+        <tr>
+          <td align="right" valign="top" background="images/images/bg_left.png" style="background-repeat:no-repeat;background-position:right 28px;"></td>
+          <td width="1200" height="365"></td>
+          <td align="left" valign="top" background="images/images/bg_right.png" style="background-repeat:no-repeat;background-position:left top;"></td>        
+        <tr>      
+      </tbody>
+    </table>
+    <table border="0" cellspacing="0" cellpadding="0" width="1200" align="center" valign="center" style="margin:0 auto;margin-top:-410px;">
+      <tbody>
+        <tr>
+          <td width="1200" height="340" valign="top" align="center">
+            <a href="#">
+              <!--#begineditable name="首页banner" action="webber.wbst.com.image.ColumnImage" layout="/system/_component/columnimage/bannerchangeimage.jsp" tpltype="0" contype="image" clone="" viewid="162045" contentviewid="" tagname="首页banner"--><style type="text/css">
+ul,li{
+    padding:0;
+    margin:0;
+    list-style:none;}
+#flashBoxu_u2_{
+    width:1200px;
+    height:340px;
+    border:0px solid #EEE;
+    position:relative;
+    margin-left: auto;
+    margin-right: auto;}
+#flashBoxu_u2_ img{
+    /*初始不要显示*/
+    display:none;
+    /*用边框来实现空位，因为margin和paading有时会引起些麻烦*/
+    border:0px solid #FFF;}
+#flashBoxu_u2_ ul{
+    position:absolute;
+    right:7px;
+    bottom:3px;
+    font:9px tahoma;}
+#flashBoxu_u2_ ul li{
+    display:block;
+    float:left;
+    width:12px;
+    height:12px;
+    line-height:12px;
+    margin-right:3px;
+    border:0px solid #999;
+    background:#F0F0F0;
+    text-align:center;
+    cursor:pointer;}
+#flashBoxu_u2_ ul li.hover{
+    border-color:red;
+    background:#FFE1E1;
+    color:red;}
+</style>
+<script type="text/javascript">
+function flashBoxCtrl(o){
+    this.obj=document.getElementById(o);
+    //这个私有方法虽然写了，但暂时没用到
+    function addListener(ele,eventName,functionBody){
+        if (ele.attachEvent){
+            ele.attachEvent("on"+eventName, functionBody);
+        }else if (ele.addEventListener){
+            ele.addEventListener("on"+eventName,functionBody, false);
+        }else{
+            return false;
+        }
+    }
+    //初始化
+    this.init=function(){
+        var objImg=this.obj.getElementsByTagName("img");
+        var tagLength=objImg.length;
+        if (tagLength>0){
+            var oUl=document.createElement("ul");
+            oUl.setAttribute("id",o+"numTag");
+            for (var i=0;i<tagLength;i++){
+                var oLi=oUl.appendChild(document.createElement("li"));
+                if (i==0){
+                    oLi.setAttribute("class","hover"); //初始化时把第一个设置为高亮
+                    oLi.setAttribute("className","hover");
+                }
+                //设置标签的数字
+                oLi.appendChild(document.createTextNode((i+1)));
+            }
+            this.obj.appendChild(oUl);
+            objImg[0].style.display="block";
+            //设置标签事件
+            var oTag=this.obj.getElementsByTagName("li");
+            for (var i=0;i<oTag.length;i++){
+                var flag = 0;
+                var temp = 0;
+                var timeout=null;
+                var step = function(){
+                    for (j=0;j<oTag.length;j++){
+                        oTag[j].className="";
+                        objImg[j].style.display="none";
+                    }
+                    this.className="hover";
+                    flag = flag>=oTag.length-1?0:flag+1;
+                    objImg[flag].style.display="block";
+                    oTag[flag].className = "hover";
+                    timeout = setTimeout(step,4000);
+                };
+                oTag[i].onmouseover=function(){
+                    for (j=0;j<oTag.length;j++){
+                        oTag[j].className="";
+                        objImg[j].style.display="none";
+                        temp = j;
+                    }
+                    this.className="hover";
+                    objImg[this.innerHTML-1].style.display="block";
+                    temp = this.innerHTML-1;
+                    flag = i;
+                    clearInterval(timeout);
+                }
+                oTag[i].onmouseout = function(){
+                    for (j=0;j<oTag.length;j++){
+                        oTag[j].className="";
+                        objImg[j].style.display="none";
+                    }
+                    flag = temp;
+                    objImg[temp].style.display="block";
+                    oTag[temp].className = "hover";
+                    timeout = setTimeout(step,4000);
+                }
+                if(i==0)
+                {
+                    timeout = setTimeout(step,4000);
+                }
+            }
+        }
+    };
+    //自动滚动的方法还没写
+    this.imgRoll=function(){};
+    //生成对象时自动加载init()方法以初始化对象
+    this.init();
+}
+</script>
+<table cellspacing="0" cellpadding="0" border="0"><tr><td><div id="flashBoxu_u2_"><img src="images/4.gif" border="0" width="1200" height="340" /><img src="images/2.gif" border="0" width="1200" height="340" /><img src="images/num20.jpg" border="0" width="1200" height="340" /><img src="images/num23.jpg" border="0" width="1200" height="340" /><img src="images/num22.jpg" border="0" width="1200" height="340" /><img src="images/num2.jpg" border="0" width="1200" height="340" /><img src="images/num3.jpg" border="0" width="1200" height="340" /><a href="images/banner3.png" target="_blank"><img src="images/num5.jpg" border="0" width="1200" height="340" /></a></div></td></tr></table><SCRIPT language="JavaScript">new flashBoxCtrl("flashBoxu_u2_");</SCRIPT><!--#endeditable-->
+            </a>
+          </td>          
+        </tr>
+      </tbody>
+    </table>
+    <table border="0" cellspacing="0" cellpadding="0" width="1200" align="center" style="margin:0 auto;">
+      <tbody>
+        <tr>
+          <td width="870" height="200" valign="top">
+            <table border="0" cellspacing="0" cellpadding="0" width="870">
+              <tr>
+                <td height="50" valign="bottom" align="center" colspan="2">
+                    <img src="images/images/line.png">
+                    <a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1168" target="_blank" style="color:#222;text-decoration:none;">学院新闻</a>
+                    <img src="images/images/line.png">
+                </td>                
+              </tr>
+              <tr>
+              <td height="20"></td>
+              </tr>
+              <tr>
+              <td width="535" height="285" valign="top" style="background:#fff;overflow:hidden;"><!--#begineditable name="学院公告" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/titlelist.jsp" tpltype="0" contype="news" clone="" viewid="162041" contentviewid="" tagname="学院公告"--><table class="winstyle162041" width="100%" cellspacing="3" cellpadding="0">
+  
+<tr><td align="center" valign="middle" width="0" nowrap><span class="leaderfont162041"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1168/2387.htm" class="c162041" title="【不忘初心、牢记使命】校党委书记张学洪到艺术与设计学院走访调研（图）" target="_blank">
+        【不忘初心、牢记使命】校党委书记张学洪到艺术与设计学...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle162041" width="1%" nowrap>2019/11/20</td></tr>  
+<tr><td align="center" valign="middle" width="0" nowrap><span class="leaderfont162041"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1168/2564.htm" class="c162041" title="艺术与设计学院开展首场研究生导师团队线上学术沙龙" target="_blank">
+        艺术与设计学院开展首场研究生导师团队线上学术沙龙
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle162041" width="1%" nowrap>2020/04/19</td></tr>  
+<tr><td align="center" valign="middle" width="0" nowrap><span class="leaderfont162041"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1168/2562.htm" class="c162041" title="我校创新创业展厅设计方案在国际设计竞赛中荣获最高奖" target="_blank">
+        我校创新创业展厅设计方案在国际设计竞赛中荣获最高奖
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle162041" width="1%" nowrap>2020/04/18</td></tr>  
+<tr><td align="center" valign="middle" width="0" nowrap><span class="leaderfont162041"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1168/2561.htm" class="c162041" title="艺术与设计学院邀请湖南大学国家教学名师何人可教授开展线上讲座" target="_blank">
+        艺术与设计学院邀请湖南大学国家教学名师何人可教授开展...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle162041" width="1%" nowrap>2020/04/16</td></tr>  
+<tr><td align="center" valign="middle" width="0" nowrap><span class="leaderfont162041"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1168/2554.htm" class="c162041" title="“线上云点名” ——艺术与设计学院开展“自律、自护”安全教育主题班会" target="_blank">
+        “线上云点名” ——艺术与设计学院开展“自律、自护”安...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle162041" width="1%" nowrap>2020/04/14</td></tr>  
+<tr><td align="center" valign="middle" width="0" nowrap><span class="leaderfont162041"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1168/2552.htm" class="c162041" title="艺术与设计学院培树立志意识之 ——“保卫家园，入伍光荣”主题班会" target="_blank">
+        艺术与设计学院培树立志意识之 ——“保卫家园，入伍光荣...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle162041" width="1%" nowrap>2020/04/14</td></tr>  
+<tr><td align="center" valign="middle" width="0" nowrap><span class="leaderfont162041"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1168/2551.htm" class="c162041" title="满园已春色，待盼你归来--艺术与设计学院致毕业班同学的一封信" target="_blank">
+        满园已春色，待盼你归来--艺术与设计学院致毕业班同学的...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle162041" width="1%" nowrap>2020/04/13</td></tr>  
+<tr><td align="center" valign="middle" width="0" nowrap><span class="leaderfont162041"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1168/2547.htm" class="c162041" title="“线上云点名”--艺术与设计学院开展“立志、爱国”主题班会" target="_blank">
+        “线上云点名”--艺术与设计学院开展“立志、爱国”主题...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle162041" width="1%" nowrap>2020/04/10</td></tr>
+</table><!--#endeditable-->
+              
+              <td width="255" height="285" valign="top" style="background:#fff;overflow:hidden;"><!--#begineditable name="学院公告头条" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/imagenews.jsp" tpltype="0" contype="news" clone="" viewid="162557" contentviewid="" tagname="学院公告头条"-->
+
+
+<script language="javascript" src="/system/resource/js/vsbpreloadimg.js"></script>
+<SCRIPT language="JavaScript">
+<!--
+ var u_u4_imgs = new VsbPreloadImgArray();
+ //初始化图片
+ function u_u4_init_img()
+ {
+ 
+  u_u4_imgs.addImg("\/__local\/D\/75\/BD\/B3240F293AFC92AB4C91BA8E720_BCD8AC53_28B86.jpg", "u_u4_img0", u_u4_onimgload);
+ 
+ }
+ function u_u4_onimgload(img, imgid)
+ {
+  img.showImg(document.getElementById(imgid), 260, 155, true, true);
+ }
+//-->
+</SCRIPT>
+<table class="winstyle162557" border="0">
+    <tr><td valign="top">
+                    <table cellpadding="0" cellspacing="0" align="center" bgcolor="#f5f5f5" style="border:0px solid black;"><tr><td width="260" height="155" valign="middle" align="center"><a border="0" href="info/1168/2562.htm" target="_blank"><img id="u_u4_img0" border="0" src="/system/resource/images/loading.gif"></a></td></tr></table>
+                            <div align="left">
+                                <a href="info/1168/2562.htm" target="_blank"><span class="titlestyle162557" title="我校创新创业展厅设计方案在国际设计竞赛中荣获最高奖">
+                              我校创新创业展厅设计方案在国际设计竞赛...</span></a> 
+                              <span> </span>
+                                  
+                              </div>
+                                      
+                    <div class="summarystyle162557">
+                            在2019－2020第四届日本亚细亚产业设计大赛中，我校创新创业展厅设计方案荣获最高奖－－金奖。该项赛事由国际著名建筑大师、第十七届普利兹克奖获得者...<a border="0" href="info/1168/2562.htm" target="_blank"><span class="xiangxistyle162557">[详细]</span></a>
+                    </div>
+                    
+            </td>
+                    </tr>
+</table><SCRIPT language="JavaScript">u_u4_init_img();</SCRIPT><!--#endeditable--></td>
+              </tr>
+              <tr>
+              <td colspan="2" valign="top" height="50" style="background:#fff;overflow:hidden;">
+              <a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1168" target="_blank" style="display:block;width:95px;height:30px;color:#fff;text-align:center;line-height:30px;text-decoration:none;background:url(images/images/bg_a2.png);">更多</a>
+              </td> 
+              </td>
+              </tr>
+            </table>
+          </td>
+          <td width="20"></td>
+          <td width="310" height="200" valign="top">
+            <table border="0" cellspacing="0" cellpadding="0" width="310">
+              <tr>
+                <td height="50" valign="bottom" align="center">
+                    <img src="images/images/line.png">
+                    <a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1167" target="_blank" style="color:#222;text-decoration:none;">通知公告</a>
+                    <img src="images/images/line.png">
+                </td>                
+              </tr>
+               <tr>
+              <td height="20"></td>
+              </tr>
+              <tr>
+              <td height="315" valign="top" style="background:#fff;overflow:hidden;padding:15px;"><!--#begineditable name="标题列表" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/tpltitlelist.jsp" tpltype="1" contype="news" clone="" viewid="162570" contentviewid="" tagname="标题列表"--><script language="javascript" src="/system/resource/js/dynclicks.js"></script><div class="col-wrap">
+<a class="title-link" href="info/1167/2549.htm" target="_blank">关于湖南大学何人可教授为我校讲学的通知</a>
+<p class="time-p"><span class="time-span"><img src="images/images/calender2.png" style="margin-right:5px;">2020-04-13 11:42:01</span></p>
+</div>
+<div class="col-wrap">
+<a class="title-link" href="info/1167/2511.htm" target="_blank">“六十”校庆|桂电六十周年校庆标识邀你来设计</a>
+<p class="time-p"><span class="time-span"><img src="images/images/calender2.png" style="margin-right:5px;">2020-03-13 10:59:35</span></p>
+</div>
+<div class="col-wrap">
+<a class="title-link" href="info/1167/2495.htm" target="_blank">桂林电子科技大学新冠肺炎疫情防控工作领导小组通告（第6号）</a>
+<p class="time-p"><span class="time-span"><img src="images/images/calender2.png" style="margin-right:5px;">2020-03-01 23:37:35</span></p>
+</div>
+<script>_showDynClickBatch(['dynclicks_u5_2549','dynclicks_u5_2511','dynclicks_u5_2495'],[2549,2511,2495],"wbnews", 1411889458)</script>
+<!--#endeditable-->
+              </td>
+              </tr>
+              <tr>
+              <td height="50" valign="top" style="background:#fff;overflow:hidden;">
+              <a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1167" target="_blank" style="display:block;width:95px;height:30px;color:#fff;text-align:center;line-height:30px;text-decoration:none;background:url(images/images/bg_a.png);float:right;">更多</a>
+              </td>
+              </td> 
+              </td>
+              </tr>
+            </table>
+          </td>
+          <!--热点关注-----------------------------------------------------------------------------------------------
+          <td width="400" height="200" valign="top">          
+          <table border="0" cellspacing="0" cellpadding="0" width="400">
+              <tr>
+                <td height="50" valign="bottom" align="center">
+                    <img src="/images/images/line.png">
+                    <a href="/system/go.jsp?treeid=1191&apptype=treetemp&urltype=tree.TreeTempUrl" target="_blank" style="color:#222;text-decoration:none;">学院通知<a>
+                    <img src="/images/images/line.png">
+                </td>                
+              </tr>
+              <tr>
+              <td height="20">        
+              </td>
+              </tr>
+              <tr>
+              <td height="150px" valign="top" style="background:#fff;overflow:hidden;">
+               <div class="c_tab_head">
+                <a class="c_head_item c_active" href="javascript:void(0)"><span>教务</span></a>
+                <a class="c_head_item" href="javascript:void(0)"><span class="c_border">科研</span></a>
+                <a class="c_head_item" href="javascript:void(0)"><span>学工</span></a>
+            </div>
+            <div class="c_tab_body">
+                <div class="c_body_item">
+                <a href="/system/go.jsp?treeid=1192&apptype=treetemp&urltype=tree.TreeTempUrl" target="_blank" style="display:block;width:95px;height:30px;color:#fff;text-align:center;line-height:30px;text-decoration:none;background:url(/images/images/bg_a.png);float:right;">更多</a></div>
+                <div class="c_body_item" style="display:none">
+                <a href="/system/go.jsp?treeid=1193&apptype=treetemp&urltype=tree.TreeTempUrl" target="_blank" style="display:block;width:95px;height:30px;color:#fff;text-align:center;line-height:30px;text-decoration:none;background:url(/images/images/bg_a.png);float:right;">更多</a>
+                </div>
+                <div class="c_body_item" style="display:none">
+                <a href="/system/go.jsp?treeid=1194&apptype=treetemp&urltype=tree.TreeTempUrl" target="_blank" style="display:block;width:95px;height:30px;color:#fff;text-align:center;line-height:30px;text-decoration:none;background:url(/images/images/bg_a.png);float:right;">更多</a>
+                </div>
+            </div>              
+         </td>
+              </tr>
+            </table>
+            -->
+          <!--热点关注-----------------------------------------------------------------------------------------------
+            <table border="0" cellspacing="0" cellpadding="0" width="335">
+              <tr>
+                <td height="50" valign="bottom" align="center">
+                    <img src="/images/images/line.png">
+                    <span>热点关注<span>
+                    <img src="/images/images/line.png">
+                </td>                
+              </tr>
+              <tr>
+              <td height="20"></td>
+              </tr>
+              <tr>
+              <td height="50" valign="top" style="background:#fff;"></td>
+              </tr>
+            </table>
+            -->
+            <!--友情链接-----------------------------------------------------------------------------------------------
+            <table border="0" cellspacing="0" cellpadding="0" width="335">
+              <tr>
+                <td height="50" valign="bottom" align="center">
+                    <img src="/images/images/line.png">
+                    <span>友情链接<span>
+                    <img src="/images/images/line.png">
+                </td>                
+              </tr>
+              <tr>
+              <td height="50" valign="top">
+              <a href="http://www.guet.edu.cn/" target="_blank" style="display:block;width:160px;height:58px;color:#fff;float:left;text-align:center;line-height:58px;text-decoration:none;margin-top:15px;margin-right:14px;background:#cf7b7b;">校主页</a>
+              <a href="http://szhxy.guet.edu.cn/qxgl/public/Login.aspx" target="_blank" style="display:block;width:160px;height:58px;color:#fff;float:left;text-align:center;line-height:58px;text-decoration:none;margin-top:15px;background:#7d8fcb;">数字化校园</a>
+              <a href="http://lib.guet.edu.cn/" target="_blank" style="display:block;width:160px;height:58px;color:#fff;float:left;text-align:center;line-height:58px;text-decoration:none;margin-top:15px;margin-right:14px;background:#f6993e;">图书馆</a>
+              <a href="http://utsc.guet.edu.cn/" target="_blank" style="display:block;width:160px;height:58px;color:#fff;float:left;text-align:center;line-height:58px;text-decoration:none;margin-top:15px;background:#4ab6a3;">本科教育</a>
+              </td>
+              </tr>
+            </table>            
+          </td>
+          -->
+         </tr>
+      </tbody>
+    </table>
+    <table border="0" cellspacing="0" cellpadding="0" width="1200" style="margin:0 auto;">
+      <tbody>
+        <tr>
+          <td width="260" height="50" valign="top" align="center">
+            <table border="0" cellspacing="0" cellpadding="0" width="260" style="margin:0 auto;margin-top:10px;">
+      <tbody>
+        <tr>
+          <td height="50" valign="bottom" align="center">
+            <img src="images/images/line.png">
+              <span>友情链接</span>
+            <img src="images/images/line.png">
+          </td>    
+        </tr> 
+        <tr>
+          <td height="50" valign="bottom" align="center"><!--#begineditable name="友情链接-上" action="webber.wbst.com.url.ColumnUrl" layout="/system/_component/columnurl/linkselect.jsp" tpltype="0" contype="url" clone="" viewid="162558" contentviewid="" tagname="友情链接-上"-->    
+    
+    
+    
+  
+
+    
+<script language="javascript">    
+<!--    
+    function doLinksu6(o)    
+    {    
+        var link=document.getElementsByName("su6")[0];    
+        var index=link.selectedIndex;    
+        if (index==-1 || index>=link.options.length)    
+        {    
+          return;    
+        }    
+        var value = link.options[index].value;    
+        var obj = document.getElementById("hu6");    
+        obj.href = value;
+        var wburlid =link.options[index].getAttribute("aa162558aa");
+        _addDynClicks('wburl',1411889458,wburlid)
+            
+                     obj.target = "_blank"
+                    
+         if(document.all){
+          obj.click();     
+        }         
+         else 
+        { 
+          window.open(value);
+         }
+       
+       if(o.selectedIndex != 0)    
+       {    
+           o.selectedIndex = 0;    
+       }    
+    }    
+-->    
+</script>  
+<table class="winstyle162558">    
+    <tr><td align="center">    
+            <span class="titlestyle162558"></span> <a id="hu6"></a>    
+            <select name="su6" class="selectstyle162558" onChange="doLinksu6(this)">    
+                <option value="">　　　--校内导航--</option>    
+                <option vsbhrefname="value" aa162558aa="28892" value="http://www.gliet.edu.cn/">校主页    
+                <option vsbhrefname="value" aa162558aa="28893" value="http://szhxy.guet.edu.cn/qxgl/public/Login.aspx?ReturnUrl=%2fqxgl%2fDefault.aspx">数字化校园    
+                <option vsbhrefname="value" aa162558aa="28894" value="http://gldz.cbpt.cnki.net/WKD/WebPublication/index.aspx?mid=GLDZ">学报    
+                <option vsbhrefname="value" aa162558aa="31289" value="http://dept1.guet.edu.cn/">机电工程学院    
+                <option vsbhrefname="value" aa162558aa="31290" value="http://www.guet.edu.cn/dept2/">信息与通信学院    
+                <option vsbhrefname="value" aa162558aa="31291" value="http://www.guet.edu.cn/dept3/index.htm">计算机与信息安全学院    
+                <option vsbhrefname="value" aa162558aa="31292" value="http://dept5.guet.edu.cn/">商学院    
+                <option vsbhrefname="value" aa162558aa="31293" value="http://www.guet.edu.cn/dept6/">外国语学院    
+                <option vsbhrefname="value" aa162558aa="31294" value="http://www.guet.edu.cn/dept7/index.htm">数学与计算机科学学院    
+                <option vsbhrefname="value" aa162558aa="31295" value="http://www.guet.edu.cn/dept8/">电子工程与自动化学院    
+                <option vsbhrefname="value" aa162558aa="31296" value="http://www.guet.edu.cn/dept9/">法学院    
+                <option vsbhrefname="value" aa162558aa="31297" value="http://www.guet.edu.cn/mks/">马克思主义学院    
+                <option vsbhrefname="value" aa162558aa="31298" value="http://www.guet.edu.cn/dept10/index.htm">材料科学与工程学院    
+                <option vsbhrefname="value" aa162558aa="31299" value="http://dpt12.guet.edu.cn/">生命与环境科学学院    
+                <option vsbhrefname="value" aa162558aa="31300" value="http://www.guet.edu.cn/jjxy/">建筑与交通工程学院    
+                <option vsbhrefname="value" aa162558aa="31301" value="http://cjy2.guet.edu.cn/">继续教育学院    
+                <option vsbhrefname="value" aa162558aa="31302" value="http://hyxy.guet.edu.cn/">海洋信息工程学院    
+                <option vsbhrefname="value" aa162558aa="31318" value="http://international.guet.edu.cn/">国际学院    
+                <option vsbhrefname="value" aa162558aa="31319" value="http://www.guet.edu.cn/jxsjb/">教学实践部    
+                <option vsbhrefname="value" aa162558aa="31320" value="http://deptty.guet.edu.cn/">体育部    
+                <option vsbhrefname="value" aa162558aa="31321" value="http://202.193.70.191/">图书馆    
+                <option vsbhrefname="value" aa162558aa="31322" value="http://www.guet.edu.cn/xjzx/">现代教育技术中心    
+                <option vsbhrefname="value" aa162558aa="31323" value="http://glgdzx.guet.edu.cn/">桂电中学    
+                <option vsbhrefname="value" aa162558aa="31324" value="http://www.guet.edu.cn/hospital/">校医院    
+                <option vsbhrefname="value" aa162558aa="31325" value="http://infosci.guet.edu.cn/sciencelab/">广西信息科学实验中心    
+                <option vsbhrefname="value" aa162558aa="31326" value="http://kjy.guet.edu.cn/">桂林电子科技大学科技园管理委员会    
+                <option vsbhrefname="value" aa162558aa="31327" value="http://kxrj.guet.edu.cn/">广西可信软件重点实验室    
+                <option vsbhrefname="value" aa162558aa="31328" value="http://cloud.guet.edu.cn/CMS/index.html">广西云安全与云服务工程技术研究中心    
+                <option vsbhrefname="value" aa162558aa="31329" value="http://zdjc.guet.edu.cn/">广西自动检测技术与仪器重点实验室    
+                <option vsbhrefname="value" aa162558aa="31330" value="http://gcis.guet.edu.cn/">广西密码学与信息安全重点实验室    
+                <option vsbhrefname="value" aa162558aa="31331" value="http://www.guet.edu.cn/gxits/">广西道路智能交通系统工程技术研究中心    
+                <option vsbhrefname="value" aa162558aa="31332" value="http://www.guet.edu.cn/gxits/">智能交通系统广西高校重点实验室    
+                </select>    
+        </td><tr></table><!--#endeditable--></td>    
+        </tr> 
+        <tr>
+          <td height="50" valign="bottom" align="center"><!--#begineditable name="友情链接-下" action="" layout="" tpltype="" contype="" clone="" viewid="162559" contentviewid="" tagname="友情链接-下"-->    
+    
+    
+    
+  
+
+    
+<script language="javascript">    
+<!--    
+    function doLinksu7(o)    
+    {    
+        var link=document.getElementsByName("su7")[0];    
+        var index=link.selectedIndex;    
+        if (index==-1 || index>=link.options.length)    
+        {    
+          return;    
+        }    
+        var value = link.options[index].value;    
+        var obj = document.getElementById("hu7");    
+        obj.href = value;
+        var wburlid =link.options[index].getAttribute("aa162559aa");
+        _addDynClicks('wburl',1411889458,wburlid)
+            
+                     obj.target = "_blank"
+                    
+         if(document.all){
+          obj.click();     
+        }         
+         else 
+        { 
+          window.open(value);
+         }
+       
+       if(o.selectedIndex != 0)    
+       {    
+           o.selectedIndex = 0;    
+       }    
+    }    
+-->    
+</script>  
+<table class="winstyle162559">    
+    <tr><td align="center">    
+            <span class="titlestyle162559"></span> <a id="hu7"></a>    
+            <select name="su7" class="selectstyle162559" onChange="doLinksu7(this)">    
+                <option value="">　　　--部、处级单位--</option>    
+                <option vsbhrefname="value" aa162559aa="28895" value="http://guetoa.guet.edu.cn/">党政办公室    
+                <option vsbhrefname="value" aa162559aa="28896" value="http://www.guet.edu.cn/jwjc/">纪检办公室&amp;监察室    
+                <option vsbhrefname="value" aa162559aa="28897" value="http://zzb.guet.cn/">组织部    
+                <option vsbhrefname="value" aa162559aa="31333" value="http://tzb.guet.edu.cn/">统战部    
+                <option vsbhrefname="value" aa162559aa="31334" value="http://www.guet.edu.cn/dangxuan/">宣传部    
+                <option vsbhrefname="value" aa162559aa="31335" value="http://xsgzc.guet.edu.cn/">学生工作处    
+                <option vsbhrefname="value" aa162559aa="31336" value="http://bmw.guet.edu.cn/">保密办公室    
+                <option vsbhrefname="value" aa162559aa="31337" value="http://gonghui.guet.edu.cn/">校工会    
+                <option vsbhrefname="value" aa162559aa="31338" value="http://tw.guet.edu.cn/">校团委    
+                <option vsbhrefname="value" aa162559aa="31339" value="http://rsc.guet.edu.cn/RSC/public/Default.aspx">人事处职改办    
+                <option vsbhrefname="value" aa162559aa="31340" value="http://utsc.guet.edu.cn/">教务处    
+                <option vsbhrefname="value" aa162559aa="31341" value="http://caiwuchu.guet.edu.cn/">财务处    
+                <option vsbhrefname="value" aa162559aa="31342" value="http://caiwuchu.guet.edu.cn/">招生办公室    
+                <option vsbhrefname="value" aa162559aa="31343" value="http://international.guet.edu.cn/">国际合作与交流处    
+                <option vsbhrefname="value" aa162559aa="31344" value="http://metc.guet.edu.cn/zhglc/">国有资产管理处    
+                <option vsbhrefname="value" aa162559aa="31345" value="http://hqc.guet.edu.cn/">后勤处    
+                <option vsbhrefname="value" aa162559aa="31346" value="http://jijian.guet.edu.cn/jijianchu/index.aspx">基建处    
+                <option vsbhrefname="value" aa162559aa="31347" value="http://xkb.guet.edu.cn/">学科建设办公室    
+                <option vsbhrefname="value" aa162559aa="31348" value="http://gra.guet.edu.cn/">研究生院    
+                <option vsbhrefname="value" aa162559aa="31349" value="http://ltc.guet.edu.cn/">离退休工作处    
+                <option vsbhrefname="value" aa162559aa="31350" value="http://www.guet.edu.cn/fzghc/">发展规划处    
+                </select>    
+        </td><tr></table><!--#endeditable--></td>    
+        </tr>         
+      </tbody>
+    </table>
+          </td> 
+           <td width="20" height="50" valign="top" align="center"></td>   
+          <td width="920" height="50" valign="top" align="center">
+          <table border="0" cellspacing="0" cellpadding="0" width="920" style="margin:0 auto;margin-top:10px;">
+      <tbody>
+        <tr>
+          <td height="50" valign="bottom" align="center" colspan="3">
+            <img src="images/images/line.png">
+              <a href="djzl.jsp?urltype=tree.TreeTempUrl&wbtreeid=1265" target="_blank" style="color:#222;text-decoration:none;">党建专栏</a>
+            <img src="images/images/line.png">
+          </td>    
+        </tr>  
+        <tr>
+          <td width="455" height="50" valign="top" align="center" style="padding-top:20px;"><!--#begineditable name="首页党建专栏-左" action="webber.wbst.com.image.ColumnImage" layout="/system/_component/columnimage/imagelist.jsp" tpltype="0" contype="image" clone="" viewid="162564" contentviewid="" tagname="首页党建专栏-左"-->
+
+
+
+
+
+<table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+    <td><img src="images/images/dangjian1.jpg" width="456" height="89" hspace="0" vspace="0" border="0" alt="社会主义核心价值观" title="社会主义核心价值观"></td>
+        </tr>
+        </table><!--#endeditable--></td>
+          <td width="10" height="50" valign="top" align="center"></td> 
+          <td width="455" height="50" valign="top" align="center" style="padding-top:20px;"><!--#begineditable name="首页党建专栏-右" action="" layout="" tpltype="" contype="" clone="" viewid="162565" contentviewid="" tagname="首页党建专栏-右"-->
+
+
+
+
+
+<table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+    <td><img src="images/images/dangjian2.jpg" width="456" height="89" hspace="0" vspace="0" border="0" alt="十九大精神" title="十九大精神"></td>
+        </tr>
+        </table><!--#endeditable--></td>     
+        </tr>        
+      </tbody>
+    </table>
+          </td>   
+        </tr>        
+      </tbody>
+    </table>    
+    <table border="0" cellspacing="0" cellpadding="0" width="1200" style="margin:0 auto;margin-top:10px;">
+      <tbody>
+        <tr>
+          <td height="50" valign="bottom" align="center">
+            <img src="images/images/line.png">
+              <span>设计展廊<span>
+            <img src="images/images/line.png">
+          </td>    
+        </tr>        
+      </tbody>
+    </table>
+
+  <table border="0" cellspacing="0" cellpadding="0" width="1200" style="margin:0 auto;margin-top:25px;margin-bottom:90px;">
+      <tbody>
+        <tr>
+          <td height="50" valign="bottom" align="center"><!--#begineditable name="设计展廊" action="webber.wbst.com.image.ColumnImage" layout="/system/_component/columnimage/leftscroll.jsp" tpltype="0" contype="image" clone="" viewid="164977" contentviewid="" tagname="设计展廊"-->
+<TABLE width="1200" cellSpacing="0" cellPadding="0" align="center" border="0"> 
+    <TR><TD>
+        <DIV id="u_u10_demo" style="OVERFLOW:hidden;WIDTH:1200px;COLOR:#ffffff"><TABLE cellSpacing="0" cellPadding="0" border="0">
+                <TR><TD id="u_u10_demo1" vAlign="top" width="1200"><table border="0" cellpadding="0" cellspacing="0" width="1200">
+                        <tr>
+
+                            <td valign="top" align="center" style="padding-left:1px;padding-right:2px"><div style="padding: 0px; width:193px"><table cellpadding="0" cellspacing="0" style="border:0px solid black;">
+                                    <tr><td width="193" height="136" valign="middle" align="center"><a href="info/1301/1561.htm" target="_blank" onclick="_addDynClicks('wbimage',1411889458,29381)"><img name="u_u10_img" border="0" src="/system/resource/images/loading.gif" alt="环境设计专业优秀毕设展示" title="环境设计专业优秀毕设展示" hspace="0" vspace="0"></a></td></tr>
+                                </table></div><div style="padding-top:1px;padding-bottom:1px">
+                            <span class="titlestyle164977">环境设计专业优秀毕设展示</span>
+                            
+
+                          </div></td>
+                            <td valign="top" align="center" style="padding-left:1px;padding-right:2px"><div style="padding: 0px; width:193px"><table cellpadding="0" cellspacing="0" style="border:0px solid black;">
+                                    <tr><td width="193" height="136" valign="middle" align="center"><a href="info/1302/1626.htm" target="_blank" onclick="_addDynClicks('wbimage',1411889458,29380)"><img name="u_u10_img" border="0" src="/system/resource/images/loading.gif" alt="动画专业优秀毕设展示" title="动画专业优秀毕设展示" hspace="0" vspace="0"></a></td></tr>
+                                </table></div><div style="padding-top:1px;padding-bottom:1px">
+                            <span class="titlestyle164977">动画专业优秀毕设展示</span>
+                            
+
+                          </div></td>
+                            <td valign="top" align="center" style="padding-left:1px;padding-right:2px"><div style="padding: 0px; width:193px"><table cellpadding="0" cellspacing="0" style="border:0px solid black;">
+                                    <tr><td width="193" height="136" valign="middle" align="center"><a href="info/1303/1598.htm" target="_blank" onclick="_addDynClicks('wbimage',1411889458,29379)"><img name="u_u10_img" border="0" src="/system/resource/images/loading.gif" alt="产品设计专业优秀毕设展示" title="产品设计专业优秀毕设展示" hspace="0" vspace="0"></a></td></tr>
+                                </table></div><div style="padding-top:1px;padding-bottom:1px">
+                            <span class="titlestyle164977">产品设计专业优秀毕设展示</span>
+                            
+
+                          </div></td>
+                            <td valign="top" align="center" style="padding-left:1px;padding-right:2px"><div style="padding: 0px; width:193px"><table cellpadding="0" cellspacing="0" style="border:0px solid black;">
+                                    <tr><td width="193" height="136" valign="middle" align="center"><a href="info/1304/1608.htm" target="_blank" onclick="_addDynClicks('wbimage',1411889458,29378)"><img name="u_u10_img" border="0" src="/system/resource/images/loading.gif" alt="视觉传达设计专业优秀毕设展示" title="视觉传达设计专业优秀毕设展示" hspace="0" vspace="0"></a></td></tr>
+                                </table></div><div style="padding-top:1px;padding-bottom:1px">
+                            <span class="titlestyle164977">视觉传达设计专业优秀...</span>
+                            
+
+                          </div></td>
+                            <td valign="top" align="center" style="padding-left:1px;padding-right:2px"><div style="padding: 0px; width:193px"><table cellpadding="0" cellspacing="0" style="border:0px solid black;">
+                                    <tr><td width="193" height="136" valign="middle" align="center"><a href="info/1305/1647.htm" target="_blank" onclick="_addDynClicks('wbimage',1411889458,29377)"><img name="u_u10_img" border="0" src="/system/resource/images/loading.gif" alt="服装与服饰设计专业优秀毕设展示" title="服装与服饰设计专业优秀毕设展示" hspace="0" vspace="0"></a></td></tr>
+                                </table></div><div style="padding-top:1px;padding-bottom:1px">
+                            <span class="titlestyle164977">服装与服饰设计专业优...</span>
+                            
+
+                          </div></td></tr>
+           </table></TD> 
+          <TD id="u_u10_demo2" vAlign="top" width="1200"></TD> 
+        </TR> 
+      </TABLE> 
+      </DIV> 
+    </TD> 
+  </TR> 
+</TABLE> 
+<SCRIPT language="javascript">
+    var u_u10_imgs = new VsbPreloadImgArray();
+    
+    //初始化图片
+    function u_u10_init_img()
+    {
+
+            u_u10_imgs.addImg("images\/_thumb\/sjzl_1.jpg", "0", u_u10_onimgload);
+
+            u_u10_imgs.addImg("images\/_thumb\/sjzl_2.jpg", "1", u_u10_onimgload);
+
+            u_u10_imgs.addImg("images\/_thumb\/sjzl_3.jpg", "2", u_u10_onimgload);
+
+            u_u10_imgs.addImg("images\/_thumb\/sjzl_4.jpg", "3", u_u10_onimgload);
+
+            u_u10_imgs.addImg("images\/_thumb\/sjzl_5.jpg", "4", u_u10_onimgload);
+
+    }
+    function u_u10_onimgload(img, imgid)
+    {
+        var imgobjs = document.getElementsByName("u_u10_img");
+        var imgindex = new Number(imgid);
+        
+        img.showImg(imgobjs[imgindex], 193, 136, true, true);
+        img.showImg(imgobjs[imgindex+ 5], 193, 136, true, true);
+    }
+
+
+    var u_u10_MyMar;
+    var u_u10_speed3;
+    var u_u10_move = true;
+    var u_u10_movenum = 0;
+    var u_u10_pos = null; //td位置组
+    
+    function u_u10_initpos()
+    {
+        u_u10_pos = new Array();
+        
+        var tds1 = document.getElementById("u_u10_demo1").childNodes[0].rows[0].cells;
+        
+        for(i = 0 ;i < tds1.length; i++)
+        {
+            u_u10_pos[u_u10_pos.length] = tds1[i].offsetLeft;
+        }
+        
+        var tds2 = document.getElementById("u_u10_demo2").childNodes[0].rows[0].cells;
+        var tds2offset = document.getElementById("u_u10_demo2").offsetLeft;
+        for(i = 0 ;i < tds2.length; i++)
+        {
+            u_u10_pos[u_u10_pos.length] = tds2[i].offsetLeft + tds2offset;
+        }
+    }
+    
+    function u_u10_getpos(scrollpos)
+    {
+        for(i = 0; i < u_u10_pos.length; i++)
+        {
+            if(scrollpos < u_u10_pos[i])
+                return i-1;
+        }
+    }
+
+
+    function u_u10_Marquee() 
+    { 
+        try 
+        { 
+            if(!u_u10_move)
+                return;
+            
+            var demoobj = document.getElementById("u_u10_demo");
+            var demo1obj = document.getElementById("u_u10_demo1");
+
+            //滚动步长
+            var scrollstep = 1
+            
+            //当前位置
+            var oldscrollLeft = demoobj.scrollLeft;
+            
+            //更新后的位置, 已考虑过回滚
+            var newscrollLeft = (oldscrollLeft + scrollstep)%demo1obj.scrollWidth;
+
+            
+            demoobj.scrollLeft = newscrollLeft; 
+            
+        } 
+        catch(e) 
+        { 
+        } 
+    } 
+
+    function u_u10_clearInterval()
+    {
+        clearInterval(u_u10_MyMar);
+    }
+    
+    function u_u10_setInterval()
+    {
+        u_u10_MyMar = setInterval(u_u10_Marquee,u_u10_speed3);
+    }
+    
+    function u_u10_stopmove()
+    {
+        u_u10_move = false;
+    }
+
+    function u_u10_startmove()
+    {
+        u_u10_move = true;
+    }
+    
+    function u_u10_init()
+    {
+        u_u10_speed3 = 50;
+        if(u_u10_speed3 < 1)
+        {
+            u_u10_speed3 = 1;
+        }
+        
+        document.getElementById("u_u10_demo").onmouseover = u_u10_stopmove;
+        document.getElementById("u_u10_demo").onmouseout = u_u10_startmove;
+
+        document.getElementById("u_u10_demo2").innerHTML = document.getElementById("u_u10_demo1").innerHTML;
+        
+        u_u10_init_img();
+
+        u_u10_setInterval();
+
+    }
+    
+    u_u10_init();
+</SCRIPT><!--#endeditable--></td>    
+        </tr>        
+      </tbody>
+    </table>
+    
+<!--底部----------------------------------------------------------------------------------------------------------------------->
+    <table border="0" cellspacing="0" cellpadding="0" width="100%" background="images/images/bg_bottom.png" style="margin:0 auto;margin-top:25px;background-position:bottom center;background-repeat:no-repeat;margin-top:25px;">
+      <tbody>
+        <tr>            
+        <td height="160" valign="center">
+        <table border="0" cellspacing="0" cellpadding="0" width="1200" style="margin:0 auto;">
+        <tbody>
+        <tr>
+        <td width="445" valign="center;" align="left" style="color:#fff;font-size:12px;">
+          <p style="margin:5px 0px;line-height:1em;">联系电话：0773-2901948<p>
+          <p style="margin:5px 0px;line-height:1em;">院办行政：0773-2290400<p>
+          <p style="margin:5px 0px;line-height:1em;">院办传真：0773-2290400<p>
+          <p style="margin:5px 0px;line-height:1em;">教学秘书办公室：0773-220410、2256616<p>
+          <p style="margin:5px 0px;line-height:1em;">研究生秘书办公室：0773-2305205<p>
+        <td>
+        <td width="475" valign="center;" align="left" style="color:#fff;font-size:12px;">
+          <p style="margin:5px 0px;line-height:1em;">书记邮箱：dept4sj@guet.edu.cn<p>
+          <p style="margin:5px 0px;line-height:1em;">院长邮箱：dept4yz@guet.edu.cn<p>
+          <p style="margin:5px 0px;line-height:1em;">举报邮箱：dept4sj@guet.edu.cn<p>
+          <p style="margin:5px 0px;line-height:1em;">举报电话：07732290405<p>
+          <p style="margin:5px 0px;line-height:1em;">邮政编码：541004<p>
+          <p style="margin:5px 0px;line-height:1em;">地址：桂林电子科技大学花江校区第十四教学楼艺术与设计学院<p>
+        <td>
+        <td width="280" valign="center;" align="right"><img src="images/images/logo_white.png" /><td>
+        </tr>
+        </tbody>
+        </table>
+        </td>
+        </tr>        
+      </tbody>
+    </table>    
+</body>
+</HTML>

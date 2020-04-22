@@ -1,0 +1,1644 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><HTML><HEAD><TITLE>我要举报-纪检监察网</TITLE><META Name="keywords" Content="纪检监察网" />
+
+
+
+
+
+<META content="text/html; charset=UTF-8" http-equiv="Content-Type"><LINK rel="stylesheet" href="style/sytle.css">
+
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="/jwjc/jb.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/vsbscreen.min.js" id="_vsbscreen" ></script>
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1089,'/jb.jsp',-1,1410804270)</script>
+</HEAD>
+<BODY  style="zoom: 1">
+<TABLE cellspacing="0" cellpadding="0" width="981" background="images/top.jpg" align="center" height="176">
+<TBODY>
+<TR>
+<TD height="125" valign="top" align="left">
+<table border="0" cellspacing="0" cellpadding="0"><tr><td><img src="images/logo6.png" width="689" height="86"   border="0" alt="纪委办公室/监察室" title="纪委办公室/监察室" ></td></tr></table></TD>
+<TD width="270"><script language="javascript">
+function dosuba18263a()
+{
+    try{
+		var ua = navigator.userAgent.toLowerCase();
+		if(ua.indexOf("msie 8")>-1)
+		{
+			window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE8
+		}else if(ua.toLowerCase().indexOf("rv:")>-1)
+        {
+            window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE11+
+        }else{
+			if (document.all) 
+			{
+				window.external.addFavorite(document.location.href, document.title);
+			}else if(window.sidebar)
+			{
+				window.sidebar.addPanel( document.title, document.location.href, "");//firefox
+			}
+			else
+			{
+				alert(hotKeysa18263a());
+			}
+		}
+
+    }
+    catch (e){alert("无法自动添加到收藏夹，请使用 Ctrl + d 手动添加");}
+}
+function hotKeysa18263a() 
+{
+	var ua = navigator.userAgent.toLowerCase(); 
+	var str = "";    
+	var isWebkit = (ua.indexOf('webkit') != - 1); 
+	var isMac = (ua.indexOf('mac') != - 1);     
+	if (ua.indexOf('konqueror') != - 1) 
+	{  
+		str = 'CTRL + B'; // Konqueror   
+	} 
+	else if (window.home || isWebkit || isMac) 
+	{        
+		str = (isMac ? 'Command/Cmd' : 'CTRL') + ' + D'; // Netscape, Safari, iCab, IE5/Mac   
+	}
+	return ((str) ? '无法自动添加到收藏夹，请使用' + str + '手动添加' : str);
+}
+function setHomepagea18263a()
+{
+	var url = document.location.href;
+    if (document.all)
+    {
+        document.body.style.behavior='url(#default#homepage)';
+        document.body.setHomePage(url);
+    }
+    else if (window.sidebar)
+    {
+        if(window.netscape)
+        {
+             try{
+                  netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+             }catch (e){
+                   alert("该操作被浏览器拒绝，如果想启用该功能，请在地址栏内输入 about:config,然后将项 signed.applets.codebase_principal_support 值该为true");
+             }
+    	}
+	var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components. interfaces.nsIPrefBranch);
+	prefs.setCharPref('browser.startup.homepage',url);
+	}
+	else
+	{
+		alert("浏览器不支持自动设为首页，请手动设置");
+	}
+}
+</script><table><tr><td style="font-size:9pt"><img align=absmiddle src='images/swsy.gif' border=0>&nbsp;<A href="javascript:setHomepagea18263a()"><span  class="font18263" >设为首页</span></A></td></tr><tr><td style="font-size:9pt"><img align=absmiddle src='images/jrsc.gif' border=0>&nbsp;<A onclick="javascript:dosuba18263a();" href="#"><span  class="font18263" >加入收藏</span></A></td></tr></table></TD></TR>
+<TR>
+<TD valign="middle" colspan="2" align="center" style="padding-bottom: 13px; padding-top: 10px"><style type="text/css">
+td.b1_2_{FONT-SIZE:9pt;}
+td.b2_2_{FONT-SIZE:9pt;}
+td.b3_2_{FONT-SIZE:9pt;BACKGROUND-COLOR: #eff8fe;; }
+td.b4_2_{FONT-SIZE:9pt;BACKGROUND-COLOR: #e8f0fb;; }
+a.menu0_2_:link {TEXT-DECORATION: none; };
+a.menu0_2_:visited { TEXT-DECORATION: none;};
+a.menu0_2_:hover {TEXT-DECORATION: none;};
+a.menu0_2_:active {TEXT-DECORATION: none;};
+table.tb1_2_{FONT-SIZE:9pt;border:0;}
+span.s1_2_{COLOR: #fff;FONT-SIZE: 14px;FONT-WEIGHT: bold;TEXT-DECORATION: none;}
+span.s2_2_{FONT-SIZE: 9pt;COLOR: #cc0000;LINE-HEIGHT: 160%;}
+span.s10_2_{COLOR: #fff;FONT-SIZE: 14px;FONT-WEIGHT: bold;TEXT-DECORATION: none;}
+span.s20_2_{FONT-SIZE: 9pt;COLOR: #222222;LINE-HEIGHT: 160%;}
+</style>
+<SCRIPT language=javascript> 
+ var showfix_2_ = 1;
+ var isvertical_2_ = false;
+</SCRIPT>
+<script language="javascript" src="/system/resource/js/menu/text.js"></script>
+<TABLE id="t1_2_" cellSpacing=0 cellPadding=0 border=0 height=0 width=960><TR><TD valign=center></TD><TD valign=middle height=0 width=0 nowrap class=b1_2_ align=center id=a_2_1001 onmouseover="tshowLayers('1001','b2_2_', '_2_')"  onmouseout="thideLayers('1001','b1_2_', '_2_','true','true')"><a class=menu0_2_ href='index.htm'><span  class="fontstyle18264" >&nbsp;首页&nbsp;</span></a></TD><TD valign=center class="leaderfont18264" >|</TD><TD valign=middle width=0 nowrap class=b1_2_ align=center id=a_2_1060 onmouseover="tshowLayers('1060','b2_2_', '_2_')"  onmouseout="thideLayers('1060','b1_2_', '_2_','true','true')"><a class=menu0_2_ href='jgzh.htm'><span  class="fontstyle18264" >&nbsp;机构职能&nbsp;</span></a></TD><TD valign=center class="leaderfont18264" >|</TD><TD valign=middle width=0 nowrap class=b1_2_ align=center id=a_2_1064 onmouseover="tshowLayers('1064','b2_2_', '_2_')"  onmouseout="thideLayers('1064','b1_2_', '_2_','true','true')"><a class=menu0_2_ href='list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1064'><span  class="fontstyle18264" >&nbsp;信息动态&nbsp;</span></a></TD><TD valign=center class="leaderfont18264" >|</TD><TD valign=middle width=0 nowrap class=b1_2_ align=center id=a_2_1068 onmouseover="tshowLayers('1068','b2_2_', '_2_')"  onmouseout="thideLayers('1068','b1_2_', '_2_','true','true')"><a class=menu0_2_ href='list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1068'><span  class="fontstyle18264" >&nbsp;热点关注&nbsp;</span></a></TD><TD valign=center class="leaderfont18264" >|</TD><TD valign=middle width=0 nowrap class=b1_2_ align=center id=a_2_1073 onmouseover="tshowLayers('1073','b2_2_', '_2_')"  onmouseout="thideLayers('1073','b1_2_', '_2_','true','true')"><a class=menu0_2_ href='list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1073'><span  class="fontstyle18264" >&nbsp;廉政教育&nbsp;</span></a></TD><TD valign=center class="leaderfont18264" >|</TD><TD valign=middle width=0 nowrap class=b1_2_ align=center id=a_2_1074 onmouseover="tshowLayers('1074','b2_2_', '_2_')"  onmouseout="thideLayers('1074','b1_2_', '_2_','true','true')"><a class=menu0_2_ href='list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1074'><span  class="fontstyle18264" >&nbsp;廉政文化&nbsp;</span></a></TD><TD valign=center class="leaderfont18264" >|</TD><TD valign=middle width=0 nowrap class=b1_2_ align=center id=a_2_1075 onmouseover="tshowLayers('1075','b2_2_', '_2_')"  onmouseout="thideLayers('1075','b1_2_', '_2_','true','true')"><a class=menu0_2_ href='list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1075'><span  class="fontstyle18264" >&nbsp;党纪法规&nbsp;</span></a></TD><TD valign=center class="leaderfont18264" >|</TD><TD valign=middle width=0 nowrap class=b1_2_ align=center id=a_2_1087 onmouseover="tshowLayers('1087','b2_2_', '_2_')"  onmouseout="thideLayers('1087','b1_2_', '_2_','true','true')"><a class=menu0_2_ href='list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1087'><span  class="fontstyle18264" >&nbsp;信访举报&nbsp;</span></a></TD><TD valign=center class="leaderfont18264" >|</TD><TD valign=middle width=0 nowrap class=b1_2_ align=center id=a_2_1076 onmouseover="tshowLayers('1076','b2_2_', '_2_')"  onmouseout="thideLayers('1076','b1_2_', '_2_','true','true')"><a class=menu0_2_ href='list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1076'><span  class="fontstyle18264" >&nbsp;下载中心&nbsp;</span></a></TD></TR></TR></table></TD></TR></TBODY></TABLE>
+<TABLE cellspacing="0" cellpadding="0" width="981" align="center" height="179">
+<TBODY>
+<TR>
+<TD align="left"><IMG src="images/bannerleft.gif" width="6" height="202" 360chrome_form_autofill="2"></TD>
+<TD valign="top" background="images/bannercenter.gif" width="971" style="padding-top: 3px">
+
+
+
+
+<script language="javascript" src="/system/resource/js/dynclicks.js"></script>
+<table  border="0" cellpadding="0" cellspacing="0">
+    <tr>
+    <td><img src="images/gdfg02.jpg" width="971" height="380" hspace="0" vspace="0" border="0"   ></td>
+        </tr>
+        </table></TD>
+<TD><IMG src="images/bannerright.gif" width="4" 360chrome_form_autofill="2"></TD></TR></TBODY></TABLE>
+<DIV 360chrome_form_autofill="2" style="height: 3px"></DIV>
+<TABLE cellspacing="0" cellpadding="0" width="981" align="center" height="179">
+<TBODY>
+<TR>
+<TD valign="top" width="226" align="left">
+<TABLE cellspacing="0" cellpadding="0">
+<TBODY>
+<TR>
+<TD class="graytable" width="224">
+<TABLE cellspacing="0" cellpadding="0" width="100%" background="images/jxggbg.gif" height="29">
+<TBODY>
+<TR>
+<TD width="11%"></TD>
+<TD class="title1" width="68%">热点文章</TD>
+<TD width="21%"></TD></TR></TBODY></TABLE>
+<TABLE cellspacing="0" cellpadding="0" width="90%" align="center" height="230">
+<TBODY>
+<TR>
+<TD height="10"></TD></TR>
+<TR>
+<TD valign="top"><script language="javascript" src="/system/resource/js/base64.js"></script>
+<script language="javascript" src="/system/resource/js/jquery/jquery-latest.min.js"></script>
+<div id="load_div_u4" style="width: 100%;height: 100%;text-align: center;vertical-align: middle;" ><img  border="0" src='/system/resource/images/loading.gif'></div>
+<table  width=100%  cellspacing="0" cellpadding="0" style="display: none;" id="hotnews_content_table_u4">
+</table>
+<script type="text/javascript">
+function getHotNewsTitleu4()
+{
+    var mediaisshow = 'false';
+    var _this = this;
+    var loaddiv = jQuery("#load_div_u4");
+    var contenttable = jQuery("#hotnews_content_table_u4");
+    _this.t_body = jQuery("#hotnews_content_table_u4");
+    _this.clickshow = false;
+    _this.clickname = '点击';
+    _this.clickstyle = 'clickstyle18289';
+    _this.endimageposition = false;
+    _this.isfollowtilte = false;
+    //构造 参数
+    var param =  {owner:'1410804270',treeid:'1089',viewid:'18289',mode:'10',
+            locale:'zh_CN',
+            pageUrl:'/jb.jsp?urltype=tree.TreeTempUrl&wbtreeid=1089',uniqueId:'u4',
+            PAGENUM:_this.curpage,actionmethod:'getnewslist'}
+     var ajaxurl  = "/system/resource/js/news/hotdynpullnews.jsp";        
+     _this._getResult = function()
+     {
+        jQuery.post(ajaxurl,param,
+            function(data){
+                _this.dataloadComplete(data);
+            },
+            "json"
+        );
+      }
+      _this.show = function()
+      {
+        loaddiv.css("display","none");
+        contenttable.css("display","");
+      }
+      var newsidarray = new Array();
+      var newsidspanarray = new Array();
+     //数据加载
+     _this.dataloadComplete = function(data)
+     {
+             if(data&&data.length>0)
+            {
+                 var  img = '';
+                 var video = ''; 
+                 var attach = ''; 
+                 
+                 var isshowimg = false;
+                 var showimgalign =  '';
+                 var isshowvideo = false;
+                 var showvideoalign = 'left';
+                 var isshowattach = false;
+                 var showattachalign = 'left';
+                 for(var i=0;i<data.length;i++)
+                 {
+                     var notice_val = data[i];
+                     var wbishaveimg = notice_val.wbishaveimg;
+                     var wbishavevideo = notice_val.wbishavevideo;
+                     var wbhasattach = notice_val.wbhasattach;
+                     var wbpicurl = notice_val.wbpicurl;
+                     if(mediaisshow&&wbpicurl!=null&&wbpicurl!="")
+                     {
+                        var pic_tr = jQuery("<tr></tr>");
+                        var pic_td = jQuery("<td colspan='5'></td>");
+                        pic_td.html(notice_val.picdiv);
+                        _this.t_body.append(pic_tr);
+                     }
+                     var notice_tr = jQuery("<tr></tr>");
+                     //前导图
+                     var leader_td = jQuery("<td align='center' valign='middle' width=10 nowrap ></td>");
+                     var leaderspan =jQuery("<span ><img src='images/coin.gif' align='absmiddle' border='0'></span>");
+                     leaderspan.addClass("leaderfont18289");
+                     leader_td.append(leaderspan);
+                     notice_tr.append(leader_td);
+                     var title_td = jQuery("<td valign='middle' align='left' ></td>");
+                     title_td.addClass("");
+                     
+                     var columnstr = jQuery(notice_val.columnstr);
+                     title_td.append(columnstr);
+                     
+                     if(isshowimg&&showimgalign=="left"&&(wbishaveimg==1))
+                     {
+                        var imgspan = jQuery("<span >"+img+"</span>");
+                        title_td.append(imgspan);
+                     }
+                     if(isshowvideo&&showvideoalign=="left"&&(wbishavevideo==1))
+                     {
+                        var videospan = jQuery("<span >"+video+"</span>");
+                        title_td.append(videospan);
+                     }
+                     if(isshowattach&&showattachalign=="left"&&(wbhasattach==1))
+                     {
+                        var attachspan = jQuery("<span >"+attach+"</span>");
+                        title_td.append(attachspan);
+                     }
+                     
+                     var link_a = jQuery("<a class='c18289' target=_blank  title='"+notice_val.showtitle+"'>"+notice_val.title+"</a>");
+                     link_a.attr("href",notice_val.linkurl);
+                     title_td.append(link_a);
+                     if(false)
+                     {
+                        var endimgspan = jQuery("<span>"+notice_val.endimg+"</span>");
+                        title_td.append(endimgspan);
+                     }
+                     
+                     if(isshowimg&&showimgalign=="right"&&(wbishaveimg==1))
+                     {
+                        var imgspan = jQuery("<span >"+img+"</span>");
+                        title_td.append(imgspan);
+                     }
+                     if(isshowvideo&&showvideoalign=="right"&&(wbishavevideo==1))
+                     {
+                        var videospan = jQuery("<span >"+video+"</span>");
+                        title_td.append(videospan);
+                     }
+                     if(isshowattach&&showattachalign=="right"&&(wbhasattach==1))
+                     {
+                        var attachspan = jQuery("<span >"+attach+"</span>");
+                        title_td.append(attachspan);
+                     }
+                     
+                     if(_this.clickshow)
+                     {
+                        var clicktimespan = jQuery("<span></span>");
+                        clicktimespan.html("("+_this.clickname+"&nbsp;<span id='_wzdjcs_"+notice_val.newsid+"' name='_wzdjcs_"+notice_val.newsid+"'></span>"+")");
+                        clicktimespan.addClass(_this.clickstyle);
+                        newsidarray.push(notice_val.newsid);
+                        newsidspanarray.push("_wzdjcs_"+notice_val.newsid);
+                        title_td.append(clicktimespan);
+                     }
+                     
+                     if(false)
+                     {
+                         var time_span = jQuery("<span width='1%' ></span>")
+                         
+                         time_span.addClass("timestyle18289");
+                         if(true)
+                         {
+                             var endimgspan = jQuery("<span>"+notice_val.endimg+"</span>");
+                             time_span.append(endimgspan);
+                         }  
+                         title_td.append(time_span); 
+                     }
+                     notice_tr.append(title_td);
+                     
+                     
+                     if(true)
+                     {
+                        var time_td = jQuery("<td valign='middle' align=right   width='1%' nowrap>");
+                        time_td.addClass("timestyle18289");
+                        
+                        if(true)
+                        {
+                            var time_span = jQuery("<span width='1%' ></span>")
+                            var endimgspan = jQuery("<span>"+notice_val.endimg+"</span>");
+                            time_span.append(endimgspan);
+                            time_td.append(time_span);
+                        }
+                        notice_tr.append(time_td);
+                     }
+                     
+                     _this.t_body.append(notice_tr);
+                     
+                     var lineimg = '';
+                     if(lineimg!=null&&lineimg!='')
+                     {
+                        var lineimgheight = 1;
+                        var line_tr = jQuery("<tr><td colspan='4' height='" + lineimgheight + "' BACKGROUND='" + lineimg + "'></td></tr>")
+                        _this.t_body.append(line_tr);
+                     }
+                 }
+                 _showDynClickBatch(newsidspanarray,newsidarray,'wbnews','1410804270');
+            }else
+            {
+                _this.t_body.append("<tr><td colspan=4 align=center style='color:#222222;font-size:12px;'>没有记录</td></tr>");
+            }      
+     }
+}
+jQuery(document).ready(function(){
+    var showcontentu4 = new getHotNewsTitleu4();
+    showcontentu4._getResult();
+    showcontentu4.show();
+});
+</script></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD>
+<TD rowspan="2" width="11"></TD>
+<TD valign="top" rowspan="2" width="744">
+<TABLE cellspacing="0" cellpadding="0">
+<TBODY>
+<TR>
+<TD class="graytable" width="742" colspan="3">
+<TABLE cellspacing="0" cellpadding="0" width="100%" background="images/dqlmtbg.gif" height="34">
+<TBODY>
+<TR>
+<TD width="4%"></TD>
+<TD class="title1" width="17%">我要举报</TD>
+<TD width="79%" align="right" style="padding-right: 10px"></TD></TR></TBODY></TABLE>
+<TABLE cellspacing="0" cellpadding="0" width="95%" align="center">
+<TBODY>
+<TR>
+<TD height="10"></TD></TR>
+<TR>
+<TD height="450" valign="top">
+<P align="left"><SPAN style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font-family: 宋体; font-size: 16px; font-weight: bold; padding-top: 0px">网上举报须知：</SPAN></P>
+<P style="padding-bottom: 0px; line-height: 29px; widows: 2; text-transform: none; background-color: rgb(255,255,255); font-style: normal; text-indent: 32px; margin: 0px; padding-left: 0px; letter-spacing: normal; padding-right: 0px; font-family: 'microsoft yahei'; white-space: normal; orphans: 2; color: rgb(68,68,68); font-size: 12px; font-weight: normal; word-spacing: 0px; padding-top: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px"><SPAN style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font-family: 宋体; font-size: 16px; padding-top: 0px">1</SPAN><SPAN style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font-family: 宋体; font-size: 16px; padding-top: 0px">、根据“分级负责，归口办理”原则，请您按照被举报人属地和级别，选择相应的举报网站进行举报。</SPAN></P>
+<P style="padding-bottom: 0px; line-height: 29px; widows: 2; text-transform: none; background-color: rgb(255,255,255); font-style: normal; text-indent: 32px; margin: 0px; padding-left: 0px; letter-spacing: normal; padding-right: 0px; font-family: 'microsoft yahei'; white-space: normal; orphans: 2; color: rgb(68,68,68); font-size: 12px; font-weight: normal; word-spacing: 0px; padding-top: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px"><SPAN style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font-family: 宋体; font-size: 16px; padding-top: 0px">2、桂林电子科技大学纪委、监察室受理师生员工针对学校各级党组织、党员和监察对象违反党纪政纪问题的举报、控告以及对党风廉政建设和纪检监察工作的意见、建议。</SPAN></P>
+<P style="padding-bottom: 0px; line-height: 29px; widows: 2; text-transform: none; background-color: rgb(255,255,255); font-style: normal; text-indent: 32px; margin: 0px; padding-left: 0px; letter-spacing: normal; padding-right: 0px; font-family: 'microsoft yahei'; white-space: normal; orphans: 2; color: rgb(68,68,68); font-size: 12px; font-weight: normal; word-spacing: 0px; padding-top: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px"><SPAN style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font-family: 宋体; font-size: 16px; padding-top: 0px">3</SPAN><SPAN style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font-family: 宋体; font-size: 16px; padding-top: 0px">、举报人应当遵守法律、法规，不得损害国家、社会、学校的利益和其他公民的合法权利。举报人所举报的事项，应当客观真实，对所提供材料内容的真实性负责，不得捏造、歪曲事实，不得诬告、陷害他人。对借举报陷害他人的，依照有关规定严肃处理。</SPAN></P>
+<P style="padding-bottom: 0px; line-height: 29px; widows: 2; text-transform: none; background-color: rgb(255,255,255); font-style: normal; text-indent: 32px; margin: 0px; padding-left: 0px; letter-spacing: normal; padding-right: 0px; font-family: 'microsoft yahei'; white-space: normal; orphans: 2; color: rgb(68,68,68); font-size: 12px; font-weight: normal; word-spacing: 0px; padding-top: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px"><SPAN style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font-family: 宋体; font-size: 16px; padding-top: 0px">4</SPAN><SPAN style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font-family: 宋体; font-size: 16px; padding-top: 0px">、网上举报只是反映问题的一种途径，还可以通过其他形式进行举报。</SPAN></P>
+<P style="padding-bottom: 0px; line-height: 29px; widows: 2; text-transform: none; background-color: rgb(255,255,255); font-style: normal; text-indent: 32px; margin: 0px; padding-left: 0px; letter-spacing: normal; padding-right: 0px; font-family: 'microsoft yahei'; white-space: normal; orphans: 2; color: rgb(68,68,68); font-size: 12px; font-weight: normal; word-spacing: 0px; padding-top: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px"><SPAN style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font-family: 宋体; font-size: 16px; padding-top: 0px">5</SPAN><SPAN style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font-family: 宋体; font-size: 16px; padding-top: 0px">、我们的通信地址：桂林市七星区金鸡路1号桂林电子科技大学花江校区行政楼418室。</SPAN></P>
+<P style="padding-bottom: 0px; line-height: 29px; widows: 2; text-transform: none; background-color: rgb(255,255,255); font-style: normal; text-indent: 32px; margin: 0px; padding-left: 0px; letter-spacing: normal; padding-right: 0px; font-family: 'microsoft yahei'; white-space: normal; orphans: 2; color: rgb(68,68,68); font-size: 12px; font-weight: normal; word-spacing: 0px; padding-top: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px"><SPAN style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font-family: 宋体; font-size: 16px; padding-top: 0px">&nbsp;&nbsp; 邮编：（541004），举报邮箱：</SPAN><A href="mailto:jub@guet.edu.cn" _href="mailto:jub@guet.edu.cn" style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; color: rgb(102,102,102); text-decoration: none; padding-top: 0px"><SPAN style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font-family: 宋体; font-size: 16px; padding-top: 0px">jub@guet.edu.cn</SPAN></A>&nbsp;，<SPAN style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font-family: 宋体; font-size: 16px; padding-top: 0px">举报电话：0773-2290659/2290660</SPAN></P>
+<P style="padding-bottom: 0px; line-height: 29px; widows: 2; text-transform: none; background-color: rgb(255,255,255); font-style: normal; text-indent: 32px; margin: 0px; padding-left: 0px; letter-spacing: normal; padding-right: 0px; font-family: 'microsoft yahei'; white-space: normal; orphans: 2; color: rgb(68,68,68); font-size: 12px; font-weight: normal; word-spacing: 0px; padding-top: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px"><SPAN style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font-family: 宋体; font-size: 16px; padding-top: 0px">6</SPAN><SPAN style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font-family: 宋体; font-size: 16px; padding-top: 0px">、请如实填写举报内容，对投诉事项发生的时间、地点、主要证据、涉及人员等要交代清楚。</SPAN></P>
+<P style="padding-bottom: 0px; line-height: 29px; widows: 2; text-transform: none; background-color: rgb(255,255,255); font-style: normal; text-indent: 32px; margin: 0px; padding-left: 0px; letter-spacing: normal; padding-right: 0px; font-family: 'microsoft yahei'; white-space: normal; orphans: 2; color: rgb(68,68,68); font-size: 12px; font-weight: normal; word-spacing: 0px; padding-top: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px"><SPAN style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font-family: 宋体; font-size: 16px; padding-top: 0px">7、实名举报可查询举报反馈信息，<A href="https://cas.guet.edu.cn/cas/login?service=http://172.16.26.22/login.aspx" target="">请点击此处</A>。</SPAN></P>
+<P style="padding-bottom: 0px; line-height: 29px; widows: 2; text-transform: none; background-color: rgb(255,255,255); font-style: normal; text-indent: 32px; margin: 0px; padding-left: 0px; letter-spacing: normal; padding-right: 0px; font-family: 'microsoft yahei'; white-space: normal; orphans: 2; color: rgb(68,68,68); font-size: 12px; font-weight: normal; word-spacing: 0px; padding-top: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px"><SPAN style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font-family: 宋体; font-size: 16px; padding-top: 0px">8、匿名举报请在本页下方填写完整资料。</SPAN></P>
+<P align="center">
+<LINK href="/system/resource/style/component/message/message_new.css" type=text/css rel=stylesheet>
+
+
+<script language="JavaScript" src="/system/resource/message/validdata.js"></script>
+<script language="javascript" src="/system/resource/js/base64.js"></script>
+<script language="javascript" src="/system/resource/js/md5.js"></script>
+<script language=javascript src="/system/resource/storage/service/storageservices.js"></script>
+<script language="javascript"> 
+ 
+/** 
+ *功能说明：去掉字符串左边的空格 
+　　　　*@param string 为传进来的字符串 
+　　　　*@return 为字符串 
+ */ 
+function ltrim(string) 
+{ 
+    var objstr = string; 
+
+    if((objstr == "") || (objstr == " ")) 
+    { 
+        return ""; 
+    } 
+
+    var head; 
+    var exitw = true; 
+
+    while(exitw) 
+    { 
+        if((objstr == "") || (objstr == " ")) 
+        { 
+            return ""; 
+        } 
+
+        head = objstr.charAt(0); 
+        if(head == " ") 
+        { 
+            objstr = objstr.substr(1); 
+        } 
+        else 
+        { 
+            exitw = false; 
+        } 
+    } 
+
+    return objstr; 
+} 
+    function rtrim(string) 
+    { 
+        var objstr = string; 
+     
+        if((objstr == "") || (objstr == " ")) 
+        { 
+            return ""; 
+        } 
+     
+        var head; 
+        var exitw = true; 
+     
+        while(exitw) 
+        { 
+            if((objstr == "") || (objstr == " ")) 
+            { 
+                return ""; 
+            } 
+     
+            head = objstr.charAt(objstr.length - 1); 
+            if(head == " ") 
+            { 
+                objstr = objstr.substr(0, objstr.length - 2); 
+            } 
+            else 
+            { 
+                exitw = false; 
+            } 
+        } 
+     
+        return objstr; 
+    } 
+    /** 
+     *功能说明：去掉字符串两边的空格 
+    　　　　*@param string 为传进来的字符串 
+    　　　　*@return 为字符串　　　 
+    */ 
+    function trim(string) 
+    { 
+        var objstr = string; 
+        objstr = ltrim(objstr); 
+        objstr = rtrim(objstr); 
+        return objstr; 
+    } 
+    function yincang(ischecked) 
+{ 
+ if(ischecked) 
+ document.getElementById("yincangid").style.display="none"; 
+ else 
+ document.getElementById("yincangid").style.display="inline-block"; 
+} 
+ function showmessage(messageid , name) 
+    { 
+       window.showModalDialog('/system/resource/js/message/messagecontents.jsp?wbtreeid=1089&name='+name+'&messageid='+messageid+'&messagecontentcolor=#F2FDFF&fontstyle= class="font162366" &titlecolor=#E2F2FA&recontentcolor=#F2FDFF',window,"dialogWidth:600px;status:no;dialogHeight:300px");  
+    } 
+    function OpenPopWin(winURL, winWidth, winHeight, moveX, moveY, winFeatures, wName) 
+ { 
+  return WinOpenPopWin(window, winURL, winWidth, winHeight, moveX, moveY, winFeatures, wName); 
+ } 
+   
+    function WinOpenPopWin(win, winURL, winWidth, winHeight, moveX, moveY, winFeatures, wName) 
+ { 
+  if(WinOpenPopWin.arguments.length == 8) 
+      winFeatures = "," + winFeatures; 
+  else 
+      winFeatures = ""; 
+      x = (screen.width - winWidth) / 2; 
+   
+      if(moveX != "") 
+          x = moveX; 
+   
+      y = (screen.height - winHeight) / 2; 
+   
+      if(moveX != "") 
+          y = moveY; 
+   
+      var temp = win.open(winURL, wName, "top=" + y + ",left=" + x + ",width=" + winWidth + ",height=" + winHeight + winFeatures + ",resizable=yes"); 
+      return temp; 
+  } 
+    function show(viewid,submitstyle,owner,dbName,ownerName, url,language) 
+ { 
+     OpenPopWin('/system/resource/js/message/addmessagepage.jsp?pformname=b162366b&viewid='+viewid+'&submitstyle='+submitstyle+'&owner='+owner+'&dbName='+dbName+'&ownerName='+ownerName+'&url='+url+'&language='+language  ,620, 520, "220", "120", "", 'showmessage'); 
+ } 
+    function oprcontent() 
+    { 
+      
+    } 
+     
+    function sendmessage(rand) 
+    {
+         
+        
+		var check = document.getElementById("anonymous_temp");
+		if(check && check.checked == true)
+			document.getElementById("anonymous").value = 1;
+		else
+		{
+			if(document.getElementById("anonymous"))
+				document.getElementById("anonymous").value = 0;
+        }
+        if(trim(document.getElementById("wbtitle").value) == "") 
+        { 
+            alert('请填写留言标题'); 
+            return; 
+        } 
+         
+           var fix = document.getElementById("image").value; 
+           if(fix!="") 
+           { 
+				var index;
+                var fixname;                
+                if(document.all)
+                {
+		           index = fix.lastIndexOf("\\");
+		           fixname = fix.substring(index + 1, fix.lengh);
+		        }
+                else
+                {
+                   fixname=fix;
+                }
+				if(ischinesename(fixname)){ 
+				alert("上传的图片名称不可以含有中文");  
+				return false; 
+    	        } 
+           var lenth = fixname.lastIndexOf("."); 
+           fixname = fixname.substring(lenth + 1, fixname.length); 
+           fixname = fixname.toLowerCase(); 
+           if(fixname != "gif" && fixname != "bmp" && fixname != "jpg" && fixname != "jpeg" && fixname != "png") 
+           { 
+               alert("请选择一个有效的图片文件格式\n支持的格式有（*.gif,*.jpg,*.bmp,*.jpeg*,*.png）"); 
+                      return; 
+           } 
+           } 
+         
+          
+           var fix = document.getElementById("attach").value; 
+           if(fix!="") 
+           { 
+                var index;
+                var fixname;                
+                if(fix.lastIndexOf("\\")>=0)
+                {
+		           index = fix.lastIndexOf("\\");
+		           fixname = fix.substring(index + 1, fix.lengh);
+		        }
+                else
+                {
+                   fixname=fix;
+                }
+             var lenth = fixname.lastIndexOf("."); 
+             fixname = fixname.substring(lenth + 1, fixname.length); 
+             fixname = fixname.toLowerCase(); 
+             if(fixname != "gif" && fixname != "bmp" && fixname != "jpg" && fixname != "doc" && fixname != "docx" && fixname != "ppt" && fixname != "xls" && fixname != "png" && fixname != "jpeg" && fixname != "zip" && fixname != "rar" && fixname != "xlsx" && fixname != "pptx") 
+             { 
+                 alert("请选择一个有效的附件文件格式\n支持的格式有（*.gif,*.jpg,*.bmp,*.jpeg,*.rar,*.zip,*.png,*.doc,*.docx,*.ppt,*.xls,*.xlsx,*.ppt,*.pptx）"); 
+                       return; 
+             } 
+           } 
+         
+     var html = webberedit.getHTML(); 
+     if ((html.toLowerCase()=="<p>&nbsp;</p>")||(html.toLowerCase()=="<p></p>")||(html.toLowerCase()=="<br>")) 
+     { 
+      html = ""; 
+     } 
+     document.a162366a.wbcontent.value = html; 
+     if(document.a162366a.wbcontent.value == "") 
+     { 
+         alert("请输入内容！"); 
+        return false; 
+     } 
+     if(document.a162366a.wbcontent.value.length >3900) 
+     { 
+         alert("留言内容应该在0-4000个字符"); 
+        return false; 
+     } 
+     if(document.getElementById("yanzheng")&&document.getElementById("yanzheng").value=="")
+     {
+        alert("请填写验证码");
+        document.getElementById("yanzheng").focus();
+        return false;
+     }
+     document.a162366a.action='/jwjc/jb.jsp?wbtreeid=1089&urltype=tree.TreeTempUrl&actions=savemessage'; 
+           
+             if((document.getElementById("attach")&&document.getElementById("attach").value.length>0)||(document.getElementById("image")&&document.getElementById("image").value.length>0))
+             {    
+                 //启动云存储调用
+                 storage.startStatusCheck();
+                 handleshow();
+             }
+      
+     document.a162366a.submit(); 
+    }
+    //显示上传进度
+    function handleshow()
+    {
+    }
+    //隐藏上传进度
+    function handlehidden()
+    {
+    }
+    //云存储处理完成后回调的参数
+    function handlesucceedfunction(json)
+    {
+        var fileinfo = "";
+        for(var i=0;i<json.file.length;i++)
+        {
+             var file = json.file[i];
+             var showname = file.wbshowname;
+             var fileext  = file.wbfileext;
+             var filelength = file.wblength;
+             var shorturl = file.wbshorturl;
+             fileinfo = fileinfo+shorturl+";"+showname+";"+fileext+";"+filelength+"@";
+        } 
+        document.getElementById("wbuploadpath").value = fileinfo;
+        storage.recoverForm();
+        if(json.errorinfo=="")
+        {
+            document.getElementById("a162366a").submit();    
+        }
+    }
+    
+    //云存储js需要设置的值
+    storage = new storageServices();
+    storage.formid = "a162366a";//表单编号 之前没有设置的需要设置下
+    storage.uploadurl = "/system/resource/storage/localupload.jsp?doaction=save&rid=1d98wn0lpf&uptoken=291DBC8108C546F78D3CCD867C0B11F6";//上传提交地址
+    storage.uploadResultAjaxUrl = "/system/resource/storage/uploadresult.jsp?token=291DBC8108C546F78D3CCD867C0B11F6";//获取返回结果地址
+    storage.uploadStateAjaxUrl = "/system/resource/storage/uploadstate.jsp?islocal=0&url=%252Fsystem%252Fresource%252Fstorage%252Flocaluploadstate.jsp&rid=1d98wn0lpf";//获取上传状态地址
+    storage.uploadStateEchoDivId = "status";//回显状态对象的编号
+    storage.formtargetname = "storagenode";//提交target编号
+    storage.handleerrfunction = "handlehidden";//出现错误回调的函数名称
+    storage.handlesucceedfunction = "handlesucceedfunction";//上传成功回调函数名称
+    function convertUserInfo()
+	{
+		document.getElementById("wbaccount").value = document.getElementById("wbaccount_temp").value;
+	  	document.getElementById("wbmm").value = vsb_login_encod_password(document.getElementById("wbaccount").value,document.getElementById("mm_temp").value);
+	}
+	function vsb_login_encod_password(_account,_password)
+	{
+	    if(_account=="")
+	    {
+	        return "";
+	    }
+	    if(_password=="")
+	    {
+	        return "";
+	    }
+	    //var _beforeEncodeStr = _account+_password;
+	    //var _base64stt = new Base64().encode(_beforeEncodeStr);
+	    var _md5str = hex_md5(_password).toUpperCase();
+	    return _md5str;
+	}
+   
+</script>
+<form name="b162366b" method="post" id="b162366b" style="display: inline" action="/jwjc/jb.jsp?wbtreeid=1089&urltype=tree.TreeTempUrl">
+
+	<table  class="bgstyle162366"   class="window162366"  width=100% border=0>
+		<tr height="24">
+			<td width="40%" align="center" background="/system/resource/images/message/lmt_title_bg.gif" nowrap>
+				标题
+			</td>
+			<td width="15%" align="center" background="/system/resource/images/message/lmt_title_bg.gif" nowrap>
+				分类名称
+			</td>
+			<td width="15%" align="center" background="/system/resource/images/message/lmt_title_bg.gif" nowrap>
+				发布人
+			</td>
+			<td width="15%" align="center" background="/system/resource/images/message/lmt_title_bg.gif" nowrap>
+				提交时间
+			</td>
+			<td width="15%" align="center" background="/system/resource/images/message/lmt_title_bg.gif" nowrap>
+				状态
+			</td>
+		</tr>
+	</table>
+
+	<table  class="window162366"  bgcolor="#ffffff" border=0 cellspacing=1 cellpadding=2 width=100%>
+        <tr>
+			<td>
+				<font color="#892407" size="2"><strong>没有留言内容</strong></font>
+			</td>
+		</tr>
+	</table>
+
+	<table  class="window162366"  border="0" width=100% align="center" cellpadding="8" cellspacing="1">
+
+		<tr>
+			<INPUT TYPE=hidden NAME=b162366bactiontype id=b162366bactiontype  VALUE=""><input type=hidden name=b162366bo value="desc"><input type=hidden name=b162366bk value="wbdate">
+<style type="text/css">
+.headStyle2cu4zm4lpf, .headStyle2cu4zm4lpf td, .headStyle2cu4zm4lpf div {font-size: 12px;font-family:宋体; color: #000000; margin-left: auto; margin-right: auto; line-height:14px;}
+.defaultButtonStyle {font-size: 12px;font-family:宋体; height:20px;color: #000000;BORDER: #AFD5F5 1px solid; margin: 0px;padding: 0px; FILTER:progid:DXImageTransform.Microsoft.Gradient(GradientType=0,StartColorStr=#ffffff, EndColorStr=#BDDBF7);  CURSOR: pointer; line-height:14px;background:-webkit-gradient(linear, 0 0, 0 100%, from(#ffffff), to(#BDDBF7));background: -moz-linear-gradient( top,#ffffff,#BDDBF7);background:-ms-linear-gradient(top,#ffffff 0%,#bddbf7 100%)}
+.defaultinputStyle {font-size: 12px;font-family:宋体; height:20px; border:1px solid #AFD5F5; line-height:14px;}
+.colHeader {font-size: 12px;font-family:宋体; line-height:14px;}
+.headStyle2cu4zm4lpf a, .pageList .this-page {font-size: 12px;font-family:宋体; display:inline-block; height:14px; padding: 2px 4px; border: solid 1px #AFD5F5; background: #fff; text-decoration: none; MARGIN-RIGHT: 1px;line-height:14px;}
+.headStyle2cu4zm4lpf a:visited {font-size: 12px;font-family:宋体; color: #000000; text-decoration: none; line-height:14px;}
+.headStyle2cu4zm4lpf .PrevDisabled {font-size: 12px;font-family:宋体; display:inline-block;height:14px;  margin-right: 3px; padding: 2px 4px; background: #fff;color:#ccc;border: solid 1px #AFD5F5; line-height:14px;}
+.headStyle2cu4zm4lpf .SelectList {font-size: 12px;font-family:宋体;line-height:14px;}
+.headStyle2cu4zm4lpf .Prev { font-size: 12px;font-family:宋体; margin-right: 3px; padding: 2px 4px;line-height:14px;}
+.headStyle2cu4zm4lpf .break {font-size: 12px;font-family:宋体; border: none; text-decoration: none; line-height:14px;}
+.headStyle2cu4zm4lpf .NextDisabled { font-size: 12px;font-family:宋体;display:inline-block; height:14px; margin-left: 2px; padding: 2px 4px;background: #fff;color:#ccc;border: solid 1px #AFD5F5; line-height:14px; }
+.headStyle2cu4zm4lpf .Next { font-size: 12px;font-family:宋体; margin-left: 2px; padding: 2px 4px;line-height:14px;}
+.headStyle2cu4zm4lpf .this-page {font-size: 12px;font-family:宋体;display:inline-block;height:14px;padding: 2px 4px; border: solid 1px #AFD5F5; background: #E1F0FD; font-weight: bold; color:black; MARGIN-RIGHT: 1px;line-height:14px;}
+.headStyle2cu4zm4lpf a:hover {font-size: 12px;font-family:宋体;color: black; background: #EFF7FE; border-color: #AFD5F5; text-decoration: none;line-height:14px;}
+.headStyle2cu4zm4lpf a:link {font-size: 12px;font-family:宋体;color: #000000; text-decoration: none;line-height:14px;}
+.headStyle2cu4zm4lpf a:active { font-size: 12px;font-family:宋体;color: black; text-decoration: none; background: #EFF7FE; line-height:14px;}
+</style>
+			<TR><td colspan=5><table cellspacing=0 class=headStyle2cu4zm4lpf width="100%" cellpadding=1><tr valign=middle><TD nowrap align=left width=1% >共0条&nbsp;<input type=hidden name=b162366bfc value="10">&nbsp;0/0&nbsp;</td><td nowrap align=left><div></div></td><TD nowrap align=right></td></tr></table></td></tr>
+		</tr>
+	</table>
+</form>
+
+
+<center><div id="status" style="padding-top: 80px; overflow: auto; width: 100%; height: 100%; display: none;">请稍后...</div></center>
+	<table  class="window162366"  width="100%" border="0" align="center" cellpadding="2" cellspacing="1" bgcolor="#C1E0FF">
+		<tr>
+			<td height="30" bgcolor="#E2F2FA" class="biaoti">
+				<span style="font-size: 9pt; font-weight: bold; color: #2F7195; text-decoration: none;">发表留言：</span>
+			</td>
+		</tr>
+	</table>
+	<table width="100%" height="416" border="0" cellpadding="2" cellspacing="2" bgcolor="#F5F5F5">
+		<tr><td valign="middle">
+			<table width="98%" border="0" align="center" cellpadding="5" cellspacing="1" bgcolor="#C1E0FF">
+				<tr><td valign="middle" bgcolor="#FFFFFF" style="line-height:150%">
+				<table width="100%" border="0" align="center" cellpadding="0" cellspacing="3">
+
+	<tr>
+	<td>
+	<style>.prog-border{    height: 20px;    width: 205px;    background: #fff;    border: 1px solid #000;    margin: 0;    padding: 0;}.prog-bar{    height: 20px;    margin: 0px;    padding: 0px;    background: #99f273;    font-size: 10pt;    float:left;}</style> 
+    <iframe name='storagenode' style='display: none; position: absolute; width: 0px; height: 0px' src='about:blank'></iframe>
+	<form name="a162366a" method="post" id="a162366a" style="display: inline" enctype="multipart/form-data" action="/jwjc/jb.jsp?wbtreeid=1089&urltype=tree.TreeTempUrl">
+	<input type='hidden' name='TOKENKEY' value='1587293383521'>
+
+	<input type="hidden" value="" name="wbmm" id="wbmm">
+	<input type="hidden" value="" name="wbaccount" id="wbaccount">
+	<input type="hidden" value="" name="actiontype">
+	<input type="hidden" name="wbuploadpath" id="wbuploadpath" value="">
+    <input type="hidden" name="owner" id="owner" value="0"><input type="hidden" name="token" id="token" value="291DBC8108C546F78D3CCD867C0B11F6"><input type="hidden" name="params" id="params" value="eyJjb252ZXJ0cGFyYW1zIjpbeyJjb252ZXJ0VHlwZSI6ImltYWdldG90aHVtYiIsInBhcmFtcyI6eyJpbWdhdXRvcmVzaXplIjoidHJ1ZSIsImltZ2F1dG9yZXNpemV3aWR0aCI6IjE5MjAiLCJpbWdhdXRvcmVzaXplaGVpZ2h0IjoiMTA4MCIsImxpbWl0d2lkdGgiOiIxNjIwIiwibGltaXRoZWlnaHQiOiIxMDAwMCIsImltZ3RodW1id2lkdGgiOiI2NDAiLCJpbWd0aHVtYmhlaWdodCI6IjEwMDAwMCIsImxpbWl0ZmlsZXNpemUiOiIxMDQ4NTc2In19LHsiY29udmVydFR5cGUiOiJpbWFnZXRvcmVkdWNlcXVhbGl0eSIsInBhcmFtcyI6eyJpbWdhdXRvcmVzaXplIjoidHJ1ZSIsImltZ2F1dG9yZXNpemV3aWR0aCI6IjE5MjAiLCJpbWdhdXRvcmVzaXplaGVpZ2h0IjoiMTA4MCIsImxpbWl0d2lkdGgiOiIxNjIwIiwibGltaXRoZWlnaHQiOiIxMDAwMCIsImltZ3RodW1id2lkdGgiOiI2NDAiLCJpbWd0aHVtYmhlaWdodCI6IjEwMDAwMCIsImxpbWl0ZmlsZXNpemUiOiIxMDQ4NTc2In19XSwiYWxsb3dleHRzIjoianBnLGpwZWcsZ2lmLHBuZyxibXAsZ2lmLHBuZyxkb2MsZG9jeCxwcHQscHB0eCxleGNlbCx4bHMseGxzeCxibXAsanBnLGpwZWcsemlwLHJhciIsInVwdG9rZW4iOiIyOTFEQkM4MTA4QzU0NkY3OEQzQ0NEODY3QzBCMTFGNiIsIm5vZGVjb2RlIjoibG9jYWwifQ=="><input type="hidden" name="uploadfilejson" id="uploadfilejson" value=""><input type="hidden" name="watermark" id="watermark" value=""><input type="hidden" name="waterlocal" id="waterlocal" value=""><input type="hidden" name="waterfilename" id="waterfilename" value=""><input type="hidden" name="waterurl" id="waterurl" value="">
+
+					<span  style=display:none  style="font-size: 9pt; font-weight: bold; color: #2F7195; text-decoration: none;" >
+						选择分类：
+					</span>
+					<select  style=display:none  name="classselect" style="background-color: #FFFFFF; height: 22px; width: 170px; border: 1px solid #BAD3E6;">
+
+							<option value="0"  >默认分类</option>
+
+					</select>
+</td>
+</tr>
+<tr>
+<td>
+					<span style="font-size: 9pt; font-weight: bold; color: #2F7195; text-decoration: none;">标　题：&nbsp;&nbsp;</span><input 
+					name="wbtitle" size="40" type="text" id="wbtitle" style="background-color: #FFFFFF; height: 22px; width: 300px; border: 1px solid #BAD3E6;" 
+					maxlength="40" value="" />				
+					<span style="font-size: 9pt; font-weight: bold; color: #2F7195; display:inline-block; text-decoration: none;"><font color="red">*</font> （标题限制 <b>40</b> 个字符以内）</span>&nbsp;&nbsp;	
+
+</td>
+</tr>
+<tr>
+<td>
+					<span style="font-size: 9pt; font-weight: bold; color: #2F7195; text-decoration: none;">附　件：&nbsp;&nbsp;</span><input 
+					type="file" name="attach" id="attach" value="" style="background-color: #FFFFFF; height: 23px; width: 260px; border: 1px solid #BAD3E6; cursor: hand;" />
+					<span style="font-size: 9pt; font-weight: bold; color: #2F7195; text-decoration: none;">（上传附件不能超过5M）</span>&nbsp;
+</td>
+</tr>
+<tr>
+<td>
+
+					<span style="font-size: 9pt; font-weight: bold; color: #2F7195; text-decoration: none;">图　片：&nbsp;&nbsp;</span><input 
+					type="file" name="image" id="image" value="" style="background-color: #FFFFFF; height: 23px; width: 260px; border: 1px solid #BAD3E6; cursor: hand;" />
+</td>
+</tr>
+<tr>
+<td>
+
+</td>
+</tr>
+<tr>
+<td>
+					<span id="istext" style="display: none">
+                    <textarea style="word-break: break-all" onfocus="valid()" name="wbcontent" cols=76 rows=21></textarea> </span>
+					<iframe id="webberedit" name="webberedit" src="/system/resource/smalledit/smalledit.htm" align="center" width="100%" frameborder="0" height="241" scrolling="No">
+					</iframe>
+					<table width="100%" border="0" cellpadding="0" cellspacing="0">
+						<tr><td>
+							<span style="font-size: 9pt; font-weight: bold; color: #2F7195; text-decoration: none;">请正确填写验证码</span>
+							<input name="yanzheng" id="yanzheng" type="text" style="background-color: #FFFFFF; height: 20px; width: 100px; border: 1px solid #BAD3E6;" size="6" maxlength="4" />
+							<img border="0" src="/system/resource/js/message/createimage.jsp" align="absmiddle" />
+
+							<input name="button" type="button" value="提交" onclick="sendmessage('null')"  class="defaultlistbuttonstyle"  />
+
+						</td></tr>
+					</table>
+					</td></tr>
+					</table>
+				</td>
+			</tr></table>
+		</td></tr>
+	</table>
+
+</form></P></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD valign="bottom" align="center"><IMG src="images/hua.jpg" 360chrome_form_autofill="2"></TD></TR></TBODY></TABLE>
+<DIV 360chrome_form_autofill="2" style="height: 10px"></DIV>
+<TABLE cellspacing="0" cellpadding="0" width="981" background="images/copybg.gif" align="center" height="83">
+<TBODY>
+<TR>
+<TD align="center"><p style="text-align: center">桂林电子科技大学纪检监察网&nbsp;&nbsp;</p></TD></TR></TBODY></TABLE>
+
+</BODY></HTML>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><HTML><HEAD><TITLE>我要举报-纪检监察网</TITLE><META Name="keywords" Content="纪检监察网" />
+
+
+
+
+
+<META content="text/html; charset=UTF-8" http-equiv="Content-Type"><LINK rel="stylesheet" href="style/sytle.css">
+
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="/jwjc/jb.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/vsbscreen.min.js" id="_vsbscreen" ></script>
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1089,'/jb.jsp',-1,1410804270)</script>
+</HEAD>
+<BODY  style="zoom: 1">
+<TABLE cellspacing="0" cellpadding="0" width="981" background="images/top.jpg" align="center" height="176">
+<TBODY>
+<TR>
+<TD height="125" valign="top" align="left">
+<table border="0" cellspacing="0" cellpadding="0"><tr><td><img src="images/logo6.png" width="689" height="86"   border="0" alt="纪委办公室/监察室" title="纪委办公室/监察室" ></td></tr></table></TD>
+<TD width="270"><script language="javascript">
+function dosuba18263a()
+{
+    try{
+		var ua = navigator.userAgent.toLowerCase();
+		if(ua.indexOf("msie 8")>-1)
+		{
+			window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE8
+		}else if(ua.toLowerCase().indexOf("rv:")>-1)
+        {
+            window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE11+
+        }else{
+			if (document.all) 
+			{
+				window.external.addFavorite(document.location.href, document.title);
+			}else if(window.sidebar)
+			{
+				window.sidebar.addPanel( document.title, document.location.href, "");//firefox
+			}
+			else
+			{
+				alert(hotKeysa18263a());
+			}
+		}
+
+    }
+    catch (e){alert("无法自动添加到收藏夹，请使用 Ctrl + d 手动添加");}
+}
+function hotKeysa18263a() 
+{
+	var ua = navigator.userAgent.toLowerCase(); 
+	var str = "";    
+	var isWebkit = (ua.indexOf('webkit') != - 1); 
+	var isMac = (ua.indexOf('mac') != - 1);     
+	if (ua.indexOf('konqueror') != - 1) 
+	{  
+		str = 'CTRL + B'; // Konqueror   
+	} 
+	else if (window.home || isWebkit || isMac) 
+	{        
+		str = (isMac ? 'Command/Cmd' : 'CTRL') + ' + D'; // Netscape, Safari, iCab, IE5/Mac   
+	}
+	return ((str) ? '无法自动添加到收藏夹，请使用' + str + '手动添加' : str);
+}
+function setHomepagea18263a()
+{
+	var url = document.location.href;
+    if (document.all)
+    {
+        document.body.style.behavior='url(#default#homepage)';
+        document.body.setHomePage(url);
+    }
+    else if (window.sidebar)
+    {
+        if(window.netscape)
+        {
+             try{
+                  netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+             }catch (e){
+                   alert("该操作被浏览器拒绝，如果想启用该功能，请在地址栏内输入 about:config,然后将项 signed.applets.codebase_principal_support 值该为true");
+             }
+    	}
+	var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components. interfaces.nsIPrefBranch);
+	prefs.setCharPref('browser.startup.homepage',url);
+	}
+	else
+	{
+		alert("浏览器不支持自动设为首页，请手动设置");
+	}
+}
+</script><table><tr><td style="font-size:9pt"><img align=absmiddle src='images/swsy.gif' border=0>&nbsp;<A href="javascript:setHomepagea18263a()"><span  class="font18263" >设为首页</span></A></td></tr><tr><td style="font-size:9pt"><img align=absmiddle src='images/jrsc.gif' border=0>&nbsp;<A onclick="javascript:dosuba18263a();" href="#"><span  class="font18263" >加入收藏</span></A></td></tr></table></TD></TR>
+<TR>
+<TD valign="middle" colspan="2" align="center" style="padding-bottom: 13px; padding-top: 10px"><style type="text/css">
+td.b1_2_{FONT-SIZE:9pt;}
+td.b2_2_{FONT-SIZE:9pt;}
+td.b3_2_{FONT-SIZE:9pt;BACKGROUND-COLOR: #eff8fe;; }
+td.b4_2_{FONT-SIZE:9pt;BACKGROUND-COLOR: #e8f0fb;; }
+a.menu0_2_:link {TEXT-DECORATION: none; };
+a.menu0_2_:visited { TEXT-DECORATION: none;};
+a.menu0_2_:hover {TEXT-DECORATION: none;};
+a.menu0_2_:active {TEXT-DECORATION: none;};
+table.tb1_2_{FONT-SIZE:9pt;border:0;}
+span.s1_2_{COLOR: #fff;FONT-SIZE: 14px;FONT-WEIGHT: bold;TEXT-DECORATION: none;}
+span.s2_2_{FONT-SIZE: 9pt;COLOR: #cc0000;LINE-HEIGHT: 160%;}
+span.s10_2_{COLOR: #fff;FONT-SIZE: 14px;FONT-WEIGHT: bold;TEXT-DECORATION: none;}
+span.s20_2_{FONT-SIZE: 9pt;COLOR: #222222;LINE-HEIGHT: 160%;}
+</style>
+<SCRIPT language=javascript> 
+ var showfix_2_ = 1;
+ var isvertical_2_ = false;
+</SCRIPT>
+<script language="javascript" src="/system/resource/js/menu/text.js"></script>
+<TABLE id="t1_2_" cellSpacing=0 cellPadding=0 border=0 height=0 width=960><TR><TD valign=center></TD><TD valign=middle height=0 width=0 nowrap class=b1_2_ align=center id=a_2_1001 onmouseover="tshowLayers('1001','b2_2_', '_2_')"  onmouseout="thideLayers('1001','b1_2_', '_2_','true','true')"><a class=menu0_2_ href='index.htm'><span  class="fontstyle18264" >&nbsp;首页&nbsp;</span></a></TD><TD valign=center class="leaderfont18264" >|</TD><TD valign=middle width=0 nowrap class=b1_2_ align=center id=a_2_1060 onmouseover="tshowLayers('1060','b2_2_', '_2_')"  onmouseout="thideLayers('1060','b1_2_', '_2_','true','true')"><a class=menu0_2_ href='jgzh.htm'><span  class="fontstyle18264" >&nbsp;机构职能&nbsp;</span></a></TD><TD valign=center class="leaderfont18264" >|</TD><TD valign=middle width=0 nowrap class=b1_2_ align=center id=a_2_1064 onmouseover="tshowLayers('1064','b2_2_', '_2_')"  onmouseout="thideLayers('1064','b1_2_', '_2_','true','true')"><a class=menu0_2_ href='list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1064'><span  class="fontstyle18264" >&nbsp;信息动态&nbsp;</span></a></TD><TD valign=center class="leaderfont18264" >|</TD><TD valign=middle width=0 nowrap class=b1_2_ align=center id=a_2_1068 onmouseover="tshowLayers('1068','b2_2_', '_2_')"  onmouseout="thideLayers('1068','b1_2_', '_2_','true','true')"><a class=menu0_2_ href='list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1068'><span  class="fontstyle18264" >&nbsp;热点关注&nbsp;</span></a></TD><TD valign=center class="leaderfont18264" >|</TD><TD valign=middle width=0 nowrap class=b1_2_ align=center id=a_2_1073 onmouseover="tshowLayers('1073','b2_2_', '_2_')"  onmouseout="thideLayers('1073','b1_2_', '_2_','true','true')"><a class=menu0_2_ href='list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1073'><span  class="fontstyle18264" >&nbsp;廉政教育&nbsp;</span></a></TD><TD valign=center class="leaderfont18264" >|</TD><TD valign=middle width=0 nowrap class=b1_2_ align=center id=a_2_1074 onmouseover="tshowLayers('1074','b2_2_', '_2_')"  onmouseout="thideLayers('1074','b1_2_', '_2_','true','true')"><a class=menu0_2_ href='list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1074'><span  class="fontstyle18264" >&nbsp;廉政文化&nbsp;</span></a></TD><TD valign=center class="leaderfont18264" >|</TD><TD valign=middle width=0 nowrap class=b1_2_ align=center id=a_2_1075 onmouseover="tshowLayers('1075','b2_2_', '_2_')"  onmouseout="thideLayers('1075','b1_2_', '_2_','true','true')"><a class=menu0_2_ href='list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1075'><span  class="fontstyle18264" >&nbsp;党纪法规&nbsp;</span></a></TD><TD valign=center class="leaderfont18264" >|</TD><TD valign=middle width=0 nowrap class=b1_2_ align=center id=a_2_1087 onmouseover="tshowLayers('1087','b2_2_', '_2_')"  onmouseout="thideLayers('1087','b1_2_', '_2_','true','true')"><a class=menu0_2_ href='list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1087'><span  class="fontstyle18264" >&nbsp;信访举报&nbsp;</span></a></TD><TD valign=center class="leaderfont18264" >|</TD><TD valign=middle width=0 nowrap class=b1_2_ align=center id=a_2_1076 onmouseover="tshowLayers('1076','b2_2_', '_2_')"  onmouseout="thideLayers('1076','b1_2_', '_2_','true','true')"><a class=menu0_2_ href='list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1076'><span  class="fontstyle18264" >&nbsp;下载中心&nbsp;</span></a></TD></TR></TR></table></TD></TR></TBODY></TABLE>
+<TABLE cellspacing="0" cellpadding="0" width="981" align="center" height="179">
+<TBODY>
+<TR>
+<TD align="left"><IMG src="images/bannerleft.gif" width="6" height="202" 360chrome_form_autofill="2"></TD>
+<TD valign="top" background="images/bannercenter.gif" width="971" style="padding-top: 3px">
+
+
+
+
+<script language="javascript" src="/system/resource/js/dynclicks.js"></script>
+<table  border="0" cellpadding="0" cellspacing="0">
+    <tr>
+    <td><img src="images/gdfg02.jpg" width="971" height="380" hspace="0" vspace="0" border="0"   ></td>
+        </tr>
+        </table></TD>
+<TD><IMG src="images/bannerright.gif" width="4" 360chrome_form_autofill="2"></TD></TR></TBODY></TABLE>
+<DIV 360chrome_form_autofill="2" style="height: 3px"></DIV>
+<TABLE cellspacing="0" cellpadding="0" width="981" align="center" height="179">
+<TBODY>
+<TR>
+<TD valign="top" width="226" align="left">
+<TABLE cellspacing="0" cellpadding="0">
+<TBODY>
+<TR>
+<TD class="graytable" width="224">
+<TABLE cellspacing="0" cellpadding="0" width="100%" background="images/jxggbg.gif" height="29">
+<TBODY>
+<TR>
+<TD width="11%"></TD>
+<TD class="title1" width="68%">热点文章</TD>
+<TD width="21%"></TD></TR></TBODY></TABLE>
+<TABLE cellspacing="0" cellpadding="0" width="90%" align="center" height="230">
+<TBODY>
+<TR>
+<TD height="10"></TD></TR>
+<TR>
+<TD valign="top"><script language="javascript" src="/system/resource/js/base64.js"></script>
+<script language="javascript" src="/system/resource/js/jquery/jquery-latest.min.js"></script>
+<div id="load_div_u4" style="width: 100%;height: 100%;text-align: center;vertical-align: middle;" ><img  border="0" src='/system/resource/images/loading.gif'></div>
+<table  width=100%  cellspacing="0" cellpadding="0" style="display: none;" id="hotnews_content_table_u4">
+</table>
+<script type="text/javascript">
+function getHotNewsTitleu4()
+{
+    var mediaisshow = 'false';
+    var _this = this;
+    var loaddiv = jQuery("#load_div_u4");
+    var contenttable = jQuery("#hotnews_content_table_u4");
+    _this.t_body = jQuery("#hotnews_content_table_u4");
+    _this.clickshow = false;
+    _this.clickname = '点击';
+    _this.clickstyle = 'clickstyle18289';
+    _this.endimageposition = false;
+    _this.isfollowtilte = false;
+    //构造 参数
+    var param =  {owner:'1410804270',treeid:'1089',viewid:'18289',mode:'10',
+            locale:'zh_CN',
+            pageUrl:'/jb.jsp?urltype=tree.TreeTempUrl&wbtreeid=1089',uniqueId:'u4',
+            PAGENUM:_this.curpage,actionmethod:'getnewslist'}
+     var ajaxurl  = "/system/resource/js/news/hotdynpullnews.jsp";        
+     _this._getResult = function()
+     {
+        jQuery.post(ajaxurl,param,
+            function(data){
+                _this.dataloadComplete(data);
+            },
+            "json"
+        );
+      }
+      _this.show = function()
+      {
+        loaddiv.css("display","none");
+        contenttable.css("display","");
+      }
+      var newsidarray = new Array();
+      var newsidspanarray = new Array();
+     //数据加载
+     _this.dataloadComplete = function(data)
+     {
+             if(data&&data.length>0)
+            {
+                 var  img = '';
+                 var video = ''; 
+                 var attach = ''; 
+                 
+                 var isshowimg = false;
+                 var showimgalign =  '';
+                 var isshowvideo = false;
+                 var showvideoalign = 'left';
+                 var isshowattach = false;
+                 var showattachalign = 'left';
+                 for(var i=0;i<data.length;i++)
+                 {
+                     var notice_val = data[i];
+                     var wbishaveimg = notice_val.wbishaveimg;
+                     var wbishavevideo = notice_val.wbishavevideo;
+                     var wbhasattach = notice_val.wbhasattach;
+                     var wbpicurl = notice_val.wbpicurl;
+                     if(mediaisshow&&wbpicurl!=null&&wbpicurl!="")
+                     {
+                        var pic_tr = jQuery("<tr></tr>");
+                        var pic_td = jQuery("<td colspan='5'></td>");
+                        pic_td.html(notice_val.picdiv);
+                        _this.t_body.append(pic_tr);
+                     }
+                     var notice_tr = jQuery("<tr></tr>");
+                     //前导图
+                     var leader_td = jQuery("<td align='center' valign='middle' width=10 nowrap ></td>");
+                     var leaderspan =jQuery("<span ><img src='images/coin.gif' align='absmiddle' border='0'></span>");
+                     leaderspan.addClass("leaderfont18289");
+                     leader_td.append(leaderspan);
+                     notice_tr.append(leader_td);
+                     var title_td = jQuery("<td valign='middle' align='left' ></td>");
+                     title_td.addClass("");
+                     
+                     var columnstr = jQuery(notice_val.columnstr);
+                     title_td.append(columnstr);
+                     
+                     if(isshowimg&&showimgalign=="left"&&(wbishaveimg==1))
+                     {
+                        var imgspan = jQuery("<span >"+img+"</span>");
+                        title_td.append(imgspan);
+                     }
+                     if(isshowvideo&&showvideoalign=="left"&&(wbishavevideo==1))
+                     {
+                        var videospan = jQuery("<span >"+video+"</span>");
+                        title_td.append(videospan);
+                     }
+                     if(isshowattach&&showattachalign=="left"&&(wbhasattach==1))
+                     {
+                        var attachspan = jQuery("<span >"+attach+"</span>");
+                        title_td.append(attachspan);
+                     }
+                     
+                     var link_a = jQuery("<a class='c18289' target=_blank  title='"+notice_val.showtitle+"'>"+notice_val.title+"</a>");
+                     link_a.attr("href",notice_val.linkurl);
+                     title_td.append(link_a);
+                     if(false)
+                     {
+                        var endimgspan = jQuery("<span>"+notice_val.endimg+"</span>");
+                        title_td.append(endimgspan);
+                     }
+                     
+                     if(isshowimg&&showimgalign=="right"&&(wbishaveimg==1))
+                     {
+                        var imgspan = jQuery("<span >"+img+"</span>");
+                        title_td.append(imgspan);
+                     }
+                     if(isshowvideo&&showvideoalign=="right"&&(wbishavevideo==1))
+                     {
+                        var videospan = jQuery("<span >"+video+"</span>");
+                        title_td.append(videospan);
+                     }
+                     if(isshowattach&&showattachalign=="right"&&(wbhasattach==1))
+                     {
+                        var attachspan = jQuery("<span >"+attach+"</span>");
+                        title_td.append(attachspan);
+                     }
+                     
+                     if(_this.clickshow)
+                     {
+                        var clicktimespan = jQuery("<span></span>");
+                        clicktimespan.html("("+_this.clickname+"&nbsp;<span id='_wzdjcs_"+notice_val.newsid+"' name='_wzdjcs_"+notice_val.newsid+"'></span>"+")");
+                        clicktimespan.addClass(_this.clickstyle);
+                        newsidarray.push(notice_val.newsid);
+                        newsidspanarray.push("_wzdjcs_"+notice_val.newsid);
+                        title_td.append(clicktimespan);
+                     }
+                     
+                     if(false)
+                     {
+                         var time_span = jQuery("<span width='1%' ></span>")
+                         
+                         time_span.addClass("timestyle18289");
+                         if(true)
+                         {
+                             var endimgspan = jQuery("<span>"+notice_val.endimg+"</span>");
+                             time_span.append(endimgspan);
+                         }  
+                         title_td.append(time_span); 
+                     }
+                     notice_tr.append(title_td);
+                     
+                     
+                     if(true)
+                     {
+                        var time_td = jQuery("<td valign='middle' align=right   width='1%' nowrap>");
+                        time_td.addClass("timestyle18289");
+                        
+                        if(true)
+                        {
+                            var time_span = jQuery("<span width='1%' ></span>")
+                            var endimgspan = jQuery("<span>"+notice_val.endimg+"</span>");
+                            time_span.append(endimgspan);
+                            time_td.append(time_span);
+                        }
+                        notice_tr.append(time_td);
+                     }
+                     
+                     _this.t_body.append(notice_tr);
+                     
+                     var lineimg = '';
+                     if(lineimg!=null&&lineimg!='')
+                     {
+                        var lineimgheight = 1;
+                        var line_tr = jQuery("<tr><td colspan='4' height='" + lineimgheight + "' BACKGROUND='" + lineimg + "'></td></tr>")
+                        _this.t_body.append(line_tr);
+                     }
+                 }
+                 _showDynClickBatch(newsidspanarray,newsidarray,'wbnews','1410804270');
+            }else
+            {
+                _this.t_body.append("<tr><td colspan=4 align=center style='color:#222222;font-size:12px;'>没有记录</td></tr>");
+            }      
+     }
+}
+jQuery(document).ready(function(){
+    var showcontentu4 = new getHotNewsTitleu4();
+    showcontentu4._getResult();
+    showcontentu4.show();
+});
+</script></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD>
+<TD rowspan="2" width="11"></TD>
+<TD valign="top" rowspan="2" width="744">
+<TABLE cellspacing="0" cellpadding="0">
+<TBODY>
+<TR>
+<TD class="graytable" width="742" colspan="3">
+<TABLE cellspacing="0" cellpadding="0" width="100%" background="images/dqlmtbg.gif" height="34">
+<TBODY>
+<TR>
+<TD width="4%"></TD>
+<TD class="title1" width="17%">我要举报</TD>
+<TD width="79%" align="right" style="padding-right: 10px"></TD></TR></TBODY></TABLE>
+<TABLE cellspacing="0" cellpadding="0" width="95%" align="center">
+<TBODY>
+<TR>
+<TD height="10"></TD></TR>
+<TR>
+<TD height="450" valign="top">
+<P align="left"><SPAN style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font-family: 宋体; font-size: 16px; font-weight: bold; padding-top: 0px">网上举报须知：</SPAN></P>
+<P style="padding-bottom: 0px; line-height: 29px; widows: 2; text-transform: none; background-color: rgb(255,255,255); font-style: normal; text-indent: 32px; margin: 0px; padding-left: 0px; letter-spacing: normal; padding-right: 0px; font-family: 'microsoft yahei'; white-space: normal; orphans: 2; color: rgb(68,68,68); font-size: 12px; font-weight: normal; word-spacing: 0px; padding-top: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px"><SPAN style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font-family: 宋体; font-size: 16px; padding-top: 0px">1</SPAN><SPAN style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font-family: 宋体; font-size: 16px; padding-top: 0px">、根据“分级负责，归口办理”原则，请您按照被举报人属地和级别，选择相应的举报网站进行举报。</SPAN></P>
+<P style="padding-bottom: 0px; line-height: 29px; widows: 2; text-transform: none; background-color: rgb(255,255,255); font-style: normal; text-indent: 32px; margin: 0px; padding-left: 0px; letter-spacing: normal; padding-right: 0px; font-family: 'microsoft yahei'; white-space: normal; orphans: 2; color: rgb(68,68,68); font-size: 12px; font-weight: normal; word-spacing: 0px; padding-top: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px"><SPAN style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font-family: 宋体; font-size: 16px; padding-top: 0px">2、桂林电子科技大学纪委、监察室受理师生员工针对学校各级党组织、党员和监察对象违反党纪政纪问题的举报、控告以及对党风廉政建设和纪检监察工作的意见、建议。</SPAN></P>
+<P style="padding-bottom: 0px; line-height: 29px; widows: 2; text-transform: none; background-color: rgb(255,255,255); font-style: normal; text-indent: 32px; margin: 0px; padding-left: 0px; letter-spacing: normal; padding-right: 0px; font-family: 'microsoft yahei'; white-space: normal; orphans: 2; color: rgb(68,68,68); font-size: 12px; font-weight: normal; word-spacing: 0px; padding-top: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px"><SPAN style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font-family: 宋体; font-size: 16px; padding-top: 0px">3</SPAN><SPAN style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font-family: 宋体; font-size: 16px; padding-top: 0px">、举报人应当遵守法律、法规，不得损害国家、社会、学校的利益和其他公民的合法权利。举报人所举报的事项，应当客观真实，对所提供材料内容的真实性负责，不得捏造、歪曲事实，不得诬告、陷害他人。对借举报陷害他人的，依照有关规定严肃处理。</SPAN></P>
+<P style="padding-bottom: 0px; line-height: 29px; widows: 2; text-transform: none; background-color: rgb(255,255,255); font-style: normal; text-indent: 32px; margin: 0px; padding-left: 0px; letter-spacing: normal; padding-right: 0px; font-family: 'microsoft yahei'; white-space: normal; orphans: 2; color: rgb(68,68,68); font-size: 12px; font-weight: normal; word-spacing: 0px; padding-top: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px"><SPAN style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font-family: 宋体; font-size: 16px; padding-top: 0px">4</SPAN><SPAN style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font-family: 宋体; font-size: 16px; padding-top: 0px">、网上举报只是反映问题的一种途径，还可以通过其他形式进行举报。</SPAN></P>
+<P style="padding-bottom: 0px; line-height: 29px; widows: 2; text-transform: none; background-color: rgb(255,255,255); font-style: normal; text-indent: 32px; margin: 0px; padding-left: 0px; letter-spacing: normal; padding-right: 0px; font-family: 'microsoft yahei'; white-space: normal; orphans: 2; color: rgb(68,68,68); font-size: 12px; font-weight: normal; word-spacing: 0px; padding-top: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px"><SPAN style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font-family: 宋体; font-size: 16px; padding-top: 0px">5</SPAN><SPAN style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font-family: 宋体; font-size: 16px; padding-top: 0px">、我们的通信地址：桂林市七星区金鸡路1号桂林电子科技大学花江校区行政楼418室。</SPAN></P>
+<P style="padding-bottom: 0px; line-height: 29px; widows: 2; text-transform: none; background-color: rgb(255,255,255); font-style: normal; text-indent: 32px; margin: 0px; padding-left: 0px; letter-spacing: normal; padding-right: 0px; font-family: 'microsoft yahei'; white-space: normal; orphans: 2; color: rgb(68,68,68); font-size: 12px; font-weight: normal; word-spacing: 0px; padding-top: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px"><SPAN style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font-family: 宋体; font-size: 16px; padding-top: 0px">&nbsp;&nbsp; 邮编：（541004），举报邮箱：</SPAN><A href="mailto:jub@guet.edu.cn" _href="mailto:jub@guet.edu.cn" style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; color: rgb(102,102,102); text-decoration: none; padding-top: 0px"><SPAN style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font-family: 宋体; font-size: 16px; padding-top: 0px">jub@guet.edu.cn</SPAN></A>&nbsp;，<SPAN style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font-family: 宋体; font-size: 16px; padding-top: 0px">举报电话：0773-2290659/2290660</SPAN></P>
+<P style="padding-bottom: 0px; line-height: 29px; widows: 2; text-transform: none; background-color: rgb(255,255,255); font-style: normal; text-indent: 32px; margin: 0px; padding-left: 0px; letter-spacing: normal; padding-right: 0px; font-family: 'microsoft yahei'; white-space: normal; orphans: 2; color: rgb(68,68,68); font-size: 12px; font-weight: normal; word-spacing: 0px; padding-top: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px"><SPAN style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font-family: 宋体; font-size: 16px; padding-top: 0px">6</SPAN><SPAN style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font-family: 宋体; font-size: 16px; padding-top: 0px">、请如实填写举报内容，对投诉事项发生的时间、地点、主要证据、涉及人员等要交代清楚。</SPAN></P>
+<P style="padding-bottom: 0px; line-height: 29px; widows: 2; text-transform: none; background-color: rgb(255,255,255); font-style: normal; text-indent: 32px; margin: 0px; padding-left: 0px; letter-spacing: normal; padding-right: 0px; font-family: 'microsoft yahei'; white-space: normal; orphans: 2; color: rgb(68,68,68); font-size: 12px; font-weight: normal; word-spacing: 0px; padding-top: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px"><SPAN style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font-family: 宋体; font-size: 16px; padding-top: 0px">7、实名举报可查询举报反馈信息，<A href="https://cas.guet.edu.cn/cas/login?service=http://172.16.26.22/login.aspx" target="">请点击此处</A>。</SPAN></P>
+<P style="padding-bottom: 0px; line-height: 29px; widows: 2; text-transform: none; background-color: rgb(255,255,255); font-style: normal; text-indent: 32px; margin: 0px; padding-left: 0px; letter-spacing: normal; padding-right: 0px; font-family: 'microsoft yahei'; white-space: normal; orphans: 2; color: rgb(68,68,68); font-size: 12px; font-weight: normal; word-spacing: 0px; padding-top: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px"><SPAN style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font-family: 宋体; font-size: 16px; padding-top: 0px">8、匿名举报请在本页下方填写完整资料。</SPAN></P>
+<P align="center">
+<LINK href="/system/resource/style/component/message/message_new.css" type=text/css rel=stylesheet>
+
+
+<script language="JavaScript" src="/system/resource/message/validdata.js"></script>
+<script language="javascript" src="/system/resource/js/base64.js"></script>
+<script language="javascript" src="/system/resource/js/md5.js"></script>
+<script language=javascript src="/system/resource/storage/service/storageservices.js"></script>
+<script language="javascript"> 
+ 
+/** 
+ *功能说明：去掉字符串左边的空格 
+　　　　*@param string 为传进来的字符串 
+　　　　*@return 为字符串 
+ */ 
+function ltrim(string) 
+{ 
+    var objstr = string; 
+
+    if((objstr == "") || (objstr == " ")) 
+    { 
+        return ""; 
+    } 
+
+    var head; 
+    var exitw = true; 
+
+    while(exitw) 
+    { 
+        if((objstr == "") || (objstr == " ")) 
+        { 
+            return ""; 
+        } 
+
+        head = objstr.charAt(0); 
+        if(head == " ") 
+        { 
+            objstr = objstr.substr(1); 
+        } 
+        else 
+        { 
+            exitw = false; 
+        } 
+    } 
+
+    return objstr; 
+} 
+    function rtrim(string) 
+    { 
+        var objstr = string; 
+     
+        if((objstr == "") || (objstr == " ")) 
+        { 
+            return ""; 
+        } 
+     
+        var head; 
+        var exitw = true; 
+     
+        while(exitw) 
+        { 
+            if((objstr == "") || (objstr == " ")) 
+            { 
+                return ""; 
+            } 
+     
+            head = objstr.charAt(objstr.length - 1); 
+            if(head == " ") 
+            { 
+                objstr = objstr.substr(0, objstr.length - 2); 
+            } 
+            else 
+            { 
+                exitw = false; 
+            } 
+        } 
+     
+        return objstr; 
+    } 
+    /** 
+     *功能说明：去掉字符串两边的空格 
+    　　　　*@param string 为传进来的字符串 
+    　　　　*@return 为字符串　　　 
+    */ 
+    function trim(string) 
+    { 
+        var objstr = string; 
+        objstr = ltrim(objstr); 
+        objstr = rtrim(objstr); 
+        return objstr; 
+    } 
+    function yincang(ischecked) 
+{ 
+ if(ischecked) 
+ document.getElementById("yincangid").style.display="none"; 
+ else 
+ document.getElementById("yincangid").style.display="inline-block"; 
+} 
+ function showmessage(messageid , name) 
+    { 
+       window.showModalDialog('/system/resource/js/message/messagecontents.jsp?wbtreeid=1089&name='+name+'&messageid='+messageid+'&messagecontentcolor=#F2FDFF&fontstyle= class="font162366" &titlecolor=#E2F2FA&recontentcolor=#F2FDFF',window,"dialogWidth:600px;status:no;dialogHeight:300px");  
+    } 
+    function OpenPopWin(winURL, winWidth, winHeight, moveX, moveY, winFeatures, wName) 
+ { 
+  return WinOpenPopWin(window, winURL, winWidth, winHeight, moveX, moveY, winFeatures, wName); 
+ } 
+   
+    function WinOpenPopWin(win, winURL, winWidth, winHeight, moveX, moveY, winFeatures, wName) 
+ { 
+  if(WinOpenPopWin.arguments.length == 8) 
+      winFeatures = "," + winFeatures; 
+  else 
+      winFeatures = ""; 
+      x = (screen.width - winWidth) / 2; 
+   
+      if(moveX != "") 
+          x = moveX; 
+   
+      y = (screen.height - winHeight) / 2; 
+   
+      if(moveX != "") 
+          y = moveY; 
+   
+      var temp = win.open(winURL, wName, "top=" + y + ",left=" + x + ",width=" + winWidth + ",height=" + winHeight + winFeatures + ",resizable=yes"); 
+      return temp; 
+  } 
+    function show(viewid,submitstyle,owner,dbName,ownerName, url,language) 
+ { 
+     OpenPopWin('/system/resource/js/message/addmessagepage.jsp?pformname=b162366b&viewid='+viewid+'&submitstyle='+submitstyle+'&owner='+owner+'&dbName='+dbName+'&ownerName='+ownerName+'&url='+url+'&language='+language  ,620, 520, "220", "120", "", 'showmessage'); 
+ } 
+    function oprcontent() 
+    { 
+      
+    } 
+     
+    function sendmessage(rand) 
+    {
+         
+        
+		var check = document.getElementById("anonymous_temp");
+		if(check && check.checked == true)
+			document.getElementById("anonymous").value = 1;
+		else
+		{
+			if(document.getElementById("anonymous"))
+				document.getElementById("anonymous").value = 0;
+        }
+        if(trim(document.getElementById("wbtitle").value) == "") 
+        { 
+            alert('请填写留言标题'); 
+            return; 
+        } 
+         
+           var fix = document.getElementById("image").value; 
+           if(fix!="") 
+           { 
+				var index;
+                var fixname;                
+                if(document.all)
+                {
+		           index = fix.lastIndexOf("\\");
+		           fixname = fix.substring(index + 1, fix.lengh);
+		        }
+                else
+                {
+                   fixname=fix;
+                }
+				if(ischinesename(fixname)){ 
+				alert("上传的图片名称不可以含有中文");  
+				return false; 
+    	        } 
+           var lenth = fixname.lastIndexOf("."); 
+           fixname = fixname.substring(lenth + 1, fixname.length); 
+           fixname = fixname.toLowerCase(); 
+           if(fixname != "gif" && fixname != "bmp" && fixname != "jpg" && fixname != "jpeg" && fixname != "png") 
+           { 
+               alert("请选择一个有效的图片文件格式\n支持的格式有（*.gif,*.jpg,*.bmp,*.jpeg*,*.png）"); 
+                      return; 
+           } 
+           } 
+         
+          
+           var fix = document.getElementById("attach").value; 
+           if(fix!="") 
+           { 
+                var index;
+                var fixname;                
+                if(fix.lastIndexOf("\\")>=0)
+                {
+		           index = fix.lastIndexOf("\\");
+		           fixname = fix.substring(index + 1, fix.lengh);
+		        }
+                else
+                {
+                   fixname=fix;
+                }
+             var lenth = fixname.lastIndexOf("."); 
+             fixname = fixname.substring(lenth + 1, fixname.length); 
+             fixname = fixname.toLowerCase(); 
+             if(fixname != "gif" && fixname != "bmp" && fixname != "jpg" && fixname != "doc" && fixname != "docx" && fixname != "ppt" && fixname != "xls" && fixname != "png" && fixname != "jpeg" && fixname != "zip" && fixname != "rar" && fixname != "xlsx" && fixname != "pptx") 
+             { 
+                 alert("请选择一个有效的附件文件格式\n支持的格式有（*.gif,*.jpg,*.bmp,*.jpeg,*.rar,*.zip,*.png,*.doc,*.docx,*.ppt,*.xls,*.xlsx,*.ppt,*.pptx）"); 
+                       return; 
+             } 
+           } 
+         
+     var html = webberedit.getHTML(); 
+     if ((html.toLowerCase()=="<p>&nbsp;</p>")||(html.toLowerCase()=="<p></p>")||(html.toLowerCase()=="<br>")) 
+     { 
+      html = ""; 
+     } 
+     document.a162366a.wbcontent.value = html; 
+     if(document.a162366a.wbcontent.value == "") 
+     { 
+         alert("请输入内容！"); 
+        return false; 
+     } 
+     if(document.a162366a.wbcontent.value.length >3900) 
+     { 
+         alert("留言内容应该在0-4000个字符"); 
+        return false; 
+     } 
+     if(document.getElementById("yanzheng")&&document.getElementById("yanzheng").value=="")
+     {
+        alert("请填写验证码");
+        document.getElementById("yanzheng").focus();
+        return false;
+     }
+     document.a162366a.action='/jwjc/jb.jsp?wbtreeid=1089&urltype=tree.TreeTempUrl&actions=savemessage'; 
+           
+             if((document.getElementById("attach")&&document.getElementById("attach").value.length>0)||(document.getElementById("image")&&document.getElementById("image").value.length>0))
+             {    
+                 //启动云存储调用
+                 storage.startStatusCheck();
+                 handleshow();
+             }
+      
+     document.a162366a.submit(); 
+    }
+    //显示上传进度
+    function handleshow()
+    {
+    }
+    //隐藏上传进度
+    function handlehidden()
+    {
+    }
+    //云存储处理完成后回调的参数
+    function handlesucceedfunction(json)
+    {
+        var fileinfo = "";
+        for(var i=0;i<json.file.length;i++)
+        {
+             var file = json.file[i];
+             var showname = file.wbshowname;
+             var fileext  = file.wbfileext;
+             var filelength = file.wblength;
+             var shorturl = file.wbshorturl;
+             fileinfo = fileinfo+shorturl+";"+showname+";"+fileext+";"+filelength+"@";
+        } 
+        document.getElementById("wbuploadpath").value = fileinfo;
+        storage.recoverForm();
+        if(json.errorinfo=="")
+        {
+            document.getElementById("a162366a").submit();    
+        }
+    }
+    
+    //云存储js需要设置的值
+    storage = new storageServices();
+    storage.formid = "a162366a";//表单编号 之前没有设置的需要设置下
+    storage.uploadurl = "/system/resource/storage/localupload.jsp?doaction=save&rid=226wpdjpzp&uptoken=448BE33B1E8247C48BACAE33FBEE1D1B";//上传提交地址
+    storage.uploadResultAjaxUrl = "/system/resource/storage/uploadresult.jsp?token=448BE33B1E8247C48BACAE33FBEE1D1B";//获取返回结果地址
+    storage.uploadStateAjaxUrl = "/system/resource/storage/uploadstate.jsp?islocal=0&url=%252Fsystem%252Fresource%252Fstorage%252Flocaluploadstate.jsp&rid=226wpdjpzp";//获取上传状态地址
+    storage.uploadStateEchoDivId = "status";//回显状态对象的编号
+    storage.formtargetname = "storagenode";//提交target编号
+    storage.handleerrfunction = "handlehidden";//出现错误回调的函数名称
+    storage.handlesucceedfunction = "handlesucceedfunction";//上传成功回调函数名称
+    function convertUserInfo()
+	{
+		document.getElementById("wbaccount").value = document.getElementById("wbaccount_temp").value;
+	  	document.getElementById("wbmm").value = vsb_login_encod_password(document.getElementById("wbaccount").value,document.getElementById("mm_temp").value);
+	}
+	function vsb_login_encod_password(_account,_password)
+	{
+	    if(_account=="")
+	    {
+	        return "";
+	    }
+	    if(_password=="")
+	    {
+	        return "";
+	    }
+	    //var _beforeEncodeStr = _account+_password;
+	    //var _base64stt = new Base64().encode(_beforeEncodeStr);
+	    var _md5str = hex_md5(_password).toUpperCase();
+	    return _md5str;
+	}
+   
+</script>
+<form name="b162366b" method="post" id="b162366b" style="display: inline" action="/jwjc/jb.jsp?wbtreeid=1089&urltype=tree.TreeTempUrl">
+
+	<table  class="bgstyle162366"   class="window162366"  width=100% border=0>
+		<tr height="24">
+			<td width="40%" align="center" background="/system/resource/images/message/lmt_title_bg.gif" nowrap>
+				标题
+			</td>
+			<td width="15%" align="center" background="/system/resource/images/message/lmt_title_bg.gif" nowrap>
+				分类名称
+			</td>
+			<td width="15%" align="center" background="/system/resource/images/message/lmt_title_bg.gif" nowrap>
+				发布人
+			</td>
+			<td width="15%" align="center" background="/system/resource/images/message/lmt_title_bg.gif" nowrap>
+				提交时间
+			</td>
+			<td width="15%" align="center" background="/system/resource/images/message/lmt_title_bg.gif" nowrap>
+				状态
+			</td>
+		</tr>
+	</table>
+
+	<table  class="window162366"  bgcolor="#ffffff" border=0 cellspacing=1 cellpadding=2 width=100%>
+        <tr>
+			<td>
+				<font color="#892407" size="2"><strong>没有留言内容</strong></font>
+			</td>
+		</tr>
+	</table>
+
+	<table  class="window162366"  border="0" width=100% align="center" cellpadding="8" cellspacing="1">
+
+		<tr>
+			<INPUT TYPE=hidden NAME=b162366bactiontype id=b162366bactiontype  VALUE=""><input type=hidden name=b162366bo value="desc"><input type=hidden name=b162366bk value="wbdate">
+<style type="text/css">
+.headStyle3bcj10jpzp, .headStyle3bcj10jpzp td, .headStyle3bcj10jpzp div {font-size: 12px;font-family:宋体; color: #000000; margin-left: auto; margin-right: auto; line-height:14px;}
+.defaultButtonStyle {font-size: 12px;font-family:宋体; height:20px;color: #000000;BORDER: #AFD5F5 1px solid; margin: 0px;padding: 0px; FILTER:progid:DXImageTransform.Microsoft.Gradient(GradientType=0,StartColorStr=#ffffff, EndColorStr=#BDDBF7);  CURSOR: pointer; line-height:14px;background:-webkit-gradient(linear, 0 0, 0 100%, from(#ffffff), to(#BDDBF7));background: -moz-linear-gradient( top,#ffffff,#BDDBF7);background:-ms-linear-gradient(top,#ffffff 0%,#bddbf7 100%)}
+.defaultinputStyle {font-size: 12px;font-family:宋体; height:20px; border:1px solid #AFD5F5; line-height:14px;}
+.colHeader {font-size: 12px;font-family:宋体; line-height:14px;}
+.headStyle3bcj10jpzp a, .pageList .this-page {font-size: 12px;font-family:宋体; display:inline-block; height:14px; padding: 2px 4px; border: solid 1px #AFD5F5; background: #fff; text-decoration: none; MARGIN-RIGHT: 1px;line-height:14px;}
+.headStyle3bcj10jpzp a:visited {font-size: 12px;font-family:宋体; color: #000000; text-decoration: none; line-height:14px;}
+.headStyle3bcj10jpzp .PrevDisabled {font-size: 12px;font-family:宋体; display:inline-block;height:14px;  margin-right: 3px; padding: 2px 4px; background: #fff;color:#ccc;border: solid 1px #AFD5F5; line-height:14px;}
+.headStyle3bcj10jpzp .SelectList {font-size: 12px;font-family:宋体;line-height:14px;}
+.headStyle3bcj10jpzp .Prev { font-size: 12px;font-family:宋体; margin-right: 3px; padding: 2px 4px;line-height:14px;}
+.headStyle3bcj10jpzp .break {font-size: 12px;font-family:宋体; border: none; text-decoration: none; line-height:14px;}
+.headStyle3bcj10jpzp .NextDisabled { font-size: 12px;font-family:宋体;display:inline-block; height:14px; margin-left: 2px; padding: 2px 4px;background: #fff;color:#ccc;border: solid 1px #AFD5F5; line-height:14px; }
+.headStyle3bcj10jpzp .Next { font-size: 12px;font-family:宋体; margin-left: 2px; padding: 2px 4px;line-height:14px;}
+.headStyle3bcj10jpzp .this-page {font-size: 12px;font-family:宋体;display:inline-block;height:14px;padding: 2px 4px; border: solid 1px #AFD5F5; background: #E1F0FD; font-weight: bold; color:black; MARGIN-RIGHT: 1px;line-height:14px;}
+.headStyle3bcj10jpzp a:hover {font-size: 12px;font-family:宋体;color: black; background: #EFF7FE; border-color: #AFD5F5; text-decoration: none;line-height:14px;}
+.headStyle3bcj10jpzp a:link {font-size: 12px;font-family:宋体;color: #000000; text-decoration: none;line-height:14px;}
+.headStyle3bcj10jpzp a:active { font-size: 12px;font-family:宋体;color: black; text-decoration: none; background: #EFF7FE; line-height:14px;}
+</style>
+			<TR><td colspan=5><table cellspacing=0 class=headStyle3bcj10jpzp width="100%" cellpadding=1><tr valign=middle><TD nowrap align=left width=1% >共0条&nbsp;<input type=hidden name=b162366bfc value="10">&nbsp;0/0&nbsp;</td><td nowrap align=left><div></div></td><TD nowrap align=right></td></tr></table></td></tr>
+		</tr>
+	</table>
+</form>
+
+
+<center><div id="status" style="padding-top: 80px; overflow: auto; width: 100%; height: 100%; display: none;">请稍后...</div></center>
+	<table  class="window162366"  width="100%" border="0" align="center" cellpadding="2" cellspacing="1" bgcolor="#C1E0FF">
+		<tr>
+			<td height="30" bgcolor="#E2F2FA" class="biaoti">
+				<span style="font-size: 9pt; font-weight: bold; color: #2F7195; text-decoration: none;">发表留言：</span>
+			</td>
+		</tr>
+	</table>
+	<table width="100%" height="416" border="0" cellpadding="2" cellspacing="2" bgcolor="#F5F5F5">
+		<tr><td valign="middle">
+			<table width="98%" border="0" align="center" cellpadding="5" cellspacing="1" bgcolor="#C1E0FF">
+				<tr><td valign="middle" bgcolor="#FFFFFF" style="line-height:150%">
+				<table width="100%" border="0" align="center" cellpadding="0" cellspacing="3">
+
+	<tr>
+	<td>
+	<style>.prog-border{    height: 20px;    width: 205px;    background: #fff;    border: 1px solid #000;    margin: 0;    padding: 0;}.prog-bar{    height: 20px;    margin: 0px;    padding: 0px;    background: #99f273;    font-size: 10pt;    float:left;}</style> 
+    <iframe name='storagenode' style='display: none; position: absolute; width: 0px; height: 0px' src='about:blank'></iframe>
+	<form name="a162366a" method="post" id="a162366a" style="display: inline" enctype="multipart/form-data" action="/jwjc/jb.jsp?wbtreeid=1089&urltype=tree.TreeTempUrl">
+	<input type='hidden' name='TOKENKEY' value='1587304491181'>
+
+	<input type="hidden" value="" name="wbmm" id="wbmm">
+	<input type="hidden" value="" name="wbaccount" id="wbaccount">
+	<input type="hidden" value="" name="actiontype">
+	<input type="hidden" name="wbuploadpath" id="wbuploadpath" value="">
+    <input type="hidden" name="owner" id="owner" value="0"><input type="hidden" name="token" id="token" value="448BE33B1E8247C48BACAE33FBEE1D1B"><input type="hidden" name="params" id="params" value="eyJjb252ZXJ0cGFyYW1zIjpbeyJjb252ZXJ0VHlwZSI6ImltYWdldG90aHVtYiIsInBhcmFtcyI6eyJpbWdhdXRvcmVzaXplIjoidHJ1ZSIsImltZ2F1dG9yZXNpemV3aWR0aCI6IjE5MjAiLCJpbWdhdXRvcmVzaXplaGVpZ2h0IjoiMTA4MCIsImxpbWl0d2lkdGgiOiIxNjIwIiwibGltaXRoZWlnaHQiOiIxMDAwMCIsImltZ3RodW1id2lkdGgiOiI2NDAiLCJpbWd0aHVtYmhlaWdodCI6IjEwMDAwMCIsImxpbWl0ZmlsZXNpemUiOiIxMDQ4NTc2In19LHsiY29udmVydFR5cGUiOiJpbWFnZXRvcmVkdWNlcXVhbGl0eSIsInBhcmFtcyI6eyJpbWdhdXRvcmVzaXplIjoidHJ1ZSIsImltZ2F1dG9yZXNpemV3aWR0aCI6IjE5MjAiLCJpbWdhdXRvcmVzaXplaGVpZ2h0IjoiMTA4MCIsImxpbWl0d2lkdGgiOiIxNjIwIiwibGltaXRoZWlnaHQiOiIxMDAwMCIsImltZ3RodW1id2lkdGgiOiI2NDAiLCJpbWd0aHVtYmhlaWdodCI6IjEwMDAwMCIsImxpbWl0ZmlsZXNpemUiOiIxMDQ4NTc2In19XSwiYWxsb3dleHRzIjoianBnLGpwZWcsZ2lmLHBuZyxibXAsZ2lmLHBuZyxkb2MsZG9jeCxwcHQscHB0eCxleGNlbCx4bHMseGxzeCxibXAsanBnLGpwZWcsemlwLHJhciIsInVwdG9rZW4iOiI0NDhCRTMzQjFFODI0N0M0OEJBQ0FFMzNGQkVFMUQxQiIsIm5vZGVjb2RlIjoibG9jYWwifQ=="><input type="hidden" name="uploadfilejson" id="uploadfilejson" value=""><input type="hidden" name="watermark" id="watermark" value=""><input type="hidden" name="waterlocal" id="waterlocal" value=""><input type="hidden" name="waterfilename" id="waterfilename" value=""><input type="hidden" name="waterurl" id="waterurl" value="">
+
+					<span  style=display:none  style="font-size: 9pt; font-weight: bold; color: #2F7195; text-decoration: none;" >
+						选择分类：
+					</span>
+					<select  style=display:none  name="classselect" style="background-color: #FFFFFF; height: 22px; width: 170px; border: 1px solid #BAD3E6;">
+
+							<option value="0"  >默认分类</option>
+
+					</select>
+</td>
+</tr>
+<tr>
+<td>
+					<span style="font-size: 9pt; font-weight: bold; color: #2F7195; text-decoration: none;">标　题：&nbsp;&nbsp;</span><input 
+					name="wbtitle" size="40" type="text" id="wbtitle" style="background-color: #FFFFFF; height: 22px; width: 300px; border: 1px solid #BAD3E6;" 
+					maxlength="40" value="" />				
+					<span style="font-size: 9pt; font-weight: bold; color: #2F7195; display:inline-block; text-decoration: none;"><font color="red">*</font> （标题限制 <b>40</b> 个字符以内）</span>&nbsp;&nbsp;	
+
+</td>
+</tr>
+<tr>
+<td>
+					<span style="font-size: 9pt; font-weight: bold; color: #2F7195; text-decoration: none;">附　件：&nbsp;&nbsp;</span><input 
+					type="file" name="attach" id="attach" value="" style="background-color: #FFFFFF; height: 23px; width: 260px; border: 1px solid #BAD3E6; cursor: hand;" />
+					<span style="font-size: 9pt; font-weight: bold; color: #2F7195; text-decoration: none;">（上传附件不能超过5M）</span>&nbsp;
+</td>
+</tr>
+<tr>
+<td>
+
+					<span style="font-size: 9pt; font-weight: bold; color: #2F7195; text-decoration: none;">图　片：&nbsp;&nbsp;</span><input 
+					type="file" name="image" id="image" value="" style="background-color: #FFFFFF; height: 23px; width: 260px; border: 1px solid #BAD3E6; cursor: hand;" />
+</td>
+</tr>
+<tr>
+<td>
+
+</td>
+</tr>
+<tr>
+<td>
+					<span id="istext" style="display: none">
+                    <textarea style="word-break: break-all" onfocus="valid()" name="wbcontent" cols=76 rows=21></textarea> </span>
+					<iframe id="webberedit" name="webberedit" src="/system/resource/smalledit/smalledit.htm" align="center" width="100%" frameborder="0" height="241" scrolling="No">
+					</iframe>
+					<table width="100%" border="0" cellpadding="0" cellspacing="0">
+						<tr><td>
+							<span style="font-size: 9pt; font-weight: bold; color: #2F7195; text-decoration: none;">请正确填写验证码</span>
+							<input name="yanzheng" id="yanzheng" type="text" style="background-color: #FFFFFF; height: 20px; width: 100px; border: 1px solid #BAD3E6;" size="6" maxlength="4" />
+							<img border="0" src="/system/resource/js/message/createimage.jsp" align="absmiddle" />
+
+							<input name="button" type="button" value="提交" onclick="sendmessage('null')"  class="defaultlistbuttonstyle"  />
+
+						</td></tr>
+					</table>
+					</td></tr>
+					</table>
+				</td>
+			</tr></table>
+		</td></tr>
+	</table>
+
+</form></P></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD valign="bottom" align="center"><IMG src="images/hua.jpg" 360chrome_form_autofill="2"></TD></TR></TBODY></TABLE>
+<DIV 360chrome_form_autofill="2" style="height: 10px"></DIV>
+<TABLE cellspacing="0" cellpadding="0" width="981" background="images/copybg.gif" align="center" height="83">
+<TBODY>
+<TR>
+<TD align="center"><p style="text-align: center">桂林电子科技大学纪检监察网&nbsp;&nbsp;</p></TD></TR></TBODY></TABLE>
+
+</BODY></HTML>

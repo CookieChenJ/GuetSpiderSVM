@@ -1,0 +1,942 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<HTML><HEAD><TITLE>桂林电子科技大学2019年硕士研究生招生复试分数线要求-桂林电子科技大学研究生招生信息网</TITLE><META Name="keywords" Content="高校,招生" />
+
+
+<META content="text/html; charset=UTF-8" http-equiv="Content-Type"><LINK rel="stylesheet" type="text/css" href="../../style/main.css">
+
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="../../_sitegray/_sitegray_d.css" />
+<script language="javascript" src="../../_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="../../content.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1038,'/content.jsp',1256,1461952780)</script>
+</HEAD>
+<BODY class="norepeat" background="../../images/listbannerbg.jpg" leftmargin="0" topmargin="0" bgcolor="#f5f5f5">
+<TABLE border="0" cellspacing="0" width="1002" align="center">
+<TBODY>
+<TR>
+<TD height="78">
+<TABLE border="0" cellspacing="0" cellpadding="0" width="98%" align="center">
+<TBODY>
+<TR>
+<TD><!--#begineditable contype="" name="LOGO" action="" layout="" clone="0" namechanged="0" order="0" ispublic="0" tagname="LOGO" viewid="165570"-->
+<table border="0" cellspacing="0" cellpadding="0"><tr><td><img src="../../images/logo.jpg" border="0" alt="研究生招生信息网" title="研究生招生信息网"></td></tr></table><!--#endeditable--></TD>
+<TD valign="top" align="right"><!--#begineditable contype="" name="主页|收藏" action="" layout="" clone="0" namechanged="0" order="1" ispublic="0" tagname="主页|收藏" viewid="165571"--><script language="javascript">
+function dosuba165571a()
+{
+    try{
+		var ua = navigator.userAgent.toLowerCase();
+		if(ua.indexOf("msie 8")>-1)
+		{
+			window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE8
+		}else if(ua.toLowerCase().indexOf("rv:")>-1)
+        {
+            window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE11+
+        }else{
+			if (document.all) 
+			{
+				window.external.addFavorite(document.location.href, document.title);
+			}else if(window.sidebar)
+			{
+				window.sidebar.addPanel( document.title, document.location.href, "");//firefox
+			}
+			else
+			{
+				alert(hotKeysa165571a());
+			}
+		}
+
+    }
+    catch (e){alert("无法自动添加到收藏夹，请使用 Ctrl + d 手动添加");}
+}
+function hotKeysa165571a() 
+{
+	var ua = navigator.userAgent.toLowerCase(); 
+	var str = "";    
+	var isWebkit = (ua.indexOf('webkit') != - 1); 
+	var isMac = (ua.indexOf('mac') != - 1);     
+	if (ua.indexOf('konqueror') != - 1) 
+	{  
+		str = 'CTRL + B'; // Konqueror   
+	} 
+	else if (window.home || isWebkit || isMac) 
+	{        
+		str = (isMac ? 'Command/Cmd' : 'CTRL') + ' + D'; // Netscape, Safari, iCab, IE5/Mac   
+	}
+	return ((str) ? '无法自动添加到收藏夹，请使用' + str + '手动添加' : str);
+}
+function setHomepagea165571a()
+{
+	var url = document.location.href;
+    if (document.all)
+    {
+        document.body.style.behavior='url(#default#homepage)';
+        document.body.setHomePage(url);
+    }
+    else if (window.sidebar)
+    {
+        if(window.netscape)
+        {
+             try{
+                  netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+             }catch (e){
+                   alert("该操作被浏览器拒绝，如果想启用该功能，请在地址栏内输入 about:config,然后将项 signed.applets.codebase_principal_support 值该为true");
+             }
+    	}
+	var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components. interfaces.nsIPrefBranch);
+	prefs.setCharPref('browser.startup.homepage',url);
+	}
+	else
+	{
+		alert("浏览器不支持自动设为首页，请手动设置");
+	}
+}
+</script><table><tr><td style="font-size:9pt"><A href="javascript:setHomepagea165571a()"><span class="font165571">设为首页</span></A>&nbsp;<span class="splitcharstyle165571"> | </span>&nbsp;<A onclick="javascript:dosuba165571a();" href="#"><span class="font165571">加入收藏</span></A></td></tr></table><!--#endeditable--></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD height="43" valign="top">
+<TABLE border="0" cellspacing="0" cellpadding="0" width="992" align="center" height="34">
+<TBODY>
+<TR>
+<td background="../../images/menubar-left.jpg" class="menuleftbg" width="150"></td>
+<TD background="../../images/menubarbg.jpg" width="695" align="center"><!--#begineditable contype="" name="网站导航" action="" layout="" clone="0" namechanged="0" order="2" ispublic="0" tagname="网站导航" viewid="165558"--><style type="text/css">
+td.b1_2_{FONT-SIZE:9pt;}
+td.b2_2_{FONT-SIZE:9pt;}
+td.b3_2_{FONT-SIZE:9pt;BACKGROUND-COLOR: #eff8fe;}
+td.b4_2_{FONT-SIZE:9pt;BACKGROUND-COLOR: #e8f0fb;}
+a.menu0_2_:link {TEXT-DECORATION: none;};
+a.menu0_2_:visited { TEXT-DECORATION: none;};
+a.menu0_2_:hover {TEXT-DECORATION: none;};
+a.menu0_2_:active {TEXT-DECORATION: none;};
+table.tb1_2_{FONT-SIZE:9pt;border:0;}
+span.s1_2_{COLOR: #ff9900;FONT-SIZE: 10pt;FONT-WEIGHT: bold;}
+span.s2_2_{FONT-SIZE: 9pt;COLOR: #cc0000;LINE-HEIGHT: 160%;}
+span.s10_2_{COLOR: #ffffff;FONT-SIZE: 10pt;FONT-WEIGHT: bold;TEXT-DECORATION: none;}
+span.s20_2_{FONT-SIZE: 9pt;COLOR: #222222;LINE-HEIGHT: 160%;}
+</style>
+<SCRIPT language="javascript"> 
+ var showfix_2_ = 1;
+ var isvertical_2_ = false;
+</SCRIPT>
+<script language="javascript" src="/system/resource/js/menu/text.js"></script>
+<TABLE id="t1_2_" cellSpacing="0" cellPadding="0" border="0" height="0" width="688"><TR><TD valign="center"></TD><TD valign="middle" height="0" width="0" nowrap class="b1_2_" align="center" id="a_2_1001" onmouseover="tshowLayers('1001','b2_2_', '_2_')" onmouseout="thideLayers('1001','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="../../index.htm"><span class="fontstyle165558">&nbsp;首页&nbsp;</span></a></TD><TD valign="center" class="leaderfont165558"><img src="../../images/menubar-br.jpg" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1034" onmouseover="tshowLayers('1034','b2_2_', '_2_')" onmouseout="thideLayers('1034','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="../../list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1039"><span class="fontstyle165558">&nbsp;博士招生&nbsp;</span></a></TD><TD valign="center" class="leaderfont165558"><img src="../../images/menubar-br.jpg" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1028" onmouseover="tshowLayers('1028','b2_2_', '_2_')" onmouseout="thideLayers('1028','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="../../list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1038"><span class="fontstyle165558">&nbsp;硕士招生&nbsp;</span></a></TD><TD valign="center" class="leaderfont165558"><img src="../../images/menubar-br.jpg" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1054" onmouseover="tshowLayers('1054','b2_2_', '_2_')" onmouseout="thideLayers('1054','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="http://www.guet.edu.cn/gra/jsfw/sssds.htm"><span class="fontstyle165558">&nbsp;导师介绍&nbsp;</span></a></TD><TD valign="center" class="leaderfont165558"><img src="../../images/menubar-br.jpg" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1035" onmouseover="tshowLayers('1035','b2_2_', '_2_')" onmouseout="thideLayers('1035','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="../../list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1044"><span class="fontstyle165558">&nbsp;考点通知&nbsp;</span></a></TD><TD valign="center" class="leaderfont165558"><img src="../../images/menubar-br.jpg" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1030" onmouseover="tshowLayers('1030','b2_2_', '_2_')" onmouseout="thideLayers('1030','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="../../list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1045"><span class="fontstyle165558">&nbsp;招生政策&nbsp;</span></a></TD><TD valign="center" class="leaderfont165558"><img src="../../images/menubar-br.jpg" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1036" onmouseover="tshowLayers('1036','b2_2_', '_2_')" onmouseout="thideLayers('1036','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="../../list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1064"><span class="fontstyle165558">&nbsp;历史数据&nbsp;</span></a></TD><TD valign="center" class="leaderfont165558"><img src="../../images/menubar-br.jpg" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1047" onmouseover="tshowLayers('1047','b2_2_', '_2_')" onmouseout="thideLayers('1047','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="../../list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1048"><span class="fontstyle165558">&nbsp;信息公开&nbsp;</span></a></TD><TD valign="center" class="leaderfont165558"><img src="../../images/menubar-br.jpg" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1041" onmouseover="tshowLayers('1041','b2_2_', '_2_')" onmouseout="thideLayers('1041','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="../../list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1042"><span class="fontstyle165558">&nbsp;联系方式&nbsp;</span></a></TD><TD valign="center" class="leaderfont165558"><img src="../../images/menubar-br.jpg" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1051" onmouseover="tshowLayers('1051','b2_2_', '_2_')" onmouseout="thideLayers('1051','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="../../list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1067"><span class="fontstyle165558">&nbsp;下载专区&nbsp;</span></a></TD></TR></TR></table><!--#endeditable--></TD>
+<TD width="150"><IMG src="../../images/menubar-right.jpg" width="150" height="34"></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+<TABLE border="0" cellspacing="0" width="100%">
+<TBODY>
+<TR>
+<TD height="22">&nbsp;</TD></TR>
+<TR>
+<TD bgcolor="#ffffff" height="30" align="center">
+<TABLE border="0" cellspacing="0" width="1002">
+<TBODY>
+<TR>
+<TD align="left"><!--#begineditable contype="" name="当前位置" action="" layout="" clone="0" namechanged="0" order="3" ispublic="0" tagname="当前位置" viewid="37948"-->  
+<table class="winstyle37948" cellspacing="0" cellpadding="0"><tr><td nowrap>您的位置：   
+<a href="../../index.htm"><span class="fontstyle37948">首页</span></a><span class="splitflagstyle37948">></span><a href="../../list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1038"><span class="fontstyle37948">硕士招生</span></a><span class="splitflagstyle37948">></span><a href="../../list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1038"><span class="fontstyle37948">硕士招生</span></a><span class="splitflagstyle37948">></span><span class="fontstyle37948">正文</span></td></tr></table><!--#endeditable--><STRONG></STRONG></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD align="center"><BR>
+<TABLE border="0" cellspacing="1" cellpadding="3" width="970" bgcolor="#d3d3d3">
+<TBODY>
+<TR>
+<TD class="4border" bgcolor="#ffffff" align="center"><br><!--#begineditable contype="" name="文章内容" action="" layout="" clone="0" namechanged="0" order="0" ispublic="0" tagname="文章内容" viewid="165561"-->
+
+<LINK href="/system/resource/style/component/news/content/title.css" type="text/css" rel="stylesheet">
+<style type="text/css">
+     .content{margin:auto;text-align:left;line-height:18px;padding:3px 0 0 0;color:#727272;}
+     .process{width:162px;height:11px;background:#EDEDED;overflow:hidden;float:left;margin-left:26px !important;margin-left:13px;margin-right:10px;}
+     .process div{width:160px;height:11px;background:url(/system/resource/images/newsvote/bg.gif) repeat-x;border-left:1px solid #000;border-right:1px solid #000;}
+     .process .style7{border-left-color:#ff0000;border-right-color:#ff0000;background-position:0 -77px;}
+     
+</style>
+
+
+<script language="javascript" src="../../_dwr/interface/NewsvoteDWR.js"></script>
+<script language="javascript" src="../../_dwr/engine.js"></script>
+<script language="javascript" src="../../_dwr/util.js"></script>
+<script language="javascript" src="/system/resource/js/news/newscontent.js"></script>
+<script type="text/javascript">
+
+NewsvoteDWR.getNewsLinkUrl(1256,"1461952780","vsb",newsSkip);
+function newsSkip(data)
+{
+    if(data != "")
+    {
+        window.location.href = data;
+    }
+}
+</script>
+
+
+
+<form name="form165561a">
+<table border="0" class="winstyle165561" width="100%" cellspacing="0" cellpadding="0">
+
+      <tr><td class="titlestyle165561" align="center">
+<span style="color:#f00505;">桂林电子科技大学2019年硕士研究生招生复试分数线要求</span>
+      </td></tr>
+      <tr height="30"><td align="center">
+            <span class="timestyle165561">
+                 2019-03-18 18:56</span>
+            <span class="authorstyle165561">&nbsp;
+            
+            
+            </span>
+            
+                <span class="wb_content">审核人：</span>
+            
+            
+        </td></tr>
+        <tr><td align="right">
+        <span>
+
+        </span>
+        </td></tr>
+<tr><td height="1" BACKGROUND="../../bgline.gif"></td></tr>
+      <tr><td class="contentstyle165561">
+        <div class="c165561_content" id="vsb_newscontent"><div id="vsb_content">
+           <p style="text-align: left; text-indent: 37px;"><strong><span style="font-family: 仿宋_GB2312; font-size: 19px; font-weight: normal;">我校除会计硕士外，其余招生学科（专业领域）复试分数线均执行“2019年全国硕士研究生招生考试考生进入复试的初试成绩基本要求（B类考生）”，具体如下：</span></strong></p>
+<table cellspacing="0" cellpadding="0">
+ <tbody>
+  <tr class="firstRow" style="height: 26px;">
+   <td width="595" height="26" colspan="6" style="padding: 0px 7px; border: 1px solid windowtext; border-image: none; background-color: transparent;"><p style="text-align: center; line-height: 19px;"><strong><span style="color: black; font-family:;">学术学位</span></strong></p></td>
+  </tr>
+  <tr style="height: 38px;">
+   <td width="113" height="38" colspan="2" style="border-width: 0px 1px 1px; border-style: none solid solid; border-color: rgb(0, 0, 0) windowtext windowtext; padding: 0px 7px; background-color: transparent;"><p style="text-align: center; line-height: 19px;"><span style="color: black; font-family:;">学科门类</span></p></td>
+   <td width="198" height="38" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center; line-height: 19px;"><span style="color: black; font-family:;">专业</span></p></td>
+   <td width="99" height="38" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center; line-height: 19px;"><span style="color: black; font-family:;"><span style="color: black; font-family:;"></span>总分</span></p></td>
+   <td width="69" height="38" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center; line-height: 19px;"><span style="color: black; font-family:;">单科</span></p><p style="text-align: center; line-height: 19px;"><span style="color: black; font-family:;">（满分=100分）</span></p></td>
+   <td width="75" height="38" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center; line-height: 19px;"><span style="color: black; font-family:;">单科</span></p><p style="text-align: center; line-height: 19px;"><span style="color: black; font-family:;">（满分&gt;100分）</span></p></td>
+  </tr>
+  <tr style="height: 23px;">
+   <td width="113" height="23" colspan="2" style="border-width: 0px 1px; border-style: none solid; border-color: rgb(0, 0, 0) windowtext; padding: 0px 7px; background-color: transparent;"><p style="text-align: left; line-height: 19px;"><span style="color: black; font-family:;">02</span><span style="color: black; font-family:;">经济学</span></p></td>
+   <td width="197" height="23" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="line-height: 19px;"><span style="color: black; font-family:;">020100</span><span style="color: black; font-family:;">理论经济学</span></p></td>
+   <td width="99" height="23" style="border-width: 0px 1px 0px 0px; border-style: none solid none none; border-color: rgb(0, 0, 0) windowtext rgb(0, 0, 0) rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center; line-height: 19px;"><span style="color: black; font-family:;">335</span></p></td>
+   <td width="69" height="23" style="border-width: 0px 1px 0px 0px; border-style: none solid none none; border-color: rgb(0, 0, 0) windowtext rgb(0, 0, 0) rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center; line-height: 19px;"><span style="color: black; font-family:;">46</span></p></td>
+   <td width="75" height="23" style="border-width: 0px 1px 0px 0px; border-style: none solid none none; border-color: rgb(0, 0, 0) windowtext rgb(0, 0, 0) rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center; line-height: 19px;"><span style="color: black; font-family:;">69</span></p></td>
+  </tr>
+  <tr style="height: 23px;">
+   <td width="113" height="23" colspan="2" style="border-width: 1px 1px 0px; border-style: solid solid none; border-color: windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: left; line-height: 19px;"><span style="color: black; font-family:;">03</span><span style="color: black; font-family:;">法学</span></p></td>
+   <td width="198" height="23" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="line-height: 19px;"><span style="color: black; font-family:;">030500</span><span style="color: black; font-family:;">马克思主义理论</span></p></td>
+   <td width="99" height="23" style="border-width: 1px 1px 0px 0px; border-style: solid solid none none; border-color: windowtext windowtext rgb(0, 0, 0) rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center; line-height: 19px;"><span style="color: black; font-family:;">310</span></p></td>
+   <td width="69" height="23" style="border-width: 1px 1px 0px 0px; border-style: solid solid none none; border-color: windowtext windowtext rgb(0, 0, 0) rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center; line-height: 19px;"><span style="color: black; font-family:;">41</span></p></td>
+   <td width="75" height="23" style="border-width: 1px 1px 0px 0px; border-style: solid solid none none; border-color: windowtext windowtext rgb(0, 0, 0) rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center; line-height: 19px;"><span style="color: black; font-family:;">62</span></p></td>
+  </tr>
+  <tr style="height: 23px;">
+   <td width="113" height="23" colspan="2" style="border-width: 1px 1px 0px; border-style: solid solid none; border-color: windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: left; line-height: 19px;"><span style="color: black; font-family:;">07</span><span style="color: black; font-family:;">理学</span></p></td>
+   <td width="198" height="23" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="line-height: 19px;"><span style="color: black; font-family:;">070100</span><span style="color: black; font-family:;">数学</span></p></td>
+   <td width="99" height="23" style="border-width: 1px 1px 0px 0px; border-style: solid solid none none; border-color: windowtext windowtext rgb(0, 0, 0) rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center; line-height: 19px;"><span style="color: black; font-family:;">280</span></p></td>
+   <td width="69" height="23" style="border-width: 1px 1px 0px 0px; border-style: solid solid none none; border-color: windowtext windowtext rgb(0, 0, 0) rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center; line-height: 19px;"><span style="color: black; font-family:;">38</span></p></td>
+   <td width="75" height="23" style="border-width: 1px 1px 0px 0px; border-style: solid solid none none; border-color: windowtext windowtext rgb(0, 0, 0) rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center; line-height: 19px;"><span style="color: black; font-family:;">57</span></p></td>
+  </tr>
+  <tr style="height: 23px;">
+   <td width="113" height="23" rowspan="13" colspan="2" style="border-width: 1px; border-style: solid; border-color: windowtext windowtext black; padding: 0px 7px; background-color: transparent;"><p style="text-align: left; line-height: 19px;"><span style="color: black; font-family:;">08</span><span style="color: black; font-family:;">工学</span></p></td>
+   <td width="198" height="23" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="line-height: 19px;"><span style="color: black; font-family:;">080200</span><span style="color: black; font-family:;">机械工程</span></p></td>
+   <td width="98" height="23" rowspan="13" style="border-width: 1px 1px 1px 0px; border-style: solid solid solid none; border-color: windowtext windowtext black rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center; line-height: 19px;"><span style="color: black; font-family:;">260</span></p></td>
+   <td width="69" height="23" rowspan="13" style="border-width: 1px 1px 1px 0px; border-style: solid solid solid none; border-color: windowtext windowtext black rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center; line-height: 19px;"><span style="color: black; font-family:;">36</span></p></td>
+   <td width="75" height="23" rowspan="13" style="border-width: 1px 1px 1px 0px; border-style: solid solid solid none; border-color: windowtext windowtext black rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center; line-height: 19px;"><span style="color: black; font-family:;">54</span></p></td>
+  </tr>
+  <tr style="height: 23px;">
+   <td width="173" height="23" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="line-height: 19px;"><span style="color: black; font-family:;">080300</span><span style="color: black; font-family:;">光学工程</span></p></td>
+  </tr>
+  <tr style="height: 21px;">
+   <td width="173" height="21" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="line-height: 19px;"><span style="color: black; font-family:;">080400</span><span style="color: black; font-family:;">仪器科学与技术</span></p></td>
+  </tr>
+  <tr style="height: 21px;">
+   <td width="173" height="21" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="line-height: 19px;"><span style="color: black; font-family:;">080500</span><span style="color: black; font-family:;">材料科学与工程</span></p></td>
+  </tr>
+  <tr style="height: 23px;">
+   <td width="173" height="23" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="line-height: 19px;"><span style="color: black; font-family:;">080900</span><span style="color: black; font-family:;">电子科学与技术</span></p></td>
+  </tr>
+  <tr style="height: 24px;">
+   <td width="173" height="24" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="line-height: 19px;"><span style="color: black; font-family:;">081000</span><span style="color: black; font-family:;">信息与通信工程</span></p></td>
+  </tr>
+  <tr style="height: 23px;">
+   <td width="173" height="23" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="line-height: 19px;"><span style="color: black; font-family:;">081100</span><span style="color: black; font-family:;">控制科学与工程</span></p></td>
+  </tr>
+  <tr style="height: 23px;">
+   <td width="173" height="23" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="line-height: 19px;"><span style="color: black; font-family:;">081200</span><span style="color: black; font-family:;">计算机科学与技术</span></p></td>
+  </tr>
+  <tr style="height: 23px;">
+   <td width="173" height="23" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="line-height: 19px;"><span style="color: black; font-family:;">082300</span><span style="color: black; font-family:;">交通运输工程</span></p></td>
+  </tr>
+  <tr style="height: 20px;">
+   <td width="173" height="20" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="line-height: 19px;"><span style="color: black; font-family:;">083000</span><span style="color: black; font-family:;">环境科学与工程</span></p></td>
+  </tr>
+  <tr style="height: 23px;">
+   <td width="173" height="23" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="line-height: 19px;"><span style="color: black; font-family:;">083100</span><span style="color: black; font-family:;">生物医学工程</span></p></td>
+  </tr>
+  <tr style="height: 23px;">
+   <td width="173" height="23" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="line-height: 19px;"><span style="color: black; font-family:;">083500</span><span style="color: black; font-family:;">软件工程</span></p></td>
+  </tr>
+  <tr style="height: 23px;">
+   <td width="173" height="23" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="line-height: 19px;"><span style="color: black; font-family:;">083900 </span><span style="color: black; font-family:;">网络空间安全</span></p></td>
+  </tr>
+  <tr style="height: 22px;">
+   <td width="113" height="22" rowspan="2" colspan="2" style="border-width: 0px 1px 1px; border-style: none solid solid; border-color: rgb(0, 0, 0) windowtext black; padding: 0px 7px; background-color: transparent;"><p style="text-align: left; line-height: 19px;"><span style="color: black; font-family:;">12</span><span style="color: black; font-family:;">管理学</span></p></td>
+   <td width="198" height="22" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="line-height: 19px;"><span style="color: black; font-family:;">120100</span><span style="color: black; font-family:;">管理科学与工程</span></p></td>
+   <td width="99" height="22" rowspan="2" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext black rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center; line-height: 19px;"><span style="color: black; font-family:;">335</span></p></td>
+   <td width="69" height="22" rowspan="2" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext black rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center; line-height: 19px;"><span style="color: black; font-family:;">46</span></p></td>
+   <td width="75" height="22" rowspan="2" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext black rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center; line-height: 19px;"><span style="color: black; font-family:;">69</span></p></td>
+  </tr>
+  <tr style="height: 23px;">
+   <td width="173" height="23" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="line-height: 19px;"><span style="color: black; font-family:;">120202</span><span style="color: black; font-family:;">企业管理</span></p></td>
+  </tr>
+  <tr style="height: 23px;">
+   <td width="113" height="23" colspan="2" style="border-width: 0px 1px 1px; border-style: none solid solid; border-color: rgb(0, 0, 0) windowtext black; padding: 0px 7px; background-color: transparent;"><p style="text-align: left; line-height: 19px;"><span style="color: black; font-family:;">13</span><span style="color: black; font-family:;">艺术学</span></p></td>
+   <td width="198" height="23" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="line-height: 19px;"><span style="color: black; font-family:;">130500 </span><span style="color: black; font-family:;">设计学</span></p></td>
+   <td width="99" height="23" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext black rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center; line-height: 19px;"><span style="color: black; font-family:;">330</span></p></td>
+   <td width="69" height="23" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext black rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center; line-height: 19px;"><span style="color: black; font-family:;">35</span></p></td>
+   <td width="75" height="23" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext black rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center; line-height: 19px;"><span style="color: black; font-family:;">53</span></p></td>
+  </tr>
+  <tr style="height: 23px;">
+   <td width="595" height="23" colspan="6" style="border-width: 0px 1px 1px; border-style: none solid solid; border-color: rgb(0, 0, 0) windowtext windowtext; padding: 0px 7px; background-color: transparent;"><p style="text-align: center; line-height: 19px;"><span style="color: black; font-family:;">专业学位</span></p></td>
+  </tr>
+  <tr style="height: 38px;">
+   <td width="113" height="38" colspan="2" style="border-width: 0px 1px 1px; border-style: none solid solid; border-color: rgb(0, 0, 0) windowtext windowtext; padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family:;">专业学位类别</span></p></td>
+   <td width="198" height="38" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family:;">领域</span></p></td>
+   <td width="99" height="38" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family:;">总分</span></p></td>
+   <td width="69" height="38" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family:;">单科</span></p><p style="text-align: center;"><span style="color: black; font-family:;">（满分=100分）</span></p></td>
+   <td width="75" height="38" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family:;">单科</span></p><p style="text-align: center;"><span style="color: black; font-family:;">（满分&gt;100分）</span></p></td>
+  </tr>
+  <tr style="height: 19px;">
+   <td width="113" height="19" colspan="2" style="border-width: 0px 1px 1px; border-style: none solid solid; border-color: rgb(0, 0, 0) windowtext windowtext; padding: 0px 7px; background-color: transparent;"><p style="text-align: left;"><span style="color: black; font-family:;">0252</span><span style="color: black; font-family:;">应用统计</span></p></td>
+   <td width="198" height="19" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p><span style="color: black; font-family:;">025200</span><span style="color: black; font-family:;">应用统计</span></p></td>
+   <td width="99" height="19" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family:;">335</span></p></td>
+   <td width="69" height="19" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family:;">46</span></p></td>
+   <td width="75" height="19" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family:;">69</span></p></td>
+  </tr>
+  <tr style="height: 19px;">
+   <td width="113" height="19" rowspan="2" colspan="2" style="border-width: 0px 1px 1px; border-style: none solid solid; border-color: rgb(0, 0, 0) windowtext windowtext; padding: 0px 7px; background-color: transparent;"><p style="text-align: left;"><span style="color: black; font-family:;">0351</span><span style="color: black; font-family:;">法律</span></p></td>
+   <td width="198" height="19" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p><span style="color: black; font-family:;">035101</span><span style="color: black; font-family:;">法律（非法学）</span></p></td>
+   <td width="99" height="19" rowspan="2" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family:;">310</span></p></td>
+   <td width="69" height="19" rowspan="2" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family:;">41</span></p></td>
+   <td width="75" height="19" rowspan="2" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family:;">62</span></p></td>
+  </tr>
+  <tr style="height: 19px;">
+   <td width="173" height="19" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p><span style="color: black; font-family:;">035102</span><span style="color: black; font-family:;">法律（法学）</span></p></td>
+  </tr>
+  <tr style="height: 19px;">
+   <td width="113" height="19" colspan="2" style="border-width: 0px 1px 1px; border-style: none solid solid; border-color: rgb(0, 0, 0) windowtext windowtext; padding: 0px 7px; background-color: transparent;"><p style="text-align: left;"><span style="color: black; font-family:;">0551</span><span style="color: black; font-family:;">翻译</span></p></td>
+   <td width="198" height="19" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p><span style="color: black; font-family:;">055100</span><span style="color: black; font-family:;">翻译硕士</span></p></td>
+   <td width="99" height="19" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family:;">345</span></p></td>
+   <td width="69" height="19" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family:;">48</span></p></td>
+   <td width="75" height="19" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family:;">72</span></p></td>
+  </tr>
+  <tr style="height: 19px;">
+   <td width="113" height="19" rowspan="9" colspan="2" style="border-width: 0px 1px 1px; border-style: none solid solid; border-color: rgb(0, 0, 0) windowtext windowtext; padding: 0px 7px; background-color: transparent;"><p style="text-align: left;"><span style="color: black; font-family:;">0852</span><span style="color: black; font-family:;">工程</span></p><p style="text-align: left;"><span style="color: black; font-family:;">（非照顾领域）</span></p></td>
+   <td width="198" height="19" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p><span style="color: black; font-family:;">085201</span><span style="color: black; font-family:;">机械工程</span></p></td>
+   <td width="99" height="19" rowspan="9" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family:;">260</span></p></td>
+   <td width="69" height="19" rowspan="9" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family:;">36</span></p></td>
+   <td width="75" height="19" rowspan="9" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family:;">54</span></p></td>
+  </tr>
+  <tr style="height: 19px;">
+   <td width="173" height="19" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p><span style="color: black; font-family:;">085203</span><span style="color: black; font-family:;">仪器仪表工程</span></p></td>
+  </tr>
+  <tr style="height: 19px;">
+   <td width="173" height="19" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p><span style="color: black; font-family:;">085204</span><span style="color: black; font-family:;">材料工程</span></p></td>
+  </tr>
+  <tr style="height: 19px;">
+   <td width="173" height="19" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p><span style="color: black; font-family:;">085208</span><span style="color: black; font-family:;">电子与通信工程</span></p></td>
+  </tr>
+  <tr style="height: 19px;">
+   <td width="173" height="19" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p><span style="color: black; font-family:;">085209</span><span style="color: black; font-family:;">集成电路工程</span></p></td>
+  </tr>
+  <tr style="height: 19px;">
+   <td width="173" height="19" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p><span style="color: black; font-family:;">085210</span><span style="color: black; font-family:;">控制工程</span></p></td>
+  </tr>
+  <tr style="height: 19px;">
+   <td width="173" height="19" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p><span style="color: black; font-family:;">085211</span><span style="color: black; font-family:;">计算机技术</span></p></td>
+  </tr>
+  <tr style="height: 19px;">
+   <td width="173" height="19" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p><span style="color: black; font-family:;">085212</span><span style="color: black; font-family:;">软件工程</span></p></td>
+  </tr>
+  <tr style="height: 19px;">
+   <td width="173" height="19" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p><span style="color: black; font-family:;">085222</span><span style="color: black; font-family:;">交通运输工程</span></p></td>
+  </tr>
+  <tr style="height: 38px;">
+   <td width="113" height="38" colspan="2" style="border-width: 0px 1px 1px; border-style: none solid solid; border-color: rgb(0, 0, 0) windowtext windowtext; padding: 0px 7px; background-color: transparent;"><p style="text-align: left;"><span style="color: black; font-family:;">0852</span><span style="color: black; font-family:;">工程</span></p><p style="text-align: left;"><span style="color: black; font-family:;">（照顾领域）</span></p></td>
+   <td width="198" height="38" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p><span style="color: black; font-family:;">085223</span><span style="color: black; font-family:;">船舶与海洋工程</span></p></td>
+   <td width="99" height="38" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family:;">250</span></p></td>
+   <td width="69" height="38" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family:;">32</span></p></td>
+   <td width="75" height="38" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family:;">48</span></p></td>
+  </tr>
+  <tr style="height: 19px;">
+   <td width="113" height="19" colspan="2" style="border-width: 0px 1px 1px; border-style: none solid solid; border-color: rgb(0, 0, 0) windowtext windowtext; padding: 0px 7px; background-color: transparent;"><p style="text-align: left;"><span style="color: black; font-family:;">1251</span><span style="color: black; font-family:;">工商管理</span></p></td>
+   <td width="198" height="19" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p><span style="color: black; font-family:;">125100</span><span style="color: black; font-family:;">工商管理硕士</span></p></td>
+   <td width="99" height="19" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family:;">160</span></p></td>
+   <td width="69" height="19" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family:;">37</span></p></td>
+   <td width="75" height="19" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family:;">74</span></p></td>
+  </tr>
+  <tr style="height: 19px;">
+   <td width="113" height="19" colspan="2" style="border-width: 0px 1px 1px; border-style: none solid solid; border-color: rgb(0, 0, 0) windowtext windowtext; padding: 0px 7px; background-color: transparent;"><p style="text-align: left;"><span style="color: black; font-family:;">1253</span><span style="color: black; font-family:;">会计</span></p></td>
+   <td width="198" height="19" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p><span style="color: black; font-family:;">125300 </span><span style="color: black; font-family:;">会计硕士</span></p></td>
+   <td width="99" height="19" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family:;">177</span></p></td>
+   <td width="69" height="19" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family:;">37</span></p></td>
+   <td width="75" height="19" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family:;">74</span></p></td>
+  </tr>
+  <tr style="height: 19px;">
+   <td width="113" height="19" colspan="2" style="border-width: 0px 1px 1px; border-style: none solid solid; border-color: rgb(0, 0, 0) windowtext windowtext; padding: 0px 7px; background-color: transparent;"><p style="text-align: left;"><span style="color: black; font-family:;">1351</span><span style="color: black; font-family:;">艺术</span></p></td>
+   <td width="198" height="19" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p><span style="color: black; font-family:;">135108 </span><span style="color: black; font-family:;">艺术设计</span></p></td>
+   <td width="99" height="19" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family:;">330</span></p></td>
+   <td width="69" height="19" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family:;">35</span></p></td>
+   <td width="75" height="19" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family:;">53</span></p></td>
+  </tr>
+  <tr style="height: 19px;">
+   <td width="595" height="19" colspan="6" style="border-width: 0px 1px 1px; border-style: none solid solid; border-color: rgb(0, 0, 0) windowtext windowtext; padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="background: white; color: black; font-family:;">享受少数民族照顾政策、退役大学生士兵专项计划分数线</span></p></td>
+  </tr>
+  <tr style="height: 19px;">
+   <td width="105" height="19" style="border-width: 0px 1px 1px; border-style: none solid solid; border-color: rgb(0, 0, 0) windowtext windowtext; padding: 0px 7px; background-color: transparent;"><br></td>
+   <td width="223" height="19" colspan="2" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><br></td>
+   <td width="99" height="19" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family:;">248</span></p></td>
+   <td width="69" height="19" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family:;">30</span></p></td>
+   <td width="75" height="19" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family:;">45</span></p></td>
+  </tr>
+  <tr height="0">
+   <td width="106" style="border: 0px rgb(0, 0, 0); border-image: none; background-color: transparent;"><br></td>
+   <td width="5" style="border: 0px rgb(0, 0, 0); border-image: none; background-color: transparent;"><br></td>
+   <td width="198" style="border: 0px rgb(0, 0, 0); border-image: none; background-color: transparent;"><br></td>
+   <td width="99" style="border: 0px rgb(0, 0, 0); border-image: none; background-color: transparent;"><br></td>
+   <td width="69" style="border: 0px rgb(0, 0, 0); border-image: none; background-color: transparent;"><br></td>
+   <td width="113" style="border: 0px rgb(0, 0, 0); border-image: none; background-color: transparent;"><br></td>
+  </tr>
+ </tbody>
+</table>
+<p style="text-align: left; text-indent: 37px;"><strong><span style="font-family: 仿宋_GB2312; font-size: 19px; font-weight: normal;">1.</span></strong><strong><span style="font-family: 仿宋_GB2312; font-size: 19px; font-weight: normal;">第一志愿报考我校且达到我校报考专业的复试分数线要求的考生，自动获得复试资格，请关注后续各学院复试时间安排，并做好复试准备。</span></strong></p>
+<p style="text-align: left; text-indent: 37px;"><strong><span style="font-family: 仿宋_GB2312; font-size: 19px; font-weight: normal;">2.</span></strong><strong><span style="font-family: 仿宋_GB2312; font-size: 19px; font-weight: normal;">第一志愿享受少数民族照顾政策分数线的考生，录取类别为定向就业，复试录取前需签订定向就业合同。</span></strong></p>
+<p style="text-align: left; text-indent: 37px;"><strong><span style="font-family: 仿宋_GB2312; font-size: 19px; font-weight: normal;">3.</span></strong><strong><span style="font-family: 仿宋_GB2312; font-size: 19px; font-weight: normal;">我校2019年有 “退役大学生士兵计划” 5名，用于招收专业学位硕士。</span></strong></p>
+<p style="text-align: left; text-indent: 37px;"><strong><span style="font-family: 仿宋_GB2312; font-size: 19px; font-weight: normal;">4.</span></strong><strong><span style="font-family: 仿宋_GB2312; font-size: 19px; font-weight: normal;">根据教育部《2019年全国硕士研究生招生工作管理规定》，享受“大学生志愿服务西部计划”等加分政策的考生，若加分后，达到我校报考专业复试线的一志愿考生，请在2019年3月26日前将证明材料（身份证复印件、相关证书复印件等）发送电子邮件至1953705626@qq.com。</span></strong><strong> </strong><strong><span style="font-family: 仿宋_GB2312; font-size: 19px; font-weight: normal;">我校将对考生提供的相关证明材料进行核实，审核无误后将予以加分并批准参加复试。</span></strong></p>
+<p>&nbsp;</p>
+</div></div>
+          
+           
+           
+        </td></tr>
+        
+        <tr><td class="pagestyle165561" align="left">
+        </td></tr>
+        <tr><td><div id="div_vote_id"></div></td></tr>
+    <tr><td align="left"><span>
+             
+             
+      </span></td></tr>
+      
+      <tr>
+         <td align="center">
+            
+         </td>
+      </tr>
+
+      <tr><td align="right">
+              <span>【</span><a href="javascript:window.opener=null;window.open('','_self');window.close();"><span>关闭窗口</span></a><span>】</span>
+      </td></tr>
+
+</table>
+</form>
+
+
+
+<script type="text/javascript">
+
+function dosuba165561a()
+{
+    try{
+        var ua = navigator.userAgent.toLowerCase();
+        if(ua.indexOf("msie 8")>-1)
+        {
+            window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE8
+        }else{
+            if (document.all) 
+            {
+                window.external.addFavorite(document.location.href, document.title);
+            }else if(window.sidebar)
+            {
+                window.sidebar.addPanel( document.title, document.location.href, "");//firefox
+            }
+        }
+
+    }
+    catch (e){alert("无法自动添加到收藏夹，请使用 Ctrl + d 手动添加");}
+}
+
+
+</script>
+<!--#endeditable--></TD></TR></TBODY></TABLE><BR></TD></TR>
+<TR>
+<TD>
+<TABLE border="0" cellspacing="0" width="100%" background="../../images/copybg.gif" height="65">
+<TBODY>
+<TR>
+<TD class="norepeat" valign="top" align="center"><br><!--#begineditable contype="" name="版权" action="" layout="" clone="0" namechanged="0" order="4" ispublic="0" tagname="版权" viewid="165554"--><p style="text-align: center"><span style="color: #828282">桂林电子科技大学研究生院招生办公室　版权所有</span></p><!--#endeditable--><FONT color="#828282"></FONT></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+
+</BODY></HTML>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<HTML><HEAD><TITLE>桂林电子科技大学2019年硕士研究生招生复试分数线要求-桂林电子科技大学研究生招生信息网</TITLE><META Name="keywords" Content="高校,招生" />
+
+
+<META content="text/html; charset=UTF-8" http-equiv="Content-Type"><LINK rel="stylesheet" type="text/css" href="../../style/main.css">
+
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="../../_sitegray/_sitegray_d.css" />
+<script language="javascript" src="../../_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="../../content.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1038,'/content.jsp',1256,1461952780)</script>
+</HEAD>
+<BODY class="norepeat" background="../../images/listbannerbg.jpg" leftmargin="0" topmargin="0" bgcolor="#f5f5f5">
+<TABLE border="0" cellspacing="0" width="1002" align="center">
+<TBODY>
+<TR>
+<TD height="78">
+<TABLE border="0" cellspacing="0" cellpadding="0" width="98%" align="center">
+<TBODY>
+<TR>
+<TD><!--#begineditable contype="" name="LOGO" action="" layout="" clone="0" namechanged="0" order="0" ispublic="0" tagname="LOGO" viewid="165570"-->
+<table border="0" cellspacing="0" cellpadding="0"><tr><td><img src="../../images/logo.jpg" border="0" alt="研究生招生信息网" title="研究生招生信息网"></td></tr></table><!--#endeditable--></TD>
+<TD valign="top" align="right"><!--#begineditable contype="" name="主页|收藏" action="" layout="" clone="0" namechanged="0" order="1" ispublic="0" tagname="主页|收藏" viewid="165571"--><script language="javascript">
+function dosuba165571a()
+{
+    try{
+		var ua = navigator.userAgent.toLowerCase();
+		if(ua.indexOf("msie 8")>-1)
+		{
+			window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE8
+		}else if(ua.toLowerCase().indexOf("rv:")>-1)
+        {
+            window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE11+
+        }else{
+			if (document.all) 
+			{
+				window.external.addFavorite(document.location.href, document.title);
+			}else if(window.sidebar)
+			{
+				window.sidebar.addPanel( document.title, document.location.href, "");//firefox
+			}
+			else
+			{
+				alert(hotKeysa165571a());
+			}
+		}
+
+    }
+    catch (e){alert("无法自动添加到收藏夹，请使用 Ctrl + d 手动添加");}
+}
+function hotKeysa165571a() 
+{
+	var ua = navigator.userAgent.toLowerCase(); 
+	var str = "";    
+	var isWebkit = (ua.indexOf('webkit') != - 1); 
+	var isMac = (ua.indexOf('mac') != - 1);     
+	if (ua.indexOf('konqueror') != - 1) 
+	{  
+		str = 'CTRL + B'; // Konqueror   
+	} 
+	else if (window.home || isWebkit || isMac) 
+	{        
+		str = (isMac ? 'Command/Cmd' : 'CTRL') + ' + D'; // Netscape, Safari, iCab, IE5/Mac   
+	}
+	return ((str) ? '无法自动添加到收藏夹，请使用' + str + '手动添加' : str);
+}
+function setHomepagea165571a()
+{
+	var url = document.location.href;
+    if (document.all)
+    {
+        document.body.style.behavior='url(#default#homepage)';
+        document.body.setHomePage(url);
+    }
+    else if (window.sidebar)
+    {
+        if(window.netscape)
+        {
+             try{
+                  netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+             }catch (e){
+                   alert("该操作被浏览器拒绝，如果想启用该功能，请在地址栏内输入 about:config,然后将项 signed.applets.codebase_principal_support 值该为true");
+             }
+    	}
+	var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components. interfaces.nsIPrefBranch);
+	prefs.setCharPref('browser.startup.homepage',url);
+	}
+	else
+	{
+		alert("浏览器不支持自动设为首页，请手动设置");
+	}
+}
+</script><table><tr><td style="font-size:9pt"><A href="javascript:setHomepagea165571a()"><span class="font165571">设为首页</span></A>&nbsp;<span class="splitcharstyle165571"> | </span>&nbsp;<A onclick="javascript:dosuba165571a();" href="#"><span class="font165571">加入收藏</span></A></td></tr></table><!--#endeditable--></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD height="43" valign="top">
+<TABLE border="0" cellspacing="0" cellpadding="0" width="992" align="center" height="34">
+<TBODY>
+<TR>
+<td background="../../images/menubar-left.jpg" class="menuleftbg" width="150"></td>
+<TD background="../../images/menubarbg.jpg" width="695" align="center"><!--#begineditable contype="" name="网站导航" action="" layout="" clone="0" namechanged="0" order="2" ispublic="0" tagname="网站导航" viewid="165558"--><style type="text/css">
+td.b1_2_{FONT-SIZE:9pt;}
+td.b2_2_{FONT-SIZE:9pt;}
+td.b3_2_{FONT-SIZE:9pt;BACKGROUND-COLOR: #eff8fe;}
+td.b4_2_{FONT-SIZE:9pt;BACKGROUND-COLOR: #e8f0fb;}
+a.menu0_2_:link {TEXT-DECORATION: none;};
+a.menu0_2_:visited { TEXT-DECORATION: none;};
+a.menu0_2_:hover {TEXT-DECORATION: none;};
+a.menu0_2_:active {TEXT-DECORATION: none;};
+table.tb1_2_{FONT-SIZE:9pt;border:0;}
+span.s1_2_{COLOR: #ff9900;FONT-SIZE: 10pt;FONT-WEIGHT: bold;}
+span.s2_2_{FONT-SIZE: 9pt;COLOR: #cc0000;LINE-HEIGHT: 160%;}
+span.s10_2_{COLOR: #ffffff;FONT-SIZE: 10pt;FONT-WEIGHT: bold;TEXT-DECORATION: none;}
+span.s20_2_{FONT-SIZE: 9pt;COLOR: #222222;LINE-HEIGHT: 160%;}
+</style>
+<SCRIPT language="javascript"> 
+ var showfix_2_ = 1;
+ var isvertical_2_ = false;
+</SCRIPT>
+<script language="javascript" src="/system/resource/js/menu/text.js"></script>
+<TABLE id="t1_2_" cellSpacing="0" cellPadding="0" border="0" height="0" width="688"><TR><TD valign="center"></TD><TD valign="middle" height="0" width="0" nowrap class="b1_2_" align="center" id="a_2_1001" onmouseover="tshowLayers('1001','b2_2_', '_2_')" onmouseout="thideLayers('1001','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="../../index.htm"><span class="fontstyle165558">&nbsp;首页&nbsp;</span></a></TD><TD valign="center" class="leaderfont165558"><img src="../../images/menubar-br.jpg" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1034" onmouseover="tshowLayers('1034','b2_2_', '_2_')" onmouseout="thideLayers('1034','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="../../list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1039"><span class="fontstyle165558">&nbsp;博士招生&nbsp;</span></a></TD><TD valign="center" class="leaderfont165558"><img src="../../images/menubar-br.jpg" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1028" onmouseover="tshowLayers('1028','b2_2_', '_2_')" onmouseout="thideLayers('1028','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="../../list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1038"><span class="fontstyle165558">&nbsp;硕士招生&nbsp;</span></a></TD><TD valign="center" class="leaderfont165558"><img src="../../images/menubar-br.jpg" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1054" onmouseover="tshowLayers('1054','b2_2_', '_2_')" onmouseout="thideLayers('1054','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="http://www.guet.edu.cn/gra/jsfw/sssds.htm"><span class="fontstyle165558">&nbsp;导师介绍&nbsp;</span></a></TD><TD valign="center" class="leaderfont165558"><img src="../../images/menubar-br.jpg" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1035" onmouseover="tshowLayers('1035','b2_2_', '_2_')" onmouseout="thideLayers('1035','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="../../list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1044"><span class="fontstyle165558">&nbsp;考点通知&nbsp;</span></a></TD><TD valign="center" class="leaderfont165558"><img src="../../images/menubar-br.jpg" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1030" onmouseover="tshowLayers('1030','b2_2_', '_2_')" onmouseout="thideLayers('1030','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="../../list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1045"><span class="fontstyle165558">&nbsp;招生政策&nbsp;</span></a></TD><TD valign="center" class="leaderfont165558"><img src="../../images/menubar-br.jpg" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1036" onmouseover="tshowLayers('1036','b2_2_', '_2_')" onmouseout="thideLayers('1036','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="../../list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1064"><span class="fontstyle165558">&nbsp;历史数据&nbsp;</span></a></TD><TD valign="center" class="leaderfont165558"><img src="../../images/menubar-br.jpg" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1047" onmouseover="tshowLayers('1047','b2_2_', '_2_')" onmouseout="thideLayers('1047','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="../../list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1048"><span class="fontstyle165558">&nbsp;信息公开&nbsp;</span></a></TD><TD valign="center" class="leaderfont165558"><img src="../../images/menubar-br.jpg" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1041" onmouseover="tshowLayers('1041','b2_2_', '_2_')" onmouseout="thideLayers('1041','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="../../list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1042"><span class="fontstyle165558">&nbsp;联系方式&nbsp;</span></a></TD><TD valign="center" class="leaderfont165558"><img src="../../images/menubar-br.jpg" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1051" onmouseover="tshowLayers('1051','b2_2_', '_2_')" onmouseout="thideLayers('1051','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="../../list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1067"><span class="fontstyle165558">&nbsp;下载专区&nbsp;</span></a></TD></TR></TR></table><!--#endeditable--></TD>
+<TD width="150"><IMG src="../../images/menubar-right.jpg" width="150" height="34"></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+<TABLE border="0" cellspacing="0" width="100%">
+<TBODY>
+<TR>
+<TD height="22">&nbsp;</TD></TR>
+<TR>
+<TD bgcolor="#ffffff" height="30" align="center">
+<TABLE border="0" cellspacing="0" width="1002">
+<TBODY>
+<TR>
+<TD align="left"><!--#begineditable contype="" name="当前位置" action="" layout="" clone="0" namechanged="0" order="3" ispublic="0" tagname="当前位置" viewid="37948"-->  
+<table class="winstyle37948" cellspacing="0" cellpadding="0"><tr><td nowrap>您的位置：   
+<a href="../../index.htm"><span class="fontstyle37948">首页</span></a><span class="splitflagstyle37948">></span><a href="../../list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1038"><span class="fontstyle37948">硕士招生</span></a><span class="splitflagstyle37948">></span><a href="../../list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1038"><span class="fontstyle37948">硕士招生</span></a><span class="splitflagstyle37948">></span><span class="fontstyle37948">正文</span></td></tr></table><!--#endeditable--><STRONG></STRONG></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD align="center"><BR>
+<TABLE border="0" cellspacing="1" cellpadding="3" width="970" bgcolor="#d3d3d3">
+<TBODY>
+<TR>
+<TD class="4border" bgcolor="#ffffff" align="center"><br><!--#begineditable contype="" name="文章内容" action="" layout="" clone="0" namechanged="0" order="0" ispublic="0" tagname="文章内容" viewid="165561"-->
+
+<LINK href="/system/resource/style/component/news/content/title.css" type="text/css" rel="stylesheet">
+<style type="text/css">
+     .content{margin:auto;text-align:left;line-height:18px;padding:3px 0 0 0;color:#727272;}
+     .process{width:162px;height:11px;background:#EDEDED;overflow:hidden;float:left;margin-left:26px !important;margin-left:13px;margin-right:10px;}
+     .process div{width:160px;height:11px;background:url(/system/resource/images/newsvote/bg.gif) repeat-x;border-left:1px solid #000;border-right:1px solid #000;}
+     .process .style7{border-left-color:#ff0000;border-right-color:#ff0000;background-position:0 -77px;}
+     
+</style>
+
+
+<script language="javascript" src="../../_dwr/interface/NewsvoteDWR.js"></script>
+<script language="javascript" src="../../_dwr/engine.js"></script>
+<script language="javascript" src="../../_dwr/util.js"></script>
+<script language="javascript" src="/system/resource/js/news/newscontent.js"></script>
+<script type="text/javascript">
+
+NewsvoteDWR.getNewsLinkUrl(1256,"1461952780","vsb",newsSkip);
+function newsSkip(data)
+{
+    if(data != "")
+    {
+        window.location.href = data;
+    }
+}
+</script>
+
+
+
+<form name="form165561a">
+<table border="0" class="winstyle165561" width="100%" cellspacing="0" cellpadding="0">
+
+      <tr><td class="titlestyle165561" align="center">
+<span style="color:#f00505;">桂林电子科技大学2019年硕士研究生招生复试分数线要求</span>
+      </td></tr>
+      <tr height="30"><td align="center">
+            <span class="timestyle165561">
+                 2019-03-18 18:56</span>
+            <span class="authorstyle165561">&nbsp;
+            
+            
+            </span>
+            
+                <span class="wb_content">审核人：</span>
+            
+            
+        </td></tr>
+        <tr><td align="right">
+        <span>
+
+        </span>
+        </td></tr>
+<tr><td height="1" BACKGROUND="../../bgline.gif"></td></tr>
+      <tr><td class="contentstyle165561">
+        <div class="c165561_content" id="vsb_newscontent"><div id="vsb_content">
+           <p style="text-align: left; text-indent: 37px;"><strong><span style="font-family: 仿宋_GB2312; font-size: 19px; font-weight: normal;">我校除会计硕士外，其余招生学科（专业领域）复试分数线均执行“2019年全国硕士研究生招生考试考生进入复试的初试成绩基本要求（B类考生）”，具体如下：</span></strong></p>
+<table cellspacing="0" cellpadding="0">
+ <tbody>
+  <tr class="firstRow" style="height: 26px;">
+   <td width="595" height="26" colspan="6" style="padding: 0px 7px; border: 1px solid windowtext; border-image: none; background-color: transparent;"><p style="text-align: center; line-height: 19px;"><strong><span style="color: black; font-family:;">学术学位</span></strong></p></td>
+  </tr>
+  <tr style="height: 38px;">
+   <td width="113" height="38" colspan="2" style="border-width: 0px 1px 1px; border-style: none solid solid; border-color: rgb(0, 0, 0) windowtext windowtext; padding: 0px 7px; background-color: transparent;"><p style="text-align: center; line-height: 19px;"><span style="color: black; font-family:;">学科门类</span></p></td>
+   <td width="198" height="38" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center; line-height: 19px;"><span style="color: black; font-family:;">专业</span></p></td>
+   <td width="99" height="38" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center; line-height: 19px;"><span style="color: black; font-family:;"><span style="color: black; font-family:;"></span>总分</span></p></td>
+   <td width="69" height="38" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center; line-height: 19px;"><span style="color: black; font-family:;">单科</span></p><p style="text-align: center; line-height: 19px;"><span style="color: black; font-family:;">（满分=100分）</span></p></td>
+   <td width="75" height="38" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center; line-height: 19px;"><span style="color: black; font-family:;">单科</span></p><p style="text-align: center; line-height: 19px;"><span style="color: black; font-family:;">（满分&gt;100分）</span></p></td>
+  </tr>
+  <tr style="height: 23px;">
+   <td width="113" height="23" colspan="2" style="border-width: 0px 1px; border-style: none solid; border-color: rgb(0, 0, 0) windowtext; padding: 0px 7px; background-color: transparent;"><p style="text-align: left; line-height: 19px;"><span style="color: black; font-family:;">02</span><span style="color: black; font-family:;">经济学</span></p></td>
+   <td width="197" height="23" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="line-height: 19px;"><span style="color: black; font-family:;">020100</span><span style="color: black; font-family:;">理论经济学</span></p></td>
+   <td width="99" height="23" style="border-width: 0px 1px 0px 0px; border-style: none solid none none; border-color: rgb(0, 0, 0) windowtext rgb(0, 0, 0) rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center; line-height: 19px;"><span style="color: black; font-family:;">335</span></p></td>
+   <td width="69" height="23" style="border-width: 0px 1px 0px 0px; border-style: none solid none none; border-color: rgb(0, 0, 0) windowtext rgb(0, 0, 0) rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center; line-height: 19px;"><span style="color: black; font-family:;">46</span></p></td>
+   <td width="75" height="23" style="border-width: 0px 1px 0px 0px; border-style: none solid none none; border-color: rgb(0, 0, 0) windowtext rgb(0, 0, 0) rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center; line-height: 19px;"><span style="color: black; font-family:;">69</span></p></td>
+  </tr>
+  <tr style="height: 23px;">
+   <td width="113" height="23" colspan="2" style="border-width: 1px 1px 0px; border-style: solid solid none; border-color: windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: left; line-height: 19px;"><span style="color: black; font-family:;">03</span><span style="color: black; font-family:;">法学</span></p></td>
+   <td width="198" height="23" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="line-height: 19px;"><span style="color: black; font-family:;">030500</span><span style="color: black; font-family:;">马克思主义理论</span></p></td>
+   <td width="99" height="23" style="border-width: 1px 1px 0px 0px; border-style: solid solid none none; border-color: windowtext windowtext rgb(0, 0, 0) rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center; line-height: 19px;"><span style="color: black; font-family:;">310</span></p></td>
+   <td width="69" height="23" style="border-width: 1px 1px 0px 0px; border-style: solid solid none none; border-color: windowtext windowtext rgb(0, 0, 0) rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center; line-height: 19px;"><span style="color: black; font-family:;">41</span></p></td>
+   <td width="75" height="23" style="border-width: 1px 1px 0px 0px; border-style: solid solid none none; border-color: windowtext windowtext rgb(0, 0, 0) rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center; line-height: 19px;"><span style="color: black; font-family:;">62</span></p></td>
+  </tr>
+  <tr style="height: 23px;">
+   <td width="113" height="23" colspan="2" style="border-width: 1px 1px 0px; border-style: solid solid none; border-color: windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: left; line-height: 19px;"><span style="color: black; font-family:;">07</span><span style="color: black; font-family:;">理学</span></p></td>
+   <td width="198" height="23" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="line-height: 19px;"><span style="color: black; font-family:;">070100</span><span style="color: black; font-family:;">数学</span></p></td>
+   <td width="99" height="23" style="border-width: 1px 1px 0px 0px; border-style: solid solid none none; border-color: windowtext windowtext rgb(0, 0, 0) rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center; line-height: 19px;"><span style="color: black; font-family:;">280</span></p></td>
+   <td width="69" height="23" style="border-width: 1px 1px 0px 0px; border-style: solid solid none none; border-color: windowtext windowtext rgb(0, 0, 0) rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center; line-height: 19px;"><span style="color: black; font-family:;">38</span></p></td>
+   <td width="75" height="23" style="border-width: 1px 1px 0px 0px; border-style: solid solid none none; border-color: windowtext windowtext rgb(0, 0, 0) rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center; line-height: 19px;"><span style="color: black; font-family:;">57</span></p></td>
+  </tr>
+  <tr style="height: 23px;">
+   <td width="113" height="23" rowspan="13" colspan="2" style="border-width: 1px; border-style: solid; border-color: windowtext windowtext black; padding: 0px 7px; background-color: transparent;"><p style="text-align: left; line-height: 19px;"><span style="color: black; font-family:;">08</span><span style="color: black; font-family:;">工学</span></p></td>
+   <td width="198" height="23" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="line-height: 19px;"><span style="color: black; font-family:;">080200</span><span style="color: black; font-family:;">机械工程</span></p></td>
+   <td width="98" height="23" rowspan="13" style="border-width: 1px 1px 1px 0px; border-style: solid solid solid none; border-color: windowtext windowtext black rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center; line-height: 19px;"><span style="color: black; font-family:;">260</span></p></td>
+   <td width="69" height="23" rowspan="13" style="border-width: 1px 1px 1px 0px; border-style: solid solid solid none; border-color: windowtext windowtext black rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center; line-height: 19px;"><span style="color: black; font-family:;">36</span></p></td>
+   <td width="75" height="23" rowspan="13" style="border-width: 1px 1px 1px 0px; border-style: solid solid solid none; border-color: windowtext windowtext black rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center; line-height: 19px;"><span style="color: black; font-family:;">54</span></p></td>
+  </tr>
+  <tr style="height: 23px;">
+   <td width="173" height="23" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="line-height: 19px;"><span style="color: black; font-family:;">080300</span><span style="color: black; font-family:;">光学工程</span></p></td>
+  </tr>
+  <tr style="height: 21px;">
+   <td width="173" height="21" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="line-height: 19px;"><span style="color: black; font-family:;">080400</span><span style="color: black; font-family:;">仪器科学与技术</span></p></td>
+  </tr>
+  <tr style="height: 21px;">
+   <td width="173" height="21" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="line-height: 19px;"><span style="color: black; font-family:;">080500</span><span style="color: black; font-family:;">材料科学与工程</span></p></td>
+  </tr>
+  <tr style="height: 23px;">
+   <td width="173" height="23" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="line-height: 19px;"><span style="color: black; font-family:;">080900</span><span style="color: black; font-family:;">电子科学与技术</span></p></td>
+  </tr>
+  <tr style="height: 24px;">
+   <td width="173" height="24" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="line-height: 19px;"><span style="color: black; font-family:;">081000</span><span style="color: black; font-family:;">信息与通信工程</span></p></td>
+  </tr>
+  <tr style="height: 23px;">
+   <td width="173" height="23" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="line-height: 19px;"><span style="color: black; font-family:;">081100</span><span style="color: black; font-family:;">控制科学与工程</span></p></td>
+  </tr>
+  <tr style="height: 23px;">
+   <td width="173" height="23" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="line-height: 19px;"><span style="color: black; font-family:;">081200</span><span style="color: black; font-family:;">计算机科学与技术</span></p></td>
+  </tr>
+  <tr style="height: 23px;">
+   <td width="173" height="23" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="line-height: 19px;"><span style="color: black; font-family:;">082300</span><span style="color: black; font-family:;">交通运输工程</span></p></td>
+  </tr>
+  <tr style="height: 20px;">
+   <td width="173" height="20" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="line-height: 19px;"><span style="color: black; font-family:;">083000</span><span style="color: black; font-family:;">环境科学与工程</span></p></td>
+  </tr>
+  <tr style="height: 23px;">
+   <td width="173" height="23" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="line-height: 19px;"><span style="color: black; font-family:;">083100</span><span style="color: black; font-family:;">生物医学工程</span></p></td>
+  </tr>
+  <tr style="height: 23px;">
+   <td width="173" height="23" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="line-height: 19px;"><span style="color: black; font-family:;">083500</span><span style="color: black; font-family:;">软件工程</span></p></td>
+  </tr>
+  <tr style="height: 23px;">
+   <td width="173" height="23" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="line-height: 19px;"><span style="color: black; font-family:;">083900 </span><span style="color: black; font-family:;">网络空间安全</span></p></td>
+  </tr>
+  <tr style="height: 22px;">
+   <td width="113" height="22" rowspan="2" colspan="2" style="border-width: 0px 1px 1px; border-style: none solid solid; border-color: rgb(0, 0, 0) windowtext black; padding: 0px 7px; background-color: transparent;"><p style="text-align: left; line-height: 19px;"><span style="color: black; font-family:;">12</span><span style="color: black; font-family:;">管理学</span></p></td>
+   <td width="198" height="22" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="line-height: 19px;"><span style="color: black; font-family:;">120100</span><span style="color: black; font-family:;">管理科学与工程</span></p></td>
+   <td width="99" height="22" rowspan="2" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext black rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center; line-height: 19px;"><span style="color: black; font-family:;">335</span></p></td>
+   <td width="69" height="22" rowspan="2" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext black rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center; line-height: 19px;"><span style="color: black; font-family:;">46</span></p></td>
+   <td width="75" height="22" rowspan="2" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext black rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center; line-height: 19px;"><span style="color: black; font-family:;">69</span></p></td>
+  </tr>
+  <tr style="height: 23px;">
+   <td width="173" height="23" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="line-height: 19px;"><span style="color: black; font-family:;">120202</span><span style="color: black; font-family:;">企业管理</span></p></td>
+  </tr>
+  <tr style="height: 23px;">
+   <td width="113" height="23" colspan="2" style="border-width: 0px 1px 1px; border-style: none solid solid; border-color: rgb(0, 0, 0) windowtext black; padding: 0px 7px; background-color: transparent;"><p style="text-align: left; line-height: 19px;"><span style="color: black; font-family:;">13</span><span style="color: black; font-family:;">艺术学</span></p></td>
+   <td width="198" height="23" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="line-height: 19px;"><span style="color: black; font-family:;">130500 </span><span style="color: black; font-family:;">设计学</span></p></td>
+   <td width="99" height="23" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext black rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center; line-height: 19px;"><span style="color: black; font-family:;">330</span></p></td>
+   <td width="69" height="23" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext black rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center; line-height: 19px;"><span style="color: black; font-family:;">35</span></p></td>
+   <td width="75" height="23" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext black rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center; line-height: 19px;"><span style="color: black; font-family:;">53</span></p></td>
+  </tr>
+  <tr style="height: 23px;">
+   <td width="595" height="23" colspan="6" style="border-width: 0px 1px 1px; border-style: none solid solid; border-color: rgb(0, 0, 0) windowtext windowtext; padding: 0px 7px; background-color: transparent;"><p style="text-align: center; line-height: 19px;"><span style="color: black; font-family:;">专业学位</span></p></td>
+  </tr>
+  <tr style="height: 38px;">
+   <td width="113" height="38" colspan="2" style="border-width: 0px 1px 1px; border-style: none solid solid; border-color: rgb(0, 0, 0) windowtext windowtext; padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family:;">专业学位类别</span></p></td>
+   <td width="198" height="38" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family:;">领域</span></p></td>
+   <td width="99" height="38" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family:;">总分</span></p></td>
+   <td width="69" height="38" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family:;">单科</span></p><p style="text-align: center;"><span style="color: black; font-family:;">（满分=100分）</span></p></td>
+   <td width="75" height="38" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family:;">单科</span></p><p style="text-align: center;"><span style="color: black; font-family:;">（满分&gt;100分）</span></p></td>
+  </tr>
+  <tr style="height: 19px;">
+   <td width="113" height="19" colspan="2" style="border-width: 0px 1px 1px; border-style: none solid solid; border-color: rgb(0, 0, 0) windowtext windowtext; padding: 0px 7px; background-color: transparent;"><p style="text-align: left;"><span style="color: black; font-family:;">0252</span><span style="color: black; font-family:;">应用统计</span></p></td>
+   <td width="198" height="19" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p><span style="color: black; font-family:;">025200</span><span style="color: black; font-family:;">应用统计</span></p></td>
+   <td width="99" height="19" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family:;">335</span></p></td>
+   <td width="69" height="19" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family:;">46</span></p></td>
+   <td width="75" height="19" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family:;">69</span></p></td>
+  </tr>
+  <tr style="height: 19px;">
+   <td width="113" height="19" rowspan="2" colspan="2" style="border-width: 0px 1px 1px; border-style: none solid solid; border-color: rgb(0, 0, 0) windowtext windowtext; padding: 0px 7px; background-color: transparent;"><p style="text-align: left;"><span style="color: black; font-family:;">0351</span><span style="color: black; font-family:;">法律</span></p></td>
+   <td width="198" height="19" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p><span style="color: black; font-family:;">035101</span><span style="color: black; font-family:;">法律（非法学）</span></p></td>
+   <td width="99" height="19" rowspan="2" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family:;">310</span></p></td>
+   <td width="69" height="19" rowspan="2" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family:;">41</span></p></td>
+   <td width="75" height="19" rowspan="2" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family:;">62</span></p></td>
+  </tr>
+  <tr style="height: 19px;">
+   <td width="173" height="19" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p><span style="color: black; font-family:;">035102</span><span style="color: black; font-family:;">法律（法学）</span></p></td>
+  </tr>
+  <tr style="height: 19px;">
+   <td width="113" height="19" colspan="2" style="border-width: 0px 1px 1px; border-style: none solid solid; border-color: rgb(0, 0, 0) windowtext windowtext; padding: 0px 7px; background-color: transparent;"><p style="text-align: left;"><span style="color: black; font-family:;">0551</span><span style="color: black; font-family:;">翻译</span></p></td>
+   <td width="198" height="19" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p><span style="color: black; font-family:;">055100</span><span style="color: black; font-family:;">翻译硕士</span></p></td>
+   <td width="99" height="19" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family:;">345</span></p></td>
+   <td width="69" height="19" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family:;">48</span></p></td>
+   <td width="75" height="19" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family:;">72</span></p></td>
+  </tr>
+  <tr style="height: 19px;">
+   <td width="113" height="19" rowspan="9" colspan="2" style="border-width: 0px 1px 1px; border-style: none solid solid; border-color: rgb(0, 0, 0) windowtext windowtext; padding: 0px 7px; background-color: transparent;"><p style="text-align: left;"><span style="color: black; font-family:;">0852</span><span style="color: black; font-family:;">工程</span></p><p style="text-align: left;"><span style="color: black; font-family:;">（非照顾领域）</span></p></td>
+   <td width="198" height="19" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p><span style="color: black; font-family:;">085201</span><span style="color: black; font-family:;">机械工程</span></p></td>
+   <td width="99" height="19" rowspan="9" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family:;">260</span></p></td>
+   <td width="69" height="19" rowspan="9" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family:;">36</span></p></td>
+   <td width="75" height="19" rowspan="9" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family:;">54</span></p></td>
+  </tr>
+  <tr style="height: 19px;">
+   <td width="173" height="19" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p><span style="color: black; font-family:;">085203</span><span style="color: black; font-family:;">仪器仪表工程</span></p></td>
+  </tr>
+  <tr style="height: 19px;">
+   <td width="173" height="19" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p><span style="color: black; font-family:;">085204</span><span style="color: black; font-family:;">材料工程</span></p></td>
+  </tr>
+  <tr style="height: 19px;">
+   <td width="173" height="19" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p><span style="color: black; font-family:;">085208</span><span style="color: black; font-family:;">电子与通信工程</span></p></td>
+  </tr>
+  <tr style="height: 19px;">
+   <td width="173" height="19" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p><span style="color: black; font-family:;">085209</span><span style="color: black; font-family:;">集成电路工程</span></p></td>
+  </tr>
+  <tr style="height: 19px;">
+   <td width="173" height="19" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p><span style="color: black; font-family:;">085210</span><span style="color: black; font-family:;">控制工程</span></p></td>
+  </tr>
+  <tr style="height: 19px;">
+   <td width="173" height="19" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p><span style="color: black; font-family:;">085211</span><span style="color: black; font-family:;">计算机技术</span></p></td>
+  </tr>
+  <tr style="height: 19px;">
+   <td width="173" height="19" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p><span style="color: black; font-family:;">085212</span><span style="color: black; font-family:;">软件工程</span></p></td>
+  </tr>
+  <tr style="height: 19px;">
+   <td width="173" height="19" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p><span style="color: black; font-family:;">085222</span><span style="color: black; font-family:;">交通运输工程</span></p></td>
+  </tr>
+  <tr style="height: 38px;">
+   <td width="113" height="38" colspan="2" style="border-width: 0px 1px 1px; border-style: none solid solid; border-color: rgb(0, 0, 0) windowtext windowtext; padding: 0px 7px; background-color: transparent;"><p style="text-align: left;"><span style="color: black; font-family:;">0852</span><span style="color: black; font-family:;">工程</span></p><p style="text-align: left;"><span style="color: black; font-family:;">（照顾领域）</span></p></td>
+   <td width="198" height="38" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p><span style="color: black; font-family:;">085223</span><span style="color: black; font-family:;">船舶与海洋工程</span></p></td>
+   <td width="99" height="38" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family:;">250</span></p></td>
+   <td width="69" height="38" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family:;">32</span></p></td>
+   <td width="75" height="38" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family:;">48</span></p></td>
+  </tr>
+  <tr style="height: 19px;">
+   <td width="113" height="19" colspan="2" style="border-width: 0px 1px 1px; border-style: none solid solid; border-color: rgb(0, 0, 0) windowtext windowtext; padding: 0px 7px; background-color: transparent;"><p style="text-align: left;"><span style="color: black; font-family:;">1251</span><span style="color: black; font-family:;">工商管理</span></p></td>
+   <td width="198" height="19" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p><span style="color: black; font-family:;">125100</span><span style="color: black; font-family:;">工商管理硕士</span></p></td>
+   <td width="99" height="19" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family:;">160</span></p></td>
+   <td width="69" height="19" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family:;">37</span></p></td>
+   <td width="75" height="19" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family:;">74</span></p></td>
+  </tr>
+  <tr style="height: 19px;">
+   <td width="113" height="19" colspan="2" style="border-width: 0px 1px 1px; border-style: none solid solid; border-color: rgb(0, 0, 0) windowtext windowtext; padding: 0px 7px; background-color: transparent;"><p style="text-align: left;"><span style="color: black; font-family:;">1253</span><span style="color: black; font-family:;">会计</span></p></td>
+   <td width="198" height="19" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p><span style="color: black; font-family:;">125300 </span><span style="color: black; font-family:;">会计硕士</span></p></td>
+   <td width="99" height="19" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family:;">177</span></p></td>
+   <td width="69" height="19" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family:;">37</span></p></td>
+   <td width="75" height="19" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family:;">74</span></p></td>
+  </tr>
+  <tr style="height: 19px;">
+   <td width="113" height="19" colspan="2" style="border-width: 0px 1px 1px; border-style: none solid solid; border-color: rgb(0, 0, 0) windowtext windowtext; padding: 0px 7px; background-color: transparent;"><p style="text-align: left;"><span style="color: black; font-family:;">1351</span><span style="color: black; font-family:;">艺术</span></p></td>
+   <td width="198" height="19" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p><span style="color: black; font-family:;">135108 </span><span style="color: black; font-family:;">艺术设计</span></p></td>
+   <td width="99" height="19" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family:;">330</span></p></td>
+   <td width="69" height="19" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family:;">35</span></p></td>
+   <td width="75" height="19" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family:;">53</span></p></td>
+  </tr>
+  <tr style="height: 19px;">
+   <td width="595" height="19" colspan="6" style="border-width: 0px 1px 1px; border-style: none solid solid; border-color: rgb(0, 0, 0) windowtext windowtext; padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="background: white; color: black; font-family:;">享受少数民族照顾政策、退役大学生士兵专项计划分数线</span></p></td>
+  </tr>
+  <tr style="height: 19px;">
+   <td width="105" height="19" style="border-width: 0px 1px 1px; border-style: none solid solid; border-color: rgb(0, 0, 0) windowtext windowtext; padding: 0px 7px; background-color: transparent;"><br></td>
+   <td width="223" height="19" colspan="2" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><br></td>
+   <td width="99" height="19" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family:;">248</span></p></td>
+   <td width="69" height="19" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family:;">30</span></p></td>
+   <td width="75" height="19" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family:;">45</span></p></td>
+  </tr>
+  <tr height="0">
+   <td width="106" style="border: 0px rgb(0, 0, 0); border-image: none; background-color: transparent;"><br></td>
+   <td width="5" style="border: 0px rgb(0, 0, 0); border-image: none; background-color: transparent;"><br></td>
+   <td width="198" style="border: 0px rgb(0, 0, 0); border-image: none; background-color: transparent;"><br></td>
+   <td width="99" style="border: 0px rgb(0, 0, 0); border-image: none; background-color: transparent;"><br></td>
+   <td width="69" style="border: 0px rgb(0, 0, 0); border-image: none; background-color: transparent;"><br></td>
+   <td width="113" style="border: 0px rgb(0, 0, 0); border-image: none; background-color: transparent;"><br></td>
+  </tr>
+ </tbody>
+</table>
+<p style="text-align: left; text-indent: 37px;"><strong><span style="font-family: 仿宋_GB2312; font-size: 19px; font-weight: normal;">1.</span></strong><strong><span style="font-family: 仿宋_GB2312; font-size: 19px; font-weight: normal;">第一志愿报考我校且达到我校报考专业的复试分数线要求的考生，自动获得复试资格，请关注后续各学院复试时间安排，并做好复试准备。</span></strong></p>
+<p style="text-align: left; text-indent: 37px;"><strong><span style="font-family: 仿宋_GB2312; font-size: 19px; font-weight: normal;">2.</span></strong><strong><span style="font-family: 仿宋_GB2312; font-size: 19px; font-weight: normal;">第一志愿享受少数民族照顾政策分数线的考生，录取类别为定向就业，复试录取前需签订定向就业合同。</span></strong></p>
+<p style="text-align: left; text-indent: 37px;"><strong><span style="font-family: 仿宋_GB2312; font-size: 19px; font-weight: normal;">3.</span></strong><strong><span style="font-family: 仿宋_GB2312; font-size: 19px; font-weight: normal;">我校2019年有 “退役大学生士兵计划” 5名，用于招收专业学位硕士。</span></strong></p>
+<p style="text-align: left; text-indent: 37px;"><strong><span style="font-family: 仿宋_GB2312; font-size: 19px; font-weight: normal;">4.</span></strong><strong><span style="font-family: 仿宋_GB2312; font-size: 19px; font-weight: normal;">根据教育部《2019年全国硕士研究生招生工作管理规定》，享受“大学生志愿服务西部计划”等加分政策的考生，若加分后，达到我校报考专业复试线的一志愿考生，请在2019年3月26日前将证明材料（身份证复印件、相关证书复印件等）发送电子邮件至1953705626@qq.com。</span></strong><strong> </strong><strong><span style="font-family: 仿宋_GB2312; font-size: 19px; font-weight: normal;">我校将对考生提供的相关证明材料进行核实，审核无误后将予以加分并批准参加复试。</span></strong></p>
+<p>&nbsp;</p>
+</div></div>
+          
+           
+           
+        </td></tr>
+        
+        <tr><td class="pagestyle165561" align="left">
+        </td></tr>
+        <tr><td><div id="div_vote_id"></div></td></tr>
+    <tr><td align="left"><span>
+             
+             
+      </span></td></tr>
+      
+      <tr>
+         <td align="center">
+            
+         </td>
+      </tr>
+
+      <tr><td align="right">
+              <span>【</span><a href="javascript:window.opener=null;window.open('','_self');window.close();"><span>关闭窗口</span></a><span>】</span>
+      </td></tr>
+
+</table>
+</form>
+
+
+
+<script type="text/javascript">
+
+function dosuba165561a()
+{
+    try{
+        var ua = navigator.userAgent.toLowerCase();
+        if(ua.indexOf("msie 8")>-1)
+        {
+            window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE8
+        }else{
+            if (document.all) 
+            {
+                window.external.addFavorite(document.location.href, document.title);
+            }else if(window.sidebar)
+            {
+                window.sidebar.addPanel( document.title, document.location.href, "");//firefox
+            }
+        }
+
+    }
+    catch (e){alert("无法自动添加到收藏夹，请使用 Ctrl + d 手动添加");}
+}
+
+
+</script>
+<!--#endeditable--></TD></TR></TBODY></TABLE><BR></TD></TR>
+<TR>
+<TD>
+<TABLE border="0" cellspacing="0" width="100%" background="../../images/copybg.gif" height="65">
+<TBODY>
+<TR>
+<TD class="norepeat" valign="top" align="center"><br><!--#begineditable contype="" name="版权" action="" layout="" clone="0" namechanged="0" order="4" ispublic="0" tagname="版权" viewid="165554"--><p style="text-align: center"><span style="color: #828282">桂林电子科技大学研究生院招生办公室　版权所有</span></p><!--#endeditable--><FONT color="#828282"></FONT></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+
+</BODY></HTML>

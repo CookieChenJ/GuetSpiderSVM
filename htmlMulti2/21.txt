@@ -1,0 +1,403 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><HTML><HEAD><TITLE> 2019级研究生新生入学报到流程（含宿舍安排）-桂林电子科技大学研究生院</TITLE><META Name="keywords" Content="桂林电子科技大学,研究生院" />
+
+
+
+
+
+<META content="text/html; charset=UTF-8" http-equiv="Content-Type"><LINK rel="stylesheet" type="text/css" href="../../style/css.css">
+
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="../../_sitegray/_sitegray_d.css" />
+<script language="javascript" src="../../_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="../../content.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1013,'/content.jsp',1928,1411857444)</script>
+</HEAD>
+<BODY>
+<TABLE border="0" cellspacing="0" cellpadding="0" width="200" align="center">
+<TBODY>
+<TR>
+<TD height="4"></TD></TR></TBODY></TABLE>
+<TABLE border="0" cellspacing="0" cellpadding="0" width="1000" background="../../images/banner-b.png" align="center">
+<TBODY>
+<TR>
+<TD height="133" valign="top" width="742">&nbsp;</TD>
+<TD valign="top" width="258">
+<TABLE border="0" cellspacing="0" cellpadding="0" width="191" background="" align="center">
+<TBODY>
+<TR>
+<TD height="21" valign="top" align="center"></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+<TABLE border="0" cellspacing="0" cellpadding="0" width="1000" background="../../images/bd_bg.gif" align="center">
+<TBODY>
+<TR>
+<TD height="39" width="995" align="center"><!--#begineditable clone="0" namechanged="0" order="1" ispublic="0" tagname="网站导航" viewid="165654" contentviewid="" contype="" stylesysid="" layout="" action="" name="网站导航"--><style type="text/css">
+td.b1_0_{FONT-SIZE:9pt;}
+td.b2_0_{FONT-SIZE:9pt;}
+td.b3_0_{FONT-SIZE:9pt;BACKGROUND-COLOR: #eff8fe;}
+td.b4_0_{FONT-SIZE:9pt;BACKGROUND-COLOR: #e8f0fb;}
+a.menu0_0_:link {TEXT-DECORATION: none;};
+a.menu0_0_:visited { TEXT-DECORATION: none;};
+a.menu0_0_:hover {TEXT-DECORATION: none;};
+a.menu0_0_:active {TEXT-DECORATION: none;};
+table.tb1_0_{FONT-SIZE:9pt;border:0;}
+span.s1_0_{FONT-FAMILY: 宋体;COLOR: #ffcc00;FONT-SIZE: 11pt;FONT-WEIGHT: bold;}
+span.s2_0_{FONT-SIZE: 9pt;COLOR: #cc0000;LINE-HEIGHT: 160%;}
+span.s10_0_{FONT-FAMILY: 宋体;COLOR: #ffffff;FONT-SIZE: 11pt;FONT-WEIGHT: bold;}
+span.s20_0_{FONT-SIZE: 9pt;COLOR: #222222;LINE-HEIGHT: 160%;}
+</style>
+<SCRIPT language="javascript"> 
+ var showfix_0_ = 1;
+ var isvertical_0_ = false;
+</SCRIPT>
+<script language="javascript" src="/system/resource/js/menu/text.js"></script>
+<TABLE id="t1_0_" cellSpacing="0" cellPadding="0" border="0" height="0" width="0"><TR><TD valign="center"></TD><TD valign="middle" height="0" width="103" nowrap class="b1_0_" align="center" id="a_0_1066" onmouseover="tshowLayers('1066','b2_0_', '_0_')" onmouseout="thideLayers('1066','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="http://www.guet.edu.cn/"><span class="fontstyle165654">&nbsp;学校主页&nbsp;</span></a></TD><TD valign="center">|</TD><TD valign="middle" width="103" nowrap class="b1_0_" align="center" id="a_0_1001" onmouseover="tshowLayers('1001','b2_0_', '_0_')" onmouseout="thideLayers('1001','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="../../index.htm"><span class="fontstyle165654">&nbsp;首页&nbsp;</span></a></TD><TD valign="center">|</TD><TD valign="middle" width="103" nowrap class="b1_0_" align="center" id="a_0_1002" onmouseover="tshowLayers('1002','b2_0_', '_0_')" onmouseout="thideLayers('1002','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="../../bmgk/bmjj.htm"><span class="fontstyle165654">&nbsp;部门概况&nbsp;</span></a></TD><TD valign="center">|</TD><TD valign="middle" width="103" nowrap class="b1_0_" align="center" id="a_0_1004" onmouseover="tshowLayers('1004','b2_0_', '_0_')" onmouseout="thideLayers('1004','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="../../jsfw/sssds.htm"><span class="fontstyle165654">&nbsp;导师队伍&nbsp;</span></a></TD><TD valign="center">|</TD><TD valign="middle" width="103" nowrap class="b1_0_" align="center" id="a_0_1048" onmouseover="tshowLayers('1048','b2_0_', '_0_')" onmouseout="thideLayers('1048','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="http://www.guet.edu.cn/yjszs"><span class="fontstyle165654">&nbsp;招生工作&nbsp;</span></a></TD><TD valign="center">|</TD><TD valign="middle" width="103" nowrap class="b1_0_" align="center" id="a_0_1006" onmouseover="tshowLayers('1006','b2_0_', '_0_')" onmouseout="thideLayers('1006','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="../../pyfa/fuud.htm"><span class="fontstyle165654">&nbsp;培养工作&nbsp;</span></a></TD><TD valign="center">|</TD><TD valign="middle" width="103" nowrap class="b1_0_" align="center" id="a_0_1008" onmouseover="tshowLayers('1008','b2_0_', '_0_')" onmouseout="thideLayers('1008','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="../../jxcg/bsyjs.htm"><span class="fontstyle165654">&nbsp;学位工作&nbsp;</span></a></TD><TD valign="center">|</TD><TD valign="middle" width="103" nowrap class="b1_0_" align="center" id="a_0_1096" onmouseover="tshowLayers('1096','b2_0_', '_0_')" onmouseout="thideLayers('1096','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="../../xsgz/xsgz1.htm"><span class="fontstyle165654">&nbsp;学生工作&nbsp;</span></a></TD><TD valign="center">|</TD><TD valign="middle" width="103" nowrap class="b1_0_" align="center" id="a_0_1009" onmouseover="tshowLayers('1009','b2_0_', '_0_')" onmouseout="thideLayers('1009','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="../../gzzd/gzzd.htm"><span class="fontstyle165654">&nbsp;规章制度&nbsp;</span></a></TD><TD valign="center">|</TD><TD valign="middle" width="103" nowrap class="b1_0_" align="center" id="a_0_1010" onmouseover="tshowLayers('1010','b2_0_', '_0_')" onmouseout="thideLayers('1010','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="../../xzzq/pyxgbg_ss_.htm"><span class="fontstyle165654">&nbsp;下载专区&nbsp;</span></a></TD></TR></TR></table><!--#endeditable--></TD>
+<TD width="10" align="right"><IMG src="../../images/bd_bg_1.gif" width="5" height="39"></TD></TR></TBODY></TABLE>
+<TABLE border="0" cellspacing="0" cellpadding="0" width="1000" align="center">
+<TBODY>
+<TR>
+<TD height="39" width="38" align="center"><IMG src="../../images/ico_001.gif" width="14" height="14"></TD>
+<TD width="352" align="left"><!--#begineditable clone="0" namechanged="0" order="2" ispublic="0" tagname="文本日历" viewid="165655" contentviewid="" contype="" stylesysid="" layout="" action="" name="文本日历"--><script language="javascript" src="/system/resource/js/calendar/simple.js"></script>               
+<script language="JavaScript">
+//阳历
+var c_Calendar165655EnDateString;
+
+var c_Calendar165655WeekDayString;
+
+//阴历
+var c_Calendar165655CnDateString;
+//节气
+var c_Calendar165655JQString;
+//年
+var c_Calendar165655YearString;
+//月
+var c_Calendar165655MonthString;
+//日
+var c_Calendar165655DayString;
+//周
+var c_Calendar165655WeekString;
+function RunGLNL165655()
+{          
+    var  sc =new Simple_Calendar ();
+    sc.init();
+    c_Calendar165655CnDateString=sc.getCnDateString();
+    c_Calendar165655WeekDayString=sc.getCalendarWeekString();
+    c_Calendar165655JQString=sc.getJQString();
+    c_Calendar165655EnDateString=sc.getEnDateString();
+    c_Calendar165655YearString=sc.getYearString();
+    c_Calendar165655MonthString=sc.getMonthString();
+    c_Calendar165655DayString=sc.getDayString();
+    c_Calendar165655WeekString=sc.getWeekString();
+}
+RunGLNL165655();
+document.write('<div id="c_lunar165655"   class="fontstyle165655"  >');       
+document.write(c_Calendar165655EnDateString);
+document.write("&nbsp;&nbsp;"+c_Calendar165655WeekDayString);
+document.write("&nbsp;&nbsp;"+c_Calendar165655CnDateString);
+
+
+document.write("</div>");
+
+</script>
+<!--#endeditable--></TD>
+<TD width="584" align="right"><!--#begineditable clone="0" namechanged="0" order="3" ispublic="0" tagname="简单检索" viewid="165656" contentviewid="" contype="" stylesysid="" layout="" action="" name="简单检索"-->
+
+
+
+
+
+
+<script language="javascript" src="/system/resource/js/base64.js"></script>
+<script language="javascript" src="/system/resource/js/formfunc.js"></script>
+<form action="../../search.jsp?wbtreeid=1013" method="post" name="a165656a" target="_blank" onsubmit="return subsearchdataa165656a()" style="display: inline;">
+ <input type="hidden" name="Find" value="find">
+ <input type="hidden" name="entrymode" value="1">
+ <input type="hidden" id="INTEXT2" name="INTEXT2" value="">
+ <input type="hidden" name="news_search_code">
+ <table border="0" cellspacing="0" cellpadding="5" class="searchstyle165656">
+  <tr>
+   <td Valign="middle" nowrap="nowrap" height="22">
+    <font class="leaderfont165656">站内搜索：</font>
+    
+        <input type="hidden" name="wbtreeids" value="0">
+    </td><td><span id="intextspana165656a"></span><iframe id="intextframea165656a" src="about:blank" scrolling="no" frameborder="0" style="position:absolute;top:0px;left:0px;display:none;"></iframe><input size="22" name="INTEXT" class="querystyle165656">
+   </td>
+   <td align="absmiddle" nowrap="nowrap" height="1">
+   <input type="image" src="../../images/an_search.gif" valign="bottom" style="cursor: hand"></td>
+  </tr>
+  
+ </table>
+</form>
+<script>
+String.prototype.trim= function()       
+{              
+    var t = this.replace(/(^\s*)|(\s*$)/g, "");     
+    return t.replace(/(^　*)|(　*$)/g, "");     
+}
+ 
+function subsearchdataa165656a()
+{ 
+	
+	if(document.a165656a.INTEXT.value.trim()=="")
+	{
+		alert("请输入查询关键字！");
+		return false;
+	}
+	
+	
+    if(checkDataa165656a(document.a165656a))
+    {
+       return true;  
+    }
+    return false;
+}       
+</script>
+
+<script> 
+function checkDataa165656a(formname)
+{
+	if(formname.INTEXT.value.trim()=="")
+	{
+		alert("请输入查询关键字！");
+		return false;
+	}
+
+	var  base64 = new Base64();
+    if(window.toFF==1)
+        {
+            var ssvalue = formname.INTEXT.value;
+            formname.INTEXT2.value = Simplized(ssvalue);
+            formname.INTEXT2.value = base64.encode(formname.INTEXT2.value);
+        }else
+        formname.INTEXT2.value = formname.INTEXT.value;
+        formname.INTEXT2.value = base64.encode(formname.INTEXT2.value);
+       return true;
+}
+</script>
+<!--#endeditable--></TD>
+<TD width="26">&nbsp;</TD></TR></TBODY></TABLE>
+<TABLE border="0" cellspacing="0" cellpadding="0" width="1000" align="center">
+<TBODY>
+<TR>
+<TD bgcolor="#f0f0f0" height="273" valign="top" background="../../images/list_lfbg1.gif" width="245" style="background-repeat: no-repeat; background-position: center bottom">
+<TABLE border="0" cellspacing="0" cellpadding="0" width="245" background="../../images/title_1.gif" align="center">
+<TBODY>
+<TR>
+<TD height="32" width="21">&nbsp;</TD>
+<TD class="h4" width="165"><!--#begineditable clone="0" namechanged="0" order="4" ispublic="0" tagname="装饰文字1" viewid="165669" contentviewid="" contype="" stylesysid="" layout="" action="" name="装饰文字1"--><span class="titlestyle165669">新闻中心</span><!--#endeditable--></TD>
+<TD width="59">&nbsp;</TD></TR></TBODY></TABLE>
+<TABLE border="0" cellspacing="5" cellpadding="0" width="245" bgcolor="#f0f0f0" align="center" height="245">
+<TBODY>
+<TR>
+<TD valign="top" align="center">
+<TABLE border="0" cellspacing="0" cellpadding="0" width="205">
+<TBODY>
+<TR>
+<TD>&nbsp;</TD></TR></TBODY></TABLE>
+<TABLE border="0" cellspacing="0" cellpadding="0" width="205" background="../../images/leftdh_bg.gif">
+<TBODY>
+<TR>
+<TD height="34"><!--#begineditable clone="0" namechanged="0" order="5" ispublic="0" tagname="网站二级导航" viewid="165670" contentviewid="" contype="" stylesysid="" layout="" action="" name="网站二级导航"--><style type="text/css">
+td.b1_4_{FONT-SIZE:9pt;BACKGROUND-IMAGE: url(../../images/leftdh_bg.gif);}
+td.b2_4_{FONT-SIZE:9pt;BACKGROUND-IMAGE: url(../../images/leftdh_bg.gif);}
+td.b3_4_{FONT-SIZE:9pt;BACKGROUND-COLOR: #eff8fe;}
+td.b4_4_{FONT-SIZE:9pt;BACKGROUND-COLOR: #e8f0fb;}
+a.menu0_4_:link {TEXT-DECORATION: none;};
+a.menu0_4_:visited { TEXT-DECORATION: none;};
+a.menu0_4_:hover {TEXT-DECORATION: none;};
+a.menu0_4_:active {TEXT-DECORATION: none;};
+table.tb1_4_{FONT-SIZE:9pt;border:0;}
+span.s1_4_{PADDING-LEFT: 30px;COLOR: #cc0000;FONT-SIZE: 10pt;FONT-WEIGHT: bold;TEXT-DECORATION: none;}
+span.s2_4_{FONT-SIZE: 9pt;COLOR: #cc0000;LINE-HEIGHT: 160%;}
+span.s10_4_{PADDING-LEFT: 30px;COLOR: #222222;FONT-SIZE: 10pt;FONT-WEIGHT: bold;TEXT-DECORATION: none;}
+span.s20_4_{FONT-SIZE: 9pt;COLOR: #222222;LINE-HEIGHT: 160%;}
+</style>
+<SCRIPT language="javascript"> 
+ var showfix_4_ = 1;
+ var isvertical_4_ = true;
+</SCRIPT>
+
+<TABLE id="t1_4_" cellSpacing="0" cellPadding="0" border="0" height="0" width="0"><TR><TD valign="middle" height="34" width="205" class="b1_4_" align="left" id="a_4_1013" onmouseover="tshowLayers('1013','b2_4_', '_4_')" onmouseout="thideLayers('1013','b1_4_', '_4_','true')"> <a class="menu0_4_" href="../../xwzx/tzgg.htm"><span class="fontstyle165670">&nbsp;通知公告&nbsp;</span></a></TD></tr><TR><TD valign="middle" height="34" width="205" class="b1_4_" align="left" id="a_4_1012" onmouseover="tshowLayers('1012','b2_4_', '_4_')" onmouseout="thideLayers('1012','b1_4_', '_4_','true')"> <a class="menu0_4_" href="../../xwzx/xwyd.htm"><span class="fontstyle165670">&nbsp;新闻要点&nbsp;</span></a></TD></tr></table><!--#endeditable--></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD>
+<TD width="15">&nbsp;</TD>
+<TD valign="top" width="740">
+<TABLE border="0" cellspacing="0" cellpadding="0" width="740" background="../../images/title_2.gif" align="center">
+<TBODY>
+<TR>
+<TD height="32" width="33">&nbsp;</TD>
+<TD width="147" align="left"><SPAN class="h5"><!--#begineditable clone="0" namechanged="0" order="6" ispublic="0" tagname="栏目名称" viewid="165671" contentviewid="" contype="" stylesysid="" layout="" action="" name="栏目名称"--><span class="windowstyle165671">
+通知公告</span><!--#endeditable--></SPAN></TD>
+<TD width="541" align="right"><!--#begineditable clone="0" namechanged="0" order="7" ispublic="0" tagname="当前位置" viewid="165672" contentviewid="" contype="" stylesysid="" layout="" action="" name="当前位置"-->  
+<table class="winstyle165672" cellspacing="0" cellpadding="0"><tr><td nowrap>当前位置：   
+<a href="../../index.htm"><span class="fontstyle165672">首页</span></a><span class="splitflagstyle165672"> > </span><a href="../../xwzx/xwyd.htm"><span class="fontstyle165672">新闻中心</span></a><span class="splitflagstyle165672"> > </span><a href="../../xwzx/tzgg.htm"><span class="fontstyle165672">通知公告</span></a><span class="splitflagstyle165672"> > </span><span class="fontstyle165672">正文</span></td></tr></table><!--#endeditable--></TD>
+<TD width="19">&nbsp;</TD></TR></TBODY></TABLE>
+<TABLE border="0" cellspacing="20" cellpadding="0" width="740" align="center" style="border-bottom: #cccccc 1px solid; border-left: #cccccc 1px solid; border-top: #cccccc 1px solid; border-right: #cccccc 1px solid">
+<TBODY>
+<TR>
+<TD height="521" valign="top" align="left"><!--#begineditable clone="0" namechanged="0" order="8" ispublic="0" tagname="文章内容" viewid="165674" contentviewid="" contype="" stylesysid="" layout="" action="" name="文章内容"-->
+<script language="javascript" src="/system/resource/js/dynclicks.js"></script><script language="javascript" src="../../_dwr/interface/NewsvoteDWR.js"></script><script language="javascript" src="../../_dwr/engine.js"></script><script language="javascript" src="/system/resource/js/news/newscontent.js"></script><script type="text/javascript">NewsvoteDWR.getNewsLinkUrl(1928,'1411857444','vsb',newsSkip);function newsSkip(data){if(data != ""){window.location.href = data;}}</script><script language="javascript" src="/system/resource/js/ajax.js"></script><form name="_newscontent_fromname">
+<div>
+    <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td align="center" style="color:#cc0000; font-size:18px; font-weight:bold; line-height:200%;">2019级研究生新生入学报到流程（含宿舍安排）</td>
+      </tr>
+    </table>
+    <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" style="border-top:#666666 1px dashed">
+  <tr>
+    <td height="5"> </td>
+  </tr>
+</table>
+
+    <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#ffffcc">
+      <tr>
+        <td height="28" align="center" style="color:#FF0000; font-size:12px">2019年09月04日 11:10&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浏览：<script>_showDynClicks("wbnews", 1411857444, 1928)</script> 次</td>
+      </tr>
+    </table>
+    <div id="vsb_content"><p style="background: rgb(255, 255, 255); margin: 8px 0px; text-align: justify; line-height: 27px; text-indent: 37px; text-justify: inter-ideograph;">&nbsp;</p>
+<p style="background: rgb(255, 255, 255); text-align: justify; color: rgb(0, 0, 0); line-height: 27px; font-family: 宋体; font-size: 16px; font-style: normal; font-weight: normal; margin-top: 8px; margin-bottom: 8px; text-justify: inter-ideograph;"><strong><span style="color: rgb(102, 102, 102); font-family: 宋体; font-size: 14px; font-weight: bold;"><span style="font-family: 宋体;"><br></span></span></strong></p>
+<p style="background: rgb(255, 255, 255); margin: 8px 0px; text-align: justify; line-height: 27px; text-indent: 37px; text-justify: inter-ideograph;"><strong><span style="background: rgb(255, 255, 255); color: rgb(102, 102, 102); font-family: 宋体; font-size: 14px; font-weight: bold;"><span style="font-family: 宋体;">一</span></span></strong> <strong><span style="background: rgb(255, 255, 255); color: rgb(102, 102, 102); font-family: 宋体; font-size: 14px; font-weight: bold;"><span style="font-family: 宋体;">报到时间、地点及接待</span></span></strong></p>
+<p style="background: rgb(255, 255, 255); margin: 7px 0px 7px 9px; text-align: justify; line-height: 27px; text-indent: 28px; text-justify: inter-ideograph;"><span style="background: rgb(255, 255, 255); color: rgb(102, 102, 102); font-family: 宋体; font-size: 14px;"><span style="font-family: 宋体;">（一）报到时间：</span>2019年9月7-8日（周六、周日）。上午8:30-11:30，下午14:30-17:00。</span></p>
+<p style="background: rgb(255, 255, 255); margin: 7px 0px 7px 9px; text-align: justify; line-height: 27px; text-indent: 28px; text-justify: inter-ideograph;"><span style="background: rgb(255, 255, 255); color: rgb(102, 102, 102); font-family: 宋体; font-size: 14px;"><span style="font-family: 宋体;">（二）报到地点：桂林电子科技大学金鸡岭校区体育馆。</span></span></p>
+<p style="background: rgb(255, 255, 255); margin: 7px 0px 7px 9px; text-align: justify; line-height: 27px; text-indent: 28px; text-justify: inter-ideograph;"><span style="background: rgb(255, 255, 255); color: rgb(102, 102, 102); font-family: 宋体; font-size: 14px;"><span style="font-family: 宋体;">（三）新生报到期间，在桂林市火车南、西、北站均设有我校</span>“</span><strong><span style="background: rgb(255, 255, 255); color: rgb(102, 102, 102); font-family: 宋体; font-size: 14px; font-weight: bold;"><span style="font-family: 宋体;">新生接待站</span></span></strong><span style="background: rgb(255, 255, 255); color: rgb(102, 102, 102); font-family: 宋体; font-size: 14px;">”</span><strong><span style="background: rgb(255, 255, 255); color: rgb(102, 102, 102); font-family: 宋体; font-size: 14px; font-weight: bold;"><span style="font-family: 宋体;">；</span></span></strong><span style="background: rgb(255, 255, 255); color: rgb(102, 102, 102); font-family: 宋体; font-size: 14px;"><span style="font-family: 宋体;">校区内各学院的</span></span><strong><span style="background: rgb(255, 255, 255); color: rgb(102, 102, 102); font-family: 宋体; font-size: 14px; font-weight: bold;">“新生迎新点”</span></strong><span style="background: rgb(255, 255, 255); color: rgb(102, 102, 102); font-family: 宋体; font-size: 14px;"><span style="font-family: 宋体;">也可为研究生新生提供咨询和帮助。</span></span></p>
+<p style="background: rgb(255, 255, 255); margin: 7px 0px 7px 9px; text-align: justify; line-height: 27px; text-indent: 28px; text-justify: inter-ideograph;"><span style="background: rgb(255, 255, 255); color: rgb(102, 102, 102); font-family: 宋体; font-size: 14px;"><span style="font-family: 宋体;">（四）</span>9月6日前到校的新生，请自行安排住宿。9月6日起，凭二代居民身份证和录取通知书到相应的宿舍管理员处登记入住，入住信息见附件。</span></p>
+<p style="background: rgb(255, 255, 255); margin: 8px 0px; text-align: justify; line-height: 27px; text-indent: 37px; text-justify: inter-ideograph;"><strong><span style="background: rgb(255, 255, 255); color: rgb(102, 102, 102); font-family: 宋体; font-size: 14px; font-weight: bold;"><span style="font-family: 宋体;">二</span></span></strong> <strong><span style="background: rgb(255, 255, 255); color: rgb(102, 102, 102); font-family: 宋体; font-size: 14px; font-weight: bold;"><span style="font-family: 宋体;">关于迎新报到系统</span></span></strong></p>
+<p style="background: rgb(255, 255, 255); margin: 7px 0px 7px 9px; text-align: justify; line-height: 27px; text-indent: 28px; text-justify: inter-ideograph;"><span style="background: rgb(255, 255, 255); color: rgb(102, 102, 102); font-family: 宋体; font-size: 14px;"><span style="font-family: 宋体;">研究生迎新报到系统可实现录取信息、应缴费用查询、网上缴费、绿色通道申请、请假等功能，登陆地址：</span></span><a href="qq://txfile/"><span style="text-decoration: underline;"><span style="background: rgb(255, 237, 196); color: rgb(0, 0, 255); font-family: 宋体; font-size: 12px; text-underline: single;">http://yjsyx.guet.edu.cn</span></span></a> <span style="background: rgb(255, 255, 255); color: rgb(102, 102, 102); font-family: 宋体; font-size: 14px;"><span style="font-family: 宋体;">，新生可凭身份证号和姓名登录，登录后请新生根据系统要求依次查看和填写相关信息。</span></span></p>
+<p style="background: rgb(255, 255, 255); margin: 8px 0px; text-align: justify; line-height: 27px; text-indent: 37px; text-justify: inter-ideograph;"><strong><span style="background: rgb(255, 255, 255); color: rgb(102, 102, 102); font-family: 宋体; font-size: 14px; font-weight: bold;"><span style="font-family: 宋体;">三</span></span></strong> <strong><span style="background: rgb(255, 255, 255); color: rgb(102, 102, 102); font-family: 宋体; font-size: 14px; font-weight: bold;"><span style="font-family: 宋体;">报到流程</span></span></strong></p>
+<p style="background: rgb(255, 255, 255); margin: 7px 0px 7px 9px; text-align: justify; line-height: 27px; text-indent: 28px; text-justify: inter-ideograph;"><span style="background: rgb(255, 255, 255); color: rgb(102, 102, 102); font-family: 宋体; font-size: 14px;"><span style="font-family: 宋体;">（一）领表：</span></span></p>
+<p style="background: rgb(255, 255, 255); margin: 7px 0px 7px 9px; text-align: justify; line-height: 27px; text-indent: 28px; text-justify: inter-ideograph;"><span style="background: rgb(255, 255, 255); color: rgb(102, 102, 102); font-family: 宋体; font-size: 14px;"><span style="font-family: 宋体;">收回录取通知书，领取《新生报到单》，按报到流程办理报到手续。</span></span></p>
+<p style="background: rgb(255, 255, 255); margin: 7px 0px 7px 9px; text-align: justify; line-height: 27px; text-indent: 28px; text-justify: inter-ideograph;"><span style="background: rgb(255, 255, 255); color: rgb(102, 102, 102); font-family: 宋体; font-size: 14px;"><span style="font-family: 宋体;">（二）资格审查：</span></span></p>
+<p style="background: rgb(255, 255, 255); margin: 7px 0px 7px 9px; text-align: justify; line-height: 27px; text-indent: 28px; text-justify: inter-ideograph;"><span style="background: rgb(255, 255, 255); color: rgb(102, 102, 102); font-family: 宋体; font-size: 14px;"><span style="font-family: 宋体;">核验二代居民身份证，应届毕业生还需核验本科毕业证及《教育部学历证书电子注册备案表》或《中国高等教育学历认证报告》（有效期至</span>2019年10月31日）（非应届毕业生的毕业证书已于复试时核验，入学时不需交验）。验证原件后需收复印件，请提前准备。</span></p>
+<p style="background: rgb(255, 255, 255); margin: 7px 0px 7px 9px; text-align: justify; line-height: 27px; text-indent: 28px; text-justify: inter-ideograph;"><span style="background: rgb(255, 255, 255); color: rgb(102, 102, 102); font-family: 宋体; font-size: 14px;"><span style="font-family: 宋体;">（三）缴费：</span></span></p>
+<p style="background: rgb(255, 255, 255); margin: 7px 0px 7px 9px; text-align: justify; line-height: 27px; text-indent: 28px; text-justify: inter-ideograph;"><span style="background: rgb(255, 255, 255); color: rgb(102, 102, 102); font-family: 宋体; font-size: 14px;">1、网上缴清费用的：到现场“网上缴费查验”点核验后，进入下一环节。</span></p>
+<p style="background: rgb(255, 255, 255); margin: 7px 0px 7px 9px; text-align: justify; line-height: 27px; text-indent: 28px; text-justify: inter-ideograph;"><span style="background: rgb(255, 255, 255); color: rgb(102, 102, 102); font-family: 宋体; font-size: 14px;">2、未在网上缴清费用和申请绿色通道的新生，请到现场学校财务处收费点缴费，请携带有银联卡标志的银行卡缴费。</span></p>
+<p style="background: rgb(255, 255, 255); margin: 7px 0px 7px 9px; text-align: justify; line-height: 27px; text-indent: 28px; text-justify: inter-ideograph;"><span style="background: rgb(255, 255, 255); color: rgb(102, 102, 102); font-family: 宋体; font-size: 14px;"><span style="font-family: 宋体;">需缴费用为学费和住宿费，具体金额请登陆迎新系统查询，住宿费采用预缴方式，会按照实际住宿情况参照学校住宿收费标准，多退少补。</span></span></p>
+<p style="background: rgb(255, 255, 255); margin: 7px 0px; text-align: justify; line-height: 27px; text-indent: 42px; text-justify: inter-ideograph;"><span style="background: rgb(255, 255, 255); color: rgb(102, 102, 102); font-family: 宋体; font-size: 14px; font-style: normal; font-weight: normal;"><span style="font-family: 宋体;">（四）绿色通道：</span></span></p>
+<p style="background: rgb(255, 255, 255); margin: 7px 0px; text-align: justify; line-height: 27px; text-indent: 42px; text-justify: inter-ideograph;"><span style="background: rgb(255, 255, 255); color: rgb(102, 102, 102); font-family: 宋体; font-size: 14px; font-style: normal; font-weight: normal;">1、新生登录</span><a href="qq://txfile/"><span style="text-decoration: underline;"><span style="background: rgb(255, 255, 255); color: rgb(102, 102, 102); font-family: 宋体; font-size: 14px; font-style: normal; font-weight: normal; text-underline: single;">http://yjsyx.guet.edu.cn</span></span></a><span style="background: rgb(255, 255, 255); color: rgb(102, 102, 102); font-family: 宋体; font-size: 14px; font-style: normal; font-weight: normal;"><span style="font-family: 宋体;">可以在迎新系统申请绿色通道。</span></span></p>
+<p style="background: rgb(255, 255, 255); margin: 7px 0px; text-align: justify; line-height: 27px; text-justify: inter-ideograph;"><span style="background: rgb(255, 255, 255); color: rgb(102, 102, 102); font-family: 宋体; font-size: 14px; font-style: normal; font-weight: normal;"><span style="font-family: 宋体;">拟申请绿色通道的新生，必须登陆迎新系统填写相关信息，否则不予办理，新生只能申请学费缓交，住宿费不能缓交。</span></span></p>
+<p style="background: rgb(255, 255, 255); margin: 7px 0px; text-align: justify; line-height: 27px; text-indent: 42px; text-justify: inter-ideograph;"><span style="background: rgb(255, 255, 255); color: rgb(102, 102, 102); font-family: 宋体; font-size: 14px; font-style: normal; font-weight: normal;">2、已办理生源地贷款的同学，请登陆迎新系统如实填写借款合同号、贷款金额、缓缴金额等相关信息，上传相关证明材料电子档。 </span></p>
+<p style="background: rgb(255, 255, 255); margin: 7px 0px; text-align: justify; line-height: 27px; text-indent: 42px; text-justify: inter-ideograph;"><span style="background: rgb(255, 255, 255); color: rgb(102, 102, 102); font-family: 宋体; font-size: 14px; font-style: normal; font-weight: normal;">3、既没有办理贷款又因家庭经济困难等原因无法缴清学费的同学，请登陆迎新系统填写缓缴金额等相关信息，并上传相关证明材料。</span></p>
+<p style="background: rgb(255, 255, 255); margin: 7px 0px; text-align: justify; line-height: 27px; text-indent: 42px; text-justify: inter-ideograph;"><span style="background: rgb(255, 255, 255); color: rgb(102, 102, 102); font-family: 宋体; font-size: 14px; font-style: normal; font-weight: normal;">4、网上申请绿色通道经各培养学院和研究生院两级审核通过后，即可进入网上缴费环节。如出现因审核问题不能缴费情况，请根据审核状态自行联系各培养学院或研究生院。</span></p>
+<p style="background: rgb(255, 255, 255); margin: 7px 0px; text-align: justify; line-height: 27px; text-justify: inter-ideograph;"><span style="background: rgb(255, 255, 255); color: rgb(102, 102, 102); font-family: 宋体; font-size: 14px; font-style: normal; font-weight: normal;"><span style="font-family: 宋体;">（五）户口迁移：</span></span></p>
+<p style="background: rgb(255, 255, 255); margin: 7px 0px; text-align: justify; line-height: 27px; text-indent: 42px; text-justify: inter-ideograph;"><span style="background: rgb(255, 255, 255); color: rgb(102, 102, 102); font-family: 宋体; font-size: 14px; font-style: normal; font-weight: normal;">1.新生户籍是否迁往学校所在地由新生自行决定。</span></p>
+<p style="background: rgb(255, 255, 255); margin: 7px 0px; text-align: justify; line-height: 27px; text-indent: 42px; text-justify: inter-ideograph;"><span style="background: rgb(255, 255, 255); color: rgb(102, 102, 102); font-family: 宋体; font-size: 14px; font-style: normal; font-weight: normal;">2.户籍决定迁入我校的，应开具户口迁移证，按照公安部门规定：户口迁移证上的姓名必须与录取库的姓名一致；户口迁移证上必须有居民身份证编号，且须与录取库身份证编号一致，无身份证编号者，无法办理户籍转入手续；户口迁移证上出生地与籍贯必须具体到市县；户口迁移证一律采用电脑打印，手写迁移证不能落户；办理户口迁移手续时需交身份证、录取通知书正、反面复印件一份。</span></p>
+<p style="background: rgb(255, 255, 255); margin: 7px 0px; text-align: justify; line-height: 27px; text-indent: 42px; text-justify: inter-ideograph;"><span style="background: rgb(255, 255, 255); color: rgb(102, 102, 102); font-family: 宋体; font-size: 14px; font-style: normal; font-weight: normal;">3.户口迁移地址填写：桂林市七星区金鸡路1号桂林电子科技大学。户口迁入在新生入学报到时办理，须提供彩色、大头、光面照片一张。</span></p>
+<p style="background: rgb(255, 255, 255); margin: 7px 0px; text-align: justify; line-height: 27px; text-justify: inter-ideograph;"><span style="background: rgb(255, 255, 255); color: rgb(102, 102, 102); font-family: 宋体; font-size: 14px; font-style: normal; font-weight: normal;"><span style="font-family: 宋体;">（六）交表并领取材料：收回《新生报到单》，发放《学院报到证》。</span></span></p>
+<p style="background: rgb(255, 255, 255); margin: 7px 0px; text-align: justify; line-height: 27px; text-justify: inter-ideograph;"><span style="background: rgb(255, 255, 255); color: rgb(102, 102, 102); font-family: 宋体; font-size: 14px; font-style: normal; font-weight: normal;"><span style="font-family: 宋体;">（七）凭《学院报到证》到学院报到，领取校园一卡通，参加新生入学教育。</span></span></p>
+<p style="background: rgb(255, 255, 255); margin: 8px 0px; text-align: justify; line-height: 27px; text-justify: inter-ideograph;"><strong><span style="background: rgb(255, 255, 255); color: rgb(102, 102, 102); font-family: 宋体; font-size: 14px; font-style: normal; font-weight: bold;"><span style="font-family: 宋体;">四</span></span></strong> <strong><span style="background: rgb(255, 255, 255); color: rgb(102, 102, 102); font-family: 宋体; font-size: 14px; font-style: normal; font-weight: bold;"><span style="font-family: 宋体;">其他事项</span></span></strong></p>
+<p style="background: rgb(255, 255, 255); margin: 7px 0px; text-align: justify; line-height: 27px; text-justify: inter-ideograph;"><span style="background: rgb(255, 255, 255); color: rgb(102, 102, 102); font-family: 宋体; font-size: 14px; font-style: normal; font-weight: normal;"><span style="font-family: 宋体;">因故延期报到者，请登陆迎新系统登记，并联系所属学院，以书面形式提出申请，说明延期报到原因，并附相关证明材料，延期时间不得超过两周。未经请假逾期不足两周者，以旷课论；逾期超两周不报到者，根据教育部规定，取消入学资格；按照教育部学籍管理规定，新生入学后，将组织资格审查和体检复查，经审查不符合条件者，将取消学籍。</span></span></p>
+<p style="background: rgb(255, 255, 255); margin: 7px 0px; text-align: justify; line-height: 27px; text-justify: inter-ideograph;"><span style="background: rgb(255, 255, 255); color: rgb(102, 102, 102); font-family: 宋体; font-size: 14px; font-style: normal; font-weight: normal;"><span style="font-family: 宋体;">博士研究生请直接至培养学院报到。</span></span></p>
+<p style="background: rgb(255, 255, 255); margin: 7px 0px; text-align: justify; line-height: 27px; text-justify: inter-ideograph;"><span style="background: rgb(255, 255, 255); color: rgb(102, 102, 102); font-family: 宋体; font-size: 14px; font-style: normal; font-weight: normal;"><span style="font-family: 宋体;">请同学提前扫描留存录取通知书电子档备用。</span></span></p>
+<p style="background: rgb(255, 255, 255); margin: 8px 0px; text-align: justify; line-height: 27px; text-justify: inter-ideograph;"><strong><span style="background: rgb(255, 255, 255); color: rgb(102, 102, 102); font-family: 宋体; font-size: 14px; font-style: normal; font-weight: bold;"><span style="font-family: 宋体;">五</span> MBA硕士研究生报到事项由</span></strong><strong><span new="" times="" style="background: rgb(255, 255, 255); color: rgb(102, 102, 102); font-family: ;">MBA</span></strong><strong><span style="background: rgb(255, 255, 255); color: rgb(102, 102, 102); font-family: 宋体; font-size: 14px; font-style: normal; font-weight: bold;"><span style="font-family: 宋体;">中心负责，请咨询我校</span></span></strong><strong><span new="" times="" style="background: rgb(255, 255, 255); color: rgb(102, 102, 102); font-family: ;">MBA</span></strong><strong><span style="background: rgb(255, 255, 255); color: rgb(102, 102, 102); font-family: 宋体; font-size: 14px; font-style: normal; font-weight: bold;"><span style="font-family: 宋体;">中心。</span></span></strong></p>
+<p style="background: rgb(255, 255, 255); margin: 8px 0px; text-align: justify; line-height: 27px; text-justify: inter-ideograph;"><strong><span style="background: rgb(255, 255, 255); color: rgb(102, 102, 102); font-family: 宋体; font-size: 14px; font-style: normal; font-weight: bold;"><span style="font-family: 宋体;">六</span> <span style="font-family: 宋体;">以上事项如有变动，请以报到现场的通知公告为准。</span></span></strong></p>
+<p>&nbsp;</p>
+<p style="background: rgb(255, 255, 255); text-align: justify; color: rgb(0, 0, 0); line-height: 27px; font-family: 宋体; font-size: 16px; font-style: normal; font-weight: normal; margin-top: 8px; margin-bottom: 8px; text-justify: inter-ideograph;"><strong><span style="color: rgb(102, 102, 102); font-family: 宋体; font-size: 14px; font-weight: bold;"><span style="font-family: 宋体;"><br></span></span></strong></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p style="background: rgb(255, 255, 255); text-align: justify; color: rgb(0, 0, 0); line-height: 27px; font-family: 宋体; font-size: 16px; font-style: normal; font-weight: normal; margin-top: 8px; margin-bottom: 8px; text-justify: inter-ideograph;">&nbsp;</p>
+<p style="background: rgb(255, 255, 255); text-align: right; color: rgb(0, 0, 0); line-height: 27px; font-family: 宋体; font-size: 16px; font-style: normal; font-weight: normal; margin-top: 0px; margin-bottom: 0px;">&nbsp;<span style="color: rgb(102, 102, 102); font-family: 宋体; font-size: 14px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-family: 宋体;"><span style="color: rgb(102, 102, 102); font-family: 宋体; font-size: 14px;">桂林电子科技大学<span style="color: rgb(102, 102, 102); font-family: 宋体; font-size: 14px;"><span style="font-family: 宋体;"><span style="color: rgb(102, 102, 102); font-family: 宋体; font-size: 14px;">研究生工作部/研究生院</span></span></span></span></span></span></p>
+<p style="background: rgb(255, 255, 255); color: rgb(0, 0, 0); line-height: 27px; font-family: 宋体; font-size: 16px; font-style: normal; font-weight: normal; margin-top: 0px; margin-bottom: 0px;"><span style="color: rgb(102, 102, 102); font-family: 宋体; font-size: 14px;"><span style="font-family: 宋体;"><span style="color: rgb(102, 102, 102); font-family: 宋体; font-size: 14px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2019.9.4 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p></div><div id="div_vote_id"></div>
+    <p>
+    <UL style="list-style-type:none;"> 
+            <li>附件【<a href="/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1411857444&wbfileid=2361433" target="_blank">2019女硕士研究生宿舍安排.pdf</a>】</li>
+            <li>附件【<a href="/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1411857444&wbfileid=2361434" target="_blank">2019男硕士研究生宿舍安排.pdf</a>】</li>
+            <li>附件【<a href="/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1411857444&wbfileid=2361449" target="_blank">2019级我校博士学生宿舍安排.pdf</a>】</li>
+    </UL>
+    </p>
+    <p align="right">&nbsp;</p>
+    <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" style="border-bottom:#aaaaaa 1px dashed;border-top:#eeeeee 2px solid;">
+      <tr>
+        <td height="30" align="center" style="font-size:14px; color:#666666; font-weight:bold">网站声明：转载或引用本文,须注明本文出处,违者必究</td>
+      </tr>
+    </table>
+    <p align="right">&nbsp;</p>
+</div>
+</form>
+<script>
+    showVote(1928,1411857444,"#F3F7FA"," class='cytpstyle' ","#090909","<img src ='/system/resource/images/newsvote/ss00.png' border='0'>"," class='tpcontent' ","欢迎参与投票",10,"<img src='/system/resource/images/newsvote/submit2.gif' onclick='_newscontent_getresult(1928,1411857444)'  style='cursor:hand;'>","<img src='/system/resource/images/newsvote/view2.gif' onclick='_newscontent_lookresult()' style='cursor:hand;'>",document._newscontent_fromname,"请填写投票项！","127.0.0.1","您已经投过票了！","投票系统出现异常，请稍后再试！","感谢参与！","投票结果")
+</script><!--#endeditable--></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+<TABLE border="0" cellspacing="0" cellpadding="0" width="1000" align="center">
+<TBODY>
+<TR>
+<TD height="10"></TD></TR></TBODY></TABLE>
+<TABLE border="0" cellspacing="0" cellpadding="0" width="1000" bgcolor="#860609" align="center">
+<TBODY>
+<TR>
+<TD height="35" width="98"><IMG src="../../images/yqlj.gif" width="98" height="35"></TD>
+<TD width="902" align="center"><!--#begineditable clone="0" namechanged="0" order="9" ispublic="0" tagname="友情链接-横向链接" viewid="165662" contentviewid="" contype="" stylesysid="" layout="" action="" name="友情链接-横向链接"-->
+
+
+
+
+<table class="winstyle165662"><tr>
+        
+        <td>
+            <A class="c165662" HREF="http://www.moe.edu.cn/" onclick="_addDynClicks('wburl',1411857444,3891)" target="_blank">
+            	 教育部 
+            </A>
+             
+        </td>
+            <td class="leaderstyle165662"> | </td>
+        
+        <td>
+            <A class="c165662" HREF="http://www.moe.edu.cn/s78/A22/" onclick="_addDynClicks('wburl',1411857444,3890)" target="_blank" title="国务院学位委员会办公室">
+            	 国务院学位委员会办公室 
+            </A>
+             
+        </td>
+            <td class="leaderstyle165662"> | </td>
+        
+        <td>
+            <A class="c165662" HREF="http://www.csadge.edu.cn/" onclick="_addDynClicks('wburl',1411857444,3889)" target="_blank" title="中国学位与研究生教育学会">
+            	 中国学位与研究生教育学会 
+            </A>
+             
+        </td>
+            <td class="leaderstyle165662"> | </td>
+        
+        <td>
+            <A class="c165662" HREF="http://www.chinadegrees.cn/" onclick="_addDynClicks('wburl',1411857444,3888)" target="_blank" title="中国学位与研究生教育信息网">
+            	 中国学位与研究生教育信息网 
+            </A>
+             
+        </td>
+            <td class="leaderstyle165662"> | </td>
+        
+        <td>
+            <A class="c165662" HREF="http://www.chsi.com.cn/" onclick="_addDynClicks('wburl',1411857444,3887)" target="_blank" title="中国高等教育学生信息网（学信网）">
+            	 中国高等教育学生信息网（学信网 
+            </A>
+             
+        </td>
+            <td class="leaderstyle165662"> | </td>
+        
+        <td>
+            <A class="c165662" HREF="http://yz.chsi.com.cn/" onclick="_addDynClicks('wburl',1411857444,3886)" target="_blank">
+            	 中国研究生招生信息网 
+            </A>
+             
+        </td>
+            <td class="leaderstyle165662"> | </td>
+        
+        <td>
+            <A class="c165662" HREF="http://meng.tsinghua.edu.cn/" onclick="_addDynClicks('wburl',1411857444,3885)" target="_blank" title="全国工程专业学位研究生教育网">
+            	 全国工程专业学位研究生教育网 
+            </A>
+             
+        </td>
+            <td class="leaderstyle165662"> | </td>
+        
+        <td>
+            <A class="c165662" HREF="http://mwb.guet.edu.cn" onclick="_addDynClicks('wburl',1411857444,31519)" target="_blank" title="站群后台">
+            	 站群后台 
+            </A>
+             
+        </td>
+            </tr>
+</table><!--#endeditable--></TD></TR></TBODY></TABLE>
+<TABLE class="heise12x" border="0" cellspacing="0" cellpadding="0" width="1000" bgcolor="#f0f0f0" align="center">
+<TBODY>
+<TR>
+<TD height="85" align="center"><!--#begineditable clone="0" namechanged="0" order="10" ispublic="0" tagname="版权" viewid="165660" contentviewid="" contype="" stylesysid="" layout="" action="" name="版权"--><p>&nbsp;</p><p style="text-align: center;">&nbsp;©版权所有：桂林电子科技大学研究生院　地址：中国广西桂林金鸡路1号　邮编：541004　招生咨询QQ：2167942856</p><!--#endeditable-->&nbsp;</TD></TR></TBODY></TABLE>
+
+</BODY></HTML>

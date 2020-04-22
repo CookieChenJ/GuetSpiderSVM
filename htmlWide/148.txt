@@ -1,0 +1,824 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><HTML lang="en"><HEAD><TITLE>桂林电子科技大学图书馆</TITLE><META Name="keywords" Content="桂林电子科技大学图书馆" />
+
+
+
+
+
+<META charset="UTF-8"><LINK rel="stylesheet" type="text/css" href="css/style.css"><script type="text/javascript" src="js/script.js"></script><script language="JavaScript"> 
+// Search section Begin
+// Search 馆藏资源
+    function keyword_txt1(){
+        if (document.getElementById("keyword1").value == "请输入检索词") { 
+            document.getElementById("keyword1").value = "";
+        }
+    }
+
+    function res_search1(){
+        if (document.getElementById("keyword1").value == "") { 
+            alert("请输入检索条件");
+            return;
+        }
+        str = document.getElementById('keyword1').value; //这是一字符串 
+        if (str.indexOf("/script") > 0 ){
+            alert("请输入正确检索条件");
+            return false;
+        };
+        //alert(document.getElementById('keyword').value);
+        var strs = new Array(); //定义一数组 
+        strs = str.split(","); //字符分割 
+        for (i = 0; i < strs.length; i++ ) 
+        { 
+            if (strs[i] == "<"){
+                strs[i] = "&lt;";
+            }
+            else if (strs[i] == ">") {
+                strs[i] = "&gt;";
+            }
+            else if (strs[i] == '&') {
+                strs[i] = "&amp;";
+            }
+            else if (strs[i] == '\"') {
+                strs[i] = "&quot;";
+            }
+        } 
+        document.getElementById('keyword1').value = strs;
+    
+        if (document.getElementById("strtype1").options[document.getElementById("strtype1").selectedIndex].text == "任意词") { 
+            window.location.href="http://202.193.70.139/NTRdrBookRetr.aspx?strType=text&strKeyValue=" + encodeURI(document.getElementById("keyword1").value + "&strSortType=&strpageNum=10&strSort=desc","UTF-8");
+        }
+        if (document.getElementById("strtype1").options[document.getElementById("strtype1").selectedIndex].text == "题名") { 
+            window.location.href="http://202.193.70.139/NTRdrBookRetr.aspx?strType=name&strKeyValue=" + encodeURI(document.getElementById("keyword1").value + "&strSortType=&strpageNum=10&strSort=desc","UTF-8");
+        }
+        if (document.getElementById("strtype1").options[document.getElementById("strtype1").selectedIndex].text == "责任者") { 
+            window.location.href="http://202.193.70.139/NTRdrBookRetr.aspx?strType=author&strKeyValue=" + encodeURI(document.getElementById("keyword1").value + "&strSortType=&strpageNum=10&strSort=desc","UTF-8");
+        }
+        if (document.getElementById("strtype1").options[document.getElementById("strtype1").selectedIndex].text == "索取号") { 
+            window.location.href="http://202.193.70.139/NTRdrBookRetr.aspx?strType=callno&strKeyValue=" + encodeURI(document.getElementById("keyword1").value + "&strSortType=callno&strpageNum=10&strSort=asc","UTF-8");
+        }
+        if (document.getElementById("strtype1").options[document.getElementById("strtype1").selectedIndex].text == "分类号") { 
+            window.location.href="http://202.193.70.139/NTRdrBookRetr.aspx?strType=classno&strKeyValue=" + encodeURI(document.getElementById("keyword1").value + "&strSortType=callno&strpageNum=10&strSort=asc","UTF-8");
+        }
+    }
+
+    // Search 统一检索
+    function keyword_txt2(){
+        if (document.getElementById("keyword2").value == "请输入检索词") { 
+            document.getElementById("keyword2").value = "";
+        }
+    }
+
+    function res_search2(){
+        if (document.getElementById("strtype2").options[document.getElementById("strtype2").selectedIndex].text == "任意词") { 
+            window.location.href="http://ss.zhizhen.com/s?sw=" + encodeURI(document.getElementById("keyword2").value,"UTF-8");
+            //window.location.href="http://202.193.70.173:5000/8104/s?sw=" + encodeURI(document.getElementById("keyword2").value,"UTF-8");
+        }
+        if (document.getElementById("strtype2").options[document.getElementById("strtype2").selectedIndex].text == "图书") { 
+            window.location.href="http://ss.zhizhen.com/s?sw=" + encodeURI(document.getElementById("keyword2").value + "&strchannel=11&size=15&isort=0&x=0_9","UTF-8");
+            //window.location.href="http://202.193.70.173:5000/8104/s?sw=" + encodeURI(document.getElementById("keyword2").value + "&strchannel=11&size=15&isort=0&x=0_9","UTF-8");
+        }
+        if (document.getElementById("strtype2").options[document.getElementById("strtype2").selectedIndex].text == "期刊") { 
+            window.location.href="http://ss.zhizhen.com/s?sw=" + encodeURI(document.getElementById("keyword2").value + "&strchannel=1&size=15&isort=0&x=0_9","UTF-8");
+            //window.location.href="http://202.193.70.173:5000/8104/s?sw=" + encodeURI(document.getElementById("keyword2").value + "&strchannel=1&size=15&isort=0&x=0_9","UTF-8");
+        }
+        if (document.getElementById("strtype2").options[document.getElementById("strtype2").selectedIndex].text == "报纸") { 
+            window.location.href="http://ss.zhizhen.com/s?sw=" + encodeURI(document.getElementById("keyword2").value + "&strchannel=13&size=15&isort=0&x=0_9","UTF-8");
+            //window.location.href="http://202.193.70.173:5000/8104/s?sw=" + encodeURI(document.getElementById("keyword2").value + "&strchannel=13&size=15&isort=0&x=0_9","UTF-8");
+        }
+        if (document.getElementById("strtype2").options[document.getElementById("strtype2").selectedIndex].text == "学位论文") { 
+            window.location.href="http://ss.zhizhen.com/s?sw=" + encodeURI(document.getElementById("keyword2").value + "&strchannel=3&size=15&isort=0&x=0_9","UTF-8");
+            //window.location.href="http://202.193.70.173:5000/8104/s?sw=" + encodeURI(document.getElementById("keyword2").value + "&strchannel=3&size=15&isort=0&x=0_9","UTF-8");
+        }
+        if (document.getElementById("strtype2").options[document.getElementById("strtype2").selectedIndex].text == "会议论文") { 
+            window.location.href="http://ss.zhizhen.com/s?sw=" + encodeURI(document.getElementById("keyword2").value + "&strchannel=4&size=15&isort=0&x=0_9","UTF-8");
+            //window.location.href="http://202.193.70.173:5000/8104/s?sw=" + encodeURI(document.getElementById("keyword2").value + "&strchannel=4&size=15&isort=0&x=0_9","UTF-8");
+        }
+        if (document.getElementById("strtype2").options[document.getElementById("strtype2").selectedIndex].text == "标准") { 
+            window.location.href="http://ss.zhizhen.com/s?sw=" + encodeURI(document.getElementById("keyword2").value + "&strchannel=6&size=15&isort=0&x=0_9","UTF-8");
+            //window.location.href="http://202.193.70.173:5000/8104/s?sw=" + encodeURI(document.getElementById("keyword2").value + "&strchannel=6&size=15&isort=0&x=0_9","UTF-8");
+        }
+        if (document.getElementById("strtype2").options[document.getElementById("strtype2").selectedIndex].text == "专利") { 
+            window.location.href="http://ss.zhizhen.com/s?sw=" + encodeURI(document.getElementById("keyword2").value + "&strchannel=10&size=15&isort=0&x=0_9","UTF-8");
+            //window.location.href="http://202.193.70.173:5000/8104/s?sw=" + encodeURI(document.getElementById("keyword2").value + "&strchannel=10&size=15&isort=0&x=0_9","UTF-8");
+        }
+        if (document.getElementById("strtype2").options[document.getElementById("strtype2").selectedIndex].text == "音视频") { 
+            window.location.href="http://ss.zhizhen.com/s?sw=" + encodeURI(document.getElementById("keyword2").value + "&strchannel=8&size=15&isort=0&x=0_9","UTF-8");
+            //window.location.href="http://202.193.70.173:5000/8104/s?sw=" + encodeURI(document.getElementById("keyword2").value + "&strchannel=8&size=15&isort=0&x=0_9","UTF-8");
+        }
+    }   
+
+    // Search 随书光盘
+    function keyword_txt3(){
+        if (document.getElementById("keyword3").value == "请输入检索词") { 
+            document.getElementById("keyword3").value = ""
+        }
+    }
+
+    function res_search3(){
+        str = document.getElementById('keyword3').value; //这是一字符串 
+        if (str.indexOf("/script") > 0 ){
+            alert("请输入正确检索条件");
+            return false;
+        };
+        //alert(document.getElementById('keyword3').value);
+        var strs = new Array(); //定义一数组 
+        strs = str.split(","); //字符分割 
+        for (i = 0; i < strs.length; i++ ) 
+        { 
+            if (strs[i] == "<"){
+                strs[i] = "&lt;";
+            }
+            else if (strs[i] == ">") {
+                strs[i] = "&gt;";
+            }
+            else if (strs[i] == '&') {
+                strs[i] = "&amp;";
+            }
+            else if (strs[i] == '\"') {
+                strs[i] = "&quot;";
+            }
+        } 
+        document.getElementById('keyword3').value = strs;
+    
+        if (document.getElementById("strtype3").options[document.getElementById("strtype3").selectedIndex].text == "任意词") { 
+            window.open("http://202.193.70.169:90/lib/bookdisc.asp?submit1=1&tl="+document.getElementById("keyword3").value,"","");
+        }
+        if (document.getElementById("strtype3").options[document.getElementById("strtype3").selectedIndex].text == "索取号") { 
+            window.location.href="http://202.193.70.169:90/lib/bookdisc.asp?submit1=1&cln=" + encodeURI(document.getElementById("keyword3").value,"UTF-8");
+        }
+        if (document.getElementById("strtype3").options[document.getElementById("strtype3").selectedIndex].text == "题名") { 
+            window.open("http://202.193.70.169:90/lib/bookdisc.asp?submit1=1&tl="+document.getElementById("keyword3").value,"","");
+            //window.location.href="http://202.193.70.169:90/lib/bookdisc.asp?submit1=1&tl="+document.getElementById("keyword3").value;
+        }
+    }
+
+    // Search 期刊论文,会议论文,学位论文
+    function keyword_txt4(){
+        if (document.getElementById("keyword4").value == "请输入检索词") { 
+            document.getElementById("keyword4").value = ""
+        }
+    }
+
+    function res_search4(){
+
+        if (document.getElementById("strtype4").options[document.getElementById("strtype4").selectedIndex].text == "全部字段") { 
+            window.location.href="http://ss.zhizhen.com/s?sw=" + encodeURI(document.getElementById("keyword4").value + "&strchannel=1,3,4&size=15&isort=0&x=0_9","UTF-8");
+            //window.location.href="http://202.193.70.173:5000/8104/s?sw=" + encodeURI(document.getElementById("keyword4").value + "&strchannel=1,3,4&size=15&isort=0&x=0_9","UTF-8");
+        }
+        if (document.getElementById("strtype4").options[document.getElementById("strtype4").selectedIndex].text == "主题") { 
+            window.location.href="http://ss.zhizhen.com/s?adv=Su='"+encodeURI(document.getElementById("keyword4").value + "'&strchannel=1,3,4&aorp=a&size=15&isort=0&x=0_9#searchbody","UTF-8");
+            //window.location.href="http://202.193.70.173:5000/8104/s?adv=Su='"+encodeURI(document.getElementById("keyword4").value + "'&strchannel=1,3,4&aorp=a&size=15&isort=0&x=0_9#searchbody","UTF-8");
+        }
+        if (document.getElementById("strtype4").options[document.getElementById("strtype4").selectedIndex].text == "标题") { 
+            window.location.href="http://ss.zhizhen.com/s?adv=T='"+encodeURI(document.getElementById("keyword4").value + "'&strchannel=1,3,4&aorp=a&size=15&isort=0&x=0_9#searchbody","UTF-8");
+            //window.location.href="http://202.193.70.173:5000/8104/s?adv=T='"+encodeURI(document.getElementById("keyword4").value + "'&strchannel=1,3,4&aorp=a&size=15&isort=0&x=0_9#searchbody","UTF-8");
+        }
+        if (document.getElementById("strtype4").options[document.getElementById("strtype4").selectedIndex].text == "作者") { 
+            window.location.href="http://ss.zhizhen.com/s?adv=A='"+encodeURI(document.getElementById("keyword4").value + "'&strchannel=1,3,4&aorp=a&size=15&isort=0&x=0_9#searchbody","UTF-8");
+            //window.location.href="http://202.193.70.173:5000/8104/s?adv=A='"+encodeURI(document.getElementById("keyword4").value + "'&strchannel=1,3,4&aorp=a&size=15&isort=0&x=0_9#searchbody","UTF-8");
+            }
+        if (document.getElementById("strtype4").options[document.getElementById("strtype4").selectedIndex].text == "作者机构") { 
+            window.location.href="http://ss.zhizhen.com/s?adv=O='"+encodeURI(document.getElementById("keyword4").value + "'&strchannel=1,3,4&aorp=a&size=15&isort=0&x=0_9#searchbody","UTF-8");
+            //window.location.href="http://202.193.70.173:5000/8104/s?adv=O='"+encodeURI(document.getElementById("keyword4").value + "'&strchannel=1,3,4&aorp=a&size=15&isort=0&x=0_9#searchbody","UTF-8");
+            }
+        if (document.getElementById("strtype4").options[document.getElementById("strtype4").selectedIndex].text == "关键词") { 
+            window.location.href="http://ss.zhizhen.com/s?adv=K='"+encodeURI(document.getElementById("keyword4").value + "'&strchannel=1,3,4&aorp=a&size=15&isort=0&x=0_9#searchbody","UTF-8");
+            //window.location.href="http://202.193.70.173:5000/8104/s?adv=K='"+encodeURI(document.getElementById("keyword4").value + "'&strchannel=1,3,4&aorp=a&size=15&isort=0&x=0_9#searchbody","UTF-8");
+        }
+        if (document.getElementById("strtype4").options[document.getElementById("strtype4").selectedIndex].text == "摘要") { 
+            window.location.href="http://ss.zhizhen.com/s?adv=S='"+encodeURI(document.getElementById("keyword4").value + "'&strchannel=1,3,4&aorp=a&size=15&isort=0&x=0_9#searchbody","UTF-8");
+            //window.location.href="http://202.193.70.173:5000/8104/s?adv=S='"+encodeURI(document.getElementById("keyword4").value + "'&strchannel=1,3,4&aorp=a&size=15&isort=0&x=0_9#searchbody","UTF-8");
+        }
+    }
+
+    // Search 专利
+    function keyword_txt5(){
+        if (document.getElementById("keyword5").value == "请输入检索词") { 
+            document.getElementById("keyword5").value = "";
+        }
+    }
+
+    function res_search5(){
+        window.location.href="http://ss.zhizhen.com/s?sw=" + encodeURI(document.getElementById("keyword5").value + "&strchannel=10&size=15&isort=0&x=0_9","UTF-8");
+        //window.location.href="http://202.193.70.173:5000/8104/s?sw=" + encodeURI(document.getElementById("keyword5").value + "&strchannel=10&size=15&isort=0&x=0_9","UTF-8");
+    }
+    
+    
+    // Search 标准
+    function keyword_txt6(){
+        if (document.getElementById("keyword6").value == "请输入检索词") { 
+            document.getElementById("keyword6").value = "";
+        }
+    }
+
+    function res_search6(){
+        window.location.href="http://ss.zhizhen.com/s?sw=" + encodeURI(document.getElementById("keyword6").value + "&strchannel=6&size=15&isort=0&x=0_9","UTF-8");
+        //window.location.href="http://202.193.70.173:5000/8104/s?sw=" + encodeURI(document.getElementById("keyword6").value + "&strchannel=6&size=15&isort=0&x=0_9","UTF-8");
+    }
+    
+// Search section End
+
+// Search Slider Begin
+  window.onload=function(){
+    var wrap=document.getElementById('wrap'),
+        pic=document.getElementById('pic'),
+        list=document.getElementById('list').getElementsByTagName('li'),
+        index=0,
+        timer=null;
+
+      function auto(){
+        timer=setInterval(function(){
+          index++;
+          if(index>=list.length){
+            index=0;
+          }
+          change(index);
+        },2000);  
+      }
+      auto();
+
+      function change(curIndex){
+        pic.style.marginTop=-280*curIndex+'px';
+                pic.style.width='50px';
+        for(var i=0;i<90;i++){
+        pic.style.width=90+'px';
+        }
+        for(var n=0;n<list.length;n++){
+            list[n].className='';
+        }
+          list[curIndex].className='on';
+          index=curIndex;
+       }
+       wrap.onmouseover=function(){
+          clearInterval(timer);
+       }
+       wrap.onmouseout=auto;
+       for(var i=0;i<list.length;i++){
+          list[i].id=i;
+          list[i].onmouseover=function(){
+            change(this.id);          
+          }
+        }
+
+   }
+   
+// Slider section End
+</script>
+<STYLE>
+        *{margin:0 auto;padding:0;}
+        .ul1{border:solid 0px #999;width:1200px;height:270px;overflow:hidden;margin:0 auto;padding:0;padding-left:19px;}
+        .ul1 li {float:left; display:inline;}
+        .ul1 li .li0{border-right: 0px solid #e7bc71;}
+        .ul1 li .li1{ width: 380px;float: left; display: inline-block; position: relative; border-right: 0px solid #e7bc71;}
+        .ul2{border:solid 0px #999;width:1200px;overflow:hidden;margin:0 auto; padding:0px;padding-left:19px;}
+        .ul2 li {float:left; display:inline;}
+        .ul2 li .li0{border-right: 0px solid #e7bc71;}
+        .ul2 li .li1{ width: 380px;float: left; display: inline-block; position: relative; border-right: 0px solid #e7bc71;}
+
+        /* Start Slider BODY section */
+        *{margin:0;
+          padding:0;
+          list-style:none;
+          font-size: 14px;}
+        .wrap{height: 280px;
+            width: 650px;
+            margin: 0px auto;
+            margin-top: 4px;
+            margin-bottom :6px;
+            overflow: hidden;
+            position: relative;
+            background:#daedfa;}
+        .wrap ul{position:absolute;} 
+        .wrap ul li{height:280px;}
+        .wrap ol{position:absolute;
+              right:15px;
+              bottom:10px;}
+        .wrap ol li{height:10px; width: 10px;
+                background:#888;
+                border:solid 0px #666;
+                margin-left:8px;
+                color:#000;
+                float:left;
+                line-height:center;
+                text-align:center;
+                cursor:pointer;}
+        .wrap ol .on{background:#0059a3;
+               color:#fff;}
+
+        /* Start footer BODY section */    
+        .footer_border{margin:auto; padding:0; width:auto; min-width:1200px; background: #efefef;}
+        .outer{margin: auto; padding-top:2px; padding-left:129px; width:1200px; height:32px; border:1px solid #7aadde; color: #fff; background: #7aadde; position:relative; text-align:center; font-size: 15px;font-weight:bold;line-height: 25px; vertical-align: middle;}
+        .in0{border-right:1px solid #FFF; width:120px; float:left;}
+        .in0 a{color: #fff;}
+        .in1{border-right:1px solid #FFF; width:120px; float:left;}
+        .in1 a{color: #fff;}
+        .in2{border-right:1px solid #FFF; width:120px; float:left;}
+        .in2 a{color: #fff;}
+        .in3{border-right:1px solid #FFF; width:120px; float:left;}
+        .in3 a{color: #fff;}
+        .in4{border-right:1px solid #FFF; width:120px; float:left;}
+        .in4 a{color: #fff;}
+        .in5{border-right:1px solid #FFF; width:120px; float:left;}
+        .in5 a{color: #fff;}
+        .in6{border-right:1px solid #FFF; width:120px; float:left;}
+        .in6 a{color: #fff;}
+        .in7{border-right:0px solid #FFF; width:120px; float:left;}
+        .in7 a{color: #fff;}
+        .outer1{margin: auto; padding-top: 10px; width:1200px; height:90px; border:0px solid #f00;position:relative; text-align:center;}
+
+    </STYLE>
+</LINK></LINK></LINK></LINK></LINK></LINK></LINK>
+
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="index.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1411890787)</script>
+</HEAD>
+<BODY><!-- Start menu HEAD section --><!-- add to the <head> of your page --><!-- Title 代码部分begin -->
+<DIV style="text-align: center; margin-left: auto; margin-top: -15px; margin-right: auto"><IMG title="" alt="" src="images/guetliblogo.jpg" width="1200" height="110" style="border-top: medium none; border-right: medium none; border-bottom: medium none; border-left: medium none"></DIV><!-- Title 代码部分End --><!-- Menu 代码部分begin -->
+<DIV style="font-size: 15px; width: 1200px; background: #efefef; min-width: 1200px; padding-bottom: 0px; text-align: center; padding-top: 0px; padding-left: 0px; margin: auto; z-index: 120; padding-right: 0px">
+<DIV class="ulmenu"><!--#begineditable clone="0" namechanged="0" order="0" ispublic="0" tagname="网站主导航菜单" viewid="165077" contentviewid="" contype="" stylesysid="" layout="" action="" name="网站主导航菜单"-->        <div class="dropdown">
+            <a href="http://www.guet.edu.cn/lib/" class="dropbtn">首页</a>
+        </div>
+        <div class="dropdown">
+            <a href="#" class="dropbtn">概况</a>
+            <div class="dropdown-content" style="height: 399px;">
+                <div class="dropdown-title">图书馆概况</div>
+                <a href="http://www.guet.edu.cn/lib/info/1036/2875.htm">馆长致辞</a>
+                <a href="http://www.guet.edu.cn/lib/info/1037/2876.htm">本馆简介</a>
+                <a href="http://www.guet.edu.cn/lib/info/1038/2877.htm">现任领导</a>
+                <a href="http://www.guet.edu.cn/lib/info/1039/2878.htm">组织机构</a>
+                <a href="http://www.guet.edu.cn/lib/info/1040/2879.htm">规章制度</a>
+                <a href="http://www.guet.edu.cn/lib/info/1041/2880.htm">常见问题</a>
+                <a href="http://www.guet.edu.cn/lib/info/1042/2881.htm">办证需知</a>
+                <a href="http://www.guet.edu.cn/lib/info/1043/2883.htm">离校手续</a>
+                <a href="http://www.guet.edu.cn/lib/info/1152/2928.htm">图书馆漫游</a>
+                <a href="http://www.guet.edu.cn/lib/info/1045/2884.htm">信息公开</a>
+                <a href="http://www.guet.edu.cn/lib/info/1046/2885.htm">书刊捐赠</a>
+            </div>
+            <div class="dropdown-content" style="margin-left: 200px; height: 399px;">
+                <div class="dropdown-title">新闻与通知</div>
+                <a href="http://www.guet.edu.cn/lib/gk/xwytz/ggxx.htm">公告消息</a>
+                <a href="gk/xwytz/zydt.htm">资源动态</a>
+                <a href="http://www.guet.edu.cn/lib/gk/xwytz/gnxw.htm">馆内新闻</a>
+            </div>
+        </div>
+        <div class="dropdown">
+            <a href="#" class="dropbtn">资源</a>
+            <div class="dropdown-content">
+                <a href="http://www.guet.edu.cn/lib/info/1025/2886.htm">版权公告</a>
+                <a href="http://202.193.70.166:8020/index.asp" target="_blank">数据库导航</a>
+                <a href="http://202.193.70.166:8020/index.asp?idc=en&mem=true" target="_blank">外文数据库</a>
+                <a href="http://202.193.70.166:8020/index.asp?idc=cn&mem=true" target="_blank">中文数据库</a>
+                <a href="http://202.193.70.166:8020/index.asp?idc=tryout&mem=true" target="_blank">试用数据库</a>
+                <a href="http://202.193.70.169:90/lib/bookdisc.asp" target="_blank">随书光盘数据库</a>
+                <a href="http://www.guet.edu.cn/lib/info/1032/2888.htm">本校学位论文</a>
+                <a href="http://202.193.70.166:8020/index.asp?idc=oa&mem=true" target="_blank">OA数据库</a>
+                <a href="http://www.guet.edu.cn/lib/info/1034/2889.htm" target="_blank">常用阅读软件</a>
+                <a href="http://202.193.70.139/NTRdrNewBook.aspx" target="_blank">新书通报</a>
+                <a href="http://202.193.70.177/" target="_blank">免费资源推荐</a>
+            </div>
+        </div>
+        <div class="dropdown">
+            <a href="#" class="dropbtn">服务</a>
+            <div class="dropdown-content" style="height:369px;">
+                <div class="dropdown-title">借阅服务</div>
+                <a href="http://www.guet.edu.cn/lib/info/1060/2890.htm">图书馆布局</a>
+                <a href="http://202.193.70.139/index.aspx" target="_blank">馆藏书刊查询</a>
+                <a href="http://202.193.70.139/NTRdrLogin.aspx" target="_blank">个人借阅管理</a>
+                <a href="http://202.193.70.139/NTRdrNewBook.aspx" target="_blank">新书通报</a>
+                <a href="http://www.guet.edu.cn/lib/info/1064/2891.htm">开放时间</a>
+                <a href="http://202.193.70.132:8088/" target="_blank">书刊荐购</a>
+                <a href="http://www.guet.edu.cn/lib/zzwy/index.html" target="_blank">自助文印</a>
+            </div>
+            <div class="dropdown-content" style="margin-left: 200px; height:369px;">
+                <div class="dropdown-title">学科服务</div>
+                <a href="http://www.guet.edu.cn/lib/info/1067/2892.htm">文献传递</a>
+                <a href="http://www.guet.edu.cn/lib/info/1068/2893.htm">查收查引</a>
+                <a href="http://www.guet.edu.cn/lib/info/1069/2894.htm">科技查新</a>
+                <a href="http://www.guet.edu.cn/lib/info/1070/2895.htm">用户教育</a>
+                <a href="http://www.guet.edu.cn/lib/info/1071/2896.htm">在线培训</a>
+                <a href="http://ipscience-help.thomsonreuters.com/incitesLiveESI/ESIGroup/overviewESI/esiJournalsList.html">ESI期刊</a>
+                <a href="http://www.guet.edu.cn/lib/info/1074/2900.htm">投稿指南</a>
+                <a href="http://www.guet.edu.cn/lib/info/1075/2901.htm">桂电SCIE收录动态</a>
+                <a href="http://www.guet.edu.cn/lib/info/1076/2899.htm">ESI高水平论文</a>
+                <a href="http://www.fenqubiao.com/" target="_blank">中科院期刊分区在线平台</a>
+            </div>
+            <div class="dropdown-content" style="margin-left: 400px; height:369px;">
+                <div class="dropdown-title">文化服务</div>
+                <a href="http://202.193.70.162:8089/" target="_blank">研讨室预约</a>
+                <a href="http://202.193.70.165/subject/subject.html" target="_blank">专题导读</a>
+                <a href="http://www.guet.edu.cn/lib/info/1080/2902.htm">新生专栏</a>
+                <a href="http://202.193.70.165/dzzt/index.php" target="_blank">电子展厅</a>
+            </div>
+        </div>
+        <div class="dropdown">
+            <a href="#" class="dropbtn">党建园地</a>
+            <div class="dropdown-content">
+                <a href="http://www.guet.edu.cn/lib/djyd/zbdt.htm">支部动态</a>
+                <a href="http://www.guet.edu.cn/lib/djyd/djll.htm">党建理论</a>
+                <a href="http://www.guet.edu.cn/lib/djyd/ztxx.htm">专题学习</a>
+                <a href="http://www.guet.edu.cn/lib/djyd/dwgk.htm">党务公开</a>
+            </div>
+        </div>
+        <div class="dropdown">
+            <a href="#" class="dropbtn">新生专栏</a>
+            <div class="dropdown-content">
+                <a href="http://www.guet.edu.cn/lib/info/1080/2902.htm">你问我答</a>
+                <a href="http://www.guet.edu.cn/lib/info/1153/2929.htm">新生入馆教育视频</a>
+                <a href="http://202.193.70.132:8096/" target="_blank">新生入馆测试</a>
+            </div>
+        </div>
+        <div class="dropdown">
+            <a href="http://202.193.70.139/NTRdrLogin.aspx" class="dropbtn" target="_blank">个人借阅管理</a>
+        </div>
+        <div class="dropdown">
+            <a href="#" class="dropbtn">联系我们</a>
+            <div class="dropdown-content">
+                <a href="mailto:library@guet.edu.cn">馆长信箱</a>
+                <a href="http://www.guet.edu.cn/lib/bbs.jsp?urltype=tree.TreeTempUrl&wbtreeid=1167">请您留言</a>
+            </div>
+        </div>
+<!--#endeditable--></DIV></DIV><!-- Menu 代码部分End --><!-- End menu HEAD section --><!--#begineditable clone="0" namechanged="0" order="1" ispublic="0" tagname="网站导航-右侧导航条" viewid="202481" contentviewid="" contype="" stylesysid="" layout="" action="" name="网站导航-右侧导航条"--><!-- Start sidebar right HEAD section --><!-- add to the <head> of your page -->
+<ul id="nav-bar">
+  <li class="level-one"><img src="images/picture/weixin.png" width="45" height="45" onmouseover="this.style.opacity=0.8;" onmouseout="this.style.opacity=1" />
+    <ul class="level-two">
+	<li><img src="images/picture/waplibrary1.png" width="90" height="90" border="0" /></li>
+	<li>微信图书馆</li>
+    </ul>
+  </li>
+
+  <li class="level-one"><img src="images/picture/app.png" width="45" height="45" onmouseover="this.style.opacity=0.8;" onmouseout="this.style.opacity=1" />
+    <ul class="level-two">
+	<li><img src="images/picture/waplibrary3.png" width="90" height="90" border="0" /></li>
+	<li>超星学习通<br />邀请码：yzgldzkd</li>
+    </ul>
+  </li>
+
+  <li class="level-one1"><img src="images/picture/qq.png" width="45" height="45" onmouseover="this.style.opacity=0.8;" onmouseout="this.style.opacity=1" />
+    <ul class="level-two1">
+	<li>
+          <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=377406987&site=qq&menu=yes">
+	  <img border="0" src="http://wpa.qq.com/pa?p=2:377406987:49" alt="点击这里给我发消息" title="有关图书、期刊、数据库的荐购及对现有文献资源的意见和建议，请找我吧"></a>
+	  <div style="margin-left:5px;">资源建设部 刘老师</div>
+	</li>
+
+	<li>
+          <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=150520281&site=qq&menu=yes">
+	  <img border="0" src="http://wpa.qq.com/pa?p=2:150520281:49" alt="点击这里给我发消息" title="有关花江图书馆流通、阅览等问题，请找我吧"></a>
+	  <div style="margin-left:5px;">读者服务部 韦老师</div>
+	</li>
+
+	<li>
+ 	  <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=1029723910&site=qq&menu=yes">
+	  <img border="0" src="http://wpa.qq.com/pa?p=2:1029723910:49" alt="点击这里给我发消息" title="有关金鸡岭图书馆流通、阅览等问题，请找我吧"></a>
+	  <div style="margin-left:5px;">读者服务部 田老师</div>
+	</li>
+
+	<li>
+	  <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=532306156&site=qq&menu=yes">
+	  <img border="0" src="http://wpa.qq.com/pa?p=2:532306156:49" alt="点击这里给我发消息" title="有关文献的收录引用检索、科技查新、信息素养培训、科研数据分析及数据库的使用等问题请找我吧"></a>
+	  <div style="margin-left:5px;">学科与技术服务部 陈老师</div>
+	</li>
+
+	<li>
+	  <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=553552464&site=qq&menu=yes">
+	  <img border="0" src="http://wpa.qq.com/pa?p=2:553552464:49" alt="点击这里给我发消息" title="有关电子资源的使用、查收查引、原始文献获取、学科服务等问题请找我吧"></a>
+	  <div style="margin-left:5px;">学科与技术服务部 马老师</div>
+	</li>
+
+	<li>
+	  <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=240607828&site=qq&menu=yes">
+	  <img border="0" src="http://wpa.qq.com/pa?p=2:240607828:49" alt="点击这里给我发消息" title="有关新生培训、厅室预约、展览展示、文化活动、参观交流等问题，请找我吧"></a>
+	  <div style="margin-left:5px;">综合业务部 童老师</div>
+	</li>
+
+	<li>
+ 	  <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=543938445&site=qq&menu=yes">
+	  <img border="0" src="http://wpa.qq.com/pa?p=2:543938445:49" alt="点击这里给我发消息" title="有关新生培训、厅室预约、展览展示、文化活动、参观交流等问题，请找我吧"></a>
+	  <div style="margin-left:5px;">综合业务部 陈老师</div>
+	</li>
+    </ul> 
+  </li>
+</ul>
+
+
+<!-- End sidebar right HEAD section --><!--#endeditable--><!-- Start Search BODY section --><!-- add to the <body> of your page -->
+<DIV style="overflow: hidden; border-top: #999 0px solid; border-right: #999 0px solid; width: 100%; vertical-align: middle; background: #fff; min-width: 1200px; border-bottom: #999 0px solid; position: relative; padding-bottom: 0px; text-align: center; padding-top: 0px; padding-left: 0px; margin: auto; border-left: #999 0px solid; padding-right: 0px"></DIV>
+<UL class="ul1"><!-- Start Tab1切换 HEAD section --><!-- add to the <head> of your page -->
+<LI class="li0"><!-- Start Search BODY section --><!-- add to the <body> of your page -->
+<UL class="tabs">
+<LI><INPUT id="tab1" checked type="radio" value="" name="tabs"> <LABEL for="tab1">馆藏资源</LABEL> 
+<DIV id="tab-content1" class="tab-content">
+<P style="margin-top: -4px; letter-spacing: 1px">说明：查找本馆馆藏纸本图书和期刊</P>
+<DIV>
+<DIV id="parent72" style="margin-top: 12px"><SELECT id="strtype1" name="strtype1"> <OPTION selected>任意词</OPTION> <OPTION>题名</OPTION> <OPTION>责任者</OPTION> <OPTION>索取号</OPTION> <OPTION>分类号</OPTION></SELECT> </DIV><INPUT id="keyword1" value="请输入检索词" name="keyword1" onkeydown="if( window.event.keyCode == 13 ){res_search1();};" onclick="keyword_txt1();" style="font-size: 14px; border-top: #0059a3 2px solid; height: 22px; border-right: #0059a3 2px solid; width: 300px; background: none transparent scroll repeat 0% 0%; border-bottom: #0059a3 2px solid; float: left; color: #555; outline-width: medium; outline-style: none; border-left: #0059a3 2px solid; margin-top: 12px; letter-spacing: 1px; outline-color: invert; text-indent: 0.5em; border-radius: 25px"> <IMG id="s_search1" border="0" src="images/picture/search.png" width="16" height="16" onclick="res_search1();" style="cursor: pointer; vertical-align: middle; float: left; text-align: center; margin-left: -28px; margin-top: 15px; line-height: 20px"> <INPUT id="tabcontentItemSubmit1" type="submit" value="检索" onclick="res_search1();" style="cursor: pointer; font-size: 14px; border-top: #0059a3 2px solid; height: 22px; border-right: #0059a3 2px solid; width: 80px; background: #0059a3; border-bottom: #0059a3 2px solid; float: left; color: #ddd; outline-width: medium; text-align: center; outline-style: none; margin-left: 10px; border-left: #0059a3 2px solid; margin-top: 12px; outline-color: invert; border-radius: 25px"> </DIV>
+<DIV style="border-top: #bbb 0px solid; height: 26px; border-right: #bbb 0px solid; width: 600px; position: relative; border-left: #bbb 0px solid; margin-top: 45px">
+<DIV style="font-size: 14px; height: 22px; width: 100px; border-bottom: #2b6ca3 2px solid; margin-left: 0px; margin-top: 10px">好书推荐</DIV>
+<DIV style="font-size: 14px; height: 21px; width: 100px; color: #666; margin-left: 520px; margin-top: -18px"><A href="http://202.193.70.165/subject/subject.html" target="_blank">更多&gt;&gt;</A></DIV></DIV>
+<DIV style="height: 95px; border-right: #bbb 0px solid; width: 600px; border-bottom: #bbb 0px solid; position: relative; padding-top: 0px; padding-left: 0px; border-left: #bbb 0px solid">
+<DIV id="demo" align="center" style="overflow: hidden; width: 600px; margin-top: 0px">
+<TABLE cellspacing="0" cellpadding="1" align="center" border="0" cellspace="0">
+<TBODY>
+<TR>
+<TD id="marquePic1" valign="top">
+<TABLE cellspacing="0" width="100%" border="0">
+<TBODY>
+<TR>
+<TD align="center"><A href="http://202.193.70.165/subject/subject1/index.html" target="_blank">
+<DIV style="position: relative; margin: 3px"><IMG border="0" src="images/bookpic/1.jpg" width="70" height="100" onmouseover="this.style.opacity=0.8;" onmouseout="this.style.opacity=1"></DIV></A></TD>
+<TD align="center"><A href="http://202.193.70.165/subject/subject2/index.html" target="_blank">
+<DIV style="position: relative; margin: 3px"><IMG border="0" src="images/bookpic/2.jpg" width="70" height="100" onmouseover="this.style.opacity=0.8;" onmouseout="this.style.opacity=1"></DIV></A></TD>
+<TD align="center"><A href="http://202.193.70.165/subject/subject3/index.html" target="_blank">
+<DIV style="position: relative; margin: 3px"><IMG border="0" src="images/bookpic/3.jpg" width="70" height="100" onmouseover="this.style.opacity=0.8;" onmouseout="this.style.opacity=1"></DIV></A></TD>
+<TD align="center"><A href="http://202.193.70.165/subject/subject4/index.html" target="_blank">
+<DIV style="position: relative; margin: 3px"><IMG border="0" src="images/bookpic/4.jpg" width="70" height="100" onmouseover="this.style.opacity=0.8;" onmouseout="this.style.opacity=1"></DIV></A></TD>
+<TD align="center"><A href="http://202.193.70.165/subject/subject5/index.html" target="_blank">
+<DIV style="position: relative; margin: 3px"><IMG border="0" src="images/bookpic/5.jpg" width="70" height="100" onmouseover="this.style.opacity=0.8;" onmouseout="this.style.opacity=1"></DIV></A></TD>
+<TD align="center"><A href="http://202.193.70.165/subject/subject6/index.html" target="_blank">
+<DIV style="position: relative; margin: 3px"><IMG border="0" src="images/bookpic/6.jpg" width="70" height="100" onmouseover="this.style.opacity=0.8;" onmouseout="this.style.opacity=1"></DIV></A></TD>
+<TD align="center"><A href="http://202.193.70.165/subject/subject7/index.html" target="_blank">
+<DIV style="position: relative; margin: 3px"><IMG border="0" src="images/bookpic/7.jpg" width="70" height="100" onmouseover="this.style.opacity=0.8;" onmouseout="this.style.opacity=1"></DIV></A></TD>
+<TD align="center"><A href="http://202.193.70.165/subject/subject8/index.html" target="_blank">
+<DIV style="position: relative; margin: 3px"><IMG border="0" src="images/bookpic/8.jpg" width="70" height="100" onmouseover="this.style.opacity=0.8;" onmouseout="this.style.opacity=1"></DIV></A></TD>
+<TD align="center"><A href="http://202.193.70.165/subject/subject9/index.html" target="_blank">
+<DIV style="position: relative; margin: 3px"><IMG border="0" src="images/bookpic/9.jpg" width="70" height="100" onmouseover="this.style.opacity=0.8;" onmouseout="this.style.opacity=1"></DIV></A></TD>
+<TD align="center"><A href="http://202.193.70.165/subject/subject10/index.html" target="_blank">
+<DIV style="position: relative; margin: 3px"><IMG border="0" src="images/bookpic/10.jpg" width="70" height="100" onmouseover="this.style.opacity=0.8;" onmouseout="this.style.opacity=1"></DIV></A></TD>
+<TD align="center"><A href="http://202.193.70.165/subject/subject11/index.html" target="_blank">
+<DIV style="position: relative; margin: 3px"><IMG border="0" src="images/bookpic/11.jpg" width="70" height="100" onmouseover="this.style.opacity=0.8;" onmouseout="this.style.opacity=1"></DIV></A></TD>
+<TD align="center"><A href="http://202.193.70.165/subject/subject12/index.html" target="_blank">
+<DIV style="position: relative; margin: 3px"><IMG border="0" src="images/bookpic/12.jpg" width="70" height="100" onmouseover="this.style.opacity=0.8;" onmouseout="this.style.opacity=1"></DIV></A></TD>
+<TD align="center"><A href="http://202.193.70.165/subject/subject13/index.html" target="_blank">
+<DIV style="position: relative; margin: 3px"><IMG border="0" src="images/bookpic/13.jpg" width="70" height="100" onmouseover="this.style.opacity=0.8;" onmouseout="this.style.opacity=1"></DIV></A></TD>
+<TD align="center"><A href="http://202.193.70.165/subject/subject14/index.html" target="_blank">
+<DIV style="position: relative; margin: 3px"><IMG border="0" src="images/bookpic/14.jpg" width="70" height="100" onmouseover="this.style.opacity=0.8;" onmouseout="this.style.opacity=1"></DIV></A></TD>
+<TD align="center"><A href="http://202.193.70.165/subject/subject15/index.html" target="_blank">
+<DIV style="position: relative; margin: 3px"><IMG border="0" src="images/bookpic/15.jpg" width="70" height="100" onmouseover="this.style.opacity=0.8;" onmouseout="this.style.opacity=1"></DIV></A></TD>
+<TD align="center"><A href="http://202.193.70.165/subject/subject16/index.html" target="_blank">
+<DIV style="position: relative; margin: 3px"><IMG border="0" src="images/bookpic/16.jpg" width="70" height="100" onmouseover="this.style.opacity=0.8;" onmouseout="this.style.opacity=1"></DIV></A></TD>
+<TD align="center"><A href="http://202.193.70.165/subject/subject17/index.html" target="_blank">
+<DIV style="position: relative; margin: 3px"><IMG border="0" src="images/bookpic/17.jpg" width="70" height="100" onmouseover="this.style.opacity=0.8;" onmouseout="this.style.opacity=1"></DIV></A></TD>
+<TD align="center"><A href="http://202.193.70.165/subject/subject18/index.html" target="_blank">
+<DIV style="position: relative; margin: 3px"><IMG border="0" src="images/bookpic/18.jpg" width="70" height="100" onmouseover="this.style.opacity=0.8;" onmouseout="this.style.opacity=1"></DIV></A></TD>
+<TD align="center"><A href="http://202.193.70.165/subject/subject19/index.html" target="_blank">
+<DIV style="position: relative; margin: 3px"><IMG border="0" src="images/bookpic/19.jpg" width="70" height="100" onmouseover="this.style.opacity=0.8;" onmouseout="this.style.opacity=1"></DIV></A></TD>
+<TD align="center"><A href="http://202.193.70.165/subject/subject20/index.html" target="_blank">
+<DIV style="position: relative; margin: 3px"><IMG border="0" src="images/bookpic/20.jpg" width="70" height="100" onmouseover="this.style.opacity=0.8;" onmouseout="this.style.opacity=1"></DIV></A></TD>
+<TD align="center"><A href="http://202.193.70.165/subject/subject21/index.html" target="_blank">
+<DIV style="position: relative; margin: 3px"><IMG border="0" src="images/bookpic/21.jpg" width="70" height="100" onmouseover="this.style.opacity=0.8;" onmouseout="this.style.opacity=1"></DIV></A></TD>
+<TD align="center"><A href="http://202.193.70.165/subject/subject22/index.html" target="_blank">
+<DIV style="position: relative; margin: 3px"><IMG border="0" src="images/bookpic/22.jpg" width="70" height="100" onmouseover="this.style.opacity=0.8;" onmouseout="this.style.opacity=1"></DIV></A></TD>
+</TR></TBODY></TABLE></TD>
+<TD id="marquePic2" valign="top"></TD></TR></TBODY></TABLE></DIV></DIV><script type="text/javascript">
+                            var speed=50 
+                            marquePic2.innerHTML=marquePic1.innerHTML 
+                            function Marquee(){ 
+                                if(demo.scrollLeft>=marquePic1.scrollWidth){ 
+                                    demo.scrollLeft=0 
+                                }else{ 
+                                    demo.scrollLeft++ 
+                                } 
+                            } 
+                            var MyMar=setInterval(Marquee,speed) 
+                            demo.onmouseover=function() {clearInterval(MyMar)} 
+                            demo.onmouseout=function() {MyMar=setInterval(Marquee,speed)} 
+                        </script></DIV></LI>
+<LI><INPUT id="tab2" type="radio" value="" name="tabs"> <LABEL for="tab2">统一检索</LABEL> 
+<DIV id="tab-content2" class="tab-content">
+<DIV title="说明：统一系统整合了图书馆购买的资源及馆外资源，支持一站式跨库检索，可提供原文下载，并且支持免费文献传递功能；对检索结果过可以进行筛选和引证分析等。" style="cursor: pointer; margin-top: -4px; letter-spacing: 1px">说明：整合了图书馆购买的资源及馆外资源，支持一站式跨库检索......</DIV>
+<DIV style="display: inline">
+<DIV id="parent72" style="margin-top: 12px"><SELECT id="strtype2" name="strtype2"> <OPTION selected>任意词</OPTION> <OPTION>图书</OPTION> <OPTION>期刊</OPTION> <OPTION>报纸</OPTION> <OPTION>学位论文</OPTION> <OPTION>会议论文</OPTION> <OPTION>标准</OPTION> <OPTION>专利</OPTION> <OPTION>音视频</OPTION></SELECT> </DIV><INPUT id="keyword2" value="请输入检索词" name="keyword2" onkeydown="if( window.event.keyCode == 13 ){res_search2();};" onclick="keyword_txt2();" style="font-size: 14px; border-top: #0059a3 2px solid; height: 22px; border-right: #0059a3 2px solid; width: 300px; background: none transparent scroll repeat 0% 0%; border-bottom: #0059a3 2px solid; float: left; color: #555; outline-width: medium; outline-style: none; border-left: #0059a3 2px solid; margin-top: 12px; letter-spacing: 1px; outline-color: invert; text-indent: 0.5em; border-radius: 25px"> <IMG id="s_search2" border="0" src="images/picture/search.png" width="16" height="16" onclick="res_search2();" style="cursor: pointer; vertical-align: middle; float: left; text-align: center; margin-left: -28px; margin-top: 15px; line-height: 20px"> <INPUT id="tabcontentItemSubmit2" type="submit" value="检索" onclick="res_search2();" style="cursor: pointer; font-size: 14px; border-top: #0059a3 2px solid; height: 22px; border-right: #0059a3 2px solid; width: 80px; background: #0059a3; border-bottom: #0059a3 2px solid; float: left; color: #ddd; outline-width: medium; text-align: center; outline-style: none; margin-left: 10px; border-left: #0059a3 2px solid; margin-top: 12px; outline-color: invert; border-radius: 25px"> 
+<DIV style="border-top: #bbb 0px solid; height: 25px; border-right: #bbb 0px solid; width: 600px; position: relative; border-left: #bbb 0px solid; margin-top: 45px">
+<DIV style="font-size: 14px; height: 21px; width: 100px; border-bottom: #2b6ca3 2px solid; margin-left: 0px; margin-top: 10px">常用数据库</DIV>
+<DIV style="font-size: 14px; height: 21px; width: 100px; color: #666; margin-left: 520px; margin-top: -18px"><A href="http://202.193.70.166:8020/index.asp" target="_blank">更多&gt;&gt;</A></DIV></DIV>
+<DIV style="height: 95px; text-align: center; padding-top: 0px; margin-top: 10px">
+<DIV id="demo1" style="overflow: hidden; width: 600px; text-align: center; margin-top: 0px">
+<TABLE cellspacing="0" cellpadding="1" border="0" cellspace="0">
+<TBODY>
+<TR>
+<TD id="marquePic5" valign="top">
+<TABLE cellspacing="0" width="100%" align="center" border="0">
+<TBODY>
+<TR>
+<TD align="center"><A href="https://www.ieee.org/ieeexplore" target="_blank">
+<DIV style="border-right: #0059a3 2px solid; width: 60px; position: relative; margin: 2px 2px 2px 20px">IEEE</DIV></A></TD>
+<TD align="center"><A href="http://www.sciencedirect.com/" target="_blank">
+<DIV style="border-right: #0059a3 2px solid; width: 80px; position: relative; margin: 2px">Elsevier</DIV></A></TD>
+<TD align="center"><A href="https://link.springer.com/" target="_blank">
+<DIV style="border-right: #0059a3 2px solid; width: 120px; position: relative; margin: 2px">Springer Link</DIV></A></TD>
+<TD align="center"><A href="http://apps.webofknowledge.com/" target="_blank">
+<DIV style="border-right: #0059a3 2px solid; width: 120px; position: relative; margin: 2px">Web of Science</DIV></A></TD>
+<TD align="center"><A href="http://www.engineeringvillage.com/" target="_blank">
+<DIV style="width: 130px; position: relative; margin: 2px">Engineer Village</DIV></A></TD></TR></TBODY></TABLE></TD>
+<TD id="marquePic6" valign="top"></TD></TR></TBODY></TABLE>
+<TABLE cellspacing="0" cellpadding="1" align="center" border="0" cellspace="0" style="text-align: center; margin: 15px auto 0px">
+<TBODY>
+<TR>
+<TD id="marquePic5" valign="top">
+<TABLE cellspacing="0" width="100%" align="center" border="0">
+<TBODY>
+<TR>
+<TD align="center"><A href="http://www.cnki.net/" target="_blank">
+<DIV style="border-right: #0059a3 2px solid; width: 80px; position: relative; margin: 0px">中国知网</DIV></A></TD><!--<td align="center"><a href='http://202.193.70.173:5000/3320/index/visit?id=52' target="_blank"><div style="position: relative; margin: 0px; border-right: 2px solid #0059a3; width:80px;">中国知网</div></a></td>-->
+<TD align="center"><A href="http://202.193.70.162/markbook/GetIndex.jsp" target="_blank">
+<DIV style="border-right: #0059a3 2px solid; width: 96px; position: relative; margin: 0px">超星数字图书</DIV></A></TD><!--<td align="center"><a href='http://202.193.70.152:8081/' target="_blank"><div style="position: relative; margin: 0px; border-right: 2px solid #0059a3; width:76px;">维普资讯</div></a></td>-->
+<TD align="center"><A href="http://202.193.70.152:8081/" target="_blank">
+<DIV style="border-right: #0059a3 2px solid; width: 76px; position: relative; margin: 0px">维普资讯</DIV></A></TD><!--<td align="center"><a href='http://202.193.70.158:8088/C/Thesis.aspx' target="_blank"><div style="position: relative; margin: 0px; border-right: 0px solid #0059a3; width:70px;">万方数据</div></a></td>-->
+<TD align="center"><A href="http://202.193.70.158:8088/C/Thesis.aspx" target="_blank">
+<DIV style="border-right: #0059a3 2px solid; width: 70px; position: relative; margin: 0px">万方数据</DIV></A></TD>
+<TD align="center"><A href="#">
+<DIV style="width: 0px; position: relative; margin: 0px"></DIV></A></TD></TR></TBODY></TABLE></TD>
+<TD id="marquePic6" valign="top"></TD></TR></TBODY></TABLE></DIV></DIV></DIV></DIV></LI>
+<LI><INPUT id="tab3" type="radio" value="" name="tabs"> <LABEL for="tab3">随书光盘</LABEL> 
+<DIV id="tab-content3" class="tab-content">
+<DIV title="如纸本图书注明有随书光盘，而在本系统中未搜索到下载，请邮件至40956164@qq.com" style="cursor: pointer; margin-top: -4px; letter-spacing: 1px">说明：查找、下载本校随书光盘数据库</DIV>
+<DIV style="display: inline">
+<DIV id="parent72" style="margin-top: 12px"><SELECT id="strtype3" name="strtype3"> <OPTION selected>索取号</OPTION> <OPTION>题名</OPTION></SELECT> </DIV></DIV><INPUT id="keyword3" value="请输入检索词" name="keyword3" onkeydown="if( window.event.keyCode == 13 ){res_search3();};" onclick="keyword_txt3();" style="font-size: 14px; border-top: #0059a3 2px solid; height: 22px; border-right: #0059a3 2px solid; width: 300px; background: none transparent scroll repeat 0% 0%; border-bottom: #0059a3 2px solid; float: left; color: #555; outline-width: medium; outline-style: none; border-left: #0059a3 2px solid; margin-top: 12px; letter-spacing: 1px; outline-color: invert; text-indent: 0.5em; border-radius: 25px"> <IMG id="s_search3" border="0" src="images/picture/search.png" width="16" height="16" onclick="res_search3();" style="cursor: pointer; vertical-align: middle; float: left; text-align: center; margin-left: -28px; margin-top: 15px; line-height: 20px"> <INPUT id="tabcontentItemSubmit3" type="submit" value="检索" onclick="res_search3();" style="cursor: pointer; font-size: 14px; border-top: #0059a3 2px solid; height: 22px; border-right: #0059a3 2px solid; width: 80px; background: #0059a3; border-bottom: #0059a3 2px solid; float: left; color: #ddd; outline-width: medium; text-align: center; outline-style: none; margin-left: 10px; border-left: #0059a3 2px solid; margin-top: 12px; outline-color: invert; border-radius: 25px"> 
+<DIV style="border-top: #bbb 0px solid; height: 25px; border-right: #bbb 0px solid; width: 600px; position: relative; border-left: #bbb 0px solid; margin-top: 45px">
+<DIV style="font-size: 14px; height: 21px; width: 100px; border-bottom: #2b6ca3 2px solid; margin-left: 0px; margin-top: 10px">常用数据库</DIV>
+<DIV style="font-size: 14px; height: 21px; width: 100px; color: #666; margin-left: 265px; margin-top: 15px"><A href="http://202.193.70.169:90/lib/bookdisc.asp" target="_blank">随书光盘数据库</A></DIV></DIV></DIV></LI>
+<LI><INPUT id="tab4" type="radio" value="" name="tabs"> <LABEL for="tab4">论文</LABEL> 
+<DIV id="tab-content4" class="tab-content">
+<P title="统一系统整合了图书馆购买的资源及馆外期刊论文、会议论文、学位论文，支持一站式跨库检索，可提供原文下载，并且支持免费文献传递功能；对检索结果过可以进行筛选和引证分析等。" style="cursor: pointer; margin-top: -4px; letter-spacing: 1px">说明：统一系统整合了图书馆购买的资源及馆外期刊论文、会议论文、学位论文......</P>
+<DIV style="display: inline">
+<DIV id="parent85" style="margin-top: 12px"><SELECT id="strtype4" name="strtype4"> <OPTION selected>全部字段</OPTION> <OPTION>主题</OPTION> <OPTION>标题</OPTION> <OPTION>作者</OPTION> <OPTION>作者机构</OPTION> <OPTION>关键词</OPTION> <OPTION>摘要</OPTION></SELECT> </DIV></DIV><INPUT id="keyword4" value="请输入检索词" name="keyword4" onkeydown="if( window.event.keyCode == 13 ){res_search4();};" onclick="keyword_txt4();" ; style="font-size: 14px; border-top: #0059a3 2px solid; height: 22px; border-right: #0059a3 2px solid; width: 300px; background: none transparent scroll repeat 0% 0%; border-bottom: #0059a3 2px solid; float: left; color: #555; outline-width: medium; outline-style: none; border-left: #0059a3 2px solid; margin-top: 12px; letter-spacing: 1px; outline-color: invert; text-indent: 0.5em; border-radius: 25px"> <IMG id="s_search4" border="0" src="images/picture/search.png" width="16" height="16" onclick="res_search4();" style="cursor: pointer; vertical-align: middle; float: left; text-align: center; margin-left: -28px; margin-top: 15px; line-height: 20px"> <INPUT id="tabcontentItemSubmit4" type="submit" value="检索" onclick="res_search4();" style="cursor: pointer; font-size: 14px; border-top: #0059a3 2px solid; height: 22px; border-right: #0059a3 2px solid; width: 80px; background: #0059a3; border-bottom: #0059a3 2px solid; float: left; color: #ddd; outline-width: medium; text-align: center; outline-style: none; margin-left: 10px; border-left: #0059a3 2px solid; margin-top: 12px; outline-color: invert; border-radius: 25px"> 
+<DIV style="border-top: #bbb 0px solid; height: 25px; border-right: #bbb 0px solid; width: 600px; position: relative; border-left: #bbb 0px solid; margin-top: 45px">
+<DIV style="font-size: 14px; height: 21px; width: 100px; border-bottom: #2b6ca3 2px solid; margin-left: 0px; margin-top: 10px">常用数据库</DIV>
+<DIV style="font-size: 14px; height: 21px; width: 100px; color: #666; margin-left: 520px; margin-top: -18px"><A href="http://202.193.70.166:8020/index.asp" target="_blank">更多&gt;&gt;</A></DIV></DIV>
+<DIV style="height: 95px; text-align: center; padding-top: 0px; margin-top: 10px">
+<DIV id="demo1" style="overflow: hidden; width: 600px; text-align: center; margin-top: 0px">
+<TABLE cellspacing="0" cellpadding="1" border="0" cellspace="0">
+<TBODY>
+<TR>
+<TD id="marquePic5" valign="top">
+<TABLE cellspacing="0" width="100%" align="center" border="0">
+<TBODY>
+<TR>
+<TD align="center"><A href="https://www.ieee.org/ieeexplore" target="_blank">
+<DIV style="border-right: #0059a3 2px solid; width: 60px; position: relative; margin: 2px 2px 2px 20px">IEEE</DIV></A></TD>
+<TD align="center"><A href="http://www.sciencedirect.com/" target="_blank">
+<DIV style="border-right: #0059a3 2px solid; width: 80px; position: relative; margin: 2px">Elsevier</DIV></A></TD>
+<TD align="center"><A href="https://link.springer.com/" target="_blank">
+<DIV style="border-right: #0059a3 2px solid; width: 120px; position: relative; margin: 2px">Springer Link</DIV></A></TD>
+<TD align="center"><A href="http://apps.webofknowledge.com/" target="_blank">
+<DIV style="border-right: #0059a3 2px solid; width: 120px; position: relative; margin: 2px">Web of Science</DIV></A></TD>
+<TD align="center"><A href="http://www.engineeringvillage.com/" target="_blank">
+<DIV style="width: 130px; position: relative; margin: 2px">Engineer Village</DIV></A></TD></TR></TBODY></TABLE></TD>
+<TD id="marquePic6" valign="top"></TD></TR></TBODY></TABLE>
+<TABLE cellspacing="0" cellpadding="1" align="center" border="0" cellspace="0" style="text-align: center; margin: 15px auto 0px">
+<TBODY>
+<TR>
+<TD id="marquePic5" valign="top">
+<TABLE cellspacing="0" width="100%" align="center" border="0">
+<TBODY>
+<TR>
+<TD align="center"><A href="http://www.cnki.net/" target="_blank">
+<DIV style="border-right: #0059a3 2px solid; width: 80px; position: relative; margin: 0px">中国知网</DIV></A></TD><!--<td align="center"><a href='http://202.193.70.173:5000/3320/index/visit?id=52' target="_blank"><div style="position: relative; margin: 0px; border-right: 2px solid #0059a3; width:80px;">中国知网</div></a></td>-->
+<TD align="center"><A href="http://202.193.70.162/markbook/GetIndex.jsp" target="_blank">
+<DIV style="border-right: #0059a3 2px solid; width: 96px; position: relative; margin: 0px">超星数字图书</DIV></A></TD><!--<td align="center"><a href='http://202.193.70.152:8081/' target="_blank"><div style="position: relative; margin: 0px; border-right: 2px solid #0059a3; width:76px;">维普资讯</div></a></td>-->
+<TD align="center"><A href="http://202.193.70.152:8081/" target="_blank">
+<DIV style="border-right: #0059a3 2px solid; width: 76px; position: relative; margin: 0px">维普资讯</DIV></A></TD><!--<td align="center"><a href='http://202.193.70.158:8088/C/Thesis.aspx' target="_blank"><div style="position: relative; margin: 0px; border-right: 2px solid #0059a3; width:70px;">万方数据</div></a></td>-->
+<TD align="center"><A href="http://202.193.70.158:8088/C/Thesis.aspx" target="_blank">
+<DIV style="border-right: #0059a3 2px solid; width: 70px; position: relative; margin: 0px">万方数据</DIV></A></TD>
+<TD align="center"><A href="http://www.guet.edu.cn/lib/info/1032/2888.htm" target="_blank">
+<DIV style="width: 120px; position: relative; margin: 0px">本校学校论文库</DIV></A></TD></TR></TBODY></TABLE></TD>
+<TD id="marquePic6" valign="top"></TD></TR></TBODY></TABLE></DIV></DIV></DIV></LI>
+<LI><INPUT id="tab5" type="radio" value="" name="tabs"> <LABEL for="tab5">专利</LABEL> 
+<DIV id="tab-content5" class="tab-content">
+<P style="cursor: pointer; margin-top: -4px; letter-spacing: 1px">说明：查找专利</P><INPUT id="keyword5" value="请输入检索词" name="keyword5" onkeydown="if( window.event.keyCode == 13 ){res_search5();};" onclick="keyword_txt5();" style="font-size: 14px; border-top: #0059a3 2px solid; height: 22px; border-right: #0059a3 2px solid; width: 300px; background: none transparent scroll repeat 0% 0%; border-bottom: #0059a3 2px solid; float: left; color: #555; outline-width: medium; outline-style: none; margin-left: 80px; border-left: #0059a3 2px solid; margin-top: 12px; letter-spacing: 1px; outline-color: invert; text-indent: 0.5em; border-radius: 25px"> <IMG id="s_search5" border="0" src="images/picture/search.png" width="16" height="16" onclick="res_search5();" style="cursor: pointer; vertical-align: middle; float: left; text-align: center; margin-left: -28px; margin-top: 15px; line-height: 20px"> <INPUT id="tabcontentItemSubmit5" type="submit" value="检索" onclick="res_search5();" style="cursor: pointer; font-size: 14px; border-top: #0059a3 2px solid; height: 22px; border-right: #0059a3 2px solid; width: 80px; background: #0059a3; border-bottom: #0059a3 2px solid; float: left; color: #ddd; outline-width: medium; text-align: center; outline-style: none; margin-left: 10px; border-left: #0059a3 2px solid; margin-top: 12px; outline-color: invert; border-radius: 25px"> 
+<DIV style="border-top: #bbb 0px solid; height: 25px; border-right: #bbb 0px solid; width: 600px; position: relative; border-left: #bbb 0px solid; margin-top: 45px">
+<DIV style="font-size: 14px; height: 21px; width: 100px; border-bottom: #2b6ca3 2px solid; margin-left: 0px; margin-top: 10px">常用专利</DIV>
+<DIV style="font-size: 14px; height: 21px; width: 100px; color: #666; margin-left: 520px; margin-top: -18px"><!--<a href='http://www.sipo.gov.cn' target="_blank">更多>></a>--></DIV></DIV>
+<DIV style="height: 95px; text-align: center; padding-top: 0px; margin-top: 10px">
+<DIV id="demo1" style="overflow: hidden; width: 600px; text-align: center; margin-top: 0px">
+<TABLE cellspacing="0" cellpadding="1" border="0" cellspace="0">
+<TBODY>
+<TR>
+<TD id="marquePic5" valign="top">
+<TABLE cellspacing="0" width="100%" align="center" border="0">
+<TBODY>
+<TR>
+<TD align="center"><A href="http://www.patentstar.cn/" target="_blank">
+<DIV style="border-right: #0059a3 2px solid; width: 130px; position: relative; margin: 2px 2px 2px 50px">中国知识产权局</DIV></A></TD>
+<TD align="center"><A href="http://patft.uspto.gov/" target="_blank">
+<DIV style="border-right: #0059a3 2px solid; width: 125px; position: relative; margin: 2px">美国专利商标局 </DIV></A></TD>
+<TD align="center"><A href="https://www.j-platpat.inpit.go.jp/web/all/top/BTmTopEnglishPage" target="_blank">
+<DIV style="border-right: #0059a3 2px solid; width: 100px; position: relative; margin: 2px">日本特许厅</DIV></A></TD>
+<TD align="center"><A href="http://www.kipris.or.kr/enghome/main.jsp" target="_blank">
+<DIV style="width: 120px; position: relative; margin: 2px">韩国知识产权局</DIV></A></TD>
+<TD align="center"><A href="#">
+<DIV style="width: 0px; position: relative; margin: 2px"></DIV></A></TD></TR></TBODY></TABLE></TD>
+<TD id="marquePic6" valign="top"></TD></TR></TBODY></TABLE>
+<TABLE cellspacing="0" cellpadding="1" align="center" border="0" cellspace="0" style="text-align: center; margin: 15px auto 0px">
+<TBODY>
+<TR>
+<TD id="marquePic5" valign="top">
+<TABLE cellspacing="0" width="100%" align="center" border="0">
+<TBODY>
+<TR>
+<TD align="center"><A href="https://worldwide.espacenet.com/?locale=en_EP" target="_blank">
+<DIV style="border-right: #0059a3 2px solid; width: 100px; position: relative; margin: 0px">欧洲专利局</DIV></A></TD>
+<TD align="center"><A href="https://patentscope.wipo.int/search/en/search.jsf" target="_blank">
+<DIV style="border-right: #0059a3 2px solid; width: 138px; position: relative; margin: 0px">世界知识产权组织</DIV></A></TD>
+<TD align="center"><A href="http://kns.cnki.net/kns/brief/result.aspx?dbprefix=SCOD" target="_blank">
+<DIV style="border-right: #0059a3 0px solid; width: 150px; position: relative; margin: 0px">中国知网专利数据库</DIV></A></TD>
+<TD align="center"><A href="#">
+<DIV style="border-right: #0059a3 1px solid; width: 0px; position: relative; margin: 0px"></DIV></A></TD>
+<TD align="center"><A href="#">
+<DIV style="width: 0px; position: relative; margin: 0px"></DIV></A></TD></TR></TBODY></TABLE></TD>
+<TD id="marquePic6" valign="top"></TD></TR></TBODY></TABLE></DIV></DIV></DIV></LI>
+<LI><INPUT id="tab6" type="radio" value="" name="tabs"> <LABEL for="tab6">标准</LABEL> 
+<DIV id="tab-content6" class="tab-content">
+<P style="cursor: pointer; margin-top: -4px; letter-spacing: 1px">说明：查找标准</P><INPUT id="keyword6" value="请输入检索词" name="keyword6" onkeydown="if( window.event.keyCode == 13 ){res_search6();};" onclick="keyword_txt6();" style="font-size: 14px; border-top: #0059a3 2px solid; height: 22px; border-right: #0059a3 2px solid; width: 300px; background: none transparent scroll repeat 0% 0%; border-bottom: #0059a3 2px solid; float: left; color: #555; outline-width: medium; outline-style: none; margin-left: 80px; border-left: #0059a3 2px solid; margin-top: 12px; letter-spacing: 1px; outline-color: invert; text-indent: 0.5em; border-radius: 25px"> <IMG id="s_search6" border="0" src="images/picture/search.png" width="16" height="16" onclick="res_search6();" style="cursor: pointer; vertical-align: middle; float: left; text-align: center; margin-left: -28px; margin-top: 15px; line-height: 20px"> <INPUT id="tabcontentItemSubmit6" type="submit" value="检索" onclick="res_search6();" style="cursor: pointer; font-size: 14px; border-top: #0059a3 2px solid; height: 22px; border-right: #0059a3 2px solid; width: 80px; background: #0059a3; border-bottom: #0059a3 2px solid; float: left; color: #ddd; outline-width: medium; text-align: center; outline-style: none; margin-left: 10px; border-left: #0059a3 2px solid; margin-top: 12px; outline-color: invert; border-radius: 25px"> 
+<DIV style="border-top: #bbb 0px solid; height: 25px; border-right: #bbb 0px solid; width: 600px; position: relative; border-left: #bbb 0px solid; margin-top: 45px">
+<DIV style="font-size: 14px; height: 21px; width: 100px; border-bottom: #2b6ca3 2px solid; margin-left: 0px; margin-top: 10px">常用标准</DIV>
+<DIV style="font-size: 14px; height: 21px; width: 100px; color: #666; margin-left: 520px; margin-top: -18px"><!--<a href='#'>更多>></a>--></DIV></DIV>
+<DIV style="height: 95px; text-align: center; padding-top: 0px; margin-top: 10px">
+<DIV id="demo1" style="overflow: hidden; width: 600px; text-align: center; margin-top: 0px">
+<TABLE cellspacing="0" cellpadding="1" border="0" cellspace="0">
+<TBODY>
+<TR>
+<TD id="marquePic5" valign="top">
+<TABLE cellspacing="0" width="100%" align="center" border="0">
+<TBODY>
+<TR>
+<TD align="center"><A href="http://www.ptsn.net.cn/" target="_blank">
+<DIV style="border-right: #0059a3 2px solid; width: 165px; position: relative; margin: 2px 2px 2px 50px">中国通信标准与信息网</DIV></A></TD>
+<TD align="center"><A href="http://kns.cnki.net/kns/brief/result.aspx?dbprefix=CISD" target="_blank">
+<DIV style="border-right: #0059a3 2px solid; width: 138px; position: relative; margin: 2px">中国知网标准总库</DIV></A></TD>
+<TD align="center"><A href="http://www.cssn.net.cn/" target="_blank">
+<DIV style="border-right: #0059a3 0px solid; width: 185px; position: relative; margin: 2px">国家标准文献共享服务平台</DIV></A></TD>
+<TD align="center"><A href="#">
+<DIV style="width: 0px; position: relative; margin: 2px"></DIV></A></TD>
+<TD align="center"><A href="#">
+<DIV style="width: 0px; position: relative; margin: 2px"></DIV></A></TD></TR></TBODY></TABLE></TD>
+<TD id="marquePic6" valign="top"></TD></TR></TBODY></TABLE>
+<TABLE cellspacing="0" cellpadding="1" align="center" border="0" cellspace="0" style="text-align: center; margin: 15px auto 0px">
+<TBODY>
+<TR>
+<TD id="marquePic5" valign="top">
+<TABLE cellspacing="0" width="100%" align="center" border="0">
+<TBODY>
+<TR>
+<TD align="center"><A href="http://www.gb688.cn/bzgk/gb/" target="_blank">
+<DIV style="border-right: #0059a3 0px solid; width: 140px; position: relative; margin: 0px 0px 0px -35px">国家标准全文公开系统</DIV></A></TD>
+<TD align="center"><A href="#">
+<DIV style="border-right: #0059a3 2px solid; width: 150px; position: relative; margin: 0px"></DIV></A></TD>
+<TD align="center"><A href="#">
+<DIV style="border-right: #0059a3 0px solid; width: 150px; position: relative; margin: 0px"></DIV></A></TD>
+<TD align="center"><A href="#">
+<DIV style="border-right: #0059a3 1px solid; width: 0px; position: relative; margin: 0px"></DIV></A></TD>
+<TD align="center"><A href="#">
+<DIV style="width: 0px; position: relative; margin: 0px"></DIV></A></TD></TR></TBODY></TABLE></TD>
+<TD id="marquePic6" valign="top"></TD></TR></TBODY></TABLE></DIV></DIV></DIV></LI></UL><!-- End Search BODY section --><!-- End Tab1切换 HEAD section --><!-- Start Tab2切换 HEAD section --><!-- add to the <head> of your page --></LI>
+<LI class="li1"><IFRAME id="myframe" height="268" border="0" src="https://www.guet.edu.cn/lib/syxwytzlm.htm" frameborder="0" width="525" name="myframe" scrolling="no"></IFRAME><!-- End Tab2切换 HEAD section --></LI></UL>
+<UL class="ul2">
+<LI class="li0"><!-- Start Slider BODY section --><!-- add to the <body> of your page -->
+<DIV id="wrap" class="wrap">
+<UL id="pic">
+<LI><A href="https://www.guet.edu.cn/lib/info/1022/3696.htm" target="_blank"><IMG title="" border="0" alt="" src="images/Slider/2020/2020-04-01.png" width="650" height="250" onmouseover="this.style.opacity=0.8;" onmouseout="this.style.opacity=1"><SPAN style="margin-left: 5px; line-height: 30px">考研英语系列公开课直播预告</SPAN></A> </LI>
+<LI><A href="https://www.guet.edu.cn/lib/info/1022/3697.htm" target="_blank"><IMG title="" border="0" alt="" src="images/Slider/2020/2020-04-02.png" width="650" height="250" onmouseover="this.style.opacity=0.8;" onmouseout="this.style.opacity=1"><SPAN style="margin-left: 5px; line-height: 30px">“掌阅精选”全国共读最美书评大赛</SPAN></A> </LI>
+<LI><A href="https://www.guet.edu.cn/lib/info/1022/3699.htm" target="_blank"><IMG title="" border="0" alt="" src="images/Slider/2020/2020-04-04.png" width="650" height="250" onmouseover="this.style.opacity=0.8;" onmouseout="this.style.opacity=1"><SPAN style="margin-left: 5px; line-height: 30px">【读书月活动】2020世界读书月活动——京东读书校园版</SPAN></A> </LI>
+<LI><A href="https://www.guet.edu.cn/lib/info/1022/3698.htm" target="_blank"><IMG title="" border="0" alt="" src="images/Slider/2020/2020-04-03.png" width="650" height="250" onmouseover="this.style.opacity=0.8;" onmouseout="this.style.opacity=1"><SPAN style="margin-left: 5px; line-height: 30px">【战疫行动】Springer Nature免费提供关键教科书的访问权限</SPAN></A> </LI>
+<LI><A href="https://www.101test.com/cand/index?paperId=2E2XHP" target="_blank"><IMG title="" border="0" alt="" src="images/Slider/2020/2020-04-05.png" width="650" height="250" onmouseover="this.style.opacity=0.8;" onmouseout="this.style.opacity=1"><SPAN style="margin-left: 5px; line-height: 30px">万方数据检索大赛—高校版</SPAN></A> </LI></UL>
+<OL id="list">
+<LI class="on"></LI>
+<LI></LI>
+<LI></LI>
+<LI></LI>
+<LI></LI></OL></DIV><!-- End Slider BODY section --></LI>
+<LI class="li1"><!-- Start shortcut button BODY section --><!-- add to the <body> of your page -->
+<DIV style="border-top: #0059a3 0px solid; height: 282px; border-right: #0059a3 0px solid; width: 500px; border-bottom: #0059a3 2px solid; padding-bottom: 15px; padding-top: 20px; padding-left: 25px; margin-left: 13px; border-left: #0059a3 0px solid; margin-top: 5px; padding-right: 15px; background-color: #d9ecf9">
+<UL>
+<LI style="padding-top: 5px; padding-left: 20px; padding-right: 20px"><A href="http://202.193.70.166:8020/index.asp" target="_blank"><IMG title="" alt="" src="images/shortcutbutton/1-1.png" onmouseover="this.src='images/shortcutbutton/2-1.png'" onmouseout="this.src='images/shortcutbutton/1-1.png'" style="height: 71px; width: 70px"></A> </LI>
+<LI style="padding-top: 5px; padding-left: 25px; padding-right: 20px"><A href="http://202.193.70.139/NTRdrLogin.aspx" target="_blank"><IMG title="" alt="" src="images/shortcutbutton/1-2.png" onmouseover="this.src='images/shortcutbutton/2-2.png'" onmouseout="this.src='images/shortcutbutton/1-2.png'" style="height: 71px; width: 70px"></A> </LI>
+<LI style="padding-top: 5px; padding-left: 20px; padding-right: 20px"><A href="#" target="_blank"><IMG title="" alt="" src="images/shortcutbutton/1-3.png" onmouseover="this.src='images/shortcutbutton/2-3.png'" onmouseout="this.src='images/shortcutbutton/1-3.png'" style="height: 71px; width: 70px"></A> </LI>
+<LI style="padding-top: 5px; padding-left: 20px; padding-right: 20px"><A href="http://www.guet.edu.cn/lib/info/1032/2888.htm" target="_blank"><IMG title="" alt="" src="images/shortcutbutton/1-10.png" onmouseover="this.src='images/shortcutbutton/2-10.png'" onmouseout="this.src='images/shortcutbutton/1-10.png'" style="height: 71px; width: 70px"></A> </LI>
+<LI style="padding-top: 5px; padding-left: 20px; padding-right: 20px"><A href="http://www.guet.edu.cn/lib/info/1069/2894.htm" target="_blank"><IMG title="" alt="" src="images/shortcutbutton/1-4.png" onmouseover="this.src='images/shortcutbutton/2-4.png'" onmouseout="this.src='images/shortcutbutton/1-4.png'" style="height: 71px; width: 70px"></A> </LI>
+<LI style="padding-top: 5px; padding-left: 20px; padding-right: 20px"><A href="http://www.guet.edu.cn/lib/info/1068/2893.htm" target="_blank"><IMG title="" alt="" src="images/shortcutbutton/1-5.png" onmouseover="this.src='images/shortcutbutton/2-5.png'" onmouseout="this.src='images/shortcutbutton/1-5.png'" style="height: 71px; width: 70px"></A> </LI>
+<LI style="padding-top: 5px; padding-left: 20px; padding-right: 20px"><A href="http://www.guet.edu.cn/lib/info/1070/2895.htm" target="_blank"><IMG title="" alt="" src="images/shortcutbutton/1-6.png" onmouseover="this.src='images/shortcutbutton/2-6.png'" onmouseout="this.src='images/shortcutbutton/1-6.png'" style="height: 71px; width: 70px"></A> </LI>
+<LI style="padding-top: 5px; padding-left: 20px; padding-right: 20px"><A href="http://www.guet.edu.cn/lib/info/1043/2883.htm" target="_blank"><IMG title="" alt="" src="images/shortcutbutton/1-11.png" onmouseover="this.src='images/shortcutbutton/2-11.png'" onmouseout="this.src='images/shortcutbutton/1-11.png'" style="height: 71px; width: 70px"></A> </LI>
+<LI style="padding-top: 5px; padding-left: 20px; padding-right: 20px"><A href="http://202.193.70.162:8089/" target="_blank"><IMG title="" alt="" src="images/shortcutbutton/1-7.png" onmouseover="this.src='images/shortcutbutton/2-7.png'" onmouseout="this.src='images/shortcutbutton/1-7.png'" style="height: 71px; width: 70px"></A> </LI>
+<LI style="padding-top: 5px; padding-left: 20px; padding-right: 20px"><A href="http://www.guet.edu.cn/lib/zzwy/index.html" target="_blank"><IMG title="" alt="" src="images/shortcutbutton/1-8.png" onmouseover="this.src='images/shortcutbutton/2-8.png'" onmouseout="this.src='images/shortcutbutton/1-8.png'" style="height: 71px; width: 70px"></A> </LI>
+<LI style="padding-top: 5px; padding-left: 20px; padding-right: 20px"><A href="http://www.guet.edu.cn/lib/bbs.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1167" target="_blank"><IMG title="" alt="" src="images/shortcutbutton/1-9.png" onmouseover="this.src='images/shortcutbutton/2-9.png'" onmouseout="this.src='images/shortcutbutton/1-9.png'" style="height: 71px; width: 70px"></A> </LI>
+<LI style="padding-top: 5px; padding-left: 20px; padding-right: 20px"><A href="http://202.193.70.132:8088/" target="_blank"><IMG title="" alt="" src="images/shortcutbutton/1-12.png" onmouseover="this.src='images/shortcutbutton/2-12.png'" onmouseout="this.src='images/shortcutbutton/1-12.png'" style="height: 71px; width: 70px"></A> </LI></UL></DIV><!-- End shortcut button BODY section --></LI></UL><!-- Start footer BODY section --><!-- add to the <head> of your page -->
+<DIV class="footer_border">
+<P></P>
+<DIV class="outer">
+<DIV class="in0"><A href="http://www.guet.edu.cn" target="_blank">学校主页</A> </DIV>
+<DIV class="in1"><A href="http://202.193.70.191" target="_blank">回到旧版</A> </DIV>
+<DIV class="in2"><A href="http://www.guet.edu.cn/lib/info/1064/2891.htm" target="_blank">开馆时间</A> </DIV>
+<DIV class="in3"><A href="http://www.guet.edu.cn/lib/info/1060/2890.htm" target="_blank">馆藏分布</A> </DIV>
+<DIV class="in4"><A href="http://202.193.70.165/dzzt/index.html" target="_blank">电子展厅</A> </DIV>
+<DIV class="in5"><A href="http://www.guet.edu.cn/lib/info/1032/2888.htm" target="_blank">论文提交</A> </DIV>
+<DIV class="in6"><A href="http://202.193.70.165/subject/subject.html" target="_blank">专题导读</A> </DIV>
+<DIV class="in7"><A href="http://202.193.70.166:8020/index.asp?idc=tryout&amp;mem=true" target="_blank">最新试用</A> </DIV></DIV>
+<P></P>
+<P></P>
+<DIV class="outer1">版权所有：桂林电子科技大学图书馆 电话：(0773)2290727 地址：中国广西桂林金鸡路1号 邮编：541004 </DIV>
+<P></P></DIV><!-- End footer BODY section --><!-- End Search BODY section -->
+
+</BODY></HTML>

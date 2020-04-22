@@ -1,0 +1,673 @@
+<!DOCTYPE html 
+<html lang="lang=zh-cmn-Hans" class="hb-loaded">
+<head>
+        <title>桂林电子科技大学工会委员会</title><META Name="keywords" Content="桂林电子科技大学工会委员会" />
+
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+         
+        <script sf_script="1"></script>
+
+        <meta name="Copyright" content="桂林电子科技大学工会委员会">
+        <meta name="description" content="&lt;p&gt;桂林电子科技大学工会委员会信息门户网站&lt;/p&gt;">
+        
+ 
+    <link rel="stylesheet" href="css/swiper.min.css">
+      <link rel="stylesheet" href="css/certify.css">
+        <link rel="stylesheet" href="css/font-awesome.min.css">
+        <link rel="stylesheet" href="css/common.css">
+        <link rel="stylesheet" href="css/iealert.css">
+    <script src="js/swiper.min.js"></script>
+        <style type="text/css">
+            .m-title {
+                color: #ffffff !important;
+                text-decoration: none !important;
+                margin-left: 10px;}
+                
+              @media only screen and (min-width: 100px) and (max-width: 1660px) {
+               .swiper-button-prev-left{width: 62px;height: 460px;top: 213px;position: absolute;z-index: 100; background: #000000;opacity: 0.6;}
+                .swiper-button-next-right{float: right; width: 62px;height: 460px; right:0px;top: 213px;position: absolute;z-index: 100; background: #000000;opacity: 0.6;}
+            
+              }
+              @media only screen and (min-width: 1661px) {
+               .swiper-button-prev-left{width: 262px;height: 460px;top: 213px;position: absolute;z-index: 100; background: #000000;opacity: 0.6;}
+                .swiper-button-next-right{float: right; width: 262px;height: 460px; right:0px;top: 213px;position: absolute;z-index: 100; background: #000000;opacity: 0.6;}
+            
+              }
+                #certify .swiper-slide p{margin-top:-58px;color:#FFF;font-size:22px;}
+                #certify .swiper-slide p a{ color:#FFF;margin-left:-360px;background: none repeat scroll 0 0 #000000;height:50px;}
+        </style>
+        
+        <script src="js/jquery-3.3.1.min.js" type="text/javascript" charset="utf-8"></script>
+        <script>
+            
+            $(document).ready(function() {
+        
+                $(".nav-list li").hover(
+                    function () {
+                        $(this).addClass("active");
+                        $(this).find(".nav-list-sub").show();
+                    },
+                    function () {
+                        $(this).removeClass("active");
+                        $(this).find(".nav-list-sub").hide();
+                    }
+                );
+        });
+
+            
+        </script>
+         
+    <!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="index.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/vsbscreen.min.js" id="_vsbscreen" devices="pc|mobile|pad"></script>
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1411843832)</script>
+</head>
+    <body huaban_collector_injected="true">
+        <div id="poor-container" style="position:absolute;z-index:99999">
+
+        </div>
+         
+        <!--start:  wrapper  -->
+        <div class="wrapper">
+            <div class="top">
+                <div class="content-outer"></div>
+            </div>
+
+            <div class="nav">
+                <div class="nav-wrapper">
+                    <div class="nav-content">
+                        <ul class="nav-list cf">
+
+                            <!--#begineditable name="网站导航" viewid="200286" tagname="网站导航" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""-->  <li>
+	<a href="index.htm">首页</a>
+
+</li>
+  <li>
+	<a href="ghgk.htm">工会概况</a>
+	<ul class="nav-list-sub cf" style="left: 0px; display: none;">
+
+<li><a href="ghgk/gkjs.htm">概况介绍</a></li>
+
+<li><a href="ghgk/zzjg.htm">组织机构</a></li>
+
+<li><a href="ghgk/jczz.htm">基层组织</a></li>
+	</ul>
+</li>
+  <li>
+	<a href="jgsz.htm">机构设置</a>
+	<ul class="nav-list-sub cf" style="left: 0px; display: none;">
+
+<li><a href="jgsz/jbqk.htm">基本情况</a></li>
+
+<li><a href="jgsz/gzzz.htm">工作职责</a></li>
+	</ul>
+</li>
+  <li>
+	<a href="mzjs.htm">民主建设</a>
+	<ul class="nav-list-sub cf" style="left: 0px; display: none;">
+
+<li><a href="mzjs/mzqk.htm">民主情况</a></li>
+
+<li><a href="mzjs/lsyg.htm">历史沿革</a></li>
+	</ul>
+</li>
+  <li>
+	<a href="jgfc.htm">教工风采</a>
+	<ul class="nav-list-sub cf" style="left: 0px; display: none;">
+
+<li><a href="jgfc/zthl.htm">专题画廊</a></li>
+
+<li><a href="jgfc/hdjy.htm">活动剪影</a></li>
+
+<li><a href="jgfc/ghyd.htm">工会园地</a></li>
+	</ul>
+</li>
+  <li>
+	<a href="ngyd.htm">女工园地</a>
+	<ul class="nav-list-sub cf" style="left: 0px; display: none;">
+
+<li><a href="ngyd/nzgwyh.htm">女职工委员会</a></li>
+
+<li><a href="ngyd/jgjg.htm">巾帼建功</a></li>
+
+<li><a href="ngyd/jjyd.htm">建家园地</a></li>
+	</ul>
+</li>
+  <li>
+	<a href="zcfg.htm">政策法规</a>
+	<ul class="nav-list-sub cf" style="left: 0px; display: none;">
+
+<li><a href="zcfg/flfg.htm">法律法规</a></li>
+
+<li><a href="zcfg/gzzd.htm">规章制度</a></li>
+
+<li><a href="zcfg/nbgl.htm">内部管理</a></li>
+	</ul>
+</li>
+  <li>
+	<a href="axjj.htm">爱心基金</a>
+	<ul class="nav-list-sub cf" style="left: 0px; display: none;">
+
+<li><a href="axjj/axjz.htm">爱心捐助</a></li>
+
+<li><a href="axjj/zyfw.htm">志愿服务</a></li>
+	</ul>
+</li>
+  <li>
+	<a href="http://mwb.guet.edu.cn">后台管理</a>
+
+</li>
+<!--#endeditable-->
+                             
+                            <div class="sou">
+                               <!--#begineditable name="全文检索" viewid="167300" tagname="全文检索" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--><script type="text/javascript">
+    function _nl_ys_check(){
+        
+        var keyword = document.getElementById('showkeycode167300').value;
+        if(keyword==null||keyword==""){
+            alert("请输入你要检索的内容！");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkeyword167300").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkeyword167300").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkeyword167300").value = base64.encode(document.getElementById("lucenenewssearchkeyword167300").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode167300"));
+        return true;
+    } 
+</script><div id="inav_sou">
+<form action="search.jsp?wbtreeid=1001" method="post" id="au1a" name="au1a" onsubmit="return _nl_ys_check()" style="display: inline">
+ <input type="hidden" id="lucenenewssearchkeyword167300" name="lucenenewssearchkeyword" value=""><input type="hidden" id="_lucenesearchtype167300" name="_lucenesearchtype" value="1"><input type="hidden" id="searchScope167300" name="searchScope" value="0">
+ 
+ <input type="search" name="showkeycode" class="keyword" id="showkeycode167300" placeholder="请输入关键词">
+ <input type="submit" class="soubtn" value="搜索" style="cursor: hand">
+</form></div><script language="javascript" src="/system/resource/js/base64.js"></script><script language="javascript" src="/system/resource/js/formfunc.js"></script>
+<!--#endeditable-->
+                            </div>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+
+
+             
+            <!--修改banner开始-->
+            <div id="certify" style="    height: 460px;">
+            <div class="swiper-container">
+            <div class="swiper-wrapper">
+            <!--#begineditable name="banner图" viewid="200528" tagname="banner图" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""-->    <script language="javascript" src="/system/resource/js/dynclicks.js"></script> 
+      
+ <div class="swiper-slide"><a href=""><img src="images/yiqing1.jpg" width="1380" height="460" /></a><p><a href=""></a></p></div>
+             
+            
+                 
+       
+  
+ <div class="swiper-slide"><a href=""><img src="images/yiqing2.jpg" width="1380" height="460" /></a><p><a href=""></a></p></div>
+             
+            
+                 
+       
+  
+ <div class="swiper-slide"><a href="https://www.guet.edu.cn/gonghui/info/1029/1321.htm"><img src="images/fulifafang1.jpg" width="1380" height="460" /></a><p><a href="https://www.guet.edu.cn/gonghui/info/1029/1321.htm"></a></p></div>
+             
+            
+                 
+       
+  
+ <div class="swiper-slide"><a href="https://www.guet.edu.cn/gonghui/info/1029/1321.htm"><img src="images/fulifafang2.jpg" width="1380" height="460" /></a><p><a href="https://www.guet.edu.cn/gonghui/info/1029/1321.htm"></a></p></div>
+             
+            
+                 
+       
+  
+ <div class="swiper-slide"><a href="https://www.guet.edu.cn/gonghui/info/1029/1321.htm"><img src="images/fulifafang3.jpg" width="1380" height="460" /></a><p><a href="https://www.guet.edu.cn/gonghui/info/1029/1321.htm"></a></p></div>
+             
+            
+                 
+       
+  
+ <div class="swiper-slide"><a href="https://www.guet.edu.cn/gonghui/info/1029/1322.htm"><img src="images/2020yingxin2.jpg" width="1380" height="460" /></a><p><a href="https://www.guet.edu.cn/gonghui/info/1029/1322.htm"></a></p></div>
+             
+            
+                 
+       
+<!--#endeditable-->
+            
+             
+            </div>
+            </div>
+            <div class="swiper-pagination" style="margin-top: -90px;position: relative;  width:500px; float: right; margin-right: 300px;"></div>
+            <div class="swiper-button-prev"></div>
+            <div class="swiper-button-next"></div>
+            </div>
+            <div class="swiper-button-prev-left"></div>
+            <div class="swiper-button-next-right"></div>
+            
+            <!--修改banner结束-->
+          
+
+
+
+            <div class="bbs">
+                <div class="content-inner cf">
+                    <dl class="dl-list" style="margin-right: 24px;">
+                        <dt>
+                                 <h2 class="cf"><a href="https://www.guet.edu.cn/gonghui/index/tzgg.htm" class="m-title">通知公告</a><a href="https://www.guet.edu.cn/gonghui/index/tzgg.htm" class="more">更多</a></h2>
+                        </dt>
+                        <dd class="dd-wrapper">
+                            <!--#begineditable name="通知公告-标题列表" viewid="200289" tagname="通知公告-标题列表" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--><ul>
+         <li class="dd-item cf">
+       <div class="cal">
+            <div class="cal-date">11</div>
+            <div class="cal-year">2020-03</div>
+        </div>
+        <a href="info/1028/1353.htm" target="_blank" style="width: 300px; float: left; *display: inline;">关于开展2020年自治区劳动模范和先进工作者评选推...</a>
+    </li>     <li class="dd-item cf">
+       <div class="cal">
+            <div class="cal-date">26</div>
+            <div class="cal-year">2020-02</div>
+        </div>
+        <a href="info/1028/1332.htm" target="_blank" style="width: 300px; float: left; *display: inline;">【疫情防控】校工会关于做好新冠肺炎防疫防控工作...</a>
+    </li>     <li class="dd-item cf">
+       <div class="cal">
+            <div class="cal-date">27</div>
+            <div class="cal-year">2019-11</div>
+        </div>
+        <a href="info/1028/1296.htm" target="_blank" style="width: 300px; float: left; *display: inline;">2019年桂林电子科技大学“相聚桂电 我在等你”单身...</a>
+    </li>     <li class="dd-item cf">
+       <div class="cal">
+            <div class="cal-date">21</div>
+            <div class="cal-year">2019-11</div>
+        </div>
+        <a href="info/1028/1295.htm" target="_blank" style="width: 300px; float: left; *display: inline;">关于举办2019年桂林电子科技大学教职工乒乓球比赛...</a>
+    </li>     <li class="dd-item cf">
+       <div class="cal">
+            <div class="cal-date">06</div>
+            <div class="cal-year">2019-11</div>
+        </div>
+        <a href="info/1028/1285.htm" target="_blank" style="width: 300px; float: left; *display: inline;">关于重申花江校区教师公寓小区禁止违规装修及乱搭...</a>
+    </li>     <li class="dd-item cf">
+       <div class="cal">
+            <div class="cal-date">27</div>
+            <div class="cal-year">2019-09</div>
+        </div>
+        <a href="info/1028/1252.htm" target="_blank" style="width: 300px; float: left; *display: inline;">桂林电子科技大学“幸福学堂”2019年教职工秋季兴...</a>
+    </li>
+</ul><script>_showDynClickBatch(['dynclicks_u3_1353','dynclicks_u3_1332','dynclicks_u3_1296','dynclicks_u3_1295','dynclicks_u3_1285','dynclicks_u3_1252'],[1353,1332,1296,1295,1285,1252],"wbnews", 1411843832)</script>
+<!--#endeditable-->
+                        </dd>
+                    </dl>
+
+                    <dl class="dl-list" style="margin-right: 24px;">
+                        <dt>
+                            <h2 class="cf"><a href="index/zhxw.htm" class="m-title">综合新闻</a><a href="index/zhxw.htm" class="more">更多</a></h2>
+                        </dt>
+                        <dd class="dd-wrapper">
+                            <!--#begineditable name="综合新闻-标题列表" viewid="200491" tagname="综合新闻-标题列表" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--><ul>
+         <li class="dd-item cf">
+        <div class="cal">
+            <div class="cal-date">14</div>
+            <div class="cal-year">2020-04</div>
+        </div>
+        <a href="info/1029/1361.htm" target="_blank" style="width: 300px; float: left; *display: inline;">校领导实地调研桂电小学筹办情况</a>
+    </li>     <li class="dd-item cf">
+        <div class="cal">
+            <div class="cal-date">11</div>
+            <div class="cal-year">2020-03</div>
+        </div>
+        <a href="info/1029/1344.htm" target="_blank" style="width: 300px; float: left; *display: inline;">校工会组织“三八”妇女节系列活动慰问女教职工</a>
+    </li>     <li class="dd-item cf">
+        <div class="cal">
+            <div class="cal-date">08</div>
+            <div class="cal-year">2020-03</div>
+        </div>
+        <a href="info/1029/1343.htm" target="_blank" style="width: 300px; float: left; *display: inline;">致全校女教职工的一封信</a>
+    </li>     <li class="dd-item cf">
+        <div class="cal">
+            <div class="cal-date">06</div>
+            <div class="cal-year">2020-03</div>
+        </div>
+        <a href="info/1029/1342.htm" target="_blank" style="width: 300px; float: left; *display: inline;">【疫情防控】“抗疫不松劲，战贫不停步”——学校...</a>
+    </li>     <li class="dd-item cf">
+        <div class="cal">
+            <div class="cal-date">26</div>
+            <div class="cal-year">2020-02</div>
+        </div>
+        <a href="info/1029/1333.htm" target="_blank" style="width: 300px; float: left; *display: inline;">【疫情防控】学校全力保障教职工“菜篮子”供应（图）</a>
+    </li>     <li class="dd-item cf">
+        <div class="cal">
+            <div class="cal-date">25</div>
+            <div class="cal-year">2020-02</div>
+        </div>
+        <a href="info/1029/1339.htm" target="_blank" style="width: 300px; float: left; *display: inline;">【疫情防控】校工会慰问后勤处疫情防控一线员工</a>
+    </li>
+</ul><script>_showDynClickBatch(['dynclicks_u4_1361','dynclicks_u4_1344','dynclicks_u4_1343','dynclicks_u4_1342','dynclicks_u4_1333','dynclicks_u4_1339'],[1361,1344,1343,1342,1333,1339],"wbnews", 1411843832)</script>
+<!--#endeditable-->
+                        </dd>
+                         
+                    </dl>
+
+                    <dl class="dl-list">
+                        <dt>
+                            <h2 class="cf"><a href="index/jcdt.htm" class="m-title">基层动态</a><a href="index/jcdt.htm" class="more">更多</a></h2>
+                        </dt>
+                        <dd class="dd-wrapper">
+                            <!--#begineditable name="基层动态-标题列表" viewid="200492" tagname="基层动态-标题列表" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--><ul>
+         <li class="dd-item cf">
+        <div class="cal">
+            <div class="cal-date">09</div>
+            <div class="cal-year">2020-03</div>
+        </div>
+        <a href="info/1030/1345.htm" target="_blank" style="width: 300px; float: left; *display: inline;">计算机与信息安全学院开展“三八”妇女节线上活动</a>
+    </li>     <li class="dd-item cf">
+        <div class="cal">
+            <div class="cal-date">07</div>
+            <div class="cal-year">2020-03</div>
+        </div>
+        <a href="info/1030/1351.htm" target="_blank" style="width: 300px; float: left; *display: inline;">外国语学院开展疫情防控知识线上答题活动</a>
+    </li>     <li class="dd-item cf">
+        <div class="cal">
+            <div class="cal-date">06</div>
+            <div class="cal-year">2020-03</div>
+        </div>
+        <a href="info/1030/1352.htm" target="_blank" style="width: 300px; float: left; *display: inline;">妙笔丹青，以艺战“疫”——艺术与设计学院师生用...</a>
+    </li>     <li class="dd-item cf">
+        <div class="cal">
+            <div class="cal-date">01</div>
+            <div class="cal-year">2020-03</div>
+        </div>
+        <a href="info/1030/1346.htm" target="_blank" style="width: 300px; float: left; *display: inline;">信息与通信学院多举措为返桂教师做好服务</a>
+    </li>     <li class="dd-item cf">
+        <div class="cal">
+            <div class="cal-date">26</div>
+            <div class="cal-year">2020-02</div>
+        </div>
+        <a href="info/1030/1349.htm" target="_blank" style="width: 300px; float: left; *display: inline;">计算机与信息安全学院全力做好开学防疫物资储备工作</a>
+    </li>     <li class="dd-item cf">
+        <div class="cal">
+            <div class="cal-date">25</div>
+            <div class="cal-year">2020-02</div>
+        </div>
+        <a href="info/1030/1348.htm" target="_blank" style="width: 300px; float: left; *display: inline;">机电工程学院多措并举确保疫情期间学院线上教学有...</a>
+    </li>
+</ul><script>_showDynClickBatch(['dynclicks_u5_1345','dynclicks_u5_1351','dynclicks_u5_1352','dynclicks_u5_1346','dynclicks_u5_1349','dynclicks_u5_1348'],[1345,1351,1352,1346,1349,1348],"wbnews", 1411843832)</script>
+<!--#endeditable-->
+                        </dd>
+                         
+
+                    </dl>
+                </div>
+            </div>
+
+
+            <div class="bbs">
+                <div class="content-inner cf">
+                    <dl class="dl-list" style="margin-right: 24px;">
+                        <dt>
+                            <h2 class="cf"><a href="index/bslc.htm" class="m-title">办事流程</a><a href="index/bslc.htm" class="more">更多</a></h2>
+                        </dt>
+                        <!--#begineditable name="办事流程-标题列表" viewid="200291" tagname="办事流程-标题列表" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--> 
+  <dd>
+     <a href="info/1031/1030.htm" target="_blank">办理再生育登记手续登记流程图</a>
+    </dd>
+  <dd>
+     <a href="info/1031/1028.htm" target="_blank">办理生育登记手续登记流程图</a>
+    </dd>
+  <dd>
+     <a href="info/1031/1026.htm" target="_blank">桂林电子科技大学工会慰问教职工指南（2017年修订）</a>
+    </dd>
+  <dd>
+     <a href="info/1031/1025.htm" target="_blank">工会经费使用管理指南</a>
+    </dd>
+  <dd>
+     <a href="info/1031/1024.htm" target="_blank">桂林电子科技大学工会会员入会及会费收取指南</a>
+    </dd>
+  <dd>
+     <a href="info/1031/1023.htm" target="_blank">桂林电子科技大学分工会活动经费预算方案模板</a>
+    </dd>
+<script>_showDynClickBatch(['dynclicks_u6_1030','dynclicks_u6_1028','dynclicks_u6_1026','dynclicks_u6_1025','dynclicks_u6_1024','dynclicks_u6_1023'],[1030,1028,1026,1025,1024,1023],"wbnews", 1411843832)</script>
+<!--#endeditable-->
+
+                    </dl>
+
+                    <dl class="dl-list" style="margin-right: 24px;">
+                        <dt>
+                            <h2 class="cf"><a href="index/xzzx.htm" class="m-title">下载中心</a><a href="index/xzzx.htm" class="more">更多</a></h2>
+                        </dt>
+                        <!--#begineditable name="下载中心-标题列表" viewid="200292" tagname="下载中心-标题列表" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--> 
+
+  <dd>
+     <a href="info/1032/1040.htm" target="_blank">教职工协会管理相关表格</a>
+    </dd>
+
+  <dd>
+     <a href="info/1032/1039.htm" target="_blank">桂林电子科技大学教职工困难补助申请表</a>
+    </dd>
+
+  <dd>
+     <a href="info/1032/1038.htm" target="_blank">桂林电子科技大学工会会员住院慰问费申请表</a>
+    </dd>
+
+  <dd>
+     <a href="info/1032/1037.htm" target="_blank">桂林电子科技大学工会会员丧葬慰问费申请表</a>
+    </dd>
+
+  <dd>
+     <a href="info/1032/1036.htm" target="_blank">工会会员登记表</a>
+    </dd>
+
+  <dd>
+     <a href="info/1032/1035.htm" target="_blank">第十二届“教师杯”男子篮球、女子排球比赛报名表</a>
+    </dd>
+<script>_showDynClickBatch(['dynclicks_u7_1040','dynclicks_u7_1039','dynclicks_u7_1038','dynclicks_u7_1037','dynclicks_u7_1036','dynclicks_u7_1035'],[1040,1039,1038,1037,1036,1035],"wbnews", 1411843832)</script>
+<!--#endeditable-->
+                    </dl>
+
+                    <dl class="dl-list">
+                        <dt>
+                            <h2 class="cf"><a href="javascript:void(0);" class="m-title">校内系统</a><a href="javascript:void(0);" class="more">更多</a></h2>
+                        </dt>
+                        <dd>
+                            <img src="images/xitong_index.jpg" alt="校内系统" border="0" usemap="#Map4">
+
+                            <!--#begineditable name="校内连接-链接列表" viewid="200294" tagname="校内连接-链接列表" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--><script language="javascript" src="/system/resource/js/openlink.js"></script> 
+<map name="Map4" id="Map4">
+        <area href="http://gonghui.guet.edu.cn/tian/loginCAS.aspx" shape="rect" coords="0,0,301,72">
+        <area href="http://gonghui.guet.edu.cn/cp/" shape="rect" coords="9,81,301,144">
+        <area href="#" shape="rect" coords="9,153,301,216">
+        <area href="mailto:gonghui@guet.edu.cn" shape="rect" coords="9,225,301,288">
+        </map>
+      
+<!--#endeditable-->
+
+                        </dd>
+                    </dl>
+                </div>
+
+            </div>
+
+
+            <!--star:  footer  -->
+            <div class="footer">
+                <div class="footer-top">
+                    <div class="footer_top">
+                        <div class="link_tit">
+                            友情链接</div>
+                        <div class="link">
+                            <!--#begineditable name="友情链接-链接列表" viewid="200293" tagname="友情链接-链接列表" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--><ul>
+        <li>
+        <a href="http://www.gliet.edu.cn/" target="_blank">桂林电子科技大学</a>
+    </li>
+    <li>
+        <a href="http://www.acftu.org/template/10041/index.jsp" target="_blank">中国教科文卫体工会</a>
+    </li>
+    <li>
+        <a href="http://www.gxftu.org/" target="_blank">广西总工会</a>
+    </li>
+    <li>
+        <a href="http://www.glgh.org/" target="_blank">桂林总工会</a>
+    </li>
+    <li>
+        <a href="http://ghxt.cic.tsinghua.edu.cn/ghxt_web/" target="_blank">清华大学工会</a>
+    </li>
+    <li>
+        <a href="http://gh.cumt.edu.cn/main.htm" target="_blank">北京大学工会</a>
+    </li>
+    <li>
+        <a href="http://xgh.scu.edu.cn/" target="_blank">四川大学工会</a>
+    </li>
+    <li>
+        <a href="http://zdgh.zju.edu.cn/" target="_blank">浙江大学工会</a>
+    </li>
+    <li>
+        <a href="http://www.gh.uestc.edu.cn/eWeb/xWeb/Default.aspx" target="_blank">电子科技大学工会</a>
+    </li>
+    <li>
+        <a href="https://www.xidian.edu.cn/index.htm" target="_blank">西安电子科技大学工会</a>
+    </li>
+    <li>
+        <a href="http://teachhome.hdu.edu.cn/" target="_blank">杭州电子科技大学工会</a>
+    </li>
+     
+</ul><!--#endeditable-->
+                        </div>
+                    </div>
+                    <div class="content-inner cf">
+                        <img src="images/foot-logo.png" alt="桂林电子科技大学工会委员会" width="400" class="footer-logo">
+
+                        <div class="footer-top-content">
+                            <!--#begineditable name="版权" viewid="200296" tagname="版权" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--><!-- 版权内容请在本组件"内容配置-版权"处填写 -->
+<p>Copyright@2017　</p><p>桂林电子科技大学工会委员会 地址：广西桂林市七星区金鸡路1号　</p><p>电话：0773-2290831　 传真：0773-2290831　　 邮编：541004　　 邮箱：gonghui@guet.edu.cn</p><p><br /></p><!--#endeditable-->
+                        </div>
+                    </div>
+                </div>
+
+                <div class="footer-bottom"><!--#begineditable name="技术支持" viewid="200527" tagname="技术支持" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--><!-- 版权内容请在本组件"内容配置-版权"处填写 -->
+版权所有：桂林电子科技大学工会委员会 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       技术支持：桂林启智科技
+<!--#endeditable--></div>
+            </div>
+            <!--end:  footer  -->
+
+        </div>
+        <!--end:  wrapper  -->
+
+       <script src="layui/layui.js" charset="utf-8"></script>        
+        <!-- 注意：如果你直接复制所有代码到本地，上述js路径需要改成你本地的 -->
+<script>
+layui.use(['carousel', 'form'], function(){
+  var carousel = layui.carousel
+  ,form = layui.form;
+  
+  
+  //图片轮播
+  carousel.render({
+    elem: '#test10'
+    ,width: '1210px'
+    ,height: '440px'
+    ,interval: 3000
+  });
+  
+  //事件
+  carousel.on('change(test4)', function(res){
+    console.log(res)
+  });
+  
+  var $ = layui.$, active = {
+    set: function(othis){
+      var THIS = 'layui-bg-normal'
+      ,key = othis.data('key')
+      ,options = {};
+      
+      othis.css('background-color', '#5FB878').siblings().removeAttr('style'); 
+      options[key] = othis.data('value');
+      ins3.reload(options);
+    }
+  };
+  
+  //监听开关
+  form.on('switch(autoplay)', function(){
+    ins3.reload({
+      autoplay: this.checked
+    });
+  });
+  
+  $('.demoSet').on('keyup', function(){
+    var value = this.value
+    ,options = {};
+    if(!/^\d+$/.test(value)) return;
+    
+    options[this.name] = value;
+    ins3.reload(options);
+  });
+  
+  //其它示例
+  $('.demoTest .layui-btn').on('click', function(){
+    var othis = $(this), type = othis.data('type');
+    active[type] ? active[type].call(this, othis) : '';
+  });
+});
+</script> 
+      
+<script>
+certifySwiper = new Swiper('#certify .swiper-container', {
+    watchSlidesProgress: true,
+    slidesPerView: 'auto',
+    centeredSlides: true,
+    loop: true,
+    loopedSlides: 5,
+    autoplay: 3000,
+    prevButton: '.swiper-button-prev',
+    nextButton: '.swiper-button-next',
+    pagination: '.swiper-pagination',
+    //paginationClickable :true,
+    onProgress: function(swiper, progress) {
+        for (i = 0; i < swiper.slides.length; i++) {
+            var slide = swiper.slides.eq(i);
+            var slideProgress = swiper.slides[i].progress;
+            modify = 1;
+            if (Math.abs(slideProgress) > 1) {
+                modify = (Math.abs(slideProgress) - 1) * 0.3 + 1;
+            }
+            translate = slideProgress * modify * 160 + 'px';
+            scale = 1 - Math.abs(slideProgress) / 5;
+            zIndex = 999 - Math.abs(Math.round(10 * slideProgress));
+            slide.transform('translateX(' + translate + ') scale(' + scale + ')');
+            slide.css('zIndex', zIndex);
+            slide.css('opacity', 1);
+            if (Math.abs(slideProgress) > 3) {
+                slide.css('opacity', 0);
+            }
+        }
+    },
+    onSetTransition: function(swiper, transition) {
+        for (var i = 0; i < swiper.slides.length; i++) {
+            var slide = swiper.slides.eq(i)
+            slide.transition(transition);
+        }
+
+    },
+    //处理分页器bug
+    onSlideChangeStart: function(swiper) {
+        if (swiper.activeIndex == 4) {
+            swiper.bullets.eq(9).addClass('swiper-pagination-bullet-active');
+            console.log(swiper.bullets.length);
+        }
+    }
+});</script>   
+</body>
+</html>
+
+
+ 

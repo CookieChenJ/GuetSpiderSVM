@@ -1,0 +1,702 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html><head><title>广西自动检测技术与仪器重点实验室</title><META Name="keywords" Content="广西自动检测技术与仪器重点实验室" />
+
+
+
+
+
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+<style>
+body {
+  margin-left: 0px;
+ margin-top: 0px;
+ margin-right: 0px;
+ margin-bottom: 0px;}
+table{font-family:"宋体"; font-size:12px;}
+a:link{text-decoration:none;}
+a:visited{text-decoration:none;}
+.style1{font-size:14px; font-weight:bold; color:#214ca8;}
+.style2{font-size:14px; font-weight:bold; color:#ffffff;}
+.style3{font-size:12px; font-weight:bold; color:#0135a2;}
+.style4{font-size:12px; color:#1e64c2;}
+.style5{font-size:12px; font-weight:bold; color:#040404;}
+</style>
+
+
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="index.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1411891385)</script>
+</head>
+<body>
+<table border="0" cellspacing="0" cellpadding="0" width="1000" background="images/topbannerbg.jpg" align="center" height="147">
+<tbody>
+<tr>
+<td width="500" style="padding-left:50px"><!--#begineditable name="logo" viewid="202104" tagname="logo"-->
+<table border="0" cellspacing="0" cellpadding="0"><tr><td><img src="images/Logo_head.png" width="550" height="135" border="0" alt="广西自动检测技术与仪器重点实验室" title="广西自动检测技术与仪器重点实验室"></td></tr></table><!--#endeditable--></td>
+<td valign="top" width="500" align="right">
+<table border="0" cellspacing="0" cellpadding="0" width="200" height="28">
+<tbody>
+<tr>
+<td>
+<p align="center"><!--#begineditable name="主页|收藏" viewid="202122" tagname="主页|收藏"--><script language="javascript">
+function dosuba202122a()
+{
+    try{
+		var ua = navigator.userAgent.toLowerCase();
+		if(ua.indexOf("msie 8")>-1)
+		{
+			window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE8
+		}else if(ua.toLowerCase().indexOf("rv:")>-1)
+        {
+            window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE11+
+        }else{
+			if (document.all) 
+			{
+				window.external.addFavorite(document.location.href, document.title);
+			}else if(window.sidebar)
+			{
+				window.sidebar.addPanel( document.title, document.location.href, "");//firefox
+			}
+			else
+			{
+				alert(hotKeysa202122a());
+			}
+		}
+
+    }
+    catch (e){alert("无法自动添加到收藏夹，请使用 Ctrl + d 手动添加");}
+}
+function hotKeysa202122a() 
+{
+	var ua = navigator.userAgent.toLowerCase(); 
+	var str = "";    
+	var isWebkit = (ua.indexOf('webkit') != - 1); 
+	var isMac = (ua.indexOf('mac') != - 1);     
+	if (ua.indexOf('konqueror') != - 1) 
+	{  
+		str = 'CTRL + B'; // Konqueror   
+	} 
+	else if (window.home || isWebkit || isMac) 
+	{        
+		str = (isMac ? 'Command/Cmd' : 'CTRL') + ' + D'; // Netscape, Safari, iCab, IE5/Mac   
+	}
+	return ((str) ? '无法自动添加到收藏夹，请使用' + str + '手动添加' : str);
+}
+function setHomepagea202122a()
+{
+	var url = document.location.href;
+    if (document.all)
+    {
+        document.body.style.behavior='url(#default#homepage)';
+        document.body.setHomePage(url);
+    }
+    else if (window.sidebar)
+    {
+        if(window.netscape)
+        {
+             try{
+                  netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+             }catch (e){
+                   alert("该操作被浏览器拒绝，如果想启用该功能，请在地址栏内输入 about:config,然后将项 signed.applets.codebase_principal_support 值该为true");
+             }
+    	}
+	var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components. interfaces.nsIPrefBranch);
+	prefs.setCharPref('browser.startup.homepage',url);
+	}
+	else
+	{
+		alert("浏览器不支持自动设为首页，请手动设置");
+	}
+}
+</script><table><tr><td style="font-size:9pt"><A href="javascript:setHomepagea202122a()"><span class="font202122">设为首页</span></A>&nbsp;<span class="splitcharstyle202122"> | </span>&nbsp;<A onclick="javascript:dosuba202122a();" href="#"><span class="font202122">加入收藏</span></A></td></tr></table><!--#endeditable--></p></td></tr></tbody></table></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0" width="1000" align="center" style="margin-top: 1px">
+<tbody>
+<tr>
+<td width="35"><img src="images/dhbg1.gif" width="35" height="52"></td>
+<td width="930" align="center" style="background-image: url(images/dhbg2.gif)"><!--#begineditable name="网站导航" viewid="202105" tagname="网站导航"--><style type="text/css">
+td.b1_2_{FONT-SIZE:9pt;}
+td.b2_2_{FONT-SIZE:9pt;}
+td.b3_2_{FONT-SIZE:9pt;background-color: #4b64de;font-family: 宋体;font-size: 12pt;line-height: 200%;}
+td.b4_2_{FONT-SIZE:9pt;background-color: #e8f0fb;font-family: 宋体;font-size: 12pt;line-height: 200%;}
+a.menu0_2_:link {TEXT-DECORATION: none;};
+a.menu0_2_:visited { TEXT-DECORATION: none;};
+a.menu0_2_:hover {TEXT-DECORATION: none;};
+a.menu0_2_:active {TEXT-DECORATION: none;};
+table.tb1_2_{FONT-SIZE:9pt;border:0;}
+span.s1_2_{FONT-WEIGHT: bold;FONT-SIZE: 11pt;COLOR: #ffffff;FONT-FAMILY: 宋体;}
+span.s2_2_{font-family: 宋体;font-size: 12pt;color: #cc0000;line-height: 200%;}
+span.s10_2_{FONT-WEIGHT: bold;FONT-SIZE: 11pt;COLOR: #ffffff;FONT-FAMILY: 宋体;}
+span.s20_2_{font-size: 12pt;color: #222222;line-height: 200%;}
+</style>
+<SCRIPT language="javascript"> 
+ var showfix_2_ = 1;
+ var isvertical_2_ = false;
+</SCRIPT>
+<script language="javascript" src="/system/resource/js/menu/text.js"></script>
+<TABLE id="t1_2_" cellSpacing="0" cellPadding="0" border="0" height="0" width="850"><TR><TD valign="center"></TD><TD valign="middle" height="0" width="0" nowrap class="b1_2_" align="center" id="a_2_1001" onmouseover="tshowLayers('1001','b2_2_', '_2_')" onmouseout="thideLayers('1001','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="index.htm"><span class="fontstyle202105">&nbsp;首页&nbsp;</span></a></TD><TD valign="center" class="leaderfont202105"><img src="images/dhfgf.gif" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1002" onmouseover="tshowLayers('1002','b2_2_', '_2_')" onmouseout="thideLayers('1002','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="sysjs.htm"><span class="fontstyle202105">&nbsp;实验室介绍&nbsp;</span></a></TD><TD valign="center" class="leaderfont202105"><img src="images/dhfgf.gif" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1003" onmouseover="tshowLayers('1003','b2_2_', '_2_')" onmouseout="thideLayers('1003','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="zzjg.htm"><span class="fontstyle202105">&nbsp;组织机构&nbsp;</span></a></TD><TD valign="center" class="leaderfont202105"><img src="images/dhfgf.gif" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1004" onmouseover="tshowLayers('1004','b2_2_', '_2_')" onmouseout="thideLayers('1004','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="yjdw.htm"><span class="fontstyle202105">&nbsp;研究队伍&nbsp;</span></a></TD><TD valign="center" class="leaderfont202105"><img src="images/dhfgf.gif" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1006" onmouseover="tshowLayers('1006','b2_2_', '_2_')" onmouseout="thideLayers('1006','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="list1.jsp?urltype=tree.TreeTempUrl&wbtreeid=1007"><span class="fontstyle202105">&nbsp;科学研究&nbsp;</span></a></TD><TD valign="center" class="leaderfont202105"><img src="images/dhfgf.gif" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1005" onmouseover="tshowLayers('1005','b2_2_', '_2_')" onmouseout="thideLayers('1005','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="kyptysb.htm"><span class="fontstyle202105">&nbsp;科研平台与设备&nbsp;</span></a></TD><TD valign="center" class="leaderfont202105"><img src="images/dhfgf.gif" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1009" onmouseover="tshowLayers('1009','b2_2_', '_2_')" onmouseout="thideLayers('1009','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="list1.jsp?urltype=tree.TreeTempUrl&wbtreeid=1009"><span class="fontstyle202105">&nbsp;开放课题&nbsp;</span></a></TD><TD valign="center" class="leaderfont202105"><img src="images/dhfgf.gif" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1010" onmouseover="tshowLayers('1010','b2_2_', '_2_')" onmouseout="thideLayers('1010','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="xsjl.htm"><span class="fontstyle202105">&nbsp;学术交流&nbsp;</span></a></TD></TR></TR><TR><td align="left" nowrap></td><td></td><td align="left" nowrap></td><td></td><td align="left" nowrap></td><td></td><td align="left" nowrap></td><td></td><td align="left" nowrap><DIV class="main_2_" id="layer_2_1006" onmouseover="tshownull('1006','b2_2_', '_2_')" onmouseout="thideLayers('1006','b1_2_', '_2_','true')" style="z-index:99999;display: none; POSITION: absolute;"><TABLE align="center" class="tb1_2_" cellSpacing="0" cellPadding="0" border="0"><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_2_', '_2_');" onmouseout="TOUT(this,'b3_2_', '_2_');" class="b3_2_">
+<A class="menu0_2_" href="list1.jsp?urltype=tree.TreeTempUrl&wbtreeid=1007"><span class="ejfontstyle202105">&nbsp;研究方向&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_2_', '_2_');" onmouseout="TOUT(this,'b3_2_', '_2_');" class="b3_2_">
+<A class="menu0_2_" href="list1.jsp?urltype=tree.TreeTempUrl&wbtreeid=1008"><span class="ejfontstyle202105">&nbsp;科研项目&nbsp;</span></a></TD></tr></table></div></td><td></td><td align="left" nowrap></td><td></td><td align="left" nowrap><DIV class="main_2_" id="layer_2_1009" onmouseover="tshownull('1009','b2_2_', '_2_')" onmouseout="thideLayers('1009','b1_2_', '_2_','true')" style="z-index:99999;display: none; POSITION: absolute;"><TABLE align="center" class="tb1_2_" cellSpacing="0" cellPadding="0" border="0"><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_2_', '_2_');" onmouseout="TOUT(this,'b3_2_', '_2_');" class="b3_2_">
+<A class="menu0_2_" href="list1.jsp?urltype=tree.TreeTempUrl&wbtreeid=1009"><span class="ejfontstyle202105">&nbsp;开放课题&nbsp;</span></a></TD></tr></table></div></td><td></td><td align="left" nowrap></td><td></td></TR></table><!--#endeditable--></td>
+<td width="35"><img src="images/dhbg4.gif" width="35" height="52"></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0" width="1000" align="center" height="243" style="margin-top: 9px">
+<tbody>
+<tr>
+<td width="293" style="padding-left: 10px">
+<table border="0" cellspacing="0" cellpadding="0" width="293" align="right" height="243">
+<tbody>
+<tr>
+<td bgcolor="#eeeeee" valign="middle" align="center"><!--#begineditable name="校园风光_变换图片文章" viewid="202106" tagname="校园风光_变换图片文章"-->
+<LINK href="/system/resource/style/component/news/list/imagechangenews.css" type="text/css" rel="stylesheet">
+<script language="javascript" src="/system/resource/js/news/imagechangenews.js"></script><script language="JavaScript">
+var u_u3_icn = new ImageChangeNews("u_u3_", 280, 210, 4, 2.0, true, false, false, true);
+
+//初始化图片, 并启动定时
+function u_u3_init_img()
+{
+
+    u_u3_icn.addimg("\/__local\/2\/AC\/C8\/45B2F012B8B91366ED0DA12CB1C_927F23CC_5C7E.jpg", "info\/1007\/1021.htm", "研究方向", "");
+
+    u_u3_icn.changeimg(0);
+}
+</script><table cellspacing="0" cellpadding="0" border="0" style="padding:0px margin:0px; border:0px">
+    <tr><td>
+        <div style="OVERFLOW: hidden;height:210px;width:280px">
+            <div id="u_u3_div" align="center" style="padding:0px;margin:0px;border:0px solid black;background-color:#000000;FILTER: progid:DXImageTransform.Microsoft.RevealTrans (duration=2.0,transition=23);height:210px;width:280px">
+                <div id="u_u3_imgdiv" style="padding:0px;border:0px;"><a id="u_u3_url" target="_blank"><img id="u_u3_pic" border="0" width="280" height="210" src="/system/resource/images/space.gif"></a></div>
+            </div>
+            <div style="filter:alpha(style=1,opacity=10,finishOpacity=80);width:280px;height:19px;text-align:right;top:-19px;position:relative;padding:0px;margin:0px;border:0px;">
+<a href="javascript:u_u3_icn.changeimg(0)" ; id="u_u3_selectNode0" class="imagechangenews_pnode" target="_self">1</a>
+            </div></div></td></tr>
+       
+    <tr><td height="25">
+        <div align="center" style="overflow:hidden;text-overflow:ellipsis;height:25px;width:280px;"><a target="_blank" class="titlestyle202106" id="u_u3_newstitle"></a></div>
+    </td></tr>
+<div align="left" display="none" style="overflow:hidden;text-overflow:ellipsis;height:0px;width:280px;padding-left:2px;padding-right:2px"><a target="_blank" class="summarystyle202106" id="u_u3_newssummary"></a></div>   
+</table><SCRIPT language="JavaScript">u_u3_init_img();</SCRIPT><!--#endeditable--></td></tr></tbody></table></td>
+<td valign="top" width="459" style="padding-left: 11px;padding-right: 11px">
+<table border="0" cellspacing="0" cellpadding="0" width="457" height="243">
+<tbody>
+<tr>
+<td class="style1" height="28" background="images/jj1.gif" width="388" style="padding-left: 10px">实验室介绍</td>
+<td><a href="sysjs.htm" target="_blank"><img border="0" src="images/jj2.gif" width="59" height="28"></a></td></tr>
+<tr>
+<td height="209" valign="top" colspan="2" style="padding-left: 7px;width: 430px;font-family: '宋体';padding-top: 5px"><!--#begineditable name="实验室介绍" viewid="202107" tagname="实验室介绍"--><script language="javascript" src="/system/resource/js/news/mp4video.js"></script><table class="winstyle202107" width="100%">
+    <tr>
+        <td><p style="margin-bottom: 0px; margin-top: 0px; text-align: justify; text-justify: inter-ideograph; line-height: 2; text-indent: 2em"><span style="font-size: 12px; font-family: 宋体,SimSun; text-size-adjust: none"></span></p> 
+<p style="text-align: justify; line-height: 1.5em; text-indent: 2em;"><span style="font-family: arial, helvetica, sans-serif; font-size: 14px;">广西自动检测技术与仪器重点实验室成立于2013年，本实验室起源于1987年建立的CAT研究室和机电仪研究室，2001年开始建设，2005年被评为广西高校重点实验室的虚拟仪器技术实验室。</span><span style="font-family: arial, helvetica, sans-serif; font-size: 14px; text-indent: 2em;">目前本实验室依托“仪器科学与技术”广西高校重点学科，以“虚拟仪器技术”、“智能综合自动化”广西高校重点实验室为基础，以“精密仪器及机械”、“测试计量技术及仪器”、“控制理论与控制工程”、“检测技术与自动化装置”、“光学工程”等硕士点为支撑，主要研究方向包括智能仪器与系统、可测性设计与故障诊断、光电测试技术与信息处理，主要从事自动测试总线与系统、虚拟仪器技术、可测性技术、过程控制与检测、智能仪器、集成电路测试、光电检测与信息处理技术等领域的应用基础和应用研究，其中自动测试总线与系统、虚拟仪器技术、可测性技术中的边界扫描技术的研究处于国内领先水平&nbsp;</span><span style="font-family: 宋体, SimSun; font-size: 12px; text-indent: 2em;">……</span></p></td>
+    </tr>
+</table><!--#endeditable--></td></tr>
+<tr>
+<td colspan="2"><img src="images/jj3.gif" width="457" height="6"></td></tr></tbody></table></td>
+<td bgcolor="#d4d3d3" valign="top" width="210" align="center">
+<table border="0" cellspacing="0" cellpadding="0" width="199">
+<tbody>
+<tr>
+<td class="style1" height="48" background="images/gg1.gif" style="padding-right: 80px">通知公告</td></tr>
+<tr>
+<td height="192" align="left" style="background-image: url(images/gg2.gif);padding-left: 0px;background-repeat: repeat-y"><!--#begineditable name="通知公告" viewid="202108" tagname="通知公告"-->
+<DIV id="scrollupjsu5js" style="OVERFLOW: hidden; WIDTH: 200px; HEIGHT: 180px">
+    <DIV id="scrollup1jsu5js"><BR>
+        <table>
+        
+            <tr>
+                <td><span class="leaderfont202108">·</span></td>
+                <td style="font-size:9pt">
+                    
+                    <a href="info/1011/1023.htm" title="关于召开广西自动检测技术与仪器重点实验室学术研讨会的通知" target="_blank">
+                    <span class="titlestyle202108">关于召开广西自动检测技术与仪器重点实验室学术研讨会的通知</span></a>
+                    
+                    <span class="timestyle202108"></span>
+                    <span></span>
+                </td>
+                <td width="1" style="padding:0px;border:0px;visibility:hidden"><span class="titlestyle202108" style="width:1px"></span></td>
+                </tr>
+        
+        </table>
+    </DIV>
+    <DIV id="scrollup2jsu5js"></DIV>
+</DIV>
+<SCRIPT> 
+    function scrollupMarqueejsu5js()
+    { 
+        try
+        {
+            var scrollup = document.getElementById("scrollupjsu5js");
+            var scrollup1 = document.getElementById("scrollup1jsu5js");
+    
+            //滚动到头继续滚
+            if(scrollup.scrollTop + scrollup.clientHeight == scrollup.scrollHeight)
+            {
+                scrollup.scrollTop-=scrollup1.clientHeight-1; 
+            }
+            else
+            {
+                scrollup.scrollTop++;
+            }
+            
+        } 
+        catch(e)
+        {
+        }
+    } 
+    var scrollupMyMarjsu5js;
+    function scrollupfunjsu5js()
+    {
+        var speed = 100; 
+        var scrollup = document.getElementById("scrollupjsu5js");
+        var scrollup1 = document.getElementById("scrollup1jsu5js");
+        var scrollup2 = document.getElementById("scrollup2jsu5js");
+        
+        scrollup2.innerHTML=scrollup1.innerHTML;
+        
+        if(scrollup1.scrollHeight == 0 || scrollup1.scrollHeight < 180)
+        {
+            scrollup1.style.height="180px";
+        }
+        else
+        {
+            scrollup1.style.height=scrollup1.scrollHeight + "px";
+        }
+
+        if(scrollup2.scrollHeight == 0 || scrollup2.scrollHeight < 180)
+        {
+            scrollup2.style.height="180px";
+        }
+        else
+        {
+            scrollup2.style.height=scrollup2.scrollHeight + "px";
+        }
+    
+        scrollupMyMarjsu5js=setInterval(scrollupMarqueejsu5js,speed); 
+        scrollup.onmouseover=function() {clearInterval(scrollupMyMarjsu5js)} 
+        scrollup.onmouseout=function() {scrollupMyMarjsu5js=setInterval(scrollupMarqueejsu5js,speed)} 
+    }
+    window.setTimeout(scrollupfunjsu5js, 0);
+</SCRIPT><!--#endeditable--></td></tr></tbody></table></td>
+<td width="9"></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0" width="1000" align="center" style="margin-top: 11px">
+<tbody>
+<tr>
+<td rowspan="3" width="10"></td>
+<td height="33" width="691">
+<table border="0" cellspacing="0" cellpadding="0" width="691">
+<tbody>
+<tr>
+<td class="style2" height="33" background="images/gk1.gif" width="102" style="padding-left: 19px;background-repeat: no-repeat">科研概况</td>
+<td background="images/gk2.gif" width="565"></td>
+<td width="5" align="right"><img src="images/gk3.gif" width="5" height="33"></td></tr></tbody></table></td>
+<td valign="top" rowspan="3" width="288" align="right">
+<table border="0" cellspacing="0" cellpadding="0" width="278">
+<tbody>
+<tr>
+<td width="22"><img src="images/dt1.gif" width="22" height="28"></td>
+<td class="style5" background="images/dt2.gif" width="251" align="left">新闻动态</td>
+<td width="5" align="right"><img src="images/dt3.gif" width="5" height="28"></td></tr>
+<tr>
+<td height="178" valign="top" background="images/dt4.gif" colspan="3" align="left" style="border-bottom-color: #e6e6e6;border-right-width: 1px;padding-left: 10px;border-bottom-width: 1px;border-right-color: #e6e6e6;border-left-color: #e6e6e6;border-left-width: 1px">
+<p align="left"><!--#begineditable name="新闻动态" viewid="202109" tagname="新闻动态"--><table width="100%" cellspacing="3" cellpadding="0">
+  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202109"><img src="images/ico.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1012/1056.htm" class="c202109" title="关于组织申报2020年度广西自动检测技术与仪器重点实验室主任基金与开放基金项目的通知" target="_blank">
+        <span style="color:#fc0505;">关于组织申报2020年度广西自动检测技术与仪器重点实验室主任基金与开放基金项目的通知</span>
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202109" width="1%" nowrap></td></tr><tr><td colspan="4" height="1" style="background-image:url(images/fgxian.gif)"></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202109"><img src="images/ico.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1012/1057.htm" class="c202109" title="关于组织广西自动检测技术与仪器重点实验室基金项目结题的通知" target="_blank">
+        <span style="color:#ff0000;">关于组织广西自动检测技术与仪器重点实验室基金项目结题的通知</span>
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202109" width="1%" nowrap></td></tr><tr><td colspan="4" height="1" style="background-image:url(images/fgxian.gif)"></td></tr>
+</table><!--#endeditable--></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0" width="278" bgcolor="#e6ecf8" height="34" style="border-bottom: #bec8dd 1px solid;border-left: #bec8dd 1px solid;margin-top: 10px;border-top: #bec8dd 1px solid;border-right: #bec8dd 1px solid">
+<tbody>
+<tr>
+<td>
+<p class="style3" align="center">友情链接：</p></td>
+<td>
+<p align="left"><!--#begineditable name="友情链接" viewid="202110" tagname="友情链接"-->    
+    
+    
+    
+  
+<script language="javascript" src="/system/resource/js/dynclicks.js"></script>
+    
+<script language="javascript">    
+<!--    
+    function doLinksu7(o)    
+    {    
+        var link=document.getElementsByName("su7")[0];    
+        var index=link.selectedIndex;    
+        if (index==-1 || index>=link.options.length)    
+        {    
+          return;    
+        }    
+        var value = link.options[index].value;    
+        var obj = document.getElementById("hu7");    
+        obj.href = value;
+        var wburlid =link.options[index].getAttribute("aa202110aa");
+        _addDynClicks('wburl',1411891385,wburlid)
+            
+                     obj.target = "_blank"
+                    
+         if(document.all){
+          obj.click();     
+        }         
+         else 
+        { 
+          window.open(value);
+         }
+       
+       if(o.selectedIndex != 0)    
+       {    
+           o.selectedIndex = 0;    
+       }    
+    }    
+-->    
+</script>  
+<table>    
+    <tr><td align="center">    
+            <span class="titlestyle202110"></span> <a id="hu7"></a>    
+            <select name="su7" class="selectstyle202110" onChange="doLinksu7(this)">    
+                <option value="">=&nbsp;=&nbsp;=&nbsp;=友情链接=&nbsp;=&nbsp;=&nbsp;=</option>    
+                <option vsbhrefname="value" aa202110aa="39183" value="http://www.guet.edu.cn">桂林电子科技大学    
+                <option vsbhrefname="value" aa202110aa="39184" value="https://www.guet.edu.cn/dept8/">电子工程与自动化学院    
+                <option vsbhrefname="value" aa202110aa="39185" value="https://www.guet.edu.cn/lib/">图书馆    
+                </select>    
+        </td><tr></table><!--#endeditable--></p></td></tr></tbody></table></td>
+<td rowspan="3" width="9"></td></tr>
+<tr>
+<td valign="top" width="691" align="right">
+<table border="0" cellspacing="0" cellpadding="0" width="686" style="border-left: #acbee6 1px solid;border-right: #acbee6 1px solid">
+<tbody>
+<tr>
+<td width="342" align="center" style="padding-top: 11px">
+<table border="0" cellspacing="0" cellpadding="0" width="320">
+<tbody>
+<tr>
+<td class="style3" bgcolor="#e6ecf8" height="21" width="70" style="padding-left: 15px">研究方向</td>
+<td class="style4" bgcolor="#e6ecf8" align="right" style="padding-right: 15px"><a href="list1.jsp?urltype=tree.TreeTempUrl&wbtreeid=1007" target="_blank"><font color="#1e64c2">更多&gt;&gt;</font></a></td></tr>
+<tr>
+<td height="102" colspan="2"><!--#begineditable name="研究方向" viewid="202111" tagname="研究方向"--><table width="100%" cellspacing="3" cellpadding="0">
+  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202111">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1007/1021.htm" class="c202111" title="研究方向" target="_blank">
+        研究方向
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202111" width="1%" nowrap>(2019-09-02)</td></tr><tr><td colspan="4" height="1" style="background-image:url(images/fgpoint.gif)"></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202111">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1007/1049.htm" class="c202111" title="本实验室的主要仪器设备清单" target="_blank">
+        本实验室的主要仪器设备清单
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202111" width="1%" nowrap>(2019-09-03)</td></tr><tr><td colspan="4" height="1" style="background-image:url(images/fgpoint.gif)"></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202111">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1007/1048.htm" class="c202111" title="科研团队" target="_blank">
+        科研团队
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202111" width="1%" nowrap>(2019-08-28)</td></tr><tr><td colspan="4" height="1" style="background-image:url(images/fgpoint.gif)"></td></tr>
+</table><!--#endeditable--></td></tr></tbody></table></td>
+<td valign="top" align="center" style="padding-top: 11px">
+<table border="0" cellspacing="0" cellpadding="0" width="320">
+<tbody>
+<tr>
+<td class="style3" bgcolor="#e6ecf8" height="21" width="70" style="padding-left: 15px">研究课题</td>
+<td class="style4" bgcolor="#e6ecf8" align="right" style="padding-right: 15px"><a href="list1.jsp?urltype=tree.TreeTempUrl&wbtreeid=1008" target="_blank"><font color="#1e64c2">更多&gt;&gt;</font></a></td></tr>
+<tr>
+<td height="102" valign="top" colspan="2" align="left"><!--#begineditable name="研究课题" viewid="202112" tagname="研究课题"--><table width="100%" cellspacing="3" cellpadding="0">
+  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202112">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1008/1022.htm" class="c202112" title="科研成果" target="_blank">
+        科研成果
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202112" width="1%" nowrap>(2019-09-02)</td></tr><tr><td colspan="4" height="1" style="background-image:url(images/fgpoint.gif)"></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202112">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1008/1015.htm" class="c202112" title="实验室承担的重要科研项目" target="_blank">
+        实验室承担的重要科研项目
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202112" width="1%" nowrap>(2019-08-28)</td></tr><tr><td colspan="4" height="1" style="background-image:url(images/fgpoint.gif)"></td></tr>
+</table><!--#endeditable--></td></tr></tbody></table></td></tr></tbody></table></td></tr>
+<tr>
+<td valign="top" align="right">
+<table border="0" cellspacing="0" cellpadding="0" width="686" height="86" style="border-bottom: #acbee6 1px solid;border-left: #acbee6 1px solid;border-right: #acbee6 1px solid">
+<tbody>
+<tr>
+<td width="40" align="center">
+<table border="0" cellspacing="0" cellpadding="0" width="23" bgcolor="#e6ecf8" height="76">
+<tbody>
+<tr>
+<td class="style3" align="center">科研基地</td></tr></tbody></table></td>
+<td>
+<p align="left"><!--#begineditable name="科研基地" viewid="202113" tagname="科研基地"--><script language="javascript" src="/system/resource/js/vsbpreloadimg.js"></script>
+<TABLE width="620" cellSpacing="0" cellPadding="0" align="center" border="0"> 
+    <TR><TD>
+        <DIV id="u_u10_demo" style="OVERFLOW:hidden;WIDTH:620px;COLOR:#ffffff"><TABLE cellSpacing="0" cellPadding="0" border="0">
+                <TR><TD id="u_u10_demo1" vAlign="top" width="620"><table border="0" cellpadding="0" cellspacing="0" width="620">
+                        <tr>
+
+                            <td valign="top" align="center" style="padding-left:2px;padding-right:3px"><div style="padding: 0px; width:100px"><table cellpadding="0" cellspacing="0" style="border:1px solid #999999;">
+                                    <tr><td width="100" height="70" valign="middle" align="center"><a href="images/KYJD/_DSC0699.jpg" onclick="_addDynClicks('wbimage',1411891385,10894)"><img name="u_u10_img" border="0" src="/system/resource/images/loading.gif" alt="" title="" hspace="0" vspace="0"></a></td></tr>
+                                </table></div><div style="padding-top:1px;padding-bottom:1px">
+                            <span class="titlestyle202113"></span>
+                            
+
+                          </div></td>
+                            <td valign="top" align="center" style="padding-left:2px;padding-right:3px"><div style="padding: 0px; width:100px"><table cellpadding="0" cellspacing="0" style="border:1px solid #999999;">
+                                    <tr><td width="100" height="70" valign="middle" align="center"><a href="images/KYJD/IMG_20180519_100520.jpg" onclick="_addDynClicks('wbimage',1411891385,33467)"><img name="u_u10_img" border="0" src="/system/resource/images/loading.gif" alt="" title="" hspace="0" vspace="0"></a></td></tr>
+                                </table></div><div style="padding-top:1px;padding-bottom:1px">
+                            <span class="titlestyle202113"></span>
+                            
+
+                          </div></td>
+                            <td valign="top" align="center" style="padding-left:2px;padding-right:3px"><div style="padding: 0px; width:100px"><table cellpadding="0" cellspacing="0" style="border:1px solid #999999;">
+                                    <tr><td width="100" height="70" valign="middle" align="center"><a href="images/KYJD/20180102204509.jpg" onclick="_addDynClicks('wbimage',1411891385,33468)"><img name="u_u10_img" border="0" src="/system/resource/images/loading.gif" alt="" title="" hspace="0" vspace="0"></a></td></tr>
+                                </table></div><div style="padding-top:1px;padding-bottom:1px">
+                            <span class="titlestyle202113"></span>
+                            
+
+                          </div></td>
+                            <td valign="top" align="center" style="padding-left:2px;padding-right:3px"><div style="padding: 0px; width:100px"><table cellpadding="0" cellspacing="0" style="border:1px solid #999999;">
+                                    <tr><td width="100" height="70" valign="middle" align="center"><a href="images/KYJD/20150629_094303.jpg" onclick="_addDynClicks('wbimage',1411891385,10895)"><img name="u_u10_img" border="0" src="/system/resource/images/loading.gif" alt="" title="" hspace="0" vspace="0"></a></td></tr>
+                                </table></div><div style="padding-top:1px;padding-bottom:1px">
+                            <span class="titlestyle202113"></span>
+                            
+
+                          </div></td>
+                            <td valign="top" align="center" style="padding-left:2px;padding-right:3px"><div style="padding: 0px; width:100px"><table cellpadding="0" cellspacing="0" style="border:1px solid #999999;">
+                                    <tr><td width="100" height="70" valign="middle" align="center"><a href="images/KYJD/20150915_103306.jpg" onclick="_addDynClicks('wbimage',1411891385,10896)"><img name="u_u10_img" border="0" src="/system/resource/images/loading.gif" alt="" title="" hspace="0" vspace="0"></a></td></tr>
+                                </table></div><div style="padding-top:1px;padding-bottom:1px">
+                            <span class="titlestyle202113"></span>
+                            
+
+                          </div></td>
+                            <td valign="top" align="center" style="padding-left:2px;padding-right:3px"><div style="padding: 0px; width:100px"><table cellpadding="0" cellspacing="0" style="border:1px solid #999999;">
+                                    <tr><td width="100" height="70" valign="middle" align="center"><a href="images/KYJD/IMG_0338.JPG" onclick="_addDynClicks('wbimage',1411891385,33466)"><img name="u_u10_img" border="0" src="/system/resource/images/loading.gif" alt="" title="" hspace="0" vspace="0"></a></td></tr>
+                                </table></div><div style="padding-top:1px;padding-bottom:1px">
+                            <span class="titlestyle202113"></span>
+                            
+
+                          </div></td>
+                            <td valign="top" align="center" style="padding-left:2px;padding-right:3px"><div style="padding: 0px; width:100px"><table cellpadding="0" cellspacing="0" style="border:1px solid #999999;">
+                                    <tr><td width="100" height="70" valign="middle" align="center"><a href="images/KYJD/20181025090653.jpg" onclick="_addDynClicks('wbimage',1411891385,33469)"><img name="u_u10_img" border="0" src="/system/resource/images/loading.gif" alt="" title="" hspace="0" vspace="0"></a></td></tr>
+                                </table></div><div style="padding-top:1px;padding-bottom:1px">
+                            <span class="titlestyle202113"></span>
+                            
+
+                          </div></td>
+                            <td valign="top" align="center" style="padding-left:2px;padding-right:3px"><div style="padding: 0px; width:100px"><table cellpadding="0" cellspacing="0" style="border:1px solid #999999;">
+                                    <tr><td width="100" height="70" valign="middle" align="center"><a href="images/KYJD/VXI.JPG" onclick="_addDynClicks('wbimage',1411891385,33465)"><img name="u_u10_img" border="0" src="/system/resource/images/loading.gif" alt="" title="" hspace="0" vspace="0"></a></td></tr>
+                                </table></div><div style="padding-top:1px;padding-bottom:1px">
+                            <span class="titlestyle202113"></span>
+                            
+
+                          </div></td></tr>
+           </table></TD> 
+          <TD id="u_u10_demo2" vAlign="top" width="620"></TD> 
+        </TR> 
+      </TABLE> 
+      </DIV> 
+    </TD> 
+  </TR> 
+</TABLE> 
+<SCRIPT language="javascript">
+    var u_u10_imgs = new VsbPreloadImgArray();
+    
+    //初始化图片
+    function u_u10_init_img()
+    {
+
+            u_u10_imgs.addImg("images\/KYJD\/_DSC0699.jpg", "0", u_u10_onimgload);
+
+            u_u10_imgs.addImg("images\/KYJD\/IMG_20180519_100520.jpg", "1", u_u10_onimgload);
+
+            u_u10_imgs.addImg("images\/KYJD\/20180102204509.jpg", "2", u_u10_onimgload);
+
+            u_u10_imgs.addImg("images\/KYJD\/20150629_094303.jpg", "3", u_u10_onimgload);
+
+            u_u10_imgs.addImg("images\/KYJD\/20150915_103306.jpg", "4", u_u10_onimgload);
+
+            u_u10_imgs.addImg("images\/KYJD\/IMG_0338.JPG", "5", u_u10_onimgload);
+
+            u_u10_imgs.addImg("images\/KYJD\/20181025090653.jpg", "6", u_u10_onimgload);
+
+            u_u10_imgs.addImg("images\/KYJD\/VXI.JPG", "7", u_u10_onimgload);
+
+    }
+    function u_u10_onimgload(img, imgid)
+    {
+        var imgobjs = document.getElementsByName("u_u10_img");
+        var imgindex = new Number(imgid);
+        
+        img.showImg(imgobjs[imgindex], 100, 70, true, true);
+        img.showImg(imgobjs[imgindex+ 8], 100, 70, true, true);
+    }
+
+
+    var u_u10_MyMar;
+    var u_u10_speed3;
+    var u_u10_move = true;
+    var u_u10_movenum = 0;
+    var u_u10_pos = null; //td位置组
+    
+    function u_u10_initpos()
+    {
+        u_u10_pos = new Array();
+        
+        var tds1 = document.getElementById("u_u10_demo1").childNodes[0].rows[0].cells;
+        
+        for(i = 0 ;i < tds1.length; i++)
+        {
+            u_u10_pos[u_u10_pos.length] = tds1[i].offsetLeft;
+        }
+        
+        var tds2 = document.getElementById("u_u10_demo2").childNodes[0].rows[0].cells;
+        var tds2offset = document.getElementById("u_u10_demo2").offsetLeft;
+        for(i = 0 ;i < tds2.length; i++)
+        {
+            u_u10_pos[u_u10_pos.length] = tds2[i].offsetLeft + tds2offset;
+        }
+    }
+    
+    function u_u10_getpos(scrollpos)
+    {
+        for(i = 0; i < u_u10_pos.length; i++)
+        {
+            if(scrollpos < u_u10_pos[i])
+                return i-1;
+        }
+    }
+
+
+    function u_u10_Marquee() 
+    { 
+        try 
+        { 
+            if(!u_u10_move)
+                return;
+            
+            var demoobj = document.getElementById("u_u10_demo");
+            var demo1obj = document.getElementById("u_u10_demo1");
+
+            //滚动步长
+            var scrollstep = 1
+            
+            //当前位置
+            var oldscrollLeft = demoobj.scrollLeft;
+            
+            //更新后的位置, 已考虑过回滚
+            var newscrollLeft = (oldscrollLeft + scrollstep)%demo1obj.scrollWidth;
+
+            
+            demoobj.scrollLeft = newscrollLeft; 
+            
+        } 
+        catch(e) 
+        { 
+        } 
+    } 
+
+    function u_u10_clearInterval()
+    {
+        clearInterval(u_u10_MyMar);
+    }
+    
+    function u_u10_setInterval()
+    {
+        u_u10_MyMar = setInterval(u_u10_Marquee,u_u10_speed3);
+    }
+    
+    function u_u10_stopmove()
+    {
+        u_u10_move = false;
+    }
+
+    function u_u10_startmove()
+    {
+        u_u10_move = true;
+    }
+    
+    function u_u10_init()
+    {
+        u_u10_speed3 = 50;
+        if(u_u10_speed3 < 1)
+        {
+            u_u10_speed3 = 1;
+        }
+        
+        document.getElementById("u_u10_demo").onmouseover = u_u10_stopmove;
+        document.getElementById("u_u10_demo").onmouseout = u_u10_startmove;
+
+        document.getElementById("u_u10_demo2").innerHTML = document.getElementById("u_u10_demo1").innerHTML;
+        
+        u_u10_init_img();
+
+        u_u10_setInterval();
+
+    }
+    
+    u_u10_init();
+</SCRIPT><!--#endeditable--></p></td></tr></tbody></table></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0" width="1000" background="images/bottom.gif" align="center" height="83" style="margin-top: 20px">
+<tbody>
+<tr>
+<td valign="middle" align="center"><!--#begineditable name="版权" viewid="202114" tagname="版权"--><p style="text-align:center;">广西自动检测技术与仪器重点实验室&nbsp;&nbsp;地址：广西桂林市金鸡路1号<br />电话：0773-2191029&nbsp;&nbsp;邮编：541004<br /></p><!--#endeditable--></td></tr></tbody></table>
+
+</body></html>

@@ -1,0 +1,960 @@
+<HTML><HEAD><TITLE>桂林电子科技大学医院</TITLE><META Name="keywords" Content="桂林电子科技大学医院,index" />
+
+
+
+<META content="text/html; charset=UTF-8" http-equiv="Content-Type"><LINK rel="stylesheet" type="text/css" href="style/css.css">
+
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="index.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1411890934)</script>
+</HEAD>
+<BODY>
+<TABLE height="90" cellspacing="0" cellpadding="0" width="100%" align="center" background="images/top_bg.gif" border="0">
+<TBODY>
+<TR>
+<TD align="center">
+<TABLE cellspacing="0" cellpadding="0" width="960" border="0">
+<TBODY>
+<TR>
+<TD height="90" rowspan="3" align="left"><!--#begineditable contype="" name="LOGO" action="" layout="" clone="0" namechanged="0" order="0" ispublic="0" tagname="logo" viewid="42113" contentviewid="" stylesysid=""-->
+<table border="0" cellspacing="0" cellpadding="0"><tr><td><img src="images/hospitallogo1.png" border="0" alt="校医院" title="校医院"></td></tr></table><!--#endeditable--></TD>
+<TD align="right"><!--#begineditable contype="" name="主页|收藏" action="" layout="" clone="0" namechanged="0" order="1" ispublic="0" tagname="主页|收藏" viewid="37953" contentviewid="" stylesysid=""--><script language="javascript">
+function dosuba37953a()
+{
+    try{
+		var ua = navigator.userAgent.toLowerCase();
+		if(ua.indexOf("msie 8")>-1)
+		{
+			window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE8
+		}else if(ua.toLowerCase().indexOf("rv:")>-1)
+        {
+            window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE11+
+        }else{
+			if (document.all) 
+			{
+				window.external.addFavorite(document.location.href, document.title);
+			}else if(window.sidebar)
+			{
+				window.sidebar.addPanel( document.title, document.location.href, "");//firefox
+			}
+			else
+			{
+				alert(hotKeysa37953a());
+			}
+		}
+
+    }
+    catch (e){alert("无法自动添加到收藏夹，请使用 Ctrl + d 手动添加");}
+}
+function hotKeysa37953a() 
+{
+	var ua = navigator.userAgent.toLowerCase(); 
+	var str = "";    
+	var isWebkit = (ua.indexOf('webkit') != - 1); 
+	var isMac = (ua.indexOf('mac') != - 1);     
+	if (ua.indexOf('konqueror') != - 1) 
+	{  
+		str = 'CTRL + B'; // Konqueror   
+	} 
+	else if (window.home || isWebkit || isMac) 
+	{        
+		str = (isMac ? 'Command/Cmd' : 'CTRL') + ' + D'; // Netscape, Safari, iCab, IE5/Mac   
+	}
+	return ((str) ? '无法自动添加到收藏夹，请使用' + str + '手动添加' : str);
+}
+function setHomepagea37953a()
+{
+	var url = document.location.href;
+    if (document.all)
+    {
+        document.body.style.behavior='url(#default#homepage)';
+        document.body.setHomePage(url);
+    }
+    else if (window.sidebar)
+    {
+        if(window.netscape)
+        {
+             try{
+                  netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+             }catch (e){
+                   alert("该操作被浏览器拒绝，如果想启用该功能，请在地址栏内输入 about:config,然后将项 signed.applets.codebase_principal_support 值该为true");
+             }
+    	}
+	var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components. interfaces.nsIPrefBranch);
+	prefs.setCharPref('browser.startup.homepage',url);
+	}
+	else
+	{
+		alert("浏览器不支持自动设为首页，请手动设置");
+	}
+}
+</script><table><tr><td style="font-size:9pt"><A href="javascript:setHomepagea37953a()"><span class="font37953">设为首页</span></A>&nbsp;<span class="splitcharstyle37953"> | </span>&nbsp;<A onclick="javascript:dosuba37953a();" href="#"><span class="font37953">加入收藏</span></A></td></tr></table><!--#endeditable--></TD></TR>
+<TR>
+<TD height="32">&nbsp;</TD></TR>
+<TR>
+<TD height="32" align="right"><!--#begineditable contype="" name="简单检索" action="" layout="" clone="0" namechanged="0" order="2" ispublic="0" tagname="简单检索" viewid="18003" contentviewid="" stylesysid=""-->
+
+
+
+
+
+
+<script language="javascript" src="/system/resource/js/base64.js"></script>
+<script language="javascript" src="/system/resource/js/formfunc.js"></script>
+<form action="searchinfo.jsp?wbtreeid=1001" method="post" name="a18003a" target="_blank" onsubmit="return subsearchdataa18003a()" style="display: inline;">
+ <input type="hidden" name="Find" value="find">
+ <input type="hidden" name="entrymode" value="1">
+ <input type="hidden" id="INTEXT2" name="INTEXT2" value="">
+ <input type="hidden" name="news_search_code">
+ <table border="0" cellspacing="0" cellpadding="3">
+  <tr>
+   <td Valign="middle" nowrap="nowrap" height="22">
+    <font class="leaderfont18003">站内搜索</font>
+    
+        <input type="hidden" name="wbtreeids" value="0">
+    </td><td><span id="intextspana18003a"></span><iframe id="intextframea18003a" src="about:blank" scrolling="no" frameborder="0" style="position:absolute;top:0px;left:0px;display:none;"></iframe><input size="20" name="INTEXT" class="querystyle18003">
+   </td>
+   <td align="absmiddle" nowrap="nowrap" height="1">
+   <input type="image" src="images/an_search.gif" valign="bottom" style="cursor: hand"></td>
+  </tr>
+  
+ </table>
+</form>
+<script>
+String.prototype.trim= function()       
+{              
+    var t = this.replace(/(^\s*)|(\s*$)/g, "");     
+    return t.replace(/(^　*)|(　*$)/g, "");     
+}
+ 
+function subsearchdataa18003a()
+{ 
+	
+	if(document.a18003a.INTEXT.value.trim()=="")
+	{
+		alert("请输入查询关键字！");
+		return false;
+	}
+	
+	
+    if(checkDataa18003a(document.a18003a))
+    {
+       return true;  
+    }
+    return false;
+}       
+</script>
+
+<script> 
+function checkDataa18003a(formname)
+{
+	if(formname.INTEXT.value.trim()=="")
+	{
+		alert("请输入查询关键字！");
+		return false;
+	}
+
+	var  base64 = new Base64();
+    if(window.toFF==1)
+        {
+            var ssvalue = formname.INTEXT.value;
+            formname.INTEXT2.value = Simplized(ssvalue);
+            formname.INTEXT2.value = base64.encode(formname.INTEXT2.value);
+        }else
+        formname.INTEXT2.value = formname.INTEXT.value;
+        formname.INTEXT2.value = base64.encode(formname.INTEXT2.value);
+       return true;
+}
+</script>
+<!--#endeditable--></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+<TABLE cellspacing="0" cellpadding="0" width="100%" align="center" background="images/dh_bg.gif" border="0">
+<TBODY>
+<TR>
+<TD height="35" align="center"><!--#begineditable contype="" name="网站导航" action="" layout="" clone="0" namechanged="0" order="3" ispublic="0" tagname="网站导航" viewid="162428" contentviewid="" stylesysid=""--><style type="text/css">
+td.b1_3_{FONT-SIZE:9pt;}
+td.b2_3_{FONT-SIZE:9pt;BACKGROUND-IMAGE: url(images/dh_bgz.gif);}
+td.b3_3_{FONT-SIZE:9pt;BACKGROUND-COLOR: #eff8fe;}
+td.b4_3_{FONT-SIZE:9pt;BACKGROUND-COLOR: #e8f0fb;}
+a.menu0_3_:link {TEXT-DECORATION: none;};
+a.menu0_3_:visited { TEXT-DECORATION: none;};
+a.menu0_3_:hover {TEXT-DECORATION: none;};
+a.menu0_3_:active {TEXT-DECORATION: none;};
+table.tb1_3_{FONT-SIZE:9pt;border:0;}
+span.s1_3_{COLOR: #ffffff;FONT-SIZE: 10pt;FONT-WEIGHT: bold;}
+span.s2_3_{FONT-SIZE: 9pt;COLOR: #cc0000;LINE-HEIGHT: 160%;}
+span.s10_3_{COLOR: #ffffff;FONT-SIZE: 10pt;FONT-WEIGHT: bold;}
+span.s20_3_{FONT-SIZE: 9pt;COLOR: #222222;LINE-HEIGHT: 160%;}
+</style>
+<SCRIPT language="javascript"> 
+ var showfix_3_ = 1;
+ var isvertical_3_ = false;
+</SCRIPT>
+<script language="javascript" src="/system/resource/js/menu/text.js"></script>
+<TABLE id="t1_3_" cellSpacing="0" cellPadding="0" border="0" height="0" width="0"><TR><TD valign="center"></TD><TD valign="middle" height="29" width="95" nowrap class="b1_3_" align="center" id="a_3_1001" onmouseover="tshowLayers('1001','b2_3_', '_3_')" onmouseout="thideLayers('1001','b1_3_', '_3_','true','true')"><a class="menu0_3_" href="index.htm"><span class="fontstyle162428">&nbsp;首页&nbsp;</span></a></TD><TD valign="center" class="leaderfont162428"><img src="images/dhfgx.gif" border="0"></TD><TD valign="middle" width="95" nowrap class="b1_3_" align="center" id="a_3_1002" onmouseover="tshowLayers('1002','b2_3_', '_3_')" onmouseout="thideLayers('1002','b1_3_', '_3_','true','true')"><a class="menu0_3_" href="yygk/yyjs.htm"><span class="fontstyle162428">&nbsp;医院概况&nbsp;</span></a></TD><TD valign="center" class="leaderfont162428"><img src="images/dhfgx.gif" border="0"></TD><TD valign="middle" width="95" nowrap class="b1_3_" align="center" id="a_3_1003" onmouseover="tshowLayers('1003','b2_3_', '_3_')" onmouseout="thideLayers('1003','b1_3_', '_3_','true','true')"><a class="menu0_3_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1018"><span class="fontstyle162428">&nbsp;医院动态&nbsp;</span></a></TD><TD valign="center" class="leaderfont162428"><img src="images/dhfgx.gif" border="0"></TD><TD valign="middle" width="95" nowrap class="b1_3_" align="center" id="a_3_1004" onmouseover="tshowLayers('1004','b2_3_', '_3_')" onmouseout="thideLayers('1004','b1_3_', '_3_','true','true')"><a class="menu0_3_" href="jyzn/jzcx.htm"><span class="fontstyle162428">&nbsp;就医指南&nbsp;</span></a></TD><TD valign="center" class="leaderfont162428"><img src="images/dhfgx.gif" border="0"></TD><TD valign="middle" width="95" nowrap class="b1_3_" align="center" id="a_3_1005" onmouseover="tshowLayers('1005','b2_3_', '_3_')" onmouseout="thideLayers('1005','b1_3_', '_3_','true','true')"><a class="menu0_3_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1023"><span class="fontstyle162428">&nbsp;医保专栏&nbsp;</span></a></TD><TD valign="center" class="leaderfont162428"><img src="images/dhfgx.gif" border="0"></TD><TD valign="middle" width="95" nowrap class="b1_3_" align="center" id="a_3_1006" onmouseover="tshowLayers('1006','b2_3_', '_3_')" onmouseout="thideLayers('1006','b1_3_', '_3_','true','true')"><a class="menu0_3_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1043"><span class="fontstyle162428">&nbsp;专家简介&nbsp;</span></a></TD><TD valign="center" class="leaderfont162428"><img src="images/dhfgx.gif" border="0"></TD><TD valign="middle" width="95" nowrap class="b1_3_" align="center" id="a_3_1008" onmouseover="tshowLayers('1008','b2_3_', '_3_')" onmouseout="thideLayers('1008','b1_3_', '_3_','true','true')"><a class="menu0_3_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1028"><span class="fontstyle162428">&nbsp;健康教育&nbsp;</span></a></TD><TD valign="center" class="leaderfont162428"><img src="images/dhfgx.gif" border="0"></TD><TD valign="middle" width="95" nowrap class="b1_3_" align="center" id="a_3_1009" onmouseover="tshowLayers('1009','b2_3_', '_3_')" onmouseout="thideLayers('1009','b1_3_', '_3_','true','true')"><a class="menu0_3_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1034"><span class="fontstyle162428">&nbsp;红十字园地&nbsp;</span></a></TD><TD valign="center" class="leaderfont162428"><img src="images/dhfgx.gif" border="0"></TD><TD valign="middle" width="95" nowrap class="b1_3_" align="center" id="a_3_1010" onmouseover="tshowLayers('1010','b2_3_', '_3_')" onmouseout="thideLayers('1010','b1_3_', '_3_','true','true')"><a class="menu0_3_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1036"><span class="fontstyle162428">&nbsp;用药指南&nbsp;</span></a></TD><TD valign="center" class="leaderfont162428"><img src="images/dhfgx.gif" border="0"></TD><TD valign="middle" width="95" nowrap class="b1_3_" align="center" id="a_3_1068" onmouseover="tshowLayers('1068','b2_3_', '_3_')" onmouseout="thideLayers('1068','b1_3_', '_3_','true','true')"><a class="menu0_3_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1068"><span class="fontstyle162428">&nbsp;防艾专栏&nbsp;</span></a></TD><TD valign="center" class="leaderfont162428"><img src="images/dhfgx.gif" border="0"></TD><TD valign="middle" width="95" nowrap class="b1_3_" align="center" id="a_3_1058" onmouseover="tshowLayers('1058','b2_3_', '_3_')" onmouseout="thideLayers('1058','b1_3_', '_3_','true','true')"><a class="menu0_3_" href="http://guangxi.12388.gov.cn/"><span class="fontstyle162428">&nbsp;我要举报&nbsp;</span></a></TD></TR></TR></table><!--#endeditable--></TD></TR></TBODY></TABLE>
+<TABLE height="432" cellspacing="0" cellpadding="0" width="100%" align="center" background="images/banner_bg1.gif" border="0" style="background-repeat: repeat-x; background-position: center top">
+<TBODY>
+<TR>
+<TD height="432" valign="top" background="images/banner_bg.jpg" align="center" style="background-repeat: no-repeat; background-position: center top">
+<TABLE height="232" cellspacing="0" cellpadding="0" width="100%" align="center" border="0">
+<TBODY>
+<TR>
+<TD height="232">
+<TABLE cellspacing="0" cellpadding="0" width="960" align="center" border="0">
+<TBODY>
+<TR>
+<TD height="222">&nbsp;</TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+<TABLE height="223" cellspacing="0" cellpadding="0" width="960" align="center" background="images/banner_bg2.gif" border="0">
+<TBODY>
+<TR>
+<TD height="221" valign="top" width="7">&nbsp;</TD>
+<TD valign="top" width="252">
+<TABLE cellspacing="0" cellpadding="0" width="242" align="center" background="images/title_01.gif" border="0">
+<TBODY>
+<TR>
+<TD height="41" width="47">&nbsp;</TD>
+<TD class="h1" width="113">医院概况</TD>
+<TD width="82">&nbsp;</TD></TR></TBODY></TABLE>
+<TABLE cellspacing="5" cellpadding="0" width="242" align="center" background="images/title_02.gif" border="0">
+<TBODY>
+<TR>
+<TD height="186" align="center">
+<P align="left"><SPAN style="font-size: 12px; font-family: 微软雅黑; white-space: normal; word-spacing: 0px; text-transform: none; float: none; font-weight: 400; color: rgb(51,51,51); font-style: normal; orphans: 2; widows: 2; display: inline !important; letter-spacing: normal; background-color: rgb(255,255,255); text-indent: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 桂林电子科技大学医院，始建于一九六○年， 其前身是卫生所（科）。经过四十多年的风 雨历程，目前已发展为一所集预防、保健、 医疗、康复服务为一体，可供桂林市城镇职 工基本医疗保险参保人员选择住院定点的一 级综合医院。 医院的管理始终围绕着要适 应学校建设发展的需要，努力提高医疗技术 水平和服务质量，满足全校师工……<SPAN>&nbsp;</SPAN></SPAN><A href="http://hospital.guet.edu.cn/ShowSingleNews.aspx?SC=1" style="list-style-type: none; font-size: 12px; text-decoration: none; border-top: 0px; font-family: 微软雅黑; border-right: 0px; white-space: normal; word-spacing: 0px; border-bottom: 0px; text-transform: none; font-weight: 400; color: rgb(51,51,51); padding-bottom: 0px; font-style: normal; padding-top: 0px; padding-left: 0px; border-left: 0px; orphans: 2; widows: 2; margin: 0px; letter-spacing: normal; padding-right: 0px; background-color: rgb(255,255,255); text-indent: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px"><FONT style="list-style-type: none; font-size: 12px; text-decoration: none; border-top: 0px; font-family: 微软雅黑; border-right: 0px; border-bottom: 0px; color: rgb(0,153,255); padding-bottom: 0px; padding-top: 0px; padding-left: 0px; border-left: 0px; margin: 0px; padding-right: 0px">[详细]</FONT></A></P></TD></TR></TBODY></TABLE>
+<TABLE cellspacing="0" cellpadding="0" width="242" align="center" border="0">
+<TBODY>
+<TR>
+<TD><IMG src="images/title_03.gif" width="242" height="12"></TD></TR></TBODY></TABLE>
+<TABLE cellspacing="0" cellpadding="0" width="100%" align="center" border="0">
+<TBODY>
+<TR>
+<TD height="7"></TD></TR></TBODY></TABLE></TD>
+<TD valign="top" width="5"></TD>
+<TD valign="top" width="685">
+<TABLE cellspacing="0" cellpadding="0" width="685" align="center" background="images/title2_01.gif" border="0">
+<TBODY>
+<TR>
+<TD height="39" width="626">&nbsp;</TD>
+<TD width="59"><A href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1017"><IMG border="0" src="images/more.gif" width="38" height="13"></A></TD></TR></TBODY></TABLE>
+<TABLE cellspacing="5" cellpadding="0" width="685" align="center" border="0" style="border-right: #c9c9c9 1px solid; border-left: #c9c9c9 1px solid">
+<TBODY>
+<TR>
+<TD height="195" width="273" align="center"><!--#begineditable contype="" name="变换图片文章" action="" layout="" clone="0" namechanged="0" order="4" ispublic="0" tagname="变换图片文章" viewid="162429" contentviewid="" stylesysid=""-->
+<LINK href="/system/resource/style/component/news/list/imagechangenews.css" type="text/css" rel="stylesheet">
+<script language="javascript" src="/system/resource/js/news/imagechangenews.js"></script><script language="JavaScript">
+var u_u4_icn = new ImageChangeNews("u_u4_", 250, 164, 4, 2.0, true, false, false, true);
+
+//初始化图片, 并启动定时
+function u_u4_init_img()
+{
+
+    u_u4_icn.addimg("\/__local\/1\/64\/3E\/77A8365A9111F36047A6CBB9374_FCC8813E_9F52.jpg", "info\/1017\/1503.htm", "学校邀请疾控专家指导疫情...", "");
+
+    u_u4_icn.addimg("\/__local\/6\/F4\/B1\/98E531F214251CAFCE4C108DB22_2F2C9782_9660.jpg", "info\/1017\/1502.htm", "校医院召开医院疫情防控工...", "");
+
+    u_u4_icn.addimg("\/__local\/2\/60\/6A\/17E5B3793133147B6A8D14A8DD3_FD0A61A0_7609.jpg", "info\/1017\/1493.htm", "校医院召开专题会议部署疫...", "");
+
+    u_u4_icn.addimg("\/__local\/5\/87\/A3\/C177ED6CA0F3275E1141EBF621B_2B584A61_B07E.jpg", "info\/1017\/1488.htm", "桂林市卫生监督所到校检查...", "");
+
+    u_u4_icn.addimg("\/__local\/A\/95\/5C\/B31F47523A020EE957708237FB8_C4BAAB0A_9D5B.jpg", "info\/1017\/1484.htm", "校领导大年初一慰问校医院...", "");
+
+    u_u4_icn.addimg("\/__local\/A\/48\/76\/F1CDFDD48372C61D982DEEFA081_8CDBD500_98D5.jpg", "info\/1017\/1373.htm", "学校相关部门联合检查校内...", "");
+
+    u_u4_icn.changeimg(0);
+}
+</script><table cellspacing="0" cellpadding="0" border="0" style="padding:0px margin:0px; border:0px">
+    <tr><td>
+        <div style="OVERFLOW: hidden;height:164px;width:250px">
+            <div id="u_u4_div" align="center" style="padding:0px;margin:0px;border:0px solid black;background-color:#ffffff;FILTER: progid:DXImageTransform.Microsoft.RevealTrans (duration=2.0,transition=23);height:164px;width:250px">
+                <div id="u_u4_imgdiv" style="padding:0px;border:0px;"><a id="u_u4_url" target="_blank"><img id="u_u4_pic" border="0" width="250" height="164" src="/system/resource/images/space.gif"></a></div>
+            </div>
+            <div style="filter:alpha(style=1,opacity=10,finishOpacity=80);width:250px;height:19px;text-align:right;top:-19px;position:relative;padding:0px;margin:0px;border:0px;">
+<a href="javascript:u_u4_icn.changeimg(0)" ; id="u_u4_selectNode0" class="imagechangenews_pnode" target="_self">1</a><a href="javascript:u_u4_icn.changeimg(1)" ; id="u_u4_selectNode1" class="imagechangenews_pnode" target="_self">2</a><a href="javascript:u_u4_icn.changeimg(2)" ; id="u_u4_selectNode2" class="imagechangenews_pnode" target="_self">3</a><a href="javascript:u_u4_icn.changeimg(3)" ; id="u_u4_selectNode3" class="imagechangenews_pnode" target="_self">4</a><a href="javascript:u_u4_icn.changeimg(4)" ; id="u_u4_selectNode4" class="imagechangenews_pnode" target="_self">5</a><a href="javascript:u_u4_icn.changeimg(5)" ; id="u_u4_selectNode5" class="imagechangenews_pnode" target="_self">6</a>
+            </div></div></td></tr>
+       
+    <tr><td height="25">
+        <div align="center" style="overflow:hidden;text-overflow:ellipsis;height:25px;width:250px;"><a target="_blank" class="titlestyle162429" id="u_u4_newstitle"></a></div>
+    </td></tr>
+<div align="left" display="none" style="overflow:hidden;text-overflow:ellipsis;height:0px;width:250px;padding-left:2px;padding-right:2px"><a target="_blank" class="summarystyle162429" id="u_u4_newssummary"></a></div>   
+</table><SCRIPT language="JavaScript">u_u4_init_img();</SCRIPT><!--#endeditable--></TD>
+<TD valign="top" width="395"><!--#begineditable contype="" name="医院动态-标题列表" action="" layout="" clone="0" namechanged="0" order="5" ispublic="0" tagname="医院动态-标题列表" viewid="42114" contentviewid="" stylesysid=""--><table width="100%" cellspacing="3" cellpadding="0">
+  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont42114"><img src="images/ico_002.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1017/1534.htm" class="c42114" title="校医院开展花江校区医务室开学准备工作" target="_blank">
+        校医院开展花江校区医务室开学准备工作
+        </a>
+        &nbsp;<img src="images/ico_new.gif" align="absmiddle" border="0">
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle42114" width="1%" nowrap>2020/04/10</td></tr><tr><td colspan="4" height="1" style="background-image:url(images/xhx.gif)"></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont42114"><img src="images/ico_002.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1017/1532.htm" class="c42114" title="学校邀请疾控专家指导复学疫情防控工作" target="_blank">
+        学校邀请疾控专家指导复学疫情防控工作
+        </a>
+        &nbsp;<img src="images/ico_new.gif" align="absmiddle" border="0">
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle42114" width="1%" nowrap>2020/04/03</td></tr><tr><td colspan="4" height="1" style="background-image:url(images/xhx.gif)"></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont42114"><img src="images/ico_002.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1017/1524.htm" class="c42114" title="校医院、后勤处召开学校救护转运车辆运行讨论会" target="_blank">
+        校医院、后勤处召开学校救护转运车辆运...
+        </a>
+        &nbsp;<img src="images/ico_new.gif" align="absmiddle" border="0">
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle42114" width="1%" nowrap>2020/03/27</td></tr><tr><td colspan="4" height="1" style="background-image:url(images/xhx.gif)"></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont42114"><img src="images/ico_002.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1017/1522.htm" class="c42114" title="【疫情防控】校医院开展医务人员疫情防控流程与规范培训（图）" target="_blank">
+        【疫情防控】校医院开展医务人员疫情防...
+        </a>
+        &nbsp;
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle42114" width="1%" nowrap>2020/03/23</td></tr><tr><td colspan="4" height="1" style="background-image:url(images/xhx.gif)"></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont42114"><img src="images/ico_002.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1017/1518.htm" class="c42114" title="组织部、校医院积极探讨集中隔离观察点管理方案" target="_blank">
+        组织部、校医院积极探讨集中隔离观察点...
+        </a>
+        &nbsp;
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle42114" width="1%" nowrap>2020/03/05</td></tr><tr><td colspan="4" height="1" style="background-image:url(images/xhx.gif)"></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont42114"><img src="images/ico_002.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1017/1517.htm" class="c42114" title="校医院召开学生返校疫情防控准备工作会议" target="_blank">
+        校医院召开学生返校疫情防控准备工作会议
+        </a>
+        &nbsp;
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle42114" width="1%" nowrap>2020/03/05</td></tr><tr><td colspan="4" height="1" style="background-image:url(images/xhx.gif)"></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont42114"><img src="images/ico_002.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1017/1503.htm" class="c42114" title="学校邀请疾控专家指导疫情防控工作" target="_blank">
+        学校邀请疾控专家指导疫情防控工作
+        </a>
+        &nbsp;
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle42114" width="1%" nowrap>2020/02/20</td></tr><tr><td colspan="4" height="1" style="background-image:url(images/xhx.gif)"></td></tr>
+</table><!--#endeditable--></TD></TR></TBODY></TABLE>
+<TABLE cellspacing="0" cellpadding="0" width="685" align="center" border="0">
+<TBODY>
+<TR>
+<TD><IMG src="images/title2_02.gif" width="685" height="5"></TD></TR></TBODY></TABLE></TD>
+<TD valign="top" width="12">&nbsp;</TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+<TABLE height="465" cellspacing="0" cellpadding="0" width="960" align="center" background="images/banner_bg2.gif" border="0">
+<TBODY>
+<TR>
+<TD height="465" valign="top" width="10">&nbsp;</TD>
+<TD valign="top" width="247">
+<TABLE cellspacing="0" cellpadding="0" width="242" align="center" background="images/title3_01.gif" border="0">
+<TBODY>
+<TR>
+<TD height="34" width="43"><FONT size="2">&nbsp;</FONT></TD>
+<TD class="h1" width="150" style="padding-top: 4px"><FONT size="2">电话咨询</FONT></TD>
+<TD width="49"><A href="jyzn/jzcx.htm"><FONT size="2"></FONT></A></TD></TR></TBODY></TABLE>
+<TABLE cellspacing="0" cellpadding="0" width="242" align="center" border="0" style="border-right: #c8c8c8 1px solid; border-left: #c8c8c8 1px solid">
+<TBODY>
+<TR>
+<TD height="196" valign="top">
+<TABLE cellspacing="0" cellpadding="5" width="100%" align="center" border="0">
+<TBODY>
+<TR style="font-size: 12px">
+<TD height="160" valign="top">
+<P>市疾控中心(疫情报告):&nbsp;&nbsp;&nbsp; 0773-2803440 <BR>校医院(金鸡岭校区)&nbsp;&nbsp;&nbsp;&nbsp; 办公室:0773-2191421门诊部:0773-2191447&nbsp;&nbsp;&nbsp; 护士站:0773-2291092 <BR>校医院(花江校区)&nbsp;&nbsp;&nbsp;&nbsp; 办公室：0773-2290759门诊部：0773-2290120</P>
+<P>举报方式<BR>来信请寄：广西壮族自治区纪委信访室<BR>邮编：530028<BR>来访请到：南宁市民族大道54号<BR>举报电话：(0771)12388<BR>网上举报：http://guangxi.12388.gov.cn/</P></TD></TR></TBODY></TABLE>
+<TABLE cellspacing="0" cellpadding="0" width="100%" align="center" background="images/title4_01.gif" border="0">
+<TBODY>
+<TR>
+<TD height="34" width="11%" align="center"><IMG src="images/ico_003.gif" width="15" height="16"></TD>
+<TD class="h2" width="68%">专家介绍</TD>
+<TD width="21%"><A href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1043"><IMG border="0" src="images/more.gif" width="38" height="13"></A></TD></TR></TBODY></TABLE>
+<TABLE cellspacing="0" cellpadding="5" width="100%" align="center" border="0">
+<TBODY>
+<TR>
+<TD height="220" valign="top"><!--#begineditable contype="" name="专家介绍-图片文章列表" action="" layout="" clone="0" namechanged="0" order="6" ispublic="0" tagname="专家介绍-图片文章列表" viewid="37952" contentviewid="" stylesysid=""-->
+
+
+<script language="javascript" src="/system/resource/js/vsbpreloadimg.js"></script>
+<SCRIPT language="JavaScript">
+<!--
+ var u_u6_imgs = new VsbPreloadImgArray();
+ //初始化图片
+ function u_u6_init_img()
+ {
+ 
+  u_u6_imgs.addImg("\/__local\/7\/DC\/AB\/8AF4B3E0ACE082CAA13118877E9_60022200_DFD.jpg", "u_u6_img0", u_u6_onimgload);
+ 
+  u_u6_imgs.addImg("\/__local\/A\/46\/31\/79B3C5F7A9D12A0AB3D1BB96586_1C6F94A4_DF3.jpg", "u_u6_img1", u_u6_onimgload);
+ 
+ }
+ function u_u6_onimgload(img, imgid)
+ {
+  img.showImg(document.getElementById(imgid), 65, 89, true, true);
+ }
+//-->
+</SCRIPT>
+<table class="winstyle37952" border="0">
+    <tr><td valign="top">
+                    <table cellpadding="0" cellspacing="0" align="left" style="margin-right:0px;border:1px solid black;"><tr><td width="65" height="89" valign="middle" align="center"><a border="0" href="info/1043/1084.htm" target="_blank"><img id="u_u6_img0" border="0" src="/system/resource/images/loading.gif"></a></td></tr></table>
+                            <div align="left">
+                                <a href="info/1043/1084.htm" target="_blank"><span class="titlestyle37952" title="朱建林 副主任医师">
+                              朱建林 副主任医师</span></a> 
+                              <span class="timestyle37952"> </span>
+                                  
+                              </div>
+                                      
+                    <div class="summarystyle37952">
+                        擅长心血管内科疾病的诊治<a border="0" href="info/1043/1084.htm" target="_blank"><span class="xiangxistyle37952">[详细]</span></a>
+                    </div>
+                    
+            </td>
+                    </tr><tr><td valign="top">
+                    <table cellpadding="0" cellspacing="0" align="left" style="margin-right:0px;border:1px solid black;"><tr><td width="65" height="89" valign="middle" align="center"><a border="0" href="info/1043/1083.htm" target="_blank"><img id="u_u6_img1" border="0" src="/system/resource/images/loading.gif"></a></td></tr></table>
+                            <div align="left">
+                                <a href="info/1043/1083.htm" target="_blank"><span class="titlestyle37952" title="刘铭兴 副主任医师">
+                              刘铭兴 副主任医师</span></a> 
+                              <span class="timestyle37952"> </span>
+                                  
+                              </div>
+                                      
+                    <div class="summarystyle37952">
+                        擅长外科、骨科<a border="0" href="info/1043/1083.htm" target="_blank"><span class="xiangxistyle37952">[详细]</span></a>
+                    </div>
+                    
+            </td>
+                    </tr>
+</table><SCRIPT language="JavaScript">u_u6_init_img();</SCRIPT><!--#endeditable--></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+<TABLE cellspacing="0" cellpadding="0" width="242" align="center" border="0">
+<TBODY>
+<TR>
+<TD><IMG src="images/title3_02.gif" width="242" height="6"></TD></TR></TBODY></TABLE></TD>
+<TD valign="top" width="5"></TD>
+<TD valign="top" width="698">
+<TABLE cellspacing="0" cellpadding="0" width="685" align="left" border="0">
+<TBODY>
+<TR>
+<TD height="465" valign="top" width="439">
+<TABLE cellspacing="0" cellpadding="0" width="434" align="center" background="images/title5_01.gif" border="0">
+<TBODY>
+<TR>
+<TD height="34" width="45">&nbsp;</TD>
+<TD class="h1" width="331" style="padding-top: 4px">医院公告</TD>
+<TD width="58"><A href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1018"><IMG border="0" src="images/more.gif" width="38" height="13"></A></TD></TR></TBODY></TABLE>
+<TABLE cellspacing="0" cellpadding="5" width="434" align="center" border="0" style="border-right: #c9c9c9 1px solid; border-left: #c9c9c9 1px solid">
+<TBODY>
+<TR>
+<TD height="150" valign="top"><!--#begineditable contype="" name="医院公告-标题列表" action="" layout="" clone="0" namechanged="0" order="7" ispublic="0" tagname="医院公告-标题列表" viewid="37944" contentviewid="" stylesysid=""--><table width="100%" cellspacing="3" cellpadding="0">
+  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont37944"><img src="images/ico_002.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1018/1535.htm" class="c37944" title="疫情期间就诊须知" target="_blank">
+        疫情期间就诊须知
+        </a>
+        &nbsp;<img src="images/ico_new.gif" align="absmiddle" border="0">
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle37944" width="1%" nowrap>2020/04/10</td></tr><tr><td colspan="4" height="1" style="background-image:url(images/xhx.gif)"></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont37944"><img src="images/ico_002.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1018/1526.htm" class="c37944" title="口罩领取申请表" target="_blank">
+        <span style="font-weight:bold;">口罩领取申请表</span>
+        </a>
+        &nbsp;<img src="images/ico_new.gif" align="absmiddle" border="0">
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle37944" width="1%" nowrap>2020/04/01</td></tr><tr><td colspan="4" height="1" style="background-image:url(images/xhx.gif)"></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont37944"><img src="images/ico_002.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1018/1486.htm" class="c37944" title="致全体师生员工和学生家长的倡议书" target="_blank">
+        致全体师生员工和学生家长的倡议书
+        </a>
+        &nbsp;<img src="images/ico_new.gif" align="absmiddle" border="0">
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle37944" width="1%" nowrap>2020/01/28</td></tr><tr><td colspan="4" height="1" style="background-image:url(images/xhx.gif)"></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont37944"><img src="images/ico_002.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1018/1483.htm" class="c37944" title="接诊发热病人注意事项" target="_blank">
+        接诊发热病人注意事项
+        </a>
+        &nbsp;
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle37944" width="1%" nowrap>2020/01/23</td></tr><tr><td colspan="4" height="1" style="background-image:url(images/xhx.gif)"></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont37944"><img src="images/ico_002.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1018/1412.htm" class="c37944" title="2019-2020学生医保报销时间" target="_blank">
+        2019-2020学生医保报销时间
+        </a>
+        &nbsp;
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle37944" width="1%" nowrap>2019/09/02</td></tr><tr><td colspan="4" height="1" style="background-image:url(images/xhx.gif)"></td></tr>
+</table><!--#endeditable--></TD></TR></TBODY></TABLE>
+<TABLE cellspacing="0" cellpadding="0" width="434" align="center" border="0">
+<TBODY>
+<TR>
+<TD><IMG src="images/title5_02.gif" width="434" height="5"></TD></TR></TBODY></TABLE>
+<TABLE cellspacing="0" cellpadding="0" width="100%" align="center" border="0">
+<TBODY>
+<TR>
+<TD height="7"></TD></TR></TBODY></TABLE>
+<TABLE cellspacing="0" cellpadding="0" width="434" align="center" background="images/title5_03.gif" border="0">
+<TBODY>
+<TR>
+<TD height="34" width="45">&nbsp;</TD>
+<TD class="h1" width="331" style="padding-top: 4px">健康教育</TD>
+<TD width="58"><A href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1028"><IMG border="0" src="images/more.gif" width="38" height="13"></A></TD></TR></TBODY></TABLE>
+<TABLE cellspacing="0" cellpadding="5" width="434" align="center" border="0" style="border-right: #c9c9c9 1px solid; border-left: #c9c9c9 1px solid">
+<TBODY>
+<TR>
+<TD height="148" valign="top"><!--#begineditable contype="" name="健康教育-标题列表" action="" layout="" clone="0" namechanged="0" order="8" ispublic="0" tagname="健康教育-标题列表" viewid="37945" contentviewid="" stylesysid=""--><table width="100%" cellspacing="3" cellpadding="0">
+  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont37945"><img src="images/ico_002.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1034/1161.htm" class="c37945" title="中毒患者的现场急救" target="_blank">
+        <span style="font-weight:bold;">中毒患者的现场急救</span>
+        </a>
+        &nbsp;
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle37945" width="1%" nowrap>2018/05/16</td></tr><tr><td colspan="4" height="1" style="background-image:url(images/xhx.gif)"></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont37945"><img src="images/ico_002.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1034/1160.htm" class="c37945" title="接触有毒物质所致伤害" target="_blank">
+        <span style="font-weight:bold;">接触有毒物质所致伤害</span>
+        </a>
+        &nbsp;
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle37945" width="1%" nowrap>2018/05/16</td></tr><tr><td colspan="4" height="1" style="background-image:url(images/xhx.gif)"></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont37945"><img src="images/ico_002.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1034/1157.htm" class="c37945" title="中毒患者现场急救须知" target="_blank">
+        <span style="font-weight:bold;">中毒患者现场急救须知</span>
+        </a>
+        &nbsp;
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle37945" width="1%" nowrap>2018/05/16</td></tr><tr><td colspan="4" height="1" style="background-image:url(images/xhx.gif)"></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont37945"><img src="images/ico_002.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1034/1156.htm" class="c37945" title="食物中毒怎么办？" target="_blank">
+        <span style="font-weight:bold;">食物中毒怎么办？</span>
+        </a>
+        &nbsp;
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle37945" width="1%" nowrap>2018/05/16</td></tr><tr><td colspan="4" height="1" style="background-image:url(images/xhx.gif)"></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont37945"><img src="images/ico_002.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1034/1155.htm" class="c37945" title="医疗急救小常识" target="_blank">
+        <span style="font-weight:bold;">医疗急救小常识</span>
+        </a>
+        &nbsp;
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle37945" width="1%" nowrap>2018/05/16</td></tr><tr><td colspan="4" height="1" style="background-image:url(images/xhx.gif)"></td></tr>
+</table><!--#endeditable--></TD></TR>
+<TR>
+<TD height="72" valign="top"><!--#begineditable contype="" name="互动按钮--图片列表" action="" layout="" clone="0" namechanged="0" order="9" ispublic="0" tagname="互动按钮--图片列表" viewid="37954" contentviewid="" stylesysid=""-->
+
+
+
+
+<script language="javascript" src="/system/resource/js/dynclicks.js"></script>
+<table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+    <td><a href="#" target="_blank" onclick="_addDynClicks('wbimage',1411890934,3611)"><img src="images/an_zxzx.gif" width="123" height="53" hspace="9" vspace="0" border="0"></a></td>
+        <td><a href="yygk/fwdh.htm" target="_blank" onclick="_addDynClicks('wbimage',1411890934,3609)"><img src="images/an_dhzx.gif" width="123" height="53" hspace="9" vspace="0" border="0"></a></td>
+        <td><a href="mailto:477813938@qq.com" target="_blank" onclick="_addDynClicks('wbimage',1411890934,3610)"><img src="images/an_yzxx.gif" width="123" height="53" hspace="9" vspace="0" border="0"></a></td>
+        </tr>
+        </table><!--#endeditable--></TD></TR></TBODY></TABLE>
+<TABLE cellspacing="0" cellpadding="0" width="434" align="center" border="0">
+<TBODY>
+<TR>
+<TD><IMG src="images/title5_02.gif" width="434" height="5"></TD></TR></TBODY></TABLE></TD>
+<TD width="10"></TD>
+<TD valign="top" width="242">
+<TABLE cellspacing="0" cellpadding="0" width="241" align="center" background="images/title6_01.gif" border="0">
+<TBODY>
+<TR>
+<TD height="34" width="45">&nbsp;</TD>
+<TD class="h3" width="146" style="padding-top: 4px">预防保健</TD>
+<TD width="50"><A href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1031"><IMG border="0" src="images/more.gif" width="38" height="13"></A></TD></TR></TBODY></TABLE>
+<TABLE cellspacing="0" cellpadding="0" width="242" align="center" border="0" style="border-right: #c8c8c8 1px solid; border-left: #c8c8c8 1px solid">
+<TBODY>
+<TR>
+<TD height="196" valign="top">
+<TABLE cellspacing="0" cellpadding="5" width="100%" align="center" border="0">
+<TBODY>
+<TR>
+<TD height="145" valign="top"><!--#begineditable contype="" name="预防保健-标题列表" action="" layout="" clone="0" namechanged="0" order="10" ispublic="0" tagname="预防保健-标题列表" viewid="37946" contentviewid="" stylesysid=""--><table width="100%" cellspacing="3" cellpadding="0">
+  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont37946"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1028/1533.htm" class="c37946" title="一文读懂肺结核！" target="_blank">
+        一文读懂肺结核！
+        </a>
+        &nbsp;
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle37946" width="1%" nowrap></td></tr><tr><td colspan="4" height="1" style="background-image:url(images/xhx.gif)"></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont37946"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1028/1523.htm" class="c37946" title="3.24 携手抗疫防痨 守护健康呼吸！" target="_blank">
+        3.24 携手抗疫防痨 守护健康呼吸...
+        </a>
+        &nbsp;
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle37946" width="1%" nowrap></td></tr><tr><td colspan="4" height="1" style="background-image:url(images/xhx.gif)"></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont37946"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1028/1513.htm" class="c37946" title="帮你简易get到社会公众使用口罩的正确技能！" target="_blank">
+        帮你简易get到社会公众使用口罩的...
+        </a>
+        &nbsp;
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle37946" width="1%" nowrap></td></tr><tr><td colspan="4" height="1" style="background-image:url(images/xhx.gif)"></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont37946"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1028/1512.htm" class="c37946" title="预防疾病  从正确洗手开始" target="_blank">
+        预防疾病  从正确洗手开始
+        </a>
+        &nbsp;
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle37946" width="1%" nowrap></td></tr><tr><td colspan="4" height="1" style="background-image:url(images/xhx.gif)"></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont37946"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1028/1492.htm" class="c37946" title="新型冠状病毒防控指南（第一版）" target="_blank">
+        新型冠状病毒防控指南（第一版）
+        </a>
+        &nbsp;
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle37946" width="1%" nowrap></td></tr><tr><td colspan="4" height="1" style="background-image:url(images/xhx.gif)"></td></tr>
+</table><!--#endeditable--></TD></TR></TBODY></TABLE>
+<TABLE cellspacing="0" cellpadding="0" width="100%" align="center" background="images/title7_01.gif" border="0">
+<TBODY>
+<TR>
+<TD height="25" width="12%" align="center">&nbsp;</TD>
+<TD class="h3" width="67%">疾病专题</TD>
+<TD width="21%">&nbsp;</TD></TR></TBODY></TABLE>
+<TABLE cellspacing="0" cellpadding="5" width="100%" align="center" border="0">
+<TBODY>
+<TR>
+<TD height="145" valign="top"><!--#begineditable contype="" name="疾病专题-标题列表" action="" layout="" clone="0" namechanged="0" order="11" ispublic="0" tagname="疾病专题-标题列表" viewid="37947" contentviewid="" stylesysid=""--><table width="100%" cellspacing="3" cellpadding="0">
+  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont37947"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1029/1165.htm" class="c37947" title="家中就可完成的清肠法 “宿便”清光光" target="_blank">
+        <span style="font-weight:bold;">家中就可完成的清肠法 “宿便”清...</span>
+        </a>
+        &nbsp;
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle37947" width="1%" nowrap></td></tr><tr><td colspan="4" height="1" style="background-image:url(images/xhx.gif)"></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont37947"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1029/1164.htm" class="c37947" title="常理之外的健康处方" target="_blank">
+        <span style="font-weight:bold;">常理之外的健康处方</span>
+        </a>
+        &nbsp;
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle37947" width="1%" nowrap></td></tr><tr><td colspan="4" height="1" style="background-image:url(images/xhx.gif)"></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont37947"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1029/1163.htm" class="c37947" title="健康处方" target="_blank">
+        <span style="font-weight:bold;">健康处方</span>
+        </a>
+        &nbsp;
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle37947" width="1%" nowrap></td></tr><tr><td colspan="4" height="1" style="background-image:url(images/xhx.gif)"></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont37947"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1029/1162.htm" class="c37947" title="恶性肿瘤" target="_blank">
+        <span style="font-weight:bold;">恶性肿瘤</span>
+        </a>
+        &nbsp;
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle37947" width="1%" nowrap></td></tr><tr><td colspan="4" height="1" style="background-image:url(images/xhx.gif)"></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont37947"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1029/1159.htm" class="c37947" title="消化性溃疡" target="_blank">
+        <span style="font-weight:bold;">消化性溃疡</span>
+        </a>
+        &nbsp;
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle37947" width="1%" nowrap></td></tr><tr><td colspan="4" height="1" style="background-image:url(images/xhx.gif)"></td></tr>
+</table><!--#endeditable--></TD></TR></TBODY></TABLE>
+<TABLE cellspacing="0" cellpadding="0" width="100%" align="center" background="images/title7_01.gif" border="0">
+<TBODY>
+<TR>
+<TD height="25" width="12%" align="center">&nbsp;</TD>
+<TD class="h3" width="67%">相关链接</TD>
+<TD width="21%">&nbsp;</TD></TR></TBODY></TABLE>
+<TABLE cellspacing="0" cellpadding="0" width="100%" align="center" border="0">
+<TBODY>
+<TR>
+<TD height="75" valign="top" align="center"><!--#begineditable contype="" name="相关链接-链接列表" action="" layout="" clone="0" namechanged="0" order="12" ispublic="0" tagname="相关链接-链接列表" viewid="37951" contentviewid="" stylesysid=""-->     
+     
+  
+     
+ 
+
+<table border="0" width="230">     
+    <tr>   
+            <td align="absmiddle">
+<span class="leaderstyle37951"></span></td>     
+            <td width="" align="center">   
+                <A class="c37951" HREF="http://www.shu.edu.cn/Default.aspx?alias=www.shu.edu.cn/xiaoyiyuan" onclick="_addDynClicks('wburl',1411890934,28849)">上海大学医院</A>
+                 
+            </td>     
+   
+            <td align="absmiddle">
+
+                <span class="jumpstyle37951">|</span>
+            <span class="leaderstyle37951"></span></td>     
+            <td width="" align="center">   
+                <A class="c37951" HREF="http://www2.zzu.edu.cn/xyy/" onclick="_addDynClicks('wburl',1411890934,28847)">郑州大学校医院</A>
+                 
+            </td>     
+</tr><tr>   
+            <td align="absmiddle">
+<span class="leaderstyle37951"></span></td>     
+            <td width="" align="center">   
+                <A class="c37951" HREF="http://xyy.ruc.edu.cn/" onclick="_addDynClicks('wburl',1411890934,28848)">人民大学校医院</A>
+                 
+            </td>     
+   
+            <td align="absmiddle">
+
+                <span class="jumpstyle37951">|</span>
+            <span class="leaderstyle37951"></span></td>     
+            <td width="" align="center">   
+                <A class="c37951" HREF="http://www.fudan.edu.cn" onclick="_addDynClicks('wburl',1411890934,28850)">复旦大学校医院</A>
+                 
+            </td>     
+</tr><tr>   
+            <td align="absmiddle">
+<span class="leaderstyle37951"></span></td>     
+            <td width="" align="center">   
+                <A class="c37951" HREF="http://www.xijing.edu.cn" onclick="_addDynClicks('wburl',1411890934,28851)">西京大学校医院</A>
+                 
+            </td>     
+   
+            <td align="absmiddle">
+
+                <span class="jumpstyle37951">|</span>
+            <span class="leaderstyle37951"></span></td>     
+            <td width="" align="center">   
+                <A class="c37951" HREF="http://www.moh.gov.cn" onclick="_addDynClicks('wburl',1411890934,28846)" target="_blank">中国卫生保健部</A>
+                 
+            </td>     
+</tr></table><!--#endeditable--></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+<TABLE cellspacing="0" cellpadding="0" width="242" align="center" border="0">
+<TBODY>
+<TR>
+<TD><IMG src="images/title3_02.gif" width="242" height="6"></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+<TABLE cellspacing="0" cellpadding="0" width="100%" align="center" background="images/end_bg_1.gif" border="0" style="background-repeat: repeat-x; background-position: center top">
+<TBODY>
+<TR>
+<TD height="136" valign="top" background="images/end_bg.gif" align="center" style="background-repeat: no-repeat; background-position: center top">
+<TABLE cellspacing="0" cellpadding="0" width="960" align="center" border="0">
+<TBODY>
+<TR>
+<TD height="89" align="center">
+<TABLE cellspacing="0" cellpadding="0" width="620" border="0">
+<TBODY>
+<TR>
+<TD height="24" align="center" style="border-bottom: #999999 1px dotted"><!--#begineditable contype="" name="网站底部链接-横向链接" action="" layout="" clone="0" namechanged="0" order="13" ispublic="0" tagname="网站底部链接-横向链接" viewid="37949" contentviewid="" stylesysid=""-->
+
+
+
+
+<table><tr>
+        
+        <td>
+            <A class="c37949" HREF="yygk/yyjs.htm" onclick="_addDynClicks('wburl',1411890934,3856)" target="_blank">
+            	 医院概况 
+            </A>
+             
+        </td>
+            <td class="leaderstyle37949"><img src="images/end_fgf.gif"></td>
+        
+        <td>
+            <A class="c37949" HREF="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1018" onclick="_addDynClicks('wburl',1411890934,3855)" target="_blank">
+            	 医院动态 
+            </A>
+             
+        </td>
+            <td class="leaderstyle37949"><img src="images/end_fgf.gif"></td>
+        
+        <td>
+            <A class="c37949" HREF="jyzn/jzcx.htm" onclick="_addDynClicks('wburl',1411890934,3854)" target="_blank">
+            	 就医指南 
+            </A>
+             
+        </td>
+            <td class="leaderstyle37949"><img src="images/end_fgf.gif"></td>
+        
+        <td>
+            <A class="c37949" HREF="/system/resource/code/nocolumn.jsp" onclick="_addDynClicks('wburl',1411890934,28854)" target="_blank">
+            	 公费医疗 
+            </A>
+             
+        </td>
+            <td class="leaderstyle37949"><img src="images/end_fgf.gif"></td>
+        
+        <td>
+            <A class="c37949" HREF="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1045" onclick="_addDynClicks('wburl',1411890934,28853)" target="_blank">
+            	 政策法规 
+            </A>
+             
+        </td>
+            <td class="leaderstyle37949"><img src="images/end_fgf.gif"></td>
+        
+        <td>
+            <A class="c37949" HREF="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1028" onclick="_addDynClicks('wburl',1411890934,28852)" target="_blank">
+            	 健康教育 
+            </A>
+             
+        </td>
+            <td class="leaderstyle37949"><img src="images/end_fgf.gif"></td>
+        
+        <td>
+            <A class="c37949" HREF="list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1036" onclick="_addDynClicks('wburl',1411890934,3858)" target="_blank">
+            	 用药指南 
+            </A>
+             
+        </td>
+            </tr>
+</table><!--#endeditable--></TD></TR>
+<TR>
+<TD height="24" align="center"><!--#begineditable contype="" name="版权" action="" layout="" clone="0" namechanged="0" order="14" ispublic="0" tagname="版权" viewid="37950" contentviewid="" stylesysid=""--><p style="text-align: center"><span style="font-size: 9pt"></span>&nbsp;<span style="font-size: 9pt">地址:桂林市金鸡路1号桂林电子科技大学医院 邮编：541004</span>&nbsp;</p><p style="text-align: center"><span style="font-size: 9pt">Copyright©2018&nbsp;&nbsp; 桂林电子科技大学校医院&nbsp;&nbsp;&nbsp; ALL Rights Reserved&nbsp;&nbsp; </span></p><p><span style="font-size: 9pt"></span>&nbsp;</p><!--#endeditable--></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+
+</BODY></HTML>

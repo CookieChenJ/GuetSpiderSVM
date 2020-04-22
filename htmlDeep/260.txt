@@ -1,0 +1,418 @@
+<!DOCTYPE html>
+<HTML lang="zh-hans" dir="ltr"><HEAD><TITLE>信息化管理办公室</TITLE><META Name="keywords" Content="信息化管理办公室" />
+
+
+
+<META http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<META name="renderer" content="webkit">
+<META charset="utf-8">
+<META name="title" content="首页 | 桂林电子科技大学--信息化管理办公室">
+<META name="MobileOptimized" content="width">
+<META name="HandheldFriendly" content="true">
+<META name="viewport" content="width=device-width, initial-scale=1.0"><LINK href="profiles/custom/sysu/themes/sysu_front/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon"><LINK href="dfiles/12996/core/modules/system/css/components/b2f26ea9be50faf308b3066b1269b51d_align.module.css" rel="stylesheet" media="all"><LINK href="dfiles/12996/modules/contrib/calendar/css/b2f26ea9be50faf308b3066b1269b51d_calendar.css" rel="stylesheet" media="all"><LINK href="dfiles/12996/modules/contrib/calendar/css/b2f26ea9be50faf308b3066b1269b51d_calendar_multiday.css" rel="stylesheet" media="all"><LINK href="dfiles/12996/profiles/custom/sysu/themes/sysu_front/css/b2f26ea9be50faf308b3066b1269b51d_main.css" rel="stylesheet" media="all"><LINK href="dfiles/12996/profiles/custom/sysu/themes/sysu_front/css/b2f26ea9be50faf308b3066b1269b51d_icon.css" rel="stylesheet" media="all"><LINK href="dfiles/12996/profiles/custom/sysu/modules/sysu_manage/css_choose/b2f26ea9be50faf308b3066b1269b51d_better-more-link.css" rel="stylesheet" media="all"><LINK href="dfiles/12996/profiles/custom/sysu/modules/sysu_manage/css_choose/b2f26ea9be50faf308b3066b1269b51d_header-one-line.css" rel="stylesheet" media="all"><LINK href="dfiles/12996/profiles/custom/sysu/modules/sysu_manage/css_choose/b2f26ea9be50faf308b3066b1269b51d_better-attachment-style.css" rel="stylesheet" media="all"><LINK href="dfiles/12996/profiles/custom/sysu/modules/sysu_manage/css_choose/b2f26ea9be50faf308b3066b1269b51d_xxb.css" rel="stylesheet" media="all"><LINK href="dfiles/12996/sites/xxb.prod1.dpcms8.sysu.edu.cn/files/color/sysu_front-4cd896b8/b2f26ea9be50faf308b3066b1269b51d_init.css" rel="stylesheet" media="all"><LINK href="dfiles/12996/profiles/custom/sysu/themes/sysu_front/bower_components/css-hamburgers/dist/b2f26ea9be50faf308b3066b1269b51d_hamburgers.min.css" rel="stylesheet" media="all"><LINK href="dfiles/12996/profiles/custom/sysu/themes/sysu_front/bower_components/jquery.mmenu/dist/b2f26ea9be50faf308b3066b1269b51d_jquery.mmenu.all.css" rel="stylesheet" media="all"><LINK href="dfiles/12996/sites/xxb.prod1.dpcms8.sysu.edu.cn/files/asset_injector/css/b2f26ea9be50faf308b3066b1269b51d_style-038e31b1269d2392484feeea8632aeca.css" rel="stylesheet" media="all">
+
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="index.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1581833981)</script>
+</HEAD>
+<BODY class="workspace-live language-zh-hans page-front page-node-type-landing-page">
+<DIV class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+<DIV class="page" id="page">
+<DIV class="block" id="block-header-block" data-block-plugin-id="block_content:d11aeb6b-f3d0-466e-aebb-50d036b5b2dc">
+<DIV class="top-header" id="header-top">
+<DIV class="inner">
+<DIV class="header-left" style="float: left">
+<STYLE type="text/css">
+                                .login {
+                                    margin-top: 10px;}
+                            </STYLE>
+
+<DIV class="login"><A href="http://info.sysu.edu.cn/webmaster-mgt">欢迎光临桂林电子科技大学-信息化管理办公室</A></DIV></DIV>
+<DIV class="header-right" target style="float: right">
+<DIV style="float: right">
+<DIV id="search_block_form"><!--这里放简单检索 --></DIV></DIV></DIV><A href="xwdt.htm"></A><A href="tzgg.htm"></A></DIV></DIV>
+<DIV class="header-bg-primary" id="header" style="background-color: #01518E;">
+<DIV class="header-body">
+<DIV class="header-container header-top inner ">
+<DIV class="header-row">
+<DIV class="header-column">
+<DIV class="header-logo" id="site-logo"><A href=""><IMG src="images/logo_info.png"></A> </DIV></DIV>
+<DIV class="header-column">
+<DIV class="header-nav-top f-r"></DIV>
+<DIV class="header-nav-flex" style="display: none"></DIV></DIV>
+<DIV class="header-column t-r"><BUTTON class="hamburger hamburger--collapse" id="header-btns" type="button"><SPAN class="hamburger-box"><SPAN class="hamburger-inner"></SPAN></SPAN></BUTTON> </DIV></DIV></DIV>
+<DIV class="header-container main-menu-nav-primary  hide-i" id="main-menu" style="background-color: #01518E;">
+<DIV class="inner inside-c-tb">
+<DIV class="main-menu-1-1 js-main-menu"><!--#begineditable clone="0" namechanged="0" order="0" ispublic="0" tagname="网站导航" viewid="202264" contentviewid="" contype="" stylesysid="" layout="" action="" name="网站导航"--><table style="background-color:transparent;border-top:0px;margin:0px;">
+    <tr>
+        <td style="background-color:transparent;border-top:0px;">
+            <div class="nav_menustyle_1_1">
+                <ul>
+                    <li><a href="index.htm">首页<!--[if gte IE 7]><!--></a><!--<![endif]-->  
+                    <!--[if lte IE 6]></a><![endif]-->
+                    </li>
+                    <li><a href="tzgg.htm">通知公告<!--[if gte IE 7]><!--></a><!--<![endif]-->  
+                    <!--[if lte IE 6]></a><![endif]-->
+                    </li>
+                    <li><a href="bmgk.htm">部门概况<!--[if gte IE 7]><!--></a><!--<![endif]-->  
+                    <!--[if lte IE 6]></a><![endif]-->
+                    </li>
+                    <li><a href="xwdt.htm">新闻动态<!--[if gte IE 7]><!--></a><!--<![endif]-->  
+                    <!--[if lte IE 6]></a><![endif]-->
+                    </li>
+                    <li><a href="gzzd.htm">规章制度<!--[if gte IE 7]><!--></a><!--<![endif]-->  
+                    <!--[if lte IE 6]></a><![endif]-->
+                    </li>
+                    <li><a href="bslc.htm">办事流程<!--[if gte IE 7]><!--></a><!--<![endif]-->  
+                    <!--[if lte IE 6]></a><![endif]-->
+                    </li>
+                    <li><a href="xzzx.htm">下载中心<!--[if gte IE 7]><!--></a><!--<![endif]-->  
+                    <!--[if lte IE 6]></a><![endif]-->
+                    </li>
+                </ul>
+            </div>
+        </td>
+    </tr>
+</table><!--#endeditable--></DIV></DIV></DIV></DIV></DIV></DIV>
+<DIV id="main" role="main">
+<DIV id="content" role="content"><ARTICLE class="node node--type-landing_page node--view-mode-full clearfix" data-history-node-id="25">
+<DIV>
+<DIV class="inner">
+<DIV class="row">
+<DIV class="col-xs-12">
+<DIV class="block-region-top">
+<DIV class="swiper-img-full block" data-block-plugin-id="block_content:e335e076-587a-4de4-9b1f-1782888b8613">
+<STYLE>
+                                                    @media only screen and (min-width:992px) {
+                                                        .swiper-53-1 .swiper-1 .swiper-wrapper,
+                                                        .swiper-53-1 .swiper-1 .swiper-slide,
+                                                        .swiper-53-1 .swiper-container.swiper-1 {
+                                                            height: 340px !important;}
+                                                    }
+                                                </STYLE>
+
+<DIV class="swiper-53-1 ">
+<DIV class="swiper-container swiper-1" data-autoplay="10000" data-perview="1">
+<DIV class="swiper-wrapper"><!--<DIV class="swiper-slide" data-url="" style="background-image: url(/dfiles/12996/sites/xxb.prod1.dpcms8.sysu.edu.cn/files/20180918094512.jpg)">
+                                                                <DIV class="inner">
+                                                                    <DIV class="inside-tb"></DIV>
+                                                                </DIV>
+                                                            </DIV>-->
+           <!--#begineditable clone="0" namechanged="0" order="0" ispublic="0" tagname="图片文章列表" viewid="202305" contentviewid="" contype="" stylesysid="" layout="" action="" name="图片文章列表"--><script language="javascript" src="/system/resource/js/dynclicks.js"></script><script language="javascript" src="/system/resource/js/jquery/jquery-latest.min.js"></script>        <DIV class="swiper-slide" data-url="" style="background-image: url(/__local/2/34/CF/D5B2FDDF43DC884C3B39119D983_23D92B01_1C789.jpg)">
+            <DIV class="inner">
+                <DIV class="inside-tb"></DIV>
+            </DIV>
+        </DIV>    
+        <DIV class="swiper-slide" data-url="" style="background-image: url(/__local/E/F2/07/3F3AA0237801EEBCD50648A320E_67F0CA2A_183DB.jpg)">
+            <DIV class="inner">
+                <DIV class="inside-tb"></DIV>
+            </DIV>
+        </DIV>    
+        <DIV class="swiper-slide" data-url="" style="background-image: url(/__local/3/F4/92/DCDE1460D0F45CD2784485002C9_28EDE9F4_4493D.jpg)">
+            <DIV class="inner">
+                <DIV class="inside-tb"></DIV>
+            </DIV>
+        </DIV>    
+<script>_showDynClickBatch(['dynclicks_u1_1015','dynclicks_u1_1014','dynclicks_u1_1013'],[1015,1014,1013],"wbnews", 1581833981)</script>
+<!--#endeditable--> </DIV>
+<DIV class="pagination"></DIV>
+<DIV class="swiper-button-next"></DIV>
+<DIV class="swiper-button-prev"></DIV></DIV></DIV></DIV></DIV></DIV></DIV>
+<DIV class="row">
+<DIV class="col-sm-12 col-md-9">
+<DIV class="block-region-left">
+<DIV class="block" data-block-plugin-id="block_content:a293a054-d760-4937-917c-f8f56d926c18">
+<H2 class="block-title">通知公告</H2>
+<DIV class="list-3 list-3-1 inside-b outside-b list-3-1-blue"><!--#begineditable clone="0" namechanged="0" order="3" ispublic="0" tagname="通知公告-标题列表" viewid="202260" contentviewid="" contype="" stylesysid="" layout="" action="" name="通知公告-标题列表"--><ul class="list-content">
+</ul>
+<!--#endeditable--><A class="more-link" href="tzgg.htm">更多</A> </DIV></DIV>
+<DIV class="block" data-block-plugin-id="block_content:24358995-7ba5-4f5a-97ce-1570b2df88c2">
+<H2 class="block-title">新闻动态</H2>
+<DIV class="list-3 list-3-1 inside-b outside-b list-3-1-blue"><!--#begineditable clone="0" namechanged="0" order="4" ispublic="0" tagname="新闻动态-标题列表" viewid="202259" contentviewid="" contype="" stylesysid="" layout="" action="" name="新闻动态-标题列表"--><ul class="list-content">
+   <li class="inside-tb inside-min-lr">
+
+       <span class="f-r outside-l">2019-09-16</span>
+            <div class="one-line">
+       <a href="info/1006/1009.htm" class="one-line f-l" target="_blank" title="国家互联网信息办公室公布《互联网用户公众账号信息服务管理规定》">国家互联网信息办公室公布《互联网用户公众账号信息服务管理规定》</a> 
+</div>
+</li>
+   <li class="inside-tb inside-min-lr">
+
+       <span class="f-r outside-l">2019-09-16</span>
+            <div class="one-line">
+       <a href="info/1006/1008.htm" class="one-line f-l" target="_blank" title="国家互联网信息办公室公布《互联网新闻信息服务新技术新应用安全评估管理规定》">国家互联网信息办公室公布《互联网新闻信息服务新技术新应用安全评估管理规定》</a> 
+</div>
+</li>
+   <li class="inside-tb inside-min-lr">
+
+       <span class="f-r outside-l">2019-09-16</span>
+            <div class="one-line">
+       <a href="info/1006/1007.htm" class="one-line f-l" target="_blank" title="国家互联网信息办公室公布《互联网新闻信息服务单位内容管理从业人员管理办法》">国家互联网信息办公室公布《互联网新闻信息服务单位内容管理从业人员管理办法》</a> 
+</div>
+</li>
+</ul><script>_showDynClickBatch(['dynclicks_u3_1009','dynclicks_u3_1008','dynclicks_u3_1007'],[1009,1008,1007],"wbnews", 1581833981)</script>
+<!--#endeditable--><A class="more-link" href="xwdt.htm">更多</A> </DIV></DIV></DIV></DIV>
+<DIV class="col-sm-12 col-md-3">
+<DIV class="block-region-right">
+<DIV class="block" data-block-plugin-id="block_content:0dfc53e8-4973-4bf2-979b-f610a3c62b3a">
+<H2 class="block-title">联系方式</H2>
+<DIV class="field field-body field-type-text-with-summary field-label-hidden field-item">
+<DIV style="padding-left: 10px; padding-right: 10px"><!--#begineditable clone="0" namechanged="0" order="5" ispublic="0" tagname="文本框" viewid="202275" contentviewid="" contype="" stylesysid="" layout="" action="" name="文本框"--><script language="javascript" src="/system/resource/js/news/mp4video.js"></script>
+<p>地址：花江校区科技楼511-1室</p> 
+<p>电话：（0773）2290730</p> 
+<p>邮箱：info@guet.edu.cn</p> 
+<p><br></p><!--#endeditable--></DIV></DIV></DIV>
+<DIV class="panel-tabs panel-tabs-auto block" data-block-plugin-id="block_content:dca80fa9-d93c-4f2b-9e10-65a5697c97c0">
+<H2 class="block-title">相关链接</H2>
+<DIV class="list-button"><!--#begineditable clone="0" namechanged="0" order="6" ispublic="0" tagname="相关链接-链接列表" viewid="202263" contentviewid="" contype="" stylesysid="" layout="" action="" name="相关链接-链接列表"--><script language="javascript" src="/system/resource/js/openlink.js"></script> <div class="list-button">
+ <div class="col col-md-12 t-c outside-min-t outside-min-b">
+                                                        <a class="btn  btn-icon t-c " href="https://www.guet.edu.cn/" target="_blank" title="" style="background-color: #01518E;color: #FFFFFF;border-radius: 5px;           width: 100%;">
+
+                                                            <span>桂电子科技大学</span>
+                                                        </a>
+                                                    </div>
+ 
+ <div class="col col-md-12 t-c outside-min-t outside-min-b">
+                                                        <a class="btn  btn-icon t-c " href="http://utsc.guet.edu.cn/" target="_blank" title="" style="background-color: #01518E;color: #FFFFFF;border-radius: 5px;           width: 100%;">
+
+                                                            <span>本科教学服务网</span>
+                                                        </a>
+                                                    </div>
+ 
+ <div class="col col-md-12 t-c outside-min-t outside-min-b">
+                                                        <a class="btn  btn-icon t-c " href="https://cas.guet.edu.cn/cas/login?service=http://fwdt.guet.edu.cn/EIP//user/index.htm" title="" style="background-color: #01518E;color: #FFFFFF;border-radius: 5px;           width: 100%;">
+
+                                                            <span>智慧校园</span>
+                                                        </a>
+                                                    </div>
+ 
+ <div class="col col-md-12 t-c outside-min-t outside-min-b">
+                                                        <a class="btn  btn-icon t-c " href="https://www.guet.edu.cn/xjzx/" title="" style="background-color: #01518E;color: #FFFFFF;border-radius: 5px;           width: 100%;">
+
+                                                            <span>网络与信息技术中心</span>
+                                                        </a>
+                                                    </div>
+ 
+</div><!--#endeditable--></DIV></DIV></DIV></DIV></DIV></DIV></DIV></ARTICLE></DIV></DIV>
+<DIV id="footer">
+<DIV class="block" id="block-footer-2" data-block-plugin-id="block_content:c66c305b-9ef5-4596-9f31-22956d73fa08">
+<DIV class="field field-body field-type-text-with-summary field-label-hidden field-item"><FOOTER class="footer container" style="border-top: #e5e5e5 1px solid; margin-top: 15px; padding-bottom: 36px; text-align: center; padding-top: 35px">
+<DIV class="region region-footer"><SECTION class="block block-block clearfix" id="block-block-4">
+<P class="rtecenter">Copyright@ 桂电子科技大学信息化管理办公室 Office of Informatization Management</P></SECTION></DIV></FOOTER></DIV></DIV></DIV></DIV></DIV><script type="application/json" data-drupal-selector="drupal-settings-json">
+        {"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/25","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"zh-hans"},"pluralDelimiter":"\u0003","password_encrypt":{"passkey":"161c803c1197a3c6"},"statistics":{"data":{"nid":"25"},"url":"\/core\/modules\/statistics\/statistics.php"},"ajaxTrustedUrl":{"\/search\/all":true},"themepath":"profiles\/custom\/sysu\/themes\/sysu_front","ajax":[],"user":{"uid":0,"permissionsHash":"563dd20af867b7668c85c918a93bd2a92b64ae82136647b06e4baaebbb7b43e9"}}
+    </script><script src="dfiles/12996/core/assets/vendor/domready/7016a15e42d563af8cfe643c26e159eb_ready.min.js"></script><script src="dfiles/12996/core/assets/vendor/jquery/f77b33deb395f5dea35f8b660f0d7e6c_jquery.min.js"></script><script src="dfiles/12996/core/assets/vendor/underscore/a532b3ef9e1737921f7ab3c1b8b5438b_underscore-min.js"></script><script src="dfiles/12996/core/assets/vendor/jquery/f77b33deb395f5dea35f8b660f0d7e6c_jquery-extend-3.4.0.js"></script><script src="dfiles/12996/core/assets/vendor/jquery-once/d1f131bd35cae337d7b4f06c8d42975f_jquery.once.min.js"></script><script src="dfiles/12996/core/misc/68d946a0b03992dfcb01b12cedacfbe0_drupalsettingsloader.js"></script><script src="dfiles/12996/sites/xxb.prod1.dpcms8.sysu.edu.cn/files/languages/b2f26ea9be50faf308b3066b1269b51d_zh-hans_nd04dlr28kjlg3kbaie8yvivzj0io3g95o9hkejxtea.js"></script><script src="dfiles/12996/core/misc/68d946a0b03992dfcb01b12cedacfbe0_drupal.js"></script><script src="dfiles/12996/core/misc/68d946a0b03992dfcb01b12cedacfbe0_drupal.init.js"></script><script src="dfiles/12996/profiles/custom/sysu/themes/sysu_front/js/b2f26ea9be50faf308b3066b1269b51d_drupal.js"></script><script src="dfiles/12996/profiles/custom/sysu/themes/sysu_front/build/b2f26ea9be50faf308b3066b1269b51d_init.js"></script><script src="dfiles/12996/profiles/custom/sysu/themes/sysu_front/js/plugins/b2f26ea9be50faf308b3066b1269b51d_back_to_top.js"></script><script src="dfiles/12996/profiles/custom/sysu/themes/sysu_front/bower_components/jquery.mmenu/dist/b2f26ea9be50faf308b3066b1269b51d_jquery.mmenu.all.js"></script><script src="dfiles/12996/profiles/custom/sysu/themes/sysu_front/js/plugins/b2f26ea9be50faf308b3066b1269b51d_mmenu.js"></script><script src="dfiles/12996/profiles/custom/sysu/themes/sysu_front/bower_components/code-prettify/loader/b2f26ea9be50faf308b3066b1269b51d_prettify.js"></script><script src="dfiles/12996/profiles/custom/sysu/themes/sysu_front/bower_components/bootstrap/js/b2f26ea9be50faf308b3066b1269b51d_dropdown.js"></script><script src="dfiles/12996/profiles/custom/sysu/themes/sysu_front/bower_components/bootstrap/js/b2f26ea9be50faf308b3066b1269b51d_tab.js"></script><script src="dfiles/12996/profiles/custom/sysu/themes/sysu_front/js/plugins/b2f26ea9be50faf308b3066b1269b51d_tab.js"></script><script src="dfiles/12996/profiles/custom/sysu/themes/sysu_front/bower_components/bootstrap/js/b2f26ea9be50faf308b3066b1269b51d_collapse.js"></script><script src="dfiles/12996/profiles/custom/sysu/themes/sysu_front/bower_components/waypoints/lib/b2f26ea9be50faf308b3066b1269b51d_jquery.waypoints.min.js"></script><script src="dfiles/12996/profiles/custom/sysu/themes/sysu_front/bower_components/waypoints/lib/shortcuts/b2f26ea9be50faf308b3066b1269b51d_inview.min.js"></script><script src="dfiles/12996/profiles/custom/sysu/themes/sysu_front/bower_components/waypoints/lib/shortcuts/b2f26ea9be50faf308b3066b1269b51d_sticky.min.js"></script><script src="dfiles/12996/profiles/custom/sysu/themes/sysu_front/js/plugins/b2f26ea9be50faf308b3066b1269b51d_inviews.js"></script><script src="dfiles/12996/profiles/custom/sysu/themes/sysu_front/js/plugins/b2f26ea9be50faf308b3066b1269b51d_sticky.js"></script><script src="dfiles/12996/profiles/custom/sysu/themes/sysu_front/bower_components/imagesloaded/b2f26ea9be50faf308b3066b1269b51d_imagesloaded.pkgd.min.js"></script><script src="dfiles/12996/profiles/custom/sysu/themes/sysu_front/bower_components/isotope-layout/dist/b2f26ea9be50faf308b3066b1269b51d_isotope.pkgd.min.js"></script><script src="dfiles/12996/profiles/custom/sysu/themes/sysu_front/js/plugins/b2f26ea9be50faf308b3066b1269b51d_isotope.js"></script><script src="dfiles/12996/modules/contrib/password_encrypt/js/68d946a0b03992dfcb01b12cedacfbe0_password_encrypt.js"></script><script src="dfiles/12996/libraries/cryptojs/68d946a0b03992dfcb01b12cedacfbe0_aes.js"></script><script src="dfiles/12996/core/modules/statistics/68d946a0b03992dfcb01b12cedacfbe0_statistics.js"></script><script src="dfiles/12996/profiles/custom/sysu/themes/sysu_front/bower_components/swiper/dist/b2f26ea9be50faf308b3066b1269b51d_idangerous.swiper.min.js"></script><script src="dfiles/12996/profiles/custom/sysu/themes/sysu_front/js/plugins/b2f26ea9be50faf308b3066b1269b51d_swiper2.js"></script>
+
+</BODY></HTML>
+<!DOCTYPE html>
+<HTML lang="zh-hans" dir="ltr"><HEAD><TITLE>信息化管理办公室</TITLE><META Name="keywords" Content="信息化管理办公室" />
+
+
+
+<META http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<META name="renderer" content="webkit">
+<META charset="utf-8">
+<META name="title" content="首页 | 桂林电子科技大学--信息化管理办公室">
+<META name="MobileOptimized" content="width">
+<META name="HandheldFriendly" content="true">
+<META name="viewport" content="width=device-width, initial-scale=1.0"><LINK href="profiles/custom/sysu/themes/sysu_front/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon"><LINK href="dfiles/12996/core/modules/system/css/components/b2f26ea9be50faf308b3066b1269b51d_align.module.css" rel="stylesheet" media="all"><LINK href="dfiles/12996/modules/contrib/calendar/css/b2f26ea9be50faf308b3066b1269b51d_calendar.css" rel="stylesheet" media="all"><LINK href="dfiles/12996/modules/contrib/calendar/css/b2f26ea9be50faf308b3066b1269b51d_calendar_multiday.css" rel="stylesheet" media="all"><LINK href="dfiles/12996/profiles/custom/sysu/themes/sysu_front/css/b2f26ea9be50faf308b3066b1269b51d_main.css" rel="stylesheet" media="all"><LINK href="dfiles/12996/profiles/custom/sysu/themes/sysu_front/css/b2f26ea9be50faf308b3066b1269b51d_icon.css" rel="stylesheet" media="all"><LINK href="dfiles/12996/profiles/custom/sysu/modules/sysu_manage/css_choose/b2f26ea9be50faf308b3066b1269b51d_better-more-link.css" rel="stylesheet" media="all"><LINK href="dfiles/12996/profiles/custom/sysu/modules/sysu_manage/css_choose/b2f26ea9be50faf308b3066b1269b51d_header-one-line.css" rel="stylesheet" media="all"><LINK href="dfiles/12996/profiles/custom/sysu/modules/sysu_manage/css_choose/b2f26ea9be50faf308b3066b1269b51d_better-attachment-style.css" rel="stylesheet" media="all"><LINK href="dfiles/12996/profiles/custom/sysu/modules/sysu_manage/css_choose/b2f26ea9be50faf308b3066b1269b51d_xxb.css" rel="stylesheet" media="all"><LINK href="dfiles/12996/sites/xxb.prod1.dpcms8.sysu.edu.cn/files/color/sysu_front-4cd896b8/b2f26ea9be50faf308b3066b1269b51d_init.css" rel="stylesheet" media="all"><LINK href="dfiles/12996/profiles/custom/sysu/themes/sysu_front/bower_components/css-hamburgers/dist/b2f26ea9be50faf308b3066b1269b51d_hamburgers.min.css" rel="stylesheet" media="all"><LINK href="dfiles/12996/profiles/custom/sysu/themes/sysu_front/bower_components/jquery.mmenu/dist/b2f26ea9be50faf308b3066b1269b51d_jquery.mmenu.all.css" rel="stylesheet" media="all"><LINK href="dfiles/12996/sites/xxb.prod1.dpcms8.sysu.edu.cn/files/asset_injector/css/b2f26ea9be50faf308b3066b1269b51d_style-038e31b1269d2392484feeea8632aeca.css" rel="stylesheet" media="all">
+
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="index.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1581833981)</script>
+</HEAD>
+<BODY class="workspace-live language-zh-hans page-front page-node-type-landing-page">
+<DIV class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+<DIV class="page" id="page">
+<DIV class="block" id="block-header-block" data-block-plugin-id="block_content:d11aeb6b-f3d0-466e-aebb-50d036b5b2dc">
+<DIV class="top-header" id="header-top">
+<DIV class="inner">
+<DIV class="header-left" style="float: left">
+<STYLE type="text/css">
+                                .login {
+                                    margin-top: 10px;}
+                            </STYLE>
+
+<DIV class="login"><A href="http://info.sysu.edu.cn/webmaster-mgt">欢迎光临桂林电子科技大学-信息化管理办公室</A></DIV></DIV>
+<DIV class="header-right" target style="float: right">
+<DIV style="float: right">
+<DIV id="search_block_form"><!--这里放简单检索 --></DIV></DIV></DIV><A href="xwdt.htm"></A><A href="tzgg.htm"></A></DIV></DIV>
+<DIV class="header-bg-primary" id="header" style="background-color: #01518E;">
+<DIV class="header-body">
+<DIV class="header-container header-top inner ">
+<DIV class="header-row">
+<DIV class="header-column">
+<DIV class="header-logo" id="site-logo"><A href=""><IMG src="images/logo_info.png"></A> </DIV></DIV>
+<DIV class="header-column">
+<DIV class="header-nav-top f-r"></DIV>
+<DIV class="header-nav-flex" style="display: none"></DIV></DIV>
+<DIV class="header-column t-r"><BUTTON class="hamburger hamburger--collapse" id="header-btns" type="button"><SPAN class="hamburger-box"><SPAN class="hamburger-inner"></SPAN></SPAN></BUTTON> </DIV></DIV></DIV>
+<DIV class="header-container main-menu-nav-primary  hide-i" id="main-menu" style="background-color: #01518E;">
+<DIV class="inner inside-c-tb">
+<DIV class="main-menu-1-1 js-main-menu"><!--#begineditable clone="0" namechanged="0" order="0" ispublic="0" tagname="网站导航" viewid="202264" contentviewid="" contype="" stylesysid="" layout="" action="" name="网站导航"--><table style="background-color:transparent;border-top:0px;margin:0px;">
+    <tr>
+        <td style="background-color:transparent;border-top:0px;">
+            <div class="nav_menustyle_1_1">
+                <ul>
+                    <li><a href="index.htm">首页<!--[if gte IE 7]><!--></a><!--<![endif]-->  
+                    <!--[if lte IE 6]></a><![endif]-->
+                    </li>
+                    <li><a href="tzgg.htm">通知公告<!--[if gte IE 7]><!--></a><!--<![endif]-->  
+                    <!--[if lte IE 6]></a><![endif]-->
+                    </li>
+                    <li><a href="bmgk.htm">部门概况<!--[if gte IE 7]><!--></a><!--<![endif]-->  
+                    <!--[if lte IE 6]></a><![endif]-->
+                    </li>
+                    <li><a href="xwdt.htm">新闻动态<!--[if gte IE 7]><!--></a><!--<![endif]-->  
+                    <!--[if lte IE 6]></a><![endif]-->
+                    </li>
+                    <li><a href="gzzd.htm">规章制度<!--[if gte IE 7]><!--></a><!--<![endif]-->  
+                    <!--[if lte IE 6]></a><![endif]-->
+                    </li>
+                    <li><a href="bslc.htm">办事流程<!--[if gte IE 7]><!--></a><!--<![endif]-->  
+                    <!--[if lte IE 6]></a><![endif]-->
+                    </li>
+                    <li><a href="xzzx.htm">下载中心<!--[if gte IE 7]><!--></a><!--<![endif]-->  
+                    <!--[if lte IE 6]></a><![endif]-->
+                    </li>
+                </ul>
+            </div>
+        </td>
+    </tr>
+</table><!--#endeditable--></DIV></DIV></DIV></DIV></DIV></DIV>
+<DIV id="main" role="main">
+<DIV id="content" role="content"><ARTICLE class="node node--type-landing_page node--view-mode-full clearfix" data-history-node-id="25">
+<DIV>
+<DIV class="inner">
+<DIV class="row">
+<DIV class="col-xs-12">
+<DIV class="block-region-top">
+<DIV class="swiper-img-full block" data-block-plugin-id="block_content:e335e076-587a-4de4-9b1f-1782888b8613">
+<STYLE>
+                                                    @media only screen and (min-width:992px) {
+                                                        .swiper-53-1 .swiper-1 .swiper-wrapper,
+                                                        .swiper-53-1 .swiper-1 .swiper-slide,
+                                                        .swiper-53-1 .swiper-container.swiper-1 {
+                                                            height: 340px !important;}
+                                                    }
+                                                </STYLE>
+
+<DIV class="swiper-53-1 ">
+<DIV class="swiper-container swiper-1" data-autoplay="10000" data-perview="1">
+<DIV class="swiper-wrapper"><!--<DIV class="swiper-slide" data-url="" style="background-image: url(/dfiles/12996/sites/xxb.prod1.dpcms8.sysu.edu.cn/files/20180918094512.jpg)">
+                                                                <DIV class="inner">
+                                                                    <DIV class="inside-tb"></DIV>
+                                                                </DIV>
+                                                            </DIV>-->
+           <!--#begineditable clone="0" namechanged="0" order="0" ispublic="0" tagname="图片文章列表" viewid="202305" contentviewid="" contype="" stylesysid="" layout="" action="" name="图片文章列表"--><script language="javascript" src="/system/resource/js/dynclicks.js"></script><script language="javascript" src="/system/resource/js/jquery/jquery-latest.min.js"></script>        <DIV class="swiper-slide" data-url="" style="background-image: url(/__local/2/34/CF/D5B2FDDF43DC884C3B39119D983_23D92B01_1C789.jpg)">
+            <DIV class="inner">
+                <DIV class="inside-tb"></DIV>
+            </DIV>
+        </DIV>    
+        <DIV class="swiper-slide" data-url="" style="background-image: url(/__local/E/F2/07/3F3AA0237801EEBCD50648A320E_67F0CA2A_183DB.jpg)">
+            <DIV class="inner">
+                <DIV class="inside-tb"></DIV>
+            </DIV>
+        </DIV>    
+        <DIV class="swiper-slide" data-url="" style="background-image: url(/__local/3/F4/92/DCDE1460D0F45CD2784485002C9_28EDE9F4_4493D.jpg)">
+            <DIV class="inner">
+                <DIV class="inside-tb"></DIV>
+            </DIV>
+        </DIV>    
+<script>_showDynClickBatch(['dynclicks_u1_1015','dynclicks_u1_1014','dynclicks_u1_1013'],[1015,1014,1013],"wbnews", 1581833981)</script>
+<!--#endeditable--> </DIV>
+<DIV class="pagination"></DIV>
+<DIV class="swiper-button-next"></DIV>
+<DIV class="swiper-button-prev"></DIV></DIV></DIV></DIV></DIV></DIV></DIV>
+<DIV class="row">
+<DIV class="col-sm-12 col-md-9">
+<DIV class="block-region-left">
+<DIV class="block" data-block-plugin-id="block_content:a293a054-d760-4937-917c-f8f56d926c18">
+<H2 class="block-title">通知公告</H2>
+<DIV class="list-3 list-3-1 inside-b outside-b list-3-1-blue"><!--#begineditable clone="0" namechanged="0" order="3" ispublic="0" tagname="通知公告-标题列表" viewid="202260" contentviewid="" contype="" stylesysid="" layout="" action="" name="通知公告-标题列表"--><ul class="list-content">
+</ul>
+<!--#endeditable--><A class="more-link" href="tzgg.htm">更多</A> </DIV></DIV>
+<DIV class="block" data-block-plugin-id="block_content:24358995-7ba5-4f5a-97ce-1570b2df88c2">
+<H2 class="block-title">新闻动态</H2>
+<DIV class="list-3 list-3-1 inside-b outside-b list-3-1-blue"><!--#begineditable clone="0" namechanged="0" order="4" ispublic="0" tagname="新闻动态-标题列表" viewid="202259" contentviewid="" contype="" stylesysid="" layout="" action="" name="新闻动态-标题列表"--><ul class="list-content">
+   <li class="inside-tb inside-min-lr">
+
+       <span class="f-r outside-l">2019-09-16</span>
+            <div class="one-line">
+       <a href="info/1006/1009.htm" class="one-line f-l" target="_blank" title="国家互联网信息办公室公布《互联网用户公众账号信息服务管理规定》">国家互联网信息办公室公布《互联网用户公众账号信息服务管理规定》</a> 
+</div>
+</li>
+   <li class="inside-tb inside-min-lr">
+
+       <span class="f-r outside-l">2019-09-16</span>
+            <div class="one-line">
+       <a href="info/1006/1008.htm" class="one-line f-l" target="_blank" title="国家互联网信息办公室公布《互联网新闻信息服务新技术新应用安全评估管理规定》">国家互联网信息办公室公布《互联网新闻信息服务新技术新应用安全评估管理规定》</a> 
+</div>
+</li>
+   <li class="inside-tb inside-min-lr">
+
+       <span class="f-r outside-l">2019-09-16</span>
+            <div class="one-line">
+       <a href="info/1006/1007.htm" class="one-line f-l" target="_blank" title="国家互联网信息办公室公布《互联网新闻信息服务单位内容管理从业人员管理办法》">国家互联网信息办公室公布《互联网新闻信息服务单位内容管理从业人员管理办法》</a> 
+</div>
+</li>
+</ul><script>_showDynClickBatch(['dynclicks_u3_1009','dynclicks_u3_1008','dynclicks_u3_1007'],[1009,1008,1007],"wbnews", 1581833981)</script>
+<!--#endeditable--><A class="more-link" href="xwdt.htm">更多</A> </DIV></DIV></DIV></DIV>
+<DIV class="col-sm-12 col-md-3">
+<DIV class="block-region-right">
+<DIV class="block" data-block-plugin-id="block_content:0dfc53e8-4973-4bf2-979b-f610a3c62b3a">
+<H2 class="block-title">联系方式</H2>
+<DIV class="field field-body field-type-text-with-summary field-label-hidden field-item">
+<DIV style="padding-left: 10px; padding-right: 10px"><!--#begineditable clone="0" namechanged="0" order="5" ispublic="0" tagname="文本框" viewid="202275" contentviewid="" contype="" stylesysid="" layout="" action="" name="文本框"--><script language="javascript" src="/system/resource/js/news/mp4video.js"></script>
+<p>地址：花江校区科技楼511-1室</p> 
+<p>电话：（0773）2290730</p> 
+<p>邮箱：info@guet.edu.cn</p> 
+<p><br></p><!--#endeditable--></DIV></DIV></DIV>
+<DIV class="panel-tabs panel-tabs-auto block" data-block-plugin-id="block_content:dca80fa9-d93c-4f2b-9e10-65a5697c97c0">
+<H2 class="block-title">相关链接</H2>
+<DIV class="list-button"><!--#begineditable clone="0" namechanged="0" order="6" ispublic="0" tagname="相关链接-链接列表" viewid="202263" contentviewid="" contype="" stylesysid="" layout="" action="" name="相关链接-链接列表"--><script language="javascript" src="/system/resource/js/openlink.js"></script> <div class="list-button">
+ <div class="col col-md-12 t-c outside-min-t outside-min-b">
+                                                        <a class="btn  btn-icon t-c " href="https://www.guet.edu.cn/" target="_blank" title="" style="background-color: #01518E;color: #FFFFFF;border-radius: 5px;           width: 100%;">
+
+                                                            <span>桂电子科技大学</span>
+                                                        </a>
+                                                    </div>
+ 
+ <div class="col col-md-12 t-c outside-min-t outside-min-b">
+                                                        <a class="btn  btn-icon t-c " href="http://utsc.guet.edu.cn/" target="_blank" title="" style="background-color: #01518E;color: #FFFFFF;border-radius: 5px;           width: 100%;">
+
+                                                            <span>本科教学服务网</span>
+                                                        </a>
+                                                    </div>
+ 
+ <div class="col col-md-12 t-c outside-min-t outside-min-b">
+                                                        <a class="btn  btn-icon t-c " href="https://cas.guet.edu.cn/cas/login?service=http://fwdt.guet.edu.cn/EIP//user/index.htm" title="" style="background-color: #01518E;color: #FFFFFF;border-radius: 5px;           width: 100%;">
+
+                                                            <span>智慧校园</span>
+                                                        </a>
+                                                    </div>
+ 
+ <div class="col col-md-12 t-c outside-min-t outside-min-b">
+                                                        <a class="btn  btn-icon t-c " href="https://www.guet.edu.cn/xjzx/" title="" style="background-color: #01518E;color: #FFFFFF;border-radius: 5px;           width: 100%;">
+
+                                                            <span>网络与信息技术中心</span>
+                                                        </a>
+                                                    </div>
+ 
+</div><!--#endeditable--></DIV></DIV></DIV></DIV></DIV></DIV></DIV></ARTICLE></DIV></DIV>
+<DIV id="footer">
+<DIV class="block" id="block-footer-2" data-block-plugin-id="block_content:c66c305b-9ef5-4596-9f31-22956d73fa08">
+<DIV class="field field-body field-type-text-with-summary field-label-hidden field-item"><FOOTER class="footer container" style="border-top: #e5e5e5 1px solid; margin-top: 15px; padding-bottom: 36px; text-align: center; padding-top: 35px">
+<DIV class="region region-footer"><SECTION class="block block-block clearfix" id="block-block-4">
+<P class="rtecenter">Copyright@ 桂电子科技大学信息化管理办公室 Office of Informatization Management</P></SECTION></DIV></FOOTER></DIV></DIV></DIV></DIV></DIV><script type="application/json" data-drupal-selector="drupal-settings-json">
+        {"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/25","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"zh-hans"},"pluralDelimiter":"\u0003","password_encrypt":{"passkey":"161c803c1197a3c6"},"statistics":{"data":{"nid":"25"},"url":"\/core\/modules\/statistics\/statistics.php"},"ajaxTrustedUrl":{"\/search\/all":true},"themepath":"profiles\/custom\/sysu\/themes\/sysu_front","ajax":[],"user":{"uid":0,"permissionsHash":"563dd20af867b7668c85c918a93bd2a92b64ae82136647b06e4baaebbb7b43e9"}}
+    </script><script src="dfiles/12996/core/assets/vendor/domready/7016a15e42d563af8cfe643c26e159eb_ready.min.js"></script><script src="dfiles/12996/core/assets/vendor/jquery/f77b33deb395f5dea35f8b660f0d7e6c_jquery.min.js"></script><script src="dfiles/12996/core/assets/vendor/underscore/a532b3ef9e1737921f7ab3c1b8b5438b_underscore-min.js"></script><script src="dfiles/12996/core/assets/vendor/jquery/f77b33deb395f5dea35f8b660f0d7e6c_jquery-extend-3.4.0.js"></script><script src="dfiles/12996/core/assets/vendor/jquery-once/d1f131bd35cae337d7b4f06c8d42975f_jquery.once.min.js"></script><script src="dfiles/12996/core/misc/68d946a0b03992dfcb01b12cedacfbe0_drupalsettingsloader.js"></script><script src="dfiles/12996/sites/xxb.prod1.dpcms8.sysu.edu.cn/files/languages/b2f26ea9be50faf308b3066b1269b51d_zh-hans_nd04dlr28kjlg3kbaie8yvivzj0io3g95o9hkejxtea.js"></script><script src="dfiles/12996/core/misc/68d946a0b03992dfcb01b12cedacfbe0_drupal.js"></script><script src="dfiles/12996/core/misc/68d946a0b03992dfcb01b12cedacfbe0_drupal.init.js"></script><script src="dfiles/12996/profiles/custom/sysu/themes/sysu_front/js/b2f26ea9be50faf308b3066b1269b51d_drupal.js"></script><script src="dfiles/12996/profiles/custom/sysu/themes/sysu_front/build/b2f26ea9be50faf308b3066b1269b51d_init.js"></script><script src="dfiles/12996/profiles/custom/sysu/themes/sysu_front/js/plugins/b2f26ea9be50faf308b3066b1269b51d_back_to_top.js"></script><script src="dfiles/12996/profiles/custom/sysu/themes/sysu_front/bower_components/jquery.mmenu/dist/b2f26ea9be50faf308b3066b1269b51d_jquery.mmenu.all.js"></script><script src="dfiles/12996/profiles/custom/sysu/themes/sysu_front/js/plugins/b2f26ea9be50faf308b3066b1269b51d_mmenu.js"></script><script src="dfiles/12996/profiles/custom/sysu/themes/sysu_front/bower_components/code-prettify/loader/b2f26ea9be50faf308b3066b1269b51d_prettify.js"></script><script src="dfiles/12996/profiles/custom/sysu/themes/sysu_front/bower_components/bootstrap/js/b2f26ea9be50faf308b3066b1269b51d_dropdown.js"></script><script src="dfiles/12996/profiles/custom/sysu/themes/sysu_front/bower_components/bootstrap/js/b2f26ea9be50faf308b3066b1269b51d_tab.js"></script><script src="dfiles/12996/profiles/custom/sysu/themes/sysu_front/js/plugins/b2f26ea9be50faf308b3066b1269b51d_tab.js"></script><script src="dfiles/12996/profiles/custom/sysu/themes/sysu_front/bower_components/bootstrap/js/b2f26ea9be50faf308b3066b1269b51d_collapse.js"></script><script src="dfiles/12996/profiles/custom/sysu/themes/sysu_front/bower_components/waypoints/lib/b2f26ea9be50faf308b3066b1269b51d_jquery.waypoints.min.js"></script><script src="dfiles/12996/profiles/custom/sysu/themes/sysu_front/bower_components/waypoints/lib/shortcuts/b2f26ea9be50faf308b3066b1269b51d_inview.min.js"></script><script src="dfiles/12996/profiles/custom/sysu/themes/sysu_front/bower_components/waypoints/lib/shortcuts/b2f26ea9be50faf308b3066b1269b51d_sticky.min.js"></script><script src="dfiles/12996/profiles/custom/sysu/themes/sysu_front/js/plugins/b2f26ea9be50faf308b3066b1269b51d_inviews.js"></script><script src="dfiles/12996/profiles/custom/sysu/themes/sysu_front/js/plugins/b2f26ea9be50faf308b3066b1269b51d_sticky.js"></script><script src="dfiles/12996/profiles/custom/sysu/themes/sysu_front/bower_components/imagesloaded/b2f26ea9be50faf308b3066b1269b51d_imagesloaded.pkgd.min.js"></script><script src="dfiles/12996/profiles/custom/sysu/themes/sysu_front/bower_components/isotope-layout/dist/b2f26ea9be50faf308b3066b1269b51d_isotope.pkgd.min.js"></script><script src="dfiles/12996/profiles/custom/sysu/themes/sysu_front/js/plugins/b2f26ea9be50faf308b3066b1269b51d_isotope.js"></script><script src="dfiles/12996/modules/contrib/password_encrypt/js/68d946a0b03992dfcb01b12cedacfbe0_password_encrypt.js"></script><script src="dfiles/12996/libraries/cryptojs/68d946a0b03992dfcb01b12cedacfbe0_aes.js"></script><script src="dfiles/12996/core/modules/statistics/68d946a0b03992dfcb01b12cedacfbe0_statistics.js"></script><script src="dfiles/12996/profiles/custom/sysu/themes/sysu_front/bower_components/swiper/dist/b2f26ea9be50faf308b3066b1269b51d_idangerous.swiper.min.js"></script><script src="dfiles/12996/profiles/custom/sysu/themes/sysu_front/js/plugins/b2f26ea9be50faf308b3066b1269b51d_swiper2.js"></script>
+
+</BODY></HTML>

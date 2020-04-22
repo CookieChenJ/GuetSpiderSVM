@@ -1,0 +1,82 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <div>
+        <br />
+        &nbsp;<span style="color: activecaption">&nbsp;
+            <div style="z-index: 101; left: 41px; width: 790px; position: absolute; top: 60px;
+                height: 255px">
+                <span style="color: green">温馨提示： &nbsp;&nbsp;<br />
+                    &nbsp;
+                    <br />
+                    学生和校内硕士研究生导师:
+                    <br /> 请从桂林电子科技大学<a href="http://szhxy.guet.edu.cn" target="_blank">数字化校园登录</a><br />
+               
+                    若无帐号,请先注册数字化校园帐号后再登录...   
+                      <br />
+                    <br />
+                    <br />
+                             :
+                    <br /> <a href="http://yjsgl.guet.edu.cn/login.aspx" target="_blank">校外硕士研究生导师登录:http://yjsgl.guet.edu.cn/login.aspx</a><br />
+               
+                       
+                      <br />
+         
+                    <br />
+                    <a href="http://yjsgl.guet.edu.cn/OSLogin.aspx" target="_blank">校外评审专家登录:http://yjsgl.guet.edu.cn/OSLogin.aspx</a><br />
+               
+                      <br />
+             
+                    <br />
+                    </span></div>
+            <br />
+        </span>
+    
+    </div>
+</body>
+</html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <div>
+        <br />
+        &nbsp;<span style="color: activecaption">&nbsp;
+            <div style="z-index: 101; left: 41px; width: 790px; position: absolute; top: 60px;
+                height: 255px">
+                <span style="color: green">温馨提示： &nbsp;&nbsp;<br />
+                    &nbsp;
+                    <br />
+                    学生和校内硕士研究生导师:
+                    <br /> 请从桂林电子科技大学<a href="http://szhxy.guet.edu.cn" target="_blank">数字化校园登录</a><br />
+               
+                    若无帐号,请先注册数字化校园帐号后再登录...   
+                      <br />
+                    <br />
+                    <br />
+                             :
+                    <br /> <a href="http://yjsgl.guet.edu.cn/login.aspx" target="_blank">校外硕士研究生导师登录:http://yjsgl.guet.edu.cn/login.aspx</a><br />
+               
+                       
+                      <br />
+         
+                    <br />
+                    <a href="http://yjsgl.guet.edu.cn/OSLogin.aspx" target="_blank">校外评审专家登录:http://yjsgl.guet.edu.cn/OSLogin.aspx</a><br />
+               
+                      <br />
+             
+                    <br />
+                    </span></div>
+            <br />
+        </span>
+    
+    </div>
+</body>
+</html>

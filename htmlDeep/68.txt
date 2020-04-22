@@ -1,0 +1,840 @@
+
+
+<html>
+<head>
+<title>extGuetWeb</title><META Name="keywords" Content="extGuetWeb" />
+
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="index.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1462225133)</script>
+</head>
+<body>
+     <head><!--#begineditable name="LOGO" action="webber.wbst.com.basecomponent.BaseComponent" layout="/system/_component/basecomponent/tpllogo.jsp" tpltype="1" contype="" clone="" viewid="203200" contentviewid="" tagname="LOGO"-->
+<!-- 网站logo图片地址请在本组件"内容配置-网站logo"处填写 -->
+<a href="" title="extGuetWeb"><img src="/system/_component/basecomponent/logo_preview.gif" width="320" height="240" border="0" alt="extGuetWeb" title="extGuetWeb"></a><!--#endeditable--></head>
+
+<div><!--#begineditable name="网站导航" action="webber.wbst.com.util.SitelinkAction" layout="/system/_component/sitenav/vnav.jsp" tpltype="0" contype="" clone="" viewid="203201" contentviewid="" tagname="网站导航"--><style type="text/css">
+td.b1_1_{FONT-SIZE:9pt;}
+td.b2_1_{FONT-SIZE:9pt;}
+td.b3_1_{FONT-SIZE:9pt;BORDER-BOTTOM: #cccccc 1px solid;BACKGROUND-COLOR: #eeeeee;BORDER-RIGHT: #cccccc 1px solid;}
+td.b4_1_{FONT-SIZE:9pt;BORDER-BOTTOM: #cccccc 1px solid;BACKGROUND-COLOR: #eeeeee;BORDER-RIGHT: #cccccc 1px solid;}
+a.menu0_1_:link {TEXT-DECORATION: none;};
+a.menu0_1_:visited { TEXT-DECORATION: none;};
+a.menu0_1_:hover {TEXT-DECORATION: none;};
+a.menu0_1_:active {TEXT-DECORATION: none;};
+table.tb1_1_{FONT-SIZE:9pt;border:0;}
+span.s1_1_{LINE-HEIGHT: 160%;FONT-FAMILY: 宋体;COLOR: #cc0000;FONT-SIZE: 11pt;TEXT-DECORATION: none;}
+span.s2_1_{LINE-HEIGHT: 160%;FONT-FAMILY: 宋体;COLOR: #cc0000;FONT-SIZE: 11pt;TEXT-DECORATION: none;}
+span.s10_1_{LINE-HEIGHT: 160%;FONT-FAMILY: 宋体;COLOR: #000000;FONT-SIZE: 11pt;TEXT-DECORATION: none;}
+span.s20_1_{LINE-HEIGHT: 160%;FONT-FAMILY: 宋体;COLOR: #000000;FONT-SIZE: 11pt;TEXT-DECORATION: none;}
+</style>
+<SCRIPT language="javascript"> 
+ var showfix_1_ = 1;
+ var isvertical_1_ = false;
+</SCRIPT>
+<script language="javascript" src="/system/resource/js/menu/text.js"></script>
+<TABLE id="t1_1_" cellSpacing="0" cellPadding="0" border="0" height="0" width="0"><TR><TD valign="center"></TD><TD valign="middle" height="0" width="0" nowrap class="b1_1_" align="center" id="a_1_1001" onmouseover="tshowLayers('1001','b2_1_', '_1_')" onmouseout="thideLayers('1001','b1_1_', '_1_','false','true')"><a class="menu0_1_" href="index.htm"><span class="currentfontStyle203201">&nbsp;首页&nbsp;</span></a></TD></TR></TR></table><!--#endeditable--></div>
+ <div>
+   <table style="width:100%; margin:auto;">
+   <tr>
+   <td style="width:30%"><!--#begineditable name="最新文章标题列表" action="webber.wbst.com.news.LatestNewsTitleList" layout="/system/_component/news/list/latesttitlelist.jsp" tpltype="0" contype="news" clone="" viewid="203203" contentviewid="" tagname="最新文章标题列表"--><script language="javascript" src="/system/resource/js/jquery/jquery-latest.min.js"></script>
+<div id="load_div_u2" class="winstyle203203" style="width: 100%;height: 100%;text-align: center;vertical-align: middle;"><img border="0" src="/system/resource/images/loading.gif"></div>
+<table class="winstyle203203" width="100%" cellspacing="0" cellpadding="0" id="latest_content_table_u2" style="display: none;">
+</table>
+<script type="text/javascript">
+function getLatestNewsTitleu2()
+{
+    var mediaisshow = 'false';
+    var _this = this;
+    var loaddiv = jQuery("#load_div_u2");
+    var contenttable = jQuery("#latest_content_table_u2");
+    _this.t_body = jQuery("#latest_content_table_u2");
+    _this.clickshow = false;
+    _this.clickname = '点击';
+    _this.clickstyle = 'clickstyle203203';
+    _this.endimageposition = false;
+    _this.isfollowtilte = false;
+    //构造 参数
+    var param =  {owner:'1462225133',treeid:'1001',viewid:'203203',mode:'10',
+            orderField:'wbdate',orderby:'desc',locale:'zh_CN',
+            showorder:'Error not found out name:<b>showorder </b>',pageUrl:'/index.htm',uniqueId:'u2',
+            PAGENUM:_this.curpage,actionmethod:'getnewslist'}
+     var ajaxurl  = "/system/resource/js/news/latestdynpullnews.jsp";        
+     _this._getResult = function()
+     {
+        jQuery.post(ajaxurl,param,
+            function(data){
+                _this.dataloadComplete(data);
+            },
+            "json"
+        );
+      }
+      _this.show = function()
+      {
+        loaddiv.css("display","none");
+        contenttable.css("display","");
+      }
+     //数据加载
+     _this.dataloadComplete = function(data)
+     {
+             if(data&&data.length>0)
+            {
+                 var  img = '';
+                 var video = ''; 
+                 var attach = ''; 
+                 
+                 var isshowimg = false;
+                 var showimgalign =  'right';
+                 var isshowvideo = false;
+                 var showvideoalign = 'right';
+                 var isshowattach = false;
+                 var showattachalign = 'right';
+                 for(var i=0;i<data.length;i++)
+                 {
+                     var notice_val = data[i];
+                     var wbishaveimg = notice_val.wbishaveimg;
+                     var wbishavevideo = notice_val.wbishavevideo;
+                     var wbhasattach = notice_val.wbhasattach;
+                     var wbpicurl = notice_val.wbpicurl;
+                     if(mediaisshow&&wbpicurl!=null&&wbpicurl!="")
+                     {
+                        var pic_tr = jQuery("<tr></tr>");
+                        var pic_td = jQuery("<td colspan='5'></td>");
+                        pic_td.html(notice_val.picdiv);
+                        _this.t_body.append(pic_tr);
+                     }
+                     
+                     
+                     
+                     var notice_tr = jQuery("<tr></tr>");
+                     //前导图
+                     var leader_td = jQuery("<td align='center' valign='middle' width=10 nowrap ></td>");
+                     var leaderspan =jQuery("<span >·</span>");
+                     leaderspan.addClass("leaderfont203203");
+                     leader_td.append(leaderspan);
+                     notice_tr.append(leader_td);
+                     
+                     
+                     var title_td = jQuery("<td valign='middle' align='left' ></td>");
+                     title_td.addClass("");
+                     
+                     var columnstr = jQuery(notice_val.columnstr);
+                     title_td.append(columnstr);
+                     
+                     if(isshowimg&&showimgalign=="left"&&(wbishaveimg==1))
+                     {
+                        var imgspan = jQuery("<span >"+img+"</span>");
+                        title_td.append(imgspan);
+                     }
+                     if(isshowvideo&&showvideoalign=="left"&&(wbishavevideo==1))
+                     {
+                        var videospan = jQuery("<span >"+video+"</span>");
+                        title_td.append(videospan);
+                     }
+                     if(isshowattach&&showattachalign=="left"&&(wbhasattach==1))
+                     {
+                        var attachspan = jQuery("<span >"+attach+"</span>");
+                        title_td.append(attachspan);
+                     }
+                     
+                     var link_a = jQuery("<a class='c203203'   title='"+notice_val.showtitle+"'>"+notice_val.title+"</a>");
+                     link_a.attr("href",notice_val.linkurl);
+                     title_td.append(link_a);
+                     if(false)
+                     {
+                        var endimgspan = jQuery("<span>"+notice_val.endimg+"</span>");
+                        title_td.append(endimgspan);
+                     }
+                     
+                     if(isshowimg&&showimgalign=="right"&&(wbishaveimg==1))
+                     {
+                        var imgspan = jQuery("<span >"+img+"</span>");
+                        title_td.append(imgspan);
+                     }
+                     if(isshowvideo&&showvideoalign=="right"&&(wbishavevideo==1))
+                     {
+                        var videospan = jQuery("<span >"+video+"</span>");
+                        title_td.append(videospan);
+                     }
+                     if(isshowattach&&showattachalign=="right"&&(wbhasattach==1))
+                     {
+                        var attachspan = jQuery("<span >"+attach+"</span>");
+                        title_td.append(attachspan);
+                     }
+                     
+                     if(_this.clickshow)
+                     {
+                        var clicktimespan = jQuery("<span></span>");
+                        clicktimespan.html("("+_this.clickname+"&nbsp;"+notice_val.clickTimes+")");
+                        clicktimespan.addClass(_this.clickstyle);
+                        title_td.append(clicktimespan);
+                     }
+                     
+                     if(false)
+                     {
+                         var time_span = jQuery("<span width='1%' ></span>")
+                         
+                         time_span.addClass("timestyle203203");
+                         if(true)
+	                     {
+	                         var endimgspan = jQuery("<span>"+notice_val.endimg+"</span>");
+	                         time_span.append(endimgspan);
+	                     }  
+	                     title_td.append(time_span); 
+                     }
+                     notice_tr.append(title_td);
+                     
+                     
+                     if(true)
+                     {
+                        var time_td = jQuery("<td valign='middle' align=right   width='1%' nowrap>");
+                        time_td.addClass("timestyle203203");
+                        
+                        if(true)
+                        {
+                            var time_span = jQuery("<span width='1%' ></span>")
+	                        var endimgspan = jQuery("<span>"+notice_val.endimg+"</span>");
+	                        time_span.append(endimgspan);
+                            time_td.append(time_span);
+                        }
+                        notice_tr.append(time_td);
+                     }
+                     
+                     _this.t_body.append(notice_tr);
+                     
+                     var lineimg = '';
+                     if(lineimg!=null&&lineimg!='')
+                     {
+                        var lineimgheight = 1;
+                        var line_tr = jQuery("<tr><td colspan='4' height='" + lineimgheight + "' BACKGROUND='" + lineimg + "'></td></tr>")
+                        _this.t_body.append(line_tr);
+                     }
+                 }
+            }else
+            {
+                _this.t_body.append("<tr><td colspan=4 align=center style='color:#222222;font-size:12px;'>没有记录</td></tr>");
+            }      
+     }
+}
+jQuery(document).ready(function(){
+    var showcontentu2 = new getLatestNewsTitleu2();
+    showcontentu2._getResult();
+    showcontentu2.show();
+});
+</script><!--#endeditable--></td>
+   <td><!--#begineditable name="最新文章标题列表-右" action="webber.wbst.com.news.LatestNewsTitleList" layout="/system/_component/news/list/latesttitlelist.jsp" tpltype="0" contype="news" clone="" viewid="203204" contentviewid="" tagname="最新文章标题列表-右"-->
+<div id="load_div_u3" class="winstyle203204" style="width: 100%;height: 100%;text-align: center;vertical-align: middle;"><img border="0" src="/system/resource/images/loading.gif"></div>
+<table class="winstyle203204" width="100%" cellspacing="0" cellpadding="0" id="latest_content_table_u3" style="display: none;">
+</table>
+<script type="text/javascript">
+function getLatestNewsTitleu3()
+{
+    var mediaisshow = 'false';
+    var _this = this;
+    var loaddiv = jQuery("#load_div_u3");
+    var contenttable = jQuery("#latest_content_table_u3");
+    _this.t_body = jQuery("#latest_content_table_u3");
+    _this.clickshow = false;
+    _this.clickname = '点击';
+    _this.clickstyle = 'clickstyle203204';
+    _this.endimageposition = false;
+    _this.isfollowtilte = false;
+    //构造 参数
+    var param =  {owner:'1462225133',treeid:'1001',viewid:'203204',mode:'10',
+            orderField:'wbdate',orderby:'desc',locale:'zh_CN',
+            showorder:'Error not found out name:<b>showorder </b>',pageUrl:'/index.htm',uniqueId:'u3',
+            PAGENUM:_this.curpage,actionmethod:'getnewslist'}
+     var ajaxurl  = "/system/resource/js/news/latestdynpullnews.jsp";        
+     _this._getResult = function()
+     {
+        jQuery.post(ajaxurl,param,
+            function(data){
+                _this.dataloadComplete(data);
+            },
+            "json"
+        );
+      }
+      _this.show = function()
+      {
+        loaddiv.css("display","none");
+        contenttable.css("display","");
+      }
+     //数据加载
+     _this.dataloadComplete = function(data)
+     {
+             if(data&&data.length>0)
+            {
+                 var  img = '';
+                 var video = ''; 
+                 var attach = ''; 
+                 
+                 var isshowimg = false;
+                 var showimgalign =  'right';
+                 var isshowvideo = false;
+                 var showvideoalign = 'right';
+                 var isshowattach = false;
+                 var showattachalign = 'right';
+                 for(var i=0;i<data.length;i++)
+                 {
+                     var notice_val = data[i];
+                     var wbishaveimg = notice_val.wbishaveimg;
+                     var wbishavevideo = notice_val.wbishavevideo;
+                     var wbhasattach = notice_val.wbhasattach;
+                     var wbpicurl = notice_val.wbpicurl;
+                     if(mediaisshow&&wbpicurl!=null&&wbpicurl!="")
+                     {
+                        var pic_tr = jQuery("<tr></tr>");
+                        var pic_td = jQuery("<td colspan='5'></td>");
+                        pic_td.html(notice_val.picdiv);
+                        _this.t_body.append(pic_tr);
+                     }
+                     
+                     
+                     
+                     var notice_tr = jQuery("<tr></tr>");
+                     //前导图
+                     var leader_td = jQuery("<td align='center' valign='middle' width=10 nowrap ></td>");
+                     var leaderspan =jQuery("<span >·</span>");
+                     leaderspan.addClass("leaderfont203204");
+                     leader_td.append(leaderspan);
+                     notice_tr.append(leader_td);
+                     
+                     
+                     var title_td = jQuery("<td valign='middle' align='left' ></td>");
+                     title_td.addClass("");
+                     
+                     var columnstr = jQuery(notice_val.columnstr);
+                     title_td.append(columnstr);
+                     
+                     if(isshowimg&&showimgalign=="left"&&(wbishaveimg==1))
+                     {
+                        var imgspan = jQuery("<span >"+img+"</span>");
+                        title_td.append(imgspan);
+                     }
+                     if(isshowvideo&&showvideoalign=="left"&&(wbishavevideo==1))
+                     {
+                        var videospan = jQuery("<span >"+video+"</span>");
+                        title_td.append(videospan);
+                     }
+                     if(isshowattach&&showattachalign=="left"&&(wbhasattach==1))
+                     {
+                        var attachspan = jQuery("<span >"+attach+"</span>");
+                        title_td.append(attachspan);
+                     }
+                     
+                     var link_a = jQuery("<a class='c203204'   title='"+notice_val.showtitle+"'>"+notice_val.title+"</a>");
+                     link_a.attr("href",notice_val.linkurl);
+                     title_td.append(link_a);
+                     if(false)
+                     {
+                        var endimgspan = jQuery("<span>"+notice_val.endimg+"</span>");
+                        title_td.append(endimgspan);
+                     }
+                     
+                     if(isshowimg&&showimgalign=="right"&&(wbishaveimg==1))
+                     {
+                        var imgspan = jQuery("<span >"+img+"</span>");
+                        title_td.append(imgspan);
+                     }
+                     if(isshowvideo&&showvideoalign=="right"&&(wbishavevideo==1))
+                     {
+                        var videospan = jQuery("<span >"+video+"</span>");
+                        title_td.append(videospan);
+                     }
+                     if(isshowattach&&showattachalign=="right"&&(wbhasattach==1))
+                     {
+                        var attachspan = jQuery("<span >"+attach+"</span>");
+                        title_td.append(attachspan);
+                     }
+                     
+                     if(_this.clickshow)
+                     {
+                        var clicktimespan = jQuery("<span></span>");
+                        clicktimespan.html("("+_this.clickname+"&nbsp;"+notice_val.clickTimes+")");
+                        clicktimespan.addClass(_this.clickstyle);
+                        title_td.append(clicktimespan);
+                     }
+                     
+                     if(false)
+                     {
+                         var time_span = jQuery("<span width='1%' ></span>")
+                         
+                         time_span.addClass("timestyle203204");
+                         if(true)
+	                     {
+	                         var endimgspan = jQuery("<span>"+notice_val.endimg+"</span>");
+	                         time_span.append(endimgspan);
+	                     }  
+	                     title_td.append(time_span); 
+                     }
+                     notice_tr.append(title_td);
+                     
+                     
+                     if(true)
+                     {
+                        var time_td = jQuery("<td valign='middle' align=right   width='1%' nowrap>");
+                        time_td.addClass("timestyle203204");
+                        
+                        if(true)
+                        {
+                            var time_span = jQuery("<span width='1%' ></span>")
+	                        var endimgspan = jQuery("<span>"+notice_val.endimg+"</span>");
+	                        time_span.append(endimgspan);
+                            time_td.append(time_span);
+                        }
+                        notice_tr.append(time_td);
+                     }
+                     
+                     _this.t_body.append(notice_tr);
+                     
+                     var lineimg = '';
+                     if(lineimg!=null&&lineimg!='')
+                     {
+                        var lineimgheight = 1;
+                        var line_tr = jQuery("<tr><td colspan='4' height='" + lineimgheight + "' BACKGROUND='" + lineimg + "'></td></tr>")
+                        _this.t_body.append(line_tr);
+                     }
+                 }
+            }else
+            {
+                _this.t_body.append("<tr><td colspan=4 align=center style='color:#222222;font-size:12px;'>没有记录</td></tr>");
+            }      
+     }
+}
+jQuery(document).ready(function(){
+    var showcontentu3 = new getLatestNewsTitleu3();
+    showcontentu3._getResult();
+    showcontentu3.show();
+});
+</script><!--#endeditable--></td>
+   </tr>
+   </table>
+
+ </div>
+ <div><!--#begineditable name="版权" action="webber.wbst.com.basecomponent.BaseComponent" layout="/system/_component/basecomponent/copyright.jsp" tpltype="0" contype="" clone="" viewid="203202" contentviewid="" tagname="版权"-->这个是脚本<!--#endeditable--></div>
+</body>
+</html>
+
+
+<html>
+<head>
+<title>extGuetWeb</title><META Name="keywords" Content="extGuetWeb" />
+
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="index.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1462225133)</script>
+</head>
+<body>
+     <head><!--#begineditable name="LOGO" action="webber.wbst.com.basecomponent.BaseComponent" layout="/system/_component/basecomponent/tpllogo.jsp" tpltype="1" contype="" clone="" viewid="203200" contentviewid="" tagname="LOGO"-->
+<!-- 网站logo图片地址请在本组件"内容配置-网站logo"处填写 -->
+<a href="" title="extGuetWeb"><img src="/system/_component/basecomponent/logo_preview.gif" width="320" height="240" border="0" alt="extGuetWeb" title="extGuetWeb"></a><!--#endeditable--></head>
+
+<div><!--#begineditable name="网站导航" action="webber.wbst.com.util.SitelinkAction" layout="/system/_component/sitenav/vnav.jsp" tpltype="0" contype="" clone="" viewid="203201" contentviewid="" tagname="网站导航"--><style type="text/css">
+td.b1_1_{FONT-SIZE:9pt;}
+td.b2_1_{FONT-SIZE:9pt;}
+td.b3_1_{FONT-SIZE:9pt;BORDER-BOTTOM: #cccccc 1px solid;BACKGROUND-COLOR: #eeeeee;BORDER-RIGHT: #cccccc 1px solid;}
+td.b4_1_{FONT-SIZE:9pt;BORDER-BOTTOM: #cccccc 1px solid;BACKGROUND-COLOR: #eeeeee;BORDER-RIGHT: #cccccc 1px solid;}
+a.menu0_1_:link {TEXT-DECORATION: none;};
+a.menu0_1_:visited { TEXT-DECORATION: none;};
+a.menu0_1_:hover {TEXT-DECORATION: none;};
+a.menu0_1_:active {TEXT-DECORATION: none;};
+table.tb1_1_{FONT-SIZE:9pt;border:0;}
+span.s1_1_{LINE-HEIGHT: 160%;FONT-FAMILY: 宋体;COLOR: #cc0000;FONT-SIZE: 11pt;TEXT-DECORATION: none;}
+span.s2_1_{LINE-HEIGHT: 160%;FONT-FAMILY: 宋体;COLOR: #cc0000;FONT-SIZE: 11pt;TEXT-DECORATION: none;}
+span.s10_1_{LINE-HEIGHT: 160%;FONT-FAMILY: 宋体;COLOR: #000000;FONT-SIZE: 11pt;TEXT-DECORATION: none;}
+span.s20_1_{LINE-HEIGHT: 160%;FONT-FAMILY: 宋体;COLOR: #000000;FONT-SIZE: 11pt;TEXT-DECORATION: none;}
+</style>
+<SCRIPT language="javascript"> 
+ var showfix_1_ = 1;
+ var isvertical_1_ = false;
+</SCRIPT>
+<script language="javascript" src="/system/resource/js/menu/text.js"></script>
+<TABLE id="t1_1_" cellSpacing="0" cellPadding="0" border="0" height="0" width="0"><TR><TD valign="center"></TD><TD valign="middle" height="0" width="0" nowrap class="b1_1_" align="center" id="a_1_1001" onmouseover="tshowLayers('1001','b2_1_', '_1_')" onmouseout="thideLayers('1001','b1_1_', '_1_','false','true')"><a class="menu0_1_" href="index.htm"><span class="currentfontStyle203201">&nbsp;首页&nbsp;</span></a></TD></TR></TR></table><!--#endeditable--></div>
+ <div>
+   <table style="width:100%; margin:auto;">
+   <tr>
+   <td style="width:30%"><!--#begineditable name="最新文章标题列表" action="webber.wbst.com.news.LatestNewsTitleList" layout="/system/_component/news/list/latesttitlelist.jsp" tpltype="0" contype="news" clone="" viewid="203203" contentviewid="" tagname="最新文章标题列表"--><script language="javascript" src="/system/resource/js/jquery/jquery-latest.min.js"></script>
+<div id="load_div_u2" class="winstyle203203" style="width: 100%;height: 100%;text-align: center;vertical-align: middle;"><img border="0" src="/system/resource/images/loading.gif"></div>
+<table class="winstyle203203" width="100%" cellspacing="0" cellpadding="0" id="latest_content_table_u2" style="display: none;">
+</table>
+<script type="text/javascript">
+function getLatestNewsTitleu2()
+{
+    var mediaisshow = 'false';
+    var _this = this;
+    var loaddiv = jQuery("#load_div_u2");
+    var contenttable = jQuery("#latest_content_table_u2");
+    _this.t_body = jQuery("#latest_content_table_u2");
+    _this.clickshow = false;
+    _this.clickname = '点击';
+    _this.clickstyle = 'clickstyle203203';
+    _this.endimageposition = false;
+    _this.isfollowtilte = false;
+    //构造 参数
+    var param =  {owner:'1462225133',treeid:'1001',viewid:'203203',mode:'10',
+            orderField:'wbdate',orderby:'desc',locale:'zh_CN',
+            showorder:'Error not found out name:<b>showorder </b>',pageUrl:'/index.htm',uniqueId:'u2',
+            PAGENUM:_this.curpage,actionmethod:'getnewslist'}
+     var ajaxurl  = "/system/resource/js/news/latestdynpullnews.jsp";        
+     _this._getResult = function()
+     {
+        jQuery.post(ajaxurl,param,
+            function(data){
+                _this.dataloadComplete(data);
+            },
+            "json"
+        );
+      }
+      _this.show = function()
+      {
+        loaddiv.css("display","none");
+        contenttable.css("display","");
+      }
+     //数据加载
+     _this.dataloadComplete = function(data)
+     {
+             if(data&&data.length>0)
+            {
+                 var  img = '';
+                 var video = ''; 
+                 var attach = ''; 
+                 
+                 var isshowimg = false;
+                 var showimgalign =  'right';
+                 var isshowvideo = false;
+                 var showvideoalign = 'right';
+                 var isshowattach = false;
+                 var showattachalign = 'right';
+                 for(var i=0;i<data.length;i++)
+                 {
+                     var notice_val = data[i];
+                     var wbishaveimg = notice_val.wbishaveimg;
+                     var wbishavevideo = notice_val.wbishavevideo;
+                     var wbhasattach = notice_val.wbhasattach;
+                     var wbpicurl = notice_val.wbpicurl;
+                     if(mediaisshow&&wbpicurl!=null&&wbpicurl!="")
+                     {
+                        var pic_tr = jQuery("<tr></tr>");
+                        var pic_td = jQuery("<td colspan='5'></td>");
+                        pic_td.html(notice_val.picdiv);
+                        _this.t_body.append(pic_tr);
+                     }
+                     
+                     
+                     
+                     var notice_tr = jQuery("<tr></tr>");
+                     //前导图
+                     var leader_td = jQuery("<td align='center' valign='middle' width=10 nowrap ></td>");
+                     var leaderspan =jQuery("<span >·</span>");
+                     leaderspan.addClass("leaderfont203203");
+                     leader_td.append(leaderspan);
+                     notice_tr.append(leader_td);
+                     
+                     
+                     var title_td = jQuery("<td valign='middle' align='left' ></td>");
+                     title_td.addClass("");
+                     
+                     var columnstr = jQuery(notice_val.columnstr);
+                     title_td.append(columnstr);
+                     
+                     if(isshowimg&&showimgalign=="left"&&(wbishaveimg==1))
+                     {
+                        var imgspan = jQuery("<span >"+img+"</span>");
+                        title_td.append(imgspan);
+                     }
+                     if(isshowvideo&&showvideoalign=="left"&&(wbishavevideo==1))
+                     {
+                        var videospan = jQuery("<span >"+video+"</span>");
+                        title_td.append(videospan);
+                     }
+                     if(isshowattach&&showattachalign=="left"&&(wbhasattach==1))
+                     {
+                        var attachspan = jQuery("<span >"+attach+"</span>");
+                        title_td.append(attachspan);
+                     }
+                     
+                     var link_a = jQuery("<a class='c203203'   title='"+notice_val.showtitle+"'>"+notice_val.title+"</a>");
+                     link_a.attr("href",notice_val.linkurl);
+                     title_td.append(link_a);
+                     if(false)
+                     {
+                        var endimgspan = jQuery("<span>"+notice_val.endimg+"</span>");
+                        title_td.append(endimgspan);
+                     }
+                     
+                     if(isshowimg&&showimgalign=="right"&&(wbishaveimg==1))
+                     {
+                        var imgspan = jQuery("<span >"+img+"</span>");
+                        title_td.append(imgspan);
+                     }
+                     if(isshowvideo&&showvideoalign=="right"&&(wbishavevideo==1))
+                     {
+                        var videospan = jQuery("<span >"+video+"</span>");
+                        title_td.append(videospan);
+                     }
+                     if(isshowattach&&showattachalign=="right"&&(wbhasattach==1))
+                     {
+                        var attachspan = jQuery("<span >"+attach+"</span>");
+                        title_td.append(attachspan);
+                     }
+                     
+                     if(_this.clickshow)
+                     {
+                        var clicktimespan = jQuery("<span></span>");
+                        clicktimespan.html("("+_this.clickname+"&nbsp;"+notice_val.clickTimes+")");
+                        clicktimespan.addClass(_this.clickstyle);
+                        title_td.append(clicktimespan);
+                     }
+                     
+                     if(false)
+                     {
+                         var time_span = jQuery("<span width='1%' ></span>")
+                         
+                         time_span.addClass("timestyle203203");
+                         if(true)
+	                     {
+	                         var endimgspan = jQuery("<span>"+notice_val.endimg+"</span>");
+	                         time_span.append(endimgspan);
+	                     }  
+	                     title_td.append(time_span); 
+                     }
+                     notice_tr.append(title_td);
+                     
+                     
+                     if(true)
+                     {
+                        var time_td = jQuery("<td valign='middle' align=right   width='1%' nowrap>");
+                        time_td.addClass("timestyle203203");
+                        
+                        if(true)
+                        {
+                            var time_span = jQuery("<span width='1%' ></span>")
+	                        var endimgspan = jQuery("<span>"+notice_val.endimg+"</span>");
+	                        time_span.append(endimgspan);
+                            time_td.append(time_span);
+                        }
+                        notice_tr.append(time_td);
+                     }
+                     
+                     _this.t_body.append(notice_tr);
+                     
+                     var lineimg = '';
+                     if(lineimg!=null&&lineimg!='')
+                     {
+                        var lineimgheight = 1;
+                        var line_tr = jQuery("<tr><td colspan='4' height='" + lineimgheight + "' BACKGROUND='" + lineimg + "'></td></tr>")
+                        _this.t_body.append(line_tr);
+                     }
+                 }
+            }else
+            {
+                _this.t_body.append("<tr><td colspan=4 align=center style='color:#222222;font-size:12px;'>没有记录</td></tr>");
+            }      
+     }
+}
+jQuery(document).ready(function(){
+    var showcontentu2 = new getLatestNewsTitleu2();
+    showcontentu2._getResult();
+    showcontentu2.show();
+});
+</script><!--#endeditable--></td>
+   <td><!--#begineditable name="最新文章标题列表-右" action="webber.wbst.com.news.LatestNewsTitleList" layout="/system/_component/news/list/latesttitlelist.jsp" tpltype="0" contype="news" clone="" viewid="203204" contentviewid="" tagname="最新文章标题列表-右"-->
+<div id="load_div_u3" class="winstyle203204" style="width: 100%;height: 100%;text-align: center;vertical-align: middle;"><img border="0" src="/system/resource/images/loading.gif"></div>
+<table class="winstyle203204" width="100%" cellspacing="0" cellpadding="0" id="latest_content_table_u3" style="display: none;">
+</table>
+<script type="text/javascript">
+function getLatestNewsTitleu3()
+{
+    var mediaisshow = 'false';
+    var _this = this;
+    var loaddiv = jQuery("#load_div_u3");
+    var contenttable = jQuery("#latest_content_table_u3");
+    _this.t_body = jQuery("#latest_content_table_u3");
+    _this.clickshow = false;
+    _this.clickname = '点击';
+    _this.clickstyle = 'clickstyle203204';
+    _this.endimageposition = false;
+    _this.isfollowtilte = false;
+    //构造 参数
+    var param =  {owner:'1462225133',treeid:'1001',viewid:'203204',mode:'10',
+            orderField:'wbdate',orderby:'desc',locale:'zh_CN',
+            showorder:'Error not found out name:<b>showorder </b>',pageUrl:'/index.htm',uniqueId:'u3',
+            PAGENUM:_this.curpage,actionmethod:'getnewslist'}
+     var ajaxurl  = "/system/resource/js/news/latestdynpullnews.jsp";        
+     _this._getResult = function()
+     {
+        jQuery.post(ajaxurl,param,
+            function(data){
+                _this.dataloadComplete(data);
+            },
+            "json"
+        );
+      }
+      _this.show = function()
+      {
+        loaddiv.css("display","none");
+        contenttable.css("display","");
+      }
+     //数据加载
+     _this.dataloadComplete = function(data)
+     {
+             if(data&&data.length>0)
+            {
+                 var  img = '';
+                 var video = ''; 
+                 var attach = ''; 
+                 
+                 var isshowimg = false;
+                 var showimgalign =  'right';
+                 var isshowvideo = false;
+                 var showvideoalign = 'right';
+                 var isshowattach = false;
+                 var showattachalign = 'right';
+                 for(var i=0;i<data.length;i++)
+                 {
+                     var notice_val = data[i];
+                     var wbishaveimg = notice_val.wbishaveimg;
+                     var wbishavevideo = notice_val.wbishavevideo;
+                     var wbhasattach = notice_val.wbhasattach;
+                     var wbpicurl = notice_val.wbpicurl;
+                     if(mediaisshow&&wbpicurl!=null&&wbpicurl!="")
+                     {
+                        var pic_tr = jQuery("<tr></tr>");
+                        var pic_td = jQuery("<td colspan='5'></td>");
+                        pic_td.html(notice_val.picdiv);
+                        _this.t_body.append(pic_tr);
+                     }
+                     
+                     
+                     
+                     var notice_tr = jQuery("<tr></tr>");
+                     //前导图
+                     var leader_td = jQuery("<td align='center' valign='middle' width=10 nowrap ></td>");
+                     var leaderspan =jQuery("<span >·</span>");
+                     leaderspan.addClass("leaderfont203204");
+                     leader_td.append(leaderspan);
+                     notice_tr.append(leader_td);
+                     
+                     
+                     var title_td = jQuery("<td valign='middle' align='left' ></td>");
+                     title_td.addClass("");
+                     
+                     var columnstr = jQuery(notice_val.columnstr);
+                     title_td.append(columnstr);
+                     
+                     if(isshowimg&&showimgalign=="left"&&(wbishaveimg==1))
+                     {
+                        var imgspan = jQuery("<span >"+img+"</span>");
+                        title_td.append(imgspan);
+                     }
+                     if(isshowvideo&&showvideoalign=="left"&&(wbishavevideo==1))
+                     {
+                        var videospan = jQuery("<span >"+video+"</span>");
+                        title_td.append(videospan);
+                     }
+                     if(isshowattach&&showattachalign=="left"&&(wbhasattach==1))
+                     {
+                        var attachspan = jQuery("<span >"+attach+"</span>");
+                        title_td.append(attachspan);
+                     }
+                     
+                     var link_a = jQuery("<a class='c203204'   title='"+notice_val.showtitle+"'>"+notice_val.title+"</a>");
+                     link_a.attr("href",notice_val.linkurl);
+                     title_td.append(link_a);
+                     if(false)
+                     {
+                        var endimgspan = jQuery("<span>"+notice_val.endimg+"</span>");
+                        title_td.append(endimgspan);
+                     }
+                     
+                     if(isshowimg&&showimgalign=="right"&&(wbishaveimg==1))
+                     {
+                        var imgspan = jQuery("<span >"+img+"</span>");
+                        title_td.append(imgspan);
+                     }
+                     if(isshowvideo&&showvideoalign=="right"&&(wbishavevideo==1))
+                     {
+                        var videospan = jQuery("<span >"+video+"</span>");
+                        title_td.append(videospan);
+                     }
+                     if(isshowattach&&showattachalign=="right"&&(wbhasattach==1))
+                     {
+                        var attachspan = jQuery("<span >"+attach+"</span>");
+                        title_td.append(attachspan);
+                     }
+                     
+                     if(_this.clickshow)
+                     {
+                        var clicktimespan = jQuery("<span></span>");
+                        clicktimespan.html("("+_this.clickname+"&nbsp;"+notice_val.clickTimes+")");
+                        clicktimespan.addClass(_this.clickstyle);
+                        title_td.append(clicktimespan);
+                     }
+                     
+                     if(false)
+                     {
+                         var time_span = jQuery("<span width='1%' ></span>")
+                         
+                         time_span.addClass("timestyle203204");
+                         if(true)
+	                     {
+	                         var endimgspan = jQuery("<span>"+notice_val.endimg+"</span>");
+	                         time_span.append(endimgspan);
+	                     }  
+	                     title_td.append(time_span); 
+                     }
+                     notice_tr.append(title_td);
+                     
+                     
+                     if(true)
+                     {
+                        var time_td = jQuery("<td valign='middle' align=right   width='1%' nowrap>");
+                        time_td.addClass("timestyle203204");
+                        
+                        if(true)
+                        {
+                            var time_span = jQuery("<span width='1%' ></span>")
+	                        var endimgspan = jQuery("<span>"+notice_val.endimg+"</span>");
+	                        time_span.append(endimgspan);
+                            time_td.append(time_span);
+                        }
+                        notice_tr.append(time_td);
+                     }
+                     
+                     _this.t_body.append(notice_tr);
+                     
+                     var lineimg = '';
+                     if(lineimg!=null&&lineimg!='')
+                     {
+                        var lineimgheight = 1;
+                        var line_tr = jQuery("<tr><td colspan='4' height='" + lineimgheight + "' BACKGROUND='" + lineimg + "'></td></tr>")
+                        _this.t_body.append(line_tr);
+                     }
+                 }
+            }else
+            {
+                _this.t_body.append("<tr><td colspan=4 align=center style='color:#222222;font-size:12px;'>没有记录</td></tr>");
+            }      
+     }
+}
+jQuery(document).ready(function(){
+    var showcontentu3 = new getLatestNewsTitleu3();
+    showcontentu3._getResult();
+    showcontentu3.show();
+});
+</script><!--#endeditable--></td>
+   </tr>
+   </table>
+
+ </div>
+ <div><!--#begineditable name="版权" action="webber.wbst.com.basecomponent.BaseComponent" layout="/system/_component/basecomponent/copyright.jsp" tpltype="0" contype="" clone="" viewid="203202" contentviewid="" tagname="版权"-->这个是脚本<!--#endeditable--></div>
+</body>
+</html>

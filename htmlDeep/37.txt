@@ -1,0 +1,1348 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>北海校区毕业生就业网</title><META Name="keywords" Content="北海校区毕业生就业网" />
+
+    <link rel="stylesheet" href="css/style.css" type="text/css">
+    <link rel="stylesheet" href="css/publice.css" type="text/css">
+    <script type="text/javascript" src="js/jquery-1.8.3.min.js"></script>
+    <script type="text/javascript" src="js/jquery.js"></script>
+    <script type="text/javascript" src="js/superslide.2.1.js"></script>
+    <script type="text/javascript" src="js/jquery.soChange.js"></script>
+    <script type="text/javascript" src="js/index.js"></script>
+    <script type="text/javascript">
+        $(function() {
+            $(".mainmenu dl").hide();
+            $("li.mainmenu").hover(function() {
+                $(this).find("dl").stop(true, true);
+                $(this).find("dl").slideDown();
+            }, function() {
+                $(this).find("dl").stop(true, true);
+                $(this).find("dl").slideUp();
+            });
+        })
+    </script>
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="index.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/vsbscreen.min.js" id="_vsbscreen" devices="pc|pad"></script>
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1033,'/index.jsp',-1,1597863513)</script>
+</head>
+
+<body>
+    <!--top s-->
+    <div class="topWrap clearfix">
+        <div class="topDiv">
+
+            <!--#begineditable name="高校LOGO" viewid="202654" tagname="高校LOGO" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""-->
+<!-- 网站logo图片地址请在本组件"内容配置-网站logo"处填写 -->
+<div class="logo">
+<a href="index.htm"><img src="images/logo-2.png"></a>
+</div><!--#endeditable-->
+
+            <div class="topR fr">
+                <!--<a href="#">网站旧版</a>|<a href="#">学校首页</a>|<a href="#">中文版</a>|<a href="#">English</a>-->
+                <!--#begineditable name="头部检索" viewid="202656" tagname="头部检索" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><script type="text/javascript">
+    function _nl_ys_check_2(){
+        
+        var keyword = document.getElementById('showkeycode202656_2').value;
+        if(keyword==null||keyword==""){
+            alert("请输入关键字搜索");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkeyword202656").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkeyword202656").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkeyword202656").value = base64.encode(document.getElementById("lucenenewssearchkeyword202656").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode202656_2"));
+        return true;
+    } 
+    function submitForm()
+    {
+        document.getElementById("au1a").submit();
+    }
+</script>
+<script type="text/javascript">
+                function test3()
+                {
+                    var tempStr=document.getElementById('showkeycode202656_2').value;
+                    if(tempStr=="请输入关键字搜索")
+                    {
+                        document.getElementById('showkeycode202656_2').value="";
+                    }
+                }
+                function test4()
+                {
+                    var tempStr=document.getElementById('showkeycode202656_2').value;
+                    if(tempStr=="")
+                    {
+                        document.getElementById('showkeycode202656_2').value="请输入关键字搜索";
+                    }
+                }
+            </script>
+<div class="Search">
+<form action="ssjg.jsp?wbtreeid=1033" method="post" id="au1a" name="au1a" onsubmit="return _nl_ys_check_2()">
+ <input type="hidden" id="lucenenewssearchkeyword202656" name="lucenenewssearchkeyword" value=""><input type="hidden" id="_lucenesearchtype202656" name="_lucenesearchtype" value="1"><input type="hidden" id="searchScope202656" name="searchScope" value="1">
+ <input type="text" value="请输入关键字搜索" name="showkeycode" class="search_text" onfocus="test3()" onblur="test4()" id="showkeycode202656_2" />
+                <div class="fdj fr"><input type="image" src="img/top_hunt.png" value="" style="padding-right:10px;;cursor: hand"></div>
+</form>
+</div><script language="javascript" src="/system/resource/js/base64.js"></script><script language="javascript" src="/system/resource/js/formfunc.js"></script>
+<!--#endeditable-->
+            </div>
+        </div>
+    </div>
+    <!--nav-->
+    <!--#begineditable name="主导航" viewid="202679" tagname="主导航" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><div class="navWrap  clearfix">
+    <div class="nav">
+    <ul>
+            <li>
+            <a class="link" href="index.htm">首页</a>
+                        
+        </li>
+        <li class="mainmenu">
+            <a class="link" href="https://www.guet.edu.cn/xxjj.htm">学校概况</a>
+        </li>
+        <li class="mainmenu">
+            <a class="link" href="https://www.guet.edu.cn/gdbh/xqgk/xqjj.htm">校区概况</a>
+        </li>
+        <li class="mainmenu">
+            <a class="link" href="xwgg1/tzgg.htm">新闻公告</a>
+            <!--如果是导航字数很多，则加上 class="chang"，否则去掉即可-->
+            <dl class="chang">
+                    <dd><a href="xwgg1/tzgg.htm" title="通知公告">通知公告</a></dd>
+                    <dd><a href="xwgg1/jydong_ta.htm" title="就业动态">就业动态</a></dd>
+            </dl>
+        </li>
+        <li class="mainmenu">
+            <a class="link" href="zp/xyzp.htm">招聘信息</a>
+            <!--如果是导航字数很多，则加上 class="chang"，否则去掉即可-->
+            <dl class="chang">
+                    <dd><a href="zp/xyzp.htm" title="校园招聘">校园招聘</a></dd>
+                    <dd><a href="zp/wlzp.htm" title="网络招聘">网络招聘</a></dd>
+            </dl>
+        </li>
+        <li class="mainmenu">
+            <a class="link" href="xsfw1/zcfg.htm">学生服务</a>
+            <!--如果是导航字数很多，则加上 class="chang"，否则去掉即可-->
+            <dl class="chang">
+                    <dd><a href="xsfw1/zcfg.htm" title="政策法规">政策法规</a></dd>
+                    <dd><a href="xsfw1/jyzd.htm" title="就业指导">就业指导</a></dd>
+                    <dd><a href="xsfw1/sxbl.htm" title="手续办理">手续办理</a></dd>
+                    <dd><a href="xsfw1/zycp.htm" title="职业测评">职业测评</a></dd>
+                    <dd><a href="xsfw1/sygh.htm" title="生涯规划">生涯规划</a></dd>
+            </dl>
+        </li>
+        <li class="mainmenu">
+            <a class="link" href="dan_wei_f/yyzczp.htm">单位服务</a>
+            <!--如果是导航字数很多，则加上 class="chang"，否则去掉即可-->
+            <dl class="chang">
+                    <dd><a href="dan_wei_f/yyzczp.htm" title="预约专场招聘">预约专场招聘</a></dd>
+                    <dd><a href="dan_wei_f/wlfbxx.htm" title="网络发布信息">网络发布信息</a></dd>
+                    <dd><a href="dan_wei_f/fwzn.htm" title="服务指南">服务指南</a></dd>
+            </dl>
+        </li>
+        <li class="mainmenu">
+            <a class="link" href="zyjs_xs/hygcxue_yuan.htm">专业介绍</a>
+            <!--如果是导航字数很多，则加上 class="chang"，否则去掉即可-->
+            <dl class="chang">
+                    <dd><a href="zyjs_xs/hygcxue_yuan.htm" title="海洋工程学院">海洋工程学院</a></dd>
+                    <dd><a href="zyjs_xs/dzxxxy.htm" title="电子信息学院">电子信息学院</a></dd>
+                    <dd><a href="zyjs_xs/jsjgcxy.htm" title="计算机工程学院">计算机工程学院</a></dd>
+                    <dd><a href="zyjs_xs/sjycyxy.htm" title="设计与创意学院">设计与创意学院</a></dd>
+                    <dd><a href="zyjs_xs/jjyglxy.htm" title="经济与管理学院">经济与管理学院</a></dd>
+                    <dd><a href="zyjs_xs/ssyjszy1.htm" title="硕士研究生专业">硕士研究生专业</a></dd>
+            </dl>
+        </li>
+        <li class="mainmenu">
+            <a class="link" href="byszy.htm">毕业生资源</a>
+        </li>
+        <li class="mainmenu">
+            <a class="link" href="https://www.guet.edu.cn/bh_jy/info/1092/1246.htm">联系我们</a>
+            <!--如果是导航字数很多，则加上 class="chang"，否则去掉即可-->
+            <dl class="chang">
+                    <dd><a href="lyb.jsp?urltype=tree.TreeTempUrl&wbtreeid=1133" title="留言板">留言板</a></dd>
+            </dl>
+        </li>
+     
+    </ul>
+</div>
+</div>
+<script type="text/javascript">
+
+    $(".mainmenu dl").hide();
+
+</script><!--#endeditable-->
+    <!--container-->
+    <div class="vsb-box">
+        <!--上方展示窗格-->
+        <div class="vsb-container container clearfix" containerid="2" columns="6">
+            <div class="vsb-space new_inforBox informBox4 fl" columns="2" style="    padding: 0px 0px;    margin-left: 17px;    margin-right: 17px;    background-color: #004c88;    height: 100%;">
+                <!--#begineditable name="变换图片文章-1" action="" layout="" tpltype="" contype="" clone="" viewid="202993" contentviewid="" tagname="变换图片文章-1"-->
+<LINK href="/system/resource/style/component/news/list/imagechangenews.css" type="text/css" rel="stylesheet">
+<script language="javascript" src="/system/resource/js/news/imagechangenews.js"></script><script language="JavaScript">
+var u_u3_icn = new ImageChangeNews("u_u3_", 365, 274, 4, 2.0, true, false, false, true);
+
+//初始化图片, 并启动定时
+function u_u3_init_img()
+{
+
+    u_u3_icn.addimg("\/__local\/1\/B8\/C9\/9734D7D1E47B1817EAD19AD5C0A_D1F3B7E3_2EB0.jpg", "https:\/\/job.ncss.cn\/student\/jobfair\/fairdetails.html?fairId=XC2Tz8SzBmobgoJMx9EyT5", "电子商务行业面向2020届高校毕业生网上招聘活动", "");
+
+    u_u3_icn.addimg("\/__local\/5\/94\/68\/872C053911DC43F47AC55552914_8F8DB3C8_65D5.jpg", "https:\/\/job.ncss.cn\/student\/jobfair\/fairdetails.html?fairId=CHYwFfAmkZKDtMLBybmczF", "战略性新兴产业面向应届高校毕业生网络招聘会", "");
+
+    u_u3_icn.addimg("\/__local\/2\/4A\/1C\/2BA581975A47ADF579BCFBB4FAC_06985BE6_6660.jpg", "https:\/\/job.ncss.cn\/student\/jobfair\/fairdetails.html?fairId=Fofg1dHvcAqhHdLXMrnMy1", "全国国家级经济技术开发区高校毕业生网络招聘会", "");
+
+    u_u3_icn.addimg("\/__local\/1\/B8\/C9\/9734D7D1E47B1817EAD19AD5C0A_D1F3B7E3_2EB0.jpg", "https:\/\/job.ncss.cn\/student\/jobfair\/fairdetails.html?fairId=XC2Tz8SzBmobgoJMx9EyT5", "电子商务行业面向2020届高校毕业生网上招聘活动", "");
+
+    u_u3_icn.addimg("\/__local\/5\/94\/68\/872C053911DC43F47AC55552914_8F8DB3C8_65D5.jpg", "https:\/\/job.ncss.cn\/student\/jobfair\/fairdetails.html?fairId=CHYwFfAmkZKDtMLBybmczF", "战略性新兴产业面向应届高校毕业生网络招聘会", "");
+
+    u_u3_icn.addimg("\/__local\/2\/4A\/1C\/2BA581975A47ADF579BCFBB4FAC_06985BE6_6660.jpg", "https:\/\/job.ncss.cn\/student\/jobfair\/fairdetails.html?fairId=Fofg1dHvcAqhHdLXMrnMy1", "全国国家级经济技术开发区高校毕业生网络招聘会", "");
+
+    u_u3_icn.changeimg(0);
+}
+</script><table cellspacing="0" cellpadding="0" border="0" style="padding:0px margin:0px; border:0px">
+    <tr><td>
+        <div style="OVERFLOW: hidden;height:274px;width:365px">
+            <div id="u_u3_div" align="center" style="padding:0px;margin:0px;border:0px solid black;background-color:#000000;FILTER: progid:DXImageTransform.Microsoft.RevealTrans (duration=2.0,transition=23);height:274px;width:365px">
+                <div id="u_u3_imgdiv" style="padding:0px;border:0px;"><a id="u_u3_url" target="_blank"><img id="u_u3_pic" border="0" width="365" height="274" src="/system/resource/images/space.gif"></a></div>
+            </div>
+            <div style="filter:alpha(style=1,opacity=10,finishOpacity=80);width:365px;height:19px;text-align:right;top:-19px;position:relative;padding:0px;margin:0px;border:0px;">
+<a href="javascript:u_u3_icn.changeimg(0)" ; id="u_u3_selectNode0" class="imagechangenews_pnode" target="_self">1</a><a href="javascript:u_u3_icn.changeimg(1)" ; id="u_u3_selectNode1" class="imagechangenews_pnode" target="_self">2</a><a href="javascript:u_u3_icn.changeimg(2)" ; id="u_u3_selectNode2" class="imagechangenews_pnode" target="_self">3</a><a href="javascript:u_u3_icn.changeimg(3)" ; id="u_u3_selectNode3" class="imagechangenews_pnode" target="_self">4</a><a href="javascript:u_u3_icn.changeimg(4)" ; id="u_u3_selectNode4" class="imagechangenews_pnode" target="_self">5</a><a href="javascript:u_u3_icn.changeimg(5)" ; id="u_u3_selectNode5" class="imagechangenews_pnode" target="_self">6</a>
+            </div></div></td></tr>
+       
+    <tr><td height="25">
+        <div align="center" style="overflow:hidden;text-overflow:ellipsis;height:25px;width:365px;"><a target="_blank" class="titlestyle202993" id="u_u3_newstitle"></a></div>
+    </td></tr>
+<div align="left" display="none" style="overflow:hidden;text-overflow:ellipsis;height:0px;width:365px;padding-left:2px;padding-right:2px"><a target="_blank" class="summarystyle202993" id="u_u3_newssummary"></a></div>   
+</table><SCRIPT language="JavaScript">u_u3_init_img();</SCRIPT><!--#endeditable-->
+            </div>
+            <div class="vsb-space informBox informBox4 fl slideTxtBox" columns="2">
+                <div class="dynamic hd">
+                    <ul>
+                        <li class="on">
+                            <h2>网络招聘</h2>
+                        </li>
+                        <li>
+                            <h2>校园招聘</h2>
+                        </li>
+                    </ul>
+                </div>
+                <div class="infor_list bd" style="margin-top: 2px;">
+                    <ul class="dynamic_list" style="display: none; margin-top: 20px;">
+                        <!--#begineditable name="网络招聘" action="" layout="" tpltype="" contype="" clone="" viewid="203010" contentviewid="" tagname="网络招聘"--><script language="javascript" src="/system/resource/js/dynclicks.js"></script><ul class="dynamic_list">
+                            
+<li> <a href="info/1084/1497.htm">教育部启动“24365校园联合招聘服务” 助力<span>[03/02]</span></a></li>
+                            
+<li> <a href="info/1084/1623.htm">广西全面启动2020届高校毕业生线上招聘季活<span>[03/25]</span></a></li>
+                            
+<li> <a href="info/1084/1673.htm">广西2020届高校毕业生线上招聘季4月份活动<span>[04/08]</span></a></li>
+                            
+<li> <a href="info/1084/1660.htm">深圳市人力资源和社会保障局公益网络招聘月<span>[04/03]</span></a></li>
+                            
+<li> <a href="https://job.ncss.cn/student/jobfair/fairdetails.html?fairId=XC2Tz8SzBmobgoJMx9EyT5">电子商务行业面向2020届高校毕业生网上招聘<span>[04/02]</span></a></li>
+                            
+<li> <a href="https://job.ncss.cn/student/jobfair/fairdetails.html?fairId=CHYwFfAmkZKDtMLBybmczF">战略性新兴产业面向应届高校毕业生网络招聘<span>[04/02]</span></a></li>
+                            
+<li> <a href="https://job.ncss.cn/student/jobfair/fairdetails.html?fairId=Fofg1dHvcAqhHdLXMrnMy1">全国国家级经济技术开发区高校毕业生网络招<span>[04/02]</span></a></li>
+                            
+<li> <a href="info/1084/1721.htm">湖南联通2020春季线上校园招聘正式启动<span>[04/19]</span></a></li>
+                            
+</ul><script>_showDynClickBatch(['dynclicks_u4_1497','dynclicks_u4_1623','dynclicks_u4_1673','dynclicks_u4_1660','dynclicks_u4_1657','dynclicks_u4_1654','dynclicks_u4_1652','dynclicks_u4_1721'],[1497,1623,1673,1660,1657,1654,1652,1721],"wbnews", 1597863513)</script>
+<!--#endeditable-->
+                        <div class="clicktomore" style="position: relative;right: -88%;bottom: 287px; color: #5c5c5c;"><span><a id="clicktomore1" href="zp/wlzp.htm">更多>></a></span></div>
+                    </ul>
+                    <ul class="dynamic_list" style="display: block;">
+                        <!--#begineditable name="校园招聘" action="" layout="" tpltype="" contype="" clone="" viewid="202730" contentviewid="" tagname="校园招聘"--><ul class="dynamic_list">
+      <span>&nbsp&nbsp&nbsp举办日期&nbsp&nbsp&nbsp&nbsp举办地点&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp公司名称</span>                     
+<li> <a href="info/1083/1299.htm">[12/09]-花江校区-深圳市艾贝特电子科技有限公司</a></li>
+                            
+<li> <a href="info/1083/1300.htm">[11/29]-金鸡岭校区-佛山市顺德区冠宇达电源有限公司</a></li>
+                            
+<li> <a href="info/1083/1305.htm">[11/28]-花江校区-深圳深爱半导体股份有限公司</a></li>
+                            
+<li> <a href="info/1083/1304.htm">[11/28]-花江校区-广东思谷智能技术有限公司</a></li>
+                            
+<li> <a href="info/1083/1303.htm">[11/27]-花江校区-软通动力信息技术（集团）有限公司</a></li>
+                            
+<li> <a href="info/1083/1302.htm">[11/26]-花江校区-深圳市巨龙创视科技有限公司</a></li>
+                            
+<li> <a href="info/1083/1301.htm">[11/25]-花江校区-广西五运科技有限公司</a></li>
+                            
+<li> <a href="info/1083/1029.htm">[11/20]-花江校区-美亚电子科技有限公司</a></li>
+                            
+</ul><script>_showDynClickBatch(['dynclicks_u5_1299','dynclicks_u5_1300','dynclicks_u5_1305','dynclicks_u5_1304','dynclicks_u5_1303','dynclicks_u5_1302','dynclicks_u5_1301','dynclicks_u5_1029'],[1299,1300,1305,1304,1303,1302,1301,1029],"wbnews", 1597863513)</script>
+<!--#endeditable-->
+                        <div class="clicktomore" style="position: relative;right: -88%;bottom: 287px; color: #5c5c5c;"><span><a id="clicktomore1" href="zp/xyzp.htm">更多>></a></span></div>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="vsb-space informBox informBox4 fl slideTxtBox t2r" columns="2">
+                <div class="dynamic hd">
+                    <ul>
+                        <li class="on">
+                            <h2>通知公告</h2>
+                        </li>
+                        <li>
+                            <h2>就业动态</h2>
+                        </li>
+                    </ul>
+                </div>
+                <div class="infor_list bd">
+                    <ul class="dynamic_list" style="display: block;">
+                        <!--#begineditable name="通知公告" action="" layout="" tpltype="" contype="" clone="" viewid="202729" contentviewid="" tagname="通知公告"--><ul class="dynamic_list">
+                            
+<li> <a href="info/1064/1278.htm">2020届广西普通高校毕业生就业双选会安排表<span>[10/11]</span></a></li>
+                            
+<li> <a href="info/1064/1716.htm">关于龙逸帆、陈鹏翔、龚倩、张燕等同学遗失<span>[04/17]</span></a></li>
+                            
+<li> <a href="info/1064/1713.htm">教育部24365就业公益课程：五大招聘平台全<span>[04/16]</span></a></li>
+                            
+<li> <a href="info/1064/1683.htm">关李敏同学换发就业协议书的公示<span>[04/10]</span></a></li>
+                            
+<li> <a href="info/1064/1682.htm">关于马正宇同学遗失补发就业协议书的公示<span>[04/10]</span></a></li>
+                            
+<li> <a href="info/1064/1481.htm">桂林电子科技大学北海校区关于疫情防控期间<span>[02/27]</span></a></li>
+                            
+<li> <a href="info/1064/1480.htm">桂林电子科技大学北海校区关于做好新型冠状<span>[02/27]</span></a></li>
+                            
+<li> <a href="info/1064/1309.htm">基层就业大学生微纪录片<span>[12/28]</span></a></li>
+                            
+</ul><script>_showDynClickBatch(['dynclicks_u6_1278','dynclicks_u6_1716','dynclicks_u6_1713','dynclicks_u6_1683','dynclicks_u6_1682','dynclicks_u6_1481','dynclicks_u6_1480','dynclicks_u6_1309'],[1278,1716,1713,1683,1682,1481,1480,1309],"wbnews", 1597863513)</script>
+<!--#endeditable-->
+                        <div class="clicktomore" style="position: relative;right: -88%;bottom: 287px; color: #5c5c5c;"><span><a id="clicktomore1" href="xwgg1/tzgg.htm">更多>></a></span></div>
+                    </ul>
+                    <ul class="dynamic_list" style="display: none;">
+                        <!--#begineditable name="就业动态" action="" layout="" tpltype="" contype="" clone="" viewid="202728" contentviewid="" tagname="就业动态"--><ul class="dynamic_list">
+                            
+<li> <a href="https://job.ncss.cn/student/jobfair/fairdetails.html?fairId=XC2Tz8SzBmobgoJMx9EyT5">电子商务行业面向2020届高校毕业生网上招聘<span>[04/02]</span></a></li>
+                            
+<li> <a href="https://job.ncss.cn/student/jobfair/fairdetails.html?fairId=CHYwFfAmkZKDtMLBybmczF">战略性新兴产业面向应届高校毕业生网络招聘<span>[04/02]</span></a></li>
+                            
+<li> <a href="https://job.ncss.cn/student/jobfair/fairdetails.html?fairId=Fofg1dHvcAqhHdLXMrnMy1">全国国家级经济技术开发区高校毕业生网络招<span>[04/02]</span></a></li>
+                            
+<li> <a href="https://share.gxrc.com/HtmlView/2020/QuarterlyActivities/index.html">广西全面启动2020届高校毕业生线上招聘季活<span>[03/29]</span></a></li>
+                            
+<li> <a href="https://job.ncss.cn/student/jobfair/joint.html#page1">​教育部启动“24365校园联合招聘服务”活<span>[02/28]</span></a></li>
+                            
+<li> <a href="info/1063/1328.htm">北海校区领导参加北海红湾高校创意创业园开<span>[12/31]</span></a></li>
+                            
+<li> <a href="info/1063/1327.htm">佛山市高明区人社局到北海校区开展政校企对<span>[12/30]</span></a></li>
+                            
+<li> <a href="info/1063/1268.htm">【主题教育·整治状态】北海校区应邀赴柳州<span>[11/23]</span></a></li>
+                            
+</ul><script>_showDynClickBatch(['dynclicks_u7_1658','dynclicks_u7_1655','dynclicks_u7_1653','dynclicks_u7_1641','dynclicks_u7_1487','dynclicks_u7_1328','dynclicks_u7_1327','dynclicks_u7_1268'],[1658,1655,1653,1641,1487,1328,1327,1268],"wbnews", 1597863513)</script>
+<!--#endeditable-->
+                        <div class="clicktomore" style="position: relative;right: -88%;bottom: 287px; color: #5c5c5c;"><span><a id="clicktomore1" href="xwgg1/jydong_ta.htm">更多>></a></span></div>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <!--快速链接-->
+        <div class="vsb-container container clearfix" containerid="2" columns="6" style="margin: 10px auto;position: relative;">
+            <a href="https://ls.xqy.gdbh.gliet.com.cn:11643/login" target="view_window">
+                <div class="urlImgDiv2" style="background-color: #75d53a;">单位登录/注册</div>
+            </a>
+            <a href="javascript:;" οnclick="">
+                <div id="wx_qr" style="width: 200px;height: 174px;background-color: #47c0ff;position: absolute;left: 500px;border-radius: 12px;top: -184px;display: none;"></div>
+            </a>
+            <a href="javascript:;" οnclick="">
+                <div id="xs_button" class="urlImgDiv2" style="background-color: #47c0ff;">学生登录</div>
+            </a>
+            <a href="https://ls.xqy.gdbh.gliet.com.cn:11643/login" target="view_window">
+                <div class="urlImgDiv2" style="background-color: #ff9147;">管理员登录</div>
+            </a>
+
+        </div>
+        <!--下方窗格-->
+        <div class="vsb-container container clearfix" containerid="2" columns="6" style="margin-top: 0px;margin-left: auto;margin-right: auto;margin-bottom:25px">
+            <div class="vsb-space informBox informBox4 fl slideTxtBox" columns="2" style="margin-top: 0px;">
+                <div class="dynamic hd">
+                    <ul>
+                        <li class="on">
+                            <h2>政策法规</h2>
+                        </li>
+                        <li>
+                            <h2>常用下载</h2>
+                        </li>
+                    </ul>
+                </div>
+                <div class="infor_list bd">
+                    <ul class="dynamic_list" style="display: block;">
+                        <!--#begineditable name="政策法规" action="" layout="" tpltype="" contype="" clone="" viewid="202725" contentviewid="" tagname="政策法规"--><ul class="dynamic_list">
+                            
+<li> <a href="info/1086/1681.htm">广西各设区市大学生参军入伍优待政策<span>[04/09]</span></a></li>
+                            
+<li> <a href="info/1086/1651.htm">大学生参军优待丨广西大学毕业生入伍优待政<span>[04/02]</span></a></li>
+                            
+<li> <a href="info/1086/1620.htm">国家明确！今明两年事业单位空缺岗位主要用<span>[03/22]</span></a></li>
+                            
+<li> <a href="info/1086/1593.htm">广西日报：广西全力做好2020届普通高校毕业<span>[03/17]</span></a></li>
+                            
+<li> <a href="info/1086/1537.htm">教育部关于应对新冠肺炎疫情做好2020届全国<span>[03/07]</span></a></li>
+                            
+<li> <a href="info/1086/1489.htm">关乎疫情当下高校毕业生就业问题，这场发布<span>[02/28]</span></a></li>
+                            
+<li> <a href="info/1086/1482.htm">高校毕业生，最新就业政策来了！<span>[02/27]</span></a></li>
+                            
+<li> <a href="info/1086/1332.htm">教育部办公厅关于进一步做好高校学生参军入<span>[01/02]</span></a></li>
+                            
+</ul><script>_showDynClickBatch(['dynclicks_u8_1681','dynclicks_u8_1651','dynclicks_u8_1620','dynclicks_u8_1593','dynclicks_u8_1537','dynclicks_u8_1489','dynclicks_u8_1482','dynclicks_u8_1332'],[1681,1651,1620,1593,1537,1489,1482,1332],"wbnews", 1597863513)</script>
+<!--#endeditable-->
+                        <div class="clicktomore" style="position: relative;right: -88%;bottom: 279px; color: #5c5c5c;"><span><a id="clicktomore1" href="xsfw/zcfg.htm">更多>></a></span></div>
+                    </ul>
+                    <ul class="dynamic_list" style="display: none;">
+                        <!--#begineditable name="常用法规" action="" layout="" tpltype="" contype="" clone="" viewid="202727" contentviewid="" tagname="常用法规"--><ul class="dynamic_list">
+                            
+<li> <a href="info/1081/1153.htm">北海校区毕业生换发就业协议书申请表<span>[12/02]</span></a></li>
+                            
+<li> <a href="info/1081/1238.htm">引进用人单位校园招聘登记表​<span>[12/08]</span></a></li>
+                            
+<li> <a href="info/1081/1237.htm">引进用人单位校园招聘审核备案表<span>[12/08]</span></a></li>
+                            
+<li> <a href="info/1081/1239.htm">办理报到证三方同意意见证明模板<span>[12/08]</span></a></li>
+                            
+<li> <a href="info/1081/1241.htm">广西普通高等学校毕业生灵活就业登记表<span>[12/08]</span></a></li>
+                            
+<li> <a href="info/1081/1242.htm">广西普通高等学校毕业生非协议类就业登记表<span>[12/08]</span></a></li>
+                            
+<li> <a href="info/1081/1369.htm">大学生就业常见问题解答（参考）<span>[01/09]</span></a></li>
+                            
+</ul><script>_showDynClickBatch(['dynclicks_u9_1153','dynclicks_u9_1238','dynclicks_u9_1237','dynclicks_u9_1239','dynclicks_u9_1241','dynclicks_u9_1242','dynclicks_u9_1369'],[1153,1238,1237,1239,1241,1242,1369],"wbnews", 1597863513)</script>
+<!--#endeditable-->
+                        <div class="clicktomore" style="position: relative;right: -88%;bottom: 248px; color: #5c5c5c;"><span><a id="clicktomore1" href="cyxz.htm.htm">更多>></a></span></div>
+                    </ul>
+                </div>
+            </div>
+            <div class="vsb-space informBox informBox4 fl slideTxtBox" columns="2" style="margin-top: 0px;">
+                <div class="dynamic hd">
+                    <ul>
+                        <li class="on">
+                            <h2>就业指导</h2>
+                        </li>
+                        <li>
+                            <h2>职业测评</h2>
+                        </li>
+                        <li>
+                            <h2>生涯规划</h2>
+                        </li>
+                    </ul>
+                </div>
+                <div class="infor_list bd">
+                    <div class="infor_list_div" style="display: block;">
+                        <!--#begineditable name="就业指导" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/tpltitlelist.jsp" tpltype="1" contype="news" clone="" viewid="202722" contentviewid="" tagname="就业指导"--><ul class="dynamic_list">
+                            
+<li> <a href="info/1087/1680.htm">2020届毕业生简历制作指导活动通知<span>[04/09]</span></a></li>
+                            
+<li> <a href="info/1087/1679.htm">关于开展第三期公务员（选调生）考试免费网<span>[04/08]</span></a></li>
+                            
+<li> <a href="info/1087/1659.htm">正在求职的你，这些招聘套路要当心<span>[04/02]</span></a></li>
+                            
+<li> <a href="info/1087/1615.htm">国家线公布前，考研调剂需重视！<span>[03/22]</span></a></li>
+                            
+<li> <a href="info/1087/1614.htm">疫情打乱的毕业季，大学生如何突围？<span>[03/22]</span></a></li>
+                            
+<li> <a href="info/1087/1604.htm">简历怎么写，才能过得了HR？ （一名校招求<span>[03/18]</span></a></li>
+                            
+<li> <a href="info/1087/1596.htm">疫情期间，线上面试，毕业生应该怎么办？<span>[03/17]</span></a></li>
+                            
+<li> <a href="info/1087/1584.htm">求职面试交谈小技巧<span>[03/15]</span></a></li>
+                            
+</ul><script>_showDynClickBatch(['dynclicks_u10_1680','dynclicks_u10_1679','dynclicks_u10_1659','dynclicks_u10_1615','dynclicks_u10_1614','dynclicks_u10_1604','dynclicks_u10_1596','dynclicks_u10_1584'],[1680,1679,1659,1615,1614,1604,1596,1584],"wbnews", 1597863513)</script>
+<!--#endeditable-->
+                        <div class="clicktomore" style="position: relative;right: -88%;bottom: 279px; color: #5c5c5c;"><span><a id="clicktomore1" href="xsfw1/jyzd.htm">更多>></a></span></div>
+                    </div>
+                    <div class="infor_list_div" style="display: none;">
+                        <ul class="dynamic_list">
+                            <!--#begineditable name="职业测评" action="" layout="" tpltype="" contype="" clone="" viewid="202724" contentviewid="" tagname="职业测评"--><ul class="dynamic_list">
+                            
+<li> <a href="info/1132/1248.htm">职业价值观测试<span>[12/08]</span></a></li>
+                            
+<li> <a href="info/1132/1247.htm">职业兴趣测试<span>[12/08]</span></a></li>
+                            
+<li> <a href="info/1132/1252.htm">适应能力测试<span>[12/10]</span></a></li>
+                            
+<li> <a href="info/1132/1249.htm">生涯适应力测试<span>[12/06]</span></a></li>
+                            
+<li> <a href="info/1132/1251.htm">创业资源测试<span>[11/28]</span></a></li>
+                            
+<li> <a href="info/1132/1250.htm">公务员基本能力测试<span>[11/22]</span></a></li>
+                            
+</ul><script>_showDynClickBatch(['dynclicks_u11_1248','dynclicks_u11_1247','dynclicks_u11_1252','dynclicks_u11_1249','dynclicks_u11_1251','dynclicks_u11_1250'],[1248,1247,1252,1249,1251,1250],"wbnews", 1597863513)</script>
+<!--#endeditable-->
+                            <div class="clicktomore" style="position: relative;right: -88%;bottom: 219px; color: #5c5c5c;"><span><a id="clicktomore1" href="xsfw1/jyzd.htm">更多>></a></span></div>
+                        </ul>
+                    </div>
+                    <div class="infor_list_div" style="display: none;">
+                        <ul class="dynamic_list">
+                            <!--#begineditable name="生涯规划" action="" layout="" tpltype="" contype="" clone="" viewid="202977" contentviewid="" tagname="生涯规划"--><ul class="dynamic_list">
+                            
+<li> <a href="info/1144/1298.htm">职业微视频<span>[12/27]</span></a></li>
+                            
+<li> <a href="info/1144/1297.htm">职业案例<span>[12/27]</span></a></li>
+                            
+<li> <a href="info/1144/1296.htm">职业百科<span>[12/27]</span></a></li>
+                            
+<li> <a href="info/1144/1295.htm">专业百科<span>[12/27]</span></a></li>
+                            
+</ul><script>_showDynClickBatch(['dynclicks_u12_1298','dynclicks_u12_1297','dynclicks_u12_1296','dynclicks_u12_1295'],[1298,1297,1296,1295],"wbnews", 1597863513)</script>
+<!--#endeditable-->
+                        </ul>
+                        <div class="clicktomore" style="position: relative;right: -88%;bottom: 159px; color: #5c5c5c;"><span><a id="clicktomore1" href="xsfw1/sygh.htm">更多>></a></span></div>
+                    </div>
+                </div>
+            </div>
+            <div class="vsb-space informBox informBox4 fl slideTxtBox" columns="2" style="margin-top: 0px;">
+                <div class="dynamic hd">
+                    <ul>
+                        <li class="on">
+                            <h2>常用链接</h2>
+                        </li>
+                    </ul>
+                </div>
+                <div class="infor_list bd">
+                    <div class="infor_list_div urlImgDiv" style="display: block;">
+                        <a href="https://www.guet.edu.cn/"><img src="images/7.png"></a>
+                        <a href="https://www.guet.edu.cn/gdbh/"><img src="images/8.png"></a>
+                        <a href="https://www.gxbys.com/"><img src="images/1.png"></a>
+                        <a href="https://www.gxrc.com/"><img src="images/2.png"></a>
+                        <a href="https://www.ncss.cn/"><img src="images/3.png"></a>
+                        <a href="https://job.ncss.org.cn/student/jobs/index.html"><img src="images/6.png"></a>
+                        <a href="https://www.cods.org.cn/"><img src="images/4.png"></a>
+                        <a href="http://www.gsxt.gov.cn/index.html"><img src="images/5.png"></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="vsb-container container clearfix" containerid="2" columns="6">
+
+            <div class="vsb-space content contentf" columns="6">
+                <div class="urlSelect">
+                    <!--#begineditable name="快速链接-1" action="webber.wbst.com.url.ColumnUrl" layout="/system/_component/columnurl/tpllinklist.jsp" tpltype="1" contype="url" clone="" viewid="202746" contentviewid="" tagname="快速链接-1"--><script language="javascript" src="/system/resource/js/openlink.js"></script><select class="c160181_select" onchange="_openSelectLink(this, 'value', 'addclicks')">
+     <option>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;---北海校区二级学院---</option>              
+     <option value="https://www.guet.edu.cn/gdbh/" title="">海洋工程学院</option> 
+     <option value="https://www.guet.edu.cn/gdbh/" title="">电子信息学院</option> 
+     <option value="https://www.guet.edu.cn/gdbh/" title="">计算机工程学院</option> 
+     <option value="https://www.guet.edu.cn/gdbh/" title="">设计与创意学院</option> 
+     <option value="https://www.guet.edu.cn/gdbh/" title="">经济与管理学院</option> 
+</select><!--#endeditable-->
+                </div>
+                <div class="urlSelect">
+                    <!--#begineditable name="快速链接-2" action="" layout="" tpltype="" contype="" clone="" viewid="202747" contentviewid="" tagname="快速链接-2"--><select class="c160181_select" onchange="_openSelectLink(this, 'value', 'addclicks')">
+     <option>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;---广西各地市人才网---</option>              
+     <option value="https://www.gxrc.com" title="">广西人才网</option> 
+     <option value="https://lz.gxrc.com/" title="">柳州人才网</option> 
+     <option value="http://gl.gxrc.com" title="">桂林人才网</option> 
+     <option value="http://bh.gxrc.com" title="">北海人才网</option> 
+     <option value="https://gg.gxrc.com" title="">贵港人才网</option> 
+</select><!--#endeditable-->
+                </div>
+                <div class="urlSelect">
+                    <!--#begineditable name="快速链接-3" action="" layout="" tpltype="" contype="" clone="" viewid="202748" contentviewid="" tagname="快速链接-3"--><select class="c160181_select" onchange="_openSelectLink(this, 'value', 'addclicks')">
+     <option>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;---社会招聘网站---</option>              
+     <option value="s://www.ncss.org.cn" title="">新职业</option> 
+     <option value="https://www.gxbys.com" title="">广西毕业生就业网</option> 
+     <option value="http://szyfw.gxrc.com/portal.php" title="">广西“三支一扶”网主页</option> 
+</select><!--#endeditable-->
+                </div>
+                <div class="urlSelect">
+                    <!--#begineditable name="快速链接-4" action="" layout="" tpltype="" contype="" clone="" viewid="202749" contentviewid="" tagname="快速链接-4"--><select class="c160181_select" onchange="_openSelectLink(this, 'value', 'addclicks')">
+     <option>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;---广西高校就业网---</option>              
+     <option value="https://www.guet.edu.cn/jy/index.htm" title="">桂林电子科技大学就业网</option> 
+     <option value="http://zj.gxu.edu.cn" title="">广西大学就业网</option> 
+     <option value="http://gxnujyb.good-edu.cn/index.php" title="">广西师范大学就业网</option> 
+     <option value="https://jyb.gxun.edu.cn" title="">广西民族大学就业网</option> 
+     <option value="http://www.gxust.edu.cn/jyw/" title="">广西科技大学就业网</option> 
+</select><!--#endeditable-->
+                </div>
+            </div>
+        </div>
+        <!--foot-->
+        <div class="footWrap">
+            <!--#begineditable name="版权1" viewid="202694" tagname="版权1" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><div class="footDiv_one">
+		<div class="foot_one">
+			<p style="text-align:center;">桂林电子科技大学北海校区就业指导中心&nbsp;&nbsp;地址：广西北海市银海区南珠大道9号<br />电话：0779-3228106&nbsp;&nbsp;邮编：536000<br /></p>
+		</div>
+	</div><!--#endeditable-->
+        </div>
+        <script type="text/javascript">
+            var ary = location.href.split("&");
+            jQuery(".slideTxtBox").slide({
+                effect: ary[1],
+                autoPlay: ary[2],
+                trigger: ary[3],
+                easing: ary[4],
+                delayTime: ary[5],
+                pnLoop: ary[6]
+            });
+        </script>
+        <script type="text/javascript">
+            $(function() {
+                $(".select").each(function() {
+                    var s = $(this);
+                    var z = parseInt(s.css("z-index"));
+                    var dt = $(this).children("dt");
+                    var dd = $(this).children("dd");
+                    var _show = function() {
+                        dd.slideDown(200);
+                        dt.addClass("cur");
+                        s.css("z-index", z + 1);
+                    }; //展开效果
+                    var _hide = function() {
+                        dd.slideUp(200);
+                        dt.removeClass("cur");
+                        s.css("z-index", z);
+                    }; //关闭效果
+                    dt.click(function() {
+                        dd.is(":hidden") ? _show() : _hide();
+                    });
+                    dd.find("a").click(function() {
+                        dt.html($(this).html());
+                        _hide();
+                    }); //选择效果（如需要传值，可自定义参数，在此处返回对应的“value”值 ）
+                    $("body").click(function(i) {
+                        !$(i.target).parents(".select").first().is(s) ? _hide() : "";
+                    });
+                })
+            });
+        </script>
+        <script type="text/javascript">
+            $(function() {
+                //切换对象为其他，这里为包含图片和标题的层
+                $('#change_32 div.changeDiv').soChange({ //对象指向层，层内包含图片及标题
+                    thumbObj: '#change_32 .ul_change_a2 span',
+                    thumbNowClass: 'on' //自定义导航对象当前class为on
+                });
+            });
+        </script>
+
+        <script type="text/javascript">
+            function setContentTab(name, curr, n) {
+                for (i = 1; i <= n; i++) {
+                    var menu = document.getElementById(name + i);
+                    var cont = document.getElementById("con_" + name + "_" + i);
+                    if (menu != null) {
+                        menu.className = i == curr ? "up" : "";
+                    }
+                    if (i == curr) {
+                        if (cont != null) {
+                            cont.style.display = "block";
+                        }
+                    } else {
+                        if (cont != null) {
+                            cont.style.display = "none";
+                        }
+                    }
+                }
+            }
+        </script>
+
+        <script type="text/javascript">
+            $(".pic ul li").hover(function() {
+                $(this).stop(true).animate({
+                    width: "824px"
+                }, 500).siblings().stop(true).animate({
+                    width: "50px"
+                }, 500);
+            });
+        </script>
+
+        <script>
+            $(document).ready(function() {
+                $("#xs_button").click(function() {
+                    $("#wx_qr").toggle();
+                });
+                $("#wx_qr").click(function() {
+                    $("#wx_qr").toggle();
+                });
+            });
+        </script>
+
+</body>
+
+</html>
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>北海校区毕业生就业网</title><META Name="keywords" Content="北海校区毕业生就业网" />
+
+    <link rel="stylesheet" href="css/style.css" type="text/css">
+    <link rel="stylesheet" href="css/publice.css" type="text/css">
+    <script type="text/javascript" src="js/jquery-1.8.3.min.js"></script>
+    <script type="text/javascript" src="js/jquery.js"></script>
+    <script type="text/javascript" src="js/superslide.2.1.js"></script>
+    <script type="text/javascript" src="js/jquery.soChange.js"></script>
+    <script type="text/javascript" src="js/index.js"></script>
+    <script type="text/javascript">
+        $(function() {
+            $(".mainmenu dl").hide();
+            $("li.mainmenu").hover(function() {
+                $(this).find("dl").stop(true, true);
+                $(this).find("dl").slideDown();
+            }, function() {
+                $(this).find("dl").stop(true, true);
+                $(this).find("dl").slideUp();
+            });
+        })
+    </script>
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="index.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/vsbscreen.min.js" id="_vsbscreen" devices="pc|pad"></script>
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1033,'/index.jsp',-1,1597863513)</script>
+</head>
+
+<body>
+    <!--top s-->
+    <div class="topWrap clearfix">
+        <div class="topDiv">
+
+            <!--#begineditable name="高校LOGO" viewid="202654" tagname="高校LOGO" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""-->
+<!-- 网站logo图片地址请在本组件"内容配置-网站logo"处填写 -->
+<div class="logo">
+<a href="index.htm"><img src="images/logo-2.png"></a>
+</div><!--#endeditable-->
+
+            <div class="topR fr">
+                <!--<a href="#">网站旧版</a>|<a href="#">学校首页</a>|<a href="#">中文版</a>|<a href="#">English</a>-->
+                <!--#begineditable name="头部检索" viewid="202656" tagname="头部检索" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><script type="text/javascript">
+    function _nl_ys_check_2(){
+        
+        var keyword = document.getElementById('showkeycode202656_2').value;
+        if(keyword==null||keyword==""){
+            alert("请输入关键字搜索");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkeyword202656").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkeyword202656").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkeyword202656").value = base64.encode(document.getElementById("lucenenewssearchkeyword202656").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode202656_2"));
+        return true;
+    } 
+    function submitForm()
+    {
+        document.getElementById("au1a").submit();
+    }
+</script>
+<script type="text/javascript">
+                function test3()
+                {
+                    var tempStr=document.getElementById('showkeycode202656_2').value;
+                    if(tempStr=="请输入关键字搜索")
+                    {
+                        document.getElementById('showkeycode202656_2').value="";
+                    }
+                }
+                function test4()
+                {
+                    var tempStr=document.getElementById('showkeycode202656_2').value;
+                    if(tempStr=="")
+                    {
+                        document.getElementById('showkeycode202656_2').value="请输入关键字搜索";
+                    }
+                }
+            </script>
+<div class="Search">
+<form action="ssjg.jsp?wbtreeid=1033" method="post" id="au1a" name="au1a" onsubmit="return _nl_ys_check_2()">
+ <input type="hidden" id="lucenenewssearchkeyword202656" name="lucenenewssearchkeyword" value=""><input type="hidden" id="_lucenesearchtype202656" name="_lucenesearchtype" value="1"><input type="hidden" id="searchScope202656" name="searchScope" value="1">
+ <input type="text" value="请输入关键字搜索" name="showkeycode" class="search_text" onfocus="test3()" onblur="test4()" id="showkeycode202656_2" />
+                <div class="fdj fr"><input type="image" src="img/top_hunt.png" value="" style="padding-right:10px;;cursor: hand"></div>
+</form>
+</div><script language="javascript" src="/system/resource/js/base64.js"></script><script language="javascript" src="/system/resource/js/formfunc.js"></script>
+<!--#endeditable-->
+            </div>
+        </div>
+    </div>
+    <!--nav-->
+    <!--#begineditable name="主导航" viewid="202679" tagname="主导航" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><div class="navWrap  clearfix">
+    <div class="nav">
+    <ul>
+            <li>
+            <a class="link" href="index.htm">首页</a>
+                        
+        </li>
+        <li class="mainmenu">
+            <a class="link" href="https://www.guet.edu.cn/xxjj.htm">学校概况</a>
+        </li>
+        <li class="mainmenu">
+            <a class="link" href="https://www.guet.edu.cn/gdbh/xqgk/xqjj.htm">校区概况</a>
+        </li>
+        <li class="mainmenu">
+            <a class="link" href="xwgg1/tzgg.htm">新闻公告</a>
+            <!--如果是导航字数很多，则加上 class="chang"，否则去掉即可-->
+            <dl class="chang">
+                    <dd><a href="xwgg1/tzgg.htm" title="通知公告">通知公告</a></dd>
+                    <dd><a href="xwgg1/jydong_ta.htm" title="就业动态">就业动态</a></dd>
+            </dl>
+        </li>
+        <li class="mainmenu">
+            <a class="link" href="zp/xyzp.htm">招聘信息</a>
+            <!--如果是导航字数很多，则加上 class="chang"，否则去掉即可-->
+            <dl class="chang">
+                    <dd><a href="zp/xyzp.htm" title="校园招聘">校园招聘</a></dd>
+                    <dd><a href="zp/wlzp.htm" title="网络招聘">网络招聘</a></dd>
+            </dl>
+        </li>
+        <li class="mainmenu">
+            <a class="link" href="xsfw1/zcfg.htm">学生服务</a>
+            <!--如果是导航字数很多，则加上 class="chang"，否则去掉即可-->
+            <dl class="chang">
+                    <dd><a href="xsfw1/zcfg.htm" title="政策法规">政策法规</a></dd>
+                    <dd><a href="xsfw1/jyzd.htm" title="就业指导">就业指导</a></dd>
+                    <dd><a href="xsfw1/sxbl.htm" title="手续办理">手续办理</a></dd>
+                    <dd><a href="xsfw1/zycp.htm" title="职业测评">职业测评</a></dd>
+                    <dd><a href="xsfw1/sygh.htm" title="生涯规划">生涯规划</a></dd>
+            </dl>
+        </li>
+        <li class="mainmenu">
+            <a class="link" href="dan_wei_f/yyzczp.htm">单位服务</a>
+            <!--如果是导航字数很多，则加上 class="chang"，否则去掉即可-->
+            <dl class="chang">
+                    <dd><a href="dan_wei_f/yyzczp.htm" title="预约专场招聘">预约专场招聘</a></dd>
+                    <dd><a href="dan_wei_f/wlfbxx.htm" title="网络发布信息">网络发布信息</a></dd>
+                    <dd><a href="dan_wei_f/fwzn.htm" title="服务指南">服务指南</a></dd>
+            </dl>
+        </li>
+        <li class="mainmenu">
+            <a class="link" href="zyjs_xs/hygcxue_yuan.htm">专业介绍</a>
+            <!--如果是导航字数很多，则加上 class="chang"，否则去掉即可-->
+            <dl class="chang">
+                    <dd><a href="zyjs_xs/hygcxue_yuan.htm" title="海洋工程学院">海洋工程学院</a></dd>
+                    <dd><a href="zyjs_xs/dzxxxy.htm" title="电子信息学院">电子信息学院</a></dd>
+                    <dd><a href="zyjs_xs/jsjgcxy.htm" title="计算机工程学院">计算机工程学院</a></dd>
+                    <dd><a href="zyjs_xs/sjycyxy.htm" title="设计与创意学院">设计与创意学院</a></dd>
+                    <dd><a href="zyjs_xs/jjyglxy.htm" title="经济与管理学院">经济与管理学院</a></dd>
+                    <dd><a href="zyjs_xs/ssyjszy1.htm" title="硕士研究生专业">硕士研究生专业</a></dd>
+            </dl>
+        </li>
+        <li class="mainmenu">
+            <a class="link" href="byszy.htm">毕业生资源</a>
+        </li>
+        <li class="mainmenu">
+            <a class="link" href="https://www.guet.edu.cn/bh_jy/info/1092/1246.htm">联系我们</a>
+            <!--如果是导航字数很多，则加上 class="chang"，否则去掉即可-->
+            <dl class="chang">
+                    <dd><a href="lyb.jsp?urltype=tree.TreeTempUrl&wbtreeid=1133" title="留言板">留言板</a></dd>
+            </dl>
+        </li>
+     
+    </ul>
+</div>
+</div>
+<script type="text/javascript">
+
+    $(".mainmenu dl").hide();
+
+</script><!--#endeditable-->
+    <!--container-->
+    <div class="vsb-box">
+        <!--上方展示窗格-->
+        <div class="vsb-container container clearfix" containerid="2" columns="6">
+            <div class="vsb-space new_inforBox informBox4 fl" columns="2" style="    padding: 0px 0px;    margin-left: 17px;    margin-right: 17px;    background-color: #004c88;    height: 100%;">
+                <!--#begineditable name="变换图片文章-1" action="" layout="" tpltype="" contype="" clone="" viewid="202993" contentviewid="" tagname="变换图片文章-1"-->
+<LINK href="/system/resource/style/component/news/list/imagechangenews.css" type="text/css" rel="stylesheet">
+<script language="javascript" src="/system/resource/js/news/imagechangenews.js"></script><script language="JavaScript">
+var u_u3_icn = new ImageChangeNews("u_u3_", 365, 274, 4, 2.0, true, false, false, true);
+
+//初始化图片, 并启动定时
+function u_u3_init_img()
+{
+
+    u_u3_icn.addimg("\/__local\/1\/B8\/C9\/9734D7D1E47B1817EAD19AD5C0A_D1F3B7E3_2EB0.jpg", "https:\/\/job.ncss.cn\/student\/jobfair\/fairdetails.html?fairId=XC2Tz8SzBmobgoJMx9EyT5", "电子商务行业面向2020届高校毕业生网上招聘活动", "");
+
+    u_u3_icn.addimg("\/__local\/5\/94\/68\/872C053911DC43F47AC55552914_8F8DB3C8_65D5.jpg", "https:\/\/job.ncss.cn\/student\/jobfair\/fairdetails.html?fairId=CHYwFfAmkZKDtMLBybmczF", "战略性新兴产业面向应届高校毕业生网络招聘会", "");
+
+    u_u3_icn.addimg("\/__local\/2\/4A\/1C\/2BA581975A47ADF579BCFBB4FAC_06985BE6_6660.jpg", "https:\/\/job.ncss.cn\/student\/jobfair\/fairdetails.html?fairId=Fofg1dHvcAqhHdLXMrnMy1", "全国国家级经济技术开发区高校毕业生网络招聘会", "");
+
+    u_u3_icn.addimg("\/__local\/1\/B8\/C9\/9734D7D1E47B1817EAD19AD5C0A_D1F3B7E3_2EB0.jpg", "https:\/\/job.ncss.cn\/student\/jobfair\/fairdetails.html?fairId=XC2Tz8SzBmobgoJMx9EyT5", "电子商务行业面向2020届高校毕业生网上招聘活动", "");
+
+    u_u3_icn.addimg("\/__local\/5\/94\/68\/872C053911DC43F47AC55552914_8F8DB3C8_65D5.jpg", "https:\/\/job.ncss.cn\/student\/jobfair\/fairdetails.html?fairId=CHYwFfAmkZKDtMLBybmczF", "战略性新兴产业面向应届高校毕业生网络招聘会", "");
+
+    u_u3_icn.addimg("\/__local\/2\/4A\/1C\/2BA581975A47ADF579BCFBB4FAC_06985BE6_6660.jpg", "https:\/\/job.ncss.cn\/student\/jobfair\/fairdetails.html?fairId=Fofg1dHvcAqhHdLXMrnMy1", "全国国家级经济技术开发区高校毕业生网络招聘会", "");
+
+    u_u3_icn.changeimg(0);
+}
+</script><table cellspacing="0" cellpadding="0" border="0" style="padding:0px margin:0px; border:0px">
+    <tr><td>
+        <div style="OVERFLOW: hidden;height:274px;width:365px">
+            <div id="u_u3_div" align="center" style="padding:0px;margin:0px;border:0px solid black;background-color:#000000;FILTER: progid:DXImageTransform.Microsoft.RevealTrans (duration=2.0,transition=23);height:274px;width:365px">
+                <div id="u_u3_imgdiv" style="padding:0px;border:0px;"><a id="u_u3_url" target="_blank"><img id="u_u3_pic" border="0" width="365" height="274" src="/system/resource/images/space.gif"></a></div>
+            </div>
+            <div style="filter:alpha(style=1,opacity=10,finishOpacity=80);width:365px;height:19px;text-align:right;top:-19px;position:relative;padding:0px;margin:0px;border:0px;">
+<a href="javascript:u_u3_icn.changeimg(0)" ; id="u_u3_selectNode0" class="imagechangenews_pnode" target="_self">1</a><a href="javascript:u_u3_icn.changeimg(1)" ; id="u_u3_selectNode1" class="imagechangenews_pnode" target="_self">2</a><a href="javascript:u_u3_icn.changeimg(2)" ; id="u_u3_selectNode2" class="imagechangenews_pnode" target="_self">3</a><a href="javascript:u_u3_icn.changeimg(3)" ; id="u_u3_selectNode3" class="imagechangenews_pnode" target="_self">4</a><a href="javascript:u_u3_icn.changeimg(4)" ; id="u_u3_selectNode4" class="imagechangenews_pnode" target="_self">5</a><a href="javascript:u_u3_icn.changeimg(5)" ; id="u_u3_selectNode5" class="imagechangenews_pnode" target="_self">6</a>
+            </div></div></td></tr>
+       
+    <tr><td height="25">
+        <div align="center" style="overflow:hidden;text-overflow:ellipsis;height:25px;width:365px;"><a target="_blank" class="titlestyle202993" id="u_u3_newstitle"></a></div>
+    </td></tr>
+<div align="left" display="none" style="overflow:hidden;text-overflow:ellipsis;height:0px;width:365px;padding-left:2px;padding-right:2px"><a target="_blank" class="summarystyle202993" id="u_u3_newssummary"></a></div>   
+</table><SCRIPT language="JavaScript">u_u3_init_img();</SCRIPT><!--#endeditable-->
+            </div>
+            <div class="vsb-space informBox informBox4 fl slideTxtBox" columns="2">
+                <div class="dynamic hd">
+                    <ul>
+                        <li class="on">
+                            <h2>网络招聘</h2>
+                        </li>
+                        <li>
+                            <h2>校园招聘</h2>
+                        </li>
+                    </ul>
+                </div>
+                <div class="infor_list bd" style="margin-top: 2px;">
+                    <ul class="dynamic_list" style="display: none; margin-top: 20px;">
+                        <!--#begineditable name="网络招聘" action="" layout="" tpltype="" contype="" clone="" viewid="203010" contentviewid="" tagname="网络招聘"--><script language="javascript" src="/system/resource/js/dynclicks.js"></script><ul class="dynamic_list">
+                            
+<li> <a href="info/1084/1497.htm">教育部启动“24365校园联合招聘服务” 助力<span>[03/02]</span></a></li>
+                            
+<li> <a href="info/1084/1623.htm">广西全面启动2020届高校毕业生线上招聘季活<span>[03/25]</span></a></li>
+                            
+<li> <a href="info/1084/1673.htm">广西2020届高校毕业生线上招聘季4月份活动<span>[04/08]</span></a></li>
+                            
+<li> <a href="info/1084/1660.htm">深圳市人力资源和社会保障局公益网络招聘月<span>[04/03]</span></a></li>
+                            
+<li> <a href="https://job.ncss.cn/student/jobfair/fairdetails.html?fairId=XC2Tz8SzBmobgoJMx9EyT5">电子商务行业面向2020届高校毕业生网上招聘<span>[04/02]</span></a></li>
+                            
+<li> <a href="https://job.ncss.cn/student/jobfair/fairdetails.html?fairId=CHYwFfAmkZKDtMLBybmczF">战略性新兴产业面向应届高校毕业生网络招聘<span>[04/02]</span></a></li>
+                            
+<li> <a href="https://job.ncss.cn/student/jobfair/fairdetails.html?fairId=Fofg1dHvcAqhHdLXMrnMy1">全国国家级经济技术开发区高校毕业生网络招<span>[04/02]</span></a></li>
+                            
+<li> <a href="info/1084/1721.htm">湖南联通2020春季线上校园招聘正式启动<span>[04/19]</span></a></li>
+                            
+</ul><script>_showDynClickBatch(['dynclicks_u4_1497','dynclicks_u4_1623','dynclicks_u4_1673','dynclicks_u4_1660','dynclicks_u4_1657','dynclicks_u4_1654','dynclicks_u4_1652','dynclicks_u4_1721'],[1497,1623,1673,1660,1657,1654,1652,1721],"wbnews", 1597863513)</script>
+<!--#endeditable-->
+                        <div class="clicktomore" style="position: relative;right: -88%;bottom: 287px; color: #5c5c5c;"><span><a id="clicktomore1" href="zp/wlzp.htm">更多>></a></span></div>
+                    </ul>
+                    <ul class="dynamic_list" style="display: block;">
+                        <!--#begineditable name="校园招聘" action="" layout="" tpltype="" contype="" clone="" viewid="202730" contentviewid="" tagname="校园招聘"--><ul class="dynamic_list">
+      <span>&nbsp&nbsp&nbsp举办日期&nbsp&nbsp&nbsp&nbsp举办地点&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp公司名称</span>                     
+<li> <a href="info/1083/1299.htm">[12/09]-花江校区-深圳市艾贝特电子科技有限公司</a></li>
+                            
+<li> <a href="info/1083/1300.htm">[11/29]-金鸡岭校区-佛山市顺德区冠宇达电源有限公司</a></li>
+                            
+<li> <a href="info/1083/1305.htm">[11/28]-花江校区-深圳深爱半导体股份有限公司</a></li>
+                            
+<li> <a href="info/1083/1304.htm">[11/28]-花江校区-广东思谷智能技术有限公司</a></li>
+                            
+<li> <a href="info/1083/1303.htm">[11/27]-花江校区-软通动力信息技术（集团）有限公司</a></li>
+                            
+<li> <a href="info/1083/1302.htm">[11/26]-花江校区-深圳市巨龙创视科技有限公司</a></li>
+                            
+<li> <a href="info/1083/1301.htm">[11/25]-花江校区-广西五运科技有限公司</a></li>
+                            
+<li> <a href="info/1083/1029.htm">[11/20]-花江校区-美亚电子科技有限公司</a></li>
+                            
+</ul><script>_showDynClickBatch(['dynclicks_u5_1299','dynclicks_u5_1300','dynclicks_u5_1305','dynclicks_u5_1304','dynclicks_u5_1303','dynclicks_u5_1302','dynclicks_u5_1301','dynclicks_u5_1029'],[1299,1300,1305,1304,1303,1302,1301,1029],"wbnews", 1597863513)</script>
+<!--#endeditable-->
+                        <div class="clicktomore" style="position: relative;right: -88%;bottom: 287px; color: #5c5c5c;"><span><a id="clicktomore1" href="zp/xyzp.htm">更多>></a></span></div>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="vsb-space informBox informBox4 fl slideTxtBox t2r" columns="2">
+                <div class="dynamic hd">
+                    <ul>
+                        <li class="on">
+                            <h2>通知公告</h2>
+                        </li>
+                        <li>
+                            <h2>就业动态</h2>
+                        </li>
+                    </ul>
+                </div>
+                <div class="infor_list bd">
+                    <ul class="dynamic_list" style="display: block;">
+                        <!--#begineditable name="通知公告" action="" layout="" tpltype="" contype="" clone="" viewid="202729" contentviewid="" tagname="通知公告"--><ul class="dynamic_list">
+                            
+<li> <a href="info/1064/1278.htm">2020届广西普通高校毕业生就业双选会安排表<span>[10/11]</span></a></li>
+                            
+<li> <a href="info/1064/1716.htm">关于龙逸帆、陈鹏翔、龚倩、张燕等同学遗失<span>[04/17]</span></a></li>
+                            
+<li> <a href="info/1064/1713.htm">教育部24365就业公益课程：五大招聘平台全<span>[04/16]</span></a></li>
+                            
+<li> <a href="info/1064/1683.htm">关李敏同学换发就业协议书的公示<span>[04/10]</span></a></li>
+                            
+<li> <a href="info/1064/1682.htm">关于马正宇同学遗失补发就业协议书的公示<span>[04/10]</span></a></li>
+                            
+<li> <a href="info/1064/1481.htm">桂林电子科技大学北海校区关于疫情防控期间<span>[02/27]</span></a></li>
+                            
+<li> <a href="info/1064/1480.htm">桂林电子科技大学北海校区关于做好新型冠状<span>[02/27]</span></a></li>
+                            
+<li> <a href="info/1064/1309.htm">基层就业大学生微纪录片<span>[12/28]</span></a></li>
+                            
+</ul><script>_showDynClickBatch(['dynclicks_u6_1278','dynclicks_u6_1716','dynclicks_u6_1713','dynclicks_u6_1683','dynclicks_u6_1682','dynclicks_u6_1481','dynclicks_u6_1480','dynclicks_u6_1309'],[1278,1716,1713,1683,1682,1481,1480,1309],"wbnews", 1597863513)</script>
+<!--#endeditable-->
+                        <div class="clicktomore" style="position: relative;right: -88%;bottom: 287px; color: #5c5c5c;"><span><a id="clicktomore1" href="xwgg1/tzgg.htm">更多>></a></span></div>
+                    </ul>
+                    <ul class="dynamic_list" style="display: none;">
+                        <!--#begineditable name="就业动态" action="" layout="" tpltype="" contype="" clone="" viewid="202728" contentviewid="" tagname="就业动态"--><ul class="dynamic_list">
+                            
+<li> <a href="https://job.ncss.cn/student/jobfair/fairdetails.html?fairId=XC2Tz8SzBmobgoJMx9EyT5">电子商务行业面向2020届高校毕业生网上招聘<span>[04/02]</span></a></li>
+                            
+<li> <a href="https://job.ncss.cn/student/jobfair/fairdetails.html?fairId=CHYwFfAmkZKDtMLBybmczF">战略性新兴产业面向应届高校毕业生网络招聘<span>[04/02]</span></a></li>
+                            
+<li> <a href="https://job.ncss.cn/student/jobfair/fairdetails.html?fairId=Fofg1dHvcAqhHdLXMrnMy1">全国国家级经济技术开发区高校毕业生网络招<span>[04/02]</span></a></li>
+                            
+<li> <a href="https://share.gxrc.com/HtmlView/2020/QuarterlyActivities/index.html">广西全面启动2020届高校毕业生线上招聘季活<span>[03/29]</span></a></li>
+                            
+<li> <a href="https://job.ncss.cn/student/jobfair/joint.html#page1">​教育部启动“24365校园联合招聘服务”活<span>[02/28]</span></a></li>
+                            
+<li> <a href="info/1063/1328.htm">北海校区领导参加北海红湾高校创意创业园开<span>[12/31]</span></a></li>
+                            
+<li> <a href="info/1063/1327.htm">佛山市高明区人社局到北海校区开展政校企对<span>[12/30]</span></a></li>
+                            
+<li> <a href="info/1063/1268.htm">【主题教育·整治状态】北海校区应邀赴柳州<span>[11/23]</span></a></li>
+                            
+</ul><script>_showDynClickBatch(['dynclicks_u7_1658','dynclicks_u7_1655','dynclicks_u7_1653','dynclicks_u7_1641','dynclicks_u7_1487','dynclicks_u7_1328','dynclicks_u7_1327','dynclicks_u7_1268'],[1658,1655,1653,1641,1487,1328,1327,1268],"wbnews", 1597863513)</script>
+<!--#endeditable-->
+                        <div class="clicktomore" style="position: relative;right: -88%;bottom: 287px; color: #5c5c5c;"><span><a id="clicktomore1" href="xwgg1/jydong_ta.htm">更多>></a></span></div>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <!--快速链接-->
+        <div class="vsb-container container clearfix" containerid="2" columns="6" style="margin: 10px auto;position: relative;">
+            <a href="https://ls.xqy.gdbh.gliet.com.cn:11643/login" target="view_window">
+                <div class="urlImgDiv2" style="background-color: #75d53a;">单位登录/注册</div>
+            </a>
+            <a href="javascript:;" οnclick="">
+                <div id="wx_qr" style="width: 200px;height: 174px;background-color: #47c0ff;position: absolute;left: 500px;border-radius: 12px;top: -184px;display: none;"></div>
+            </a>
+            <a href="javascript:;" οnclick="">
+                <div id="xs_button" class="urlImgDiv2" style="background-color: #47c0ff;">学生登录</div>
+            </a>
+            <a href="https://ls.xqy.gdbh.gliet.com.cn:11643/login" target="view_window">
+                <div class="urlImgDiv2" style="background-color: #ff9147;">管理员登录</div>
+            </a>
+
+        </div>
+        <!--下方窗格-->
+        <div class="vsb-container container clearfix" containerid="2" columns="6" style="margin-top: 0px;margin-left: auto;margin-right: auto;margin-bottom:25px">
+            <div class="vsb-space informBox informBox4 fl slideTxtBox" columns="2" style="margin-top: 0px;">
+                <div class="dynamic hd">
+                    <ul>
+                        <li class="on">
+                            <h2>政策法规</h2>
+                        </li>
+                        <li>
+                            <h2>常用下载</h2>
+                        </li>
+                    </ul>
+                </div>
+                <div class="infor_list bd">
+                    <ul class="dynamic_list" style="display: block;">
+                        <!--#begineditable name="政策法规" action="" layout="" tpltype="" contype="" clone="" viewid="202725" contentviewid="" tagname="政策法规"--><ul class="dynamic_list">
+                            
+<li> <a href="info/1086/1681.htm">广西各设区市大学生参军入伍优待政策<span>[04/09]</span></a></li>
+                            
+<li> <a href="info/1086/1651.htm">大学生参军优待丨广西大学毕业生入伍优待政<span>[04/02]</span></a></li>
+                            
+<li> <a href="info/1086/1620.htm">国家明确！今明两年事业单位空缺岗位主要用<span>[03/22]</span></a></li>
+                            
+<li> <a href="info/1086/1593.htm">广西日报：广西全力做好2020届普通高校毕业<span>[03/17]</span></a></li>
+                            
+<li> <a href="info/1086/1537.htm">教育部关于应对新冠肺炎疫情做好2020届全国<span>[03/07]</span></a></li>
+                            
+<li> <a href="info/1086/1489.htm">关乎疫情当下高校毕业生就业问题，这场发布<span>[02/28]</span></a></li>
+                            
+<li> <a href="info/1086/1482.htm">高校毕业生，最新就业政策来了！<span>[02/27]</span></a></li>
+                            
+<li> <a href="info/1086/1332.htm">教育部办公厅关于进一步做好高校学生参军入<span>[01/02]</span></a></li>
+                            
+</ul><script>_showDynClickBatch(['dynclicks_u8_1681','dynclicks_u8_1651','dynclicks_u8_1620','dynclicks_u8_1593','dynclicks_u8_1537','dynclicks_u8_1489','dynclicks_u8_1482','dynclicks_u8_1332'],[1681,1651,1620,1593,1537,1489,1482,1332],"wbnews", 1597863513)</script>
+<!--#endeditable-->
+                        <div class="clicktomore" style="position: relative;right: -88%;bottom: 279px; color: #5c5c5c;"><span><a id="clicktomore1" href="xsfw/zcfg.htm">更多>></a></span></div>
+                    </ul>
+                    <ul class="dynamic_list" style="display: none;">
+                        <!--#begineditable name="常用法规" action="" layout="" tpltype="" contype="" clone="" viewid="202727" contentviewid="" tagname="常用法规"--><ul class="dynamic_list">
+                            
+<li> <a href="info/1081/1153.htm">北海校区毕业生换发就业协议书申请表<span>[12/02]</span></a></li>
+                            
+<li> <a href="info/1081/1238.htm">引进用人单位校园招聘登记表​<span>[12/08]</span></a></li>
+                            
+<li> <a href="info/1081/1237.htm">引进用人单位校园招聘审核备案表<span>[12/08]</span></a></li>
+                            
+<li> <a href="info/1081/1239.htm">办理报到证三方同意意见证明模板<span>[12/08]</span></a></li>
+                            
+<li> <a href="info/1081/1241.htm">广西普通高等学校毕业生灵活就业登记表<span>[12/08]</span></a></li>
+                            
+<li> <a href="info/1081/1242.htm">广西普通高等学校毕业生非协议类就业登记表<span>[12/08]</span></a></li>
+                            
+<li> <a href="info/1081/1369.htm">大学生就业常见问题解答（参考）<span>[01/09]</span></a></li>
+                            
+</ul><script>_showDynClickBatch(['dynclicks_u9_1153','dynclicks_u9_1238','dynclicks_u9_1237','dynclicks_u9_1239','dynclicks_u9_1241','dynclicks_u9_1242','dynclicks_u9_1369'],[1153,1238,1237,1239,1241,1242,1369],"wbnews", 1597863513)</script>
+<!--#endeditable-->
+                        <div class="clicktomore" style="position: relative;right: -88%;bottom: 248px; color: #5c5c5c;"><span><a id="clicktomore1" href="cyxz.htm.htm">更多>></a></span></div>
+                    </ul>
+                </div>
+            </div>
+            <div class="vsb-space informBox informBox4 fl slideTxtBox" columns="2" style="margin-top: 0px;">
+                <div class="dynamic hd">
+                    <ul>
+                        <li class="on">
+                            <h2>就业指导</h2>
+                        </li>
+                        <li>
+                            <h2>职业测评</h2>
+                        </li>
+                        <li>
+                            <h2>生涯规划</h2>
+                        </li>
+                    </ul>
+                </div>
+                <div class="infor_list bd">
+                    <div class="infor_list_div" style="display: block;">
+                        <!--#begineditable name="就业指导" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/tpltitlelist.jsp" tpltype="1" contype="news" clone="" viewid="202722" contentviewid="" tagname="就业指导"--><ul class="dynamic_list">
+                            
+<li> <a href="info/1087/1680.htm">2020届毕业生简历制作指导活动通知<span>[04/09]</span></a></li>
+                            
+<li> <a href="info/1087/1679.htm">关于开展第三期公务员（选调生）考试免费网<span>[04/08]</span></a></li>
+                            
+<li> <a href="info/1087/1659.htm">正在求职的你，这些招聘套路要当心<span>[04/02]</span></a></li>
+                            
+<li> <a href="info/1087/1615.htm">国家线公布前，考研调剂需重视！<span>[03/22]</span></a></li>
+                            
+<li> <a href="info/1087/1614.htm">疫情打乱的毕业季，大学生如何突围？<span>[03/22]</span></a></li>
+                            
+<li> <a href="info/1087/1604.htm">简历怎么写，才能过得了HR？ （一名校招求<span>[03/18]</span></a></li>
+                            
+<li> <a href="info/1087/1596.htm">疫情期间，线上面试，毕业生应该怎么办？<span>[03/17]</span></a></li>
+                            
+<li> <a href="info/1087/1584.htm">求职面试交谈小技巧<span>[03/15]</span></a></li>
+                            
+</ul><script>_showDynClickBatch(['dynclicks_u10_1680','dynclicks_u10_1679','dynclicks_u10_1659','dynclicks_u10_1615','dynclicks_u10_1614','dynclicks_u10_1604','dynclicks_u10_1596','dynclicks_u10_1584'],[1680,1679,1659,1615,1614,1604,1596,1584],"wbnews", 1597863513)</script>
+<!--#endeditable-->
+                        <div class="clicktomore" style="position: relative;right: -88%;bottom: 279px; color: #5c5c5c;"><span><a id="clicktomore1" href="xsfw1/jyzd.htm">更多>></a></span></div>
+                    </div>
+                    <div class="infor_list_div" style="display: none;">
+                        <ul class="dynamic_list">
+                            <!--#begineditable name="职业测评" action="" layout="" tpltype="" contype="" clone="" viewid="202724" contentviewid="" tagname="职业测评"--><ul class="dynamic_list">
+                            
+<li> <a href="info/1132/1248.htm">职业价值观测试<span>[12/08]</span></a></li>
+                            
+<li> <a href="info/1132/1247.htm">职业兴趣测试<span>[12/08]</span></a></li>
+                            
+<li> <a href="info/1132/1252.htm">适应能力测试<span>[12/10]</span></a></li>
+                            
+<li> <a href="info/1132/1249.htm">生涯适应力测试<span>[12/06]</span></a></li>
+                            
+<li> <a href="info/1132/1251.htm">创业资源测试<span>[11/28]</span></a></li>
+                            
+<li> <a href="info/1132/1250.htm">公务员基本能力测试<span>[11/22]</span></a></li>
+                            
+</ul><script>_showDynClickBatch(['dynclicks_u11_1248','dynclicks_u11_1247','dynclicks_u11_1252','dynclicks_u11_1249','dynclicks_u11_1251','dynclicks_u11_1250'],[1248,1247,1252,1249,1251,1250],"wbnews", 1597863513)</script>
+<!--#endeditable-->
+                            <div class="clicktomore" style="position: relative;right: -88%;bottom: 219px; color: #5c5c5c;"><span><a id="clicktomore1" href="xsfw1/jyzd.htm">更多>></a></span></div>
+                        </ul>
+                    </div>
+                    <div class="infor_list_div" style="display: none;">
+                        <ul class="dynamic_list">
+                            <!--#begineditable name="生涯规划" action="" layout="" tpltype="" contype="" clone="" viewid="202977" contentviewid="" tagname="生涯规划"--><ul class="dynamic_list">
+                            
+<li> <a href="info/1144/1298.htm">职业微视频<span>[12/27]</span></a></li>
+                            
+<li> <a href="info/1144/1297.htm">职业案例<span>[12/27]</span></a></li>
+                            
+<li> <a href="info/1144/1296.htm">职业百科<span>[12/27]</span></a></li>
+                            
+<li> <a href="info/1144/1295.htm">专业百科<span>[12/27]</span></a></li>
+                            
+</ul><script>_showDynClickBatch(['dynclicks_u12_1298','dynclicks_u12_1297','dynclicks_u12_1296','dynclicks_u12_1295'],[1298,1297,1296,1295],"wbnews", 1597863513)</script>
+<!--#endeditable-->
+                        </ul>
+                        <div class="clicktomore" style="position: relative;right: -88%;bottom: 159px; color: #5c5c5c;"><span><a id="clicktomore1" href="xsfw1/sygh.htm">更多>></a></span></div>
+                    </div>
+                </div>
+            </div>
+            <div class="vsb-space informBox informBox4 fl slideTxtBox" columns="2" style="margin-top: 0px;">
+                <div class="dynamic hd">
+                    <ul>
+                        <li class="on">
+                            <h2>常用链接</h2>
+                        </li>
+                    </ul>
+                </div>
+                <div class="infor_list bd">
+                    <div class="infor_list_div urlImgDiv" style="display: block;">
+                        <a href="https://www.guet.edu.cn/"><img src="images/7.png"></a>
+                        <a href="https://www.guet.edu.cn/gdbh/"><img src="images/8.png"></a>
+                        <a href="https://www.gxbys.com/"><img src="images/1.png"></a>
+                        <a href="https://www.gxrc.com/"><img src="images/2.png"></a>
+                        <a href="https://www.ncss.cn/"><img src="images/3.png"></a>
+                        <a href="https://job.ncss.org.cn/student/jobs/index.html"><img src="images/6.png"></a>
+                        <a href="https://www.cods.org.cn/"><img src="images/4.png"></a>
+                        <a href="http://www.gsxt.gov.cn/index.html"><img src="images/5.png"></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="vsb-container container clearfix" containerid="2" columns="6">
+
+            <div class="vsb-space content contentf" columns="6">
+                <div class="urlSelect">
+                    <!--#begineditable name="快速链接-1" action="webber.wbst.com.url.ColumnUrl" layout="/system/_component/columnurl/tpllinklist.jsp" tpltype="1" contype="url" clone="" viewid="202746" contentviewid="" tagname="快速链接-1"--><script language="javascript" src="/system/resource/js/openlink.js"></script><select class="c160181_select" onchange="_openSelectLink(this, 'value', 'addclicks')">
+     <option>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;---北海校区二级学院---</option>              
+     <option value="https://www.guet.edu.cn/gdbh/" title="">海洋工程学院</option> 
+     <option value="https://www.guet.edu.cn/gdbh/" title="">电子信息学院</option> 
+     <option value="https://www.guet.edu.cn/gdbh/" title="">计算机工程学院</option> 
+     <option value="https://www.guet.edu.cn/gdbh/" title="">设计与创意学院</option> 
+     <option value="https://www.guet.edu.cn/gdbh/" title="">经济与管理学院</option> 
+</select><!--#endeditable-->
+                </div>
+                <div class="urlSelect">
+                    <!--#begineditable name="快速链接-2" action="" layout="" tpltype="" contype="" clone="" viewid="202747" contentviewid="" tagname="快速链接-2"--><select class="c160181_select" onchange="_openSelectLink(this, 'value', 'addclicks')">
+     <option>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;---广西各地市人才网---</option>              
+     <option value="https://www.gxrc.com" title="">广西人才网</option> 
+     <option value="https://lz.gxrc.com/" title="">柳州人才网</option> 
+     <option value="http://gl.gxrc.com" title="">桂林人才网</option> 
+     <option value="http://bh.gxrc.com" title="">北海人才网</option> 
+     <option value="https://gg.gxrc.com" title="">贵港人才网</option> 
+</select><!--#endeditable-->
+                </div>
+                <div class="urlSelect">
+                    <!--#begineditable name="快速链接-3" action="" layout="" tpltype="" contype="" clone="" viewid="202748" contentviewid="" tagname="快速链接-3"--><select class="c160181_select" onchange="_openSelectLink(this, 'value', 'addclicks')">
+     <option>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;---社会招聘网站---</option>              
+     <option value="s://www.ncss.org.cn" title="">新职业</option> 
+     <option value="https://www.gxbys.com" title="">广西毕业生就业网</option> 
+     <option value="http://szyfw.gxrc.com/portal.php" title="">广西“三支一扶”网主页</option> 
+</select><!--#endeditable-->
+                </div>
+                <div class="urlSelect">
+                    <!--#begineditable name="快速链接-4" action="" layout="" tpltype="" contype="" clone="" viewid="202749" contentviewid="" tagname="快速链接-4"--><select class="c160181_select" onchange="_openSelectLink(this, 'value', 'addclicks')">
+     <option>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;---广西高校就业网---</option>              
+     <option value="https://www.guet.edu.cn/jy/index.htm" title="">桂林电子科技大学就业网</option> 
+     <option value="http://zj.gxu.edu.cn" title="">广西大学就业网</option> 
+     <option value="http://gxnujyb.good-edu.cn/index.php" title="">广西师范大学就业网</option> 
+     <option value="https://jyb.gxun.edu.cn" title="">广西民族大学就业网</option> 
+     <option value="http://www.gxust.edu.cn/jyw/" title="">广西科技大学就业网</option> 
+</select><!--#endeditable-->
+                </div>
+            </div>
+        </div>
+        <!--foot-->
+        <div class="footWrap">
+            <!--#begineditable name="版权1" viewid="202694" tagname="版权1" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><div class="footDiv_one">
+		<div class="foot_one">
+			<p style="text-align:center;">桂林电子科技大学北海校区就业指导中心&nbsp;&nbsp;地址：广西北海市银海区南珠大道9号<br />电话：0779-3228106&nbsp;&nbsp;邮编：536000<br /></p>
+		</div>
+	</div><!--#endeditable-->
+        </div>
+        <script type="text/javascript">
+            var ary = location.href.split("&");
+            jQuery(".slideTxtBox").slide({
+                effect: ary[1],
+                autoPlay: ary[2],
+                trigger: ary[3],
+                easing: ary[4],
+                delayTime: ary[5],
+                pnLoop: ary[6]
+            });
+        </script>
+        <script type="text/javascript">
+            $(function() {
+                $(".select").each(function() {
+                    var s = $(this);
+                    var z = parseInt(s.css("z-index"));
+                    var dt = $(this).children("dt");
+                    var dd = $(this).children("dd");
+                    var _show = function() {
+                        dd.slideDown(200);
+                        dt.addClass("cur");
+                        s.css("z-index", z + 1);
+                    }; //展开效果
+                    var _hide = function() {
+                        dd.slideUp(200);
+                        dt.removeClass("cur");
+                        s.css("z-index", z);
+                    }; //关闭效果
+                    dt.click(function() {
+                        dd.is(":hidden") ? _show() : _hide();
+                    });
+                    dd.find("a").click(function() {
+                        dt.html($(this).html());
+                        _hide();
+                    }); //选择效果（如需要传值，可自定义参数，在此处返回对应的“value”值 ）
+                    $("body").click(function(i) {
+                        !$(i.target).parents(".select").first().is(s) ? _hide() : "";
+                    });
+                })
+            });
+        </script>
+        <script type="text/javascript">
+            $(function() {
+                //切换对象为其他，这里为包含图片和标题的层
+                $('#change_32 div.changeDiv').soChange({ //对象指向层，层内包含图片及标题
+                    thumbObj: '#change_32 .ul_change_a2 span',
+                    thumbNowClass: 'on' //自定义导航对象当前class为on
+                });
+            });
+        </script>
+
+        <script type="text/javascript">
+            function setContentTab(name, curr, n) {
+                for (i = 1; i <= n; i++) {
+                    var menu = document.getElementById(name + i);
+                    var cont = document.getElementById("con_" + name + "_" + i);
+                    if (menu != null) {
+                        menu.className = i == curr ? "up" : "";
+                    }
+                    if (i == curr) {
+                        if (cont != null) {
+                            cont.style.display = "block";
+                        }
+                    } else {
+                        if (cont != null) {
+                            cont.style.display = "none";
+                        }
+                    }
+                }
+            }
+        </script>
+
+        <script type="text/javascript">
+            $(".pic ul li").hover(function() {
+                $(this).stop(true).animate({
+                    width: "824px"
+                }, 500).siblings().stop(true).animate({
+                    width: "50px"
+                }, 500);
+            });
+        </script>
+
+        <script>
+            $(document).ready(function() {
+                $("#xs_button").click(function() {
+                    $("#wx_qr").toggle();
+                });
+                $("#wx_qr").click(function() {
+                    $("#wx_qr").toggle();
+                });
+            });
+        </script>
+
+</body>
+
+</html>

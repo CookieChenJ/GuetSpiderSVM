@@ -1,0 +1,253 @@
+<!DOCTYPE html><HTML><HEAD><TITLE>桂林电子科技大学档案馆</TITLE><META Name="keywords" Content="桂林电子科技大学档案馆" />
+
+
+
+
+
+<META content="text/html; charset=UTF-8" http-equiv="Content-Type"><LINK rel="stylesheet" type="text/css" href="css/css.css">
+
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="index.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1015,'/index.jsp',-1,1451282678)</script>
+</HEAD>
+<BODY>
+<DIV class="header">
+<DIV class="con">
+<DIV class="fl logo"><IMG alt="" src="images/logo.png"><IMG alt="" src="images/dag.png"></DIV>
+<DIV class="fr ewm"><IMG alt="" src="images/ewm.png"><SPAN>微信公众号</SPAN></DIV></DIV></DIV>
+<DIV class="nav">
+<DIV class="con">
+<UL>
+<LI><!--#begineditable clone="0" namechanged="0" order="0" ispublic="0" tagname="网站导航" viewid="164333" contentviewid="" contype="" stylesysid="" layout="" action="" name="网站导航"--><style type="text/css">
+td.b1_0_{FONT-SIZE:9pt;}
+td.b2_0_{FONT-SIZE:9pt;BACKGROUND-COLOR: #3783cf;}
+td.b3_0_{FONT-SIZE:9pt;BORDER-BOTTOM: #cccccc 1px solid;BACKGROUND-COLOR: #eeeeee;BORDER-RIGHT: #cccccc 1px solid;}
+td.b4_0_{FONT-SIZE:9pt;BORDER-BOTTOM: #cccccc 1px solid;BACKGROUND-COLOR: #eeeeee;BORDER-RIGHT: #cccccc 1px solid;}
+a.menu0_0_:link {TEXT-DECORATION: none;};
+a.menu0_0_:visited { TEXT-DECORATION: none;};
+a.menu0_0_:hover {TEXT-DECORATION: none;};
+a.menu0_0_:active {TEXT-DECORATION: none;};
+table.tb1_0_{FONT-SIZE:9pt;border:0;}
+span.s1_0_{FONT-SIZE: 11pt;TEXT-DECORATION: none;FONT-FAMILY: 宋体;COLOR: #fff;LINE-HEIGHT: 100%;}
+span.s2_0_{LINE-HEIGHT: 160%;FONT-FAMILY: 宋体;COLOR: #cc0000;FONT-SIZE: 11pt;TEXT-DECORATION: none;}
+span.s10_0_{FONT-SIZE: 11pt;TEXT-DECORATION: none;FONT-FAMILY: 宋体;COLOR: #ffffff;LINE-HEIGHT: 100%;}
+span.s20_0_{LINE-HEIGHT: 160%;FONT-FAMILY: 宋体;COLOR: #000000;FONT-SIZE: 11pt;TEXT-DECORATION: none;}
+</style>
+<SCRIPT language="javascript"> 
+ var showfix_0_ = 1;
+ var isvertical_0_ = false;
+</SCRIPT>
+<script language="javascript" src="/system/resource/js/menu/text.js"></script>
+<TABLE id="t1_0_" cellSpacing="0" cellPadding="0" border="0" height="0" width="1000"><TR><TD valign="center"></TD><TD valign="middle" height="0" width="130" nowrap class="b1_0_" align="center" id="a_0_1015" onmouseover="tshowLayers('1015','b2_0_', '_0_')" onmouseout="thideLayers('1015','b1_0_', '_0_','false','true')"><a class="menu0_0_" href="index.htm"><span class="currentfontStyle164333">首页</span></a></TD><TD valign="center"></TD><TD valign="middle" width="130" nowrap class="b1_0_" align="center" id="a_0_1214" onmouseover="tshowLayers('1214','b2_0_', '_0_')" onmouseout="thideLayers('1214','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="bggk1/bggk.htm"><span class="fontstyle164333">本馆概况</span></a></TD><TD valign="center"></TD><TD valign="middle" width="130" nowrap class="b1_0_" align="center" id="a_0_1216" onmouseover="tshowLayers('1216','b2_0_', '_0_')" onmouseout="thideLayers('1216','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="xwlb.jsp?urltype=tree.TreeTempUrl&wbtreeid=1217"><span class="fontstyle164333">综合档案</span></a></TD><TD valign="center"></TD><TD valign="middle" width="130" nowrap class="b1_0_" align="center" id="a_0_1203" onmouseover="tshowLayers('1203','b2_0_', '_0_')" onmouseout="thideLayers('1203','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="xwlb.jsp?urltype=tree.TreeTempUrl&wbtreeid=1204"><span class="fontstyle164333">人事档案</span></a></TD><TD valign="center"></TD><TD valign="middle" width="130" nowrap class="b1_0_" align="center" id="a_0_1257" onmouseover="tshowLayers('1257','b2_0_', '_0_')" onmouseout="thideLayers('1257','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="xwlb.jsp?urltype=tree.TreeTempUrl&wbtreeid=1258"><span class="fontstyle164333">文物管理</span></a></TD><TD valign="center"></TD><TD valign="middle" width="130" nowrap class="b1_0_" align="center" id="a_0_1206" onmouseover="tshowLayers('1206','b2_0_', '_0_')" onmouseout="thideLayers('1206','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="xwlb.jsp?urltype=tree.TreeTempUrl&wbtreeid=1207"><span class="fontstyle164333">档案编研</span></a></TD><TD valign="center"></TD><TD valign="middle" width="130" nowrap class="b1_0_" align="center" id="a_0_1199" onmouseover="tshowLayers('1199','b2_0_', '_0_')" onmouseout="thideLayers('1199','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="xwlb.jsp?urltype=tree.TreeTempUrl&wbtreeid=1200"><span class="fontstyle164333">政策法规</span></a></TD><TD valign="center"></TD><TD valign="middle" width="130" nowrap class="b1_0_" align="center" id="a_0_1208" onmouseover="tshowLayers('1208','b2_0_', '_0_')" onmouseout="thideLayers('1208','b1_0_', '_0_','true','true')"><a class="menu0_0_" href="xwlb.jsp?urltype=tree.TreeTempUrl&wbtreeid=1209"><span class="fontstyle164333">下载专区</span></a></TD></TR></TR></table><!--#endeditable-->&nbsp; </LI></UL></DIV></DIV>
+<DIV class="banner"><IMG alt="" src="images/banner.png" width="1917" height="300" style="height: 300px; width: 1912px"></DIV>
+<DIV class="con">
+<DIV class="main1">
+<DIV class="main1_lf">
+<DIV class="main1_lf_tit">
+<H3>新闻/公告</H3><SPAN>News/Notice</SPAN></DIV>
+<DIV class="main1_lf_con"><!--#begineditable clone="0" namechanged="0" order="1" ispublic="0" tagname="图片文章" viewid="164408" contentviewid="" contype="" stylesysid="" layout="" action="" name="图片文章"-->
+
+
+<script language="javascript" src="/system/resource/js/vsbpreloadimg.js"></script>
+<SCRIPT language="JavaScript">
+<!--
+ var u_u1_imgs = new VsbPreloadImgArray();
+ //初始化图片
+ function u_u1_init_img()
+ {
+ 
+  u_u1_imgs.addImg("\/__local\/1\/CE\/B9\/8E4F47994F5C5BF0F14F000745F_0D834006_4E116.jpg", "u_u1_img0", u_u1_onimgload);
+ 
+ }
+ function u_u1_onimgload(img, imgid)
+ {
+  img.showImg(document.getElementById(imgid), 300, 214, false, false);
+ }
+//-->
+</SCRIPT>
+<table class="winstyle164408" border="0">
+    <tr><td valign="top">
+                    <table cellpadding="2" cellspacing="0" align="left" bgcolor="#ffffff" style="margin-right:10px;border:0px solid black;"><tr><td width="300" height="214" valign="middle" align="center"><a border="0" href="info/1221/1141.htm" target="_blank"><img id="u_u1_img0" border="0" src="/system/resource/images/loading.gif"></a></td></tr></table>
+                            <div align="left">
+                                <a href="info/1221/1141.htm" target="_blank"><span class="titlestyle164408" title="钟平副校长到校档案馆调研">
+                              钟平副校长到校档案馆调研</span></a> 
+                              <span> </span>
+                                  
+                              </div>
+                                      
+                    <div class="summarystyle164408">
+                        ​4月3日上午，副校长钟平到校档案馆开展实地专项调研。钟副校长参观了学校校史馆，走访了综合档案室、干部人事档案室等部门，并听取档案馆部门负责人有关工作汇报。在认真听取汇报后，钟平副校长对学校档案馆建设工作提出了具体要求。他强调，要以迎接学校60周年校庆为契机，进一步健全完善校史馆建设，继续丰富馆藏收...<a border="0" href="info/1221/1141.htm" target="_blank"><span class="xiangxistyle164408">【详细】</span></a>
+                    </div>
+                    
+            </td>
+                    </tr>
+</table><SCRIPT language="JavaScript">u_u1_init_img();</SCRIPT><!--#endeditable--></DIV></DIV>
+<DIV class="main1_rt">
+<DIV class="main1_rt_tit"><A href="xwlb.jsp?urltype=tree.TreeTempUrl&wbtreeid=1221">More +</A></DIV>
+<DIV class="main1_rt_con"><!--
+<UL>
+<LI><A href="#">档案馆举行安全消防培训</A><SPAN>2017-11-15 </SPAN>
+<LI><A href="#">档案馆举行安全消防培训</A><SPAN>2017-11-15 </SPAN>
+<LI><A href="#">档案馆举行安全消防培训</A><SPAN>2017-11-15 </SPAN>
+<LI><A href="#">档案馆举行安全消防培训</A><SPAN>2017-11-15 </SPAN>
+<LI><A href="#">档案馆举行安全消防培训</A><SPAN>2017-11-15 </SPAN>
+<LI><A href="#">档案馆举行安全消防培训</A><SPAN>2017-11-15 </SPAN></LI></UL>
+--><!--#begineditable clone="0" namechanged="0" order="2" ispublic="0" tagname="新闻列表" viewid="164334" contentviewid="" contype="" stylesysid="" layout="" action="" name="新闻列表"--><table width="100%" cellspacing="3" cellpadding="0">
+  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont164334">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1221/1356.htm" class="c164334" title="【疫情防控】党旗引领 齐心战疫——我校疫情防控工作纪实" target="_blank">
+        【疫情防控】党旗引领 齐心战疫——...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle164334" width="1%" nowrap>2020/03/23</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont164334">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1221/1355.htm" class="c164334" title="【疫情防控】广西发布新冠肺炎疫情防控“四早”实施方案" target="_blank">
+        【疫情防控】广西发布新冠肺炎疫情...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle164334" width="1%" nowrap>2020/03/23</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont164334">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1221/1354.htm" class="c164334" title="【疫情防控】桂林电子科技大学新型冠状病毒感染的肺炎疫情防控工作领导小组通告第4号" target="_blank">
+        【疫情防控】桂林电子科技大学新型...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle164334" width="1%" nowrap>2020/03/23</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont164334">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1221/1353.htm" class="c164334" title="【疫情防控】桂林电子科技大学新型冠状病毒感染的肺炎疫情防控工作领导小组通告(第3号)" target="_blank">
+        【疫情防控】桂林电子科技大学新型...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle164334" width="1%" nowrap>2020/03/23</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont164334">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1221/1352.htm" class="c164334" title="【疫情防控】中共桂林电子科技大学委员会致全校师生党员的一封信" target="_blank">
+        【疫情防控】中共桂林电子科技大学...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle164334" width="1%" nowrap>2020/03/23</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont164334">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1221/1351.htm" class="c164334" title="【疫情防控】桂林电子科技大学新型冠状病毒感染的肺炎疫情防控工作领导小组通告（第2号）" target="_blank">
+        【疫情防控】桂林电子科技大学新型...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle164334" width="1%" nowrap>2020/03/23</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont164334">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1221/1350.htm" class="c164334" title="【疫情防控】桂林电子科技大学新型冠状病毒感染的肺炎疫情防控工作领导小组通告（第1号）" target="_blank">
+        【疫情防控】桂林电子科技大学新型...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle164334" width="1%" nowrap>2020/03/23</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont164334">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1221/1310.htm" class="c164334" title="档案馆“不忘初心、牢记使命”主题教育征求意见及意见表" target="_blank">
+        档案馆“不忘初心、牢记使命”主题...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle164334" width="1%" nowrap>2019/10/08</td></tr>
+</table><!--#endeditable--></DIV></DIV></DIV>
+<DIV class="main2">
+<DIV class="fl"><A href="http://w5.guet.edu.cn/SchoolHistory/default.aspx"><IMG alt="" src="images/t1.png"></A></DIV>
+<DIV class="fr"><A href="xwlb.jsp?urltype=tree.TreeTempUrl&wbtreeid=1256"><IMG alt="" src="images/t2.png"></A></DIV></DIV>
+<DIV class="main3">
+<UL>
+<LI style="height: 98px; width: 193px"><A href="xwlb.jsp?urltype=tree.TreeTempUrl&wbtreeid=1219"><IMG alt="" src="images/t3.png"></A><A href="xwlb.jsp?urltype=tree.TreeTempUrl&wbtreeid=1249"><IMG alt="" src="images/t4.png"></A> </LI>
+<LI><A href="wzxsg/xxxh.htm"><IMG alt="" src="images/t5.png" height="196"></A> </LI>
+<LI style="width: 193px"><A href="http://172.16.64.61:80"><IMG alt="" src="images/t6.png"></A><A href="xwlb.jsp?urltype=tree.TreeTempUrl&wbtreeid=1251"><IMG alt="" src="images/t7.png"></A> </LI>
+<LI><A href="xwlb.jsp?urltype=tree.TreeTempUrl&wbtreeid=1252"><IMG alt="" src="images/t8.png" width="206" height="196"></A> </LI>
+<LI style="width: 153px"><A href="http://mwb.guet.edu.cn/system/login.jsp"><IMG alt="" src="images/t9.png"></A><A href="fwpt/fwpt.htm"><IMG alt="" src="images/t10.png"></A> </LI></UL></DIV></DIV>
+<DIV class="footer">
+<DIV class="con">
+<DIV class="ft_lf">
+<P>通讯地址：桂林市七星区金鸡路1号桂林电子科技大学花江校区</P>
+<P>联系电话：0773-2291362</P>
+<P>版权所有 桂林电子科技大学</P>
+<P>桂ICP备 05000961</P>
+<P><NOBR><SPAN>今日访问人数：<!--#begineditable clone="0" namechanged="0" order="3" ispublic="0" tagname="文字计数器1" viewid="164391" contentviewid="" contype="" stylesysid="" layout="" action="" name="文字计数器1"--><script language="javascript" src="_dwr/engine.js"></script><script language="javascript" src="_dwr/util.js"></script><script language="javascript" src="_dwr/interface/PageCounterDWR.js"></script><span id="a164391" name="a164391"></span>   
+
+<script>
+function getvisittimea164391()
+{       
+    PageCounterDWR.getVisittime('1451282678','1015','DATE_COUNTER','0','6',callbackdataa164391)
+}
+function callbackdataa164391(data)
+{
+    document.getElementById("a164391").innerHTML = data; 
+}
+getvisittimea164391();
+</script><!--#endeditable--></SPAN><SPAN>累计访问人数：<!--#begineditable clone="0" namechanged="0" order="4" ispublic="0" tagname="文字计数器" viewid="164389" contentviewid="" contype="" stylesysid="" layout="" action="" name="文字计数器"--><span id="a164389" name="a164389"></span>   
+
+<script>
+function getvisittimea164389()
+{       
+    PageCounterDWR.getVisittime('1451282678','1015','TOTAL_COUNTER','1','10',callbackdataa164389)
+}
+function callbackdataa164389(data)
+{
+    document.getElementById("a164389").innerHTML = data; 
+}
+getvisittimea164389();
+</script><!--#endeditable--></SPAN></NOBR></P></DIV>
+<DIV class="ft_con"></DIV>
+<DIV class="ft_rt">
+<H3>友情链接</H3>
+<DIV class="ft_rt_con"><A href="http://www.guet.edu.cn/">桂林电子科技大学</A> <A href="http://www.chinaarchives.cn/">中国档案</A> <A href="http://www.gxdaj.com.cn/">广西区档案局</A> <A href="http://www.guet.edu.cn/dag">桂林电子科技大学档案馆</A> <A href="http://thdag.cic.tsinghua.edu.cn/docinfo_out/index.jsp">清华大学档案馆</A> <A href="http://archives.sjtu.edu.cn/platformData/infoplat/pub/shjadag_12/shouye_102/index.html">上海交通大学档案馆</A> </DIV></DIV></DIV></DIV>
+
+</BODY></HTML>

@@ -1,0 +1,1551 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>桂电党建云</title>
+    <meta name="viewport" content="initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <link href="/assets/img/favicon.ico" type="image/x-icon" rel="shortcut icon">
+    <meta name="renderer" content="webkit">
+    <link rel="stylesheet" type="text/css" href="/assets/addons/cms/css/fish-desktop-default.min.css">
+    <!--<script type="text/javascript" language="javascript" src="/assets/addons/cms/js/fish-desktop-all.min.js"></script>-->
+    <link rel="stylesheet" type="text/css" href="/assets/addons/cms/css/css.css?v=1.7.3">
+    <!--<script type="text/javascript" language="javascript" src="/assets/addons/cms/js/fish-desktop-all.min.js"></script>-->
+    <script type="text/javascript" src="/assets/libs/jquery/dist/jquery.min.js"></script>
+
+    <script src="/assets/addons/cms/js/scroll.js" type="text/javascript"></script>
+
+    <script>
+        var user = "";
+        function jsmoney(partymoney) {
+            var myDiv = document.getElementById("money");
+            var jieguo = 0;
+            if (partymoney > 0) {
+                if (partymoney <= 3000) {
+                    jieguo = t = partymoney * 0.005;
+                    myDiv.innerText = jieguo.toFixed(2);
+                    return;
+                }
+
+                if (partymoney <= 5000) {
+                    jieguo = t = partymoney * 0.01;
+                    myDiv.innerText = jieguo.toFixed(2);
+                    return;
+                }
+
+                if (partymoney <= 10000) {
+                    jieguo = t = partymoney * 0.015;
+                    myDiv.innerText = jieguo.toFixed(2);
+                    return;
+                }
+
+                if (partymoney >= 10000) {
+                    jieguo = t = partymoney * 0.02;
+                    myDiv.innerText = jieguo.toFixed(2);
+                    return;
+                }
+            }
+            else {
+                myDiv.innerText = "";
+            }
+
+
+        }
+        function switchtaps(x, y, z) {
+            $('.' + x + ' .' + y + ' div').each(function (index, el) {
+                $(this).hover(function () {
+                    $('.' + x + ' .' + y + ' div').removeClass('hover');
+                    $(this).addClass('hover');
+                    $("." + x + " ." + z).hide();
+                    $("." + x + " ." + z).eq(index).show();
+                });
+            });
+        }
+        jQuery(document).ready(function ($) {
+            switchtaps("switch_cont", "title", "switch_cont_box");
+            //$("#login").hide();
+        });
+        function edit() {
+            var str = $("#searchName").val();
+            var url = "/cms/s/search?search="+str;
+            window.open(url);
+            return false;
+        }
+        var loginRedirectUrl = "/cmsFront/105000";
+        function transfClick(url) {
+            loginRedirectUrl = url;
+
+            if (user == "") {
+                $('#myModal').modal('show');
+                return false;
+            } else {
+                $.ajax({
+                    contentType: "application/json",
+                    type: "POST",
+                    url: "",
+                    success: function (data) {
+                        if (data == "") {
+                            fish.warn("您在系统中的信息不是党员，无法使用该功能！");
+                            return;
+                        }
+                        var userInfo = eval('(' + data + ')');
+                        if (userInfo.userResource == "2") {
+                            window.open(loginRedirectUrl, "_blank")
+                        } else {
+                            fish.warn("您在系统中的信息不是党员，无法使用该功能！");
+                        }
+
+                    }
+                });
+
+            }
+
+        }
+    </script>
+
+</head>
+<body style="">
+<div class="entrance-main">
+    <!-- 正文 begin -->
+    <script type="text/javascript" src="/assets/libs/jquery/dist/jquery.min.js"></script>
+<script type="text/javascript" language="javascript" src="/assets/libs/fastadmin-layer/dist/layer.js"></script>
+<div class="lt nav-login">
+    <script type="text/javascript" src="/assets/addons/cms/js/bootstrap.min.js"></script>
+    <!--<script type="text/javascript" src="/assets/addons/cms/js/login.js"></script>-->
+    <div class="login" id="login" style=" line-height:40px;color: #fff;    padding-left: 10px;
+    box-sizing: border-box;  ">
+                <a id="btnOpenModal" data-toggle="modal" data-target=".bs-example-modal-lg" href="javascript:viod(0)">
+            你好，请登录</a>  |   <a href="/addons/cms/register.html" target="_blank">注册</a> | <a href="/cms"  >首页</a>
+            </div>
+    <style type="text/css">
+        .modal-dialog{
+            background-color:#fff;
+        }.login{
+                     background-color: #f00;
+                     width: 1200px !important;
+                     margin-left: -20px!important;
+                 }
+       .login a:link,.login a:visited{
+            color: #fff;
+        }
+    </style>
+    <script>
+
+    </script>
+
+    <div id="myModal" class="modal fade bs-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+        <div class="modal-dialog " style="width:400px">
+            <div class="modal-header" style="background-color: #ea2600;color: #fff;border-bottom: 0;">
+                <h4 class="modal-title">
+                <span>
+                <img width="23px" src="/assets/addons/cms/img/dangjian/login.png">
+                 </span> <span>
+               		 桂电党建云                </span>
+                </h4>
+            </div>
+            <div class="modal-body">
+                <div class="panel-body">
+                    <form class="form-horizontal" id="demand-form">
+                        <div class="col-md-12">
+                            <div class="form-group">
+                                <label class="col-md-3 control-label">登录名：</label>
+                                <div class="input-group col-md-8">
+                                    <input class="form-control" placeholder="请输入学号/工号/手机号" name="username" id="username">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-12">
+                            <div class="form-group">
+                                <label class="col-md-3 control-label">密   码：</label>
+                                <div class="input-group col-md-8">
+                                    <input class="form-control"  placeholder="请输入密码" name="password" id="password" type="password">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-12" id="messageShow" style="display:none">
+                            <div class="form-group">
+                                <label class="col-md-3 control-label"></label>
+                                <div class="input-group col-md-8">
+                                    <font color="red" id="message"></font>
+                                </div>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+
+            </div>
+            <div class="modal-footer">
+                <button class="btn btn-primary" id="login-button" type="button" style=" color: #fff;  background-color: #ea2600;border-color: #ea2600;">登录</button>
+                <button class="btn btn-default" data-dismiss="modal" id="cancel-button">取消</button>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+    $(function(){
+         $("#login-button").on("click",function(){
+             if($("#username").val()==""){
+                 layer.msg($("#username").attr("placeholder"));
+                 return false;
+             }
+             if($("#password").val()==""){
+                 layer.msg($("#password").attr("placeholder"));
+                 return false;
+             }
+             var data={username:$("#username").val(),password:$("#password").val()}
+             $.post("/index/user/login", data, function (ret) {
+                 console.log(ret);
+                 if (ret.code == 1) {
+                     layer.msg("登录成功!",{time:1500,end:function(){document.location.href="/cms";}});
+                     $("input[type!='file'],textarea").val("");
+                 }
+                 else {
+                     layer.alert(ret.msg, {icon: 2});
+                 }
+             });
+
+
+         });
+
+        $("#logout").on("click",function(){
+            $.post("/index/user/logout", {}, function (ret) {
+                if (ret.code == 1) {
+                    layer.msg("登出成功!",{time:1000,end:function(){document.location.href="/cms";}});
+                }
+            });
+        });
+    });
+</script>
+    <div class="entrance-indexmain">
+        <!-- logo+搜索 begin -->
+        <div class="entrance-top">
+            <div class="lt logo"><img src="/assets/addons/cms/img/dangjian/logo.png"></div>
+            <div class="rt entrance-search">
+                <form>
+                    <input name="searchName" id="searchName" type="text" value="">
+                    <input id="submit" onClick="edit()" value="">
+                    <div class="clear">
+                    </div>
+
+                </form>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <!-- logo+搜索 end -->
+        <!-- 导航内容切换 begin -->
+        <div class="switch_cont clear">
+            <div class="title">
+                                <div class="">宣传教育</a></div>
+                                <div class="">投稿管理</a></div>
+                                <div class="">视频教育</a></div>
+                                <div class="">党校课堂</a></div>
+                
+            </div>
+            <!-- 宣传内容 begin -->
+            <div class="switch_cont_box" style="display:block;">
+                <!-- 图片新闻 begin -->
+                <div class="lt entr_pic">
+                    <script type="text/javascript">
+                        $(function () {
+                            $("#slide").player({
+                                width: '340px',
+                                height: '250px',
+                                time: '3000',
+                                transition: 1,
+                                duration: 800,
+                                //method:'4',
+                                animate: {'direction': 'fix'},
+                                divCSS: {'border': 'none'},
+                                ulCSS: {'bottom': '5px', 'right': '10px', 'line-height': '15px'}
+                            }).play();
+                            $("#slide img").css("height", "250px").css("width", "340px");
+                        });
+                    </script>
+                    <div id="slide"
+                         style="display: block; position: relative; border: none; padding: 0px; font-size: 12px; overflow: hidden; width: 340px; height: 250px;">
+                        <div>
+                                                        <a href="/cms/a/election.html" title="我校2019届毕业生“双向选择”洽谈会举行" target="_blank">
+                                <img src="http://zhdj.guet.edu.cn/uploads/20181102/e107c1fe335f693b2005d5bdede4da3a.jpg"
+                                     style="display: inline; position: absolute; border: none; z-index: 0; margin: 0px; width: 340px; height: 250px;">
+                            </a>
+                                                        <a href="/cms/a/talks.html" title="诺贝尔奖得主konstantin Novoselov教授到我校作报告" target="_blank">
+                                <img src="http://zhdj.guet.edu.cn/uploads/20181102/aa7efad13d9d712641febc593d7330ee.jpg"
+                                     style="display: inline; position: absolute; border: none; z-index: 0; margin: 0px; width: 340px; height: 250px;">
+                            </a>
+                                                    </div>
+                        <ul style="margin: 0px; padding: 0px; z-index: 10; position: absolute; bottom: 5px; right: 10px; list-style-type: none; line-height: 15px;">
+                            <li style="opacity: 1; font-family: Arial; color: rgb(255, 255, 255); float: left; border: 1px solid rgb(238, 238, 238); padding: 2px; width: 15px; height: 15px; text-align: center; margin-left: 1px; cursor: pointer; background-color: rgb(207, 15, 0); font-size: 100%; font-weight: 700;">
+                                1
+                            </li>
+                            <li style="opacity: 0.642742; font-family: Arial; color: rgb(255, 255, 255); float: left; border: 1px solid rgb(238, 238, 238); padding: 2px; width: 15px; height: 15px; text-align: center; margin-left: 1px; cursor: pointer; background-color: rgb(153, 153, 153); font-size: 100%; font-weight: normal;">
+                                2
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <!-- 图片新闻 end -->
+                <!-- 推荐阅读 begin -->
+                <div class="lt recom_read">
+                   <a href="/cms/c?id=4">  <div class="tit">工作动态</div></a>
+                    <div class="new-box">
+                                                <div class="list-image-list-li">
+                            <i></i>
+                            <a href="/cms/a/271.html" title="我校学子在2019年全国大学生智能互联创新应用设计大赛中喜获佳绩（图）" target="_blank">我校学子在2019年全国大学生智能互联创新应用设计大赛中喜获佳绩（图）</a>
+                            <span>2019-12-13</span>
+                        </div>
+                                                <div class="list-image-list-li">
+                            <i></i>
+                            <a href="/cms/a/270.html" title="校领导带队到国际学院指导专家楼建设" target="_blank">校领导带队到国际学院指导专家楼建设</a>
+                            <span>2019-12-13</span>
+                        </div>
+                                                <div class="list-image-list-li">
+                            <i></i>
+                            <a href="/cms/a/269.html" title="我校学子在第44届ICPC亚洲区域赛香港站比赛中喜获银奖（图）" target="_blank">我校学子在第44届ICPC亚洲区域赛香港站比赛中喜获银奖（图）</a>
+                            <span>2019-12-13</span>
+                        </div>
+                                                <div class="list-image-list-li">
+                            <i></i>
+                            <a href="/cms/a/268.html" title="【主题教育·整治动态】学校召开信息科技学院转设专项推进会" target="_blank">【主题教育·整治动态】学校召开信息科技学院转设专项推进会</a>
+                            <span>2019-12-13</span>
+                        </div>
+                                                <div class="list-image-list-li">
+                            <i></i>
+                            <a href="/cms/a/262.html" title="【不忘初心、牢记使命】我校作为区内唯一高校参加2019广西电子信息产业（深圳）招商引资推介会（图）" target="_blank">【不忘初心、牢记使命】我校作为区内唯一高校参加2019广西电子信息产业（深圳）招商引资推介会（图）</a>
+                            <span>2019-11-28</span>
+                        </div>
+                                                <div class="list-image-list-li">
+                            <i></i>
+                            <a href="/cms/a/261.html" title="【主题教育•整治动态】自治区党委主题教育第十巡回指导组到信息科技学院指导工作（图）" target="_blank">【主题教育•整治动态】自治区党委主题教育第十巡回指导组到信息科技学院指导工作（图）</a>
+                            <span>2019-11-28</span>
+                        </div>
+                                                <div class="list-image-list-li">
+                            <i></i>
+                            <a href="/cms/a/260.html" title="【主题教育·整治动态】学校加快推进一流学科建设" target="_blank">【主题教育·整治动态】学校加快推进一流学科建设</a>
+                            <span>2019-11-28</span>
+                        </div>
+                                                <div class="list-image-list-li">
+                            <i></i>
+                            <a href="/cms/a/259.html" title="我校召开2020年拟申请新增博士点申报材料校内论证会（图）" target="_blank">我校召开2020年拟申请新增博士点申报材料校内论证会（图）</a>
+                            <span>2019-11-28</span>
+                        </div>
+                                            </div>
+                </div>
+                <!-- 推荐阅读 end -->
+                <!-- 右侧 begin -->
+                <div class="rt public_ri">
+                    <div class="ban-tu">
+                                                <div><a href="https://zhdj.guet.edu.cn/admin/index/login.html?loginfrompc=1" target="_blank" title="后台入口"><img src="/uploads/20190530/e4a8c0f03d9e6d9274feb782a8d27b28.png"
+                                                                                         style="margin-right:10px"></a>
+                        </div>
+                                                <div><a href="http://172.16.26.40:8081/cadre/a?login" target="_blank" title="干部管理系统"><img src="/uploads/20181102/19ee9a3d3eb7eaf0402c9fb21e00d59f.jpg"
+                                                                                         style="margin-right:10px"></a>
+                        </div>
+                                            </div>
+                </div>
+                <!-- 右侧 end -->
+            </div>
+            <!-- 宣传内容 end -->
+            <!-- 投稿管理begin-->
+            <div class="switch_cont_box" style="display:none;">
+                <!-- 图片新闻 begin -->
+                <div class="lt entr_pic">
+                    <script type="text/javascript">
+                        $(function () {
+                            $("#slide1").player({
+                                width: '340px',
+                                height: '250px',
+                                time: '3000',
+                                transition: 1,
+                                duration: 800,
+                                //method:'4',
+                                animate: {'direction': 'fix'},
+                                divCSS: {'border': 'none'},
+                                ulCSS: {'bottom': '5px', 'right': '10px', 'line-height': '15px'}
+                            }).play();
+                            $("#slide img").css("height", "250px").css("width", "340px");
+                        });
+                    </script>
+                    <div id="slide1"
+                         style="display: block; position: relative; border: none; padding: 0px; font-size: 12px; overflow: hidden; width: 340px; height: 250px;">
+
+                        <div>
+                                                        <a href="/cms/a/election.html" title="我校2019届毕业生“双向选择”洽谈会举行" target="_blank">
+                                <img src="http://zhdj.guet.edu.cn/uploads/20181102/e107c1fe335f693b2005d5bdede4da3a.jpg"
+                                     style="display: inline; position: absolute; border: none; z-index: 0; margin: 0px; width: 340px; height: 250px;">
+                            </a>
+                                                        <a href="/cms/a/talks.html" title="诺贝尔奖得主konstantin Novoselov教授到我校作报告" target="_blank">
+                                <img src="http://zhdj.guet.edu.cn/uploads/20181102/aa7efad13d9d712641febc593d7330ee.jpg"
+                                     style="display: inline; position: absolute; border: none; z-index: 0; margin: 0px; width: 340px; height: 250px;">
+                            </a>
+                                                    </div>
+
+                        <ul style="margin: 0px; padding: 0px; z-index: 10; position: absolute; bottom: 5px; right: 10px; list-style-type: none; line-height: 15px;">
+                            <li style="opacity: 1; font-family: Arial; color: rgb(255, 255, 255); float: left; border: 1px solid rgb(238, 238, 238); padding: 2px; width: 15px; height: 15px; text-align: center; margin-left: 1px; cursor: pointer; background-color: rgb(207, 15, 0); font-size: 100%; font-weight: 700;">
+                                1
+                            </li>
+                            <li style="opacity: 0.642742; font-family: Arial; color: rgb(255, 255, 255); float: left; border: 1px solid rgb(238, 238, 238); padding: 2px; width: 15px; height: 15px; text-align: center; margin-left: 1px; cursor: pointer; background-color: rgb(153, 153, 153); font-size: 100%; font-weight: normal;">
+                                2
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="lt recom_read">
+                   <a href="/cms/c?id=56"> <div class="tit">优秀稿文</div> </a>
+                    <div class="new-box">
+                                                <div class="list-image-list-li">
+                            <i></i>
+                            <a href="/cms/a/274.html" title="批评和自我批评切莫“假唱”" target="_blank">批评和自我批评切莫“假唱”</a>
+                            <span>2019-12-13</span>
+                        </div>
+                                                <div class="list-image-list-li">
+                            <i></i>
+                            <a href="/cms/a/273.html" title="年终总结要“正位子”“揭疤子”“定调子”" target="_blank">年终总结要“正位子”“揭疤子”“定调子”</a>
+                            <span>2019-12-13</span>
+                        </div>
+                                                <div class="list-image-list-li">
+                            <i></i>
+                            <a href="/cms/a/272.html" title="历史 不容我们忘记！" target="_blank">历史 不容我们忘记！</a>
+                            <span>2019-12-13</span>
+                        </div>
+                                                <div class="list-image-list-li">
+                            <i></i>
+                            <a href="/cms/a/264.html" title="把住“烂石”杀手锏 练好“吃劲”基本功" target="_blank">把住“烂石”杀手锏 练好“吃劲”基本功</a>
+                            <span>2019-11-28</span>
+                        </div>
+                                                <div class="list-image-list-li">
+                            <i></i>
+                            <a href="/cms/a/263.html" title="让“能短则短”成为一种行动自觉" target="_blank">让“能短则短”成为一种行动自觉</a>
+                            <span>2019-11-28</span>
+                        </div>
+                                                <div class="list-image-list-li">
+                            <i></i>
+                            <a href="/cms/a/258.html" title="探寻“无字丰碑”的“根”密码" target="_blank">探寻“无字丰碑”的“根”密码</a>
+                            <span>2019-11-21</span>
+                        </div>
+                                                <div class="list-image-list-li">
+                            <i></i>
+                            <a href="/cms/a/257.html" title="过“学习关”要有“原味”“新味”“民味”" target="_blank">过“学习关”要有“原味”“新味”“民味”</a>
+                            <span>2019-11-21</span>
+                        </div>
+                                                <div class="list-image-list-li">
+                            <i></i>
+                            <a href="/cms/a/256.html" title="重读原典 激昂新时代“马克思主义”磅礴力量" target="_blank">重读原典 激昂新时代“马克思主义”磅礴力量</a>
+                            <span>2019-11-21</span>
+                        </div>
+                                            </div>
+                </div>
+                <!-- 右侧 begin -->
+                <div class="rt public_ri">
+                    <div class="ban-tu" style="    font-size: 85px;    color: #fff;    text-align: center;    cursor: pointer;    background-color: #fc694d;    border-radius: 10px;" onclick="window.location.href='/cms/c/draft'">
+                        欢迎投稿
+                    </div>
+                </div>
+                <!-- 右侧 end -->
+            </div>
+            <!-- 管理内容 end -->
+            <!-- 视频教育内容 begin -->
+            <div class="switch_cont_box" style="display: none;">
+                <!-- 图片新闻 begin -->
+                <div class="lt entr_pic">
+                    <script type="text/javascript">
+                        $(function () {
+                            $("#slide2").player({
+                                width: '340px',
+                                height: '250px',
+                                time: '3000',
+                                transition: 1,
+                                duration: 800,
+                                //method:'4',
+                                animate: {'direction': 'fix'},
+                                divCSS: {'border': 'none'},
+                                ulCSS: {'bottom': '5px', 'right': '10px', 'line-height': '15px'}
+                            }).play();
+                            $("#slide2 img").css("height", "250px").css("width", "340px");
+                        });
+                    </script>
+                    <div id="slide2"
+                         style="display: block; position: relative; border: none; padding: 0px; font-size: 12px; overflow: hidden; width: 340px; height: 250px;">
+                                                <a href="/cms/a/63.html" title="带好队领好飞" target="_blank">
+                            <img src="http://zhdj.guet.edu.cn/uploads/20181108/f6846972d5d562874f9874d3024cda9a.jpg"
+                                 style="display: inline; position: absolute; border: none; z-index: 0; margin: 0px; width: 340px; height: 250px;">
+                        </a>
+                                                <a href="/cms/a/58.html" title="“党建元素·微系列”彰显行动党员教育公益广告之最有力的回答篇" target="_blank">
+                            <img src="http://zhdj.guet.edu.cn/uploads/20181108/464a93a4f620ddca0bc402a47907b890.jpg"
+                                 style="display: inline; position: absolute; border: none; z-index: 0; margin: 0px; width: 340px; height: 250px;">
+                        </a>
+                        
+                        <div style="background-color: rgb(238, 238, 238); position: absolute; z-index: 9; line-height: 25px; font-weight: 700; padding: 0px 5px; bottom: 0px; opacity: 0.75; width: 330px;">
+                            我是共产党员
+                        </div>
+                        <ul style="margin: 0px; padding: 0px; z-index: 10; position: absolute; bottom: 5px; right: 10px; list-style-type: none; line-height: 15px;">
+                            <li style="opacity: 1; font-family: Arial; color: rgb(255, 255, 255); float: left; border: 1px solid rgb(238, 238, 238); padding: 2px; width: 15px; height: 15px; text-align: center; margin-left: 1px; cursor: pointer; background-color: rgb(207, 15, 0); font-size: 100%; font-weight: 700;">
+                                1
+                            </li>
+                            <li style="opacity: 0.6; font-family: Arial; color: rgb(255, 255, 255); float: left; border: 1px solid rgb(238, 238, 238); padding: 2px; width: 15px; height: 15px; text-align: center; margin-left: 1px; cursor: pointer; background-color: rgb(153, 153, 153); font-size: 100%; font-weight: normal;">
+                                2
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <!-- 图片新闻 end -->
+                <!-- 课件管理 begin -->
+                <div class="lt recom_read recom_read_train">
+                    <a href="/cms/c?id=9"> <div class="tit">热门课件</div></a>
+                    <div class="new-box">
+                                                <div class="list-image-list-li">
+                            <i></i>
+                            <a href=" /cms/a/124.html" target="_blank" title="成立新的党的基层组织具体步骤">成立新的党的基层组织具体步骤</a>
+                        </div>
+                                                <div class="list-image-list-li">
+                            <i></i>
+                            <a href=" /cms/a/81.html" target="_blank" title="做合格党员篇">做合格党员篇</a>
+                        </div>
+                                                <div class="list-image-list-li">
+                            <i></i>
+                            <a href=" /cms/a/80.html" target="_blank" title="做好百姓就业这篇文章">做好百姓就业这篇文章</a>
+                        </div>
+                                                <div class="list-image-list-li">
+                            <i></i>
+                            <a href=" /cms/a/79.html" target="_blank" title="追随习近平总书记的初心">追随习近平总书记的初心</a>
+                        </div>
+                                                <div class="list-image-list-li">
+                            <i></i>
+                            <a href=" /cms/a/78.html" target="_blank" title="有我陪着你">有我陪着你</a>
+                        </div>
+                                                <div class="list-image-list-li">
+                            <i></i>
+                            <a href=" /cms/a/62.html" target="_blank" title="开创外企党建新模式">开创外企党建新模式</a>
+                        </div>
+                                            </div>
+                </div>
+                <div class="lt recom_read recom_read_train">
+                 <a href="/cms/c?id=10">    <div class="tit">最新课件</div> </a>
+                    <div class="new-box">
+                                                <div class="list-image-list-li">
+                            <i></i>
+                            <a href=" /cms/a/126.html" target="_blank" title="党的基层组织设置">党的基层组织设置</a>
+                        </div>
+                                                <div class="list-image-list-li">
+                            <i></i>
+                            <a href=" /cms/a/77.html" target="_blank" title="习近平寄语青年">习近平寄语青年</a>
+                        </div>
+                                                <div class="list-image-list-li">
+                            <i></i>
+                            <a href=" /cms/a/76.html" target="_blank" title="我奋斗，我幸福之毕业生">我奋斗，我幸福之毕业生</a>
+                        </div>
+                                                <div class="list-image-list-li">
+                            <i></i>
+                            <a href=" /cms/a/75.html" target="_blank" title="我奋斗，我幸福">我奋斗，我幸福</a>
+                        </div>
+                                                <div class="list-image-list-li">
+                            <i></i>
+                            <a href=" /cms/a/74.html" target="_blank" title="奋进新时代（1）人民政协新时代新作为">奋进新时代（1）人民政协新时代新作为</a>
+                        </div>
+                                                <div class="list-image-list-li">
+                            <i></i>
+                            <a href=" /cms/a/61.html" target="_blank" title="以身作则带头干">以身作则带头干</a>
+                        </div>
+                                            </div>
+                </div>
+                <!-- 课件管理 end -->
+            </div>
+            <!-- 教育内容 end -->
+            <!-- 党校课堂begin -->
+            <div class="switch_cont_box" style="display:none;">
+                <div class="lt work_temp_lt">
+                    <div class="lt work_temp">
+                      <a href="/cms/c?id=37">   <div class="tit">工作模板</div> </a>
+                        <div class="new-box">
+                                                        <div class="list-image-list-li list-image-list-download">
+                                <i class="ic ic-word"></i>
+                                <a href=" /cms/a/134.html" target="_blank" title="关于中共桂林电子科技大学××学院委员会举行换届选举的请示">关于中共桂林电子科技大学××学院委员会举行换届选举的请示</a>
+                            </div>
+                                                        <div class="list-image-list-li list-image-list-download">
+                                <i class="ic ic-word"></i>
+                                <a href=" /cms/a/133.html" target="_blank" title="关于中共桂林电子科技大学××学院委员会委员候选人预备人选、书记、副书记（或纪委书记）候选人预备人选名单的请示">关于中共桂林电子科技大学××学院委员会委员候选人预备人选、书记、副书记（或纪委书记）候选人预备人选名单的请示</a>
+                            </div>
+                                                        <div class="list-image-list-li list-image-list-download">
+                                <i class="ic ic-word"></i>
+                                <a href=" /cms/a/132.html" target="_blank" title="中共桂林电子科技大学×××委员会（总支部委员会或直属支部委员会）书记（副书记）选票（样式）">中共桂林电子科技大学×××委员会（总支部委员会或直属支部委员会）书记（副书记）选票（样式）</a>
+                            </div>
+                                                        <div class="list-image-list-li list-image-list-download">
+                                <i class="ic ic-word"></i>
+                                <a href=" /cms/a/131.html" target="_blank" title="中共桂林电子科技大学×××委员会（总支部委员会或直属支部委员会）书记（副书记）选票（样式）">中共桂林电子科技大学×××委员会（总支部委员会或直属支部委员会）书记（副书记）选票（样式）</a>
+                            </div>
+                                                        <div class="list-image-list-li list-image-list-download">
+                                <i class="ic ic-word"></i>
+                                <a href=" /cms/a/130.html" target="_blank" title="中共桂林电子科技大学×××纪律检查委员会书记选票（样式）">中共桂林电子科技大学×××纪律检查委员会书记选票（样式）</a>
+                            </div>
+                                                        <div class="list-image-list-li list-image-list-download">
+                                <i class="ic ic-word"></i>
+                                <a href=" /cms/a/129.html" target="_blank" title="关于中共桂林电子科技大学××委员会换届选举结果的报告（示例）">关于中共桂林电子科技大学××委员会换届选举结果的报告（示例）</a>
+                            </div>
+                            
+                        </div>
+                    </div>
+                    <div class="lt work_temp">
+                       <a href="/cms/c?id=38">  <div class="tit">政务文件</div> </a>
+                        <div class="new-box">
+                                                        <div class="list-image-list-li list-image-list-download">
+                                <i class="ic ic-word"></i>
+                                <a href=" /cms/a/120.html" target="_blank" title="中共中央印发《中国共产党党务公开条例（试行）》">中共中央印发《中国共产党党务公开条例（试行）》</a>
+
+                            </div>
+                                                        <div class="list-image-list-li list-image-list-download">
+                                <i class="ic ic-word"></i>
+                                <a href=" /cms/a/119.html" target="_blank" title="中共中央办公厅印发《关于党的基层组织任期的意见》">中共中央办公厅印发《关于党的基层组织任期的意见》</a>
+
+                            </div>
+                                                        <div class="list-image-list-li list-image-list-download">
+                                <i class="ic ic-word"></i>
+                                <a href=" /cms/a/118.html" target="_blank" title="中共中央印发《2018－2022年全国干部教育培训规划》">中共中央印发《2018－2022年全国干部教育培训规划》</a>
+
+                            </div>
+                                                        <div class="list-image-list-li list-image-list-download">
+                                <i class="ic ic-word"></i>
+                                <a href=" /cms/a/117.html" target="_blank" title="中共中央印发《中国共产党支部工作条例（试行）》">中共中央印发《中国共产党支部工作条例（试行）》</a>
+
+                            </div>
+                                                        <div class="list-image-list-li list-image-list-download">
+                                <i class="ic ic-word"></i>
+                                <a href=" /cms/a/67.html" target="_blank" title="中共中央印发《党政领导干部选拔任用工作条例》">中共中央印发《党政领导干部选拔任用工作条例》</a>
+
+                            </div>
+                                                        <div class="list-image-list-li list-image-list-download">
+                                <i class="ic ic-word"></i>
+                                <a href=" /cms/a/51.html" target="_blank" title="《中国共产党党务公开条例（试行）》">《中国共产党党务公开条例（试行）》</a>
+
+                            </div>
+                                                    </div>
+                    </div>
+                    <div class="lt work_temp">
+                       <a href="/cms/c?id=39">  <div class="tit">办公软件</div> </a>
+                        <div class="new-box">
+                                                        <div class="list-image-list-li list-image-list-download">
+                                <i class="ic ic-word"></i>
+                                <a href=" /cms/a/71.html" target="_blank" title="Powerpoint">Powerpoint</a>
+
+                            </div>
+                                                        <div class="list-image-list-li list-image-list-download">
+                                <i class="ic ic-word"></i>
+                                <a href=" /cms/a/70.html" target="_blank" title="MicrosoftExcel">MicrosoftExcel</a>
+
+                            </div>
+                                                        <div class="list-image-list-li list-image-list-download">
+                                <i class="ic ic-word"></i>
+                                <a href=" /cms/a/69.html" target="_blank" title="MicrosoftOfficeWord">MicrosoftOfficeWord</a>
+
+                            </div>
+                                                        <div class="list-image-list-li list-image-list-download">
+                                <i class="ic ic-word"></i>
+                                <a href=" /cms/a/68.html" target="_blank" title="VPN使用手册及客户端">VPN使用手册及客户端</a>
+
+                            </div>
+                                                    </div>
+                    </div>
+                    <div class="lt work_temp">
+                       <a href="/cms/c?id=40">  <div class="tit">学习资料</div> </a>
+                        <div class="new-box">
+                                                        <div class="list-image-list-li list-image-list-download">
+                                <i class="ic ic-word"></i>
+                                <a href=" /cms/a/116.html" target="_blank" title="中国共产党普通高等学校基层组织工作条例">中国共产党普通高等学校基层组织工作条例</a>
+
+                            </div>
+                                                        <div class="list-image-list-li list-image-list-download">
+                                <i class="ic ic-word"></i>
+                                <a href=" /cms/a/115.html" target="_blank" title="中国共产党基层组织选举工作暂行条例">中国共产党基层组织选举工作暂行条例</a>
+
+                            </div>
+                                                        <div class="list-image-list-li list-image-list-download">
+                                <i class="ic ic-word"></i>
+                                <a href=" /cms/a/114.html" target="_blank" title="基层党组织委员职责">基层党组织委员职责</a>
+
+                            </div>
+                                                        <div class="list-image-list-li list-image-list-download">
+                                <i class="ic ic-word"></i>
+                                <a href=" /cms/a/113.html" target="_blank" title="中国共产党桂林电子科技大学基层党支部换届选举工作实施办法">中国共产党桂林电子科技大学基层党支部换届选举工作实施办法</a>
+
+                            </div>
+                                                    </div>
+                    </div>
+                    <div class="clear"></div>
+                </div>
+                <div class="rt down_rank">
+                  <a href="/cms/c?id=41">   <div class="tit">下载排行</div> </a>
+                    <div class="rank-box">
+                                                <div class="rank-list-li">
+                            <a href=" /cms/a/136.html" target="_blank" title="关于中共桂林电子科技大学××学院委员会委员候选人预备人选、书记、副书记（或纪委书记）候选人预备人选名单的请示" style="padding-left:0px">关于中共桂林电子科技大学××学院委员会委员候选人预备人选、书记、副书记（或纪委书记）候选人预备人选名单的请示</a>
+
+                        </div>
+                                                <div class="rank-list-li">
+                            <a href=" /cms/a/135.html" target="_blank" title="关于中共桂林电子科技大学××学院委员会举行换届选举的请示" style="padding-left:0px">关于中共桂林电子科技大学××学院委员会举行换届选举的请示</a>
+
+                        </div>
+                                                <div class="rank-list-li">
+                            <a href=" /cms/a/52.html" target="_blank" title="双一流”大学建设基本知识" style="padding-left:0px">双一流”大学建设基本知识</a>
+
+                        </div>
+                                            </div>
+                </div>
+            </div>
+            <!-- 资源内容 end -->
+        </div>
+        <!-- 导航内容切换 end -->
+        <!-- 专题 begin -->
+        <div class="special_box">
+            <!-- 滚动 开始 -->
+            <div class="blk_18"><a class="LeftBotton" onMouseDown="ISL_GoUp_1()" onMouseUp="ISL_StopUp_1()"
+                                   onMouseOut="ISL_StopUp_1()" href="javascript:void(0);" target="_self"></a>
+                <div class="pcont" id="ISL_Cont_1" style="height: 90px;">
+                    <div class="ScrCont">
+                        <div id="List1_1">
+                                                        <a class="pl" href="http://gldz.cbpt.cnki.net/WKD/WebPublication/index.aspx?mid=GLDZ" target="_blank"><img src="/uploads/20181102/2f21b0f7095b54fb88e9fe4b52d3d5c3.png" width="190"
+                                                                                   height="85"></a>
+                                                        <a class="pl" href="http://utsc.guet.edu.cn/doubleDegree.aspx?mCode=0022" target="_blank"><img src="/uploads/20181102/6b7b8260087a1bb0d406b65f549ddd1b.jpg" width="190"
+                                                                                   height="85"></a>
+                                                        <a class="pl" href="http://jxgx.guet.edu.cn/" target="_blank"><img src="/uploads/20181102/1f2d7b367d9c4c46940131d3c5562530.jpg" width="190"
+                                                                                   height="85"></a>
+                                                        <a class="pl" href="http://www.gxljxt.cn/" target="_blank"><img src="/uploads/20181102/80ab6e3d84bf3b4991a2cc5765bc01ba.png" width="190"
+                                                                                   height="85"></a>
+                                                        <a class="pl" href="http://pubinfo.guet.edu.cn/" target="_blank"><img src="/uploads/20181102/b0b316242ad3c1a71177f7440609aeb6.png" width="190"
+                                                                                   height="85"></a>
+                                                        <a class="pl" href="https://www.guet.edu.cn/Guet12388.htm" target="_blank"><img src="/uploads/20181102/436793f15c324302656c08f9ba252d6a.jpg" width="190"
+                                                                                   height="85"></a>
+                                                        <a class="pl" href="http://pubinfo.guet.edu.cn/News?menuId=e010c3a0-a52f-4065-90e1-31389d455385" target="_blank"><img src="/uploads/20181102/7afd52cdaf66e3731f1851fb08a5b80c.png" width="190"
+                                                                                   height="85"></a>
+                                                    </div>
+                        <div id="List2_1">
+                                                        <a class="pl" href="http://gldz.cbpt.cnki.net/WKD/WebPublication/index.aspx?mid=GLDZ" target="_blank"><img src="/uploads/20181102/2f21b0f7095b54fb88e9fe4b52d3d5c3.png" width="190"
+                                                                                   height="85"></a>
+                                                        <a class="pl" href="http://utsc.guet.edu.cn/doubleDegree.aspx?mCode=0022" target="_blank"><img src="/uploads/20181102/6b7b8260087a1bb0d406b65f549ddd1b.jpg" width="190"
+                                                                                   height="85"></a>
+                                                        <a class="pl" href="http://jxgx.guet.edu.cn/" target="_blank"><img src="/uploads/20181102/1f2d7b367d9c4c46940131d3c5562530.jpg" width="190"
+                                                                                   height="85"></a>
+                                                        <a class="pl" href="http://www.gxljxt.cn/" target="_blank"><img src="/uploads/20181102/80ab6e3d84bf3b4991a2cc5765bc01ba.png" width="190"
+                                                                                   height="85"></a>
+                                                        <a class="pl" href="http://pubinfo.guet.edu.cn/" target="_blank"><img src="/uploads/20181102/b0b316242ad3c1a71177f7440609aeb6.png" width="190"
+                                                                                   height="85"></a>
+                                                        <a class="pl" href="https://www.guet.edu.cn/Guet12388.htm" target="_blank"><img src="/uploads/20181102/436793f15c324302656c08f9ba252d6a.jpg" width="190"
+                                                                                   height="85"></a>
+                                                        <a class="pl" href="http://pubinfo.guet.edu.cn/News?menuId=e010c3a0-a52f-4065-90e1-31389d455385" target="_blank"><img src="/uploads/20181102/7afd52cdaf66e3731f1851fb08a5b80c.png" width="190"
+                                                                                   height="85"></a>
+                                                    </div>
+                    </div>
+                </div>
+                <a class="RightBotton" onMouseDown="ISL_GoDown_1()" onMouseUp="ISL_StopDown_1()"
+                   onMouseOut="ISL_StopDown_1()" href="javascript:void(0);" target="_self"></a>
+            </div>
+            <div class="c"></div>
+            <script type="text/javascript">
+                <!--
+                picrun_ini()
+                //-->
+            </script>
+            <!-- 滚动 结束 -->
+        </div>
+        <!-- 专题 end -->
+    </div>
+    <!-- 正文 begin -->
+    <!-- 入口页底部 begin -->
+    <div class="footer">
+    <div class="bottom-cont indexmain">
+        <div class="lt bottom-cont-right white" style="width: 100%;">
+            <p>主办单位：桂林电子科技大学组织部&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;传真：0773-2290083</p>
+            <p>校址:中国广西桂林金鸡路1号&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 邮编：541004</p>
+            <p> 桂ICP备05000961号<a
+                    href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=45030502000232"><img
+                    style="width:20px;height:20px" src="/assets/addons/cms/img/dangjian/beianbgs.png">桂公网安备45030502000232号
+            </a></p>
+        </div>
+        <div class="clear"></div>
+    </div>
+</div>
+
+    <!-- 入口页底部 end -->
+</div>
+<style>
+    .login {
+        background-color: #f00;
+        width: 100% !important;
+        margin-left: 0 !important;
+    }
+</style>
+<script src="/assets/addons/cms/js/jquery.fn.imgplayer.js" type="text/javascript"></script>
+<script type="text/javascript" src="/assets/addons/cms/js/entry.js"></script>
+</body>
+</html><!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>桂电党建云</title>
+    <meta name="viewport" content="initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <link href="/assets/img/favicon.ico" type="image/x-icon" rel="shortcut icon">
+    <meta name="renderer" content="webkit">
+    <link rel="stylesheet" type="text/css" href="/assets/addons/cms/css/fish-desktop-default.min.css">
+    <!--<script type="text/javascript" language="javascript" src="/assets/addons/cms/js/fish-desktop-all.min.js"></script>-->
+    <link rel="stylesheet" type="text/css" href="/assets/addons/cms/css/css.css?v=1.7.3">
+    <!--<script type="text/javascript" language="javascript" src="/assets/addons/cms/js/fish-desktop-all.min.js"></script>-->
+    <script type="text/javascript" src="/assets/libs/jquery/dist/jquery.min.js"></script>
+
+    <script src="/assets/addons/cms/js/scroll.js" type="text/javascript"></script>
+
+    <script>
+        var user = "";
+        function jsmoney(partymoney) {
+            var myDiv = document.getElementById("money");
+            var jieguo = 0;
+            if (partymoney > 0) {
+                if (partymoney <= 3000) {
+                    jieguo = t = partymoney * 0.005;
+                    myDiv.innerText = jieguo.toFixed(2);
+                    return;
+                }
+
+                if (partymoney <= 5000) {
+                    jieguo = t = partymoney * 0.01;
+                    myDiv.innerText = jieguo.toFixed(2);
+                    return;
+                }
+
+                if (partymoney <= 10000) {
+                    jieguo = t = partymoney * 0.015;
+                    myDiv.innerText = jieguo.toFixed(2);
+                    return;
+                }
+
+                if (partymoney >= 10000) {
+                    jieguo = t = partymoney * 0.02;
+                    myDiv.innerText = jieguo.toFixed(2);
+                    return;
+                }
+            }
+            else {
+                myDiv.innerText = "";
+            }
+
+
+        }
+        function switchtaps(x, y, z) {
+            $('.' + x + ' .' + y + ' div').each(function (index, el) {
+                $(this).hover(function () {
+                    $('.' + x + ' .' + y + ' div').removeClass('hover');
+                    $(this).addClass('hover');
+                    $("." + x + " ." + z).hide();
+                    $("." + x + " ." + z).eq(index).show();
+                });
+            });
+        }
+        jQuery(document).ready(function ($) {
+            switchtaps("switch_cont", "title", "switch_cont_box");
+            //$("#login").hide();
+        });
+        function edit() {
+            var str = $("#searchName").val();
+            var url = "/cms/s/search?search="+str;
+            window.open(url);
+            return false;
+        }
+        var loginRedirectUrl = "/cmsFront/105000";
+        function transfClick(url) {
+            loginRedirectUrl = url;
+
+            if (user == "") {
+                $('#myModal').modal('show');
+                return false;
+            } else {
+                $.ajax({
+                    contentType: "application/json",
+                    type: "POST",
+                    url: "",
+                    success: function (data) {
+                        if (data == "") {
+                            fish.warn("您在系统中的信息不是党员，无法使用该功能！");
+                            return;
+                        }
+                        var userInfo = eval('(' + data + ')');
+                        if (userInfo.userResource == "2") {
+                            window.open(loginRedirectUrl, "_blank")
+                        } else {
+                            fish.warn("您在系统中的信息不是党员，无法使用该功能！");
+                        }
+
+                    }
+                });
+
+            }
+
+        }
+    </script>
+
+</head>
+<body style="">
+<div class="entrance-main">
+    <!-- 正文 begin -->
+    <script type="text/javascript" src="/assets/libs/jquery/dist/jquery.min.js"></script>
+<script type="text/javascript" language="javascript" src="/assets/libs/fastadmin-layer/dist/layer.js"></script>
+<div class="lt nav-login">
+    <script type="text/javascript" src="/assets/addons/cms/js/bootstrap.min.js"></script>
+    <!--<script type="text/javascript" src="/assets/addons/cms/js/login.js"></script>-->
+    <div class="login" id="login" style=" line-height:40px;color: #fff;    padding-left: 10px;
+    box-sizing: border-box;  ">
+                <a id="btnOpenModal" data-toggle="modal" data-target=".bs-example-modal-lg" href="javascript:viod(0)">
+            你好，请登录</a>  |   <a href="/addons/cms/register.html" target="_blank">注册</a> | <a href="/cms"  >首页</a>
+            </div>
+    <style type="text/css">
+        .modal-dialog{
+            background-color:#fff;
+        }.login{
+                     background-color: #f00;
+                     width: 1200px !important;
+                     margin-left: -20px!important;
+                 }
+       .login a:link,.login a:visited{
+            color: #fff;
+        }
+    </style>
+    <script>
+
+    </script>
+
+    <div id="myModal" class="modal fade bs-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+        <div class="modal-dialog " style="width:400px">
+            <div class="modal-header" style="background-color: #ea2600;color: #fff;border-bottom: 0;">
+                <h4 class="modal-title">
+                <span>
+                <img width="23px" src="/assets/addons/cms/img/dangjian/login.png">
+                 </span> <span>
+               		 桂电党建云                </span>
+                </h4>
+            </div>
+            <div class="modal-body">
+                <div class="panel-body">
+                    <form class="form-horizontal" id="demand-form">
+                        <div class="col-md-12">
+                            <div class="form-group">
+                                <label class="col-md-3 control-label">登录名：</label>
+                                <div class="input-group col-md-8">
+                                    <input class="form-control" placeholder="请输入学号/工号/手机号" name="username" id="username">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-12">
+                            <div class="form-group">
+                                <label class="col-md-3 control-label">密   码：</label>
+                                <div class="input-group col-md-8">
+                                    <input class="form-control"  placeholder="请输入密码" name="password" id="password" type="password">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-12" id="messageShow" style="display:none">
+                            <div class="form-group">
+                                <label class="col-md-3 control-label"></label>
+                                <div class="input-group col-md-8">
+                                    <font color="red" id="message"></font>
+                                </div>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+
+            </div>
+            <div class="modal-footer">
+                <button class="btn btn-primary" id="login-button" type="button" style=" color: #fff;  background-color: #ea2600;border-color: #ea2600;">登录</button>
+                <button class="btn btn-default" data-dismiss="modal" id="cancel-button">取消</button>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+    $(function(){
+         $("#login-button").on("click",function(){
+             if($("#username").val()==""){
+                 layer.msg($("#username").attr("placeholder"));
+                 return false;
+             }
+             if($("#password").val()==""){
+                 layer.msg($("#password").attr("placeholder"));
+                 return false;
+             }
+             var data={username:$("#username").val(),password:$("#password").val()}
+             $.post("/index/user/login", data, function (ret) {
+                 console.log(ret);
+                 if (ret.code == 1) {
+                     layer.msg("登录成功!",{time:1500,end:function(){document.location.href="/cms";}});
+                     $("input[type!='file'],textarea").val("");
+                 }
+                 else {
+                     layer.alert(ret.msg, {icon: 2});
+                 }
+             });
+
+
+         });
+
+        $("#logout").on("click",function(){
+            $.post("/index/user/logout", {}, function (ret) {
+                if (ret.code == 1) {
+                    layer.msg("登出成功!",{time:1000,end:function(){document.location.href="/cms";}});
+                }
+            });
+        });
+    });
+</script>
+    <div class="entrance-indexmain">
+        <!-- logo+搜索 begin -->
+        <div class="entrance-top">
+            <div class="lt logo"><img src="/assets/addons/cms/img/dangjian/logo.png"></div>
+            <div class="rt entrance-search">
+                <form>
+                    <input name="searchName" id="searchName" type="text" value="">
+                    <input id="submit" onClick="edit()" value="">
+                    <div class="clear">
+                    </div>
+
+                </form>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <!-- logo+搜索 end -->
+        <!-- 导航内容切换 begin -->
+        <div class="switch_cont clear">
+            <div class="title">
+                                <div class="">宣传教育</a></div>
+                                <div class="">投稿管理</a></div>
+                                <div class="">视频教育</a></div>
+                                <div class="">党校课堂</a></div>
+                
+            </div>
+            <!-- 宣传内容 begin -->
+            <div class="switch_cont_box" style="display:block;">
+                <!-- 图片新闻 begin -->
+                <div class="lt entr_pic">
+                    <script type="text/javascript">
+                        $(function () {
+                            $("#slide").player({
+                                width: '340px',
+                                height: '250px',
+                                time: '3000',
+                                transition: 1,
+                                duration: 800,
+                                //method:'4',
+                                animate: {'direction': 'fix'},
+                                divCSS: {'border': 'none'},
+                                ulCSS: {'bottom': '5px', 'right': '10px', 'line-height': '15px'}
+                            }).play();
+                            $("#slide img").css("height", "250px").css("width", "340px");
+                        });
+                    </script>
+                    <div id="slide"
+                         style="display: block; position: relative; border: none; padding: 0px; font-size: 12px; overflow: hidden; width: 340px; height: 250px;">
+                        <div>
+                                                        <a href="/cms/a/election.html" title="我校2019届毕业生“双向选择”洽谈会举行" target="_blank">
+                                <img src="http://zhdj.guet.edu.cn/uploads/20181102/e107c1fe335f693b2005d5bdede4da3a.jpg"
+                                     style="display: inline; position: absolute; border: none; z-index: 0; margin: 0px; width: 340px; height: 250px;">
+                            </a>
+                                                        <a href="/cms/a/talks.html" title="诺贝尔奖得主konstantin Novoselov教授到我校作报告" target="_blank">
+                                <img src="http://zhdj.guet.edu.cn/uploads/20181102/aa7efad13d9d712641febc593d7330ee.jpg"
+                                     style="display: inline; position: absolute; border: none; z-index: 0; margin: 0px; width: 340px; height: 250px;">
+                            </a>
+                                                    </div>
+                        <ul style="margin: 0px; padding: 0px; z-index: 10; position: absolute; bottom: 5px; right: 10px; list-style-type: none; line-height: 15px;">
+                            <li style="opacity: 1; font-family: Arial; color: rgb(255, 255, 255); float: left; border: 1px solid rgb(238, 238, 238); padding: 2px; width: 15px; height: 15px; text-align: center; margin-left: 1px; cursor: pointer; background-color: rgb(207, 15, 0); font-size: 100%; font-weight: 700;">
+                                1
+                            </li>
+                            <li style="opacity: 0.642742; font-family: Arial; color: rgb(255, 255, 255); float: left; border: 1px solid rgb(238, 238, 238); padding: 2px; width: 15px; height: 15px; text-align: center; margin-left: 1px; cursor: pointer; background-color: rgb(153, 153, 153); font-size: 100%; font-weight: normal;">
+                                2
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <!-- 图片新闻 end -->
+                <!-- 推荐阅读 begin -->
+                <div class="lt recom_read">
+                   <a href="/cms/c?id=4">  <div class="tit">工作动态</div></a>
+                    <div class="new-box">
+                                                <div class="list-image-list-li">
+                            <i></i>
+                            <a href="/cms/a/271.html" title="我校学子在2019年全国大学生智能互联创新应用设计大赛中喜获佳绩（图）" target="_blank">我校学子在2019年全国大学生智能互联创新应用设计大赛中喜获佳绩（图）</a>
+                            <span>2019-12-13</span>
+                        </div>
+                                                <div class="list-image-list-li">
+                            <i></i>
+                            <a href="/cms/a/270.html" title="校领导带队到国际学院指导专家楼建设" target="_blank">校领导带队到国际学院指导专家楼建设</a>
+                            <span>2019-12-13</span>
+                        </div>
+                                                <div class="list-image-list-li">
+                            <i></i>
+                            <a href="/cms/a/269.html" title="我校学子在第44届ICPC亚洲区域赛香港站比赛中喜获银奖（图）" target="_blank">我校学子在第44届ICPC亚洲区域赛香港站比赛中喜获银奖（图）</a>
+                            <span>2019-12-13</span>
+                        </div>
+                                                <div class="list-image-list-li">
+                            <i></i>
+                            <a href="/cms/a/268.html" title="【主题教育·整治动态】学校召开信息科技学院转设专项推进会" target="_blank">【主题教育·整治动态】学校召开信息科技学院转设专项推进会</a>
+                            <span>2019-12-13</span>
+                        </div>
+                                                <div class="list-image-list-li">
+                            <i></i>
+                            <a href="/cms/a/262.html" title="【不忘初心、牢记使命】我校作为区内唯一高校参加2019广西电子信息产业（深圳）招商引资推介会（图）" target="_blank">【不忘初心、牢记使命】我校作为区内唯一高校参加2019广西电子信息产业（深圳）招商引资推介会（图）</a>
+                            <span>2019-11-28</span>
+                        </div>
+                                                <div class="list-image-list-li">
+                            <i></i>
+                            <a href="/cms/a/261.html" title="【主题教育•整治动态】自治区党委主题教育第十巡回指导组到信息科技学院指导工作（图）" target="_blank">【主题教育•整治动态】自治区党委主题教育第十巡回指导组到信息科技学院指导工作（图）</a>
+                            <span>2019-11-28</span>
+                        </div>
+                                                <div class="list-image-list-li">
+                            <i></i>
+                            <a href="/cms/a/260.html" title="【主题教育·整治动态】学校加快推进一流学科建设" target="_blank">【主题教育·整治动态】学校加快推进一流学科建设</a>
+                            <span>2019-11-28</span>
+                        </div>
+                                                <div class="list-image-list-li">
+                            <i></i>
+                            <a href="/cms/a/259.html" title="我校召开2020年拟申请新增博士点申报材料校内论证会（图）" target="_blank">我校召开2020年拟申请新增博士点申报材料校内论证会（图）</a>
+                            <span>2019-11-28</span>
+                        </div>
+                                            </div>
+                </div>
+                <!-- 推荐阅读 end -->
+                <!-- 右侧 begin -->
+                <div class="rt public_ri">
+                    <div class="ban-tu">
+                                                <div><a href="https://zhdj.guet.edu.cn/admin/index/login.html?loginfrompc=1" target="_blank" title="后台入口"><img src="/uploads/20190530/e4a8c0f03d9e6d9274feb782a8d27b28.png"
+                                                                                         style="margin-right:10px"></a>
+                        </div>
+                                                <div><a href="http://172.16.26.40:8081/cadre/a?login" target="_blank" title="干部管理系统"><img src="/uploads/20181102/19ee9a3d3eb7eaf0402c9fb21e00d59f.jpg"
+                                                                                         style="margin-right:10px"></a>
+                        </div>
+                                            </div>
+                </div>
+                <!-- 右侧 end -->
+            </div>
+            <!-- 宣传内容 end -->
+            <!-- 投稿管理begin-->
+            <div class="switch_cont_box" style="display:none;">
+                <!-- 图片新闻 begin -->
+                <div class="lt entr_pic">
+                    <script type="text/javascript">
+                        $(function () {
+                            $("#slide1").player({
+                                width: '340px',
+                                height: '250px',
+                                time: '3000',
+                                transition: 1,
+                                duration: 800,
+                                //method:'4',
+                                animate: {'direction': 'fix'},
+                                divCSS: {'border': 'none'},
+                                ulCSS: {'bottom': '5px', 'right': '10px', 'line-height': '15px'}
+                            }).play();
+                            $("#slide img").css("height", "250px").css("width", "340px");
+                        });
+                    </script>
+                    <div id="slide1"
+                         style="display: block; position: relative; border: none; padding: 0px; font-size: 12px; overflow: hidden; width: 340px; height: 250px;">
+
+                        <div>
+                                                        <a href="/cms/a/election.html" title="我校2019届毕业生“双向选择”洽谈会举行" target="_blank">
+                                <img src="http://zhdj.guet.edu.cn/uploads/20181102/e107c1fe335f693b2005d5bdede4da3a.jpg"
+                                     style="display: inline; position: absolute; border: none; z-index: 0; margin: 0px; width: 340px; height: 250px;">
+                            </a>
+                                                        <a href="/cms/a/talks.html" title="诺贝尔奖得主konstantin Novoselov教授到我校作报告" target="_blank">
+                                <img src="http://zhdj.guet.edu.cn/uploads/20181102/aa7efad13d9d712641febc593d7330ee.jpg"
+                                     style="display: inline; position: absolute; border: none; z-index: 0; margin: 0px; width: 340px; height: 250px;">
+                            </a>
+                                                    </div>
+
+                        <ul style="margin: 0px; padding: 0px; z-index: 10; position: absolute; bottom: 5px; right: 10px; list-style-type: none; line-height: 15px;">
+                            <li style="opacity: 1; font-family: Arial; color: rgb(255, 255, 255); float: left; border: 1px solid rgb(238, 238, 238); padding: 2px; width: 15px; height: 15px; text-align: center; margin-left: 1px; cursor: pointer; background-color: rgb(207, 15, 0); font-size: 100%; font-weight: 700;">
+                                1
+                            </li>
+                            <li style="opacity: 0.642742; font-family: Arial; color: rgb(255, 255, 255); float: left; border: 1px solid rgb(238, 238, 238); padding: 2px; width: 15px; height: 15px; text-align: center; margin-left: 1px; cursor: pointer; background-color: rgb(153, 153, 153); font-size: 100%; font-weight: normal;">
+                                2
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="lt recom_read">
+                   <a href="/cms/c?id=56"> <div class="tit">优秀稿文</div> </a>
+                    <div class="new-box">
+                                                <div class="list-image-list-li">
+                            <i></i>
+                            <a href="/cms/a/274.html" title="批评和自我批评切莫“假唱”" target="_blank">批评和自我批评切莫“假唱”</a>
+                            <span>2019-12-13</span>
+                        </div>
+                                                <div class="list-image-list-li">
+                            <i></i>
+                            <a href="/cms/a/273.html" title="年终总结要“正位子”“揭疤子”“定调子”" target="_blank">年终总结要“正位子”“揭疤子”“定调子”</a>
+                            <span>2019-12-13</span>
+                        </div>
+                                                <div class="list-image-list-li">
+                            <i></i>
+                            <a href="/cms/a/272.html" title="历史 不容我们忘记！" target="_blank">历史 不容我们忘记！</a>
+                            <span>2019-12-13</span>
+                        </div>
+                                                <div class="list-image-list-li">
+                            <i></i>
+                            <a href="/cms/a/264.html" title="把住“烂石”杀手锏 练好“吃劲”基本功" target="_blank">把住“烂石”杀手锏 练好“吃劲”基本功</a>
+                            <span>2019-11-28</span>
+                        </div>
+                                                <div class="list-image-list-li">
+                            <i></i>
+                            <a href="/cms/a/263.html" title="让“能短则短”成为一种行动自觉" target="_blank">让“能短则短”成为一种行动自觉</a>
+                            <span>2019-11-28</span>
+                        </div>
+                                                <div class="list-image-list-li">
+                            <i></i>
+                            <a href="/cms/a/258.html" title="探寻“无字丰碑”的“根”密码" target="_blank">探寻“无字丰碑”的“根”密码</a>
+                            <span>2019-11-21</span>
+                        </div>
+                                                <div class="list-image-list-li">
+                            <i></i>
+                            <a href="/cms/a/257.html" title="过“学习关”要有“原味”“新味”“民味”" target="_blank">过“学习关”要有“原味”“新味”“民味”</a>
+                            <span>2019-11-21</span>
+                        </div>
+                                                <div class="list-image-list-li">
+                            <i></i>
+                            <a href="/cms/a/256.html" title="重读原典 激昂新时代“马克思主义”磅礴力量" target="_blank">重读原典 激昂新时代“马克思主义”磅礴力量</a>
+                            <span>2019-11-21</span>
+                        </div>
+                                            </div>
+                </div>
+                <!-- 右侧 begin -->
+                <div class="rt public_ri">
+                    <div class="ban-tu" style="    font-size: 85px;    color: #fff;    text-align: center;    cursor: pointer;    background-color: #fc694d;    border-radius: 10px;" onclick="window.location.href='/cms/c/draft'">
+                        欢迎投稿
+                    </div>
+                </div>
+                <!-- 右侧 end -->
+            </div>
+            <!-- 管理内容 end -->
+            <!-- 视频教育内容 begin -->
+            <div class="switch_cont_box" style="display: none;">
+                <!-- 图片新闻 begin -->
+                <div class="lt entr_pic">
+                    <script type="text/javascript">
+                        $(function () {
+                            $("#slide2").player({
+                                width: '340px',
+                                height: '250px',
+                                time: '3000',
+                                transition: 1,
+                                duration: 800,
+                                //method:'4',
+                                animate: {'direction': 'fix'},
+                                divCSS: {'border': 'none'},
+                                ulCSS: {'bottom': '5px', 'right': '10px', 'line-height': '15px'}
+                            }).play();
+                            $("#slide2 img").css("height", "250px").css("width", "340px");
+                        });
+                    </script>
+                    <div id="slide2"
+                         style="display: block; position: relative; border: none; padding: 0px; font-size: 12px; overflow: hidden; width: 340px; height: 250px;">
+                                                <a href="/cms/a/63.html" title="带好队领好飞" target="_blank">
+                            <img src="http://zhdj.guet.edu.cn/uploads/20181108/f6846972d5d562874f9874d3024cda9a.jpg"
+                                 style="display: inline; position: absolute; border: none; z-index: 0; margin: 0px; width: 340px; height: 250px;">
+                        </a>
+                                                <a href="/cms/a/58.html" title="“党建元素·微系列”彰显行动党员教育公益广告之最有力的回答篇" target="_blank">
+                            <img src="http://zhdj.guet.edu.cn/uploads/20181108/464a93a4f620ddca0bc402a47907b890.jpg"
+                                 style="display: inline; position: absolute; border: none; z-index: 0; margin: 0px; width: 340px; height: 250px;">
+                        </a>
+                        
+                        <div style="background-color: rgb(238, 238, 238); position: absolute; z-index: 9; line-height: 25px; font-weight: 700; padding: 0px 5px; bottom: 0px; opacity: 0.75; width: 330px;">
+                            我是共产党员
+                        </div>
+                        <ul style="margin: 0px; padding: 0px; z-index: 10; position: absolute; bottom: 5px; right: 10px; list-style-type: none; line-height: 15px;">
+                            <li style="opacity: 1; font-family: Arial; color: rgb(255, 255, 255); float: left; border: 1px solid rgb(238, 238, 238); padding: 2px; width: 15px; height: 15px; text-align: center; margin-left: 1px; cursor: pointer; background-color: rgb(207, 15, 0); font-size: 100%; font-weight: 700;">
+                                1
+                            </li>
+                            <li style="opacity: 0.6; font-family: Arial; color: rgb(255, 255, 255); float: left; border: 1px solid rgb(238, 238, 238); padding: 2px; width: 15px; height: 15px; text-align: center; margin-left: 1px; cursor: pointer; background-color: rgb(153, 153, 153); font-size: 100%; font-weight: normal;">
+                                2
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <!-- 图片新闻 end -->
+                <!-- 课件管理 begin -->
+                <div class="lt recom_read recom_read_train">
+                    <a href="/cms/c?id=9"> <div class="tit">热门课件</div></a>
+                    <div class="new-box">
+                                                <div class="list-image-list-li">
+                            <i></i>
+                            <a href=" /cms/a/124.html" target="_blank" title="成立新的党的基层组织具体步骤">成立新的党的基层组织具体步骤</a>
+                        </div>
+                                                <div class="list-image-list-li">
+                            <i></i>
+                            <a href=" /cms/a/81.html" target="_blank" title="做合格党员篇">做合格党员篇</a>
+                        </div>
+                                                <div class="list-image-list-li">
+                            <i></i>
+                            <a href=" /cms/a/80.html" target="_blank" title="做好百姓就业这篇文章">做好百姓就业这篇文章</a>
+                        </div>
+                                                <div class="list-image-list-li">
+                            <i></i>
+                            <a href=" /cms/a/79.html" target="_blank" title="追随习近平总书记的初心">追随习近平总书记的初心</a>
+                        </div>
+                                                <div class="list-image-list-li">
+                            <i></i>
+                            <a href=" /cms/a/78.html" target="_blank" title="有我陪着你">有我陪着你</a>
+                        </div>
+                                                <div class="list-image-list-li">
+                            <i></i>
+                            <a href=" /cms/a/62.html" target="_blank" title="开创外企党建新模式">开创外企党建新模式</a>
+                        </div>
+                                            </div>
+                </div>
+                <div class="lt recom_read recom_read_train">
+                 <a href="/cms/c?id=10">    <div class="tit">最新课件</div> </a>
+                    <div class="new-box">
+                                                <div class="list-image-list-li">
+                            <i></i>
+                            <a href=" /cms/a/126.html" target="_blank" title="党的基层组织设置">党的基层组织设置</a>
+                        </div>
+                                                <div class="list-image-list-li">
+                            <i></i>
+                            <a href=" /cms/a/77.html" target="_blank" title="习近平寄语青年">习近平寄语青年</a>
+                        </div>
+                                                <div class="list-image-list-li">
+                            <i></i>
+                            <a href=" /cms/a/76.html" target="_blank" title="我奋斗，我幸福之毕业生">我奋斗，我幸福之毕业生</a>
+                        </div>
+                                                <div class="list-image-list-li">
+                            <i></i>
+                            <a href=" /cms/a/75.html" target="_blank" title="我奋斗，我幸福">我奋斗，我幸福</a>
+                        </div>
+                                                <div class="list-image-list-li">
+                            <i></i>
+                            <a href=" /cms/a/74.html" target="_blank" title="奋进新时代（1）人民政协新时代新作为">奋进新时代（1）人民政协新时代新作为</a>
+                        </div>
+                                                <div class="list-image-list-li">
+                            <i></i>
+                            <a href=" /cms/a/61.html" target="_blank" title="以身作则带头干">以身作则带头干</a>
+                        </div>
+                                            </div>
+                </div>
+                <!-- 课件管理 end -->
+            </div>
+            <!-- 教育内容 end -->
+            <!-- 党校课堂begin -->
+            <div class="switch_cont_box" style="display:none;">
+                <div class="lt work_temp_lt">
+                    <div class="lt work_temp">
+                      <a href="/cms/c?id=37">   <div class="tit">工作模板</div> </a>
+                        <div class="new-box">
+                                                        <div class="list-image-list-li list-image-list-download">
+                                <i class="ic ic-word"></i>
+                                <a href=" /cms/a/134.html" target="_blank" title="关于中共桂林电子科技大学××学院委员会举行换届选举的请示">关于中共桂林电子科技大学××学院委员会举行换届选举的请示</a>
+                            </div>
+                                                        <div class="list-image-list-li list-image-list-download">
+                                <i class="ic ic-word"></i>
+                                <a href=" /cms/a/133.html" target="_blank" title="关于中共桂林电子科技大学××学院委员会委员候选人预备人选、书记、副书记（或纪委书记）候选人预备人选名单的请示">关于中共桂林电子科技大学××学院委员会委员候选人预备人选、书记、副书记（或纪委书记）候选人预备人选名单的请示</a>
+                            </div>
+                                                        <div class="list-image-list-li list-image-list-download">
+                                <i class="ic ic-word"></i>
+                                <a href=" /cms/a/132.html" target="_blank" title="中共桂林电子科技大学×××委员会（总支部委员会或直属支部委员会）书记（副书记）选票（样式）">中共桂林电子科技大学×××委员会（总支部委员会或直属支部委员会）书记（副书记）选票（样式）</a>
+                            </div>
+                                                        <div class="list-image-list-li list-image-list-download">
+                                <i class="ic ic-word"></i>
+                                <a href=" /cms/a/131.html" target="_blank" title="中共桂林电子科技大学×××委员会（总支部委员会或直属支部委员会）书记（副书记）选票（样式）">中共桂林电子科技大学×××委员会（总支部委员会或直属支部委员会）书记（副书记）选票（样式）</a>
+                            </div>
+                                                        <div class="list-image-list-li list-image-list-download">
+                                <i class="ic ic-word"></i>
+                                <a href=" /cms/a/130.html" target="_blank" title="中共桂林电子科技大学×××纪律检查委员会书记选票（样式）">中共桂林电子科技大学×××纪律检查委员会书记选票（样式）</a>
+                            </div>
+                                                        <div class="list-image-list-li list-image-list-download">
+                                <i class="ic ic-word"></i>
+                                <a href=" /cms/a/129.html" target="_blank" title="关于中共桂林电子科技大学××委员会换届选举结果的报告（示例）">关于中共桂林电子科技大学××委员会换届选举结果的报告（示例）</a>
+                            </div>
+                            
+                        </div>
+                    </div>
+                    <div class="lt work_temp">
+                       <a href="/cms/c?id=38">  <div class="tit">政务文件</div> </a>
+                        <div class="new-box">
+                                                        <div class="list-image-list-li list-image-list-download">
+                                <i class="ic ic-word"></i>
+                                <a href=" /cms/a/120.html" target="_blank" title="中共中央印发《中国共产党党务公开条例（试行）》">中共中央印发《中国共产党党务公开条例（试行）》</a>
+
+                            </div>
+                                                        <div class="list-image-list-li list-image-list-download">
+                                <i class="ic ic-word"></i>
+                                <a href=" /cms/a/119.html" target="_blank" title="中共中央办公厅印发《关于党的基层组织任期的意见》">中共中央办公厅印发《关于党的基层组织任期的意见》</a>
+
+                            </div>
+                                                        <div class="list-image-list-li list-image-list-download">
+                                <i class="ic ic-word"></i>
+                                <a href=" /cms/a/118.html" target="_blank" title="中共中央印发《2018－2022年全国干部教育培训规划》">中共中央印发《2018－2022年全国干部教育培训规划》</a>
+
+                            </div>
+                                                        <div class="list-image-list-li list-image-list-download">
+                                <i class="ic ic-word"></i>
+                                <a href=" /cms/a/117.html" target="_blank" title="中共中央印发《中国共产党支部工作条例（试行）》">中共中央印发《中国共产党支部工作条例（试行）》</a>
+
+                            </div>
+                                                        <div class="list-image-list-li list-image-list-download">
+                                <i class="ic ic-word"></i>
+                                <a href=" /cms/a/67.html" target="_blank" title="中共中央印发《党政领导干部选拔任用工作条例》">中共中央印发《党政领导干部选拔任用工作条例》</a>
+
+                            </div>
+                                                        <div class="list-image-list-li list-image-list-download">
+                                <i class="ic ic-word"></i>
+                                <a href=" /cms/a/51.html" target="_blank" title="《中国共产党党务公开条例（试行）》">《中国共产党党务公开条例（试行）》</a>
+
+                            </div>
+                                                    </div>
+                    </div>
+                    <div class="lt work_temp">
+                       <a href="/cms/c?id=39">  <div class="tit">办公软件</div> </a>
+                        <div class="new-box">
+                                                        <div class="list-image-list-li list-image-list-download">
+                                <i class="ic ic-word"></i>
+                                <a href=" /cms/a/71.html" target="_blank" title="Powerpoint">Powerpoint</a>
+
+                            </div>
+                                                        <div class="list-image-list-li list-image-list-download">
+                                <i class="ic ic-word"></i>
+                                <a href=" /cms/a/70.html" target="_blank" title="MicrosoftExcel">MicrosoftExcel</a>
+
+                            </div>
+                                                        <div class="list-image-list-li list-image-list-download">
+                                <i class="ic ic-word"></i>
+                                <a href=" /cms/a/69.html" target="_blank" title="MicrosoftOfficeWord">MicrosoftOfficeWord</a>
+
+                            </div>
+                                                        <div class="list-image-list-li list-image-list-download">
+                                <i class="ic ic-word"></i>
+                                <a href=" /cms/a/68.html" target="_blank" title="VPN使用手册及客户端">VPN使用手册及客户端</a>
+
+                            </div>
+                                                    </div>
+                    </div>
+                    <div class="lt work_temp">
+                       <a href="/cms/c?id=40">  <div class="tit">学习资料</div> </a>
+                        <div class="new-box">
+                                                        <div class="list-image-list-li list-image-list-download">
+                                <i class="ic ic-word"></i>
+                                <a href=" /cms/a/116.html" target="_blank" title="中国共产党普通高等学校基层组织工作条例">中国共产党普通高等学校基层组织工作条例</a>
+
+                            </div>
+                                                        <div class="list-image-list-li list-image-list-download">
+                                <i class="ic ic-word"></i>
+                                <a href=" /cms/a/115.html" target="_blank" title="中国共产党基层组织选举工作暂行条例">中国共产党基层组织选举工作暂行条例</a>
+
+                            </div>
+                                                        <div class="list-image-list-li list-image-list-download">
+                                <i class="ic ic-word"></i>
+                                <a href=" /cms/a/114.html" target="_blank" title="基层党组织委员职责">基层党组织委员职责</a>
+
+                            </div>
+                                                        <div class="list-image-list-li list-image-list-download">
+                                <i class="ic ic-word"></i>
+                                <a href=" /cms/a/113.html" target="_blank" title="中国共产党桂林电子科技大学基层党支部换届选举工作实施办法">中国共产党桂林电子科技大学基层党支部换届选举工作实施办法</a>
+
+                            </div>
+                                                    </div>
+                    </div>
+                    <div class="clear"></div>
+                </div>
+                <div class="rt down_rank">
+                  <a href="/cms/c?id=41">   <div class="tit">下载排行</div> </a>
+                    <div class="rank-box">
+                                                <div class="rank-list-li">
+                            <a href=" /cms/a/136.html" target="_blank" title="关于中共桂林电子科技大学××学院委员会委员候选人预备人选、书记、副书记（或纪委书记）候选人预备人选名单的请示" style="padding-left:0px">关于中共桂林电子科技大学××学院委员会委员候选人预备人选、书记、副书记（或纪委书记）候选人预备人选名单的请示</a>
+
+                        </div>
+                                                <div class="rank-list-li">
+                            <a href=" /cms/a/135.html" target="_blank" title="关于中共桂林电子科技大学××学院委员会举行换届选举的请示" style="padding-left:0px">关于中共桂林电子科技大学××学院委员会举行换届选举的请示</a>
+
+                        </div>
+                                                <div class="rank-list-li">
+                            <a href=" /cms/a/52.html" target="_blank" title="双一流”大学建设基本知识" style="padding-left:0px">双一流”大学建设基本知识</a>
+
+                        </div>
+                                            </div>
+                </div>
+            </div>
+            <!-- 资源内容 end -->
+        </div>
+        <!-- 导航内容切换 end -->
+        <!-- 专题 begin -->
+        <div class="special_box">
+            <!-- 滚动 开始 -->
+            <div class="blk_18"><a class="LeftBotton" onMouseDown="ISL_GoUp_1()" onMouseUp="ISL_StopUp_1()"
+                                   onMouseOut="ISL_StopUp_1()" href="javascript:void(0);" target="_self"></a>
+                <div class="pcont" id="ISL_Cont_1" style="height: 90px;">
+                    <div class="ScrCont">
+                        <div id="List1_1">
+                                                        <a class="pl" href="http://gldz.cbpt.cnki.net/WKD/WebPublication/index.aspx?mid=GLDZ" target="_blank"><img src="/uploads/20181102/2f21b0f7095b54fb88e9fe4b52d3d5c3.png" width="190"
+                                                                                   height="85"></a>
+                                                        <a class="pl" href="http://utsc.guet.edu.cn/doubleDegree.aspx?mCode=0022" target="_blank"><img src="/uploads/20181102/6b7b8260087a1bb0d406b65f549ddd1b.jpg" width="190"
+                                                                                   height="85"></a>
+                                                        <a class="pl" href="http://jxgx.guet.edu.cn/" target="_blank"><img src="/uploads/20181102/1f2d7b367d9c4c46940131d3c5562530.jpg" width="190"
+                                                                                   height="85"></a>
+                                                        <a class="pl" href="http://www.gxljxt.cn/" target="_blank"><img src="/uploads/20181102/80ab6e3d84bf3b4991a2cc5765bc01ba.png" width="190"
+                                                                                   height="85"></a>
+                                                        <a class="pl" href="http://pubinfo.guet.edu.cn/" target="_blank"><img src="/uploads/20181102/b0b316242ad3c1a71177f7440609aeb6.png" width="190"
+                                                                                   height="85"></a>
+                                                        <a class="pl" href="https://www.guet.edu.cn/Guet12388.htm" target="_blank"><img src="/uploads/20181102/436793f15c324302656c08f9ba252d6a.jpg" width="190"
+                                                                                   height="85"></a>
+                                                        <a class="pl" href="http://pubinfo.guet.edu.cn/News?menuId=e010c3a0-a52f-4065-90e1-31389d455385" target="_blank"><img src="/uploads/20181102/7afd52cdaf66e3731f1851fb08a5b80c.png" width="190"
+                                                                                   height="85"></a>
+                                                    </div>
+                        <div id="List2_1">
+                                                        <a class="pl" href="http://gldz.cbpt.cnki.net/WKD/WebPublication/index.aspx?mid=GLDZ" target="_blank"><img src="/uploads/20181102/2f21b0f7095b54fb88e9fe4b52d3d5c3.png" width="190"
+                                                                                   height="85"></a>
+                                                        <a class="pl" href="http://utsc.guet.edu.cn/doubleDegree.aspx?mCode=0022" target="_blank"><img src="/uploads/20181102/6b7b8260087a1bb0d406b65f549ddd1b.jpg" width="190"
+                                                                                   height="85"></a>
+                                                        <a class="pl" href="http://jxgx.guet.edu.cn/" target="_blank"><img src="/uploads/20181102/1f2d7b367d9c4c46940131d3c5562530.jpg" width="190"
+                                                                                   height="85"></a>
+                                                        <a class="pl" href="http://www.gxljxt.cn/" target="_blank"><img src="/uploads/20181102/80ab6e3d84bf3b4991a2cc5765bc01ba.png" width="190"
+                                                                                   height="85"></a>
+                                                        <a class="pl" href="http://pubinfo.guet.edu.cn/" target="_blank"><img src="/uploads/20181102/b0b316242ad3c1a71177f7440609aeb6.png" width="190"
+                                                                                   height="85"></a>
+                                                        <a class="pl" href="https://www.guet.edu.cn/Guet12388.htm" target="_blank"><img src="/uploads/20181102/436793f15c324302656c08f9ba252d6a.jpg" width="190"
+                                                                                   height="85"></a>
+                                                        <a class="pl" href="http://pubinfo.guet.edu.cn/News?menuId=e010c3a0-a52f-4065-90e1-31389d455385" target="_blank"><img src="/uploads/20181102/7afd52cdaf66e3731f1851fb08a5b80c.png" width="190"
+                                                                                   height="85"></a>
+                                                    </div>
+                    </div>
+                </div>
+                <a class="RightBotton" onMouseDown="ISL_GoDown_1()" onMouseUp="ISL_StopDown_1()"
+                   onMouseOut="ISL_StopDown_1()" href="javascript:void(0);" target="_self"></a>
+            </div>
+            <div class="c"></div>
+            <script type="text/javascript">
+                <!--
+                picrun_ini()
+                //-->
+            </script>
+            <!-- 滚动 结束 -->
+        </div>
+        <!-- 专题 end -->
+    </div>
+    <!-- 正文 begin -->
+    <!-- 入口页底部 begin -->
+    <div class="footer">
+    <div class="bottom-cont indexmain">
+        <div class="lt bottom-cont-right white" style="width: 100%;">
+            <p>主办单位：桂林电子科技大学组织部&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;传真：0773-2290083</p>
+            <p>校址:中国广西桂林金鸡路1号&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 邮编：541004</p>
+            <p> 桂ICP备05000961号<a
+                    href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=45030502000232"><img
+                    style="width:20px;height:20px" src="/assets/addons/cms/img/dangjian/beianbgs.png">桂公网安备45030502000232号
+            </a></p>
+        </div>
+        <div class="clear"></div>
+    </div>
+</div>
+
+    <!-- 入口页底部 end -->
+</div>
+<style>
+    .login {
+        background-color: #f00;
+        width: 100% !important;
+        margin-left: 0 !important;
+    }
+</style>
+<script src="/assets/addons/cms/js/jquery.fn.imgplayer.js" type="text/javascript"></script>
+<script type="text/javascript" src="/assets/addons/cms/js/entry.js"></script>
+</body>
+</html>

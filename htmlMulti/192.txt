@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="zh">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+        <meta charset="utf-8" />
+        <title>登录 - 启航统一收费平台</title>
+        <link href="/unifee/Content/qh.css" rel="stylesheet"/>
+        <script src="/unifee/bundles/modernizr?v="></script>
+
+        
+    </head>
+    <body class="body">
+        <div class="div0" align="center" >
+	        <div class="div1" style="height:110px;color:#FFFFFF;">
+                    <div style="float:left;margin-left:20px;margin-top:10px;">
+                        <img src="/unifee/Images/SchoolLogo.png" height="80"/>
+                    </div>
+                    <div style="float:left;margin-left:20px;padding-top:25px;font-size:36px;font-weight:bold;">
+                        桂林电子科技大学统一收费平台
+                    </div>                    
+		            <div style="float:right;margin-top:20px;width:300px;height:100px;">
+                        <a class="navigator" href="/unifee/AlterPay/Login" id="loginLink">登录</a><br />
+
+<br /><br />
+		            </div>
+	        </div>
+	        <div class="div1" style="min-height:520px">
+		        <div class="div2" style="margin-left:20px;color:#ffffff;">
+                    
+		        </div>
+		        <div class="div2" style="margin-top:0px;color:#ffffff;">
+                    <!--
+                    <a class="navigator" href="/unifee/">主页</a>
+                        -->
+                    <a class="navigator" href="/unifee/AlterPay/FindBatch">应交款项</a>
+                    <a class="navigator" href="/unifee/AlterPay/FindPayment">已交款项</a>
+                    <a class="navigator" href="/unifee/AlterPay/FindUnPaid">从银行找回交款</a>
+                    <a class="navigator" href="/unifee/Help.html" target="help">交费说明</a>
+
+		        </div>
+		        <div class="div2" style="margin-top:0px;">
+                    <div style="color:red;">
+                        
+                    </div>
+                    <div style="color:red;">
+                        
+                    </div>
+                    
+
+<h2>登录</h2>
+
+<form action="/unifee/AlterPay/Login?returnUrl=http%3A%2F%2Fcwcx.guet.edu.cn%2Funifee%2FAlterPay%2FFindBatch" method="post"><input name="__RequestVerificationToken" type="hidden" value="Ezltfk27AQG-oDQESSm8DLv2TVUBprFSCl6HEV8oA5yv1U4v4dWAzqMVNbjmvRipUO6dVYBBAez6mKoD_Ugri4fqPFLnCgCFijouzCG4LSbhr_jwSvxq6JJ6W_nmTmUvLBkCTjUew-4pOWlpuoAdjhWJ8jCmhc-qHx_pxSGIkp41" />    <fieldset>
+        <legend>请输入登录信息</legend>
+
+        <div class="editor-label">
+            <label for="StudentType">人员类别</label>
+        </div>
+        <div class="editor-field">
+            <select data-val="true" data-val-required="人员类别 字段是必需的。" id="StudentType" name="StudentType"><option value="None">-----请选择-----</option>
+<option value="Student">在校学生</option>
+<option value="Employee">教职工</option>
+<option value="Other">校外交款人</option>
+<option value="StudentAdult">成教生</option>
+<option value="StudentGrad">研究生</option>
+<option value="StudentHS">函授教学站</option>
+<option value="StudentSelf">自考生</option>
+<option value="StudentBh">北海本专科生</option>
+<option value="StudentXY">校友</option>
+<option value="OtherMBA">工商管理硕士</option>
+</select>
+            <span class="field-validation-valid" data-valmsg-for="StudentType" data-valmsg-replace="true"></span>
+        </div>
+
+        <div class="editor-label">
+            <label for="StudentNo">学号/工号/身份证</label>
+        </div>
+        <div class="editor-field">
+            <input class="text-box single-line" data-val="true" data-val-required="学号/工号/身份证 字段是必需的。" id="StudentNo" name="StudentNo" type="text" value="" />
+            <span class="field-validation-valid" data-valmsg-for="StudentNo" data-valmsg-replace="true"></span>
+        </div>
+
+        <div class="editor-label">
+            <label for="StudentName">姓名</label>
+        </div>
+        <div class="editor-field">
+            <input class="text-box single-line" data-val="true" data-val-required="姓名 字段是必需的。" id="StudentName" name="StudentName" type="text" value="" />
+            <span class="field-validation-valid" data-valmsg-for="StudentName" data-valmsg-replace="true"></span>
+        </div>
+
+        <div class="editor-label">
+            <label for="Password">密码(初始:身份证后6位)</label>
+        </div>
+        <div class="editor-field">
+            <input id="Password" name="Password" type="password" />
+            <span class="field-validation-valid" data-valmsg-for="Password" data-valmsg-replace="true"></span>
+        </div>
+
+
+        <p>
+            <input type="submit" value="登录" />
+            <a href="/unifee/AlterStudent/InputInfo">忘记密码</a>
+        </p>
+    </fieldset>
+</form>
+<p style="color:red">
+
+</p>
+
+		        </div>
+            </div>
+	        <div class="div1 footer">
+		        <div class="div2">
+			        <br/>
+                    <!--
+			        <p>版权所有:桂林启航软件公司&nbsp;&nbsp;&nbsp;&nbsp;地址:桂林市金鸡路1号&nbsp;&nbsp;&nbsp;&nbsp;邮编:541004&nbsp;&nbsp;&nbsp;&nbsp;电话:0773-3561655</p>
+                        -->
+		        </div>
+	        </div>
+        </div>
+        <script src="/unifee/bundles/jquery?v="></script>
+
+        
+    <script src="/unifee/bundles/jqueryval?v=mRjM0qa6T8GTCa8lhmXMI_-t5fsTCmHSxo4BqkY9x4A1"></script>
+
+
+    </body>
+</html>

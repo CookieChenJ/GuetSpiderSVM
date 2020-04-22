@@ -1,0 +1,232 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>宣传部</title><META Name="keywords" Content="宣传部" />
+
+    <script src="dfiles/20005/scripts/jquery-1.7.1.min.js" type="text/javascript"></script>
+    <link href="dfiles/20005/content/css/style.css" rel="stylesheet" type="text/css" />
+   
+<link href="dfiles/20005/content/css/lrtk.css" rel="stylesheet" type="text/css" />
+<link href="dfiles/swiper/dist/css/swiper.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="dfiles/20005/scripts/koala.min.1.5.js"></script>
+<script type="text/javascript" src="dfiles/swiper/dist/js/swiper.js"></script>
+<style>
+    #piclink ul li{
+        width:183px;height:62px;}
+    #piclink ul li img{
+    width:100%;height:100%;}
+</style>
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="index.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/vsbscreen.min.js" id="_vsbscreen" devices="pc|mobile|pad"></script>
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1410805245)</script>
+</head>
+
+<body>
+    <div id="container">
+        <div id="header">
+            <div class="lpic">
+                <a href="http://www.guet.edu.cn/" target="_blank"><img src="dfiles/20005/content/images/guet.jpg" border="0" /></a>
+            </div>
+            <div class="mpic">
+                <img src="dfiles/20005/content/images/mid.jpg" border="0">
+            </div>
+            <div class="rpic">
+                <a href="#"><img src="dfiles/20005/content/images/xmt.jpg" border="0" /></a>
+            </div>
+            
+            <!--#begineditable name="站内检索" viewid="165857" tagname="站内检索" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp="true"-->
+
+
+
+
+
+<form action="jsjg.jsp?wbtreeid=1001" method="post" name="a165857a" onsubmit="return subsearchdataa165857a()" style="display: inline;">
+  <input type="hidden" name="Find" value="find"><input type="hidden" name="entrymode" value="1"><input type="hidden" id="INTEXT2" name="INTEXT2" value=""><input type="hidden" name="news_search_code">
+ <table id="searchTable" border="0" cellspacing="1" cellpadding="0">
+      <tr>
+           <td Valign="middle" nowrap="nowrap" height="15">
+                 <!--<span style="font-size:9pt;">站内搜索：</span>-->
+                  <input type="hidden" name="condition" value="0">   </td><td>
+                <span id="intextspana165857a"></span>
+                <iframe id="intextframea165857a" src="about:blank" scrolling="no" frameborder="0" style="position:absolute;top:0px;left:0px;display:none;"></iframe>
+                <input size="12" placeholder="查询关键字" name="INTEXT" style="width: 150px;height:15px;">
+           </td>
+           <td align="absmiddle" nowrap="nowrap" height="1">
+                    <input type="submit" class="Fbtn" name="FindButton" value="搜索" />
+
+           </td>
+      </tr>
+ </table>
+</form>
+<script>
+String.prototype.trim= function()       
+{              
+    var t = this.replace(/(^\s*)|(\s*$)/g, "");     
+    return t.replace(/(^　*)|(　*$)/g, "");     
+}  
+function subsearchdataa165857a()
+{ 
+    if(document.a165857a.INTEXT.value.trim()=="")
+    {
+        alert("请输入查询关键字！");
+        return false;
+    }
+    if(checkDataa165857a(document.a165857a))
+    {
+       return true;  
+    }
+    return false;
+}       
+</script>
+
+    <script> 
+    function checkDataa165857a(formname)
+    {
+        if(a165857a.INTEXT.value.trim()=="")
+        {
+            alert("请输入查询关键字！");
+            return false;
+        }       
+        var  base64 = new Base64();
+        if(window.toFF==1)
+            {
+                var ssvalue = a165857a.INTEXT.value;
+                document.a165857a.INTEXT2.value = base64.encode(Simplized(ssvalue));
+            }else
+            document.a165857a.INTEXT2.value = base64.encode(document.a165857a.INTEXT.value);
+           return true;
+    }
+    </script>
+<script language="javascript" src="/system/resource/js/base64.js"></script> 
+<!--#endeditable-->
+            
+        </div>
+        <div id="menu"><!--#begineditable name="网站导航" viewid="164166" tagname="网站导航" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--><div id="menu">
+    <ul class="clearfix" style="margin-left:162.5px;padding-left:0;">
+            <li><a href="index.htm" title="首页">首页</a></li>
+        <li><a href="bmfg.htm" title="部门分工">部门分工</a></li>
+        <li><a href="gzzd.htm" title="规章制度">规章制度</a></li>
+        <li><a href="bslc.htm" title="办事流程">办事流程</a></li>
+        <li><a href="bgxz.htm" title="表格下载">表格下载</a></li>
+        <li><a href="whjs1.htm" title="文化建设">文化建设</a></li>
+        <li><a href="llxx1.htm" title="理论学习">理论学习</a></li>
+        <li><a href="xymj.htm" title="校园美景">校园美景</a></li>
+        <li><a href="yjx.jsp?urltype=tree.TreeTempUrl&wbtreeid=1027" title="意见箱">意见箱</a></li>
+    </ul>
+</div><!--#endeditable--></div>
+       
+<div id="main">
+    <div class="main_l"></div>
+    <div class="main_r">
+        <div class="focusLayer">
+            <!-- 代码 开始 -->
+<!--#begineditable name="轮播图" viewid="161882" tagname="轮播图" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--><script language="javascript" src="/system/resource/js/dynclicks.js"></script><div class="swiper-container" style="width:550px;height:321px;">
+  <div class="swiper-wrapper" style="width:550px;height:321px;">
+           <div class="swiper-slide" style="width:550px;height:321px;"><a href="info/1046/1779.htm" target="_blank" title="【疫情防控】桂林市委宣传部就防疫期间学好用好“学习强国”平台印发倡议书"><img class="swiper-slide" src="/__local/B/ED/30/63C5308F47C0B54004D49C1DC2E_01C70946_2733D.jpg" width="550" height="305/"><p class="cover">【疫情防控】桂林市委宣传部就防疫期...</p></a></div>
+       <div class="swiper-slide" style="width:550px;height:321px;"><a href="info/1046/1771.htm" target="_blank" title="【疫情防控】宣传部加大防疫宣传氛围营造"><img class="swiper-slide" src="/__local/5/91/F4/3747A32DC89DB38FC251D97798E_058738E7_15C90.jpg" width="550" height="305/"><p class="cover">【疫情防控】宣传部加大防疫宣传氛围营造</p></a></div>
+       <div class="swiper-slide" style="width:550px;height:321px;"><a href="info/1046/1716.htm" target="_blank" title="​【不忘初心、牢记使命】党委宣传部举办“不忘初心、牢记使命”主题教育工作展"><img class="swiper-slide" src="/__local/1/02/70/0A3BCABB0C373E0008D36DE8674_BC1C1CD0_166DC.jpg" width="550" height="305/"><p class="cover">​【不忘初心、牢记使命】党委宣传部...</p></a></div>
+       <div class="swiper-slide" style="width:550px;height:321px;"><a href="info/1046/1707.htm" target="_blank" title="​【不忘初心、牢记使命】宣传部、档案馆党支部召开对照党章党规找差距专题会议"><img class="swiper-slide" src="/__local/8/B0/8C/A03F394C4EE95D8A435607B9FBC_9ABA019C_3F4EE.jpg" width="550" height="305/"><p class="cover">​【不忘初心、牢记使命】宣传部、档...</p></a></div>
+       <div class="swiper-slide" style="width:550px;height:321px;"><a href="info/1046/1690.htm" target="_blank" title="党委宣传部举办“桂电师生与国旗同框”国庆献礼活动"><img class="swiper-slide" src="/__local/7/26/C8/0F6D7C4594A0C4FB6C4ADFBE419_37C4C899_62FF0.jpg" width="550" height="305/"><p class="cover">党委宣传部举办“桂电师生与国旗同框...</p></a></div>
+  </div>
+  <div class="but swiper-button-prev">&nbsp;</div>
+    <div class="but swiper-button-next">&nbsp;</div>
+<div id="pagination" class="swiper-pagination" style="width:160px;height:16px;line-height:16px;"></div>
+</div><script>_showDynClickBatch(['dynclicks_u2_1779','dynclicks_u2_1771','dynclicks_u2_1716','dynclicks_u2_1707','dynclicks_u2_1690'],[1779,1771,1716,1707,1690],"wbnews", 1410805245)</script>
+<!--#endeditable-->
+        <script>
+        var mySwiper = new Swiper('.swiper-container', {
+            width: 550,
+            height: 305,
+            autoplay: true,//可选选项，自动滑动
+            pagination: {           //分页器
+            el: '.swiper-pagination',
+            clickable :true,
+            width:50,
+            height:16,
+            },
+            navigation: {           //上下页
+            nextEl: '.swiper-button-next',
+            prevEl: '.swiper-button-prev',
+            },
+            autoplay: {             //触摸后停止
+            disableOnInteraction: false,
+            },
+            loop : true,            //if loop?
+        })
+        </script>
+        
+            <!-- 代码 结束 -->
+
+
+        </div>
+        <div class="news">
+            <div class="news_title">
+                <span class="blue">部门动态</span><span class="gray">  |  Department News</span><a href="index/bmdt.htm" target="_blank" class="gray">more>></a>
+            </div>
+            <div class="news_list">
+               <!--#begineditable name="部门动态" viewid="161771" tagname="部门动态" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--><ul>
+    <li><a class="graylist" href="info/1046/1863.htm" target="_blank" title="学校组织全校教职工观看学习宣传片《思想的力量— —如何做好意识形态工作》">学校组织全校教职工观看学习宣传片《思想的力量— —如何做好意识形态工...</a><span>2020/04/20</span></li>
+    <li><a class="graylist" href="info/1046/1852.htm" target="_blank" title="党委宣传部召开会议研究部署新学期重点工作">党委宣传部召开会议研究部署新学期重点工作</a><span>2020/04/17</span></li>
+    <li><a class="graylist" href="info/1046/1851.htm" target="_blank" title="我部积极加大防疫宣传教育，营造校园良好氛围 ">我部积极加大防疫宣传教育，营造校园良好氛围 </a><span>2020/04/17</span></li>
+    <li><a class="graylist" href="info/1046/1831.htm" target="_blank" title="花江校区办公楼文化环境提升项目建设完工">花江校区办公楼文化环境提升项目建设完工</a><span>2020/04/10</span></li>
+    <li><a class="graylist" href="info/1046/1823.htm" target="_blank" title="我校60周年校庆标识投票活动引校友热议">我校60周年校庆标识投票活动引校友热议</a><span>2020/03/27</span></li>
+</ul><script>_showDynClickBatch(['dynclicks_u3_1863','dynclicks_u3_1852','dynclicks_u3_1851','dynclicks_u3_1831','dynclicks_u3_1823'],[1863,1852,1851,1831,1823],"wbnews", 1410805245)</script>
+<!--#endeditable-->
+            </div>
+            <div class="news_title">
+                <span class="blue">通知发布</span><span class="gray">  |  Notice Publish</span><a href="index/tzfb.htm" target="_blank" class="gray">more>></a>
+            </div>
+            <div class="news_list">
+               <!--#begineditable name="通知发布" viewid="161773" tagname="通知发布" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--><ul>
+    <li><a class="graylist" href="info/1048/1844.htm" target="_blank" title="关于加强花江校区办公大楼新建文化墙管理的通知">关于加强花江校区办公大楼新建文化墙管理的通知</a><span>2020/04/16</span></li>
+    <li><a class="graylist" href="info/1048/1834.htm" target="_blank" title="关于做好学生返校后疫情防控宣传教育工作的通知">关于做好学生返校后疫情防控宣传教育工作的通知</a><span>2020/04/10</span></li>
+    <li><a class="graylist" href="info/1048/1802.htm" target="_blank" title="关于组织申报广西壮族自治区第十六次社会科学优秀成果奖的通知">关于组织申报广西壮族自治区第十六次社会科学优秀成果奖的通知</a><span>2020/02/24</span></li>
+</ul><script>_showDynClickBatch(['dynclicks_u4_1844','dynclicks_u4_1834','dynclicks_u4_1802'],[1844,1834,1802],"wbnews", 1410805245)</script>
+<!--#endeditable-->
+            </div>
+        </div>
+    </div>
+</div>
+<div id="piclink">
+    <ul>
+        <li><a target="_blank" href="http://weibo.com/gliet/profile?rightmod=1&wvr=5&mod=personinfo"><img src="dfiles/20005/content/images/gfwb.jpg" border="0" /></a></li>
+        <li><a target="_blank" href="index/dbdht/gfwx.htm"><img src="dfiles/20005/content/images/gfwx.jpg" border="0" /></a></li>
+        <li><a target="_blank" href="http://url.cn/5wqHY75"><img src="dfiles/20005/content/images/jrtt.jpg" border="0" /></a></li>
+                    <li><a target="_blank" href="http://172.16.64.167:81"><img src="dfiles/20005/content/images/gdxb.jpg" border="0" /></a></li>
+
+        <li><a target="_blank" href="http://vrczjs.cn/cz/cz/view"><img src="dfiles/20005/content/images/hjcz.jpg" border="0" /></a></li>
+
+        <li><a target="_blank" href="https://shop552901895.taobao.com/"><img src="dfiles/20005/content/images/jnp.jpg" border="0" /></a></li>
+    </ul>
+</div>
+<div id="flink">
+    <div class="flink_u">
+        <span class="blue">友情链接</span><span class="gray">  |  link</span>
+    </div>
+    <div class="flink_d">
+        <a target="_blank" href="http://www.guet.edu.cn/">桂林电子科技大学</a> &nbsp;
+        <a target="_blank" href="http://www.gxu.edu.cn/">广西大学</a> &nbsp;
+        <a target="_blank" href="http://www.gxnu.edu.cn/">广西师范大学</a> &nbsp;        
+        <a target="_blank" href="http://www.gxun.edu.cn/">广西民族大学</a> &nbsp;
+        <a target="_blank" href="http://www.glut.edu.cn/">桂林理工大学</a> &nbsp;
+        <a target="_blank" href="http://www.gxmu.edu.cn/">广西医科大学</a> &nbsp;
+        <a target="_blank" href="http://www.gxtc.edu.cn/">广西师范学院</a> &nbsp;
+        <a target="_blank" href="http://www.gxtcmu.edu.cn/">广西中医药大学 </a>&nbsp;
+        <a target="_blank" href="http://www.gxufe.cn/">广西财经学院 </a>
+    </div>
+</div>
+
+        <!--#begineditable name="版权" viewid="161734" tagname="版权" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--><!-- 版权内容请在本组件"内容配置-版权"处填写 -->
+<div id="footer">
+<p>©版权所有：桂林电子科技大学　校址：中国广西桂林金鸡路1号　邮编：541004　传真：2191683<br />备案号：桂ICP备 05000961 号 前置审核编号：桂JS201012-003</p>
+</div><!--#endeditable-->
+    </div>
+</body>
+</html>
+<!--郭政鸿 2018/1/17-->

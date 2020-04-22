@@ -1,0 +1,65 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>综合面试平台登录-桂林电子科技大学MBA</title>
+    <link href="/resource/mobile/css/index.css" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="/resource/mobile/js/jquery-1.11.1.min.js"></script>
+    <script src="/public/js/plugins/form/jquery.form.min.js"></script>
+    <script src="/resource/js/artdialog/jquery.artDialog.js?skin=idialog"></script>
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <style type="text/css">
+        .mianshi {
+            color: #576fb5;
+            float: right;
+            font-size: 16px;
+            margin-bottom: 23px;
+        }
+        .mianshi:hover {
+            color: #576fb5;
+            float: right;
+            font-size: 18px;
+            margin-bottom: 20px;
+        }
+        .logocss {
+            text-align: center;
+            font-size: 24px;
+            color: #1c3fa7;
+            font-family: "宋体";
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+<div class="login">
+    <h1 class="login-top">
+        <img src="/resource/mobile/images/login-logo.jpg" />
+        <p class="logocss">面试官请登录</p>
+    </h1>
+    <form id="pub_form" class="login-form" name="login" method='post'>
+        <input type="hidden" name='t' value="1">
+        <input type="text" name='mobile' id="username" placeholder="手机号" class='txt'>
+        <input type="password" name="password" class="password" id="password" placeholder="密码">
+        <strong class="mianshi"><a href="/mobile/login/recorder_login">>> 记录员登录入口 <<</a></strong>
+        <input type="submit" value="登录" class='login-bt'>
+        <p>版权所有：桂林电子科技大学MBA中心 | 技术支持：<a style="color:#c9c9c9" href="http://www.mbachina.com" target="_blank">MBAChina</a>
+        </p>
+    </form>
+</div>
+<script>
+    $("body").addClass("body");
+</script>
+</body>
+</html></html>
+<script type="text/javascript">
+    $('#pub_form').ajaxForm({
+        success: function (r) {
+            art.dialog.tips(r.info)
+            if(r.state == 1) {
+                art.dialog.tips(r.info);
+                setTimeout('location.href="/mobile/user"', 1000);
+            }
+        },
+        dataType: 'json'
+    });
+</script>

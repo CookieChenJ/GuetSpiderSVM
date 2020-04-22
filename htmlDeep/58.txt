@@ -1,0 +1,978 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><HTML><HEAD><TITLE>我要举报-纪检监察网</TITLE><META Name="keywords" Content="纪检监察网" />
+
+
+
+
+
+<META content="text/html; charset=UTF-8" http-equiv="Content-Type"><LINK rel="stylesheet" href="../../style/sytle.css">
+
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="../../_sitegray/_sitegray_d.css" />
+<script language="javascript" src="../../_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="../../info.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/vsbscreen.min.js" id="_vsbscreen" devices="pc|mobile|pad"></script>
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1089,'/info.jsp',1461,1410804270)</script>
+</HEAD>
+<BODY style="zoom: 1">
+<TABLE height="176" cellspacing="0" cellpadding="0" width="981" align="center" background="../../images/top.jpg">
+<TBODY>
+<TR>
+<TD height="130" valign="top" align="left"><!--#begineditable clone="0" namechanged="0" order="0" ispublic="0" tagname="logo" viewid="18262" contentviewid="" contype="" stylesysid="" layout="" action="" name="LOGO"-->
+<table border="0" cellspacing="0" cellpadding="0"><tr><td><img src="../../images/logo6.png" width="689" height="86" border="0" alt="纪委办公室/监察室" title="纪委办公室/监察室"></td></tr></table><!--#endeditable--></TD>
+<TD width="270"><!--#begineditable clone="0" namechanged="0" order="1" ispublic="0" tagname="主页|收藏" viewid="18263" contentviewid="" contype="" stylesysid="" layout="" action="" name="主页|收藏"--><script language="javascript">
+function dosuba18263a()
+{
+    try{
+		var ua = navigator.userAgent.toLowerCase();
+		if(ua.indexOf("msie 8")>-1)
+		{
+			window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE8
+		}else if(ua.toLowerCase().indexOf("rv:")>-1)
+        {
+            window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE11+
+        }else{
+			if (document.all) 
+			{
+				window.external.addFavorite(document.location.href, document.title);
+			}else if(window.sidebar)
+			{
+				window.sidebar.addPanel( document.title, document.location.href, "");//firefox
+			}
+			else
+			{
+				alert(hotKeysa18263a());
+			}
+		}
+
+    }
+    catch (e){alert("无法自动添加到收藏夹，请使用 Ctrl + d 手动添加");}
+}
+function hotKeysa18263a() 
+{
+	var ua = navigator.userAgent.toLowerCase(); 
+	var str = "";    
+	var isWebkit = (ua.indexOf('webkit') != - 1); 
+	var isMac = (ua.indexOf('mac') != - 1);     
+	if (ua.indexOf('konqueror') != - 1) 
+	{  
+		str = 'CTRL + B'; // Konqueror   
+	} 
+	else if (window.home || isWebkit || isMac) 
+	{        
+		str = (isMac ? 'Command/Cmd' : 'CTRL') + ' + D'; // Netscape, Safari, iCab, IE5/Mac   
+	}
+	return ((str) ? '无法自动添加到收藏夹，请使用' + str + '手动添加' : str);
+}
+function setHomepagea18263a()
+{
+	var url = document.location.href;
+    if (document.all)
+    {
+        document.body.style.behavior='url(#default#homepage)';
+        document.body.setHomePage(url);
+    }
+    else if (window.sidebar)
+    {
+        if(window.netscape)
+        {
+             try{
+                  netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+             }catch (e){
+                   alert("该操作被浏览器拒绝，如果想启用该功能，请在地址栏内输入 about:config,然后将项 signed.applets.codebase_principal_support 值该为true");
+             }
+    	}
+	var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components. interfaces.nsIPrefBranch);
+	prefs.setCharPref('browser.startup.homepage',url);
+	}
+	else
+	{
+		alert("浏览器不支持自动设为首页，请手动设置");
+	}
+}
+</script><table><tr><td style="font-size:9pt"><img align="absmiddle" src="../../images/swsy.gif" border="0">&nbsp;<A href="javascript:setHomepagea18263a()"><span class="font18263">设为首页</span></A></td></tr><tr><td style="font-size:9pt"><img align="absmiddle" src="../../images/jrsc.gif" border="0">&nbsp;<A onclick="javascript:dosuba18263a();" href="#"><span class="font18263">加入收藏</span></A></td></tr></table><!--#endeditable--></TD></TR>
+<TR>
+<TD valign="top" colspan="2" align="center" style="padding-bottom: 13px; padding-top: 10px"><!--#begineditable clone="0" namechanged="0" order="2" ispublic="0" tagname="网站导航" viewid="18264" contentviewid="" contype="" stylesysid="" layout="" action="" name="网站导航"--><style type="text/css">
+td.b1_2_{FONT-SIZE:9pt;}
+td.b2_2_{FONT-SIZE:9pt;}
+td.b3_2_{FONT-SIZE:9pt;BACKGROUND-COLOR: #eff8fe;}
+td.b4_2_{FONT-SIZE:9pt;BACKGROUND-COLOR: #e8f0fb;}
+a.menu0_2_:link {TEXT-DECORATION: none;};
+a.menu0_2_:visited { TEXT-DECORATION: none;};
+a.menu0_2_:hover {TEXT-DECORATION: none;};
+a.menu0_2_:active {TEXT-DECORATION: none;};
+table.tb1_2_{FONT-SIZE:9pt;border:0;}
+span.s1_2_{COLOR: #fff;FONT-SIZE: 14px;FONT-WEIGHT: bold;TEXT-DECORATION: none;}
+span.s2_2_{FONT-SIZE: 9pt;COLOR: #cc0000;LINE-HEIGHT: 160%;}
+span.s10_2_{COLOR: #fff;FONT-SIZE: 14px;FONT-WEIGHT: bold;TEXT-DECORATION: none;}
+span.s20_2_{FONT-SIZE: 9pt;COLOR: #222222;LINE-HEIGHT: 160%;}
+</style>
+<SCRIPT language="javascript"> 
+ var showfix_2_ = 1;
+ var isvertical_2_ = false;
+</SCRIPT>
+<script language="javascript" src="/system/resource/js/menu/text.js"></script>
+<TABLE id="t1_2_" cellSpacing="0" cellPadding="0" border="0" height="0" width="960"><TR><TD valign="center"></TD><TD valign="middle" height="0" width="0" nowrap class="b1_2_" align="center" id="a_2_1001" onmouseover="tshowLayers('1001','b2_2_', '_2_')" onmouseout="thideLayers('1001','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="../../index.htm"><span class="fontstyle18264">&nbsp;首页&nbsp;</span></a></TD><TD valign="center" class="leaderfont18264">|</TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1060" onmouseover="tshowLayers('1060','b2_2_', '_2_')" onmouseout="thideLayers('1060','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="../../jgzh.htm"><span class="fontstyle18264">&nbsp;机构职能&nbsp;</span></a></TD><TD valign="center" class="leaderfont18264">|</TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1064" onmouseover="tshowLayers('1064','b2_2_', '_2_')" onmouseout="thideLayers('1064','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="../../list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1064"><span class="fontstyle18264">&nbsp;信息动态&nbsp;</span></a></TD><TD valign="center" class="leaderfont18264">|</TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1068" onmouseover="tshowLayers('1068','b2_2_', '_2_')" onmouseout="thideLayers('1068','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="../../list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1068"><span class="fontstyle18264">&nbsp;热点关注&nbsp;</span></a></TD><TD valign="center" class="leaderfont18264">|</TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1073" onmouseover="tshowLayers('1073','b2_2_', '_2_')" onmouseout="thideLayers('1073','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="../../list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1073"><span class="fontstyle18264">&nbsp;廉政教育&nbsp;</span></a></TD><TD valign="center" class="leaderfont18264">|</TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1074" onmouseover="tshowLayers('1074','b2_2_', '_2_')" onmouseout="thideLayers('1074','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="../../list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1074"><span class="fontstyle18264">&nbsp;廉政文化&nbsp;</span></a></TD><TD valign="center" class="leaderfont18264">|</TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1075" onmouseover="tshowLayers('1075','b2_2_', '_2_')" onmouseout="thideLayers('1075','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="../../list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1075"><span class="fontstyle18264">&nbsp;党纪法规&nbsp;</span></a></TD><TD valign="center" class="leaderfont18264">|</TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1087" onmouseover="tshowLayers('1087','b2_2_', '_2_')" onmouseout="thideLayers('1087','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="../../list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1087"><span class="fontstyle18264">&nbsp;信访举报&nbsp;</span></a></TD><TD valign="center" class="leaderfont18264">|</TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1076" onmouseover="tshowLayers('1076','b2_2_', '_2_')" onmouseout="thideLayers('1076','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="../../list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1076"><span class="fontstyle18264">&nbsp;下载中心&nbsp;</span></a></TD></TR></TR></table><!--#endeditable--></TD></TR></TBODY></TABLE>
+<TABLE height="179" cellspacing="0" cellpadding="0" width="981" align="center">
+<TBODY>
+<TR>
+<TD align="left"><IMG src="../../images/bannerleft.gif" width="6" height="202"></TD>
+<TD valign="top" background="../../images/bannercenter.gif" width="971" style="padding-top: 3px"><!--#begineditable clone="0" namechanged="0" order="3" ispublic="0" tagname="banner" viewid="18265" contentviewid="" contype="" stylesysid="" layout="" action="" name="banner"-->
+
+
+
+
+<script language="javascript" src="/system/resource/js/dynclicks.js"></script>
+<table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+    <td><img src="../../images/gdfg02.jpg" width="971" height="380" hspace="0" vspace="0" border="0"></td>
+        </tr>
+        </table><!--#endeditable--></TD>
+<TD><IMG src="../../images/bannerright.gif" width="4"></TD></TR></TBODY></TABLE>
+<DIV style="height: 3px"></DIV>
+<TABLE height="179" cellspacing="0" cellpadding="0" width="981" align="center">
+<TBODY>
+<TR>
+<TD valign="top" width="226" align="left">
+<TABLE cellspacing="0" cellpadding="0">
+<TBODY>
+<TR>
+<TD class="graytable" width="224">
+<TABLE height="29" cellspacing="0" cellpadding="0" width="100%" background="../../images/jxggbg.gif">
+<TBODY>
+<TR>
+<TD width="11%"></TD>
+<TD class="title1" width="68%">热点文章</TD>
+<TD width="21%"></TD></TR></TBODY></TABLE>
+<TABLE height="230" cellspacing="0" cellpadding="0" width="90%" align="center">
+<TBODY>
+<TR>
+<TD height="10"></TD></TR>
+<TR>
+<TD height="210" valign="top"><!--#begineditable clone="0" namechanged="0" order="4" ispublic="0" tagname="热点文章" viewid="18289" contentviewid="" contype="" stylesysid="" layout="" action="" name="热点文章"--><script language="javascript" src="/system/resource/js/base64.js"></script>
+<script language="javascript" src="/system/resource/js/jquery/jquery-latest.min.js"></script>
+<div id="load_div_u4" style="width: 100%;height: 100%;text-align: center;vertical-align: middle;"><img border="0" src="/system/resource/images/loading.gif"></div>
+<table width="100%" cellspacing="0" cellpadding="0" id="hotnews_content_table_u4" style="display: none;">
+</table>
+<script type="text/javascript">
+function getHotNewsTitleu4()
+{
+    var mediaisshow = 'false';
+    var _this = this;
+    var loaddiv = jQuery("#load_div_u4");
+    var contenttable = jQuery("#hotnews_content_table_u4");
+    _this.t_body = jQuery("#hotnews_content_table_u4");
+    _this.clickshow = false;
+    _this.clickname = '点击';
+    _this.clickstyle = 'clickstyle18289';
+    _this.endimageposition = false;
+    _this.isfollowtilte = false;
+    //构造 参数
+    var param =  {owner:'1410804270',treeid:'1089',viewid:'18289',mode:'10',
+            locale:'zh_CN',
+            pageUrl:'/info/1089/1461.htm',uniqueId:'u4',
+            PAGENUM:_this.curpage,actionmethod:'getnewslist'}
+     var ajaxurl  = "/system/resource/js/news/hotdynpullnews.jsp";        
+     _this._getResult = function()
+     {
+        jQuery.post(ajaxurl,param,
+            function(data){
+                _this.dataloadComplete(data);
+            },
+            "json"
+        );
+      }
+      _this.show = function()
+      {
+        loaddiv.css("display","none");
+        contenttable.css("display","");
+      }
+      var newsidarray = new Array();
+      var newsidspanarray = new Array();
+     //数据加载
+     _this.dataloadComplete = function(data)
+     {
+             if(data&&data.length>0)
+            {
+                 var  img = '';
+                 var video = ''; 
+                 var attach = ''; 
+                 
+                 var isshowimg = false;
+                 var showimgalign =  '';
+                 var isshowvideo = false;
+                 var showvideoalign = 'left';
+                 var isshowattach = false;
+                 var showattachalign = 'left';
+                 for(var i=0;i<data.length;i++)
+                 {
+                     var notice_val = data[i];
+                     var wbishaveimg = notice_val.wbishaveimg;
+                     var wbishavevideo = notice_val.wbishavevideo;
+                     var wbhasattach = notice_val.wbhasattach;
+                     var wbpicurl = notice_val.wbpicurl;
+                     if(mediaisshow&&wbpicurl!=null&&wbpicurl!="")
+                     {
+                        var pic_tr = jQuery("<tr></tr>");
+                        var pic_td = jQuery("<td colspan='5'></td>");
+                        pic_td.html(notice_val.picdiv);
+                        _this.t_body.append(pic_tr);
+                     }
+                     var notice_tr = jQuery("<tr></tr>");
+                     //前导图
+                     var leader_td = jQuery("<td align='center' valign='middle' width=10 nowrap ></td>");
+                     var leaderspan =jQuery("<span ><img src='../../images/coin.gif' align='absmiddle' border='0'></span>");
+                     leaderspan.addClass("leaderfont18289");
+                     leader_td.append(leaderspan);
+                     notice_tr.append(leader_td);
+                     var title_td = jQuery("<td valign='middle' align='left' ></td>");
+                     title_td.addClass("");
+                     
+                     var columnstr = jQuery(notice_val.columnstr);
+                     title_td.append(columnstr);
+                     
+                     if(isshowimg&&showimgalign=="left"&&(wbishaveimg==1))
+                     {
+                        var imgspan = jQuery("<span >"+img+"</span>");
+                        title_td.append(imgspan);
+                     }
+                     if(isshowvideo&&showvideoalign=="left"&&(wbishavevideo==1))
+                     {
+                        var videospan = jQuery("<span >"+video+"</span>");
+                        title_td.append(videospan);
+                     }
+                     if(isshowattach&&showattachalign=="left"&&(wbhasattach==1))
+                     {
+                        var attachspan = jQuery("<span >"+attach+"</span>");
+                        title_td.append(attachspan);
+                     }
+                     
+                     var link_a = jQuery("<a class='c18289' target=_blank  title='"+notice_val.showtitle+"'>"+notice_val.title+"</a>");
+                     link_a.attr("href",notice_val.linkurl);
+                     title_td.append(link_a);
+                     if(false)
+                     {
+                        var endimgspan = jQuery("<span>"+notice_val.endimg+"</span>");
+                        title_td.append(endimgspan);
+                     }
+                     
+                     if(isshowimg&&showimgalign=="right"&&(wbishaveimg==1))
+                     {
+                        var imgspan = jQuery("<span >"+img+"</span>");
+                        title_td.append(imgspan);
+                     }
+                     if(isshowvideo&&showvideoalign=="right"&&(wbishavevideo==1))
+                     {
+                        var videospan = jQuery("<span >"+video+"</span>");
+                        title_td.append(videospan);
+                     }
+                     if(isshowattach&&showattachalign=="right"&&(wbhasattach==1))
+                     {
+                        var attachspan = jQuery("<span >"+attach+"</span>");
+                        title_td.append(attachspan);
+                     }
+                     
+                     if(_this.clickshow)
+                     {
+                        var clicktimespan = jQuery("<span></span>");
+                        clicktimespan.html("("+_this.clickname+"&nbsp;<span id='_wzdjcs_"+notice_val.newsid+"' name='_wzdjcs_"+notice_val.newsid+"'></span>"+")");
+                        clicktimespan.addClass(_this.clickstyle);
+                        newsidarray.push(notice_val.newsid);
+                        newsidspanarray.push("_wzdjcs_"+notice_val.newsid);
+                        title_td.append(clicktimespan);
+                     }
+                     
+                     if(false)
+                     {
+                         var time_span = jQuery("<span width='1%' ></span>")
+                         
+                         time_span.addClass("timestyle18289");
+                         if(true)
+                         {
+                             var endimgspan = jQuery("<span>"+notice_val.endimg+"</span>");
+                             time_span.append(endimgspan);
+                         }  
+                         title_td.append(time_span); 
+                     }
+                     notice_tr.append(title_td);
+                     
+                     
+                     if(true)
+                     {
+                        var time_td = jQuery("<td valign='middle' align=right   width='1%' nowrap>");
+                        time_td.addClass("timestyle18289");
+                        
+                        if(true)
+                        {
+                            var time_span = jQuery("<span width='1%' ></span>")
+                            var endimgspan = jQuery("<span>"+notice_val.endimg+"</span>");
+                            time_span.append(endimgspan);
+                            time_td.append(time_span);
+                        }
+                        notice_tr.append(time_td);
+                     }
+                     
+                     _this.t_body.append(notice_tr);
+                     
+                     var lineimg = '';
+                     if(lineimg!=null&&lineimg!='')
+                     {
+                        var lineimgheight = 1;
+                        var line_tr = jQuery("<tr><td colspan='4' height='" + lineimgheight + "' BACKGROUND='" + lineimg + "'></td></tr>")
+                        _this.t_body.append(line_tr);
+                     }
+                 }
+                 _showDynClickBatch(newsidspanarray,newsidarray,'wbnews','1410804270');
+            }else
+            {
+                _this.t_body.append("<tr><td colspan=4 align=center style='color:#222222;font-size:12px;'>没有记录</td></tr>");
+            }      
+     }
+}
+jQuery(document).ready(function(){
+    var showcontentu4 = new getHotNewsTitleu4();
+    showcontentu4._getResult();
+    showcontentu4.show();
+});
+</script><!--#endeditable--></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD>
+<TD rowspan="2" width="11"></TD>
+<TD valign="top" rowspan="2" width="744">
+<TABLE cellspacing="0" cellpadding="0">
+<TBODY>
+<TR>
+<TD class="graytable" width="742" colspan="3">
+<TABLE height="34" cellspacing="0" cellpadding="0" width="100%" background="../../images/dqlmtbg.gif">
+<TBODY>
+<TR>
+<TD width="4%"></TD>
+<TD class="title1" width="17%"><!--#begineditable clone="0" namechanged="0" order="5" ispublic="0" tagname="当前栏目" viewid="18278" contentviewid="" contype="" stylesysid="" layout="" action="" name="当前栏目"--><span class="windowstyle18278">
+我要举报</span><!--#endeditable--></TD>
+<TD width="79%" align="right" style="padding-right: 10px"><!--#begineditable clone="0" namechanged="0" order="6" ispublic="0" tagname="当前位置" viewid="18279" contentviewid="" contype="" stylesysid="" layout="" action="" name="当前位置"-->  
+<table class="winstyle18279" cellspacing="0" cellpadding="0"><tr><td nowrap>当前位置：   
+<a href="../../index.htm"><span class="fontstyle18279">首页</span></a><span class="splitflagstyle18279">>></span><a href="../../list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1087"><span class="fontstyle18279">信访举报</span></a><span class="splitflagstyle18279">>></span><a href="../../jb.jsp?urltype=tree.TreeTempUrl&wbtreeid=1089"><span class="fontstyle18279">我要举报</span></a><span class="splitflagstyle18279">>></span><span class="fontstyle18279">正文</span></td></tr></table><!--#endeditable--></TD></TR></TBODY></TABLE>
+<TABLE cellspacing="0" cellpadding="0" width="95%" align="center">
+<TBODY>
+<TR>
+<TD height="15"></TD></TR>
+<TR>
+<TD height="440" valign="top"><!--#begineditable clone="0" namechanged="0" order="7" ispublic="0" tagname="文章内容" viewid="18282" contentviewid="" contype="" stylesysid="" layout="" action="" name="文章内容"-->
+
+<LINK href="/system/resource/style/component/news/content/title.css" type="text/css" rel="stylesheet">
+<style type="text/css">
+     .content{margin:auto;text-align:left;line-height:18px;padding:3px 0 0 0;color:#727272;}
+     .process{width:162px;height:11px;background:#EDEDED;overflow:hidden;float:left;margin-left:26px !important;margin-left:13px;margin-right:10px;}
+     .process div{width:160px;height:11px;background:url(/system/resource/images/newsvote/bg.gif) repeat-x;border-left:1px solid #000;border-right:1px solid #000;}
+     .process .style7{border-left-color:#ff0000;border-right-color:#ff0000;background-position:0 -77px;}
+     
+     <!-- 
+      body { 
+          -moz-user-select:none;} 
+     -->
+</style>
+
+<script> document.body.onselectstart=document.body.oncontextmenu=function(){return false;};</script>
+
+
+<script language="javascript" src="../../_dwr/interface/NewsvoteDWR.js"></script>
+<script language="javascript" src="../../_dwr/engine.js"></script>
+<script language="javascript" src="../../_dwr/util.js"></script>
+<script language="javascript" src="/system/resource/js/news/newscontent.js"></script>
+<script type="text/javascript">
+
+NewsvoteDWR.getNewsLinkUrl(1461,"1410804270","vsb",newsSkip);
+function newsSkip(data)
+{
+    if(data != "")
+    {
+        window.location.href = data;
+    }
+}
+</script>
+
+
+
+<form name="form18282a">
+<table border="0" class="winstyle18282" width="100%" cellspacing="0" cellpadding="0">
+
+      <tr><td class="titlestyle18282" align="center">
+我要举报
+      </td></tr>
+      <tr height="30"><td align="center">
+            <span class="timestyle18282">
+                 2018-05-12 11:25</span>
+            <span class="authorstyle18282">纪委/监察室&nbsp;
+            纪委/监察室
+            
+            </span>
+            
+                <span class="auditstyle18282">审核人：</span>
+            
+            
+        </td></tr>
+        <tr><td align="right">
+        <span>
+
+        </span>
+        </td></tr>
+
+      <tr><td class="contentstyle18282">
+        <div class="c18282_content" id="vsb_newscontent"><div id="vsb_content">
+           <p style="text-align: left"><span style="color: #ff0000; font-size: 16px"><strong>&nbsp;&nbsp;&nbsp; 根据“分级负责、归口办理”原则，请您按照被举报人属地和级别，选择相应的举报网站进行举报。</strong></span></p>
+<p><span style="font-size: 18px"><span style="color: #ff0000; font-size: 21px"><strong><span style="font-size: 21px"></span></strong></span>&nbsp;</span></p>
+<p style="text-align: center"><a href="http://guangxi.12388.gov.cn/" target="_self"><span style="font-size: 21px"><strong><span style="font-family: 微软雅黑,Microsoft YaHei">广西壮族自治区纪委、监察委举报网站</span></strong></span></a></p>
+<p>&nbsp;</p>
+<p style="text-align: center"><a href="http://www.guet.edu.cn/jwjc/jb.jsp?urltype=tree.TreeTempUrl&wbtreeid=1089" target="_self"><span style="font-size: 21px"><strong><span style="font-family: 微软雅黑,Microsoft YaHei">桂林电子科技大学纪检监察举报网站</span></strong></span></a><span style="font-size: 21px"><strong><span style="font-family: 微软雅黑,Microsoft YaHei"></span></strong><strong><span style="font-family: 微软雅黑,Microsoft YaHei"></span></strong></span></p>
+</div></div>
+          
+           
+           
+        </td></tr>
+        
+        <tr><td class="pagestyle18282" align="left">
+        </td></tr>
+        <tr><td><div id="div_vote_id"></div></td></tr>
+    <tr><td align="center"><span>
+             
+             
+      </span></td></tr>
+      
+      <tr>
+         <td align="center">
+            
+         </td>
+      </tr>
+
+      <tr><td align="right">
+              <span>【</span><a href="javascript:window.opener=null;window.open('','_self');window.close();"><span>关闭窗口</span></a><span>】</span>
+      </td></tr>
+
+</table>
+</form>
+
+
+
+<script type="text/javascript">
+
+function dosuba18282a()
+{
+    try{
+        var ua = navigator.userAgent.toLowerCase();
+        if(ua.indexOf("msie 8")>-1)
+        {
+            window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE8
+        }else{
+            if (document.all) 
+            {
+                window.external.addFavorite(document.location.href, document.title);
+            }else if(window.sidebar)
+            {
+                window.sidebar.addPanel( document.title, document.location.href, "");//firefox
+            }
+        }
+
+    }
+    catch (e){alert("无法自动添加到收藏夹，请使用 Ctrl + d 手动添加");}
+}
+
+
+</script>
+<!--#endeditable--></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD valign="bottom" align="center"><IMG src="../../images/hua.jpg"></TD></TR></TBODY></TABLE>
+<DIV style="height: 10px"></DIV>
+<TABLE height="83" cellspacing="0" cellpadding="0" width="981" align="center" background="../../images/copybg.gif">
+<TBODY>
+<TR>
+<TD align="center"><!--#begineditable clone="0" namechanged="0" order="8" ispublic="0" tagname="版权" viewid="18274" contentviewid="" contype="" stylesysid="" layout="" action="" name="版权"--><p style="text-align: center">桂林电子科技大学纪检监察网&nbsp;&nbsp;</p><!--#endeditable--></TD></TR></TBODY></TABLE>
+
+</BODY></HTML>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><HTML><HEAD><TITLE>我要举报-纪检监察网</TITLE><META Name="keywords" Content="纪检监察网" />
+
+
+
+
+
+<META content="text/html; charset=UTF-8" http-equiv="Content-Type"><LINK rel="stylesheet" href="../../style/sytle.css">
+
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="../../_sitegray/_sitegray_d.css" />
+<script language="javascript" src="../../_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="../../info.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/vsbscreen.min.js" id="_vsbscreen" devices="pc|mobile|pad"></script>
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1089,'/info.jsp',1461,1410804270)</script>
+</HEAD>
+<BODY style="zoom: 1">
+<TABLE height="176" cellspacing="0" cellpadding="0" width="981" align="center" background="../../images/top.jpg">
+<TBODY>
+<TR>
+<TD height="130" valign="top" align="left"><!--#begineditable clone="0" namechanged="0" order="0" ispublic="0" tagname="logo" viewid="18262" contentviewid="" contype="" stylesysid="" layout="" action="" name="LOGO"-->
+<table border="0" cellspacing="0" cellpadding="0"><tr><td><img src="../../images/logo6.png" width="689" height="86" border="0" alt="纪委办公室/监察室" title="纪委办公室/监察室"></td></tr></table><!--#endeditable--></TD>
+<TD width="270"><!--#begineditable clone="0" namechanged="0" order="1" ispublic="0" tagname="主页|收藏" viewid="18263" contentviewid="" contype="" stylesysid="" layout="" action="" name="主页|收藏"--><script language="javascript">
+function dosuba18263a()
+{
+    try{
+		var ua = navigator.userAgent.toLowerCase();
+		if(ua.indexOf("msie 8")>-1)
+		{
+			window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE8
+		}else if(ua.toLowerCase().indexOf("rv:")>-1)
+        {
+            window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE11+
+        }else{
+			if (document.all) 
+			{
+				window.external.addFavorite(document.location.href, document.title);
+			}else if(window.sidebar)
+			{
+				window.sidebar.addPanel( document.title, document.location.href, "");//firefox
+			}
+			else
+			{
+				alert(hotKeysa18263a());
+			}
+		}
+
+    }
+    catch (e){alert("无法自动添加到收藏夹，请使用 Ctrl + d 手动添加");}
+}
+function hotKeysa18263a() 
+{
+	var ua = navigator.userAgent.toLowerCase(); 
+	var str = "";    
+	var isWebkit = (ua.indexOf('webkit') != - 1); 
+	var isMac = (ua.indexOf('mac') != - 1);     
+	if (ua.indexOf('konqueror') != - 1) 
+	{  
+		str = 'CTRL + B'; // Konqueror   
+	} 
+	else if (window.home || isWebkit || isMac) 
+	{        
+		str = (isMac ? 'Command/Cmd' : 'CTRL') + ' + D'; // Netscape, Safari, iCab, IE5/Mac   
+	}
+	return ((str) ? '无法自动添加到收藏夹，请使用' + str + '手动添加' : str);
+}
+function setHomepagea18263a()
+{
+	var url = document.location.href;
+    if (document.all)
+    {
+        document.body.style.behavior='url(#default#homepage)';
+        document.body.setHomePage(url);
+    }
+    else if (window.sidebar)
+    {
+        if(window.netscape)
+        {
+             try{
+                  netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+             }catch (e){
+                   alert("该操作被浏览器拒绝，如果想启用该功能，请在地址栏内输入 about:config,然后将项 signed.applets.codebase_principal_support 值该为true");
+             }
+    	}
+	var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components. interfaces.nsIPrefBranch);
+	prefs.setCharPref('browser.startup.homepage',url);
+	}
+	else
+	{
+		alert("浏览器不支持自动设为首页，请手动设置");
+	}
+}
+</script><table><tr><td style="font-size:9pt"><img align="absmiddle" src="../../images/swsy.gif" border="0">&nbsp;<A href="javascript:setHomepagea18263a()"><span class="font18263">设为首页</span></A></td></tr><tr><td style="font-size:9pt"><img align="absmiddle" src="../../images/jrsc.gif" border="0">&nbsp;<A onclick="javascript:dosuba18263a();" href="#"><span class="font18263">加入收藏</span></A></td></tr></table><!--#endeditable--></TD></TR>
+<TR>
+<TD valign="top" colspan="2" align="center" style="padding-bottom: 13px; padding-top: 10px"><!--#begineditable clone="0" namechanged="0" order="2" ispublic="0" tagname="网站导航" viewid="18264" contentviewid="" contype="" stylesysid="" layout="" action="" name="网站导航"--><style type="text/css">
+td.b1_2_{FONT-SIZE:9pt;}
+td.b2_2_{FONT-SIZE:9pt;}
+td.b3_2_{FONT-SIZE:9pt;BACKGROUND-COLOR: #eff8fe;}
+td.b4_2_{FONT-SIZE:9pt;BACKGROUND-COLOR: #e8f0fb;}
+a.menu0_2_:link {TEXT-DECORATION: none;};
+a.menu0_2_:visited { TEXT-DECORATION: none;};
+a.menu0_2_:hover {TEXT-DECORATION: none;};
+a.menu0_2_:active {TEXT-DECORATION: none;};
+table.tb1_2_{FONT-SIZE:9pt;border:0;}
+span.s1_2_{COLOR: #fff;FONT-SIZE: 14px;FONT-WEIGHT: bold;TEXT-DECORATION: none;}
+span.s2_2_{FONT-SIZE: 9pt;COLOR: #cc0000;LINE-HEIGHT: 160%;}
+span.s10_2_{COLOR: #fff;FONT-SIZE: 14px;FONT-WEIGHT: bold;TEXT-DECORATION: none;}
+span.s20_2_{FONT-SIZE: 9pt;COLOR: #222222;LINE-HEIGHT: 160%;}
+</style>
+<SCRIPT language="javascript"> 
+ var showfix_2_ = 1;
+ var isvertical_2_ = false;
+</SCRIPT>
+<script language="javascript" src="/system/resource/js/menu/text.js"></script>
+<TABLE id="t1_2_" cellSpacing="0" cellPadding="0" border="0" height="0" width="960"><TR><TD valign="center"></TD><TD valign="middle" height="0" width="0" nowrap class="b1_2_" align="center" id="a_2_1001" onmouseover="tshowLayers('1001','b2_2_', '_2_')" onmouseout="thideLayers('1001','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="../../index.htm"><span class="fontstyle18264">&nbsp;首页&nbsp;</span></a></TD><TD valign="center" class="leaderfont18264">|</TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1060" onmouseover="tshowLayers('1060','b2_2_', '_2_')" onmouseout="thideLayers('1060','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="../../jgzh.htm"><span class="fontstyle18264">&nbsp;机构职能&nbsp;</span></a></TD><TD valign="center" class="leaderfont18264">|</TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1064" onmouseover="tshowLayers('1064','b2_2_', '_2_')" onmouseout="thideLayers('1064','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="../../list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1064"><span class="fontstyle18264">&nbsp;信息动态&nbsp;</span></a></TD><TD valign="center" class="leaderfont18264">|</TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1068" onmouseover="tshowLayers('1068','b2_2_', '_2_')" onmouseout="thideLayers('1068','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="../../list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1068"><span class="fontstyle18264">&nbsp;热点关注&nbsp;</span></a></TD><TD valign="center" class="leaderfont18264">|</TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1073" onmouseover="tshowLayers('1073','b2_2_', '_2_')" onmouseout="thideLayers('1073','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="../../list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1073"><span class="fontstyle18264">&nbsp;廉政教育&nbsp;</span></a></TD><TD valign="center" class="leaderfont18264">|</TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1074" onmouseover="tshowLayers('1074','b2_2_', '_2_')" onmouseout="thideLayers('1074','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="../../list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1074"><span class="fontstyle18264">&nbsp;廉政文化&nbsp;</span></a></TD><TD valign="center" class="leaderfont18264">|</TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1075" onmouseover="tshowLayers('1075','b2_2_', '_2_')" onmouseout="thideLayers('1075','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="../../list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1075"><span class="fontstyle18264">&nbsp;党纪法规&nbsp;</span></a></TD><TD valign="center" class="leaderfont18264">|</TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1087" onmouseover="tshowLayers('1087','b2_2_', '_2_')" onmouseout="thideLayers('1087','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="../../list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1087"><span class="fontstyle18264">&nbsp;信访举报&nbsp;</span></a></TD><TD valign="center" class="leaderfont18264">|</TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1076" onmouseover="tshowLayers('1076','b2_2_', '_2_')" onmouseout="thideLayers('1076','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="../../list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1076"><span class="fontstyle18264">&nbsp;下载中心&nbsp;</span></a></TD></TR></TR></table><!--#endeditable--></TD></TR></TBODY></TABLE>
+<TABLE height="179" cellspacing="0" cellpadding="0" width="981" align="center">
+<TBODY>
+<TR>
+<TD align="left"><IMG src="../../images/bannerleft.gif" width="6" height="202"></TD>
+<TD valign="top" background="../../images/bannercenter.gif" width="971" style="padding-top: 3px"><!--#begineditable clone="0" namechanged="0" order="3" ispublic="0" tagname="banner" viewid="18265" contentviewid="" contype="" stylesysid="" layout="" action="" name="banner"-->
+
+
+
+
+<script language="javascript" src="/system/resource/js/dynclicks.js"></script>
+<table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+    <td><img src="../../images/gdfg02.jpg" width="971" height="380" hspace="0" vspace="0" border="0"></td>
+        </tr>
+        </table><!--#endeditable--></TD>
+<TD><IMG src="../../images/bannerright.gif" width="4"></TD></TR></TBODY></TABLE>
+<DIV style="height: 3px"></DIV>
+<TABLE height="179" cellspacing="0" cellpadding="0" width="981" align="center">
+<TBODY>
+<TR>
+<TD valign="top" width="226" align="left">
+<TABLE cellspacing="0" cellpadding="0">
+<TBODY>
+<TR>
+<TD class="graytable" width="224">
+<TABLE height="29" cellspacing="0" cellpadding="0" width="100%" background="../../images/jxggbg.gif">
+<TBODY>
+<TR>
+<TD width="11%"></TD>
+<TD class="title1" width="68%">热点文章</TD>
+<TD width="21%"></TD></TR></TBODY></TABLE>
+<TABLE height="230" cellspacing="0" cellpadding="0" width="90%" align="center">
+<TBODY>
+<TR>
+<TD height="10"></TD></TR>
+<TR>
+<TD height="210" valign="top"><!--#begineditable clone="0" namechanged="0" order="4" ispublic="0" tagname="热点文章" viewid="18289" contentviewid="" contype="" stylesysid="" layout="" action="" name="热点文章"--><script language="javascript" src="/system/resource/js/base64.js"></script>
+<script language="javascript" src="/system/resource/js/jquery/jquery-latest.min.js"></script>
+<div id="load_div_u4" style="width: 100%;height: 100%;text-align: center;vertical-align: middle;"><img border="0" src="/system/resource/images/loading.gif"></div>
+<table width="100%" cellspacing="0" cellpadding="0" id="hotnews_content_table_u4" style="display: none;">
+</table>
+<script type="text/javascript">
+function getHotNewsTitleu4()
+{
+    var mediaisshow = 'false';
+    var _this = this;
+    var loaddiv = jQuery("#load_div_u4");
+    var contenttable = jQuery("#hotnews_content_table_u4");
+    _this.t_body = jQuery("#hotnews_content_table_u4");
+    _this.clickshow = false;
+    _this.clickname = '点击';
+    _this.clickstyle = 'clickstyle18289';
+    _this.endimageposition = false;
+    _this.isfollowtilte = false;
+    //构造 参数
+    var param =  {owner:'1410804270',treeid:'1089',viewid:'18289',mode:'10',
+            locale:'zh_CN',
+            pageUrl:'/info/1089/1461.htm',uniqueId:'u4',
+            PAGENUM:_this.curpage,actionmethod:'getnewslist'}
+     var ajaxurl  = "/system/resource/js/news/hotdynpullnews.jsp";        
+     _this._getResult = function()
+     {
+        jQuery.post(ajaxurl,param,
+            function(data){
+                _this.dataloadComplete(data);
+            },
+            "json"
+        );
+      }
+      _this.show = function()
+      {
+        loaddiv.css("display","none");
+        contenttable.css("display","");
+      }
+      var newsidarray = new Array();
+      var newsidspanarray = new Array();
+     //数据加载
+     _this.dataloadComplete = function(data)
+     {
+             if(data&&data.length>0)
+            {
+                 var  img = '';
+                 var video = ''; 
+                 var attach = ''; 
+                 
+                 var isshowimg = false;
+                 var showimgalign =  '';
+                 var isshowvideo = false;
+                 var showvideoalign = 'left';
+                 var isshowattach = false;
+                 var showattachalign = 'left';
+                 for(var i=0;i<data.length;i++)
+                 {
+                     var notice_val = data[i];
+                     var wbishaveimg = notice_val.wbishaveimg;
+                     var wbishavevideo = notice_val.wbishavevideo;
+                     var wbhasattach = notice_val.wbhasattach;
+                     var wbpicurl = notice_val.wbpicurl;
+                     if(mediaisshow&&wbpicurl!=null&&wbpicurl!="")
+                     {
+                        var pic_tr = jQuery("<tr></tr>");
+                        var pic_td = jQuery("<td colspan='5'></td>");
+                        pic_td.html(notice_val.picdiv);
+                        _this.t_body.append(pic_tr);
+                     }
+                     var notice_tr = jQuery("<tr></tr>");
+                     //前导图
+                     var leader_td = jQuery("<td align='center' valign='middle' width=10 nowrap ></td>");
+                     var leaderspan =jQuery("<span ><img src='../../images/coin.gif' align='absmiddle' border='0'></span>");
+                     leaderspan.addClass("leaderfont18289");
+                     leader_td.append(leaderspan);
+                     notice_tr.append(leader_td);
+                     var title_td = jQuery("<td valign='middle' align='left' ></td>");
+                     title_td.addClass("");
+                     
+                     var columnstr = jQuery(notice_val.columnstr);
+                     title_td.append(columnstr);
+                     
+                     if(isshowimg&&showimgalign=="left"&&(wbishaveimg==1))
+                     {
+                        var imgspan = jQuery("<span >"+img+"</span>");
+                        title_td.append(imgspan);
+                     }
+                     if(isshowvideo&&showvideoalign=="left"&&(wbishavevideo==1))
+                     {
+                        var videospan = jQuery("<span >"+video+"</span>");
+                        title_td.append(videospan);
+                     }
+                     if(isshowattach&&showattachalign=="left"&&(wbhasattach==1))
+                     {
+                        var attachspan = jQuery("<span >"+attach+"</span>");
+                        title_td.append(attachspan);
+                     }
+                     
+                     var link_a = jQuery("<a class='c18289' target=_blank  title='"+notice_val.showtitle+"'>"+notice_val.title+"</a>");
+                     link_a.attr("href",notice_val.linkurl);
+                     title_td.append(link_a);
+                     if(false)
+                     {
+                        var endimgspan = jQuery("<span>"+notice_val.endimg+"</span>");
+                        title_td.append(endimgspan);
+                     }
+                     
+                     if(isshowimg&&showimgalign=="right"&&(wbishaveimg==1))
+                     {
+                        var imgspan = jQuery("<span >"+img+"</span>");
+                        title_td.append(imgspan);
+                     }
+                     if(isshowvideo&&showvideoalign=="right"&&(wbishavevideo==1))
+                     {
+                        var videospan = jQuery("<span >"+video+"</span>");
+                        title_td.append(videospan);
+                     }
+                     if(isshowattach&&showattachalign=="right"&&(wbhasattach==1))
+                     {
+                        var attachspan = jQuery("<span >"+attach+"</span>");
+                        title_td.append(attachspan);
+                     }
+                     
+                     if(_this.clickshow)
+                     {
+                        var clicktimespan = jQuery("<span></span>");
+                        clicktimespan.html("("+_this.clickname+"&nbsp;<span id='_wzdjcs_"+notice_val.newsid+"' name='_wzdjcs_"+notice_val.newsid+"'></span>"+")");
+                        clicktimespan.addClass(_this.clickstyle);
+                        newsidarray.push(notice_val.newsid);
+                        newsidspanarray.push("_wzdjcs_"+notice_val.newsid);
+                        title_td.append(clicktimespan);
+                     }
+                     
+                     if(false)
+                     {
+                         var time_span = jQuery("<span width='1%' ></span>")
+                         
+                         time_span.addClass("timestyle18289");
+                         if(true)
+                         {
+                             var endimgspan = jQuery("<span>"+notice_val.endimg+"</span>");
+                             time_span.append(endimgspan);
+                         }  
+                         title_td.append(time_span); 
+                     }
+                     notice_tr.append(title_td);
+                     
+                     
+                     if(true)
+                     {
+                        var time_td = jQuery("<td valign='middle' align=right   width='1%' nowrap>");
+                        time_td.addClass("timestyle18289");
+                        
+                        if(true)
+                        {
+                            var time_span = jQuery("<span width='1%' ></span>")
+                            var endimgspan = jQuery("<span>"+notice_val.endimg+"</span>");
+                            time_span.append(endimgspan);
+                            time_td.append(time_span);
+                        }
+                        notice_tr.append(time_td);
+                     }
+                     
+                     _this.t_body.append(notice_tr);
+                     
+                     var lineimg = '';
+                     if(lineimg!=null&&lineimg!='')
+                     {
+                        var lineimgheight = 1;
+                        var line_tr = jQuery("<tr><td colspan='4' height='" + lineimgheight + "' BACKGROUND='" + lineimg + "'></td></tr>")
+                        _this.t_body.append(line_tr);
+                     }
+                 }
+                 _showDynClickBatch(newsidspanarray,newsidarray,'wbnews','1410804270');
+            }else
+            {
+                _this.t_body.append("<tr><td colspan=4 align=center style='color:#222222;font-size:12px;'>没有记录</td></tr>");
+            }      
+     }
+}
+jQuery(document).ready(function(){
+    var showcontentu4 = new getHotNewsTitleu4();
+    showcontentu4._getResult();
+    showcontentu4.show();
+});
+</script><!--#endeditable--></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD>
+<TD rowspan="2" width="11"></TD>
+<TD valign="top" rowspan="2" width="744">
+<TABLE cellspacing="0" cellpadding="0">
+<TBODY>
+<TR>
+<TD class="graytable" width="742" colspan="3">
+<TABLE height="34" cellspacing="0" cellpadding="0" width="100%" background="../../images/dqlmtbg.gif">
+<TBODY>
+<TR>
+<TD width="4%"></TD>
+<TD class="title1" width="17%"><!--#begineditable clone="0" namechanged="0" order="5" ispublic="0" tagname="当前栏目" viewid="18278" contentviewid="" contype="" stylesysid="" layout="" action="" name="当前栏目"--><span class="windowstyle18278">
+我要举报</span><!--#endeditable--></TD>
+<TD width="79%" align="right" style="padding-right: 10px"><!--#begineditable clone="0" namechanged="0" order="6" ispublic="0" tagname="当前位置" viewid="18279" contentviewid="" contype="" stylesysid="" layout="" action="" name="当前位置"-->  
+<table class="winstyle18279" cellspacing="0" cellpadding="0"><tr><td nowrap>当前位置：   
+<a href="../../index.htm"><span class="fontstyle18279">首页</span></a><span class="splitflagstyle18279">>></span><a href="../../list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1087"><span class="fontstyle18279">信访举报</span></a><span class="splitflagstyle18279">>></span><a href="../../jb.jsp?urltype=tree.TreeTempUrl&wbtreeid=1089"><span class="fontstyle18279">我要举报</span></a><span class="splitflagstyle18279">>></span><span class="fontstyle18279">正文</span></td></tr></table><!--#endeditable--></TD></TR></TBODY></TABLE>
+<TABLE cellspacing="0" cellpadding="0" width="95%" align="center">
+<TBODY>
+<TR>
+<TD height="15"></TD></TR>
+<TR>
+<TD height="440" valign="top"><!--#begineditable clone="0" namechanged="0" order="7" ispublic="0" tagname="文章内容" viewid="18282" contentviewid="" contype="" stylesysid="" layout="" action="" name="文章内容"-->
+
+<LINK href="/system/resource/style/component/news/content/title.css" type="text/css" rel="stylesheet">
+<style type="text/css">
+     .content{margin:auto;text-align:left;line-height:18px;padding:3px 0 0 0;color:#727272;}
+     .process{width:162px;height:11px;background:#EDEDED;overflow:hidden;float:left;margin-left:26px !important;margin-left:13px;margin-right:10px;}
+     .process div{width:160px;height:11px;background:url(/system/resource/images/newsvote/bg.gif) repeat-x;border-left:1px solid #000;border-right:1px solid #000;}
+     .process .style7{border-left-color:#ff0000;border-right-color:#ff0000;background-position:0 -77px;}
+     
+     <!-- 
+      body { 
+          -moz-user-select:none;} 
+     -->
+</style>
+
+<script> document.body.onselectstart=document.body.oncontextmenu=function(){return false;};</script>
+
+
+<script language="javascript" src="../../_dwr/interface/NewsvoteDWR.js"></script>
+<script language="javascript" src="../../_dwr/engine.js"></script>
+<script language="javascript" src="../../_dwr/util.js"></script>
+<script language="javascript" src="/system/resource/js/news/newscontent.js"></script>
+<script type="text/javascript">
+
+NewsvoteDWR.getNewsLinkUrl(1461,"1410804270","vsb",newsSkip);
+function newsSkip(data)
+{
+    if(data != "")
+    {
+        window.location.href = data;
+    }
+}
+</script>
+
+
+
+<form name="form18282a">
+<table border="0" class="winstyle18282" width="100%" cellspacing="0" cellpadding="0">
+
+      <tr><td class="titlestyle18282" align="center">
+我要举报
+      </td></tr>
+      <tr height="30"><td align="center">
+            <span class="timestyle18282">
+                 2018-05-12 11:25</span>
+            <span class="authorstyle18282">纪委/监察室&nbsp;
+            纪委/监察室
+            
+            </span>
+            
+                <span class="auditstyle18282">审核人：</span>
+            
+            
+        </td></tr>
+        <tr><td align="right">
+        <span>
+
+        </span>
+        </td></tr>
+
+      <tr><td class="contentstyle18282">
+        <div class="c18282_content" id="vsb_newscontent"><div id="vsb_content">
+           <p style="text-align: left"><span style="color: #ff0000; font-size: 16px"><strong>&nbsp;&nbsp;&nbsp; 根据“分级负责、归口办理”原则，请您按照被举报人属地和级别，选择相应的举报网站进行举报。</strong></span></p>
+<p><span style="font-size: 18px"><span style="color: #ff0000; font-size: 21px"><strong><span style="font-size: 21px"></span></strong></span>&nbsp;</span></p>
+<p style="text-align: center"><a href="http://guangxi.12388.gov.cn/" target="_self"><span style="font-size: 21px"><strong><span style="font-family: 微软雅黑,Microsoft YaHei">广西壮族自治区纪委、监察委举报网站</span></strong></span></a></p>
+<p>&nbsp;</p>
+<p style="text-align: center"><a href="http://www.guet.edu.cn/jwjc/jb.jsp?urltype=tree.TreeTempUrl&wbtreeid=1089" target="_self"><span style="font-size: 21px"><strong><span style="font-family: 微软雅黑,Microsoft YaHei">桂林电子科技大学纪检监察举报网站</span></strong></span></a><span style="font-size: 21px"><strong><span style="font-family: 微软雅黑,Microsoft YaHei"></span></strong><strong><span style="font-family: 微软雅黑,Microsoft YaHei"></span></strong></span></p>
+</div></div>
+          
+           
+           
+        </td></tr>
+        
+        <tr><td class="pagestyle18282" align="left">
+        </td></tr>
+        <tr><td><div id="div_vote_id"></div></td></tr>
+    <tr><td align="center"><span>
+             
+             
+      </span></td></tr>
+      
+      <tr>
+         <td align="center">
+            
+         </td>
+      </tr>
+
+      <tr><td align="right">
+              <span>【</span><a href="javascript:window.opener=null;window.open('','_self');window.close();"><span>关闭窗口</span></a><span>】</span>
+      </td></tr>
+
+</table>
+</form>
+
+
+
+<script type="text/javascript">
+
+function dosuba18282a()
+{
+    try{
+        var ua = navigator.userAgent.toLowerCase();
+        if(ua.indexOf("msie 8")>-1)
+        {
+            window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE8
+        }else{
+            if (document.all) 
+            {
+                window.external.addFavorite(document.location.href, document.title);
+            }else if(window.sidebar)
+            {
+                window.sidebar.addPanel( document.title, document.location.href, "");//firefox
+            }
+        }
+
+    }
+    catch (e){alert("无法自动添加到收藏夹，请使用 Ctrl + d 手动添加");}
+}
+
+
+</script>
+<!--#endeditable--></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD valign="bottom" align="center"><IMG src="../../images/hua.jpg"></TD></TR></TBODY></TABLE>
+<DIV style="height: 10px"></DIV>
+<TABLE height="83" cellspacing="0" cellpadding="0" width="981" align="center" background="../../images/copybg.gif">
+<TBODY>
+<TR>
+<TD align="center"><!--#begineditable clone="0" namechanged="0" order="8" ispublic="0" tagname="版权" viewid="18274" contentviewid="" contype="" stylesysid="" layout="" action="" name="版权"--><p style="text-align: center">桂林电子科技大学纪检监察网&nbsp;&nbsp;</p><!--#endeditable--></TD></TR></TBODY></TABLE>
+
+</BODY></HTML>

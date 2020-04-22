@@ -1,0 +1,1084 @@
+<!DOCTYPE html>
+<html><head><title>桂林电子科技大学北海校区清风网</title><META Name="keywords" Content="北海校区，清风网" />
+
+
+
+
+
+<meta charset="utf-8"><link rel="stylesheet" type="text/css" href="css/style.css"><link rel="stylesheet" type="text/css" href="css/publice.css"><script type="text/javascript" src="js/jquery-1.8.3.min.js"></script><script type="text/javascript" src="js/jquery.js"></script><script type="text/javascript" src="js/superslide.2.1.js"></script><script type="text/javascript" src="js/jquery.soChange.js"></script><script type="text/javascript" src="js/index.js"></script><script type="text/javascript">
+    $(function(){
+        $(".mainmenu dl").hide();
+        $("li.mainmenu").hover(function(){
+            $(this).find("dl").stop(true,true);
+            $(this).find("dl").slideDown();
+        },function(){
+            $(this).find("dl").stop(true,true);
+            $(this).find("dl").slideUp();
+        });
+    })
+</script>
+
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="index.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1033,'/index.jsp',-1,1453679873)</script>
+</head>
+<body><!--top s-->
+<div class="topWrap clearfix">
+<div class="topDiv"><!--#begineditable name="高校LOGO" viewid="161173" tagname="高校LOGO" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""-->
+<!-- 网站logo图片地址请在本组件"内容配置-网站logo"处填写 -->
+<div class="logo">
+<a href="index.htm"><img src="images/logo2.png"></a>
+</div><!--#endeditable-->
+</div></div><!--nav--><!--#begineditable name="主导航" viewid="161176" tagname="主导航" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><div class="navWrap  clearfix">
+    <div class="nav">
+    <ul>
+			<li>
+			<a class="link" href="index.htm">首页</a>
+						
+		</li>
+		<li class="mainmenu">
+		    <a class="link" href="jgzn.htm">机构职能</a>
+			<!--如果是导航字数很多，则加上 class="chang"，否则去掉即可-->
+			<dl>
+					<dd><a href="jgzn/gzzz.htm">工作职责</a></dd>
+					<dd><a href="jgzn/rygc.htm">人员构成</a></dd>
+					<dd><a href="jgzn/gzcx.htm">工作程序</a></dd>
+			</dl>
+		</li>
+		<li class="mainmenu">
+		    <a class="link" href="xxdt.htm">信息动态</a>
+			<!--如果是导航字数很多，则加上 class="chang"，否则去掉即可-->
+			<dl>
+					<dd><a href="xxdt/zhbd.htm">综合报道</a></dd>
+					<dd><a href="xxdt/tzgg.htm">通知公告</a></dd>
+					<dd><a href="xxdt/ajtb.htm">案件通报</a></dd>
+					<dd><a href="xxdt/lzyw.htm">廉政要闻</a></dd>
+			</dl>
+		</li>
+		<li class="mainmenu">
+		    <a class="link" href="rdgz.htm">热点关注</a>
+			<!--如果是导航字数很多，则加上 class="chang"，否则去掉即可-->
+			<dl>
+					<dd><a href="rdgz/gngz.htm">国内关注</a></dd>
+					<dd><a href="rdgz/gxgz.htm">高校关注</a></dd>
+					<dd><a href="rdgz/rdtb.htm">热点通报</a></dd>
+					<dd><a href="rdgz/ryry.htm">热言热议</a></dd>
+			</dl>
+		</li>
+		<li class="mainmenu">
+		    <a class="link" href="djfg.htm">党纪法规</a>
+			<!--如果是导航字数很多，则加上 class="chang"，否则去掉即可-->
+			<dl>
+					<dd><a href="djfg/dnfg.htm">党内法规</a></dd>
+					<dd><a href="djfg/flfg.htm">法律法规</a></dd>
+					<dd><a href="djfg/jszc.htm">警示之窗</a></dd>
+					<dd><a href="djfg/qlby.htm">勤廉榜样</a></dd>
+					<dd><a href="djfg/xsgw.htm">学思感悟</a></dd>
+			</dl>
+		</li>
+		<li class="mainmenu">
+		    <a class="link" href="ljwh.htm">廉洁文化</a>
+			<!--如果是导航字数很多，则加上 class="chang"，否则去掉即可-->
+			<dl>
+					<dd><a href="ljwh/xxjc.htm">学习教材</a></dd>
+					<dd><a href="ljwh/yczp.htm">原创作品</a></dd>
+					<dd><a href="ljwh/gyjj.htm">格言警句</a></dd>
+					<dd><a href="ljwh/lzsw.htm">廉政书屋</a></dd>
+					<dd><a href="ljwh/yxsp.htm">音像视频</a></dd>
+					<dd><a href="ljwh/mhgs.htm">漫画故事</a></dd>
+			</dl>
+		</li>
+		<li class="mainmenu">
+		    <a class="link" href="xfjb.htm">信访举报</a>
+			<!--如果是导航字数很多，则加上 class="chang"，否则去掉即可-->
+			<dl>
+					<dd><a href="xfjb/jbzn.htm">举报指南</a></dd>
+					<dd><a href="xfjb/wyjb.htm">我要举报</a></dd>
+			</dl>
+		</li>
+		<li class="mainmenu">
+		    <a class="link" href="zlxz.htm">资料下载</a>
+			<!--如果是导航字数很多，则加上 class="chang"，否则去掉即可-->
+			<dl>
+					<dd><a href="zlxz/jjwj.htm">纪检文件</a></dd>
+					<dd><a href="zlxz/cybg.htm">常用表格</a></dd>
+			</dl>
+		</li>
+     
+    </ul>
+</div>
+</div>
+<script type="text/javascript">
+
+	$(".mainmenu dl").hide();
+
+</script><!--#endeditable--><!--banner-->
+<div class="vsb-box">
+    <div columns="6" containerid="1" class="vsb-container a">
+        <!--banner3-->
+        
+    <div class="vsb-space banner_three" columns="6"><!--#begineditable name="banner变换" action="webber.wbst.com.image.ColumnImage" layout="/system/_component/columnimage/bannerchangeimage.jsp" tpltype="0" contype="image" clone="" viewid="164862" contentviewid="" tagname="banner变换"--><style type="text/css">
+ul,li{
+    padding:0;
+    margin:0;
+    list-style:none;}
+#flashBoxu_u2_{
+    width:980px;
+    height:335px;
+    border:0px solid #EEE;
+    position:relative;
+    margin-left: auto;
+    margin-right: auto;}
+#flashBoxu_u2_ img{
+    /*初始不要显示*/
+    display:none;
+    /*用边框来实现空位，因为margin和paading有时会引起些麻烦*/
+    border:0px solid #FFF;}
+#flashBoxu_u2_ ul{
+    display:none;
+    position:absolute;
+    right:7px;
+    bottom:3px;
+    font:9px tahoma;}
+#flashBoxu_u2_ ul li{
+    display:none;
+    float:left;
+    width:12px;
+    height:12px;
+    line-height:12px;
+    margin-right:3px;
+    border:0px solid #999;
+    background:#F0F0F0;
+    text-align:center;
+    cursor:pointer;}
+#flashBoxu_u2_ ul li.hover{
+    border-color:red;
+    background:#FFE1E1;
+    color:red;}
+</style>
+<script type="text/javascript">
+function flashBoxCtrl(o){
+    this.obj=document.getElementById(o);
+    //这个私有方法虽然写了，但暂时没用到
+    function addListener(ele,eventName,functionBody){
+        if (ele.attachEvent){
+            ele.attachEvent("on"+eventName, functionBody);
+        }else if (ele.addEventListener){
+            ele.addEventListener("on"+eventName,functionBody, false);
+        }else{
+            return false;
+        }
+    }
+    //初始化
+    this.init=function(){
+        var objImg=this.obj.getElementsByTagName("img");
+        var tagLength=objImg.length;
+        if (tagLength>0){
+            var oUl=document.createElement("ul");
+            oUl.setAttribute("id",o+"numTag");
+            for (var i=0;i<tagLength;i++){
+                var oLi=oUl.appendChild(document.createElement("li"));
+                if (i==0){
+                    oLi.setAttribute("class","hover"); //初始化时把第一个设置为高亮
+                    oLi.setAttribute("className","hover");
+                }
+                //设置标签的数字
+                oLi.appendChild(document.createTextNode((i+1)));
+            }
+            this.obj.appendChild(oUl);
+            objImg[0].style.display="block";
+            //设置标签事件
+            var oTag=this.obj.getElementsByTagName("li");
+            for (var i=0;i<oTag.length;i++){
+                var flag = 0;
+                var temp = 0;
+                var timeout=null;
+                var step = function(){
+                    for (j=0;j<oTag.length;j++){
+                        oTag[j].className="";
+                        objImg[j].style.display="none";
+                    }
+                    this.className="hover";
+                    flag = flag>=oTag.length-1?0:flag+1;
+                    objImg[flag].style.display="block";
+                    oTag[flag].className = "hover";
+                    timeout = setTimeout(step,4000);
+                };
+                oTag[i].onmouseover=function(){
+                    for (j=0;j<oTag.length;j++){
+                        oTag[j].className="";
+                        objImg[j].style.display="none";
+                        temp = j;
+                    }
+                    this.className="hover";
+                    objImg[this.innerHTML-1].style.display="block";
+                    temp = this.innerHTML-1;
+                    flag = i;
+                    clearInterval(timeout);
+                }
+                oTag[i].onmouseout = function(){
+                    for (j=0;j<oTag.length;j++){
+                        oTag[j].className="";
+                        objImg[j].style.display="none";
+                    }
+                    flag = temp;
+                    objImg[temp].style.display="block";
+                    oTag[temp].className = "hover";
+                    timeout = setTimeout(step,4000);
+                }
+                if(i==0)
+                {
+                    timeout = setTimeout(step,4000);
+                }
+            }
+        }
+    };
+    //自动滚动的方法还没写
+    this.imgRoll=function(){};
+    //生成对象时自动加载init()方法以初始化对象
+    this.init();
+}
+</script>
+<table cellspacing="0" cellpadding="0" border="0"><tr><td><div id="flashBoxu_u2_"><a href="#" target="_blank"><img src="images/banner.png" border="0" width="980" height="335" /></a><a href="#" target="_blank"><img src="images/banner1.png" border="0" width="980" height="335" /></a></div></td></tr></table><SCRIPT language="JavaScript">new flashBoxCtrl("flashBoxu_u2_");</SCRIPT><!--#endeditable--></div></div>
+</div>
+<div></div><!--container-->
+<div class="vsb-box">
+    
+    <div columns="6" containerid="2" class="vsb-container container clearfix">
+        
+        <!--学者社区-->
+            
+        <!--新闻信息6-->
+                
+    <div class="vsb-space informBox informBoxb informBoxb2 fl" columns="2">
+                <div id="tab">
+                    <ul class="tab_menu clearfix">
+<li class="selected">通知公告 </li>
+<li>案件通报 </li></ul>
+                    <div class="tab_box">
+                        <!--#begineditable name="2个标签切换的7条文章第一个" viewid="161192" tagname="2个标签切换的7条文章第一个" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><script language="javascript" src="/system/resource/js/dynclicks.js"></script><div>
+                             <ul>
+<li><a href="info/1045/1118.htm">关于印发《桂林电子科技大学2018年纪检监…</a></li>
+<li><a href="info/1033/1112.htm">桂林校区党支部联合开展学宪法学党章活动</a></li>
+<li><a href="info/1033/1111.htm">“不忘初心，继续前进”桂林校区党支部联…</a></li>
+<li><a href="info/1033/1110.htm">设计系第一学生党支部观看学习纪念马克思…</a></li>
+<li><a href="info/1033/1109.htm">信息与通信工程系及物流管理系教工党支部…</a></li>
+<li><a href="info/1033/1108.htm">信息与通信工程系第二学生党支召开党团共…</a></li>
+<li><a href="info/1045/1107.htm">桂林电子科技大学督办工作实施办法(试行)</a></li>
+<li><a href="info/1045/1104.htm">中共中央 国务院印发《关于加强和改进新…</a></li>
+                                 
+                             </ul>
+                        </div><script>_showDynClickBatch(['dynclicks_u3_1118','dynclicks_u3_1112','dynclicks_u3_1111','dynclicks_u3_1110','dynclicks_u3_1109','dynclicks_u3_1108','dynclicks_u3_1107','dynclicks_u3_1104'],[1118,1112,1111,1110,1109,1108,1107,1104],"wbnews", 1453679873)</script>
+<!--#endeditable-->
+                        <!--#begineditable name="2个标签切换的7条文章第二个" viewid="161193" tagname="2个标签切换的7条文章第二个" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><div class="hide1">
+                             <ul>
+<li><a href="info/1045/1118.htm">关于印发《桂林电子科技大学2018年纪检监…</a></li>
+<li><a href="info/1045/1107.htm">桂林电子科技大学督办工作实施办法(试行)</a></li>
+<li><a href="info/1045/1104.htm">中共中央 国务院印发《关于加强和改进新…</a></li>
+<li><a href="info/1045/1103.htm">学校举办校纪委委员、二级纪委书记、纪检…</a></li>
+<li><a href="info/1045/1102.htm">校领导送新一轮“美丽广西”乡村建设（扶…</a></li>
+<li><a href="info/1045/1098.htm">学校召开干部压力管理与心理调适培训会（…</a></li>
+<li><a href="info/1045/1099.htm">我校召开基层党组织书记集体约谈会（图）</a></li>
+<li><a href="info/1045/1100.htm">校纪委赴贺州市八步区桂岭镇开展扶贫领域…</a></li>
+                                 
+                             </ul>
+                        </div><script>_showDynClickBatch(['dynclicks_u4_1118','dynclicks_u4_1107','dynclicks_u4_1104','dynclicks_u4_1103','dynclicks_u4_1102','dynclicks_u4_1098','dynclicks_u4_1099','dynclicks_u4_1100'],[1118,1107,1104,1103,1102,1098,1099,1100],"wbnews", 1453679873)</script>
+<!--#endeditable-->
+                    </div>
+                </div>
+            </div><div class="vsb-space new_inforBox new_inforBox1 new_inforBoxb fl" columns="4">
+            <div class="dynamic dynamicd">
+                <h2>综合报道</h2><span><a href="index/xwxx.htm"><img src="temp/more.png" oldsrc="temp/more.png"></a></span></div>
+        
+            <div class="newBox">
+                <div class="new_pic new_pica new_pica3">
+                    <!--#begineditable name="圆点5张图片切换带标题" viewid="161232" tagname="圆点5张图片切换带标题" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><div id="slideBox" class="slideBox slideBox6 slideBoxa">
+<div class="hd">						
+                                <ul>
+                                                              <li></li>
+                              <li></li>
+                              <li></li>
+                              <li></li>
+                              <li></li>
+                                
+                                </ul>
+                            </div>
+                            <div class="bd">
+                                <ul>
+                                    
+<li><a title="学校举办校纪委委员、二级纪委书记、纪检委员、纪检监察干部培训班（图）" href="info/1045/1103.htm" target="_self"><img src="/__local/B/D8/C0/32D44FF214A694D4876E2AC2FD3_26BC0F98_26B8D.png"><p>学校举办校纪委委员、二级纪委书记…</p></a></li>
+                                    
+<li><a title="校领导送新一轮“美丽广西”乡村建设（扶贫）工作队员赴任（图）" href="info/1045/1102.htm" target="_self"><img src="/__local/A/70/FE/87ADC1F4A8A3863A47F5E9E8518_3D4863BE_1B63D.jpg"><p>校领导送新一轮“美丽广西”乡村建…</p></a></li>
+                                    
+<li><a title="学校召开干部压力管理与心理调适培训会（图）" href="info/1045/1098.htm" target="_self"><img src="/__local/B/88/8B/08A05B38C64211A9379B0DCAF53_0CE8ED83_2BD5C.jpg"><p>学校召开干部压力管理与心理调适培…</p></a></li>
+                                    
+<li><a title="我校召开基层党组织书记集体约谈会（图）" href="info/1045/1099.htm" target="_self"><img src="/__local/D/F8/9A/1D486F130ECA31E3E6C371EB468_2F999EDF_3F6E4.jpg"><p>我校召开基层党组织书记集体约谈会…</p></a></li>
+                                    
+<li><a title="校纪委赴贺州市八步区桂岭镇开展扶贫领域工作调研（图）" href="info/1045/1100.htm" target="_self"><img src="/__local/2/9B/88/1A20252DAF3E39FC96F11DFD40E_D2168A54_BD4D4.jpg"><p>校纪委赴贺州市八步区桂岭镇开展扶…</p></a></li>
+                                    
+</ul>
+                            </div>
+</div>
+                
+
+
+<script>_showDynClickBatch(['dynclicks_u5_1103','dynclicks_u5_1102','dynclicks_u5_1098','dynclicks_u5_1099','dynclicks_u5_1100'],[1103,1102,1098,1099,1100],"wbnews", 1453679873)</script>
+<!--#endeditable-->
+                </div>
+                <div class="new_list new_lista new_lista2">
+                    <!--#begineditable name="9条文章标题列表" viewid="161233" tagname="9条文章标题列表" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><ul class="dynamic_list dynamic_lista fr">
+                             
+<li><a href="info/1045/1118.htm"><span>05/23</span><em>关于印发《桂林电子科技大学2018年纪检…</em></a></li>
+                             
+<li><a href="info/1045/1107.htm"><span>05/18</span><em>桂林电子科技大学督办工作实施办法(试…</em></a></li>
+                             
+<li><a href="info/1045/1104.htm"><span>05/18</span><em>中共中央 国务院印发《关于加强和改进…</em></a></li>
+                             
+<li><a href="info/1045/1103.htm"><span>05/18</span><em>学校举办校纪委委员、二级纪委书记、纪…</em></a></li>
+                             
+<li><a href="info/1045/1102.htm"><span>05/18</span><em>校领导送新一轮“美丽广西”乡村建设（…</em></a></li>
+                             
+<li><a href="info/1045/1098.htm"><span>04/05</span><em>学校召开干部压力管理与心理调适培训会…</em></a></li>
+                             
+<li><a href="info/1045/1099.htm"><span>04/03</span><em>我校召开基层党组织书记集体约谈会（图）</em></a></li>
+                             
+<li><a href="info/1045/1100.htm"><span>04/02</span><em>校纪委赴贺州市八步区桂岭镇开展扶贫领…</em></a></li>
+                             
+<li><a href="info/1045/1101.htm"><span>04/02</span><em>学校举办校纪委委员、二级纪委书记、纪…</em></a></li>
+                             
+</ul>
+
+
+<script>_showDynClickBatch(['dynclicks_u6_1118','dynclicks_u6_1107','dynclicks_u6_1104','dynclicks_u6_1103','dynclicks_u6_1102','dynclicks_u6_1098','dynclicks_u6_1099','dynclicks_u6_1100','dynclicks_u6_1101'],[1118,1107,1104,1103,1102,1098,1099,1100,1101],"wbnews", 1453679873)</script>
+<!--#endeditable-->
+                </div>
+            </div>
+        </div></div>
+    
+    <div columns="6" containerid="2" class="vsb-container container clearfix">
+        
+        <!--通知公告-->
+        
+        <!--通知公告-->
+        
+    <div class="vsb-space informBox informBoxb fl" columns="1">
+            <!--#begineditable name="全文检索" viewid="161190" tagname="全文检索" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><script type="text/javascript">
+    function _nl_ys_check(){
+        
+        var keyword = document.getElementById('showkeycode161190').value;
+        if(keyword==null||keyword==""){
+            alert("请输入你要检索的内容！");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkeyword161190").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkeyword161190").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkeyword161190").value = base64.encode(document.getElementById("lucenenewssearchkeyword161190").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode161190"));
+        return true;
+    } 
+ function submitForm()
+    {
+        document.getElementById("au7a").submit();
+    }
+</script>
+
+<form action="ssjg.jsp?wbtreeid=1033" method="post" id="au7a" name="au7a" onsubmit="return _nl_ys_check()" style="display: inline">
+ <input type="hidden" id="lucenenewssearchkeyword161190" name="lucenenewssearchkeyword" value=""><input type="hidden" id="_lucenesearchtype161190" name="_lucenesearchtype" value="1"><input type="hidden" id="searchScope161190" name="searchScope" value="1">
+ 
+<div class="dynamic dynamicc"><h2>站内搜索</h2></div>
+                <input id="showkeycode161190" type="text" class="search_text" name="showkeycode" value="请输入搜索关键字" onfocus="if(this.value=='请输入搜索关键字')this.value='';" onblur="if(this.value=='')this.value='请输入搜索关键字';" />
+                <input type="submit" value="搜索" class="h_button" />
+     </form>         
+<script language="javascript" src="/system/resource/js/base64.js"></script><script language="javascript" src="/system/resource/js/formfunc.js"></script>
+<!--#endeditable-->
+            <!--#begineditable name="检索下面3个树形图片列表" viewid="161191" tagname="检索下面3个树形图片列表" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""-->    <div class="zp_pic">
+<a href="info/1079/1128.htm"><img src="images/jbzn.png"></a>
+<a href="info/1080/1129.htm"><img src="images/wyjb.png"></a>
+                </div><!--#endeditable-->
+        </div><div class="vsb-space informBox informBoxd informBoxc1 fl" columns="2">
+            <!--#begineditable name="8条蓝背景标题列表" viewid="161210" tagname="8条蓝背景标题列表" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""-->                <div class="dynamic dynamicb dynamice"><h2>廉政要闻</h2><span><a href="index/tzgg.htm"><img src="img/w_more.png"></a></span></div>
+                <div class="infor_list infor_lista">
+                    <ul class="dynamic_list dynamic_listb dynamic_liste fr">
+<li><a href="info/1045/1118.htm"><span>05/23</span><em>关于印发《桂林电子科技大学2018年纪检...</em></a></li>
+<li><a href="info/1045/1107.htm"><span>05/18</span><em>桂林电子科技大学督办工作实施办法(试行)</em></a></li>
+<li><a href="info/1045/1104.htm"><span>05/18</span><em>中共中央 国务院印发《关于加强和改进新...</em></a></li>
+<li><a href="info/1045/1103.htm"><span>05/18</span><em>学校举办校纪委委员、二级纪委书记、纪...</em></a></li>
+<li><a href="info/1045/1102.htm"><span>05/18</span><em>校领导送新一轮“美丽广西”乡村建设（...</em></a></li>
+<li><a href="info/1045/1098.htm"><span>04/05</span><em>学校召开干部压力管理与心理调适培训会...</em></a></li>
+<li><a href="info/1045/1099.htm"><span>04/03</span><em>我校召开基层党组织书记集体约谈会（图）</em></a></li>
+<li><a href="info/1045/1100.htm"><span>04/02</span><em>校纪委赴贺州市八步区桂岭镇开展扶贫领...</em></a></li>
+
+                     </ul>
+                 </div>
+<script>_showDynClickBatch(['dynclicks_u9_1118','dynclicks_u9_1107','dynclicks_u9_1104','dynclicks_u9_1103','dynclicks_u9_1102','dynclicks_u9_1098','dynclicks_u9_1099','dynclicks_u9_1100'],[1118,1107,1104,1103,1102,1098,1099,1100],"wbnews", 1453679873)</script>
+<!--#endeditable-->
+        </div><div class="vsb-space informBox informBoxd informBoxc1 fl" columns="2"><!--#begineditable name="图片列表" action="webber.wbst.com.image.ColumnImage" layout="/system/_component/columnimage/imagelist.jsp" tpltype="0" contype="image" clone="" viewid="164961" contentviewid="" tagname="图片列表"-->
+
+
+
+
+
+<table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+    <td><a href="images/qlby.png" target="_blank" onclick="_addDynClicks('wbimage',1453679873,32546)"><img src="images/qlby.png" width="314" height="100" hspace="10" vspace="10" border="0"></a></td>
+        </tr>
+        <tr>
+    <td><a href="images/lzkt.png" target="_blank" onclick="_addDynClicks('wbimage',1453679873,32545)"><img src="images/lzkt.png" width="314" height="100" hspace="10" vspace="10" border="0"></a></td>
+        </tr>
+        <tr>
+    <td><a href="images/rdgz.png" target="_blank" onclick="_addDynClicks('wbimage',1453679873,32544)"><img src="images/rdgz.png" width="314" height="100" hspace="10" vspace="10" border="0"></a></td>
+        </tr>
+        </table><!--#endeditable--></div></div>
+    
+    <div columns="6" containerid="2" class="vsb-container container clearfix">  
+        
+    <div class="vsb-space content contentf" columns="6">
+            <!--#begineditable name="横向链接1" viewid="161218" tagname="横向链接1" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><script language="javascript" src="/system/resource/js/openlink.js"></script><div class="link_one clearfix">
+            <dl>
+                <dt>校内链接</dt>
+<dd>
+
+<a href="http://gdbh.guet.edu.cn/">北海校区管理委员会</a>
+
+
+
+<a href="http://hyxy.guet.edu.cn/">海洋信息工程学院</a>
+
+
+
+<a href="http://zzb.guet.cn/">组织部</a>
+
+
+
+<a href="http://www.guet.edu.cn/jwjc/">纪检监察网</a>
+
+
+
+<a href="http://guetoa.guet.edu.cn/">党政办公室</a>
+
+
+<a href="http://www.guet.edu.cn/" class="cur">桂林电子科技大学</a>
+
+
+    </dd>         
+            </dl>
+        </div>
+
+
+<!--#endeditable-->
+            <!--#begineditable name="横向链接2" viewid="161225" tagname="横向链接2" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><div class="link_one link_onea">
+           <dl class="clearfix">
+                <dt>其他链接</dt>
+<dd>
+
+               <a href="http://www.ccdi.gov.cn/">中央纪委监察部网</a>
+
+               <a href="http://www.lzqf.cn/">中国廉政网</a>
+
+               <a href="http://www.12371.cn/">共产党员网</a>
+
+               <a href="http://www.jcrb.com/">正义网</a>
+
+               <a href="http://www.gxjjw.gov.cn/">广西纪检监察网</a>
+<a href="http://www.chinanews.com/" class="cur">中国新闻网</a>
+   </dd>
+            </dl>
+        </div>
+
+<!--#endeditable-->
+        </div></div>
+    
+    
+    
+    
+</div>
+<!--foot-->
+<div class="footWrap"><!--#begineditable name="版权1" viewid="161223" tagname="版权1" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><div class="footDiv_one">
+        <div class="foot_one">
+            <p>桂林电子科技大学©版权所有    桂ICP备 05000961号
+北海校区纪委    联系电话：0779-320000
+地址：广西北海市南珠大道9号桂林电子科技大学北海校区
+<img src="img/foot_icon.png"></p>
+        </div>
+    </div><!--#endeditable--><!--#begineditable name="多屏切换" viewid="161281" tagname="多屏切换" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><ul style="text-align:center;background-color:#224B77;">
+</ul><!--#endeditable--></div><script type="text/javascript">
+    $(function(){
+        $(".select").each(function(){
+            var s=$(this);
+            var z=parseInt(s.css("z-index"));
+            var dt=$(this).children("dt");
+            var dd=$(this).children("dd");
+            var _show=function(){dd.slideDown(200);dt.addClass("cur");s.css("z-index",z+1);};   //展开效果
+            var _hide=function(){dd.slideUp(200);dt.removeClass("cur");s.css("z-index",z);};    //关闭效果
+            dt.click(function(){dd.is(":hidden")?_show():_hide();});
+            dd.find("a").click(function(){dt.html($(this).html());_hide();});     //选择效果（如需要传值，可自定义参数，在此处返回对应的“value”值 ）
+            $("body").click(function(i){ !$(i.target).parents(".select").first().is(s) ? _hide():"";});
+        })
+    });
+</script><script type="text/javascript">
+    $(function () {
+    //切换对象为其他，这里为包含图片和标题的层
+        $('#change_32 div.changeDiv').soChange({//对象指向层，层内包含图片及标题
+            thumbObj:'#change_32 .ul_change_a2 span',
+            thumbNowClass:'on'//自定义导航对象当前class为on
+        });
+    });
+</script><script type="text/javascript">
+    $(".pic ul li").hover(function(){
+        $(this).stop(true).animate({width:"824px"},500).siblings().stop(true).animate({width:"50px"},500);
+    });
+</script>
+
+</body></html>
+<!DOCTYPE html>
+<html><head><title>桂林电子科技大学北海校区清风网</title><META Name="keywords" Content="北海校区，清风网" />
+
+
+
+
+
+<meta charset="utf-8"><link rel="stylesheet" type="text/css" href="css/style.css"><link rel="stylesheet" type="text/css" href="css/publice.css"><script type="text/javascript" src="js/jquery-1.8.3.min.js"></script><script type="text/javascript" src="js/jquery.js"></script><script type="text/javascript" src="js/superslide.2.1.js"></script><script type="text/javascript" src="js/jquery.soChange.js"></script><script type="text/javascript" src="js/index.js"></script><script type="text/javascript">
+    $(function(){
+        $(".mainmenu dl").hide();
+        $("li.mainmenu").hover(function(){
+            $(this).find("dl").stop(true,true);
+            $(this).find("dl").slideDown();
+        },function(){
+            $(this).find("dl").stop(true,true);
+            $(this).find("dl").slideUp();
+        });
+    })
+</script>
+
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="index.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1033,'/index.jsp',-1,1453679873)</script>
+</head>
+<body><!--top s-->
+<div class="topWrap clearfix">
+<div class="topDiv"><!--#begineditable name="高校LOGO" viewid="161173" tagname="高校LOGO" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""-->
+<!-- 网站logo图片地址请在本组件"内容配置-网站logo"处填写 -->
+<div class="logo">
+<a href="index.htm"><img src="images/logo2.png"></a>
+</div><!--#endeditable-->
+</div></div><!--nav--><!--#begineditable name="主导航" viewid="161176" tagname="主导航" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><div class="navWrap  clearfix">
+    <div class="nav">
+    <ul>
+			<li>
+			<a class="link" href="index.htm">首页</a>
+						
+		</li>
+		<li class="mainmenu">
+		    <a class="link" href="jgzn.htm">机构职能</a>
+			<!--如果是导航字数很多，则加上 class="chang"，否则去掉即可-->
+			<dl>
+					<dd><a href="jgzn/gzzz.htm">工作职责</a></dd>
+					<dd><a href="jgzn/rygc.htm">人员构成</a></dd>
+					<dd><a href="jgzn/gzcx.htm">工作程序</a></dd>
+			</dl>
+		</li>
+		<li class="mainmenu">
+		    <a class="link" href="xxdt.htm">信息动态</a>
+			<!--如果是导航字数很多，则加上 class="chang"，否则去掉即可-->
+			<dl>
+					<dd><a href="xxdt/zhbd.htm">综合报道</a></dd>
+					<dd><a href="xxdt/tzgg.htm">通知公告</a></dd>
+					<dd><a href="xxdt/ajtb.htm">案件通报</a></dd>
+					<dd><a href="xxdt/lzyw.htm">廉政要闻</a></dd>
+			</dl>
+		</li>
+		<li class="mainmenu">
+		    <a class="link" href="rdgz.htm">热点关注</a>
+			<!--如果是导航字数很多，则加上 class="chang"，否则去掉即可-->
+			<dl>
+					<dd><a href="rdgz/gngz.htm">国内关注</a></dd>
+					<dd><a href="rdgz/gxgz.htm">高校关注</a></dd>
+					<dd><a href="rdgz/rdtb.htm">热点通报</a></dd>
+					<dd><a href="rdgz/ryry.htm">热言热议</a></dd>
+			</dl>
+		</li>
+		<li class="mainmenu">
+		    <a class="link" href="djfg.htm">党纪法规</a>
+			<!--如果是导航字数很多，则加上 class="chang"，否则去掉即可-->
+			<dl>
+					<dd><a href="djfg/dnfg.htm">党内法规</a></dd>
+					<dd><a href="djfg/flfg.htm">法律法规</a></dd>
+					<dd><a href="djfg/jszc.htm">警示之窗</a></dd>
+					<dd><a href="djfg/qlby.htm">勤廉榜样</a></dd>
+					<dd><a href="djfg/xsgw.htm">学思感悟</a></dd>
+			</dl>
+		</li>
+		<li class="mainmenu">
+		    <a class="link" href="ljwh.htm">廉洁文化</a>
+			<!--如果是导航字数很多，则加上 class="chang"，否则去掉即可-->
+			<dl>
+					<dd><a href="ljwh/xxjc.htm">学习教材</a></dd>
+					<dd><a href="ljwh/yczp.htm">原创作品</a></dd>
+					<dd><a href="ljwh/gyjj.htm">格言警句</a></dd>
+					<dd><a href="ljwh/lzsw.htm">廉政书屋</a></dd>
+					<dd><a href="ljwh/yxsp.htm">音像视频</a></dd>
+					<dd><a href="ljwh/mhgs.htm">漫画故事</a></dd>
+			</dl>
+		</li>
+		<li class="mainmenu">
+		    <a class="link" href="xfjb.htm">信访举报</a>
+			<!--如果是导航字数很多，则加上 class="chang"，否则去掉即可-->
+			<dl>
+					<dd><a href="xfjb/jbzn.htm">举报指南</a></dd>
+					<dd><a href="xfjb/wyjb.htm">我要举报</a></dd>
+			</dl>
+		</li>
+		<li class="mainmenu">
+		    <a class="link" href="zlxz.htm">资料下载</a>
+			<!--如果是导航字数很多，则加上 class="chang"，否则去掉即可-->
+			<dl>
+					<dd><a href="zlxz/jjwj.htm">纪检文件</a></dd>
+					<dd><a href="zlxz/cybg.htm">常用表格</a></dd>
+			</dl>
+		</li>
+     
+    </ul>
+</div>
+</div>
+<script type="text/javascript">
+
+	$(".mainmenu dl").hide();
+
+</script><!--#endeditable--><!--banner-->
+<div class="vsb-box">
+    <div columns="6" containerid="1" class="vsb-container a">
+        <!--banner3-->
+        
+    <div class="vsb-space banner_three" columns="6"><!--#begineditable name="banner变换" action="webber.wbst.com.image.ColumnImage" layout="/system/_component/columnimage/bannerchangeimage.jsp" tpltype="0" contype="image" clone="" viewid="164862" contentviewid="" tagname="banner变换"--><style type="text/css">
+ul,li{
+    padding:0;
+    margin:0;
+    list-style:none;}
+#flashBoxu_u2_{
+    width:980px;
+    height:335px;
+    border:0px solid #EEE;
+    position:relative;
+    margin-left: auto;
+    margin-right: auto;}
+#flashBoxu_u2_ img{
+    /*初始不要显示*/
+    display:none;
+    /*用边框来实现空位，因为margin和paading有时会引起些麻烦*/
+    border:0px solid #FFF;}
+#flashBoxu_u2_ ul{
+    display:none;
+    position:absolute;
+    right:7px;
+    bottom:3px;
+    font:9px tahoma;}
+#flashBoxu_u2_ ul li{
+    display:none;
+    float:left;
+    width:12px;
+    height:12px;
+    line-height:12px;
+    margin-right:3px;
+    border:0px solid #999;
+    background:#F0F0F0;
+    text-align:center;
+    cursor:pointer;}
+#flashBoxu_u2_ ul li.hover{
+    border-color:red;
+    background:#FFE1E1;
+    color:red;}
+</style>
+<script type="text/javascript">
+function flashBoxCtrl(o){
+    this.obj=document.getElementById(o);
+    //这个私有方法虽然写了，但暂时没用到
+    function addListener(ele,eventName,functionBody){
+        if (ele.attachEvent){
+            ele.attachEvent("on"+eventName, functionBody);
+        }else if (ele.addEventListener){
+            ele.addEventListener("on"+eventName,functionBody, false);
+        }else{
+            return false;
+        }
+    }
+    //初始化
+    this.init=function(){
+        var objImg=this.obj.getElementsByTagName("img");
+        var tagLength=objImg.length;
+        if (tagLength>0){
+            var oUl=document.createElement("ul");
+            oUl.setAttribute("id",o+"numTag");
+            for (var i=0;i<tagLength;i++){
+                var oLi=oUl.appendChild(document.createElement("li"));
+                if (i==0){
+                    oLi.setAttribute("class","hover"); //初始化时把第一个设置为高亮
+                    oLi.setAttribute("className","hover");
+                }
+                //设置标签的数字
+                oLi.appendChild(document.createTextNode((i+1)));
+            }
+            this.obj.appendChild(oUl);
+            objImg[0].style.display="block";
+            //设置标签事件
+            var oTag=this.obj.getElementsByTagName("li");
+            for (var i=0;i<oTag.length;i++){
+                var flag = 0;
+                var temp = 0;
+                var timeout=null;
+                var step = function(){
+                    for (j=0;j<oTag.length;j++){
+                        oTag[j].className="";
+                        objImg[j].style.display="none";
+                    }
+                    this.className="hover";
+                    flag = flag>=oTag.length-1?0:flag+1;
+                    objImg[flag].style.display="block";
+                    oTag[flag].className = "hover";
+                    timeout = setTimeout(step,4000);
+                };
+                oTag[i].onmouseover=function(){
+                    for (j=0;j<oTag.length;j++){
+                        oTag[j].className="";
+                        objImg[j].style.display="none";
+                        temp = j;
+                    }
+                    this.className="hover";
+                    objImg[this.innerHTML-1].style.display="block";
+                    temp = this.innerHTML-1;
+                    flag = i;
+                    clearInterval(timeout);
+                }
+                oTag[i].onmouseout = function(){
+                    for (j=0;j<oTag.length;j++){
+                        oTag[j].className="";
+                        objImg[j].style.display="none";
+                    }
+                    flag = temp;
+                    objImg[temp].style.display="block";
+                    oTag[temp].className = "hover";
+                    timeout = setTimeout(step,4000);
+                }
+                if(i==0)
+                {
+                    timeout = setTimeout(step,4000);
+                }
+            }
+        }
+    };
+    //自动滚动的方法还没写
+    this.imgRoll=function(){};
+    //生成对象时自动加载init()方法以初始化对象
+    this.init();
+}
+</script>
+<table cellspacing="0" cellpadding="0" border="0"><tr><td><div id="flashBoxu_u2_"><a href="#" target="_blank"><img src="images/banner.png" border="0" width="980" height="335" /></a><a href="#" target="_blank"><img src="images/banner1.png" border="0" width="980" height="335" /></a></div></td></tr></table><SCRIPT language="JavaScript">new flashBoxCtrl("flashBoxu_u2_");</SCRIPT><!--#endeditable--></div></div>
+</div>
+<div></div><!--container-->
+<div class="vsb-box">
+    
+    <div columns="6" containerid="2" class="vsb-container container clearfix">
+        
+        <!--学者社区-->
+            
+        <!--新闻信息6-->
+                
+    <div class="vsb-space informBox informBoxb informBoxb2 fl" columns="2">
+                <div id="tab">
+                    <ul class="tab_menu clearfix">
+<li class="selected">通知公告 </li>
+<li>案件通报 </li></ul>
+                    <div class="tab_box">
+                        <!--#begineditable name="2个标签切换的7条文章第一个" viewid="161192" tagname="2个标签切换的7条文章第一个" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><script language="javascript" src="/system/resource/js/dynclicks.js"></script><div>
+                             <ul>
+<li><a href="info/1045/1118.htm">关于印发《桂林电子科技大学2018年纪检监…</a></li>
+<li><a href="info/1033/1112.htm">桂林校区党支部联合开展学宪法学党章活动</a></li>
+<li><a href="info/1033/1111.htm">“不忘初心，继续前进”桂林校区党支部联…</a></li>
+<li><a href="info/1033/1110.htm">设计系第一学生党支部观看学习纪念马克思…</a></li>
+<li><a href="info/1033/1109.htm">信息与通信工程系及物流管理系教工党支部…</a></li>
+<li><a href="info/1033/1108.htm">信息与通信工程系第二学生党支召开党团共…</a></li>
+<li><a href="info/1045/1107.htm">桂林电子科技大学督办工作实施办法(试行)</a></li>
+<li><a href="info/1045/1104.htm">中共中央 国务院印发《关于加强和改进新…</a></li>
+                                 
+                             </ul>
+                        </div><script>_showDynClickBatch(['dynclicks_u3_1118','dynclicks_u3_1112','dynclicks_u3_1111','dynclicks_u3_1110','dynclicks_u3_1109','dynclicks_u3_1108','dynclicks_u3_1107','dynclicks_u3_1104'],[1118,1112,1111,1110,1109,1108,1107,1104],"wbnews", 1453679873)</script>
+<!--#endeditable-->
+                        <!--#begineditable name="2个标签切换的7条文章第二个" viewid="161193" tagname="2个标签切换的7条文章第二个" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><div class="hide1">
+                             <ul>
+<li><a href="info/1045/1118.htm">关于印发《桂林电子科技大学2018年纪检监…</a></li>
+<li><a href="info/1045/1107.htm">桂林电子科技大学督办工作实施办法(试行)</a></li>
+<li><a href="info/1045/1104.htm">中共中央 国务院印发《关于加强和改进新…</a></li>
+<li><a href="info/1045/1103.htm">学校举办校纪委委员、二级纪委书记、纪检…</a></li>
+<li><a href="info/1045/1102.htm">校领导送新一轮“美丽广西”乡村建设（扶…</a></li>
+<li><a href="info/1045/1098.htm">学校召开干部压力管理与心理调适培训会（…</a></li>
+<li><a href="info/1045/1099.htm">我校召开基层党组织书记集体约谈会（图）</a></li>
+<li><a href="info/1045/1100.htm">校纪委赴贺州市八步区桂岭镇开展扶贫领域…</a></li>
+                                 
+                             </ul>
+                        </div><script>_showDynClickBatch(['dynclicks_u4_1118','dynclicks_u4_1107','dynclicks_u4_1104','dynclicks_u4_1103','dynclicks_u4_1102','dynclicks_u4_1098','dynclicks_u4_1099','dynclicks_u4_1100'],[1118,1107,1104,1103,1102,1098,1099,1100],"wbnews", 1453679873)</script>
+<!--#endeditable-->
+                    </div>
+                </div>
+            </div><div class="vsb-space new_inforBox new_inforBox1 new_inforBoxb fl" columns="4">
+            <div class="dynamic dynamicd">
+                <h2>综合报道</h2><span><a href="index/xwxx.htm"><img src="temp/more.png" oldsrc="temp/more.png"></a></span></div>
+        
+            <div class="newBox">
+                <div class="new_pic new_pica new_pica3">
+                    <!--#begineditable name="圆点5张图片切换带标题" viewid="161232" tagname="圆点5张图片切换带标题" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><div id="slideBox" class="slideBox slideBox6 slideBoxa">
+<div class="hd">						
+                                <ul>
+                                                              <li></li>
+                              <li></li>
+                              <li></li>
+                              <li></li>
+                              <li></li>
+                                
+                                </ul>
+                            </div>
+                            <div class="bd">
+                                <ul>
+                                    
+<li><a title="学校举办校纪委委员、二级纪委书记、纪检委员、纪检监察干部培训班（图）" href="info/1045/1103.htm" target="_self"><img src="/__local/B/D8/C0/32D44FF214A694D4876E2AC2FD3_26BC0F98_26B8D.png"><p>学校举办校纪委委员、二级纪委书记…</p></a></li>
+                                    
+<li><a title="校领导送新一轮“美丽广西”乡村建设（扶贫）工作队员赴任（图）" href="info/1045/1102.htm" target="_self"><img src="/__local/A/70/FE/87ADC1F4A8A3863A47F5E9E8518_3D4863BE_1B63D.jpg"><p>校领导送新一轮“美丽广西”乡村建…</p></a></li>
+                                    
+<li><a title="学校召开干部压力管理与心理调适培训会（图）" href="info/1045/1098.htm" target="_self"><img src="/__local/B/88/8B/08A05B38C64211A9379B0DCAF53_0CE8ED83_2BD5C.jpg"><p>学校召开干部压力管理与心理调适培…</p></a></li>
+                                    
+<li><a title="我校召开基层党组织书记集体约谈会（图）" href="info/1045/1099.htm" target="_self"><img src="/__local/D/F8/9A/1D486F130ECA31E3E6C371EB468_2F999EDF_3F6E4.jpg"><p>我校召开基层党组织书记集体约谈会…</p></a></li>
+                                    
+<li><a title="校纪委赴贺州市八步区桂岭镇开展扶贫领域工作调研（图）" href="info/1045/1100.htm" target="_self"><img src="/__local/2/9B/88/1A20252DAF3E39FC96F11DFD40E_D2168A54_BD4D4.jpg"><p>校纪委赴贺州市八步区桂岭镇开展扶…</p></a></li>
+                                    
+</ul>
+                            </div>
+</div>
+                
+
+
+<script>_showDynClickBatch(['dynclicks_u5_1103','dynclicks_u5_1102','dynclicks_u5_1098','dynclicks_u5_1099','dynclicks_u5_1100'],[1103,1102,1098,1099,1100],"wbnews", 1453679873)</script>
+<!--#endeditable-->
+                </div>
+                <div class="new_list new_lista new_lista2">
+                    <!--#begineditable name="9条文章标题列表" viewid="161233" tagname="9条文章标题列表" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><ul class="dynamic_list dynamic_lista fr">
+                             
+<li><a href="info/1045/1118.htm"><span>05/23</span><em>关于印发《桂林电子科技大学2018年纪检…</em></a></li>
+                             
+<li><a href="info/1045/1107.htm"><span>05/18</span><em>桂林电子科技大学督办工作实施办法(试…</em></a></li>
+                             
+<li><a href="info/1045/1104.htm"><span>05/18</span><em>中共中央 国务院印发《关于加强和改进…</em></a></li>
+                             
+<li><a href="info/1045/1103.htm"><span>05/18</span><em>学校举办校纪委委员、二级纪委书记、纪…</em></a></li>
+                             
+<li><a href="info/1045/1102.htm"><span>05/18</span><em>校领导送新一轮“美丽广西”乡村建设（…</em></a></li>
+                             
+<li><a href="info/1045/1098.htm"><span>04/05</span><em>学校召开干部压力管理与心理调适培训会…</em></a></li>
+                             
+<li><a href="info/1045/1099.htm"><span>04/03</span><em>我校召开基层党组织书记集体约谈会（图）</em></a></li>
+                             
+<li><a href="info/1045/1100.htm"><span>04/02</span><em>校纪委赴贺州市八步区桂岭镇开展扶贫领…</em></a></li>
+                             
+<li><a href="info/1045/1101.htm"><span>04/02</span><em>学校举办校纪委委员、二级纪委书记、纪…</em></a></li>
+                             
+</ul>
+
+
+<script>_showDynClickBatch(['dynclicks_u6_1118','dynclicks_u6_1107','dynclicks_u6_1104','dynclicks_u6_1103','dynclicks_u6_1102','dynclicks_u6_1098','dynclicks_u6_1099','dynclicks_u6_1100','dynclicks_u6_1101'],[1118,1107,1104,1103,1102,1098,1099,1100,1101],"wbnews", 1453679873)</script>
+<!--#endeditable-->
+                </div>
+            </div>
+        </div></div>
+    
+    <div columns="6" containerid="2" class="vsb-container container clearfix">
+        
+        <!--通知公告-->
+        
+        <!--通知公告-->
+        
+    <div class="vsb-space informBox informBoxb fl" columns="1">
+            <!--#begineditable name="全文检索" viewid="161190" tagname="全文检索" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><script type="text/javascript">
+    function _nl_ys_check(){
+        
+        var keyword = document.getElementById('showkeycode161190').value;
+        if(keyword==null||keyword==""){
+            alert("请输入你要检索的内容！");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkeyword161190").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkeyword161190").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkeyword161190").value = base64.encode(document.getElementById("lucenenewssearchkeyword161190").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode161190"));
+        return true;
+    } 
+ function submitForm()
+    {
+        document.getElementById("au7a").submit();
+    }
+</script>
+
+<form action="ssjg.jsp?wbtreeid=1033" method="post" id="au7a" name="au7a" onsubmit="return _nl_ys_check()" style="display: inline">
+ <input type="hidden" id="lucenenewssearchkeyword161190" name="lucenenewssearchkeyword" value=""><input type="hidden" id="_lucenesearchtype161190" name="_lucenesearchtype" value="1"><input type="hidden" id="searchScope161190" name="searchScope" value="1">
+ 
+<div class="dynamic dynamicc"><h2>站内搜索</h2></div>
+                <input id="showkeycode161190" type="text" class="search_text" name="showkeycode" value="请输入搜索关键字" onfocus="if(this.value=='请输入搜索关键字')this.value='';" onblur="if(this.value=='')this.value='请输入搜索关键字';" />
+                <input type="submit" value="搜索" class="h_button" />
+     </form>         
+<script language="javascript" src="/system/resource/js/base64.js"></script><script language="javascript" src="/system/resource/js/formfunc.js"></script>
+<!--#endeditable-->
+            <!--#begineditable name="检索下面3个树形图片列表" viewid="161191" tagname="检索下面3个树形图片列表" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""-->    <div class="zp_pic">
+<a href="info/1079/1128.htm"><img src="images/jbzn.png"></a>
+<a href="info/1080/1129.htm"><img src="images/wyjb.png"></a>
+                </div><!--#endeditable-->
+        </div><div class="vsb-space informBox informBoxd informBoxc1 fl" columns="2">
+            <!--#begineditable name="8条蓝背景标题列表" viewid="161210" tagname="8条蓝背景标题列表" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""-->                <div class="dynamic dynamicb dynamice"><h2>廉政要闻</h2><span><a href="index/tzgg.htm"><img src="img/w_more.png"></a></span></div>
+                <div class="infor_list infor_lista">
+                    <ul class="dynamic_list dynamic_listb dynamic_liste fr">
+<li><a href="info/1045/1118.htm"><span>05/23</span><em>关于印发《桂林电子科技大学2018年纪检...</em></a></li>
+<li><a href="info/1045/1107.htm"><span>05/18</span><em>桂林电子科技大学督办工作实施办法(试行)</em></a></li>
+<li><a href="info/1045/1104.htm"><span>05/18</span><em>中共中央 国务院印发《关于加强和改进新...</em></a></li>
+<li><a href="info/1045/1103.htm"><span>05/18</span><em>学校举办校纪委委员、二级纪委书记、纪...</em></a></li>
+<li><a href="info/1045/1102.htm"><span>05/18</span><em>校领导送新一轮“美丽广西”乡村建设（...</em></a></li>
+<li><a href="info/1045/1098.htm"><span>04/05</span><em>学校召开干部压力管理与心理调适培训会...</em></a></li>
+<li><a href="info/1045/1099.htm"><span>04/03</span><em>我校召开基层党组织书记集体约谈会（图）</em></a></li>
+<li><a href="info/1045/1100.htm"><span>04/02</span><em>校纪委赴贺州市八步区桂岭镇开展扶贫领...</em></a></li>
+
+                     </ul>
+                 </div>
+<script>_showDynClickBatch(['dynclicks_u9_1118','dynclicks_u9_1107','dynclicks_u9_1104','dynclicks_u9_1103','dynclicks_u9_1102','dynclicks_u9_1098','dynclicks_u9_1099','dynclicks_u9_1100'],[1118,1107,1104,1103,1102,1098,1099,1100],"wbnews", 1453679873)</script>
+<!--#endeditable-->
+        </div><div class="vsb-space informBox informBoxd informBoxc1 fl" columns="2"><!--#begineditable name="图片列表" action="webber.wbst.com.image.ColumnImage" layout="/system/_component/columnimage/imagelist.jsp" tpltype="0" contype="image" clone="" viewid="164961" contentviewid="" tagname="图片列表"-->
+
+
+
+
+
+<table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+    <td><a href="images/qlby.png" target="_blank" onclick="_addDynClicks('wbimage',1453679873,32546)"><img src="images/qlby.png" width="314" height="100" hspace="10" vspace="10" border="0"></a></td>
+        </tr>
+        <tr>
+    <td><a href="images/lzkt.png" target="_blank" onclick="_addDynClicks('wbimage',1453679873,32545)"><img src="images/lzkt.png" width="314" height="100" hspace="10" vspace="10" border="0"></a></td>
+        </tr>
+        <tr>
+    <td><a href="images/rdgz.png" target="_blank" onclick="_addDynClicks('wbimage',1453679873,32544)"><img src="images/rdgz.png" width="314" height="100" hspace="10" vspace="10" border="0"></a></td>
+        </tr>
+        </table><!--#endeditable--></div></div>
+    
+    <div columns="6" containerid="2" class="vsb-container container clearfix">  
+        
+    <div class="vsb-space content contentf" columns="6">
+            <!--#begineditable name="横向链接1" viewid="161218" tagname="横向链接1" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><script language="javascript" src="/system/resource/js/openlink.js"></script><div class="link_one clearfix">
+            <dl>
+                <dt>校内链接</dt>
+<dd>
+
+<a href="http://gdbh.guet.edu.cn/">北海校区管理委员会</a>
+
+
+
+<a href="http://hyxy.guet.edu.cn/">海洋信息工程学院</a>
+
+
+
+<a href="http://zzb.guet.cn/">组织部</a>
+
+
+
+<a href="http://www.guet.edu.cn/jwjc/">纪检监察网</a>
+
+
+
+<a href="http://guetoa.guet.edu.cn/">党政办公室</a>
+
+
+<a href="http://www.guet.edu.cn/" class="cur">桂林电子科技大学</a>
+
+
+    </dd>         
+            </dl>
+        </div>
+
+
+<!--#endeditable-->
+            <!--#begineditable name="横向链接2" viewid="161225" tagname="横向链接2" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><div class="link_one link_onea">
+           <dl class="clearfix">
+                <dt>其他链接</dt>
+<dd>
+
+               <a href="http://www.ccdi.gov.cn/">中央纪委监察部网</a>
+
+               <a href="http://www.lzqf.cn/">中国廉政网</a>
+
+               <a href="http://www.12371.cn/">共产党员网</a>
+
+               <a href="http://www.jcrb.com/">正义网</a>
+
+               <a href="http://www.gxjjw.gov.cn/">广西纪检监察网</a>
+<a href="http://www.chinanews.com/" class="cur">中国新闻网</a>
+   </dd>
+            </dl>
+        </div>
+
+<!--#endeditable-->
+        </div></div>
+    
+    
+    
+    
+</div>
+<!--foot-->
+<div class="footWrap"><!--#begineditable name="版权1" viewid="161223" tagname="版权1" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><div class="footDiv_one">
+        <div class="foot_one">
+            <p>桂林电子科技大学©版权所有    桂ICP备 05000961号
+北海校区纪委    联系电话：0779-320000
+地址：广西北海市南珠大道9号桂林电子科技大学北海校区
+<img src="img/foot_icon.png"></p>
+        </div>
+    </div><!--#endeditable--><!--#begineditable name="多屏切换" viewid="161281" tagname="多屏切换" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><ul style="text-align:center;background-color:#224B77;">
+</ul><!--#endeditable--></div><script type="text/javascript">
+    $(function(){
+        $(".select").each(function(){
+            var s=$(this);
+            var z=parseInt(s.css("z-index"));
+            var dt=$(this).children("dt");
+            var dd=$(this).children("dd");
+            var _show=function(){dd.slideDown(200);dt.addClass("cur");s.css("z-index",z+1);};   //展开效果
+            var _hide=function(){dd.slideUp(200);dt.removeClass("cur");s.css("z-index",z);};    //关闭效果
+            dt.click(function(){dd.is(":hidden")?_show():_hide();});
+            dd.find("a").click(function(){dt.html($(this).html());_hide();});     //选择效果（如需要传值，可自定义参数，在此处返回对应的“value”值 ）
+            $("body").click(function(i){ !$(i.target).parents(".select").first().is(s) ? _hide():"";});
+        })
+    });
+</script><script type="text/javascript">
+    $(function () {
+    //切换对象为其他，这里为包含图片和标题的层
+        $('#change_32 div.changeDiv').soChange({//对象指向层，层内包含图片及标题
+            thumbObj:'#change_32 .ul_change_a2 span',
+            thumbNowClass:'on'//自定义导航对象当前class为on
+        });
+    });
+</script><script type="text/javascript">
+    $(".pic ul li").hover(function(){
+        $(this).stop(true).animate({width:"824px"},500).siblings().stop(true).animate({width:"50px"},500);
+    });
+</script>
+
+</body></html>

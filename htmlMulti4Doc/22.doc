@@ -1,0 +1,321 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><HTML><HEAD><TITLE>桂林电子科技大学60周年校庆</TITLE><META Name="keywords" Content="桂林电子科技大学60周年校庆官方网站" />
+
+
+
+
+
+<META content="text/html; charset=UTF-8" http-equiv="Content-Type">
+<META name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"><LINK rel="stylesheet" type="text/css" href="css/GuetWeb.css"><!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<STYLE>
+        #category_1 a p {
+            height: 120px;
+            width: 221px;
+            word-wrap: break-word;
+            display: inline-block;
+            overflow: hidden;
+            text-overflow: ellipsis;}
+
+        #category_9 span {
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;}
+            
+    </STYLE>
+
+
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="index.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/vsbscreen.min.js" id="_vsbscreen" devices="pc|pad"></script>
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1363,'/index.jsp',-1,1630066771)</script>
+</HEAD>
+<BODY><!--第一：头部内容-->
+<DIV class="topbanner">
+<DIV class="main-top"><A class="logo float-l" href="<span style='color:red;font-size:9pt'>转换链接错误</span>" target=""></A>
+<DIV class="headtoolbar float-r"><!--#begineditable clone="0" namechanged="0" order="0" ispublic="0" tagname="顶部链接" viewid="203207" contentviewid="" contype="" stylesysid="" layout="" action="" name="顶部链接"--><script language="javascript" src="/system/resource/js/dynclicks.js"></script><script language="javascript" src="/system/resource/js/openlink.js"></script><a target="_blank" href="http://www.gliet.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1630066771, 39492)" class="a_style1">【学校主页】</a>
+<!--#endeditable--><BR><BR>
+<DIV class="sear"><!--othersiteview  clone="0" namechanged="0" order="1" ispublic="0" tagname="简单检索" viewid="160194" contentviewid="" contype="" stylesysid="" layout="" action="" name="简单检索"--></DIV><!--#begineditable clone="" namechanged="0" order="0" ispublic="0" tagname="简单检索" viewid="203310" contentviewid="" contype="" stylesysid="" layout="" action="" name="简单检索"-->
+
+
+
+
+
+<form action="search.jsp?wbtreeid=1363" method="post" name="a203310a" onsubmit="return subsearchdataa203310a()" style="display: inline;">
+  <input type="hidden" name="Find" value="find"><input type="hidden" name="entrymode" value="1"><input type="hidden" id="INTEXT2" name="INTEXT2" value=""><input type="hidden" name="news_search_code">
+                <iframe id="intextframea203310a" src="about:blank" scrolling="no" frameborder="0" style="position:absolute;top:0px;left:0px;display:none;"></iframe>
+                <input name="INTEXT" id="qText" type="text" class="float-l sear_word" placeholder="查询关键字" value="" style="border-radius:5px; padding-left:10px">
+                 <input type="submit" name="FindButton" align="absmiddle" valign="bottom" value="" class="float-l sear_button">
+</form>
+
+<script>
+String.prototype.trim= function()       
+{              
+    var t = this.replace(/(^\s*)|(\s*$)/g, "");     
+    return t.replace(/(^　*)|(　*$)/g, "");     
+}  
+function subsearchdataa203310a()
+{ 
+    if(document.a203310a.INTEXT.value.trim()=="")
+    {
+        alert("请输入查询关键字！");
+        return false;
+    }
+    if(checkDataa203310a(document.a203310a))
+    {
+       return true;  
+    }
+    return false;
+}       
+</script>
+
+    <script> 
+    function checkDataa203310a(formname)
+    {
+        if(a203310a.INTEXT.value.trim()=="")
+        {
+            alert("请输入查询关键字！");
+            return false;
+        }       
+        var  base64 = new Base64();
+        if(window.toFF==1)
+            {
+                var ssvalue = a203310a.INTEXT.value;
+                document.a203310a.INTEXT2.value = base64.encode(Simplized(ssvalue));
+            }else
+            document.a203310a.INTEXT2.value = base64.encode(document.a203310a.INTEXT.value);
+           return true;
+    }
+    </script>
+<script language="javascript" src="/system/resource/js/base64.js"></script> 
+<!--#endeditable--></DIV></DIV><!--导航栏-->
+<DIV id="nav" class="nav"><!--#begineditable clone="0" namechanged="0" order="1" ispublic="0" tagname="网站导航" viewid="203209" contentviewid="" contype="" stylesysid="" layout="" action="" name="网站导航"--><ul id="navItems"> <!--  -->
+                <li class="frontMenu">  <!--  --> 
+                    <a href="index.htm" title="校庆首页">校庆首页</a>
+                </li>
+                <li class="frontMenu">  <!--  --> 
+                    <a href="zzjg.htm" title="组织机构">组织机构</a>
+                </li>
+                <li class="frontMenu">  <!--  --> 
+                    <a href="xqdt.htm" title="校庆动态">校庆动态</a>
+                </li>
+                <li class="frontMenu">  <!--  --> 
+                    <a href="xqgg.htm" title="校庆公告">校庆公告</a>
+                </li>
+                <li class="frontMenu">  <!--  --> 
+                    <a href="xgxz.htm" title="相关下载">相关下载</a>
+                </li>
+                <li class="frontMenu">  <!--  --> 
+                    <a href="mtbd.htm" title="媒体报道">媒体报道</a>
+                </li>
+                <li class="frontMenu">  <!--  --> 
+                    <a href="xyyx.htm" title="校园影像">校园影像</a>
+                </li>
+                <li class="frontMenu">  <!--  --> 
+                    <a href="" title="我要捐赠">我要捐赠</a>
+                    <ul>   <!-- class="sub-nav"  -->
+                        <li>
+                              <a href="https://h5.sosho.cn/fs/project/list.html?id=1792&from=groupmessage" target="_blank" title="在线捐赠">在线捐赠</a>
+                        </li>
+                        <li>
+                              <a href="wyjz/jzfs.htm" title="捐赠方式">捐赠方式</a>
+                        </li>
+                    </ul>
+                </li>
+                <li class="frontMenu">  <!--  --> 
+                    <a href="https://www.guet.edu.cn/xyb/" title="桂电校友">桂电校友</a>
+                </li>
+                <li class="frontMenu">  <!--  --> 
+                    <a href="xygy.htm" title="校友感言">校友感言</a>
+                </li>
+            </ul><!--#endeditable--></DIV><!--轮播图-->
+<DIV id="touchMain" class="slide-main"><A class="prev" href="javascript:;" stat="prev1001"><IMG src="images/l-btn.png"></A> <!--#begineditable clone="0" namechanged="0" order="2" ispublic="0" tagname="banner" viewid="203211" contentviewid="" contype="" stylesysid="" layout="" action="" name="幻灯图"--><div class="slide-box" id="slideContent">
+                <div class="slide" id="bgstylea">
+                   <!-- <div class="slide-text">校庆总图</div> -->
+                    <a target="_blank" href="info/1158/1098.htm"><img width="1280" height="410" src="/__local/D/34/D7/B6B073F8F79D4D7097D78E3DFB2_06CCC16D_3CDB6.jpg" /></a>
+                </div>  
+                <div class="slide" id="bgstylea">
+                   <!-- <div class="slide-text">金鸡岭奠基</div> -->
+                    <a target="_blank" href="info/1158/1096.htm"><img width="1280" height="410" src="/__local/C/CF/33/BEC9DA79875FBE78E7DF45B9A27_47758CED_3621B.jpg" /></a>
+                </div>  
+                <div class="slide" id="bgstylea">
+                   <!-- <div class="slide-text">80年代大门</div> -->
+                    <a target="_blank" href="info/1158/1095.htm"><img width="1280" height="410" src="/__local/7/40/D9/035AB4EA4A30BFA2828E8176332_355437E2_38CE6.jpg" /></a>
+                </div>  
+                <div class="slide" id="bgstylea">
+                   <!-- <div class="slide-text">90年代校门1</div> -->
+                    <a target="_blank" href="info/1158/1094.htm"><img width="1280" height="410" src="/__local/B/C2/D5/5B6F187C8B555102745ED84242E_D9692F0C_4441E.jpg" /></a>
+                </div>  
+                <div class="slide" id="bgstylea">
+                   <!-- <div class="slide-text">三十周年校庆</div> -->
+                    <a target="_blank" href="info/1158/1114.htm"><img width="1280" height="410" src="/__local/6/61/9E/3328569238EF68D4EE48B50366E_2B44B4B6_1C374.jpg" /></a>
+                </div>  
+                <div class="slide" id="bgstylea">
+                   <!-- <div class="slide-text">四十周年校庆</div> -->
+                    <a target="_blank" href="info/1158/1112.htm"><img width="1280" height="410" src="/__local/A/75/D6/77225DE84DC9A866A442FB068C5_FB39B3B3_35A55.jpg" /></a>
+                </div>  
+                <div class="slide" id="bgstylea">
+                   <!-- <div class="slide-text">五十周年校庆</div> -->
+                    <a target="_blank" href="info/1158/1111.htm"><img width="1280" height="410" src="/__local/E/9A/B0/FB605FE847AEB9250EE0595E07E_946A6C04_46922.jpg" /></a>
+                </div>  
+</div>
+<a class="next" href="javascript:;" stat="next1002"><img src="images/r-btn.png"></a>
+    <div id="items" class="item">
+    <a href="javascript:;" stat="item1001"></a>
+    <a href="javascript:;" stat="item1002"></a>
+    <a href="javascript:;" stat="item1003"></a>
+    <a href="javascript:;" stat="item1004"></a>
+    <a href="javascript:;" stat="item1005"></a>
+    <a href="javascript:;" stat="item1006"></a>
+    <a href="javascript:;" stat="item1007"></a>
+    </div><script>_showDynClickBatch(['dynclicks_u3_1098','dynclicks_u3_1096','dynclicks_u3_1095','dynclicks_u3_1094','dynclicks_u3_1114','dynclicks_u3_1112','dynclicks_u3_1111'],[1098,1096,1095,1094,1114,1112,1111],"wbnews", 1630066771)</script>
+<!--#endeditable--></DIV></DIV><!--/topbanner--><!--第二：主体内容-->
+<DIV class="content">
+<DIV class="con_tittle_mid">
+<UL id="tabs2" class="tabs">
+<LI class="thistab"><A href="xwzx/xsxq.htm" target="_self">学术校庆</A> </LI>
+<LI><A href="xwzx/whxq.htm" target="_self">文化校庆</A> </LI>
+<LI><A href="xwzx/xyxq.htm" target="_self">校友校庆</A> </LI></UL></DIV><!--21校庆开始-->
+<DIV class="news2 float-l margintop15 ">
+<DIV class="con_tittle">
+<P class="con_tittle_l float-l">校庆动态</P><A class="con_tittle_r float-r" href="xqdt.htm" target="_blank">更多&gt;&gt;</A> </DIV><!--/con_tittle-->
+<UL id="tab_conbox1">
+<LI class="new_imgtit" style="display: list-item"><!--#begineditable clone="0" namechanged="0" order="3" ispublic="0" tagname="校庆动态" viewid="203245" contentviewid="" contype="" stylesysid="" layout="" action="" name="校庆动态"--><a href="info/1352/1126.htm" target="_blank" title="我校召开60周年校庆第二次筹备工作推进会（图）">
+        <img alt="" src="/__local/6/32/B4/33854F9D94699C5B457E2F61DB6_17BA7400_387AC.jpg" width="221" height="141" float="left">
+        <h1>我校召开60周年校庆第二次筹备工作推进会（图）</h1>
+        <p>3月30日上午，我校在花江校区办公楼515会议室召开第二次60周年校庆筹...</p>
+ </a>    
+<a href="info/1352/1125.htm" target="_blank" title="计算机与信息安全学院召开校庆启动工作会议">
+        <img alt="" src="/system/resource/images/defaultimg.gif" width="221" height="141" float="left">
+        <h1>计算机与信息安全学院召开校庆启动工作会议</h1>
+        <p>2020年9月学校将迎来60周年华诞，同时也是计算机与信息安全学院40周年...</p>
+ </a>    
+<a href="info/1292/1121.htm" target="_blank" title="【文化校庆】艺术与设计学院举行学校60周年校庆纪念品方案初审会">
+        <img alt="" src="/__local/3/92/7F/8006FB86D3E6E80AD8C04CDE9DE_E614BA41_680D8.png" width="221" height="141" float="left">
+        <h1>【文化校庆】艺术与设计学院举行学校60周年校庆...</h1>
+        <p>​3月24日，艺术与设计学院在花江校区18教205室举行了学校60周年校庆...</p>
+ </a>    
+<a href="info/1352/1107.htm" target="_blank" title="校庆六十周年公告情牵师生、校友引发热烈反响（图）">
+        <img alt="" src="/__local/D/8D/05/B1A785065E7D84FF3056C6682B2_71AC6CC3_343AC.png" width="221" height="141" float="left">
+        <h1>校庆六十周年公告情牵师生、校友引发热烈反响（图）</h1>
+        <p>​3月19日，我校在校园网、官方微信公众号等正式发布桂林电子科技大学...</p>
+ </a>    
+<a href="info/1352/1101.htm" target="_blank" title="学校召开60周年校庆筹备工作推进会（图）">
+        <img alt="" src="/__local/E/DB/B5/0EBDC54618821D65FCECD7D8A28_F71A7ABA_3CE02.jpg" width="221" height="141" float="left">
+        <h1>学校召开60周年校庆筹备工作推进会（图）</h1>
+        <p>3月12日下午，我校在花江校区多功能厅召开60周年校庆筹备工作推进会，...</p>
+ </a>    
+<a href="info/1352/1102.htm" target="_blank" title="我校召开2019年“携手共进，喜迎学校60周年校庆”校友工作会议（图）">
+        <img alt="" src="/__local/4/BA/CC/49A7DEAE86C70BE45B25918713F_B126AED5_3DD98.jpg" width="221" height="141" float="left">
+        <h1>我校召开2019年“携手共进，喜迎学校60周年校庆...</h1>
+        <p>11月30日，我校召开2019年“携手共进，喜迎学校60周年校庆”校友工作...</p>
+ </a>    
+<script>_showDynClickBatch(['dynclicks_u4_1126','dynclicks_u4_1125','dynclicks_u4_1121','dynclicks_u4_1107','dynclicks_u4_1101','dynclicks_u4_1102'],[1126,1125,1121,1107,1101,1102],"wbnews", 1630066771)</script>
+<!--#endeditable--></LI></UL></DIV><!--/news2 float-l margintop15--><!--22校庆结束-->
+<DIV class="newsflash float-r margintop15" style="height: 260px; width: 470px">
+<DIV class="con_tittle">
+<P class="con_tittle_l float-l">校庆公告</P><A class="con_tittle_r float-r" href="xqgg.htm" target="_blank">更多&gt;&gt;</A> </DIV>
+<UL id="tab_conbox2" class="new_list">
+<LI style="display: list-item"><!--#begineditable clone="0" namechanged="0" order="4" ispublic="0" tagname="校庆公告" viewid="203246" contentviewid="" contype="" stylesysid="" layout="" action="" name="校庆公告"-->   <a href="info/1351/1086.htm" target="_blank" title="桂林电子科技大学校庆六十周年公告(第1号)" target="_blank"><span>03-19</span><span> 桂林电子科技大学校庆六十周年公告(第1号)</span> </a>
+   <a href="info/1351/1124.htm" target="_blank" title="【校史馆捐赠活动】点滴都是爱！母校校史馆重建需要“众人拾柴”" target="_blank"><span>03-27</span><span> 【校史馆捐赠活动】点滴都是爱！母校校史馆重建需要“众人拾柴”</span> </a>
+   <a href="info/1351/1087.htm" target="_blank" title="【照片征集活动】上传青春照片 分享桂电记忆" target="_blank"><span>03-23</span><span> 【照片征集活动】上传青春照片 分享桂电记忆</span> </a>
+   <a href="info/1351/1109.htm" target="_blank" title="【校庆标识征集活动】桂电60周年校庆标识邀你来设计" target="_blank"><span>03-13</span><span> 【校庆标识征集活动】桂电60周年校庆标识邀你来设计</span> </a>
+<script>_showDynClickBatch(['dynclicks_u5_1086','dynclicks_u5_1124','dynclicks_u5_1087','dynclicks_u5_1109'],[1086,1124,1087,1109],"wbnews", 1630066771)</script>
+<!--#endeditable--></LI></UL></DIV>
+<DIV class="newsflash float-r margintop15" style="height: 370px; width: 472px">
+<DIV class="con_tittle">
+<P class="con_tittle_l float-l">媒体报道</P><A class="con_tittle_r float-r" href="mtbd.htm" target="_blank">更多&gt;&gt;</A> </DIV>
+<UL id="tab_conbox3" class="new_list">
+<LI style="display: list-item"><!--#begineditable clone="0" namechanged="0" order="5" ispublic="0" tagname="媒体报道" viewid="203247" contentviewid="" contype="" stylesysid="" layout="" action="" name="媒体报道"--> <li id="category_2" style="display: list-item">
+   <a href="info/1349/1088.htm" target="_blank" title="中国教育在线：桂林电子科技大学校庆60周年公告第1号" target="_blank"><span>03-23</span><span> 中国教育在线：桂林电子科技大学校庆60周年公告第1号</span> </a>
+<script>_showDynClickBatch(['dynclicks_u6_1088'],[1088],"wbnews", 1630066771)</script>
+<!--#endeditable--></LI></UL></DIV><!-- 23专题和快捷导航-->
+<DIV class="newsflash float-l margintop15" style="height: 500px; width: 1280px">
+<DIV class="con_tittle" style="height: 40px; width: 100%">
+<P class="con_tittle_l float-l">校园影像</P><A class="con_tittle_r float-r" href="xyyx.htm" target="_blank">更多&gt;&gt;</A> </DIV>
+<DIV class="imglist2 float-l margintop15"><!--#begineditable clone="0" namechanged="0" order="6" ispublic="0" tagname="校园影像" viewid="203297" contentviewid="" contype="" stylesysid="" layout="" action="" name="校园影像"--><a href="info/1354/1057.htm" target="_blank" title="紫荆花雨">
+        <img alt="" src="/__local/7/0A/89/BBAF8C3F6F9666E2FEED57768F6_4442BC68_83E2D.jpg" width="310" height="200" float="left">
+               </a>    
+<a href="info/1354/1105.htm" target="_blank" title="花江校区">
+        <img alt="" src="/__local/6/69/99/206440C46FE6072FDCFE3905FFC_8FDE19A6_5CDC4.jpg" width="310" height="200" float="left">
+               </a>    
+<a href="info/1354/1117.htm" target="_blank" title="致桂电校友|你是我最美的遇见">
+        <img alt="" src="/__local/9/2E/39/2B7EC1BB8563D90960A3276E9ED_802FBCCB_6ACD7.png" width="310" height="200" float="left">
+               </a>    
+<a href="info/1354/1119.htm" target="_blank" title="校运会">
+        <img alt="" src="/__local/4/65/49/82F75A992FF29E9B58A9C96DC05_CC86AF30_67B5B.jpg" width="310" height="200" float="left">
+               </a>    
+<a href="info/1354/1045.htm" target="_blank" title="毕业季">
+        <img alt="" src="/__local/0/33/7E/62B648C951EFF5D262A70ECF143_F9A46340_37821.jpg" width="310" height="200" float="left">
+               </a>    
+<a href="info/1354/1115.htm" target="_blank" title="落花">
+        <img alt="" src="/__local/3/8A/33/291033E6D3F23699D3AA57443D2_5B657040_64D62.jpg" width="310" height="200" float="left">
+               </a>    
+<a href="info/1354/1110.htm" target="_blank" title="烟雨校园2020">
+        <img alt="" src="/__local/3/24/7D/085BE452BD6EA2694D2857865CD_9DA28DDF_2F6E7.jpg" width="310" height="200" float="left">
+               </a>    
+<a href="info/1354/1085.htm" target="_blank" title="日出日落">
+        <img alt="" src="/__local/3/F4/3F/CC5A43D27DAC0FAC4786F435A8A_56E07594_13D49.jpg" width="310" height="200" float="left">
+               </a>    
+<script>_showDynClickBatch(['dynclicks_u7_1057','dynclicks_u7_1105','dynclicks_u7_1117','dynclicks_u7_1119','dynclicks_u7_1045','dynclicks_u7_1115','dynclicks_u7_1110','dynclicks_u7_1085'],[1057,1105,1117,1119,1045,1115,1110,1085],"wbnews", 1630066771)</script>
+<!--#endeditable--></DIV></DIV></DIV><!-- content--><!-- 第三 底部-->
+<DIV class="footerimg"></DIV>
+<DIV class="footer">
+<DIV class="footercenter"><SPAN><!--#begineditable clone="0" namechanged="0" order="7" ispublic="0" tagname="版权" viewid="203226" contentviewid="" contype="" stylesysid="" layout="" action="" name="版权"--><!-- 版权内容请在本组件"内容配置-版权"处填写 -->
+<p>©版权所有：桂林电子科技大学　校址：中国广西桂林金鸡路1号　邮编：541004　传真：0773-2290083</p><p style="text-align: center;height:20px;line-height:20px;margin: 0px 0px 0px 5px;"><a href="http://www.beian.miit.gov.cn" target="_blank">桂ICP备05000961号</a>&nbsp; &nbsp; <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=45030502000232" style="display:inline-block;text-decoration:none;height:20px;line-height:20px"><img src="/__local/D/02/89/DC0A46FC5B15B3363FFA78CF6C7_C267B386_4B38.png" />桂公网安备45030502000232号</a>&nbsp;<br /></p><!--#endeditable--></SPAN><A class="blue_error" href="http://bszs.conac.cn/sitename?method=show&amp;id=17A7818D2EE94AB9E053012819ACB5C4" target="_blank"><IMG alt="" src="images/blue_error.png" width="80" height="80"> </A></DIV></DIV><script type="text/javascript" src="js/jquery.min.js"></script><script src="js/banSlide.js"></script><script>
+        function SearchNews(){
+            var qText = $("#qText").val();
+            if (!qText)
+            {
+                alert('请输入要查询的关键字！');
+                return;
+            }
+           // window.location.href = "/ListAndDetail?qText=" + qText;
+        }
+
+        //顶部导航菜单
+          $('li.frontMenu').hover(
+          function(){
+              $(this).find('a:first').addClass("hover");
+              var current_li=$(this);
+              NavWaitSlide = setTimeout(function() {
+                  if(!$(current_li).children('ul').is(':visible'))
+                  {
+                        $(current_li).find('ul').slideDown(200);
+                  }
+              },100)
+          },
+         function(){
+              clearTimeout(NavWaitSlide);
+              $(this).find('ul').slideUp(100);
+              $(this).find('a:first').removeClass("hover");
+          }
+        );
+
+    </script><!--<script type="text/javascript" src="js/jquery.js"></script>--><!--<script type="text/javascript" src="js/main.js"></script>--><script type="text/javascript" src="js/index.js"></script><script>
+
+        $(document).ready(function () {
+            jQuery.jqtab = function (tabtit, tab_conbox, shijian) {
+                $(tab_conbox).find("li").hide();
+                $(tabtit).find("li:first").addClass("thistab").show();
+                $(tab_conbox).find("li:first").show();
+
+                $(tabtit).find("li").bind(shijian, function () {
+                    $(this).addClass("thistab").siblings("li").removeClass("thistab");
+                    $(tab_conbox).children().eq($(this).index()).show().siblings().hide();
+                    return false;
+                });
+
+            };
+            
+            $.jqtab("#tabs1", "#tab_conbox1", "mouseenter");
+            
+            $.jqtab("#tabs3", "#tab_conboxNotice", "mouseenter");           
+            $.jqtab("#tabs2", "#tab_conbox2", "mouseenter");
+            slideInit();
+        });
+    </script>
+
+</BODY></HTML>

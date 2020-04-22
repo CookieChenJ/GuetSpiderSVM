@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+<title>登录</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+<meta name="renderer" content="webkit">
+<!-- Loading Bootstrap -->
+<link href="/assets/css/backend.min.css?v=1.7.3" rel="stylesheet">
+<link href="/assets/img/favicon.ico" type="image/x-icon" rel="shortcut icon">
+
+<!-- HTML5 shim, for IE6-8 support of HTML5 elements. All other JS at the end of file. -->
+<!--[if lt IE 9]>
+  <script src="/assets/js/html5shiv.js"></script>
+  <script src="/assets/js/respond.min.js"></script>
+<![endif]-->
+<script type="text/javascript">
+    var require = {
+        config:  {"site":{"name":"\u6842\u7535\u515a\u5efa\u4e91","cdnurl":"","version":"1.7.3","timezone":"Asia\/Shanghai","languages":{"backend":"zh-cn","frontend":"zh-cn"}},"upload":{"cdnurl":"","uploadurl":"ajax\/upload","bucket":"local","maxsize":"200mb","mimetype":"jpg,png,bmp,jpeg,gif,zip,rar,xls,xlsx,mp4,txt,docx,pdf","multipart":[],"multiple":false},"modulename":"admin","controllername":"index","actionname":"login","jsname":"backend\/index","moduleurl":"\/admin","language":"zh-cn","fastadmin":{"usercenter":true,"login_captcha":false,"login_failure_retry":true,"login_unique":false,"login_background":"\/assets\/img\/loginbg.jpg","multiplenav":false,"checkupdate":false,"version":"1.0.0.20180806_beta","api_url":"https:\/\/api.fastadmin.net"},"referer":null,"__PUBLIC__":"\/","__ROOT__":"\/","__CDN__":"","orgtype":null}    };
+
+
+</script>
+
+        <style type="text/css">
+            .logotil{
+                margin: 0 auto;
+                width: 500px;
+                margin-top: -100px;
+                margin-bottom: 50px;
+
+            }
+
+
+            body {
+                color:#999;
+                background:url('/uploads/20190722/b3169835b669c262a7b6752d5017ede2.jpg');
+                background-size:cover;
+            }
+            a {
+                color:#fff;
+            }
+            .login-panel{margin-top:150px;}
+            .login-screen {
+                max-width:500px;
+                padding:0;
+                margin:230px auto 0 auto;
+
+            }
+            .login-screen .well {
+                border-radius: 3px;
+                -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+                box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+                background: rgba(255,255,255, 0.2);
+            }
+            .login-screen .copyright {
+                text-align: center;
+            }
+            @media(max-width:767px) {
+                .login-screen {
+                    padding:0 20px;
+                }
+            }
+            .profile-img-card {
+                width: 100px;
+                height: 100px;
+                margin: 10px auto;
+                display: block;
+                -moz-border-radius: 50%;
+                -webkit-border-radius: 50%;
+                border-radius: 50%;
+            }
+            .profile-name-card {
+                text-align: center;
+            }
+
+            #login-form {
+                margin-top:20px;
+            }
+            #login-form .input-group {
+                margin-bottom:15px;
+            }
+            .dyrz{
+                background: transparent;
+                color: #f00;
+                font-size: 16px;
+                text-decoration: underline;
+            }
+            .glyphicon,.form-control,body,button{
+                font-size: 16px;;
+            }
+            .btn-lg{
+                font-size: 18px;;
+            }
+            .input-group-addon,.form-control{
+                padding: 10px 12px;
+                height:auto;
+            }
+
+        </style>
+    </head>
+    <body>
+        <div class="container">
+
+            <div class="login-wrapper">
+
+                <div class="login-screen">
+                    <img src="/uploads/logotil.png" class="logotil">
+                    <div class="well">
+                        <div class="login-form">
+                            <img id="profile-img" class="profile-img-card" src="/uploads/dangh.jpg" />
+                            <p id="profile-name" class="profile-name-card"></p>
+
+                            <form action="" method="post" id="login-form">
+                                <div id="errtips" class="hide"></div>
+                                <input type="hidden" name="__token__" value="2ed2788ee60eb989a586ad4d7a258c14" />                                <div class="input-group">
+                                    <div class="input-group-addon"><span class="glyphicon glyphicon-user" aria-hidden="true">用户名:</span></div>
+                                    <input type="text" class="form-control" id="pd-form-username" placeholder="用户名" name="username" autocomplete="off" value="" data-rule="" />
+                                </div>
+
+                                <div class="input-group">
+                                    <div class="input-group-addon"><span class="glyphicon glyphicon-lock" aria-hidden="true">密   码:</span></div>
+                                    <input type="password" class="form-control" id="pd-form-password" placeholder="密码" name="password" autocomplete="off" value="" data-rule="密码:required;password" />
+                                </div>
+                                                                <div class="form-group">
+                                    <label class="inline" for="keeplogin">
+                                        <input type="checkbox" name="keeplogin" id="keeplogin" value="1" />
+                                        保持会话                                    </label>
+                                </div>
+                                <div class="form-group">
+                                    <button type="submit" class="btn btn-danger btn-lg btn-block">登 录</button>
+                                </div>
+                                <div class="form-group" style="   text-align: right;">
+                                  <a href="/admin/index/bccert"> <span type="button" class="btn btn-danger dyrz ">党员认证入口</span></a>
+                                </div>
+
+                            </form>
+                        </div>
+                    </div>
+
+                    <!--<p class="copyright"><a href="/cms">Powered By 桂电党建云</a></p>-->
+                </div>
+            </div>
+        </div>
+        <script src="/assets/js/require.min.js" data-main="/assets/js/require-backend.min.js?v=1.7.3"></script>
+
+<script type="text/javascript">
+
+   var intv= setInterval(function(){
+        if(typeof $ =='function'){
+            $('img').each(function(i,el){
+               if($(el).attr('src').indexOf('.pdf')!=-1){
+                   $(el).attr('src','/assets/img/dangjian/ico_fj.png');
+               }
+            });
+
+        }
+    },500);
+
+
+</script>
+    </body>
+</html>

@@ -1,0 +1,978 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<HTML>
+    <HEAD>
+        <TITLE>网络与信息技术中心</TITLE><META Name="keywords" Content="网络与信息技术中心" />
+
+
+
+
+
+        <META content="IE=7.0000" http-equiv="X-UA-Compatible" />
+        <META content="text/html; charset=UTF-8" http-equiv="Content-Type" /><!--<link rel="icon" href="favicon.ico" type="image/x-icon" />-->
+        <LINK rel="stylesheet" type="text/css" href="style.css" />
+        <script type="text/javascript" src="js/jquery-1.11.2.min.js"></script>
+        <script type="text/javascript" src="js/jquery.SuperSlide.2.1.1.js"></script>
+
+    <!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="index.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/vsbscreen.min.js" id="_vsbscreen" devices="pc|pad"></script>
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1404050456)</script>
+</HEAD>
+    <BODY>
+        <DIV id="pz_top">
+            <DIV class="w_0100 c_0100_bg1">
+                <DIV class="w_1100">
+                    <DIV class="c_1100_1">
+                        <DIV class="l_welcome">欢迎光临桂林电子科技大学-网络与信息技术中心！</DIV>
+                        <!-- <div class="r_load">&nbsp;&nbsp;&nbsp;&nbsp;<a href="#">登录</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="#">注册</a>&nbsp;&nbsp;&nbsp;&nbsp;</div>
+                        <div class="r_68"><a href="#">官方微博</a></div>
+                        <div class="r_70">
+                            <a>官方微信</a>
+                            <div class="pf_weixin">
+                                <div class="wxthree"></div>
+                                <div class="wxpic"><img src="images/menu_img9.jpg" width="98" height="98" /></div>
+                            </div>
+                        </div>
+                        -->
+                    </DIV>
+                </DIV>
+            </DIV>
+            <DIV class="w_0100">
+                <DIV class="w_1100">
+                    <DIV class="c_1100_2" style="height: auto">
+                        <DIV class="logo" style="height: auto; padding-bottom: 10px; padding-top: 10px; padding-left: 0px; padding-right: 0px"><!--#begineditable contype="" name="LOGO" action="" layout="" clone="0" namechanged="0" order="0" ispublic="0" tagname="LOGO" viewid="1003" contentviewid="" stylesysid=""-->
+<!-- 网站logo图片地址请在本组件"内容配置-网站logo"处填写 -->
+<a href="" title="网络与信息中心"><img src="images/logo3.jpg" width="500" height="67" border="0" alt="网络与信息中心" title="网络与信息中心"></a><!--#endeditable--></DIV><!--  <div class="r_358"></div> -->
+                    </DIV>
+                </DIV>
+            </DIV>
+            <DIV class="w_0100 c_0100_bg2">
+                <DIV class="w_1100">
+                    <DIV class="w_1100">
+                        <DIV class="c_1100_3">
+                            <DIV class="menu">
+                                <!--#begineditable contype="" name="网站导航" action="" layout="" clone="0" namechanged="0" order="1" ispublic="0" tagname="网站导航" viewid="1004" contentviewid="" stylesysid=""--><ul>
+    <li class="nli on">
+    <span>
+    <a href="index.htm" title="首页">
+    首页
+    </a>
+    </span>
+    </li>
+    <li class="nli">
+    <span>
+    <a href="bmjj.htm" title="部门简介">
+    部门简介
+    </a>
+    </span>
+    </li>
+    <li class="nli">
+    <span>
+    <a href="jgsz.htm" title="机构设置">
+    机构设置
+    </a>
+    </span>
+    </li>
+    <li class="nli">
+    <span>
+    <a href="tzgg.htm" title="通知公告">
+    通知公告
+    </a>
+    </span>
+    </li>
+    <li class="nli">
+    <span>
+    <a href="bmdt.htm" title="部门动态">
+    部门动态
+    </a>
+    </span>
+    </li>
+    <li class="nli">
+    <span>
+    <a href="glzdjwj.htm" title="管理制度及文件">
+    管理制度及文件
+    </a>
+    </span>
+    </li>
+    <li class="nli">
+    <span>
+    <a href="bslc.htm" title="办事流程">
+    办事流程
+    </a>
+    </span>
+    </li>
+    <li class="nli">
+    <span>
+    <a href="xgxz.htm" title="相关下载">
+    相关下载
+    </a>
+    </span>
+    </li>
+    <li class="nli">
+    <span>
+    <a href="https://www.guet.edu.cn/infoffice/" title="信息化管理办公室">
+    信息化管理办公室
+    </a>
+    </span>
+    </li>
+</ul><!--#endeditable-->
+                                <script>
+                                    $(".menu").slide({ type: "menu", titCell: ".nli", targetCell: ".sub", effect: "slideDown", delayTime: 300, triggerTime: 0, returnDefault: true });
+                                </script>
+                            </DIV>
+                        </DIV>
+                    </DIV>
+                </DIV>
+            </DIV>
+        </DIV>
+        <DIV id="pz_main">
+            <DIV class="w_0100 c_0100_bg3">
+                <DIV class="w_1100 clearfix">
+                    <DIV class="c_1100_4">
+                        <DIV class="l_377 float_l">
+                            <!--#begineditable contype="" name="banner" action="" layout="" clone="0" namechanged="0" order="2" ispublic="0" tagname="banner" viewid="1005" contentviewid="" stylesysid=""-->    <script language="javascript" src="/system/resource/js/dynclicks.js"></script><ul>
+<div class="pz_slides_3" style="width:100%;height:275px;">
+                    <div class="_btn">
+                        <ul>
+                            <li></li>
+                            <li></li>
+                        </ul>
+                    </div>
+                    <div class="_pic">
+                        <ul>
+                            <li><a href="bwcx.htm"><img src="images/keepper.jpg" style="width:520px;height:275px;" /></a></li>  
+                            <li><a href=""><img src="images/20190118150412.png" style="width:520px;height:275px;" /></a></li>  
+                            <li><a href="info/1005/1443.htm"><img src="dfiles/20181101103608.jpg" style="width:520px;height:275px;" /></a></li>  
+                            <li><a href=""><img src="images/20171017.jpg" style="width:520px;height:275px;" /></a></li>  
+                        </ul>
+                    </div>
+                </div><!--#endeditable-->
+                            <script>
+                                var s_count = $(".pz_slides_3 ._pic img").length;
+                                var s_li = "";
+                                for (j = 1; j <= s_count; j++) { s_li += "<li></li>"; }
+                                $(".pz_slides_3 > ._btn").html("<ul>" + s_li + "</ul>");
+                                var btn = $(".pz_slides_3 ._pic img").width() - 10 - $(".pz_slides_3 ._btn").width();
+                                var btnl = btn / 2;
+                                $(".pz_slides_3 ._btn").css("left", btnl + "px");
+                                jQuery(".pz_slides_3").slide({ titCell: "._btn li", mainCell: "._pic ul", effect: "fold", autoPlay: true, delayTime: 1500, interTime: 3000 });
+                            </script>
+                        </DIV>
+                        <DIV class="l_377 float_r">
+                            <DIV class="title_1">
+                                <DIV class="tit_1">通知公告</DIV>
+                                <DIV class="more_1"><A href="tzgg.htm"><IMG src="images/main_img6.png" width="10" height="10" /></A></DIV>
+                            </DIV>
+                            <DIV class="t_377"><!--#begineditable contype="" name="通知公告" action="" layout="" clone="0" namechanged="0" order="3" ispublic="0" tagname="通知公告" viewid="160150" contentviewid="" stylesysid=""--><ul>
+           <li>
+                <a class="oh block" href="info/1004/1622.htm" target="_blank" title="关于面向师生员工提供WebVPN服务的通知">
+                     <span class="float_l">关于面向师生员工提供WebVPN服务的通知</span><i class="float_r">02/11</i>
+                  </a>
+            </li>
+           <li>
+                <a class="oh block" href="http://iw.guet.edu.cn/info/1061/56171.htm" target="_blank" title="关于对校内有线网络用户访问互联网进行认证的公告">
+                     <span class="float_l">关于对校内有线网络用户访问互联网进行认证的公告</span><i class="float_r">05/14</i>
+                  </a>
+            </li>
+           <li>
+                <a class="oh block" href="info/1004/1252.htm" target="_blank" title="关于面向校外教工用户提供VPN服务的说明">
+                     <span class="float_l">关于面向校外教工用户提供VPN服务的说明</span><i class="float_r">01/18</i>
+                  </a>
+            </li>
+           <li>
+                <a class="oh block" href="info/1004/1652.htm" target="_blank" title="关于加强我校学生邮箱安全防护的通知">
+                     <span class="float_l">关于加强我校学生邮箱安全防护的通知</span><i class="float_r">03/26</i>
+                  </a>
+            </li>
+           <li>
+                <a class="oh block" href="https://www.guet.edu.cn/info/1151/51857.htm" target="_blank" title="【疫情防控】我校自主研发的“数字防疫系统”投入使用（图）">
+                     <span class="float_l">【疫情防控】我校自主研发的“数字防疫系统”投入使用（图）</span><i class="float_r">03/05</i>
+                  </a>
+            </li>
+           <li>
+                <a class="oh block" href="https://www.guet.edu.cn/info/1151/51799.htm" target="_blank" title="【疫情防控】习近平：全面提高依法防控依法治理能力,健全国家公共卫生应急管理体系">
+                     <span class="float_l">【疫情防控】习近平：全面提高依法防控依法治理能力,健全国家...</span><i class="float_r">02/29</i>
+                  </a>
+            </li>
+           <li>
+                <a class="oh block" href="https://www.guet.edu.cn/info/1151/51755.htm" target="_blank" title="【疫情防控】广西发布疫情防控工作“十严格”系列措施">
+                     <span class="float_l">【疫情防控】广西发布疫情防控工作“十严格”系列措施</span><i class="float_r">02/27</i>
+                  </a>
+            </li>
+</ul><script>_showDynClickBatch(['dynclicks_u3_1622','dynclicks_u3_1343','dynclicks_u3_1252','dynclicks_u3_1652','dynclicks_u3_1642','dynclicks_u3_1643','dynclicks_u3_1647'],[1622,1343,1252,1652,1642,1643,1647],"wbnews", 1404050456)</script>
+<!--#endeditable--></DIV>
+                        </DIV>
+                    </DIV>
+                </DIV>
+                <DIV class="w_1100 clearfix">
+                    <DIV class="c_1100_4">
+                        <DIV class="l_377 float_l" style="height: 280px">
+                            <DIV class="l_377 float_l" style="height: 280px; width: 51%">
+                                <DIV class="title_1">
+                                    <DIV class="tit_1">服务电话</DIV>
+                                </DIV>
+                                <DIV class="t_377">
+                                    <INPUT id="serviceTelDescId" type="hidden" value="64" />
+                                    <DIV id="serviceTel" style="overflow: hidden">
+                                        <P><!--#begineditable contype="" name="服务电话" action="" layout="" clone="0" namechanged="0" order="4" ispublic="0" tagname="服务电话" viewid="160147" contentviewid="" stylesysid=""--><script language="javascript" src="/system/resource/js/news/mp4video.js"></script>
+<p style="line-height: normal;"><span style="font-size: 14px;">1、大礼堂、多功能厅、科技楼报告厅预约<br></span></p> 
+<p style="line-height: normal; text-indent: 2em;"><span style="font-size: 14px;">13393637767、13393637757&nbsp;</span></p> 
+<p style="line-height: normal;"><span style="font-size: 14px;">2、网络咨询与故障申报</span></p> 
+<p style="line-height: normal; text-indent: 2em;"><span style="font-size: 14px;">金鸡岭校区：&nbsp;</span></p> 
+<p style="line-height: normal; text-indent: 2em;"><span style="font-size: 14px;">&nbsp; 2291549、18978382581</span></p> 
+<p style="line-height: normal; text-indent: 2em;"><span style="font-size: 14px;">花江校区：</span></p> 
+<p style="line-height: normal; text-indent: 2em;"><span style="font-size: 14px;">&nbsp; 2290739、18978382353</span></p> 
+<p style="line-height: normal;"><span style="font-size: 14px;">3、办公室电话</span></p> 
+<p style="line-height: normal; text-indent: 2em;"><span style="font-size: 14px;">每周一、二、四</span></p> 
+<p style="line-height: normal; text-indent: 2em;"><span style="font-size: 14px;">&nbsp;&nbsp;&nbsp;&nbsp; 花江校区：2290738</span></p> 
+<p style="line-height: normal; text-indent: 2em;"><span style="font-size: 14px;"><span style="font-size: 14px; text-indent: 32px;">每周 三、五</span></span></p> 
+<p style="line-height: normal; text-indent: 2em;"><span style="font-size: 14px;"><span style="font-size: 14px; text-indent: 32px;">&nbsp; &nbsp;金鸡岭校区：</span><span style="font-size: 14px; text-indent: 32px;">2291571</span></span></p> 
+<p style="line-height: normal;"><span style="font-size: 14px;">4、一卡通技术服务</span></p> 
+<p style="line-height: normal; text-indent: 2em;"><span style="font-size: 14px;">18907736670</span></p><!--#endeditable--></P>
+                                    </DIV>
+                                </DIV>
+                            </DIV>
+                            <DIV class="l_377  float_r" style="height: 280px; width: 48%">
+                                <DIV class="title_1">
+                                    <DIV class="tit_1">常用下载</DIV>
+                                    <DIV class="more_1"><A href="xgxz.htm"><IMG src="images/main_img6.png" width="10" height="10" /></A></DIV>
+                                </DIV>
+                                <DIV class="t_377"><!--#begineditable contype="" name="常用下载" action="" layout="" clone="0" namechanged="0" order="5" ispublic="0" tagname="常用下载" viewid="160151" contentviewid="" stylesysid=""--><ul>
+           <li>
+                <a href="requireregulareV1.0-0925.docx" target="_blank" title="桂林电子科技大学数据共享交换平台数据需求规范V1.0">
+                     <span>桂林电子科技大学数据共享...</span>
+                  </a>
+            </li>
+           <li>
+                <a href="datasharev1.0-0929.docx" target="_blank" title="桂林电子科技大学数据共享交换平台接入规范V1.0">
+                     <span>桂林电子科技大学数据共享...</span>
+                  </a>
+            </li>
+           <li>
+                <a href="GUETInfResourcesCataloguev1.1.pdf" target="_blank" title="桂林电子科技大学信息资源目录v1.1">
+                     <span>桂林电子科技大学信息资源...</span>
+                  </a>
+            </li>
+           <li>
+                <a href="ShareFile/VPNClient.zip" target="_blank" title="VPN使用手册及客户端及说明">
+                     <span>VPN使用手册及客户端及说明</span>
+                  </a>
+            </li>
+           <li>
+                <a href="info/1008/1442.htm" target="_blank" title="在线教学平台开课申请材料">
+                     <span>在线教学平台开课申请材料</span>
+                  </a>
+            </li>
+           <li>
+                <a href="stuentMailApplication.doc" target="_blank" title="学生邮箱登记表">
+                     <span>学生邮箱登记表</span>
+                  </a>
+            </li>
+           <li>
+                <a href="WangZhanShenQing2019.doc" target="_blank" title="桂林电子科技大学网站申请表">
+                     <span>桂林电子科技大学网站申请表</span>
+                  </a>
+            </li>
+           <li>
+                <a href="/__local/E/DD/E2/BC43F1988F396554D9DDA84CCD3_E3C2FF0A_9800.doc" target="_blank" title="校内虚拟机(应用系统类)申请表">
+                     <span>校内虚拟机(应用系统类)申...</span>
+                  </a>
+            </li>
+           <li>
+                <a href="/__local/5/09/D2/99A295AAA70D25FEA3143226783_13189B3D_3933.docx" target="_blank" title="标准化考场使用申请表">
+                     <span>标准化考场使用申请表</span>
+                  </a>
+            </li>
+</ul><script>_showDynClickBatch(['dynclicks_u5_1554','dynclicks_u5_1553','dynclicks_u5_1543','dynclicks_u5_1452','dynclicks_u5_1442','dynclicks_u5_1231','dynclicks_u5_1189','dynclicks_u5_1188','dynclicks_u5_1186'],[1554,1553,1543,1452,1442,1231,1189,1188,1186],"wbnews", 1404050456)</script>
+<!--#endeditable--></DIV>
+                            </DIV>
+                        </DIV>
+                        <DIV class="l_377 float_r" style="height: 280px">
+                            <DIV class="title_1">
+                                <DIV class="tit_1">部门动态</DIV>
+                                <DIV class="more_1"><A href="bmdt.htm"><IMG src="images/main_img6.png" width="10" height="10" /></A></DIV>
+                            </DIV>
+                            <DIV class="t_377"><!--#begineditable contype="" name="部门动态" action="" layout="" clone="0" namechanged="0" order="6" ispublic="0" tagname="部门动态" viewid="1006" contentviewid="" stylesysid=""--><ul>
+           <li>
+                <a class="oh block" href="info/1005/1623.htm" target="_blank" title="【疫情防控】网络与信息技术中心提供“桂电智慧校园小程序”">
+                     <span class="float_l">【疫情防控】网络与信息技术中心提供“桂电智慧校园小程序”</span><i class="float_r">02/20</i>
+                  </a>
+            </li>
+           <li>
+                <a class="oh block" href="bwcx.htm" target="_blank" title="【不忘初心、牢记使命】网信中心“不忘初心、牢记使命”专题活动">
+                     <span class="float_l">【不忘初心、牢记使命】网信中心“不忘初心、牢记使命”专题活动</span><i class="float_r">10/21</i>
+                  </a>
+            </li>
+           <li>
+                <a class="oh block" href="info/1005/1562.htm" target="_blank" title="学校召开信息化建设领导小组会议">
+                     <span class="float_l">学校召开信息化建设领导小组会议</span><i class="float_r">09/30</i>
+                  </a>
+            </li>
+           <li>
+                <a class="oh block" href="info/1005/1464.htm" target="_blank" title="网络与信息技术中心召开2018年度领导班子及党员领导干部民主生活会（图）">
+                     <span class="float_l">网络与信息技术中心召开2018年度领导班子及党员领导干部民主...</span><i class="float_r">01/18</i>
+                  </a>
+            </li>
+           <li>
+                <a class="oh block" href="info/1005/1463.htm" target="_blank" title="网络与信息技术中心召开部门中干考核评优推荐会">
+                     <span class="float_l">网络与信息技术中心召开部门中干考核评优推荐会</span><i class="float_r">01/15</i>
+                  </a>
+            </li>
+           <li>
+                <a class="oh block" href="info/1005/1443.htm" target="_blank" title="网络与信息技术中心党支部开展关于整治形式主义、官僚主义有关问题学习与典型通报会">
+                     <span class="float_l">网络与信息技术中心党支部开展关于整治形式主义、官僚主义有...</span><i class="float_r">11/01</i>
+                  </a>
+            </li>
+           <li>
+                <a class="oh block" href="info/1005/1434.htm" target="_blank" title="瀚特公司与天融信公司到现代教育技术中心进行技术交流">
+                     <span class="float_l">瀚特公司与天融信公司到现代教育技术中心进行技术交流</span><i class="float_r">09/11</i>
+                  </a>
+            </li>
+           <li>
+                <a class="oh block" href="info/1005/1433.htm" target="_blank" title="李文军副校长到现代教育技术中心进行安全检查工作">
+                     <span class="float_l">李文军副校长到现代教育技术中心进行安全检查工作</span><i class="float_r">09/04</i>
+                  </a>
+            </li>
+           <li>
+                <a class="oh block" href="http://www.guet.edu.cn/info/1152/46410.htm" target="_blank" title="学校召开信息化建设领导小组第一次会议">
+                     <span class="float_l">学校召开信息化建设领导小组第一次会议</span><i class="float_r">07/20</i>
+                  </a>
+            </li>
+</ul><script>_showDynClickBatch(['dynclicks_u6_1623','dynclicks_u6_1580','dynclicks_u6_1562','dynclicks_u6_1464','dynclicks_u6_1463','dynclicks_u6_1443','dynclicks_u6_1434','dynclicks_u6_1433','dynclicks_u6_1414'],[1623,1580,1562,1464,1463,1443,1434,1433,1414],"wbnews", 1404050456)</script>
+<!--#endeditable--></DIV>
+                        </DIV>
+                    </DIV>
+                </DIV>
+                <DIV class="w_1100" style="margin-bottom: 10px; margin-top: 30px"><!--#begineditable contype="" name="常用链接" action="" layout="" clone="0" namechanged="0" order="7" ispublic="0" tagname="常用链接" viewid="160148" contentviewid="" stylesysid=""--><script language="javascript" src="/system/resource/js/openlink.js"></script><ul class="c_1098">
+                    <li class="link">
+                        <a href="#">常用链接</a>
+                    </li>
+                                        <li>
+                        <a target="_blank" href="http://ipclient.guet.edu.cn/ipmanager/ipclient/ipclient_help.html">
+                            出校控制器下载
+                        </a>
+                    </li>
+                    <li>
+                        <a target="_blank" href="http://www.guet.edu.cn/">
+                            校外主页
+                        </a>
+                    </li>
+                    <li>
+                        <a target="_blank" href="http://iw.guet.edu.cn/">
+                            校内主页
+                        </a>
+                    </li>
+                    <li>
+                        <a target="_blank" href="https://cas.guet.edu.cn/cas/login?service=http://fwdt.guet.edu.cn/EIP//user/index.htm">
+                            智慧校园
+                        </a>
+                    </li>
+                    <li>
+                        <a target="_blank" href="http://www.guet.edu.cn/jxzyzx/">
+                            教学资源中心
+                        </a>
+                    </li>
+                    <li>
+                        <a target="_blank" href="http://ipclient.guet.edu.cn">
+                            流量查询
+                        </a>
+                    </li>
+                </ul>
+<!--#endeditable--></DIV>
+            </DIV>
+        </DIV>
+        <DIV class="pz_down">
+            <DIV class="w_1100 clearfix">
+                <DIV class="b_left"><!--#begineditable contype="" name="版权" action="" layout="" clone="0" namechanged="0" order="8" ispublic="0" tagname="版权" viewid="160149" contentviewid="" stylesysid=""--><!-- 版权内容请在本组件"内容配置-版权"处填写 -->
+<p>©版权所有：桂林电子科技大学&nbsp;校址：中国广西桂林金鸡路1号<br />备案号：<span style="color: #262626">桂ICP备 05000961 号 </span>&nbsp;&nbsp;前置审核编号：<span style="color: #262626">桂JS201012-003</span></p><!--#endeditable--></DIV>
+                <DIV class="b_right"><!--#begineditable contype="" name="主页|收藏" action="" layout="" clone="0" namechanged="0" order="9" ispublic="0" tagname="主页|收藏" viewid="160157" contentviewid="" stylesysid=""-->
+<script language="javascript">
+function dosuba160157a()
+{
+    try{
+        var ua = navigator.userAgent.toLowerCase();
+        if(ua.indexOf("msie 8")>-1)
+        {
+            window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE8
+        }else if(ua.toLowerCase().indexOf("rv:")>-1)
+        {
+            window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE11+
+        }else{
+            if (document.all) 
+            {
+                window.external.addFavorite(document.location.href, document.title);
+            }else if(window.sidebar)
+            {
+                window.sidebar.addPanel( document.title, document.location.href, "");//firefox
+            }
+            else
+            {
+                alert(hotKeysa160157a());
+            }
+        }
+
+    }
+    catch (e){alert("无法自动添加到收藏夹，请使用 Ctrl + d 手动添加");}
+}
+function hotKeysa160157a() 
+{
+    var ua = navigator.userAgent.toLowerCase(); 
+    var str = "";    
+    var isWebkit = (ua.indexOf('webkit') != - 1); 
+    var isMac = (ua.indexOf('mac') != - 1);     
+    if (ua.indexOf('konqueror') != - 1) 
+    {  
+        str = 'CTRL + B'; // Konqueror   
+    } 
+    else if (window.home || isWebkit || isMac) 
+    {        
+        str = (isMac ? 'Command/Cmd' : 'CTRL') + ' + D'; // Netscape, Safari, iCab, IE5/Mac   
+    }
+    return ((str) ? '无法自动添加到收藏夹，请使用' + str + '手动添加' : str);
+}
+function setHomepagea160157a()
+{
+    var url = document.location.href;
+    if (document.all)
+    {
+        document.body.style.behavior='url(#default#homepage)';
+        document.body.setHomePage(url);
+    }
+    else if (window.sidebar)
+    {
+        if(window.netscape)
+        {
+             try{
+                  netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+             }catch (e){
+                   alert("该操作被浏览器拒绝，如果想启用该功能，请在地址栏内输入 about:config,然后将项 signed.applets.codebase_principal_support 值该为true");
+             }
+        }
+    var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components. interfaces.nsIPrefBranch);
+    prefs.setCharPref('browser.startup.homepage',url);
+    }
+    else
+    {
+        alert("浏览器不支持自动设为首页，请手动设置");
+    }
+}
+</script>
+<table>
+    <tr>
+        <td style="font-size: 9pt">
+            <A onclick="javascript:dosuba160157a();" href="#" style="TEXT-DECORATION: none;">
+                <span style="TEXT-DECORATION: none;COLOR: #222222;FONT-FAMILY: 宋体;FONT-SIZE: 9pt;">&nbsp;加入收藏&nbsp;</span>
+            </A><span style="COLOR: #222222;FONT-FAMILY: 宋体;FONT-SIZE: 9pt;">|</span>
+            <A href="http://www.guet.edu.cn/xjzx" style="TEXT-DECORATION: none;">
+                <span style="TEXT-DECORATION: none;COLOR: #222222;FONT-FAMILY: 宋体;FONT-SIZE: 9pt;">&nbsp;联系我们</span>
+            </A>
+         </td>
+    </tr>
+</table><!--#endeditable--></DIV>
+            </DIV>
+        </DIV>
+        <!--  <div class="PZ_float">
+            <li>
+                <img src="images/z_pic8.jpg" width="110" height="137" />
+            </li>
+            <li>
+                <img src="images/float_img2.png" width="110" height="137" />
+            </li>
+        </div>
+        -->
+
+    </BODY>
+</HTML>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<HTML>
+    <HEAD>
+        <TITLE>网络与信息技术中心</TITLE><META Name="keywords" Content="网络与信息技术中心" />
+
+
+
+
+
+        <META content="IE=7.0000" http-equiv="X-UA-Compatible" />
+        <META content="text/html; charset=UTF-8" http-equiv="Content-Type" /><!--<link rel="icon" href="favicon.ico" type="image/x-icon" />-->
+        <LINK rel="stylesheet" type="text/css" href="style.css" />
+        <script type="text/javascript" src="js/jquery-1.11.2.min.js"></script>
+        <script type="text/javascript" src="js/jquery.SuperSlide.2.1.1.js"></script>
+
+    <!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="index.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/vsbscreen.min.js" id="_vsbscreen" devices="pc|pad"></script>
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1404050456)</script>
+</HEAD>
+    <BODY>
+        <DIV id="pz_top">
+            <DIV class="w_0100 c_0100_bg1">
+                <DIV class="w_1100">
+                    <DIV class="c_1100_1">
+                        <DIV class="l_welcome">欢迎光临桂林电子科技大学-网络与信息技术中心！</DIV>
+                        <!-- <div class="r_load">&nbsp;&nbsp;&nbsp;&nbsp;<a href="#">登录</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="#">注册</a>&nbsp;&nbsp;&nbsp;&nbsp;</div>
+                        <div class="r_68"><a href="#">官方微博</a></div>
+                        <div class="r_70">
+                            <a>官方微信</a>
+                            <div class="pf_weixin">
+                                <div class="wxthree"></div>
+                                <div class="wxpic"><img src="images/menu_img9.jpg" width="98" height="98" /></div>
+                            </div>
+                        </div>
+                        -->
+                    </DIV>
+                </DIV>
+            </DIV>
+            <DIV class="w_0100">
+                <DIV class="w_1100">
+                    <DIV class="c_1100_2" style="height: auto">
+                        <DIV class="logo" style="height: auto; padding-bottom: 10px; padding-top: 10px; padding-left: 0px; padding-right: 0px"><!--#begineditable contype="" name="LOGO" action="" layout="" clone="0" namechanged="0" order="0" ispublic="0" tagname="LOGO" viewid="1003" contentviewid="" stylesysid=""-->
+<!-- 网站logo图片地址请在本组件"内容配置-网站logo"处填写 -->
+<a href="" title="网络与信息中心"><img src="images/logo3.jpg" width="500" height="67" border="0" alt="网络与信息中心" title="网络与信息中心"></a><!--#endeditable--></DIV><!--  <div class="r_358"></div> -->
+                    </DIV>
+                </DIV>
+            </DIV>
+            <DIV class="w_0100 c_0100_bg2">
+                <DIV class="w_1100">
+                    <DIV class="w_1100">
+                        <DIV class="c_1100_3">
+                            <DIV class="menu">
+                                <!--#begineditable contype="" name="网站导航" action="" layout="" clone="0" namechanged="0" order="1" ispublic="0" tagname="网站导航" viewid="1004" contentviewid="" stylesysid=""--><ul>
+    <li class="nli on">
+    <span>
+    <a href="index.htm" title="首页">
+    首页
+    </a>
+    </span>
+    </li>
+    <li class="nli">
+    <span>
+    <a href="bmjj.htm" title="部门简介">
+    部门简介
+    </a>
+    </span>
+    </li>
+    <li class="nli">
+    <span>
+    <a href="jgsz.htm" title="机构设置">
+    机构设置
+    </a>
+    </span>
+    </li>
+    <li class="nli">
+    <span>
+    <a href="tzgg.htm" title="通知公告">
+    通知公告
+    </a>
+    </span>
+    </li>
+    <li class="nli">
+    <span>
+    <a href="bmdt.htm" title="部门动态">
+    部门动态
+    </a>
+    </span>
+    </li>
+    <li class="nli">
+    <span>
+    <a href="glzdjwj.htm" title="管理制度及文件">
+    管理制度及文件
+    </a>
+    </span>
+    </li>
+    <li class="nli">
+    <span>
+    <a href="bslc.htm" title="办事流程">
+    办事流程
+    </a>
+    </span>
+    </li>
+    <li class="nli">
+    <span>
+    <a href="xgxz.htm" title="相关下载">
+    相关下载
+    </a>
+    </span>
+    </li>
+    <li class="nli">
+    <span>
+    <a href="https://www.guet.edu.cn/infoffice/" title="信息化管理办公室">
+    信息化管理办公室
+    </a>
+    </span>
+    </li>
+</ul><!--#endeditable-->
+                                <script>
+                                    $(".menu").slide({ type: "menu", titCell: ".nli", targetCell: ".sub", effect: "slideDown", delayTime: 300, triggerTime: 0, returnDefault: true });
+                                </script>
+                            </DIV>
+                        </DIV>
+                    </DIV>
+                </DIV>
+            </DIV>
+        </DIV>
+        <DIV id="pz_main">
+            <DIV class="w_0100 c_0100_bg3">
+                <DIV class="w_1100 clearfix">
+                    <DIV class="c_1100_4">
+                        <DIV class="l_377 float_l">
+                            <!--#begineditable contype="" name="banner" action="" layout="" clone="0" namechanged="0" order="2" ispublic="0" tagname="banner" viewid="1005" contentviewid="" stylesysid=""-->    <script language="javascript" src="/system/resource/js/dynclicks.js"></script><ul>
+<div class="pz_slides_3" style="width:100%;height:275px;">
+                    <div class="_btn">
+                        <ul>
+                            <li></li>
+                            <li></li>
+                        </ul>
+                    </div>
+                    <div class="_pic">
+                        <ul>
+                            <li><a href="bwcx.htm"><img src="images/keepper.jpg" style="width:520px;height:275px;" /></a></li>  
+                            <li><a href=""><img src="images/20190118150412.png" style="width:520px;height:275px;" /></a></li>  
+                            <li><a href="info/1005/1443.htm"><img src="dfiles/20181101103608.jpg" style="width:520px;height:275px;" /></a></li>  
+                            <li><a href=""><img src="images/20171017.jpg" style="width:520px;height:275px;" /></a></li>  
+                        </ul>
+                    </div>
+                </div><!--#endeditable-->
+                            <script>
+                                var s_count = $(".pz_slides_3 ._pic img").length;
+                                var s_li = "";
+                                for (j = 1; j <= s_count; j++) { s_li += "<li></li>"; }
+                                $(".pz_slides_3 > ._btn").html("<ul>" + s_li + "</ul>");
+                                var btn = $(".pz_slides_3 ._pic img").width() - 10 - $(".pz_slides_3 ._btn").width();
+                                var btnl = btn / 2;
+                                $(".pz_slides_3 ._btn").css("left", btnl + "px");
+                                jQuery(".pz_slides_3").slide({ titCell: "._btn li", mainCell: "._pic ul", effect: "fold", autoPlay: true, delayTime: 1500, interTime: 3000 });
+                            </script>
+                        </DIV>
+                        <DIV class="l_377 float_r">
+                            <DIV class="title_1">
+                                <DIV class="tit_1">通知公告</DIV>
+                                <DIV class="more_1"><A href="tzgg.htm"><IMG src="images/main_img6.png" width="10" height="10" /></A></DIV>
+                            </DIV>
+                            <DIV class="t_377"><!--#begineditable contype="" name="通知公告" action="" layout="" clone="0" namechanged="0" order="3" ispublic="0" tagname="通知公告" viewid="160150" contentviewid="" stylesysid=""--><ul>
+           <li>
+                <a class="oh block" href="info/1004/1622.htm" target="_blank" title="关于面向师生员工提供WebVPN服务的通知">
+                     <span class="float_l">关于面向师生员工提供WebVPN服务的通知</span><i class="float_r">02/11</i>
+                  </a>
+            </li>
+           <li>
+                <a class="oh block" href="http://iw.guet.edu.cn/info/1061/56171.htm" target="_blank" title="关于对校内有线网络用户访问互联网进行认证的公告">
+                     <span class="float_l">关于对校内有线网络用户访问互联网进行认证的公告</span><i class="float_r">05/14</i>
+                  </a>
+            </li>
+           <li>
+                <a class="oh block" href="info/1004/1252.htm" target="_blank" title="关于面向校外教工用户提供VPN服务的说明">
+                     <span class="float_l">关于面向校外教工用户提供VPN服务的说明</span><i class="float_r">01/18</i>
+                  </a>
+            </li>
+           <li>
+                <a class="oh block" href="info/1004/1652.htm" target="_blank" title="关于加强我校学生邮箱安全防护的通知">
+                     <span class="float_l">关于加强我校学生邮箱安全防护的通知</span><i class="float_r">03/26</i>
+                  </a>
+            </li>
+           <li>
+                <a class="oh block" href="https://www.guet.edu.cn/info/1151/51857.htm" target="_blank" title="【疫情防控】我校自主研发的“数字防疫系统”投入使用（图）">
+                     <span class="float_l">【疫情防控】我校自主研发的“数字防疫系统”投入使用（图）</span><i class="float_r">03/05</i>
+                  </a>
+            </li>
+           <li>
+                <a class="oh block" href="https://www.guet.edu.cn/info/1151/51799.htm" target="_blank" title="【疫情防控】习近平：全面提高依法防控依法治理能力,健全国家公共卫生应急管理体系">
+                     <span class="float_l">【疫情防控】习近平：全面提高依法防控依法治理能力,健全国家...</span><i class="float_r">02/29</i>
+                  </a>
+            </li>
+           <li>
+                <a class="oh block" href="https://www.guet.edu.cn/info/1151/51755.htm" target="_blank" title="【疫情防控】广西发布疫情防控工作“十严格”系列措施">
+                     <span class="float_l">【疫情防控】广西发布疫情防控工作“十严格”系列措施</span><i class="float_r">02/27</i>
+                  </a>
+            </li>
+</ul><script>_showDynClickBatch(['dynclicks_u3_1622','dynclicks_u3_1343','dynclicks_u3_1252','dynclicks_u3_1652','dynclicks_u3_1642','dynclicks_u3_1643','dynclicks_u3_1647'],[1622,1343,1252,1652,1642,1643,1647],"wbnews", 1404050456)</script>
+<!--#endeditable--></DIV>
+                        </DIV>
+                    </DIV>
+                </DIV>
+                <DIV class="w_1100 clearfix">
+                    <DIV class="c_1100_4">
+                        <DIV class="l_377 float_l" style="height: 280px">
+                            <DIV class="l_377 float_l" style="height: 280px; width: 51%">
+                                <DIV class="title_1">
+                                    <DIV class="tit_1">服务电话</DIV>
+                                </DIV>
+                                <DIV class="t_377">
+                                    <INPUT id="serviceTelDescId" type="hidden" value="64" />
+                                    <DIV id="serviceTel" style="overflow: hidden">
+                                        <P><!--#begineditable contype="" name="服务电话" action="" layout="" clone="0" namechanged="0" order="4" ispublic="0" tagname="服务电话" viewid="160147" contentviewid="" stylesysid=""--><script language="javascript" src="/system/resource/js/news/mp4video.js"></script>
+<p style="line-height: normal;"><span style="font-size: 14px;">1、大礼堂、多功能厅、科技楼报告厅预约<br></span></p> 
+<p style="line-height: normal; text-indent: 2em;"><span style="font-size: 14px;">13393637767、13393637757&nbsp;</span></p> 
+<p style="line-height: normal;"><span style="font-size: 14px;">2、网络咨询与故障申报</span></p> 
+<p style="line-height: normal; text-indent: 2em;"><span style="font-size: 14px;">金鸡岭校区：&nbsp;</span></p> 
+<p style="line-height: normal; text-indent: 2em;"><span style="font-size: 14px;">&nbsp; 2291549、18978382581</span></p> 
+<p style="line-height: normal; text-indent: 2em;"><span style="font-size: 14px;">花江校区：</span></p> 
+<p style="line-height: normal; text-indent: 2em;"><span style="font-size: 14px;">&nbsp; 2290739、18978382353</span></p> 
+<p style="line-height: normal;"><span style="font-size: 14px;">3、办公室电话</span></p> 
+<p style="line-height: normal; text-indent: 2em;"><span style="font-size: 14px;">每周一、二、四</span></p> 
+<p style="line-height: normal; text-indent: 2em;"><span style="font-size: 14px;">&nbsp;&nbsp;&nbsp;&nbsp; 花江校区：2290738</span></p> 
+<p style="line-height: normal; text-indent: 2em;"><span style="font-size: 14px;"><span style="font-size: 14px; text-indent: 32px;">每周 三、五</span></span></p> 
+<p style="line-height: normal; text-indent: 2em;"><span style="font-size: 14px;"><span style="font-size: 14px; text-indent: 32px;">&nbsp; &nbsp;金鸡岭校区：</span><span style="font-size: 14px; text-indent: 32px;">2291571</span></span></p> 
+<p style="line-height: normal;"><span style="font-size: 14px;">4、一卡通技术服务</span></p> 
+<p style="line-height: normal; text-indent: 2em;"><span style="font-size: 14px;">18907736670</span></p><!--#endeditable--></P>
+                                    </DIV>
+                                </DIV>
+                            </DIV>
+                            <DIV class="l_377  float_r" style="height: 280px; width: 48%">
+                                <DIV class="title_1">
+                                    <DIV class="tit_1">常用下载</DIV>
+                                    <DIV class="more_1"><A href="xgxz.htm"><IMG src="images/main_img6.png" width="10" height="10" /></A></DIV>
+                                </DIV>
+                                <DIV class="t_377"><!--#begineditable contype="" name="常用下载" action="" layout="" clone="0" namechanged="0" order="5" ispublic="0" tagname="常用下载" viewid="160151" contentviewid="" stylesysid=""--><ul>
+           <li>
+                <a href="requireregulareV1.0-0925.docx" target="_blank" title="桂林电子科技大学数据共享交换平台数据需求规范V1.0">
+                     <span>桂林电子科技大学数据共享...</span>
+                  </a>
+            </li>
+           <li>
+                <a href="datasharev1.0-0929.docx" target="_blank" title="桂林电子科技大学数据共享交换平台接入规范V1.0">
+                     <span>桂林电子科技大学数据共享...</span>
+                  </a>
+            </li>
+           <li>
+                <a href="GUETInfResourcesCataloguev1.1.pdf" target="_blank" title="桂林电子科技大学信息资源目录v1.1">
+                     <span>桂林电子科技大学信息资源...</span>
+                  </a>
+            </li>
+           <li>
+                <a href="ShareFile/VPNClient.zip" target="_blank" title="VPN使用手册及客户端及说明">
+                     <span>VPN使用手册及客户端及说明</span>
+                  </a>
+            </li>
+           <li>
+                <a href="info/1008/1442.htm" target="_blank" title="在线教学平台开课申请材料">
+                     <span>在线教学平台开课申请材料</span>
+                  </a>
+            </li>
+           <li>
+                <a href="stuentMailApplication.doc" target="_blank" title="学生邮箱登记表">
+                     <span>学生邮箱登记表</span>
+                  </a>
+            </li>
+           <li>
+                <a href="WangZhanShenQing2019.doc" target="_blank" title="桂林电子科技大学网站申请表">
+                     <span>桂林电子科技大学网站申请表</span>
+                  </a>
+            </li>
+           <li>
+                <a href="/__local/E/DD/E2/BC43F1988F396554D9DDA84CCD3_E3C2FF0A_9800.doc" target="_blank" title="校内虚拟机(应用系统类)申请表">
+                     <span>校内虚拟机(应用系统类)申...</span>
+                  </a>
+            </li>
+           <li>
+                <a href="/__local/5/09/D2/99A295AAA70D25FEA3143226783_13189B3D_3933.docx" target="_blank" title="标准化考场使用申请表">
+                     <span>标准化考场使用申请表</span>
+                  </a>
+            </li>
+</ul><script>_showDynClickBatch(['dynclicks_u5_1554','dynclicks_u5_1553','dynclicks_u5_1543','dynclicks_u5_1452','dynclicks_u5_1442','dynclicks_u5_1231','dynclicks_u5_1189','dynclicks_u5_1188','dynclicks_u5_1186'],[1554,1553,1543,1452,1442,1231,1189,1188,1186],"wbnews", 1404050456)</script>
+<!--#endeditable--></DIV>
+                            </DIV>
+                        </DIV>
+                        <DIV class="l_377 float_r" style="height: 280px">
+                            <DIV class="title_1">
+                                <DIV class="tit_1">部门动态</DIV>
+                                <DIV class="more_1"><A href="bmdt.htm"><IMG src="images/main_img6.png" width="10" height="10" /></A></DIV>
+                            </DIV>
+                            <DIV class="t_377"><!--#begineditable contype="" name="部门动态" action="" layout="" clone="0" namechanged="0" order="6" ispublic="0" tagname="部门动态" viewid="1006" contentviewid="" stylesysid=""--><ul>
+           <li>
+                <a class="oh block" href="info/1005/1623.htm" target="_blank" title="【疫情防控】网络与信息技术中心提供“桂电智慧校园小程序”">
+                     <span class="float_l">【疫情防控】网络与信息技术中心提供“桂电智慧校园小程序”</span><i class="float_r">02/20</i>
+                  </a>
+            </li>
+           <li>
+                <a class="oh block" href="bwcx.htm" target="_blank" title="【不忘初心、牢记使命】网信中心“不忘初心、牢记使命”专题活动">
+                     <span class="float_l">【不忘初心、牢记使命】网信中心“不忘初心、牢记使命”专题活动</span><i class="float_r">10/21</i>
+                  </a>
+            </li>
+           <li>
+                <a class="oh block" href="info/1005/1562.htm" target="_blank" title="学校召开信息化建设领导小组会议">
+                     <span class="float_l">学校召开信息化建设领导小组会议</span><i class="float_r">09/30</i>
+                  </a>
+            </li>
+           <li>
+                <a class="oh block" href="info/1005/1464.htm" target="_blank" title="网络与信息技术中心召开2018年度领导班子及党员领导干部民主生活会（图）">
+                     <span class="float_l">网络与信息技术中心召开2018年度领导班子及党员领导干部民主...</span><i class="float_r">01/18</i>
+                  </a>
+            </li>
+           <li>
+                <a class="oh block" href="info/1005/1463.htm" target="_blank" title="网络与信息技术中心召开部门中干考核评优推荐会">
+                     <span class="float_l">网络与信息技术中心召开部门中干考核评优推荐会</span><i class="float_r">01/15</i>
+                  </a>
+            </li>
+           <li>
+                <a class="oh block" href="info/1005/1443.htm" target="_blank" title="网络与信息技术中心党支部开展关于整治形式主义、官僚主义有关问题学习与典型通报会">
+                     <span class="float_l">网络与信息技术中心党支部开展关于整治形式主义、官僚主义有...</span><i class="float_r">11/01</i>
+                  </a>
+            </li>
+           <li>
+                <a class="oh block" href="info/1005/1434.htm" target="_blank" title="瀚特公司与天融信公司到现代教育技术中心进行技术交流">
+                     <span class="float_l">瀚特公司与天融信公司到现代教育技术中心进行技术交流</span><i class="float_r">09/11</i>
+                  </a>
+            </li>
+           <li>
+                <a class="oh block" href="info/1005/1433.htm" target="_blank" title="李文军副校长到现代教育技术中心进行安全检查工作">
+                     <span class="float_l">李文军副校长到现代教育技术中心进行安全检查工作</span><i class="float_r">09/04</i>
+                  </a>
+            </li>
+           <li>
+                <a class="oh block" href="http://www.guet.edu.cn/info/1152/46410.htm" target="_blank" title="学校召开信息化建设领导小组第一次会议">
+                     <span class="float_l">学校召开信息化建设领导小组第一次会议</span><i class="float_r">07/20</i>
+                  </a>
+            </li>
+</ul><script>_showDynClickBatch(['dynclicks_u6_1623','dynclicks_u6_1580','dynclicks_u6_1562','dynclicks_u6_1464','dynclicks_u6_1463','dynclicks_u6_1443','dynclicks_u6_1434','dynclicks_u6_1433','dynclicks_u6_1414'],[1623,1580,1562,1464,1463,1443,1434,1433,1414],"wbnews", 1404050456)</script>
+<!--#endeditable--></DIV>
+                        </DIV>
+                    </DIV>
+                </DIV>
+                <DIV class="w_1100" style="margin-bottom: 10px; margin-top: 30px"><!--#begineditable contype="" name="常用链接" action="" layout="" clone="0" namechanged="0" order="7" ispublic="0" tagname="常用链接" viewid="160148" contentviewid="" stylesysid=""--><script language="javascript" src="/system/resource/js/openlink.js"></script><ul class="c_1098">
+                    <li class="link">
+                        <a href="#">常用链接</a>
+                    </li>
+                                        <li>
+                        <a target="_blank" href="http://ipclient.guet.edu.cn/ipmanager/ipclient/ipclient_help.html">
+                            出校控制器下载
+                        </a>
+                    </li>
+                    <li>
+                        <a target="_blank" href="http://www.guet.edu.cn/">
+                            校外主页
+                        </a>
+                    </li>
+                    <li>
+                        <a target="_blank" href="http://iw.guet.edu.cn/">
+                            校内主页
+                        </a>
+                    </li>
+                    <li>
+                        <a target="_blank" href="https://cas.guet.edu.cn/cas/login?service=http://fwdt.guet.edu.cn/EIP//user/index.htm">
+                            智慧校园
+                        </a>
+                    </li>
+                    <li>
+                        <a target="_blank" href="http://www.guet.edu.cn/jxzyzx/">
+                            教学资源中心
+                        </a>
+                    </li>
+                    <li>
+                        <a target="_blank" href="http://ipclient.guet.edu.cn">
+                            流量查询
+                        </a>
+                    </li>
+                </ul>
+<!--#endeditable--></DIV>
+            </DIV>
+        </DIV>
+        <DIV class="pz_down">
+            <DIV class="w_1100 clearfix">
+                <DIV class="b_left"><!--#begineditable contype="" name="版权" action="" layout="" clone="0" namechanged="0" order="8" ispublic="0" tagname="版权" viewid="160149" contentviewid="" stylesysid=""--><!-- 版权内容请在本组件"内容配置-版权"处填写 -->
+<p>©版权所有：桂林电子科技大学&nbsp;校址：中国广西桂林金鸡路1号<br />备案号：<span style="color: #262626">桂ICP备 05000961 号 </span>&nbsp;&nbsp;前置审核编号：<span style="color: #262626">桂JS201012-003</span></p><!--#endeditable--></DIV>
+                <DIV class="b_right"><!--#begineditable contype="" name="主页|收藏" action="" layout="" clone="0" namechanged="0" order="9" ispublic="0" tagname="主页|收藏" viewid="160157" contentviewid="" stylesysid=""-->
+<script language="javascript">
+function dosuba160157a()
+{
+    try{
+        var ua = navigator.userAgent.toLowerCase();
+        if(ua.indexOf("msie 8")>-1)
+        {
+            window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE8
+        }else if(ua.toLowerCase().indexOf("rv:")>-1)
+        {
+            window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE11+
+        }else{
+            if (document.all) 
+            {
+                window.external.addFavorite(document.location.href, document.title);
+            }else if(window.sidebar)
+            {
+                window.sidebar.addPanel( document.title, document.location.href, "");//firefox
+            }
+            else
+            {
+                alert(hotKeysa160157a());
+            }
+        }
+
+    }
+    catch (e){alert("无法自动添加到收藏夹，请使用 Ctrl + d 手动添加");}
+}
+function hotKeysa160157a() 
+{
+    var ua = navigator.userAgent.toLowerCase(); 
+    var str = "";    
+    var isWebkit = (ua.indexOf('webkit') != - 1); 
+    var isMac = (ua.indexOf('mac') != - 1);     
+    if (ua.indexOf('konqueror') != - 1) 
+    {  
+        str = 'CTRL + B'; // Konqueror   
+    } 
+    else if (window.home || isWebkit || isMac) 
+    {        
+        str = (isMac ? 'Command/Cmd' : 'CTRL') + ' + D'; // Netscape, Safari, iCab, IE5/Mac   
+    }
+    return ((str) ? '无法自动添加到收藏夹，请使用' + str + '手动添加' : str);
+}
+function setHomepagea160157a()
+{
+    var url = document.location.href;
+    if (document.all)
+    {
+        document.body.style.behavior='url(#default#homepage)';
+        document.body.setHomePage(url);
+    }
+    else if (window.sidebar)
+    {
+        if(window.netscape)
+        {
+             try{
+                  netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+             }catch (e){
+                   alert("该操作被浏览器拒绝，如果想启用该功能，请在地址栏内输入 about:config,然后将项 signed.applets.codebase_principal_support 值该为true");
+             }
+        }
+    var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components. interfaces.nsIPrefBranch);
+    prefs.setCharPref('browser.startup.homepage',url);
+    }
+    else
+    {
+        alert("浏览器不支持自动设为首页，请手动设置");
+    }
+}
+</script>
+<table>
+    <tr>
+        <td style="font-size: 9pt">
+            <A onclick="javascript:dosuba160157a();" href="#" style="TEXT-DECORATION: none;">
+                <span style="TEXT-DECORATION: none;COLOR: #222222;FONT-FAMILY: 宋体;FONT-SIZE: 9pt;">&nbsp;加入收藏&nbsp;</span>
+            </A><span style="COLOR: #222222;FONT-FAMILY: 宋体;FONT-SIZE: 9pt;">|</span>
+            <A href="http://www.guet.edu.cn/xjzx" style="TEXT-DECORATION: none;">
+                <span style="TEXT-DECORATION: none;COLOR: #222222;FONT-FAMILY: 宋体;FONT-SIZE: 9pt;">&nbsp;联系我们</span>
+            </A>
+         </td>
+    </tr>
+</table><!--#endeditable--></DIV>
+            </DIV>
+        </DIV>
+        <!--  <div class="PZ_float">
+            <li>
+                <img src="images/z_pic8.jpg" width="110" height="137" />
+            </li>
+            <li>
+                <img src="images/float_img2.png" width="110" height="137" />
+            </li>
+        </div>
+        -->
+
+    </BODY>
+</HTML>

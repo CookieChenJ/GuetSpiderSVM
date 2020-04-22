@@ -1,0 +1,582 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>组织部 </title><META Name="keywords" Content="组织部 " />
+
+    
+    <meta name="description" content="" />
+    <link rel="stylesheet" type="text/css" href="dfiles/11258/css/style.css" />
+    <link rel="stylesheet" type="text/css" href="dfiles/11258/css/css.css" />
+    <script type="text/javascript" src="dfiles/11258/css/jquery_002.js"></script>
+    <script type="text/javascript" src="dfiles/11258/css/index.js"></script>
+    <script type="text/javascript" src="dfiles/11258/css/jquery.js"></script>
+    <link href="dfiles/11258/css/css.css" rel="stylesheet" />
+    <style type="text/css">
+        .auto-style1 {
+            width: 100%;
+            border: 1px solid #FFFFFF;
+            background-color: #C0C0C0;}
+        .auto-style2 {
+            width: 67px;
+            background-color: #FFFFFF;}
+        .auto-style3 {
+            width: 73px;}
+        .auto-style4 {
+            width: 73px;
+            height: 20px;}
+        </style>
+<style type="text/css">.mypng img {azimuth: expression(this.pngSet?this.pngSet=true:(this.nodeName == "IMG" && this.src.toLowerCase().indexOf('.png')>-1?(this.runtimeStyle.backgroundImage = "none",this.runtimeStyle.filter = "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='" + this.src + "', sizingMethod='image')",this.src = "transparent.gif"):(this.origBg = this.origBg? this.origBg :this.currentStyle.backgroundImage.toString().replace('url("','').replace('")',''),this.runtimeStyle.filter = "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='" + this.origBg + "', sizingMethod='crop')",this.runtimeStyle.backgroundImage = "none")),this.pngSet=true);}</style>
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="index.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/vsbscreen.min.js" id="_vsbscreen" devices="pc|mobile|pad"></script>
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1036,'/index.jsp',-1,1410804833)</script>
+</head>
+<body>
+     
+<div>
+ 
+</div>
+
+<div>
+
+	 
+</div>
+     <div class="main">
+        
+
+<div class="zkd_header">
+    <div class="logo">
+ 
+            <!--#begineditable name="LOGO" viewid="200329" tagname="LOGO" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""-->
+<!-- 网站logo图片地址请在本组件"内容配置-网站logo"处填写 -->
+<a href="" title="组织部"><img src="dfiles/11258/css/logo.gif" width="980" height="150" border="0" alt="组织部" title="组织部"></a><!--#endeditable-->
+    </div>
+</div>
+<div class="clear"></div>
+<div class="zkd_nav">
+
+    <div class="zkd_navbody"> 
+                 <!--#begineditable name="网站导航" viewid="200319" tagname="网站导航" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""-->     <span><a href="http://www.gliet.edu.cn" style="color: #7a531c">学校主页</a></span> 
+     <span><a href="index.htm" style="color: #7a531c">本站首页</a></span> 
+     <span><a href="bmjj.htm" style="color: #7a531c">部门简介</a></span> 
+     <span><a href="gbgz.htm" style="color: #7a531c">干部工作</a></span> 
+     <span><a href="djgz.htm" style="color: #7a531c">党建工作</a></span> 
+     <span><a href="dxgz.htm" style="color: #7a531c">党校工作</a></span> 
+     <span><a href="gzzd.htm" style="color: #7a531c">规章制度</a></span> 
+     <span><a href="xzzx.htm" style="color: #7a531c">下载中心</a></span> 
+<!--#endeditable-->
+        <div class="zkd_right">
+            <!--#begineditable name="全文检索" viewid="200334" tagname="全文检索" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--><script type="text/javascript">
+    function _nl_ys_check(){
+        
+        var keyword = document.getElementById('showkeycode200334').value;
+        if(keyword==null||keyword==""){
+            alert("请输入你要检索的内容！");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkeyword200334").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkeyword200334").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkeyword200334").value = base64.encode(document.getElementById("lucenenewssearchkeyword200334").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode200334"));
+        return true;
+    } 
+</script>
+<form action="search.jsp?wbtreeid=1036" method="post" id="au2a" name="au2a" onsubmit="return _nl_ys_check()" style="display: inline">
+ <input type="hidden" id="lucenenewssearchkeyword200334" name="lucenenewssearchkeyword" value=""><input type="hidden" id="_lucenesearchtype200334" name="_lucenesearchtype" value="1"><input type="hidden" id="searchScope200334" name="searchScope" value="0">
+ 
+
+<div class="zkd_navbodydate">
+                <input name="showkeycode" id="showkeycode200334" type="text" placeholder="查询关键词" style="border-style:None;height:18px;width:130px;">
+          </div> 
+      <div class="zkd_navbodydate1">
+          <input type="image" name="head$ImageButton1" id="head_ImageButton1" src="dfiles/11258/css/2.jpg" align="absmiddle" style="border-width:0px;cursor: hand">
+    </div> 
+
+
+
+</form><script language="javascript" src="/system/resource/js/base64.js"></script><script language="javascript" src="/system/resource/js/formfunc.js"></script>
+<!--#endeditable-->
+       </div> 
+ 
+
+</div>
+
+<div class="clear"></div>                     
+           <div class="zkd_con1">
+              <div class="zkd_con1zuo">
+                <div class="zkd_con1zuo_xwtp">
+                             <!--#begineditable name="banner变换" viewid="200362" tagname="banner变换" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--><style type="text/css">
+ul,li{
+    padding:0;
+    margin:0;
+    list-style:none;}
+#flashBoxu_u3_{
+    width:300px;
+    height:230px;
+    border:0px solid #EEE;
+    position:relative;
+    margin-left: auto;
+    margin-right: auto;}
+#flashBoxu_u3_ img{
+    /*初始不要显示*/
+    display:none;
+    /*用边框来实现空位，因为margin和paading有时会引起些麻烦*/
+    border:0px solid #FFF;}
+#flashBoxu_u3_ ul{
+    position:absolute;
+    right:7px;
+    bottom:3px;
+    font:9px tahoma;}
+#flashBoxu_u3_ ul li{
+    display:block;
+    float:left;
+    width:12px;
+    height:12px;
+    line-height:12px;
+    margin-right:3px;
+    border:0px solid #999;
+    background:#F0F0F0;
+    text-align:center;
+    cursor:pointer;}
+#flashBoxu_u3_ ul li.hover{
+    border-color:red;
+    background:#FFE1E1;
+    color:red;}
+</style>
+<script type="text/javascript">
+function flashBoxCtrl(o){
+    this.obj=document.getElementById(o);
+    //这个私有方法虽然写了，但暂时没用到
+    function addListener(ele,eventName,functionBody){
+        if (ele.attachEvent){
+            ele.attachEvent("on"+eventName, functionBody);
+        }else if (ele.addEventListener){
+            ele.addEventListener("on"+eventName,functionBody, false);
+        }else{
+            return false;
+        }
+    }
+    //初始化
+    this.init=function(){
+        var objImg=this.obj.getElementsByTagName("img");
+        var tagLength=objImg.length;
+        if (tagLength>0){
+            var oUl=document.createElement("ul");
+            oUl.setAttribute("id",o+"numTag");
+            for (var i=0;i<tagLength;i++){
+                var oLi=oUl.appendChild(document.createElement("li"));
+                if (i==0){
+                    oLi.setAttribute("class","hover"); //初始化时把第一个设置为高亮
+                    oLi.setAttribute("className","hover");
+                }
+                //设置标签的数字
+                oLi.appendChild(document.createTextNode((i+1)));
+            }
+            this.obj.appendChild(oUl);
+            objImg[0].style.display="block";
+            //设置标签事件
+            var oTag=this.obj.getElementsByTagName("li");
+            for (var i=0;i<oTag.length;i++){
+                var flag = 0;
+                var temp = 0;
+                var timeout=null;
+                var step = function(){
+                    for (j=0;j<oTag.length;j++){
+                        oTag[j].className="";
+                        objImg[j].style.display="none";
+                    }
+                    this.className="hover";
+                    flag = flag>=oTag.length-1?0:flag+1;
+                    objImg[flag].style.display="block";
+                    oTag[flag].className = "hover";
+                    timeout = setTimeout(step,4000);
+                };
+                oTag[i].onmouseover=function(){
+                    for (j=0;j<oTag.length;j++){
+                        oTag[j].className="";
+                        objImg[j].style.display="none";
+                        temp = j;
+                    }
+                    this.className="hover";
+                    objImg[this.innerHTML-1].style.display="block";
+                    temp = this.innerHTML-1;
+                    flag = i;
+                    clearInterval(timeout);
+                }
+                oTag[i].onmouseout = function(){
+                    for (j=0;j<oTag.length;j++){
+                        oTag[j].className="";
+                        objImg[j].style.display="none";
+                    }
+                    flag = temp;
+                    objImg[temp].style.display="block";
+                    oTag[temp].className = "hover";
+                    timeout = setTimeout(step,4000);
+                }
+                if(i==0)
+                {
+                    timeout = setTimeout(step,4000);
+                }
+            }
+        }
+    };
+    //自动滚动的方法还没写
+    this.imgRoll=function(){};
+    //生成对象时自动加载init()方法以初始化对象
+    this.init();
+}
+</script>
+<table cellspacing="0" cellpadding="0" border="0"><tr><td><div id="flashBoxu_u3_"><a href="https://www.guet.edu.cn/zzb/info/1002/1705.htm" target="_blank"><img src="images/2.jpg" border="0" width="300" height="230" /></a><a href="https://www.guet.edu.cn/zzb/info/1002/1706.htm" target="_blank"><img src="images/1.jpg" border="0" width="300" height="230" alt="巡视整改】校党委书记张学洪在“不忘初心" 牢记使命”主题教育干部培训班作意识形态专题报告 title="巡视整改】校党委书记张学洪在“不忘初心" 牢记使命”主题教育干部培训班作意识形态专题报告 /></a><a href="https://www.guet.edu.cn/zzb/info/1002/1702.htm" target="_blank"><img src="images/5.jpg" border="0" width="300" height="230" /></a><a href="https://www.guet.edu.cn/zzb/info/1002/1704.htm" target="_blank"><img src="images/3.jpg" border="0" width="300" height="230" /></a></div></td></tr></table><SCRIPT language="JavaScript">new flashBoxCtrl("flashBoxu_u3_");</SCRIPT><!--#endeditable-->
+                </div> 
+                <div class="zkd_con1zuo_xwzx">
+                    <div class="zkd_con1zuo_xwzx_top">
+                           <a href="index/gzdt.htm">  <img src="dfiles/11258/css/more.gif" border="0" style="float: right; margin:14px 11px 5px 0px "></a>                       
+                              <span class="xw_yxyzxw">工作动态</span> 
+                    </div>
+                    <div class="zkd_con1you_xwzxbody">
+                       <ul class="xwzxbowshou" id="Ul6"><!--#begineditable name="工作动态-标题列表" viewid="200320" tagname="工作动态-标题列表" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--><script language="javascript" src="/system/resource/js/dynclicks.js"></script>    <li><span>03-19</span> <a href="info/1002/1961.htm" title="【疫情防控】学校成立湖北境内师生疫区临时党支部">【疫情防控】学校成立湖北境内师生疫区临时党支部</a> </li>
+    <li><span>03-18</span> <a href="info/1002/1957.htm" title="【疫情防控】防疫榜样（六）:面对疫情，她们用行动诠释责任！">【疫情防控】防疫榜样（六）:面对疫情，她们用行动诠...</a> </li>
+    <li><span>03-18</span> <a href="info/1002/1956.htm" title="【疫情防控】防疫榜样（五）:面对疫情，他们用行动诠释责任！">【疫情防控】防疫榜样（五）:面对疫情，他们用行动诠...</a> </li>
+    <li><span>03-18</span> <a href="info/1002/1955.htm" title="【疫情防控】防疫榜样（四）:面对疫情，他们用行动诠释责任！">【疫情防控】防疫榜样（四）:面对疫情，他们用行动诠...</a> </li>
+    <li><span>03-18</span> <a href="info/1002/1954.htm" title="【疫情防控】防疫榜样（三）：石梅：战“疫”中外国留学生的温暖守护者">【疫情防控】防疫榜样（三）：石梅：战“疫”中外国...</a> </li>
+    <li><span>03-04</span> <a href="info/1002/1932.htm" title="【疫情防控】防疫榜样（二）:面对疫情，他们用行动诠释责任！">【疫情防控】防疫榜样（二）:面对疫情，他们用行动诠...</a> </li>
+    <li><span>03-03</span> <a href="info/1002/1931.htm" title="【疫情防控】防疫榜样（一）:面对疫情，他们用行动诠释责任！">【疫情防控】防疫榜样（一）:面对疫情，他们用行动诠...</a> </li>
+    <li><span>03-02</span> <a href="info/1002/1930.htm" title="【疫情防控】学校对新冠肺炎疫情防控工作中表现突出的石梅同志进行通报表扬（图）">【疫情防控】学校对新冠肺炎疫情防控工作中表现突出...</a> </li>
+<script>_showDynClickBatch(['dynclicks_u4_1961','dynclicks_u4_1957','dynclicks_u4_1956','dynclicks_u4_1955','dynclicks_u4_1954','dynclicks_u4_1932','dynclicks_u4_1931','dynclicks_u4_1930'],[1961,1957,1956,1955,1954,1932,1931,1930],"wbnews", 1410804833)</script>
+<!--#endeditable--></ul>
+                    </div>
+                </div>
+              </div>   
+              <div class="zkd_con1you">
+                <div class="zkd_con1you_tongzhi"> 
+                   <div class="zkd_con1you_tongzhitop">                                        
+                                <a href="index/tzgg.htm">
+                                <img src="dfiles/11258/css/more.gif" border="0" style="float: right; margin: 14px 11px 5px 0;"></a>
+                            <span class="xw_yxyzxw">通知公告</span>
+                   </div>                          
+                       <div class="zkd_con1you_tongzhibody">
+                           
+   <marquee direction="up" onmouseout="this.start()" onmouseover="this.stop()" scrollamount="2" scrolldelay="10" style="width:260px;height:214px">                               
+                            <ul class="xwzxbowshoutz" id="Ul1">                                                                   
+                                <!--#begineditable name="通知公告-标题列表" viewid="200321" tagname="通知公告-标题列表" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""-->    <li><img alt="" ;="" src="dfiles/11258/css/xb.jpg"> <a href="info/1004/1971.htm" title="关于转发桂林市党的建设研究会《关于开展2020年度党建课题和自选课题研究的通知》的通知">关于转发桂林市党的建设研究会《关于开...(2020-04-02) </a> </li>
+    <li><img alt="" ;="" src="dfiles/11258/css/xb.jpg"> <a href="info/1004/1960.htm" title="干部考察预告">干部考察预告(2020-03-26) </a> </li>
+    <li><img alt="" ;="" src="dfiles/11258/css/xb.jpg"> <a href="info/1004/1941.htm" title="关于干部教育培训桂林电子科技大学基地 师资库兼职教师申报的通知">关于干部教育培训桂林电子科技大学基地 ...(2020-03-13) </a> </li>
+    <li><img alt="" ;="" src="dfiles/11258/css/xb.jpg"> <a href="info/1004/1923.htm" title="关于举办第30期党员发展对象培训班（毕业班专项培训）的通知">关于举办第30期党员发展对象培训班（毕...(2020-03-05) </a> </li>
+    <li><img alt="" ;="" src="dfiles/11258/css/xb.jpg"> <a href="info/1004/1926.htm" title="【疫情防控】国务院发布重要通知">【疫情防控】国务院发布重要通知(2020-02-27) </a> </li>
+    <li><img alt="" ;="" src="dfiles/11258/css/xb.jpg"> <a href="info/1004/1921.htm" title="【疫情防控】关于启用数字防疫系统的通知">【疫情防控】关于启用数字防疫系统的通知(2020-02-25) </a> </li>
+    <li><img alt="" ;="" src="dfiles/11258/css/xb.jpg"> <a href="info/1004/1918.htm" title="【疫情防控】关于进一步做好教职工返桂相关事宜的通知">【疫情防控】关于进一步做好教职工返桂...(2020-02-21) </a> </li>
+    <li><img alt="" ;="" src="dfiles/11258/css/xb.jpg"> <a href="info/1004/1915.htm" title="【疫情防控】自治区下发通知：学校疫情防控工作“十严格”">【疫情防控】自治区下发通知：学校疫情...(2020-02-17) </a> </li>
+<script>_showDynClickBatch(['dynclicks_u5_1971','dynclicks_u5_1960','dynclicks_u5_1941','dynclicks_u5_1923','dynclicks_u5_1926','dynclicks_u5_1921','dynclicks_u5_1918','dynclicks_u5_1915'],[1971,1960,1941,1923,1926,1921,1918,1915],"wbnews", 1410804833)</script>
+<!--#endeditable-->     
+                         </ul>                                 
+       </marquee>                  
+                                                                                                                                                                   
+                       </div> 
+                 </div> 
+               </div>
+           </div>
+      
+   <div class="clear"></div>
+
+          <div class="zkd_con1">
+              <div class="zkd_con2zuo">
+               
+                    <div class="zkd_con2zuo_al">
+                        <div class="xwzx11">
+                                <a href="index/llxx.htm">
+                                <img src="dfiles/11258/css/more.gif" border="0" style="float: right; margin: 14px 11px 5px 0;"></a>
+                            <span class="xw_yxyzxw">理论学习</span>
+                        </div>
+                        <ul class="xwzxbowshoull" id="showNews1">
+                            <!--#begineditable name="理论学习-标题列表" viewid="200322" tagname="理论学习-标题列表" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--> 
+   <li><span>03-25</span><a href="info/1003/1959.htm" title="习近平：在决战决胜脱贫攻坚座谈会上的讲话">习近平：在决战决胜脱贫攻坚座谈会上的讲话</a> </li>
+   <li><span>03-19</span><a href="info/1003/1958.htm" title="习近平：决不能让来之不易的疫情防控持续向好形势发生逆转">习近平：决不能让来之不易的疫情防控持续向...</a> </li>
+   <li><span>03-18</span><a href="info/1003/1953.htm" title="教育部印发通知 学习宣传和贯彻实施《新时代高等学校思想政治理论课教师队伍建设规定》">教育部印发通知 学习宣传和贯彻实施《新时代...</a> </li>
+   <li><span>02-29</span><a href="info/1003/1929.htm" title="习近平：全面提高依法防控依法治理能力,健全国家公共卫生应急管理体系">习近平：全面提高依法防控依法治理能力,健全...</a> </li>
+   <li><span>02-14</span><a href="info/1003/1747.htm" title="习近平：完善重大疫情防控体制机制 健全国家公共卫生应急管理体系">习近平：完善重大疫情防控体制机制 健全国家...</a> </li>
+   <li><span>02-05</span><a href="info/1003/1746.htm" title="习近平：全面提高依法防控依法治理能力 为疫情防控提供有力法治保障">习近平：全面提高依法防控依法治理能力 为疫...</a> </li>
+   <li><span>02-03</span><a href="info/1003/1749.htm" title="习近平：在中央政治局常委会会议研究应对新型冠状病毒肺炎疫情工作时的讲话">习近平：在中央政治局常委会会议研究应对新...</a> </li>
+   <li><span>01-18</span><a href="info/1003/1748.htm" title="习近平：在“不忘初心、牢记使命”主题教育总结大会上的讲话">习近平：在“不忘初心、牢记使命”主题教育...</a> </li>
+<script>_showDynClickBatch(['dynclicks_u6_1959','dynclicks_u6_1958','dynclicks_u6_1953','dynclicks_u6_1929','dynclicks_u6_1747','dynclicks_u6_1746','dynclicks_u6_1749','dynclicks_u6_1748'],[1959,1958,1953,1929,1747,1746,1749,1748],"wbnews", 1410804833)</script>
+<!--#endeditable-->
+                        </ul>                       
+                    </div>                    
+
+                    <div class="zkd_con2zuo_ar">
+                        <div class="xwzx12">
+                              <a href="djgz/jcfc.htm">
+                                <img src="dfiles/11258/css/more.gif" border="0" style="float: right; margin: 14px 11px 5px 0;"></a>
+                           <span class="xw_yxyzxw">基层风采</span>                         
+                        </div>
+                        <ul class="xwzxbowshoudj" id="showNews3">
+                            <!--#begineditable name="基层风采-标题列表" viewid="200323" tagname="基层风采-标题列表" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""-->    <li><span>02-21</span> <a href="info/1023/1919.htm" title="【疫情防控】商学院学子：助力社区疫情防控 筑起防疫青春长城（图）">【疫情防控】商学院学子：助力社区疫情防控 ...</a> </li>
+    <li><span>02-18</span> <a href="info/1023/1917.htm" title="【疫情防控】北海校区教师党员勇担使命全力抗“疫”">【疫情防控】北海校区教师党员勇担使命全力...</a> </li>
+    <li><span>02-17</span> <a href="info/1023/1916.htm" title="【疫情防控】北海校区学工系统全力以赴打好疫情防控战​">【疫情防控】北海校区学工系统全力以赴打好...</a> </li>
+    <li><span>02-16</span> <a href="info/1023/1902.htm" title="【疫情防控】机电工程学院党委召开疫情防控专题学习会暨2020年中心组理论学习会">【疫情防控】机电工程学院党委召开疫情防控...</a> </li>
+    <li><span>02-16</span> <a href="info/1023/1901.htm" title="【疫情防控】商学院召开党委扩大会议部署疫情防控工作">【疫情防控】商学院召开党委扩大会议部署疫...</a> </li>
+    <li><span>02-15</span> <a href="info/1023/1764.htm" title="【疫情防控】国际学院党总支召开疫情防控专题视频会暨中心组理论学习">【疫情防控】国际学院党总支召开疫情防控专...</a> </li>
+    <li><span>02-13</span> <a href="info/1023/1765.htm" title="【疫情防控】生命与环境科学学院党委召开疫情防控专题视频会暨中心组理论学习">【疫情防控】生命与环境科学学院党委召开疫...</a> </li>
+    <li><span>02-11</span> <a href="info/1023/1766.htm" title="【疫情防控】电子工程与自动化学院召开疫情防控专题学习视频会议暨2020年第二次中心组理论学习">【疫情防控】电子工程与自动化学院召开疫情...</a> </li>
+<script>_showDynClickBatch(['dynclicks_u7_1919','dynclicks_u7_1917','dynclicks_u7_1916','dynclicks_u7_1902','dynclicks_u7_1901','dynclicks_u7_1764','dynclicks_u7_1765','dynclicks_u7_1766'],[1919,1917,1916,1902,1901,1764,1765,1766],"wbnews", 1410804833)</script>
+<!--#endeditable-->
+                        </ul>
+                    </div>
+ 
+                  </div>
+            <div class="zkd_con2you">
+                <div class="zkd_con2you_guanli"> 
+                   <div class="zkd_con2you_guanlitop">                                        
+                                <a href="gbgz/gbrm.htm">
+                                <img src="dfiles/11258/css/more.gif" border="0" style="float: right; margin: 14px 11px 5px 0;"></a>
+                            <span class="xw_yxyzxw">干部任免</span>
+                   </div>                          
+                       <div class="zkd_con2you_guanlibody">
+                         <div class="zhibantable">     
+                                 <ul class="xwzxbowshouguanli" id="Ul2">                                                                   
+                                <!--#begineditable name="干部任免-标题列表" viewid="200324" tagname="干部任免-标题列表" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""-->    <li><span>04-14</span> <a href="info/1031/1981.htm" title="关于张坚同志任职的通知">关于张坚同志任职的通知</a> </li>
+    <li><span>03-16</span> <a href="info/1031/1952.htm" title="关于王祥同志任免职的通知">关于王祥同志任免职的通知</a> </li>
+    <li><span>03-16</span> <a href="info/1031/1951.htm" title="关于蒋占四同志免职的通知">关于蒋占四同志免职的通知</a> </li>
+    <li><span>02-14</span> <a href="info/1031/1778.htm" title="关于文辉等同志任免职的通知">关于文辉等同志任免职的通知</a> </li>
+    <li><span>01-05</span> <a href="info/1031/1780.htm" title="关于黎昕等同志任免职的通知">关于黎昕等同志任免职的通知</a> </li>
+    <li><span>01-05</span> <a href="info/1031/1779.htm" title="关于陈文武等同志任免职的通知">关于陈文武等同志任免职的通知</a> </li>
+    <li><span>12-31</span> <a href="info/1031/1787.htm" title="关于曹卫平等同志试用期满正式任用的通知">关于曹卫平等同志试用期满正式...</a> </li>
+    <li><span>12-31</span> <a href="info/1031/1786.htm" title="关于李祥斌同志任职的通知">关于李祥斌同志任职的通知</a> </li>
+<script>_showDynClickBatch(['dynclicks_u8_1981','dynclicks_u8_1952','dynclicks_u8_1951','dynclicks_u8_1778','dynclicks_u8_1780','dynclicks_u8_1779','dynclicks_u8_1787','dynclicks_u8_1786'],[1981,1952,1951,1778,1780,1779,1787,1786],"wbnews", 1410804833)</script>
+<!--#endeditable-->   
+                             </ul>                                  
+                        </div>                                                                                           
+                       </div> 
+                    </div> 
+              </div>
+        </div>
+
+    <div class="clear"></div>
+
+           <div class="zkd_con3">
+                <div class="zkd_con3zuo">
+                         <div class="zkd_con3zuo_a">
+                    <div class="zkd_con3zuo_al">
+                       <div class="xwzx21">
+                    
+                             <a href="http://lxyz.12371.cn/">
+                                 <img src="dfiles/11258/upload/201710/19768_10103035197133.jpg" border="0" style="float: right; margin: 0 0 0 0;" /></a>                                
+                                 
+
+   
+                         </div>                                 
+                    </div>
+                     <div class="zkd_con3zuo_am">
+                       <div class="xwzx21">
+                    
+                             <a href="http://www.guetpx.cn/">
+                                 <img src="dfiles/11258/upload/201509/25268_12185740105353.jpg" border="0" style="float: right; margin: 0 0 0 0;" /></a>                                
+                                 
+                     
+ 
+                          </div>                              
+                    </div>
+                    <div class="zkd_con3zuo_ar">
+                         <div class="xwzx21">
+                    
+                             <a href="http://172.16.26.37/cms">
+                                 <img src="dfiles/11258/upload/201903/25868_06112615122198.jpg" border="0" style="float: right; margin: 0 0 0 0;" /></a>                                
+                                 
+                     
+                         
+                        </div>                     
+                    </div>
+                 </div>
+ 
+                    <div class="zkd_con3zuo_2">                  
+                    <div class="zkd_con3zuo_2al">
+                        <div class="xwzx11">
+                                <a href="news/list_e.aspx?c=32">
+                                <img src="dfiles/11258/css/more.gif" border="0" style="float: right; margin:14px 11px 5px 0;"></a>
+                           <span class="xw_yxyzxw">规章制度</span>
+                        </div>
+                        <ul class="xwzxbowshoull" id="Ul4">
+                            <!--#begineditable name="规章制度-标题列表" viewid="200325" tagname="规章制度-标题列表" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""-->    <li><span>05-30</span> <a href="info/1017/1719.htm" title="桂林电子科技大学专兼职组织员聘任与管理暂行办法">桂林电子科技大学专兼职组织员聘任与管理暂...</a> </li>
+    <li><span>05-30</span> <a href="info/1017/1718.htm" title="中共桂林电子科技大学委员会党校管理办法（试行）">中共桂林电子科技大学委员会党校管理办法（...</a> </li>
+    <li><span>05-20</span> <a href="info/1017/1720.htm" title="桂林电子科技大学党员领导干部联系优秀青年教师入党积极分子制度">桂林电子科技大学党员领导干部联系优秀青年...</a> </li>
+    <li><span>03-26</span> <a href="info/1017/1717.htm" title="中国共产党桂林电子科技大学基层党支部换届选举工作实施办法">中国共产党桂林电子科技大学基层党支部换届...</a> </li>
+    <li><span>03-26</span> <a href="info/1017/1716.htm" title="中国共产党桂林电子科技大学基层党组织选举大会工作规定">中国共产党桂林电子科技大学基层党组织选举...</a> </li>
+    <li><span>05-20</span> <a href="info/1017/1730.htm" title="关于印发《加强和改进领导干部深入基层联系学生工作方案》的通知">关于印发《加强和改进领导干部深入基层联系...</a> </li>
+<script>_showDynClickBatch(['dynclicks_u9_1719','dynclicks_u9_1718','dynclicks_u9_1720','dynclicks_u9_1717','dynclicks_u9_1716','dynclicks_u9_1730'],[1719,1718,1720,1717,1716,1730],"wbnews", 1410804833)</script>
+<!--#endeditable-->
+                        </ul>                       
+                    </div>                    
+
+                    <div class="zkd_con3zuo_2ar">
+                        <div class="xwzx12">
+                              <a href="news/list_dan.aspx?c=38">
+                                <img src="dfiles/11258/css/more.gif" border="0" style="float: right; margin:14px 11px 5px 0;"></a>
+                           <span class="xw_yxyzxw">工作指南</span>                         
+                        </div>
+                        <ul class="xwzxbowshoudj" id="Ul5">
+                            <!--#begineditable name="工作指南-标题列表" viewid="200326" tagname="工作指南-标题列表" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""-->    <li><span>10-18</span> <a href="info/1007/1639.htm" title="【党务问答】如何对外出党员进行组织生活的管理？">【党务问答】如何对外出党员进行组织生活的...</a> </li>
+    <li><span>09-23</span> <a href="info/1007/1638.htm" title="【党务问答】预备党员毕业后如何转正？">【党务问答】预备党员毕业后如何转正？</a> </li>
+    <li><span>09-23</span> <a href="info/1007/1637.htm" title="【党务问答】如何写好“思想汇报”">【党务问答】如何写好“思想汇报”</a> </li>
+    <li><span>09-23</span> <a href="info/1007/1635.htm" title="【党务问答】如何写好“个人自传”">【党务问答】如何写好“个人自传”</a> </li>
+    <li><span>09-23</span> <a href="info/1007/1634.htm" title="【党务问答】如何写好“入党申请书”">【党务问答】如何写好“入党申请书”</a> </li>
+    <li><span>09-23</span> <a href="info/1007/1633.htm" title="【党务问答】如何对发展对象进行政审">【党务问答】如何对发展对象进行政审</a> </li>
+<script>_showDynClickBatch(['dynclicks_u10_1639','dynclicks_u10_1638','dynclicks_u10_1637','dynclicks_u10_1635','dynclicks_u10_1634','dynclicks_u10_1633'],[1639,1638,1637,1635,1634,1633],"wbnews", 1410804833)</script>
+<!--#endeditable-->
+                        </ul>
+                    </div>
+                 </div> 
+              </div>
+            <div class="zkd_con3you">
+              <div class="zkd_con3you_xaizai">
+                      <div class="zkd_con3you_xaizaitop">                   
+                                <a href="news/list_g.aspx">
+                                <img src="dfiles/11258/css/more.gif" border="0" style="float: right; margin:14px 11px 5px 0;"></a>
+                            <span class="xw_yxyzxw">下载中心</span>
+                            </div>                              
+                       <div class="zkd_con3you_xaizaibody">
+                         <div class="zhibantable">     
+                                 <ul class="xwzxbowshouguanli" id="Ul3">                                                                   
+                                    
+                                   <!--#begineditable name="下载中心-标题列表" viewid="200327" tagname="下载中心-标题列表" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""-->    <li><span>09-12</span> <a href="info/1016/1085.htm" title="中层领导干部任职意向表">中层领导干部任职意向表</a> </li>
+    <li><span>09-03</span> <a href="info/1016/1084.htm" title="附表2：中层领导干部任期届满考核登记表(2018年)">附表2：中层领导干部任期届满...</a> </li>
+    <li><span>09-03</span> <a href="info/1016/1083.htm" title="附表1：中层领导班子任期届满考核登记表(2018年)">附表1：中层领导班子任期届满...</a> </li>
+    <li><span>07-04</span> <a href="info/1015/1081.htm" title="党建工作月报（新模板，201804启用）">党建工作月报（新模板，20180...</a> </li>
+    <li><span>06-29</span> <a href="info/1015/1079.htm" title="党建工作月报（新模版，201706启用）">党建工作月报（新模版，20170...</a> </li>
+<script>_showDynClickBatch(['dynclicks_u11_1085','dynclicks_u11_1084','dynclicks_u11_1083','dynclicks_u11_1081','dynclicks_u11_1079'],[1085,1084,1083,1081,1079],"wbnews", 1410804833)</script>
+<!--#endeditable-->         
+                             </ul>                                  
+                        </div>                                                                                           
+                       </div>  
+                </div>
+              <div class="zkd_con3you_pic1">
+                    
+                             <a href="http://172.16.26.40:8081/cadre/a?login">
+                                 <img src="dfiles/11258/upload/201509/26033_12190409169843.jpg" border="0" style="float: right; margin: 0 0 0 0;" /></a>                                
+                                 
+
+              </div>
+              <div class="zkd_con3you_pic2">
+                    
+                             <a href="https://zhdj.guet.edu.cn/cms">
+                                 <img src="dfiles/11258/upload/201509/26033_12190436110799.jpg" border="0" style="float: right; margin: 0 0 0 0;" /></a>                                
+                                 
+              </div>
+              <div class="zkd_con3you_pic3">
+                    
+                             <a href="jia/login.aspx">
+                                 <img src="dfiles/11258/upload/201510/26033_05030015150373.jpg" border="0" style="float: right; margin: 0 0 0 0;" /></a>                                
+                                 
+              </div>
+            </div>  
+  </div> 
+    
+
+    <div class="flink">
+        <div class="flinka" style="color: #fa5858; font-family: 宋体, Arial, Helvetica, sans-serif; font-size: 15px; line-height: 25px;">
+              友情链接 
+        </div>
+        <div class="flinkb">
+            <div id="demo">
+                <div id="indemo">
+                     <!--#begineditable name="友情链接-链接列表" viewid="200330" tagname="友情链接-链接列表" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--><script language="javascript" src="/system/resource/js/openlink.js"></script> <div id="demo1">
+                                                                                              
+
+                             <a href="http://www.xinhuanet.com"><img src="dfiles/11258/upload/201509/18040_12184706111284.gif" />    
+                               </a> 
+
+                                                                                              
+
+                             <a href="http://www.people.com.cn"><img src="dfiles/11258/upload/201509/18040_12181931129758.gif" />    
+                               </a> 
+
+                                                                                              
+
+                             <a href="http://www.moe.edu.cn"><img src="dfiles/11258/upload/201509/18040_12181854100028.gif" />    
+                               </a> 
+
+                                                                                              
+
+                             <a href="http://www.xf.people.com.cn"><img src="dfiles/11258/upload/201509/18040_12181808112687.gif" />    
+                               </a> 
+
+                                                                                              
+
+                             <a href="http://www.qstheory.cn"><img src="dfiles/11258/upload/201509/18040_12181731165274.gif" />    
+                               </a> 
+
+                                                                                              
+
+                             <a href="http://www.ccps.gov.cn"><img src="dfiles/11258/upload/201509/18040_12182036188567.gif" />    
+                               </a> 
+
+                                                                                              
+
+                             <a href="http://www.djyj.cn"><img src="dfiles/11258/upload/201509/18040_12182106137350.gif" />    
+                               </a> 
+
+                                                                                              
+
+                             <a href="http://cpc.people.com.cn"><img src="dfiles/11258/upload/201509/18040_12182133108953.gif" />    
+                               </a> 
+
+                            
+                    </div>
+<!--#endeditable-->
+              <div id="demo2"></div>
+               </div>
+       </div>
+  <script type="text/javascript">
+    window.onload = function () {
+        var speed = 20; //数字越大速度越慢
+        var tab = document.getElementById("demo");
+        var tab1 = document.getElementById("demo1");
+        var tab2 = document.getElementById("demo2");
+        tab2.innerHTML = tab1.innerHTML;
+        function Marquee() {
+            if (tab2.offsetWidth - tab.scrollLeft <= 0)
+                tab.scrollLeft -= tab1.offsetWidth
+            else {
+                tab.scrollLeft++;
+            }
+        }
+        var MyMar = setInterval(Marquee, speed);
+        tab.onmouseover = function () { clearInterval(MyMar) };
+        tab.onmouseout = function () { MyMar = setInterval(Marquee, speed) };
+    }
+</script>
+
+    </div>
+</div>
+
+
+       
+
+<div class="bot1">
+ <div class="footer">
+    <div class="footerzb" style="text-align: center">
+        <ul style="line-height: 20px; color: #000000; font-size: 13px; font-family: 宋体, Arial, Helvetica, sans-serif">
+           <!--#begineditable name="版权" viewid="200328" tagname="版权" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--><!-- 版权内容请在本组件"内容配置-版权"处填写 -->
+<p style="margin-top: 20px">中国共产党桂林电子科技大学委员会组织部　版权所有 管理员入口<br />地址：桂林电子科技大学花江校区办公楼4楼<br />电话：0773-2290361 传真：0773-2290361 电子邮箱：<a href="mailto:guetzzb@163.com">guetzzb@163.com</a></p><!--#endeditable-->
+        </ul>
+    </div>
+
+</div>
+</div>
+
+
+
+</div> 
+
+</form>
+</body>
+</html>

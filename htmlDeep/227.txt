@@ -1,0 +1,1926 @@
+<!DOCTYPE html PUBLIC "-//wwwC//DTD XHTML 1.0 Transitional//EN" "http://www.www.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<title>建筑与交通工程学院</title><META Name="keywords" Content="建筑与交通工程学院" />
+
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+<link rel="stylesheet" type="text/css" href="dfiles/12862/templates/jjxy/style/reset_css.css">
+<link rel="stylesheet" type="text/css" href="dfiles/12862/templates/jjxy/style/all.css">
+<link rel="stylesheet" type="text/css" href="dfiles/12862/style/reset_css.css">
+<link rel="stylesheet" type="text/css" href="dfiles/12862/style/all.css">
+<script language="javascript" type="text/javascript" src="dfiles/12862/templates/jjxy/js/jquery.js"></script>
+<script language="javascript" type="text/javascript" src="dfiles/12862/templates/jjxy/js/playbanner.js"></script>
+<script language="javascript" type="text/javascript" src="dfiles/12862/templates/jjxy/js/load.js"></script>
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="index.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1411890336)</script>
+</head>
+<body class="indexBg">
+<!--Header-->
+<!-- top结束 -->
+<div id="header">
+  <div id="logo"></div>
+  <!-- logo结束 -->
+   <div id="toplink" style="float:right;margin-top: -100px;">
+    <ul>
+      <li><a href="eng">English Version</a> </li>
+
+    </ul>
+  </div>
+  <!-- toplink结束 -->
+  <!-- Search结束 -->
+</div>
+<!-- header结束 -->
+<div id="menu"><!--#begineditable name="网站导航" viewid="163538" tagname="网站导航" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""-->  <div class="center">
+    <ul>
+	      <li>
+			<a href="jzyjtgcxy/sy.htm" title="首页">首页</a> 
+      </li>	
+      <li>
+			<a href="" title="学院概况">学院概况</a> 
+			<ol>
+				<li>
+					<a href="jzyjtgcxy/xygk/xygk.htm" title="学院概况">学院概况</a>
+				</li>
+				<li>
+					<a href="jzyjtgcxy/xygk/xrld.htm" title="现任领导">现任领导</a>
+				</li>
+				<li>
+					<a href="jzyjtgcxy/xygk/lsyg_.htm" title="历史沿革 ">历史沿革 </a>
+				</li>
+				<li>
+					<a href="jzyjtgcxy/xygk/xyjg.htm" title="学院机构">学院机构</a>
+				</li>
+				<li>
+					<a href="jzyjtgcxy/xygk/szdw.htm" title="师资队伍">师资队伍</a>
+				</li>
+				<li>
+					<a href="jzyjtgcxy/xygk/yxggrkjs.htm" title="优秀骨干任课教师">优秀骨干任课教师</a>
+				</li>
+			</ol>
+      </li>	
+      <li>
+			<a href="" title="本科生培养">本科生培养</a> 
+			<ol>
+				<li>
+					<a href="jzyjtgcxy/bkspy/jtgczy.htm" title="交通工程专业">交通工程专业</a>
+				</li>
+				<li>
+					<a href="jzyjtgcxy/bkspy/jzhjynyyygc.htm" title="建筑环境与能源应用工程">建筑环境与能源应用工程</a>
+				</li>
+				<li>
+					<a href="jzyjtgcxy/bkspy/tmgczy.htm" title="土木工程专业">土木工程专业</a>
+				</li>
+				<li>
+					<a href="jzyjtgcxy/bkspy/jzdqyznhzy.htm" title="建筑电气与智能化专业">建筑电气与智能化专业</a>
+				</li>
+				<li>
+					<a href="jzyjtgcxy/bkspy/rcpymsgg.htm" title="人才培养模式改革">人才培养模式改革</a>
+				</li>
+				<li>
+					<a href="jzyjtgcxy/bkspy/jyjxyj.htm" title="教育教学研究">教育教学研究</a>
+				</li>
+				<li>
+					<a href="jzyjtgcxy/bkspy/xscxnlpy.htm" title="学生创新能力培养">学生创新能力培养</a>
+				</li>
+			</ol>
+      </li>	
+      <li>
+			<a href="" title="研究生培养">研究生培养</a> 
+			<ol>
+				<li>
+					<a href="jzyjtgcxy/yjspy/ssdjs.htm" title="硕士点介绍">硕士点介绍</a>
+				</li>
+				<li>
+					<a href="jzyjtgcxy/yjspy/yjsdsjs.htm" title="研究生导师介绍">研究生导师介绍</a>
+				</li>
+				<li>
+					<a href="jzyjtgcxy/yjspy/pyfa.htm" title="培养方案">培养方案</a>
+				</li>
+				<li>
+					<a href="jzyjtgcxy/yjspy/yjsgz.htm" title="研究生工作">研究生工作</a>
+				</li>
+			</ol>
+      </li>	
+      <li>
+			<a href="" title="学科与科研">学科与科研</a> 
+			<ol>
+				<li>
+					<a href="jzyjtgcxy/xkyky/xkjs.htm" title="学科介绍">学科介绍</a>
+				</li>
+				<li>
+					<a href="jzyjtgcxy/xkyky/yjfx.htm" title="研究方向">研究方向</a>
+				</li>
+				<li>
+					<a href="jzyjtgcxy/xkyky/kypt.htm" title="科研平台">科研平台</a>
+				</li>
+				<li>
+					<a href="jzyjtgcxy/xkyky/yjcg.htm" title="研究成果">研究成果</a>
+				</li>
+			</ol>
+      </li>	
+      <li>
+			<a href="" title="党建工作">党建工作</a> 
+			<ol>
+				<li>
+					<a href="jzyjtgcxy/djgz/dwjs.htm" title="党委介绍">党委介绍</a>
+				</li>
+				<li>
+					<a href="jzyjtgcxy/djgz/djgz.htm" title="党建工作">党建工作</a>
+				</li>
+				<li>
+					<a href="jzyjtgcxy/djgz/dyhd.htm" title="党员活动">党员活动</a>
+				</li>
+				<li>
+					<a href="jzyjtgcxy/djgz/xxzy.htm" title="学习资源">学习资源</a>
+				</li>
+			</ol>
+      </li>	
+      <li>
+			<a href="" title="学生工作">学生工作</a> 
+			<ol>
+				<li>
+					<a href="jzyjtgcxy/xsgz/xgyrln.htm" title="学工育人理念">学工育人理念</a>
+				</li>
+				<li>
+					<a href="jzyjtgcxy/xsgz/xgdw.htm" title="学工队伍">学工队伍</a>
+				</li>
+				<li>
+					<a href="jzyjtgcxy/xsgz/xszz.htm" title="学生组织">学生组织</a>
+				</li>
+				<li>
+					<a href="jzyjtgcxy/xsgz/xskc.htm" title="学生科创">学生科创</a>
+				</li>
+				<li>
+					<a href="jzyjtgcxy/xsgz/xgdt.htm" title="学工动态">学工动态</a>
+				</li>
+				<li>
+					<a href="jzyjtgcxy/xsgz/bslc.htm" title="办事流程">办事流程</a>
+				</li>
+				<li>
+					<a href="jzyjtgcxy/xsgz/xkjs.htm" title="学科竞赛">学科竞赛</a>
+				</li>
+				<li>
+					<a href="jzyjtgcxy/xsgz/jygz.htm" title="就业工作">就业工作</a>
+				</li>
+			</ol>
+      </li>	
+      <li>
+			<a href="" title="学风师风建设">学风师风建设</a> 
+			<ol>
+				<li>
+					<a href="jzyjtgcxy/xygz/sdsf.htm" title="师德师风">师德师风</a>
+				</li>
+				<li>
+					<a href="jzyjtgcxy/xygz/bkjyzltsjh.htm" title="本科教育质量提升计划">本科教育质量提升计划</a>
+				</li>
+			</ol>
+      </li>	
+      <li>
+			<a href="" title="招生信息">招生信息</a> 
+			<ol>
+				<li>
+					<a href="jzyjtgcxy/zsxx/zsdt.htm" title="招生动态">招生动态</a>
+				</li>
+				<li>
+					<a href="jzyjtgcxy/zsxx/yxbys.htm" title="优秀毕业生">优秀毕业生</a>
+				</li>
+				<li>
+					<a href="jzyjtgcxy/zsxx/yxzxs.htm" title="优秀在校生">优秀在校生</a>
+				</li>
+				<li>
+					<a href="jzyjtgcxy/zsxx/wjyxbysj.htm" title="往届优秀毕业设计">往届优秀毕业设计</a>
+				</li>
+			</ol>
+      </li>	
+      <li>
+			<a href="" title="岗位职责">岗位职责</a> 
+			<ol>
+				<li>
+					<a href="jzyjtgcxy/gwzz/xybgs.htm" title="学院办公室">学院办公室</a>
+				</li>
+				<li>
+					<a href="jzyjtgcxy/gwzz/xsgzbgs.htm" title="学生工作办公室">学生工作办公室</a>
+				</li>
+			</ol>
+      </li>	
+      <li>
+			<a href="" title="文件资料下载">文件资料下载</a> 
+			<ol>
+				<li>
+					<a href="jzyjtgcxy/wjzlxz/wjzlxz.htm" title="文件资料下载">文件资料下载</a>
+				</li>
+				<li>
+					<a href="jzyjtgcxy/wjzlxz/jxgl.htm" title="教学管理文件">教学管理文件</a>
+				</li>
+			</ol>
+      </li>	
+    </ul>
+  </div><!--#endeditable--></div>
+<!-- menu结束 -->
+<!--/Header-->
+<!-- image开始 -->
+<div id="imge"></div>
+<!--<div id="imge1">
+  <div class="laba"><img src="/templates/jjxy/images/4_29.jpg" width="13" height="10" alt=""/></div>
+  <h2><a href="#">最新公告：</a></h2>
+  <p>建筑与交通工程学院先进基层党组织、优秀共产党员和优秀党务工作者推荐名单公示 [2015-06-12]</p>
+  <div class="sear"></div>
+</div>-->
+<div id="banner">
+  <div class="slides">
+    <div style="width: 1000px; margin: 0px auto"><!--#begineditable name="banner变换" viewid="163176" tagname="banner变换" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><style type="text/css">
+ul,li{
+    padding:0;
+    margin:0;
+    list-style:none;}
+#flashBoxu_u1_{
+    width:1003px;
+    height:350px;
+    border:0px solid #EEE;
+    position:relative;
+    margin-left: auto;
+    margin-right: auto;}
+#flashBoxu_u1_ img{
+    /*初始不要显示*/
+    display:none;
+    /*用边框来实现空位，因为margin和paading有时会引起些麻烦*/
+    border:0px solid #FFF;}
+#flashBoxu_u1_ ul{
+    position:absolute;
+    right:7px;
+    bottom:3px;
+    font:9px tahoma;}
+#flashBoxu_u1_ ul li{
+    display:block;
+    float:left;
+    width:12px;
+    height:12px;
+    line-height:12px;
+    margin-right:3px;
+    border:0px solid #999;
+    background:#F0F0F0;
+    text-align:center;
+    cursor:pointer;}
+#flashBoxu_u1_ ul li.hover{
+    border-color:red;
+    background:#FFE1E1;
+    color:red;}
+</style>
+<script type="text/javascript">
+function flashBoxCtrl(o){
+    this.obj=document.getElementById(o);
+    //这个私有方法虽然写了，但暂时没用到
+    function addListener(ele,eventName,functionBody){
+        if (ele.attachEvent){
+            ele.attachEvent("on"+eventName, functionBody);
+        }else if (ele.addEventListener){
+            ele.addEventListener("on"+eventName,functionBody, false);
+        }else{
+            return false;
+        }
+    }
+    //初始化
+    this.init=function(){
+        var objImg=this.obj.getElementsByTagName("img");
+        var tagLength=objImg.length;
+        if (tagLength>0){
+            var oUl=document.createElement("ul");
+            oUl.setAttribute("id",o+"numTag");
+            for (var i=0;i<tagLength;i++){
+                var oLi=oUl.appendChild(document.createElement("li"));
+                if (i==0){
+                    oLi.setAttribute("class","hover"); //初始化时把第一个设置为高亮
+                    oLi.setAttribute("className","hover");
+                }
+                //设置标签的数字
+                oLi.appendChild(document.createTextNode((i+1)));
+            }
+            this.obj.appendChild(oUl);
+            objImg[0].style.display="block";
+            //设置标签事件
+            var oTag=this.obj.getElementsByTagName("li");
+            for (var i=0;i<oTag.length;i++){
+                var flag = 0;
+                var temp = 0;
+                var timeout=null;
+                var step = function(){
+                    for (j=0;j<oTag.length;j++){
+                        oTag[j].className="";
+                        objImg[j].style.display="none";
+                    }
+                    this.className="hover";
+                    flag = flag>=oTag.length-1?0:flag+1;
+                    objImg[flag].style.display="block";
+                    oTag[flag].className = "hover";
+                    timeout = setTimeout(step,4000);
+                };
+                oTag[i].onmouseover=function(){
+                    for (j=0;j<oTag.length;j++){
+                        oTag[j].className="";
+                        objImg[j].style.display="none";
+                        temp = j;
+                    }
+                    this.className="hover";
+                    objImg[this.innerHTML-1].style.display="block";
+                    temp = this.innerHTML-1;
+                    flag = i;
+                    clearInterval(timeout);
+                }
+                oTag[i].onmouseout = function(){
+                    for (j=0;j<oTag.length;j++){
+                        oTag[j].className="";
+                        objImg[j].style.display="none";
+                    }
+                    flag = temp;
+                    objImg[temp].style.display="block";
+                    oTag[temp].className = "hover";
+                    timeout = setTimeout(step,4000);
+                }
+                if(i==0)
+                {
+                    timeout = setTimeout(step,4000);
+                }
+            }
+        }
+    };
+    //自动滚动的方法还没写
+    this.imgRoll=function(){};
+    //生成对象时自动加载init()方法以初始化对象
+    this.init();
+}
+</script>
+<table cellspacing="0" cellpadding="0" border="0"><tr><td><div id="flashBoxu_u1_"><img src="images/63C5308F47C0B54004D49C1DC2E_01C70946_2733D.jpg" border="0" width="1003" height="350" /><img src="images/3747A32DC89DB38FC251D97798E_058738E7_15C90.jpg" border="0" width="1003" height="350" /><img src="images/zsxcz.png" border="0" width="1003" height="350" /><img src="images/987654.jpg" border="0" width="1003" height="350" /><img src="xytp/bxyth.jpg" border="0" width="1003" height="350" /><img src="xytp/xibao.PNG" border="0" width="1003" height="350" /></div></td></tr></table><SCRIPT language="JavaScript">new flashBoxCtrl("flashBoxu_u1_");</SCRIPT><!--#endeditable--></div>
+  </div>
+</div>
+<div id="content">
+  <div id="left">
+    <div id="New">
+      <div class="box">
+        <h3 class="PartTitle"><strong>新闻资讯 </strong><b style="font-size: 20px; color: #777676">/ </b><em>New</em>
+          <div class="more"><a href="sylm/xwzx.htm"><img alt="" src="dfiles/12862/templates/jjxy/images/more.gif" width="48" height="15"></a> </div>
+        </h3>
+        <div class="New_img"><img alt="" src="dfiles/12862/templates/jjxy/images/4_55.jpg" width="267" height="13"> </div>
+        <!--#begineditable name="标题列表1" viewid="163578" tagname="标题列表1" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><script language="javascript" src="/system/resource/js/dynclicks.js"></script><table class="c163578_table">
+        <tr>
+            <td colspan="2">
+                <table width="100%">
+                    <tr>
+                        <td width="1%" class="c163578_front">
+                            ·
+                        </td>
+                        <td width="90%">
+                           <a href="info/1308/2844.htm" target="_blank" title="建筑与交通工程学院召开学生工作会议" class="c163578">建筑与交通工程学院召开学生工作会议</a>        
+                        </td>
+			<td>&nbsp;2020/04/09&nbsp;</td>
+                    </tr>
+                </table>
+            </td>            
+        </tr>    
+        <tr>
+            <td colspan="2">
+                <table width="100%">
+                    <tr>
+                        <td width="1%" class="c163578_front">
+                            ·
+                        </td>
+                        <td width="90%">
+                           <a href="info/1308/2846.htm" target="_blank" title="建筑与交通工程学院开展安全隐患排查工作" class="c163578">建筑与交通工程学院开展安全隐患排查工作</a>        
+                        </td>
+			<td>&nbsp;2020/04/09&nbsp;</td>
+                    </tr>
+                </table>
+            </td>            
+        </tr>    
+        <tr>
+            <td colspan="2">
+                <table width="100%">
+                    <tr>
+                        <td width="1%" class="c163578_front">
+                            ·
+                        </td>
+                        <td width="90%">
+                           <a href="info/1308/2841.htm" target="_blank" title="建筑与交通工程学院党委召开中心组理论学习会" class="c163578">建筑与交通工程学院党委召开中心组理论学习会</a>        
+                        </td>
+			<td>&nbsp;2020/04/05&nbsp;</td>
+                    </tr>
+                </table>
+            </td>            
+        </tr>    
+        <tr>
+            <td colspan="2">
+                <table width="100%">
+                    <tr>
+                        <td width="1%" class="c163578_front">
+                            ·
+                        </td>
+                        <td width="90%">
+                           <a href="info/1308/2834.htm" target="_blank" title="建筑与交通工程学院召开专题会议研究部署近期重点工作" class="c163578">建筑与交通工程学院召开专题会议研究部署近期重点工作</a>        
+                        </td>
+			<td>&nbsp;2020/03/27&nbsp;</td>
+                    </tr>
+                </table>
+            </td>            
+        </tr>    
+        <tr>
+            <td colspan="2">
+                <table width="100%">
+                    <tr>
+                        <td width="1%" class="c163578_front">
+                            ·
+                        </td>
+                        <td width="90%">
+                           <a href="info/1308/2837.htm" target="_blank" title="校领导到建筑与交通工程学院调研" class="c163578">校领导到建筑与交通工程学院调研</a>        
+                        </td>
+			<td>&nbsp;2020/03/26&nbsp;</td>
+                    </tr>
+                </table>
+            </td>            
+        </tr>    
+        <tr>
+            <td colspan="2">
+                <table width="100%">
+                    <tr>
+                        <td width="1%" class="c163578_front">
+                            ·
+                        </td>
+                        <td width="90%">
+                           <a href="info/1308/2833.htm" target="_blank" title="【疫情防控】建交学院在线开展大学生团体心理辅导" class="c163578">【疫情防控】建交学院在线开展大学生团体心理辅导</a>        
+                        </td>
+			<td>&nbsp;2020/03/26&nbsp;</td>
+                    </tr>
+                </table>
+            </td>            
+        </tr>    
+        <tr>
+            <td colspan="2">
+                <table width="100%">
+                    <tr>
+                        <td width="1%" class="c163578_front">
+                            ·
+                        </td>
+                        <td width="90%">
+                           <a href="info/1308/2831.htm" target="_blank" title="【疫情防控】建筑与交通工程学院召开教学、学工联动工作会" class="c163578">【疫情防控】建筑与交通工程学院召开教学、学工联动工作会</a>        
+                        </td>
+			<td>&nbsp;2020/03/25&nbsp;</td>
+                    </tr>
+                </table>
+            </td>            
+        </tr>    
+        <tr>
+            <td colspan="2">
+                <table width="100%">
+                    <tr>
+                        <td width="1%" class="c163578_front">
+                            ·
+                        </td>
+                        <td width="90%">
+                           <a href="info/1308/2822.htm" target="_blank" title="建筑与交通工程学院召开毕业生线上就业工作推进会" class="c163578">建筑与交通工程学院召开毕业生线上就业工作推进会</a>        
+                        </td>
+			<td>&nbsp;2020/03/22&nbsp;</td>
+                    </tr>
+                </table>
+            </td>            
+        </tr>    
+</table><script>_showDynClickBatch(['dynclicks_u2_2844','dynclicks_u2_2846','dynclicks_u2_2841','dynclicks_u2_2834','dynclicks_u2_2837','dynclicks_u2_2833','dynclicks_u2_2831','dynclicks_u2_2822'],[2844,2846,2841,2834,2837,2833,2831,2822],"wbnews", 1411890336)</script>
+<!--#endeditable--></div>
+      <span class="clear"></span></div>
+    <!-- New结束 -->
+    <!-- Notice结束 -->
+    <!-- bomNav结束 -->
+  </div>
+  <!-- left结束 -->
+  <div id="right">
+    <div id="DaoDu">
+      <h3 class="PartTitle1" style="background-color: #f7f7f7"><img alt="" src="dfiles/12862/templates/jjxy/images/4_41.jpg" width="25" height="22"><strong>通知公告 </strong>
+        <div class="more1"><a href="sylm/tzgg.htm"><img alt="" src="dfiles/12862/templates/jjxy/images/more.gif" width="48" height="15"></a></div>
+      </h3>
+      <div class="New_img"><img alt="" src="dfiles/12862/templates/jjxy/images/4_55.jpg" width="267" height="13"></div>
+      <!--#begineditable name="标题列表4" viewid="163577" tagname="标题列表4" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><table class="c163577_table">
+        <tr>
+            <td colspan="2">
+                <table width="100%">
+                    <tr>
+                        <td width="1%" class="c163577_front">
+                            ·
+                        </td>
+                        <td width="80%">
+                           <a href="info/1309/2843.htm" target="_blank" title="致桂电学子的第五封信" class="c163577">致桂电学子的第五封信</a>        
+                        </td> 
+<td>
+&nbsp;2020/04/04&nbsp;
+</td>                   
+                    </tr>
+                </table>
+            </td>            
+        </tr>    
+        <tr>
+            <td colspan="2">
+                <table width="100%">
+                    <tr>
+                        <td width="1%" class="c163577_front">
+                            ·
+                        </td>
+                        <td width="80%">
+                           <a href="info/1309/2799.htm" target="_blank" title="致桂电学子的第三封信" class="c163577">致桂电学子的第三封信</a>        
+                        </td> 
+<td>
+&nbsp;2020/03/08&nbsp;
+</td>                   
+                    </tr>
+                </table>
+            </td>            
+        </tr>    
+        <tr>
+            <td colspan="2">
+                <table width="100%">
+                    <tr>
+                        <td width="1%" class="c163577_front">
+                            ·
+                        </td>
+                        <td width="80%">
+                           <a href="info/1309/2792.htm" target="_blank" title="建筑与交通工程学院研究生疫情期间开课信息表" class="c163577">建筑与交通工程学院研究生疫情期间开课...</a>        
+                        </td> 
+<td>
+&nbsp;2020/03/02&nbsp;
+</td>                   
+                    </tr>
+                </table>
+            </td>            
+        </tr>    
+        <tr>
+            <td colspan="2">
+                <table width="100%">
+                    <tr>
+                        <td width="1%" class="c163577_front">
+                            ·
+                        </td>
+                        <td width="80%">
+                           <a href="info/1309/2794.htm" target="_blank" title="桂电新冠肺炎疫情防控工作领导小组通告（第6号）" class="c163577">桂电新冠肺炎疫情防控工作领导小组通告...</a>        
+                        </td> 
+<td>
+&nbsp;2020/03/01&nbsp;
+</td>                   
+                    </tr>
+                </table>
+            </td>            
+        </tr>    
+        <tr>
+            <td colspan="2">
+                <table width="100%">
+                    <tr>
+                        <td width="1%" class="c163577_front">
+                            ·
+                        </td>
+                        <td width="80%">
+                           <a href="info/1309/2761.htm" target="_blank" title="建筑与交通工程学院研究生第一周上课信息表" class="c163577">建筑与交通工程学院研究生第一周上课信息表</a>        
+                        </td> 
+<td>
+&nbsp;2020/02/19&nbsp;
+</td>                   
+                    </tr>
+                </table>
+            </td>            
+        </tr>    
+        <tr>
+            <td colspan="2">
+                <table width="100%">
+                    <tr>
+                        <td width="1%" class="c163577_front">
+                            ·
+                        </td>
+                        <td width="80%">
+                           <a href="info/1309/2774.htm" target="_blank" title="桂林电子科技大学新型冠状病毒感染的肺炎疫情防控工作领导小组通告（第5号）" class="c163577">桂林电子科技大学新型冠状病毒感染的肺...</a>        
+                        </td> 
+<td>
+&nbsp;2020/02/16&nbsp;
+</td>                   
+                    </tr>
+                </table>
+            </td>            
+        </tr>    
+        <tr>
+            <td colspan="2">
+                <table width="100%">
+                    <tr>
+                        <td width="1%" class="c163577_front">
+                            ·
+                        </td>
+                        <td width="80%">
+                           <a href="info/1309/2801.htm" target="_blank" title="@桂电学子，这是学校给你们的第二封信" class="c163577">@桂电学子，这是学校给你们的第二封信</a>        
+                        </td> 
+<td>
+&nbsp;2020/02/15&nbsp;
+</td>                   
+                    </tr>
+                </table>
+            </td>            
+        </tr>    
+        <tr>
+            <td colspan="2">
+                <table width="100%">
+                    <tr>
+                        <td width="1%" class="c163577_front">
+                            ·
+                        </td>
+                        <td width="80%">
+                           <a href="info/1309/2823.htm" target="_blank" title="桂林电子科技大学校庆六十周年公告(第1号)" class="c163577">桂林电子科技大学校庆六十周年公告(第1...</a>        
+                        </td> 
+<td>
+&nbsp;2020/03/20&nbsp;
+</td>                   
+                    </tr>
+                </table>
+            </td>            
+        </tr>    
+</table><script>_showDynClickBatch(['dynclicks_u3_2843','dynclicks_u3_2799','dynclicks_u3_2792','dynclicks_u3_2794','dynclicks_u3_2761','dynclicks_u3_2774','dynclicks_u3_2801','dynclicks_u3_2823'],[2843,2799,2792,2794,2761,2774,2801,2823],"wbnews", 1411890336)</script>
+<!--#endeditable--></div>
+    <!-- DaoDu结束 -->
+    <!-- tuijianLink结束 -->
+  </div>
+  <!-- right结束 -->
+  <span class="clear"></span>
+  <!-- 清除浮动 -->
+</div>
+<!-- 教务工作开始 -->
+<div id="jiaowu">
+  <div class="left">
+    <div class="jiao_work">
+      <div class="btn"><b>教务工作</b></div>
+      <div class="more3"><a href="sylm/jwgz.htm"><img alt="" src="dfiles/12862/templates/jjxy/images/more.gif" width="48" height="15"></a></div>
+      <div class="NewsList3">
+        <ul>
+          <!--#begineditable name="标题列表2" viewid="163573" tagname="标题列表2" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><table width="100%">
+  <tr>
+    <td width="1%" class="c163573_front">·</td>
+    <td width="80%"><a href="info/1310/2835.htm" target="_blank" title="【疫情防控】建筑与交通工程学院召开教学、学工联动工作会" class="c163573">【疫情防控】建筑与交通工程学院召开教学、学工联动工作会</a></td>
+    <td>&nbsp;2020/03/25&nbsp;</td>
+  </tr>
+</table>
+<table width="100%">
+  <tr>
+    <td width="1%" class="c163573_front">·</td>
+    <td width="80%"><a href="info/1310/2477.htm" target="_blank" title="建筑与交通工程学院举行学风建设暨专业分流座谈会" class="c163573">建筑与交通工程学院举行学风建设暨专业分流座谈会</a></td>
+    <td>&nbsp;2019/05/10&nbsp;</td>
+  </tr>
+</table>
+<table width="100%">
+  <tr>
+    <td width="1%" class="c163573_front">·</td>
+    <td width="80%"><a href="info/1310/2347.htm" target="_blank" title="关于推荐区级教改项目专家的通知" class="c163573">关于推荐区级教改项目专家的通知</a></td>
+    <td>&nbsp;2019/03/04&nbsp;</td>
+  </tr>
+</table>
+<table width="100%">
+  <tr>
+    <td width="1%" class="c163573_front">·</td>
+    <td width="80%"><a href="info/1310/2346.htm" target="_blank" title="关于申报2019年度广西高等教育 本科教学改革工程项目的通知" class="c163573">关于申报2019年度广西高等教育 本科教学改革工程项目的...</a></td>
+    <td>&nbsp;2019/03/04&nbsp;</td>
+  </tr>
+</table>
+<table width="100%">
+  <tr>
+    <td width="1%" class="c163573_front">·</td>
+    <td width="80%"><a href="info/1310/2345.htm" target="_blank" title="学院开展新学期开学教学自查工作" class="c163573">学院开展新学期开学教学自查工作</a></td>
+    <td>&nbsp;2019/02/27&nbsp;</td>
+  </tr>
+</table>
+<table width="100%">
+  <tr>
+    <td width="1%" class="c163573_front">·</td>
+    <td width="80%"><a href="info/1310/1991.htm" target="_blank" title="建筑与交通工程学院举行本科毕业生培养质量座谈会" class="c163573">建筑与交通工程学院举行本科毕业生培养质量座谈会</a></td>
+    <td>&nbsp;2018/07/04&nbsp;</td>
+  </tr>
+</table>
+<script>_showDynClickBatch(['dynclicks_u4_2835','dynclicks_u4_2477','dynclicks_u4_2347','dynclicks_u4_2346','dynclicks_u4_2345','dynclicks_u4_1991'],[2835,2477,2347,2346,2345,1991],"wbnews", 1411890336)</script>
+<!--#endeditable-->
+        </ul>
+      </div>
+    </div>
+    <div class="left_img"><img alt="" src="dfiles/12862/templates/jjxy/images/4_91.jpg" width="13" height="166"></div>
+    <div class="student_work">
+      <div class="student_btn">
+        <div class="btn2"><b>学工动态</b> </div>
+        <div class="more3">
+          <p><a href="jzyjtgcxy/xsgz/xgdt.htm"><img alt="" src="dfiles/12862/templates/jjxy/images/more.gif" width="48" height="15"></a></p>
+        </div>
+      </div>
+      <div class="NewsList3">
+        <ul>
+          <!--#begineditable name="标题列表" viewid="164125" tagname="标题列表" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><table width="100%">
+  <tr>
+    <td width="1%" class="c164125_front">·</td>
+    <td width="80%"><a href="info/1297/2845.htm" target="_blank" title="建筑与交通工程学院召开学生工作会议" class="c164125">建筑与交通工程学院召开学生工作会议</a></td>
+    <td>&nbsp;2020/04/09&nbsp;</td>
+  </tr>
+</table>
+<table width="100%">
+  <tr>
+    <td width="1%" class="c164125_front">·</td>
+    <td width="80%"><a href="info/1297/2832.htm" target="_blank" title="【疫情防控】建交学院在线开展大学生团体心理辅导" class="c164125">【疫情防控】建交学院在线开展大学生团体心理辅导</a></td>
+    <td>&nbsp;2020/03/26&nbsp;</td>
+  </tr>
+</table>
+<table width="100%">
+  <tr>
+    <td width="1%" class="c164125_front">·</td>
+    <td width="80%"><a href="info/1297/2830.htm" target="_blank" title="【疫情防控】建筑与交通工程学院召开教学、学工联动工作会" class="c164125">【疫情防控】建筑与交通工程学院召开教学、学工联动工作会</a></td>
+    <td>&nbsp;2020/03/25&nbsp;</td>
+  </tr>
+</table>
+<table width="100%">
+  <tr>
+    <td width="1%" class="c164125_front">·</td>
+    <td width="80%"><a href="info/1297/2836.htm" target="_blank" title="建筑与交通工程学院召开毕业生线上就业工作推进会" class="c164125">建筑与交通工程学院召开毕业生线上就业工作推进会</a></td>
+    <td>&nbsp;2020/03/22&nbsp;</td>
+  </tr>
+</table>
+<table width="100%">
+  <tr>
+    <td width="1%" class="c164125_front">·</td>
+    <td width="80%"><a href="info/1297/2829.htm" target="_blank" title="自律文明  感恩奉献  做一名有温度的新时代大学生   ——建交学子六种意识之“修身意识”培育" class="c164125">自律文明  感恩奉献  做一名有温度的新时代大学生   —...</a></td>
+    <td>&nbsp;2020/03/21&nbsp;</td>
+  </tr>
+</table>
+<table width="100%">
+  <tr>
+    <td width="1%" class="c164125_front">·</td>
+    <td width="80%"><a href="info/1297/2828.htm" target="_blank" title="停课不停学  科创不停步  积极探索学科竞赛线上培训新体系 ——建交学子六种意识之“勤学意识”培育" class="c164125">停课不停学  科创不停步  积极探索学科竞赛线上培训新...</a></td>
+    <td>&nbsp;2020/03/20&nbsp;</td>
+  </tr>
+</table>
+<script>_showDynClickBatch(['dynclicks_u5_2845','dynclicks_u5_2832','dynclicks_u5_2830','dynclicks_u5_2836','dynclicks_u5_2829','dynclicks_u5_2828'],[2845,2832,2830,2836,2829,2828],"wbnews", 1411890336)</script>
+<!--#endeditable-->
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- 教务工作结束 -->
+<div id="jiaowu">
+  <div class="left">
+  
+    <div class="jiao_work">
+      <div class="btn"><b>学科竞赛</b></div>
+      <div class="more3"><a href="jzyjtgcxy/xsgz/xkjs.htm"><img alt="" src="dfiles/12862/templates/jjxy/images/more.gif" width="48" height="15"></a></div>
+      <div class="NewsList3">
+        <ul>
+          <!--#begineditable name="标题列表5" viewid="164617" tagname="标题列表5" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><table width="100%">
+  <tr>
+    <td width="1%" class="c164617_front">·</td>
+    <td width="80%"><a href="info/1340/1803.htm" target="_blank" title="全国中、高等院校学生“斯维尔杯”BIM应用技能大赛简介" class="c164617">全国中、高等院校学生“斯维尔杯”BIM应用技能大赛简介</a></td>
+    <td>&nbsp;2018/05/15&nbsp;</td>
+  </tr>
+</table>
+<table width="100%">
+  <tr>
+    <td width="1%" class="c164617_front">·</td>
+    <td width="80%"><a href="info/1340/1802.htm" target="_blank" title="全国大学生智能汽车竞赛简介" class="c164617">全国大学生智能汽车竞赛简介</a></td>
+    <td>&nbsp;2018/05/15&nbsp;</td>
+  </tr>
+</table>
+<table width="100%">
+  <tr>
+    <td width="1%" class="c164617_front">·</td>
+    <td width="80%"><a href="info/1340/1801.htm" target="_blank" title="大学生节能减排社会实践与科技竞赛简介" class="c164617">大学生节能减排社会实践与科技竞赛简介</a></td>
+    <td>&nbsp;2018/05/15&nbsp;</td>
+  </tr>
+</table>
+<table width="100%">
+  <tr>
+    <td width="1%" class="c164617_front">·</td>
+    <td width="80%"><a href="info/1340/1800.htm" target="_blank" title="广西高校大学生创新设计与制作大赛简介" class="c164617">广西高校大学生创新设计与制作大赛简介</a></td>
+    <td>&nbsp;2018/05/15&nbsp;</td>
+  </tr>
+</table>
+<table width="100%">
+  <tr>
+    <td width="1%" class="c164617_front">·</td>
+    <td width="80%"><a href="info/1340/1804.htm" target="_blank" title="中国制冷空调行业大学生科技竞赛简介" class="c164617">中国制冷空调行业大学生科技竞赛简介</a></td>
+    <td>&nbsp;2018/05/15&nbsp;</td>
+  </tr>
+</table>
+<script>_showDynClickBatch(['dynclicks_u6_1803','dynclicks_u6_1802','dynclicks_u6_1801','dynclicks_u6_1800','dynclicks_u6_1804'],[1803,1802,1801,1800,1804],"wbnews", 1411890336)</script>
+<!--#endeditable-->
+        </ul>
+      </div>
+    </div>
+    
+    <div class="left_img"><img alt="" src="dfiles/12862/templates/jjxy/images/4_91.jpg" width="13" height="166"></div>
+    
+    <div class="student_work">
+      <div class="student_btn">
+        <div class="btn2"><b>就业工作</b> </div>
+        <div class="more3">
+          <p><a href="jzyjtgcxy/xsgz/jygz.htm"><img alt="" src="dfiles/12862/templates/jjxy/images/more.gif" width="48" height="15"></a></p>
+        </div>
+      </div>
+      <div class="NewsList3">
+        <ul>
+      <!--#begineditable name="标题列表6" viewid="164581" tagname="标题列表6" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><table class="c164581_table">
+        <tr>
+            <td colspan="2">
+                <table width="100%">
+                    <tr>
+                        <td width="1%" class="c164581_front">
+                            ·
+                        </td>
+                        <td width="80%">
+                           <a href="info/1311/2724.htm" target="_blank" title="方大集团2020届校招招聘简章" class="c164581">方大集团2020届校招招聘简章</a>        
+                        </td>
+<td>&nbsp;2019/10/15&nbsp;</td>                   
+                    </tr>
+                </table>
+            </td>            
+        </tr>    
+        <tr>
+            <td colspan="2">
+                <table width="100%">
+                    <tr>
+                        <td width="1%" class="c164581_front">
+                            ·
+                        </td>
+                        <td width="80%">
+                           <a href="info/1311/2728.htm" target="_blank" title="广西建工一建2020校园招聘简章" class="c164581">广西建工一建2020校园招聘简章</a>        
+                        </td>
+<td>&nbsp;2019/10/08&nbsp;</td>                   
+                    </tr>
+                </table>
+            </td>            
+        </tr>    
+        <tr>
+            <td colspan="2">
+                <table width="100%">
+                    <tr>
+                        <td width="1%" class="c164581_front">
+                            ·
+                        </td>
+                        <td width="80%">
+                           <a href="info/1311/2722.htm" target="_blank" title="深圳市三鑫科技发展有限公司2020届校园招聘简章" class="c164581">深圳市三鑫科技发展有限公司2020届校园招聘简章</a>        
+                        </td>
+<td>&nbsp;2019/09/30&nbsp;</td>                   
+                    </tr>
+                </table>
+            </td>            
+        </tr>    
+        <tr>
+            <td colspan="2">
+                <table width="100%">
+                    <tr>
+                        <td width="1%" class="c164581_front">
+                            ·
+                        </td>
+                        <td width="80%">
+                           <a href="info/1311/2721.htm" target="_blank" title="中国十九冶集团有限公司招聘信息" class="c164581">中国十九冶集团有限公司招聘信息</a>        
+                        </td>
+<td>&nbsp;2019/09/19&nbsp;</td>                   
+                    </tr>
+                </table>
+            </td>            
+        </tr>    
+        <tr>
+            <td colspan="2">
+                <table width="100%">
+                    <tr>
+                        <td width="1%" class="c164581_front">
+                            ·
+                        </td>
+                        <td width="80%">
+                           <a href="info/1311/2723.htm" target="_blank" title="中铁一局集团有限公司广州分公司" class="c164581">中铁一局集团有限公司广州分公司</a>        
+                        </td>
+<td>&nbsp;2019/09/15&nbsp;</td>                   
+                    </tr>
+                </table>
+            </td>            
+        </tr>    
+</table><script>_showDynClickBatch(['dynclicks_u7_2724','dynclicks_u7_2728','dynclicks_u7_2722','dynclicks_u7_2721','dynclicks_u7_2723'],[2724,2728,2722,2721,2723],"wbnews", 1411890336)</script>
+<!--#endeditable-->
+        </ul>
+      </div>
+    </div>
+    
+  </div>
+</div>
+<!-- 友情链接 -->
+<div id="youqing">
+ 
+  <div class="youqingimg1"><a href="jzyjtgcxy/djgz/djgz.htm"><a href="jzyjtgcxy/djgz/djgz.htm"><img alt="喜迎学校第三次党代会" src="dfiles/12862/upload/201709/20/201709201319512695.png" width="220" height="52" /></a></div>
+    <div class="youqingimg1"><a href="sylm/rcyj.htm"><img alt="人才招聘" src="dfiles/12862/upload/201709/20/rcyj.png" width="220" height="52"></a></div>
+      <div class="youqingimg1"><a href="sylm/gjjl.htm"><img alt="国际交流" src="dfiles/12862/upload/201709/20/gjjl.png" width="220" height="52"></a></div>
+  <div class="youqingimg1"><a href="sylm/jbym.htm"><img alt="我要举报" src="dfiles/12862/upload/201705/12/201705120937004611.jpg" width="220" height="52"></a></div>
+</div>
+<!-- 友情链接 -->
+<!-- 联系方式 -->
+<div id="fangshi">
+  <div class="fangshi1">
+    <ul class="lxfs">
+      <li class="lxfs_1"><strong>联系方式</strong>
+      <li>地址：广西桂林金鸡路1号桂林电子科技大学建筑与交通工程学院
+      <li>邮编：541004
+      <li>电话：0773-2303796
+      <li>传真：0773-2290118 </li>
+    </ul>
+    <ul class="lxfs" style="padding-left: 70px">
+      <li class="lxfs_1"><img alt="" src="dfiles/12862/templates/jjxy/images/4_114.jpg" width="16" height="12"><strong>　书记、院长信箱</strong>
+      <li>书记信箱：hul3666@guet.edu.cn
+      <li>院长信箱：traffic@guet.edu.cn </li>
+    </ul>
+  </div>
+  <div class="erweima">
+    <ul>
+      <li><img alt="" src="dfiles/12862/templates/jjxy/images/wx.jpg" width="66" height="65">
+      <li>桂电建交 </li>
+    </ul>
+    <ul>
+      <li><img alt="" src="dfiles/12862/templates/jjxy/images/yb.png" width="66" height="65">
+      <li>易班公共号二维码 </li>
+    </ul>
+    <ul>
+      <li><img alt="" src="dfiles/12862/templates/jjxy/images/20180517093929.jpg" width="66" height="65">
+      <li>建交学院2018级新生咨询群 </li>
+    </ul>
+  </div>
+</div>
+<!-- 联系方式 -->
+<!-- content结束 -->
+<script language="javascript" type="text/javascript">
+    function getLink(lk) {
+        try {
+            var lk = document.getElementById(lk).value;
+            window.open(lk);
+        } catch (e) { alert(e); }
+    }
+</script>
+<div id="footer">
+  <div class="center1">版权所有：? 2015 桂林电子科技大学 建筑与交通工程学院 </div>
+</div>
+<!-- footer结束 -->
+</body>
+</html>
+<!DOCTYPE html PUBLIC "-//wwwC//DTD XHTML 1.0 Transitional//EN" "http://www.www.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<title>建筑与交通工程学院</title><META Name="keywords" Content="建筑与交通工程学院" />
+
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+<link rel="stylesheet" type="text/css" href="dfiles/12862/templates/jjxy/style/reset_css.css">
+<link rel="stylesheet" type="text/css" href="dfiles/12862/templates/jjxy/style/all.css">
+<link rel="stylesheet" type="text/css" href="dfiles/12862/style/reset_css.css">
+<link rel="stylesheet" type="text/css" href="dfiles/12862/style/all.css">
+<script language="javascript" type="text/javascript" src="dfiles/12862/templates/jjxy/js/jquery.js"></script>
+<script language="javascript" type="text/javascript" src="dfiles/12862/templates/jjxy/js/playbanner.js"></script>
+<script language="javascript" type="text/javascript" src="dfiles/12862/templates/jjxy/js/load.js"></script>
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="index.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1411890336)</script>
+</head>
+<body class="indexBg">
+<!--Header-->
+<!-- top结束 -->
+<div id="header">
+  <div id="logo"></div>
+  <!-- logo结束 -->
+   <div id="toplink" style="float:right;margin-top: -100px;">
+    <ul>
+      <li><a href="eng">English Version</a> </li>
+
+    </ul>
+  </div>
+  <!-- toplink结束 -->
+  <!-- Search结束 -->
+</div>
+<!-- header结束 -->
+<div id="menu"><!--#begineditable name="网站导航" viewid="163538" tagname="网站导航" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""-->  <div class="center">
+    <ul>
+	      <li>
+			<a href="jzyjtgcxy/sy.htm" title="首页">首页</a> 
+      </li>	
+      <li>
+			<a href="" title="学院概况">学院概况</a> 
+			<ol>
+				<li>
+					<a href="jzyjtgcxy/xygk/xygk.htm" title="学院概况">学院概况</a>
+				</li>
+				<li>
+					<a href="jzyjtgcxy/xygk/xrld.htm" title="现任领导">现任领导</a>
+				</li>
+				<li>
+					<a href="jzyjtgcxy/xygk/lsyg_.htm" title="历史沿革 ">历史沿革 </a>
+				</li>
+				<li>
+					<a href="jzyjtgcxy/xygk/xyjg.htm" title="学院机构">学院机构</a>
+				</li>
+				<li>
+					<a href="jzyjtgcxy/xygk/szdw.htm" title="师资队伍">师资队伍</a>
+				</li>
+				<li>
+					<a href="jzyjtgcxy/xygk/yxggrkjs.htm" title="优秀骨干任课教师">优秀骨干任课教师</a>
+				</li>
+			</ol>
+      </li>	
+      <li>
+			<a href="" title="本科生培养">本科生培养</a> 
+			<ol>
+				<li>
+					<a href="jzyjtgcxy/bkspy/jtgczy.htm" title="交通工程专业">交通工程专业</a>
+				</li>
+				<li>
+					<a href="jzyjtgcxy/bkspy/jzhjynyyygc.htm" title="建筑环境与能源应用工程">建筑环境与能源应用工程</a>
+				</li>
+				<li>
+					<a href="jzyjtgcxy/bkspy/tmgczy.htm" title="土木工程专业">土木工程专业</a>
+				</li>
+				<li>
+					<a href="jzyjtgcxy/bkspy/jzdqyznhzy.htm" title="建筑电气与智能化专业">建筑电气与智能化专业</a>
+				</li>
+				<li>
+					<a href="jzyjtgcxy/bkspy/rcpymsgg.htm" title="人才培养模式改革">人才培养模式改革</a>
+				</li>
+				<li>
+					<a href="jzyjtgcxy/bkspy/jyjxyj.htm" title="教育教学研究">教育教学研究</a>
+				</li>
+				<li>
+					<a href="jzyjtgcxy/bkspy/xscxnlpy.htm" title="学生创新能力培养">学生创新能力培养</a>
+				</li>
+			</ol>
+      </li>	
+      <li>
+			<a href="" title="研究生培养">研究生培养</a> 
+			<ol>
+				<li>
+					<a href="jzyjtgcxy/yjspy/ssdjs.htm" title="硕士点介绍">硕士点介绍</a>
+				</li>
+				<li>
+					<a href="jzyjtgcxy/yjspy/yjsdsjs.htm" title="研究生导师介绍">研究生导师介绍</a>
+				</li>
+				<li>
+					<a href="jzyjtgcxy/yjspy/pyfa.htm" title="培养方案">培养方案</a>
+				</li>
+				<li>
+					<a href="jzyjtgcxy/yjspy/yjsgz.htm" title="研究生工作">研究生工作</a>
+				</li>
+			</ol>
+      </li>	
+      <li>
+			<a href="" title="学科与科研">学科与科研</a> 
+			<ol>
+				<li>
+					<a href="jzyjtgcxy/xkyky/xkjs.htm" title="学科介绍">学科介绍</a>
+				</li>
+				<li>
+					<a href="jzyjtgcxy/xkyky/yjfx.htm" title="研究方向">研究方向</a>
+				</li>
+				<li>
+					<a href="jzyjtgcxy/xkyky/kypt.htm" title="科研平台">科研平台</a>
+				</li>
+				<li>
+					<a href="jzyjtgcxy/xkyky/yjcg.htm" title="研究成果">研究成果</a>
+				</li>
+			</ol>
+      </li>	
+      <li>
+			<a href="" title="党建工作">党建工作</a> 
+			<ol>
+				<li>
+					<a href="jzyjtgcxy/djgz/dwjs.htm" title="党委介绍">党委介绍</a>
+				</li>
+				<li>
+					<a href="jzyjtgcxy/djgz/djgz.htm" title="党建工作">党建工作</a>
+				</li>
+				<li>
+					<a href="jzyjtgcxy/djgz/dyhd.htm" title="党员活动">党员活动</a>
+				</li>
+				<li>
+					<a href="jzyjtgcxy/djgz/xxzy.htm" title="学习资源">学习资源</a>
+				</li>
+			</ol>
+      </li>	
+      <li>
+			<a href="" title="学生工作">学生工作</a> 
+			<ol>
+				<li>
+					<a href="jzyjtgcxy/xsgz/xgyrln.htm" title="学工育人理念">学工育人理念</a>
+				</li>
+				<li>
+					<a href="jzyjtgcxy/xsgz/xgdw.htm" title="学工队伍">学工队伍</a>
+				</li>
+				<li>
+					<a href="jzyjtgcxy/xsgz/xszz.htm" title="学生组织">学生组织</a>
+				</li>
+				<li>
+					<a href="jzyjtgcxy/xsgz/xskc.htm" title="学生科创">学生科创</a>
+				</li>
+				<li>
+					<a href="jzyjtgcxy/xsgz/xgdt.htm" title="学工动态">学工动态</a>
+				</li>
+				<li>
+					<a href="jzyjtgcxy/xsgz/bslc.htm" title="办事流程">办事流程</a>
+				</li>
+				<li>
+					<a href="jzyjtgcxy/xsgz/xkjs.htm" title="学科竞赛">学科竞赛</a>
+				</li>
+				<li>
+					<a href="jzyjtgcxy/xsgz/jygz.htm" title="就业工作">就业工作</a>
+				</li>
+			</ol>
+      </li>	
+      <li>
+			<a href="" title="学风师风建设">学风师风建设</a> 
+			<ol>
+				<li>
+					<a href="jzyjtgcxy/xygz/sdsf.htm" title="师德师风">师德师风</a>
+				</li>
+				<li>
+					<a href="jzyjtgcxy/xygz/bkjyzltsjh.htm" title="本科教育质量提升计划">本科教育质量提升计划</a>
+				</li>
+			</ol>
+      </li>	
+      <li>
+			<a href="" title="招生信息">招生信息</a> 
+			<ol>
+				<li>
+					<a href="jzyjtgcxy/zsxx/zsdt.htm" title="招生动态">招生动态</a>
+				</li>
+				<li>
+					<a href="jzyjtgcxy/zsxx/yxbys.htm" title="优秀毕业生">优秀毕业生</a>
+				</li>
+				<li>
+					<a href="jzyjtgcxy/zsxx/yxzxs.htm" title="优秀在校生">优秀在校生</a>
+				</li>
+				<li>
+					<a href="jzyjtgcxy/zsxx/wjyxbysj.htm" title="往届优秀毕业设计">往届优秀毕业设计</a>
+				</li>
+			</ol>
+      </li>	
+      <li>
+			<a href="" title="岗位职责">岗位职责</a> 
+			<ol>
+				<li>
+					<a href="jzyjtgcxy/gwzz/xybgs.htm" title="学院办公室">学院办公室</a>
+				</li>
+				<li>
+					<a href="jzyjtgcxy/gwzz/xsgzbgs.htm" title="学生工作办公室">学生工作办公室</a>
+				</li>
+			</ol>
+      </li>	
+      <li>
+			<a href="" title="文件资料下载">文件资料下载</a> 
+			<ol>
+				<li>
+					<a href="jzyjtgcxy/wjzlxz/wjzlxz.htm" title="文件资料下载">文件资料下载</a>
+				</li>
+				<li>
+					<a href="jzyjtgcxy/wjzlxz/jxgl.htm" title="教学管理文件">教学管理文件</a>
+				</li>
+			</ol>
+      </li>	
+    </ul>
+  </div><!--#endeditable--></div>
+<!-- menu结束 -->
+<!--/Header-->
+<!-- image开始 -->
+<div id="imge"></div>
+<!--<div id="imge1">
+  <div class="laba"><img src="/templates/jjxy/images/4_29.jpg" width="13" height="10" alt=""/></div>
+  <h2><a href="#">最新公告：</a></h2>
+  <p>建筑与交通工程学院先进基层党组织、优秀共产党员和优秀党务工作者推荐名单公示 [2015-06-12]</p>
+  <div class="sear"></div>
+</div>-->
+<div id="banner">
+  <div class="slides">
+    <div style="width: 1000px; margin: 0px auto"><!--#begineditable name="banner变换" viewid="163176" tagname="banner变换" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><style type="text/css">
+ul,li{
+    padding:0;
+    margin:0;
+    list-style:none;}
+#flashBoxu_u1_{
+    width:1003px;
+    height:350px;
+    border:0px solid #EEE;
+    position:relative;
+    margin-left: auto;
+    margin-right: auto;}
+#flashBoxu_u1_ img{
+    /*初始不要显示*/
+    display:none;
+    /*用边框来实现空位，因为margin和paading有时会引起些麻烦*/
+    border:0px solid #FFF;}
+#flashBoxu_u1_ ul{
+    position:absolute;
+    right:7px;
+    bottom:3px;
+    font:9px tahoma;}
+#flashBoxu_u1_ ul li{
+    display:block;
+    float:left;
+    width:12px;
+    height:12px;
+    line-height:12px;
+    margin-right:3px;
+    border:0px solid #999;
+    background:#F0F0F0;
+    text-align:center;
+    cursor:pointer;}
+#flashBoxu_u1_ ul li.hover{
+    border-color:red;
+    background:#FFE1E1;
+    color:red;}
+</style>
+<script type="text/javascript">
+function flashBoxCtrl(o){
+    this.obj=document.getElementById(o);
+    //这个私有方法虽然写了，但暂时没用到
+    function addListener(ele,eventName,functionBody){
+        if (ele.attachEvent){
+            ele.attachEvent("on"+eventName, functionBody);
+        }else if (ele.addEventListener){
+            ele.addEventListener("on"+eventName,functionBody, false);
+        }else{
+            return false;
+        }
+    }
+    //初始化
+    this.init=function(){
+        var objImg=this.obj.getElementsByTagName("img");
+        var tagLength=objImg.length;
+        if (tagLength>0){
+            var oUl=document.createElement("ul");
+            oUl.setAttribute("id",o+"numTag");
+            for (var i=0;i<tagLength;i++){
+                var oLi=oUl.appendChild(document.createElement("li"));
+                if (i==0){
+                    oLi.setAttribute("class","hover"); //初始化时把第一个设置为高亮
+                    oLi.setAttribute("className","hover");
+                }
+                //设置标签的数字
+                oLi.appendChild(document.createTextNode((i+1)));
+            }
+            this.obj.appendChild(oUl);
+            objImg[0].style.display="block";
+            //设置标签事件
+            var oTag=this.obj.getElementsByTagName("li");
+            for (var i=0;i<oTag.length;i++){
+                var flag = 0;
+                var temp = 0;
+                var timeout=null;
+                var step = function(){
+                    for (j=0;j<oTag.length;j++){
+                        oTag[j].className="";
+                        objImg[j].style.display="none";
+                    }
+                    this.className="hover";
+                    flag = flag>=oTag.length-1?0:flag+1;
+                    objImg[flag].style.display="block";
+                    oTag[flag].className = "hover";
+                    timeout = setTimeout(step,4000);
+                };
+                oTag[i].onmouseover=function(){
+                    for (j=0;j<oTag.length;j++){
+                        oTag[j].className="";
+                        objImg[j].style.display="none";
+                        temp = j;
+                    }
+                    this.className="hover";
+                    objImg[this.innerHTML-1].style.display="block";
+                    temp = this.innerHTML-1;
+                    flag = i;
+                    clearInterval(timeout);
+                }
+                oTag[i].onmouseout = function(){
+                    for (j=0;j<oTag.length;j++){
+                        oTag[j].className="";
+                        objImg[j].style.display="none";
+                    }
+                    flag = temp;
+                    objImg[temp].style.display="block";
+                    oTag[temp].className = "hover";
+                    timeout = setTimeout(step,4000);
+                }
+                if(i==0)
+                {
+                    timeout = setTimeout(step,4000);
+                }
+            }
+        }
+    };
+    //自动滚动的方法还没写
+    this.imgRoll=function(){};
+    //生成对象时自动加载init()方法以初始化对象
+    this.init();
+}
+</script>
+<table cellspacing="0" cellpadding="0" border="0"><tr><td><div id="flashBoxu_u1_"><img src="images/63C5308F47C0B54004D49C1DC2E_01C70946_2733D.jpg" border="0" width="1003" height="350" /><img src="images/3747A32DC89DB38FC251D97798E_058738E7_15C90.jpg" border="0" width="1003" height="350" /><img src="images/zsxcz.png" border="0" width="1003" height="350" /><img src="images/987654.jpg" border="0" width="1003" height="350" /><img src="xytp/bxyth.jpg" border="0" width="1003" height="350" /><img src="xytp/xibao.PNG" border="0" width="1003" height="350" /></div></td></tr></table><SCRIPT language="JavaScript">new flashBoxCtrl("flashBoxu_u1_");</SCRIPT><!--#endeditable--></div>
+  </div>
+</div>
+<div id="content">
+  <div id="left">
+    <div id="New">
+      <div class="box">
+        <h3 class="PartTitle"><strong>新闻资讯 </strong><b style="font-size: 20px; color: #777676">/ </b><em>New</em>
+          <div class="more"><a href="sylm/xwzx.htm"><img alt="" src="dfiles/12862/templates/jjxy/images/more.gif" width="48" height="15"></a> </div>
+        </h3>
+        <div class="New_img"><img alt="" src="dfiles/12862/templates/jjxy/images/4_55.jpg" width="267" height="13"> </div>
+        <!--#begineditable name="标题列表1" viewid="163578" tagname="标题列表1" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><script language="javascript" src="/system/resource/js/dynclicks.js"></script><table class="c163578_table">
+        <tr>
+            <td colspan="2">
+                <table width="100%">
+                    <tr>
+                        <td width="1%" class="c163578_front">
+                            ·
+                        </td>
+                        <td width="90%">
+                           <a href="info/1308/2844.htm" target="_blank" title="建筑与交通工程学院召开学生工作会议" class="c163578">建筑与交通工程学院召开学生工作会议</a>        
+                        </td>
+			<td>&nbsp;2020/04/09&nbsp;</td>
+                    </tr>
+                </table>
+            </td>            
+        </tr>    
+        <tr>
+            <td colspan="2">
+                <table width="100%">
+                    <tr>
+                        <td width="1%" class="c163578_front">
+                            ·
+                        </td>
+                        <td width="90%">
+                           <a href="info/1308/2846.htm" target="_blank" title="建筑与交通工程学院开展安全隐患排查工作" class="c163578">建筑与交通工程学院开展安全隐患排查工作</a>        
+                        </td>
+			<td>&nbsp;2020/04/09&nbsp;</td>
+                    </tr>
+                </table>
+            </td>            
+        </tr>    
+        <tr>
+            <td colspan="2">
+                <table width="100%">
+                    <tr>
+                        <td width="1%" class="c163578_front">
+                            ·
+                        </td>
+                        <td width="90%">
+                           <a href="info/1308/2841.htm" target="_blank" title="建筑与交通工程学院党委召开中心组理论学习会" class="c163578">建筑与交通工程学院党委召开中心组理论学习会</a>        
+                        </td>
+			<td>&nbsp;2020/04/05&nbsp;</td>
+                    </tr>
+                </table>
+            </td>            
+        </tr>    
+        <tr>
+            <td colspan="2">
+                <table width="100%">
+                    <tr>
+                        <td width="1%" class="c163578_front">
+                            ·
+                        </td>
+                        <td width="90%">
+                           <a href="info/1308/2834.htm" target="_blank" title="建筑与交通工程学院召开专题会议研究部署近期重点工作" class="c163578">建筑与交通工程学院召开专题会议研究部署近期重点工作</a>        
+                        </td>
+			<td>&nbsp;2020/03/27&nbsp;</td>
+                    </tr>
+                </table>
+            </td>            
+        </tr>    
+        <tr>
+            <td colspan="2">
+                <table width="100%">
+                    <tr>
+                        <td width="1%" class="c163578_front">
+                            ·
+                        </td>
+                        <td width="90%">
+                           <a href="info/1308/2837.htm" target="_blank" title="校领导到建筑与交通工程学院调研" class="c163578">校领导到建筑与交通工程学院调研</a>        
+                        </td>
+			<td>&nbsp;2020/03/26&nbsp;</td>
+                    </tr>
+                </table>
+            </td>            
+        </tr>    
+        <tr>
+            <td colspan="2">
+                <table width="100%">
+                    <tr>
+                        <td width="1%" class="c163578_front">
+                            ·
+                        </td>
+                        <td width="90%">
+                           <a href="info/1308/2833.htm" target="_blank" title="【疫情防控】建交学院在线开展大学生团体心理辅导" class="c163578">【疫情防控】建交学院在线开展大学生团体心理辅导</a>        
+                        </td>
+			<td>&nbsp;2020/03/26&nbsp;</td>
+                    </tr>
+                </table>
+            </td>            
+        </tr>    
+        <tr>
+            <td colspan="2">
+                <table width="100%">
+                    <tr>
+                        <td width="1%" class="c163578_front">
+                            ·
+                        </td>
+                        <td width="90%">
+                           <a href="info/1308/2831.htm" target="_blank" title="【疫情防控】建筑与交通工程学院召开教学、学工联动工作会" class="c163578">【疫情防控】建筑与交通工程学院召开教学、学工联动工作会</a>        
+                        </td>
+			<td>&nbsp;2020/03/25&nbsp;</td>
+                    </tr>
+                </table>
+            </td>            
+        </tr>    
+        <tr>
+            <td colspan="2">
+                <table width="100%">
+                    <tr>
+                        <td width="1%" class="c163578_front">
+                            ·
+                        </td>
+                        <td width="90%">
+                           <a href="info/1308/2822.htm" target="_blank" title="建筑与交通工程学院召开毕业生线上就业工作推进会" class="c163578">建筑与交通工程学院召开毕业生线上就业工作推进会</a>        
+                        </td>
+			<td>&nbsp;2020/03/22&nbsp;</td>
+                    </tr>
+                </table>
+            </td>            
+        </tr>    
+</table><script>_showDynClickBatch(['dynclicks_u2_2844','dynclicks_u2_2846','dynclicks_u2_2841','dynclicks_u2_2834','dynclicks_u2_2837','dynclicks_u2_2833','dynclicks_u2_2831','dynclicks_u2_2822'],[2844,2846,2841,2834,2837,2833,2831,2822],"wbnews", 1411890336)</script>
+<!--#endeditable--></div>
+      <span class="clear"></span></div>
+    <!-- New结束 -->
+    <!-- Notice结束 -->
+    <!-- bomNav结束 -->
+  </div>
+  <!-- left结束 -->
+  <div id="right">
+    <div id="DaoDu">
+      <h3 class="PartTitle1" style="background-color: #f7f7f7"><img alt="" src="dfiles/12862/templates/jjxy/images/4_41.jpg" width="25" height="22"><strong>通知公告 </strong>
+        <div class="more1"><a href="sylm/tzgg.htm"><img alt="" src="dfiles/12862/templates/jjxy/images/more.gif" width="48" height="15"></a></div>
+      </h3>
+      <div class="New_img"><img alt="" src="dfiles/12862/templates/jjxy/images/4_55.jpg" width="267" height="13"></div>
+      <!--#begineditable name="标题列表4" viewid="163577" tagname="标题列表4" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><table class="c163577_table">
+        <tr>
+            <td colspan="2">
+                <table width="100%">
+                    <tr>
+                        <td width="1%" class="c163577_front">
+                            ·
+                        </td>
+                        <td width="80%">
+                           <a href="info/1309/2843.htm" target="_blank" title="致桂电学子的第五封信" class="c163577">致桂电学子的第五封信</a>        
+                        </td> 
+<td>
+&nbsp;2020/04/04&nbsp;
+</td>                   
+                    </tr>
+                </table>
+            </td>            
+        </tr>    
+        <tr>
+            <td colspan="2">
+                <table width="100%">
+                    <tr>
+                        <td width="1%" class="c163577_front">
+                            ·
+                        </td>
+                        <td width="80%">
+                           <a href="info/1309/2799.htm" target="_blank" title="致桂电学子的第三封信" class="c163577">致桂电学子的第三封信</a>        
+                        </td> 
+<td>
+&nbsp;2020/03/08&nbsp;
+</td>                   
+                    </tr>
+                </table>
+            </td>            
+        </tr>    
+        <tr>
+            <td colspan="2">
+                <table width="100%">
+                    <tr>
+                        <td width="1%" class="c163577_front">
+                            ·
+                        </td>
+                        <td width="80%">
+                           <a href="info/1309/2792.htm" target="_blank" title="建筑与交通工程学院研究生疫情期间开课信息表" class="c163577">建筑与交通工程学院研究生疫情期间开课...</a>        
+                        </td> 
+<td>
+&nbsp;2020/03/02&nbsp;
+</td>                   
+                    </tr>
+                </table>
+            </td>            
+        </tr>    
+        <tr>
+            <td colspan="2">
+                <table width="100%">
+                    <tr>
+                        <td width="1%" class="c163577_front">
+                            ·
+                        </td>
+                        <td width="80%">
+                           <a href="info/1309/2794.htm" target="_blank" title="桂电新冠肺炎疫情防控工作领导小组通告（第6号）" class="c163577">桂电新冠肺炎疫情防控工作领导小组通告...</a>        
+                        </td> 
+<td>
+&nbsp;2020/03/01&nbsp;
+</td>                   
+                    </tr>
+                </table>
+            </td>            
+        </tr>    
+        <tr>
+            <td colspan="2">
+                <table width="100%">
+                    <tr>
+                        <td width="1%" class="c163577_front">
+                            ·
+                        </td>
+                        <td width="80%">
+                           <a href="info/1309/2761.htm" target="_blank" title="建筑与交通工程学院研究生第一周上课信息表" class="c163577">建筑与交通工程学院研究生第一周上课信息表</a>        
+                        </td> 
+<td>
+&nbsp;2020/02/19&nbsp;
+</td>                   
+                    </tr>
+                </table>
+            </td>            
+        </tr>    
+        <tr>
+            <td colspan="2">
+                <table width="100%">
+                    <tr>
+                        <td width="1%" class="c163577_front">
+                            ·
+                        </td>
+                        <td width="80%">
+                           <a href="info/1309/2774.htm" target="_blank" title="桂林电子科技大学新型冠状病毒感染的肺炎疫情防控工作领导小组通告（第5号）" class="c163577">桂林电子科技大学新型冠状病毒感染的肺...</a>        
+                        </td> 
+<td>
+&nbsp;2020/02/16&nbsp;
+</td>                   
+                    </tr>
+                </table>
+            </td>            
+        </tr>    
+        <tr>
+            <td colspan="2">
+                <table width="100%">
+                    <tr>
+                        <td width="1%" class="c163577_front">
+                            ·
+                        </td>
+                        <td width="80%">
+                           <a href="info/1309/2801.htm" target="_blank" title="@桂电学子，这是学校给你们的第二封信" class="c163577">@桂电学子，这是学校给你们的第二封信</a>        
+                        </td> 
+<td>
+&nbsp;2020/02/15&nbsp;
+</td>                   
+                    </tr>
+                </table>
+            </td>            
+        </tr>    
+        <tr>
+            <td colspan="2">
+                <table width="100%">
+                    <tr>
+                        <td width="1%" class="c163577_front">
+                            ·
+                        </td>
+                        <td width="80%">
+                           <a href="info/1309/2823.htm" target="_blank" title="桂林电子科技大学校庆六十周年公告(第1号)" class="c163577">桂林电子科技大学校庆六十周年公告(第1...</a>        
+                        </td> 
+<td>
+&nbsp;2020/03/20&nbsp;
+</td>                   
+                    </tr>
+                </table>
+            </td>            
+        </tr>    
+</table><script>_showDynClickBatch(['dynclicks_u3_2843','dynclicks_u3_2799','dynclicks_u3_2792','dynclicks_u3_2794','dynclicks_u3_2761','dynclicks_u3_2774','dynclicks_u3_2801','dynclicks_u3_2823'],[2843,2799,2792,2794,2761,2774,2801,2823],"wbnews", 1411890336)</script>
+<!--#endeditable--></div>
+    <!-- DaoDu结束 -->
+    <!-- tuijianLink结束 -->
+  </div>
+  <!-- right结束 -->
+  <span class="clear"></span>
+  <!-- 清除浮动 -->
+</div>
+<!-- 教务工作开始 -->
+<div id="jiaowu">
+  <div class="left">
+    <div class="jiao_work">
+      <div class="btn"><b>教务工作</b></div>
+      <div class="more3"><a href="sylm/jwgz.htm"><img alt="" src="dfiles/12862/templates/jjxy/images/more.gif" width="48" height="15"></a></div>
+      <div class="NewsList3">
+        <ul>
+          <!--#begineditable name="标题列表2" viewid="163573" tagname="标题列表2" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><table width="100%">
+  <tr>
+    <td width="1%" class="c163573_front">·</td>
+    <td width="80%"><a href="info/1310/2835.htm" target="_blank" title="【疫情防控】建筑与交通工程学院召开教学、学工联动工作会" class="c163573">【疫情防控】建筑与交通工程学院召开教学、学工联动工作会</a></td>
+    <td>&nbsp;2020/03/25&nbsp;</td>
+  </tr>
+</table>
+<table width="100%">
+  <tr>
+    <td width="1%" class="c163573_front">·</td>
+    <td width="80%"><a href="info/1310/2477.htm" target="_blank" title="建筑与交通工程学院举行学风建设暨专业分流座谈会" class="c163573">建筑与交通工程学院举行学风建设暨专业分流座谈会</a></td>
+    <td>&nbsp;2019/05/10&nbsp;</td>
+  </tr>
+</table>
+<table width="100%">
+  <tr>
+    <td width="1%" class="c163573_front">·</td>
+    <td width="80%"><a href="info/1310/2347.htm" target="_blank" title="关于推荐区级教改项目专家的通知" class="c163573">关于推荐区级教改项目专家的通知</a></td>
+    <td>&nbsp;2019/03/04&nbsp;</td>
+  </tr>
+</table>
+<table width="100%">
+  <tr>
+    <td width="1%" class="c163573_front">·</td>
+    <td width="80%"><a href="info/1310/2346.htm" target="_blank" title="关于申报2019年度广西高等教育 本科教学改革工程项目的通知" class="c163573">关于申报2019年度广西高等教育 本科教学改革工程项目的...</a></td>
+    <td>&nbsp;2019/03/04&nbsp;</td>
+  </tr>
+</table>
+<table width="100%">
+  <tr>
+    <td width="1%" class="c163573_front">·</td>
+    <td width="80%"><a href="info/1310/2345.htm" target="_blank" title="学院开展新学期开学教学自查工作" class="c163573">学院开展新学期开学教学自查工作</a></td>
+    <td>&nbsp;2019/02/27&nbsp;</td>
+  </tr>
+</table>
+<table width="100%">
+  <tr>
+    <td width="1%" class="c163573_front">·</td>
+    <td width="80%"><a href="info/1310/1991.htm" target="_blank" title="建筑与交通工程学院举行本科毕业生培养质量座谈会" class="c163573">建筑与交通工程学院举行本科毕业生培养质量座谈会</a></td>
+    <td>&nbsp;2018/07/04&nbsp;</td>
+  </tr>
+</table>
+<script>_showDynClickBatch(['dynclicks_u4_2835','dynclicks_u4_2477','dynclicks_u4_2347','dynclicks_u4_2346','dynclicks_u4_2345','dynclicks_u4_1991'],[2835,2477,2347,2346,2345,1991],"wbnews", 1411890336)</script>
+<!--#endeditable-->
+        </ul>
+      </div>
+    </div>
+    <div class="left_img"><img alt="" src="dfiles/12862/templates/jjxy/images/4_91.jpg" width="13" height="166"></div>
+    <div class="student_work">
+      <div class="student_btn">
+        <div class="btn2"><b>学工动态</b> </div>
+        <div class="more3">
+          <p><a href="jzyjtgcxy/xsgz/xgdt.htm"><img alt="" src="dfiles/12862/templates/jjxy/images/more.gif" width="48" height="15"></a></p>
+        </div>
+      </div>
+      <div class="NewsList3">
+        <ul>
+          <!--#begineditable name="标题列表" viewid="164125" tagname="标题列表" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><table width="100%">
+  <tr>
+    <td width="1%" class="c164125_front">·</td>
+    <td width="80%"><a href="info/1297/2845.htm" target="_blank" title="建筑与交通工程学院召开学生工作会议" class="c164125">建筑与交通工程学院召开学生工作会议</a></td>
+    <td>&nbsp;2020/04/09&nbsp;</td>
+  </tr>
+</table>
+<table width="100%">
+  <tr>
+    <td width="1%" class="c164125_front">·</td>
+    <td width="80%"><a href="info/1297/2832.htm" target="_blank" title="【疫情防控】建交学院在线开展大学生团体心理辅导" class="c164125">【疫情防控】建交学院在线开展大学生团体心理辅导</a></td>
+    <td>&nbsp;2020/03/26&nbsp;</td>
+  </tr>
+</table>
+<table width="100%">
+  <tr>
+    <td width="1%" class="c164125_front">·</td>
+    <td width="80%"><a href="info/1297/2830.htm" target="_blank" title="【疫情防控】建筑与交通工程学院召开教学、学工联动工作会" class="c164125">【疫情防控】建筑与交通工程学院召开教学、学工联动工作会</a></td>
+    <td>&nbsp;2020/03/25&nbsp;</td>
+  </tr>
+</table>
+<table width="100%">
+  <tr>
+    <td width="1%" class="c164125_front">·</td>
+    <td width="80%"><a href="info/1297/2836.htm" target="_blank" title="建筑与交通工程学院召开毕业生线上就业工作推进会" class="c164125">建筑与交通工程学院召开毕业生线上就业工作推进会</a></td>
+    <td>&nbsp;2020/03/22&nbsp;</td>
+  </tr>
+</table>
+<table width="100%">
+  <tr>
+    <td width="1%" class="c164125_front">·</td>
+    <td width="80%"><a href="info/1297/2829.htm" target="_blank" title="自律文明  感恩奉献  做一名有温度的新时代大学生   ——建交学子六种意识之“修身意识”培育" class="c164125">自律文明  感恩奉献  做一名有温度的新时代大学生   —...</a></td>
+    <td>&nbsp;2020/03/21&nbsp;</td>
+  </tr>
+</table>
+<table width="100%">
+  <tr>
+    <td width="1%" class="c164125_front">·</td>
+    <td width="80%"><a href="info/1297/2828.htm" target="_blank" title="停课不停学  科创不停步  积极探索学科竞赛线上培训新体系 ——建交学子六种意识之“勤学意识”培育" class="c164125">停课不停学  科创不停步  积极探索学科竞赛线上培训新...</a></td>
+    <td>&nbsp;2020/03/20&nbsp;</td>
+  </tr>
+</table>
+<script>_showDynClickBatch(['dynclicks_u5_2845','dynclicks_u5_2832','dynclicks_u5_2830','dynclicks_u5_2836','dynclicks_u5_2829','dynclicks_u5_2828'],[2845,2832,2830,2836,2829,2828],"wbnews", 1411890336)</script>
+<!--#endeditable-->
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- 教务工作结束 -->
+<div id="jiaowu">
+  <div class="left">
+  
+    <div class="jiao_work">
+      <div class="btn"><b>学科竞赛</b></div>
+      <div class="more3"><a href="jzyjtgcxy/xsgz/xkjs.htm"><img alt="" src="dfiles/12862/templates/jjxy/images/more.gif" width="48" height="15"></a></div>
+      <div class="NewsList3">
+        <ul>
+          <!--#begineditable name="标题列表5" viewid="164617" tagname="标题列表5" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><table width="100%">
+  <tr>
+    <td width="1%" class="c164617_front">·</td>
+    <td width="80%"><a href="info/1340/1803.htm" target="_blank" title="全国中、高等院校学生“斯维尔杯”BIM应用技能大赛简介" class="c164617">全国中、高等院校学生“斯维尔杯”BIM应用技能大赛简介</a></td>
+    <td>&nbsp;2018/05/15&nbsp;</td>
+  </tr>
+</table>
+<table width="100%">
+  <tr>
+    <td width="1%" class="c164617_front">·</td>
+    <td width="80%"><a href="info/1340/1802.htm" target="_blank" title="全国大学生智能汽车竞赛简介" class="c164617">全国大学生智能汽车竞赛简介</a></td>
+    <td>&nbsp;2018/05/15&nbsp;</td>
+  </tr>
+</table>
+<table width="100%">
+  <tr>
+    <td width="1%" class="c164617_front">·</td>
+    <td width="80%"><a href="info/1340/1801.htm" target="_blank" title="大学生节能减排社会实践与科技竞赛简介" class="c164617">大学生节能减排社会实践与科技竞赛简介</a></td>
+    <td>&nbsp;2018/05/15&nbsp;</td>
+  </tr>
+</table>
+<table width="100%">
+  <tr>
+    <td width="1%" class="c164617_front">·</td>
+    <td width="80%"><a href="info/1340/1800.htm" target="_blank" title="广西高校大学生创新设计与制作大赛简介" class="c164617">广西高校大学生创新设计与制作大赛简介</a></td>
+    <td>&nbsp;2018/05/15&nbsp;</td>
+  </tr>
+</table>
+<table width="100%">
+  <tr>
+    <td width="1%" class="c164617_front">·</td>
+    <td width="80%"><a href="info/1340/1804.htm" target="_blank" title="中国制冷空调行业大学生科技竞赛简介" class="c164617">中国制冷空调行业大学生科技竞赛简介</a></td>
+    <td>&nbsp;2018/05/15&nbsp;</td>
+  </tr>
+</table>
+<script>_showDynClickBatch(['dynclicks_u6_1803','dynclicks_u6_1802','dynclicks_u6_1801','dynclicks_u6_1800','dynclicks_u6_1804'],[1803,1802,1801,1800,1804],"wbnews", 1411890336)</script>
+<!--#endeditable-->
+        </ul>
+      </div>
+    </div>
+    
+    <div class="left_img"><img alt="" src="dfiles/12862/templates/jjxy/images/4_91.jpg" width="13" height="166"></div>
+    
+    <div class="student_work">
+      <div class="student_btn">
+        <div class="btn2"><b>就业工作</b> </div>
+        <div class="more3">
+          <p><a href="jzyjtgcxy/xsgz/jygz.htm"><img alt="" src="dfiles/12862/templates/jjxy/images/more.gif" width="48" height="15"></a></p>
+        </div>
+      </div>
+      <div class="NewsList3">
+        <ul>
+      <!--#begineditable name="标题列表6" viewid="164581" tagname="标题列表6" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><table class="c164581_table">
+        <tr>
+            <td colspan="2">
+                <table width="100%">
+                    <tr>
+                        <td width="1%" class="c164581_front">
+                            ·
+                        </td>
+                        <td width="80%">
+                           <a href="info/1311/2724.htm" target="_blank" title="方大集团2020届校招招聘简章" class="c164581">方大集团2020届校招招聘简章</a>        
+                        </td>
+<td>&nbsp;2019/10/15&nbsp;</td>                   
+                    </tr>
+                </table>
+            </td>            
+        </tr>    
+        <tr>
+            <td colspan="2">
+                <table width="100%">
+                    <tr>
+                        <td width="1%" class="c164581_front">
+                            ·
+                        </td>
+                        <td width="80%">
+                           <a href="info/1311/2728.htm" target="_blank" title="广西建工一建2020校园招聘简章" class="c164581">广西建工一建2020校园招聘简章</a>        
+                        </td>
+<td>&nbsp;2019/10/08&nbsp;</td>                   
+                    </tr>
+                </table>
+            </td>            
+        </tr>    
+        <tr>
+            <td colspan="2">
+                <table width="100%">
+                    <tr>
+                        <td width="1%" class="c164581_front">
+                            ·
+                        </td>
+                        <td width="80%">
+                           <a href="info/1311/2722.htm" target="_blank" title="深圳市三鑫科技发展有限公司2020届校园招聘简章" class="c164581">深圳市三鑫科技发展有限公司2020届校园招聘简章</a>        
+                        </td>
+<td>&nbsp;2019/09/30&nbsp;</td>                   
+                    </tr>
+                </table>
+            </td>            
+        </tr>    
+        <tr>
+            <td colspan="2">
+                <table width="100%">
+                    <tr>
+                        <td width="1%" class="c164581_front">
+                            ·
+                        </td>
+                        <td width="80%">
+                           <a href="info/1311/2721.htm" target="_blank" title="中国十九冶集团有限公司招聘信息" class="c164581">中国十九冶集团有限公司招聘信息</a>        
+                        </td>
+<td>&nbsp;2019/09/19&nbsp;</td>                   
+                    </tr>
+                </table>
+            </td>            
+        </tr>    
+        <tr>
+            <td colspan="2">
+                <table width="100%">
+                    <tr>
+                        <td width="1%" class="c164581_front">
+                            ·
+                        </td>
+                        <td width="80%">
+                           <a href="info/1311/2723.htm" target="_blank" title="中铁一局集团有限公司广州分公司" class="c164581">中铁一局集团有限公司广州分公司</a>        
+                        </td>
+<td>&nbsp;2019/09/15&nbsp;</td>                   
+                    </tr>
+                </table>
+            </td>            
+        </tr>    
+</table><script>_showDynClickBatch(['dynclicks_u7_2724','dynclicks_u7_2728','dynclicks_u7_2722','dynclicks_u7_2721','dynclicks_u7_2723'],[2724,2728,2722,2721,2723],"wbnews", 1411890336)</script>
+<!--#endeditable-->
+        </ul>
+      </div>
+    </div>
+    
+  </div>
+</div>
+<!-- 友情链接 -->
+<div id="youqing">
+ 
+  <div class="youqingimg1"><a href="jzyjtgcxy/djgz/djgz.htm"><a href="jzyjtgcxy/djgz/djgz.htm"><img alt="喜迎学校第三次党代会" src="dfiles/12862/upload/201709/20/201709201319512695.png" width="220" height="52" /></a></div>
+    <div class="youqingimg1"><a href="sylm/rcyj.htm"><img alt="人才招聘" src="dfiles/12862/upload/201709/20/rcyj.png" width="220" height="52"></a></div>
+      <div class="youqingimg1"><a href="sylm/gjjl.htm"><img alt="国际交流" src="dfiles/12862/upload/201709/20/gjjl.png" width="220" height="52"></a></div>
+  <div class="youqingimg1"><a href="sylm/jbym.htm"><img alt="我要举报" src="dfiles/12862/upload/201705/12/201705120937004611.jpg" width="220" height="52"></a></div>
+</div>
+<!-- 友情链接 -->
+<!-- 联系方式 -->
+<div id="fangshi">
+  <div class="fangshi1">
+    <ul class="lxfs">
+      <li class="lxfs_1"><strong>联系方式</strong>
+      <li>地址：广西桂林金鸡路1号桂林电子科技大学建筑与交通工程学院
+      <li>邮编：541004
+      <li>电话：0773-2303796
+      <li>传真：0773-2290118 </li>
+    </ul>
+    <ul class="lxfs" style="padding-left: 70px">
+      <li class="lxfs_1"><img alt="" src="dfiles/12862/templates/jjxy/images/4_114.jpg" width="16" height="12"><strong>　书记、院长信箱</strong>
+      <li>书记信箱：hul3666@guet.edu.cn
+      <li>院长信箱：traffic@guet.edu.cn </li>
+    </ul>
+  </div>
+  <div class="erweima">
+    <ul>
+      <li><img alt="" src="dfiles/12862/templates/jjxy/images/wx.jpg" width="66" height="65">
+      <li>桂电建交 </li>
+    </ul>
+    <ul>
+      <li><img alt="" src="dfiles/12862/templates/jjxy/images/yb.png" width="66" height="65">
+      <li>易班公共号二维码 </li>
+    </ul>
+    <ul>
+      <li><img alt="" src="dfiles/12862/templates/jjxy/images/20180517093929.jpg" width="66" height="65">
+      <li>建交学院2018级新生咨询群 </li>
+    </ul>
+  </div>
+</div>
+<!-- 联系方式 -->
+<!-- content结束 -->
+<script language="javascript" type="text/javascript">
+    function getLink(lk) {
+        try {
+            var lk = document.getElementById(lk).value;
+            window.open(lk);
+        } catch (e) { alert(e); }
+    }
+</script>
+<div id="footer">
+  <div class="center1">版权所有：? 2015 桂林电子科技大学 建筑与交通工程学院 </div>
+</div>
+<!-- footer结束 -->
+</body>
+</html>

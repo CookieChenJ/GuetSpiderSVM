@@ -1,0 +1,142 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>桂林电子科技大学MBA信息管理系统</title>
+<meta name="author" content="MBAChina" />
+  
+  <link type="text/css" href="/public/default/css/common.css" rel="stylesheet"
+    />    
+<link type="text/css" rel="stylesheet" href="/public/default/css/base.css" />
+<link type="text/css" rel="stylesheet" href="/public/default/css/style.css" /> 
+<link type="text/css" rel="stylesheet" href="/public/default/css/art_style.css">  
+   
+
+<link type="text/css" rel="stylesheet" href="/public/default/css/input.css" />
+<link type="text/css" rel="stylesheet" href="/public/default/css/oa.css">
+
+<script src="/public/default/js/jquery.min.js"></script>
+<script src="/public/js/plugins/form/jquery.form.min.js"></script>  
+<script src="/resource/js/lyc.js"></script>    
+<link rel="shortcut icon" href="/public/favicon.ico" type="image/x-icon" /> 
+</head>
+<script type="text/javascript">             
+   var HINDEX = '';                                     
+</script>
+<body>
+    <div id="header">
+        <div class="header_in clear">
+            <div  style="float:left;">  
+            <h1><img alt="桂林电子科技大学MBA教育中心" style="height:50px"  src="/public/default/images/logo.jpg" /></h1>
+            <span>MBA信息管理系统</span>  
+            </div>
+          <div  style="float:right;color:#fff">
+           <a style="line-height:50px" href="https://www.guet.edu.cn/mba/" target="_blank">桂林电子科技大学MBA教育中心</a> | 
+           <a style="line-height:50px" href="http://www.guet.edu.cn/" target="_blank">桂林电子科技大学</a>
+          </div>
+        </div>
+      
+    </div><link type="text/css" rel="stylesheet" href="/public/default/css/bootstrap.css">
+<script src="/public/js/bootstrap.min.js"></script>
+<script language="javascript">if (document && document.documentMode && document.documentMode < 11) {
+        self.location = "/browser/";
+      }</script>
+<script type="text/javascript">
+	$(function(){
+		var $tab_li = $('.tab li');
+		$tab_li.click(function(){
+			$(this).addClass('li01').removeClass('li02').siblings().removeClass('li01').addClass('li02');
+			var index = $tab_li.index(this);
+			$('#table').val($(this).attr('table'));
+			$('#username').attr('placeholder',$(this).attr('place'));
+			$('.alert-error').remove();
+		});	
+	});
+
+	function dologin () {
+		var data = $("#userlogin").serialize();
+		$(".alert").alert('close');
+		$.ajax({
+			type:'POST',
+			url:'/login/dologin',
+			data:data,
+			dataType:'json',
+			success:function(r){
+				if(r.state == 1){
+					$('#userlogin').before('<div class="alert alert-success"><button data-dismiss="alert" class="close" type="button">×</button><strong>'+r.info+'</strong></div>');
+
+					var table = $('#table').val();
+					if(table == 1){
+						setTimeout(function(){	window.location.href = '/student/ucenter/index';},1000);
+					}else if(table == 2){
+						setTimeout(function(){	window.location.href = '/teacher/ucenter/index';},1000);
+					}else if(table == 3){
+                        var j_url = r.data ? r.data : HINDEX+'auditor/auditor_thesis/nanon_audit_list';
+                        setTimeout(function(){    window.location.href = j_url;},1000);
+                    }
+				}else{
+					$('#userlogin').before('<div class="alert alert-error"><button data-dismiss="alert" class="close" type="button">×</button><strong>'+r.info+'</strong></div>');
+				}
+			}
+		});
+		return false;
+	}
+	$(document).ready(function(){
+	var imgArr=["login_bg.jpg", "login_bg1.jpg", "login_bg2.jpg", "login_bg3.jpg", "login_bg4.jpg", "login_bg5.jpg", "login_bg6.jpg"];
+	var img =parseInt(Math.random()*(imgArr.length)); 
+	var currentImage=imgArr[img];
+	$("#login").css("background-image","url(/public/default/images/"+currentImage+")");
+});
+</script>
+	<div id="login" class="clear">
+		<div id="login_content">
+			<div class="login_box">
+				<div class="tab">
+					<ul>
+						<li class="li01" table="1" place="学号">学生</li>
+						<li class="li02" table="2" place="工号">教师</li>
+						<li class="li02" table="3" place="帐号">评审专家</li>
+					</ul>
+				</div>
+				<div class="login_con clear">
+					<form id="userlogin" name="userlogin" method='post' onsubmit="return dologin()">
+						<div class="login_in">
+							<input type="hidden" id="table" name="table" value="1">
+							<input class="name" id="username" name="username" type="text" placeholder="学号"/>
+							<input class="password" id="password" name="password" type="password" placeholder="密码" />
+							 <div class="clear" style="*margin-bottom:19px">
+                                <input style="float:left;" class="verify" type="text" id="verify" name='verify' placeholder="验证码" />
+							     <div style="">
+                                     <script type="text/javascript" src="/tools/show_code_js/"></script>
+                                </div>
+                            
+                             </div>  
+                             <div class="clear" style="*margin-bottom:0">                                   
+                            <input class="denglu" type="submit" value="登录" />                             
+							<div class="login_b">
+								<a href="/login/find_passwork">忘记密码？</a> |  <a href="https://www.guet.edu.cn/mba/info/1114/1784.htm" target="_blank">访问有问题？</a>
+							</div>
+							</div> 
+						</div>
+					</form>
+				</div>
+			</div>
+		</div>
+	</div>
+	﻿<div id="footer">
+    <div class="footer_in clear">
+        <div class="address fl">
+                建议您使用谷歌、火狐、IE10以上浏览器或包含Chrome内核的双核浏览器访问本站。请勿使用手机浏览器访问。<br/>
+ 	            联系信息：【教务管理】0773-2190801 蒋老师 | 【学位管理】0773-2190801 刘老师 | 【学生工作】0773-2239024 古老师<br />CopyRight 2016-2020 © 桂林电子科技大学MBA教育中心 版权所有 | 技术支持：<a style="color:#535353" target="_blank" href="http://www.mbachina.com">MBAChina</a><br/>
+        </div>
+    </div>
+</div>                                        
+
+
+<script src="/public/js/plugins/layer/layer.min.js"></script>
+                                                                              
+<script src="/resource/js/artdialog/jquery.artDialog.js?skin=icons"></script>
+<script src="/resource/js/artdialog/iframeTools.js"></script>
+
+<script src="/public/default/js/my_artDialog.js"></script></body>
+</html>

@@ -1,0 +1,631 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><HTML><HEAD><TITLE>桂林电子科技大学基建处</TITLE><META Name="keywords" Content="桂林电子科技大学基建处" />
+
+
+
+
+
+<META content="text/html; charset=UTF-8" http-equiv="Content-Type"><LINK rel="stylesheet" type="text/css" href="style.css">
+
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="index.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1411857061)</script>
+</HEAD>
+<BODY target="_blank"><A href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1006"></A><A href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1006"></A><A href="<span style='color:red;font-size:9pt'>转换链接错误</span>"></A><A href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1006"></A><A href="<span style='color:red;font-size:9pt'>转换链接错误</span>"></A>
+<DIV class="w-990 top"><!--#begineditable clone="0" namechanged="0" order="0" ispublic="0" tagname="LOGO" viewid="1091" contentviewid="" contype="" stylesysid="" layout="" action="" name="LOGO"-->
+<table border="0" cellspacing="0" cellpadding="0"><tr><td></td></tr></table><!--#endeditable--></DIV>
+<DIV id="nav" class="w-990">
+<UL><!--#begineditable clone="0" namechanged="0" order="1" ispublic="0" tagname="网站导航" viewid="1095" contentviewid="" contype="" stylesysid="" layout="" action="" name="网站导航"--><style type="text/css">
+td.b1_1_{FONT-SIZE:9pt;}
+td.b2_1_{FONT-SIZE:9pt;BACKGROUND-IMAGE: url(image/hover-bg.gif);COLOR: #010101;FONT-SIZE: 12px;}
+td.b3_1_{FONT-SIZE:9pt;BORDER-BOTTOM: #cccccc 1px solid;BACKGROUND-COLOR: #eeeeee;BORDER-RIGHT: #cccccc 1px solid;}
+td.b4_1_{FONT-SIZE:9pt;BORDER-BOTTOM: #cccccc 1px solid;BACKGROUND-COLOR: #eeeeee;BORDER-RIGHT: #cccccc 1px solid;}
+a.menu0_1_:link {TEXT-DECORATION: none;};
+a.menu0_1_:visited { TEXT-DECORATION: none;};
+a.menu0_1_:hover {TEXT-DECORATION: none;};
+a.menu0_1_:active {TEXT-DECORATION: none;};
+table.tb1_1_{FONT-SIZE:9pt;border:0;}
+span.s1_1_{LINE-HEIGHT: 35px;FONT-FAMILY: 宋体;COLOR: #010101;FONT-SIZE: 14px;}
+span.s2_1_{LINE-HEIGHT: 160%;FONT-FAMILY: 宋体;COLOR: #cc0000;FONT-SIZE: 11pt;TEXT-DECORATION: none;}
+span.s10_1_{LINE-HEIGHT: 35px;FONT-FAMILY: 宋体;COLOR: #fff;FONT-SIZE: 11pt;TEXT-DECORATION: none;}
+span.s20_1_{LINE-HEIGHT: 160%;FONT-FAMILY: 宋体;COLOR: #000000;FONT-SIZE: 11pt;TEXT-DECORATION: none;}
+</style>
+<SCRIPT language="javascript"> 
+ var showfix_1_ = 1;
+ var isvertical_1_ = false;
+</SCRIPT>
+<script language="javascript" src="/system/resource/js/menu/text.js"></script>
+<TABLE id="t1_1_" cellSpacing="0" cellPadding="0" border="0" height="0" width="0"><TR><TD valign="center"></TD><TD valign="middle" height="35" width="84" nowrap class="b1_1_" align="center" id="a_1_1001" onmouseover="tshowLayers('1001','b2_1_', '_1_')" onmouseout="thideLayers('1001','b1_1_', '_1_','true','true')"><a class="menu0_1_" href="index.htm"><span class="fontstyle1095">&nbsp;首页&nbsp;</span></a></TD><TD valign="center" class="leaderfont1095">|</TD><TD valign="middle" width="84" nowrap class="b1_1_" align="center" id="a_1_1033" onmouseover="tshowLayers('1033','b2_1_', '_1_')" onmouseout="thideLayers('1033','b1_1_', '_1_','true','true')"><a class="menu0_1_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1034"><span class="fontstyle1095">&nbsp;新闻公告&nbsp;</span></a></TD><TD valign="center" class="leaderfont1095">|</TD><TD valign="middle" width="84" nowrap class="b1_1_" align="center" id="a_1_1036" onmouseover="tshowLayers('1036','b2_1_', '_1_')" onmouseout="thideLayers('1036','b1_1_', '_1_','true','true')"><a class="menu0_1_" href="jgsz1/zzjg.htm"><span class="fontstyle1095">&nbsp;机构设置&nbsp;</span></a></TD><TD valign="center" class="leaderfont1095">|</TD><TD valign="middle" width="84" nowrap class="b1_1_" align="center" id="a_1_1039" onmouseover="tshowLayers('1039','b2_1_', '_1_')" onmouseout="thideLayers('1039','b1_1_', '_1_','true','true')"><a class="menu0_1_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1040"><span class="fontstyle1095">&nbsp;招标公告&nbsp;</span></a></TD><TD valign="center" class="leaderfont1095">|</TD><TD valign="middle" width="84" nowrap class="b1_1_" align="center" id="a_1_1042" onmouseover="tshowLayers('1042','b2_1_', '_1_')" onmouseout="thideLayers('1042','b1_1_', '_1_','true','true')"><a class="menu0_1_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1043"><span class="fontstyle1095">&nbsp;政策法规&nbsp;</span></a></TD><TD valign="center" class="leaderfont1095">|</TD><TD valign="middle" width="84" nowrap class="b1_1_" align="center" id="a_1_1006" onmouseover="tshowLayers('1006','b2_1_', '_1_')" onmouseout="thideLayers('1006','b1_1_', '_1_','true','true')"><a class="menu0_1_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1006"><span class="fontstyle1095">&nbsp;项目建设&nbsp;</span></a></TD><TD valign="center" class="leaderfont1095">|</TD><TD valign="middle" width="84" nowrap class="b1_1_" align="center" id="a_1_1007" onmouseover="tshowLayers('1007','b2_1_', '_1_')" onmouseout="thideLayers('1007','b1_1_', '_1_','true','true')"><a class="menu0_1_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1007"><span class="fontstyle1095">&nbsp;党建工作&nbsp;</span></a></TD><TD valign="center" class="leaderfont1095">|</TD><TD valign="middle" width="84" nowrap class="b1_1_" align="center" id="a_1_1008" onmouseover="tshowLayers('1008','b2_1_', '_1_')" onmouseout="thideLayers('1008','b1_1_', '_1_','true','true')"><a class="menu0_1_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1008"><span class="fontstyle1095">&nbsp;资料下载&nbsp;</span></a></TD><TD valign="center" class="leaderfont1095">|</TD><TD valign="middle" width="84" nowrap class="b1_1_" align="center" id="a_1_1009" onmouseover="tshowLayers('1009','b2_1_', '_1_')" onmouseout="thideLayers('1009','b1_1_', '_1_','true','true')"><a class="menu0_1_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1009"><span class="fontstyle1095">&nbsp;办事指南&nbsp;</span></a></TD><TD valign="center" class="leaderfont1095">|</TD><TD valign="middle" width="84" nowrap class="b1_1_" align="center" id="a_1_1045" onmouseover="tshowLayers('1045','b2_1_', '_1_')" onmouseout="thideLayers('1045','b1_1_', '_1_','true','true')"><a class="menu0_1_" href="http://www.guet.edu.cn"><span class="fontstyle1095">&nbsp;学校主页&nbsp;</span></a></TD></TR></TR><TR><td align="left" nowrap></td><td></td><td align="left" nowrap><DIV class="main_1_" id="layer_1_1033" onmouseover="tshownull('1033','b2_1_', '_1_')" onmouseout="thideLayers('1033','b1_1_', '_1_','true')" style="z-index:99999;display: none; POSITION: absolute;"><TABLE align="center" class="tb1_1_" cellSpacing="0" cellPadding="0" border="0"><tr><TD height="35" align="left" nowrap onmouseover="TOVT(this,'b4_1_', '_1_');" onmouseout="TOUT(this,'b3_1_', '_1_');" class="b3_1_">
+<A class="menu0_1_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1034"><span class="ejfontstyle1095">&nbsp;新闻动态&nbsp;</span></a></TD></tr><tr><TD height="35" align="left" nowrap onmouseover="TOVT(this,'b4_1_', '_1_');" onmouseout="TOUT(this,'b3_1_', '_1_');" class="b3_1_">
+<A class="menu0_1_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1035"><span class="ejfontstyle1095">&nbsp;通知公告&nbsp;</span></a></TD></tr></table></div></td><td></td><td align="left" nowrap><DIV class="main_1_" id="layer_1_1036" onmouseover="tshownull('1036','b2_1_', '_1_')" onmouseout="thideLayers('1036','b1_1_', '_1_','true')" style="z-index:99999;display: none; POSITION: absolute;"><TABLE align="center" class="tb1_1_" cellSpacing="0" cellPadding="0" border="0"><tr><TD height="35" align="left" nowrap onmouseover="TOVT(this,'b4_1_', '_1_');" onmouseout="TOUT(this,'b3_1_', '_1_');" class="b3_1_">
+<A class="menu0_1_" href="jgsz1/zzjg.htm"><span class="ejfontstyle1095">&nbsp;组织机构&nbsp;</span></a></TD></tr><tr><TD height="35" align="left" nowrap onmouseover="TOVT(this,'b4_1_', '_1_');" onmouseout="TOUT(this,'b3_1_', '_1_');" class="b3_1_">
+<A class="menu0_1_" href="jgsz1/gzzz.htm"><span class="ejfontstyle1095">&nbsp;工作职责&nbsp;</span></a></TD></tr></table></div></td><td></td><td align="left" nowrap><DIV class="main_1_" id="layer_1_1039" onmouseover="tshownull('1039','b2_1_', '_1_')" onmouseout="thideLayers('1039','b1_1_', '_1_','true')" style="z-index:99999;display: none; POSITION: absolute;"><TABLE align="center" class="tb1_1_" cellSpacing="0" cellPadding="0" border="0"><tr><TD height="35" align="left" nowrap onmouseover="TOVT(this,'b4_1_', '_1_');" onmouseout="TOUT(this,'b3_1_', '_1_');" class="b3_1_">
+<A class="menu0_1_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1040"><span class="ejfontstyle1095">&nbsp;招标公告&nbsp;</span></a></TD></tr><tr><TD height="35" align="left" nowrap onmouseover="TOVT(this,'b4_1_', '_1_');" onmouseout="TOUT(this,'b3_1_', '_1_');" class="b3_1_">
+<A class="menu0_1_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1041"><span class="ejfontstyle1095">&nbsp;中标公告&nbsp;</span></a></TD></tr></table></div></td><td></td><td align="left" nowrap><DIV class="main_1_" id="layer_1_1042" onmouseover="tshownull('1042','b2_1_', '_1_')" onmouseout="thideLayers('1042','b1_1_', '_1_','true')" style="z-index:99999;display: none; POSITION: absolute;"><TABLE align="center" class="tb1_1_" cellSpacing="0" cellPadding="0" border="0"><tr><TD height="35" align="left" nowrap onmouseover="TOVT(this,'b4_1_', '_1_');" onmouseout="TOUT(this,'b3_1_', '_1_');" class="b3_1_">
+<A class="menu0_1_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1043"><span class="ejfontstyle1095">&nbsp;行政法规&nbsp;</span></a></TD></tr><tr><TD height="35" align="left" nowrap onmouseover="TOVT(this,'b4_1_', '_1_');" onmouseout="TOUT(this,'b3_1_', '_1_');" class="b3_1_">
+<A class="menu0_1_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1044"><span class="ejfontstyle1095">&nbsp;规章制度&nbsp;</span></a></TD></tr></table></div></td><td></td><td align="left" nowrap><DIV class="main_1_" id="layer_1_1006" onmouseover="tshownull('1006','b2_1_', '_1_')" onmouseout="thideLayers('1006','b1_1_', '_1_','true')" style="z-index:99999;display: none; POSITION: absolute;"><TABLE align="center" class="tb1_1_" cellSpacing="0" cellPadding="0" border="0"><tr><TD height="35" align="left" nowrap onmouseover="TOVT(this,'b4_1_', '_1_');" onmouseout="TOUT(this,'b3_1_', '_1_');" class="b3_1_">
+<A class="menu0_1_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1046"><span class="ejfontstyle1095">&nbsp;前期项目&nbsp;</span></a></TD></tr><tr><TD height="35" align="left" nowrap onmouseover="TOVT(this,'b4_1_', '_1_');" onmouseout="TOUT(this,'b3_1_', '_1_');" class="b3_1_">
+<A class="menu0_1_" href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1047"><span class="ejfontstyle1095">&nbsp;在建项目&nbsp;</span></a></TD></tr></table></div></td><td></td><td align="left" nowrap></td><td></td><td align="left" nowrap></td><td></td><td align="left" nowrap></td><td></td><td align="left" nowrap></td><td></td></TR></table><!--#endeditable--></UL>
+<DIV class="clear"></DIV>
+<DIV class="nav-menu"><SPAN class="nav-menu-left">欢迎光临本网站</SPAN> 
+<DIV class="nav-menu-right"></DIV></DIV></DIV>
+<DIV id="banner" class=" w-990 m-t-5"><!--#begineditable clone="0" namechanged="0" order="2" ispublic="0" tagname="banner变换" viewid="1093" contentviewid="" contype="" stylesysid="" layout="" action="" name="banner变换"--><style type="text/css">
+ul,li{
+    padding:0;
+    margin:0;
+    list-style:none;}
+#flashBoxu_u2_{
+    width:990px;
+    height:209px;
+    border:0px solid #EEE;
+    position:relative;
+    margin-left: auto;
+    margin-right: auto;}
+#flashBoxu_u2_ img{
+    /*初始不要显示*/
+    display:none;
+    /*用边框来实现空位，因为margin和paading有时会引起些麻烦*/
+    border:0px solid #FFF;}
+#flashBoxu_u2_ ul{
+    position:absolute;
+    right:7px;
+    bottom:3px;
+    font:9px tahoma;}
+#flashBoxu_u2_ ul li{
+    display:block;
+    float:left;
+    width:12px;
+    height:12px;
+    line-height:12px;
+    margin-right:3px;
+    border:0px solid #999;
+    background:#F0F0F0;
+    text-align:center;
+    cursor:pointer;}
+#flashBoxu_u2_ ul li.hover{
+    border-color:red;
+    background:#FFE1E1;
+    color:red;}
+</style>
+<script type="text/javascript">
+function flashBoxCtrl(o){
+    this.obj=document.getElementById(o);
+    //这个私有方法虽然写了，但暂时没用到
+    function addListener(ele,eventName,functionBody){
+        if (ele.attachEvent){
+            ele.attachEvent("on"+eventName, functionBody);
+        }else if (ele.addEventListener){
+            ele.addEventListener("on"+eventName,functionBody, false);
+        }else{
+            return false;
+        }
+    }
+    //初始化
+    this.init=function(){
+        var objImg=this.obj.getElementsByTagName("img");
+        var tagLength=objImg.length;
+        if (tagLength>0){
+            var oUl=document.createElement("ul");
+            oUl.setAttribute("id",o+"numTag");
+            for (var i=0;i<tagLength;i++){
+                var oLi=oUl.appendChild(document.createElement("li"));
+                if (i==0){
+                    oLi.setAttribute("class","hover"); //初始化时把第一个设置为高亮
+                    oLi.setAttribute("className","hover");
+                }
+                //设置标签的数字
+                oLi.appendChild(document.createTextNode((i+1)));
+            }
+            this.obj.appendChild(oUl);
+            objImg[0].style.display="block";
+            //设置标签事件
+            var oTag=this.obj.getElementsByTagName("li");
+            for (var i=0;i<oTag.length;i++){
+                var flag = 0;
+                var temp = 0;
+                var timeout=null;
+                var step = function(){
+                    for (j=0;j<oTag.length;j++){
+                        oTag[j].className="";
+                        objImg[j].style.display="none";
+                    }
+                    this.className="hover";
+                    flag = flag>=oTag.length-1?0:flag+1;
+                    objImg[flag].style.display="block";
+                    oTag[flag].className = "hover";
+                    timeout = setTimeout(step,4000);
+                };
+                oTag[i].onmouseover=function(){
+                    for (j=0;j<oTag.length;j++){
+                        oTag[j].className="";
+                        objImg[j].style.display="none";
+                        temp = j;
+                    }
+                    this.className="hover";
+                    objImg[this.innerHTML-1].style.display="block";
+                    temp = this.innerHTML-1;
+                    flag = i;
+                    clearInterval(timeout);
+                }
+                oTag[i].onmouseout = function(){
+                    for (j=0;j<oTag.length;j++){
+                        oTag[j].className="";
+                        objImg[j].style.display="none";
+                    }
+                    flag = temp;
+                    objImg[temp].style.display="block";
+                    oTag[temp].className = "hover";
+                    timeout = setTimeout(step,4000);
+                }
+                if(i==0)
+                {
+                    timeout = setTimeout(step,4000);
+                }
+            }
+        }
+    };
+    //自动滚动的方法还没写
+    this.imgRoll=function(){};
+    //生成对象时自动加载init()方法以初始化对象
+    this.init();
+}
+</script>
+<table cellspacing="0" cellpadding="0" border="0"><tr><td><div id="flashBoxu_u2_"></div></td></tr></table><SCRIPT language="JavaScript">new flashBoxCtrl("flashBoxu_u2_");</SCRIPT><!--#endeditable--></DIV>
+<DIV class="w-990 m-t-5">
+<DIV class="content-left">
+<DIV class="news-pic">
+<H1><IMG src="image/news-title.gif" width="237" height="27"></H1>
+<DIV class="news-content m-t-10"><!--#begineditable clone="0" namechanged="0" order="3" ispublic="0" tagname="新闻图片" viewid="1097" contentviewid="" contype="" stylesysid="" layout="" action="" name="新闻图片"-->
+<LINK href="/system/resource/style/component/news/list/imagechangenews.css" type="text/css" rel="stylesheet">
+<script language="javascript" src="/system/resource/js/news/imagechangenews.js"></script><script language="JavaScript">
+var u_u3_icn = new ImageChangeNews("u_u3_", 230, 165, 4, 2.0, true, false, false, true);
+
+//初始化图片, 并启动定时
+function u_u3_init_img()
+{
+
+    u_u3_icn.addimg("\/__local\/1\/1A\/69\/4FC9003266C23CC312F3870379E_504013A2_770B.jpg", "info\/1034\/1091.htm", "​​​我校花江校区自来水...", "");
+
+    u_u3_icn.addimg("\/__local\/A\/D9\/1D\/35F26DA0682E7BA8881F10DF7CC_3AAAF45F_824E.jpg", "info\/1034\/1092.htm", "学校召开国家重点实验室项...", "");
+
+    u_u3_icn.addimg("\/__local\/4\/BA\/35\/CC19010A495E43A8AC7E1686167_D5A8CCE7_6916.jpg", "info\/1034\/1089.htm", "刘宝臣同志给基建处（花管...", "");
+
+    u_u3_icn.addimg("\/__local\/4\/BA\/35\/CC19010A495E43A8AC7E1686167_D5A8CCE7_6916.jpg", "info\/1034\/1088.htm", "花江校区JX27教学楼实验楼...", "");
+
+    u_u3_icn.addimg("\/__local\/6\/1C\/B8\/72FCBE5654245465B340DF686D6_E7493F67_A310.jpg", "info\/1034\/1087.htm", "刘宝臣副校长推进花江校区...", "");
+
+    u_u3_icn.addimg("\/__local\/D\/BC\/80\/BEE9BA4E8A897007BED25BFA355_F14FCE1F_8740.jpg", "info\/1034\/1090.htm", "基建处（花管会）党支部召...", "");
+
+    u_u3_icn.changeimg(0);
+}
+</script><table cellspacing="0" cellpadding="0" border="0" style="padding:0px margin:0px; border:0px">
+    <tr><td>
+        <div style="OVERFLOW: hidden;height:165px;width:230px">
+            <div id="u_u3_div" align="center" style="padding:0px;margin:0px;border:0px solid black;background-color:#000000;FILTER: progid:DXImageTransform.Microsoft.RevealTrans (duration=2.0,transition=23);height:165px;width:230px">
+                <div id="u_u3_imgdiv" style="padding:0px;border:0px;"><a id="u_u3_url" target="_blank"><img id="u_u3_pic" border="0" width="230" height="165" src="/system/resource/images/space.gif"></a></div>
+            </div>
+            <div style="filter:alpha(style=1,opacity=10,finishOpacity=80);width:230px;height:19px;text-align:right;top:-19px;position:relative;padding:0px;margin:0px;border:0px;">
+<a href="javascript:u_u3_icn.changeimg(0)" ; id="u_u3_selectNode0" class="imagechangenews_pnode" target="_self">1</a><a href="javascript:u_u3_icn.changeimg(1)" ; id="u_u3_selectNode1" class="imagechangenews_pnode" target="_self">2</a><a href="javascript:u_u3_icn.changeimg(2)" ; id="u_u3_selectNode2" class="imagechangenews_pnode" target="_self">3</a><a href="javascript:u_u3_icn.changeimg(3)" ; id="u_u3_selectNode3" class="imagechangenews_pnode" target="_self">4</a><a href="javascript:u_u3_icn.changeimg(4)" ; id="u_u3_selectNode4" class="imagechangenews_pnode" target="_self">5</a><a href="javascript:u_u3_icn.changeimg(5)" ; id="u_u3_selectNode5" class="imagechangenews_pnode" target="_self">6</a>
+            </div></div></td></tr>
+       
+    <tr><td height="25">
+        <div align="center" style="overflow:hidden;text-overflow:ellipsis;height:25px;width:230px;"><a target="_blank" class="titlestyle1097" id="u_u3_newstitle"></a></div>
+    </td></tr>
+<div align="left" display="none" style="overflow:hidden;text-overflow:ellipsis;height:0px;width:230px;padding-left:2px;padding-right:2px"><a target="_blank" class="summarystyle1097" id="u_u3_newssummary"></a></div>   
+</table><SCRIPT language="JavaScript">u_u3_init_img();</SCRIPT><!--#endeditable--></DIV></DIV>
+<DIV class=" m-l-t-7"><A href="<span style='color:red;font-size:9pt'>转换链接错误</span>" target="_blank"></A></DIV>
+<DIV class="news-pic">
+<H1 class="m-l-t-7">&nbsp;&nbsp;</H1>
+<DIV class="lj-content" style="width: 233px; height: 224px">
+<H1 class="news-title index-title" style="width: 196px; height: 21px">联系方式</H1>
+<DIV align="left"><FONT color="#ff0000"></FONT>&nbsp;</DIV>
+<DIV align="left"><FONT size="3">&nbsp;<STRONG>综合科：</STRONG>&nbsp;<STRONG>2290395</STRONG></FONT></DIV>
+<DIV align="left">&nbsp;</DIV>
+<DIV align="left">&nbsp;<FONT size="3"><STRONG>计划科：</STRONG><STRONG>2290390、2310179</STRONG></FONT></DIV>
+<DIV align="left">&nbsp;</DIV>
+<DIV align="left">&nbsp;<FONT size="3"><STRONG>土建科：</STRONG><STRONG>2290391、2290382</STRONG></FONT></DIV>
+<DIV align="left">&nbsp;</DIV>
+<DIV align="left">&nbsp;<FONT size="3"><STRONG>水电科：</STRONG><STRONG>2290392、2290393</STRONG></FONT></DIV>
+<DIV align="left">&nbsp;</DIV>
+<DIV align="left">&nbsp;<FONT size="3"><STRONG>邮&nbsp;&nbsp;箱：</STRONG><STRONG><A href="mailto:jjc@guet.edu.cn">jjc@guet.edu.cn</A></STRONG></FONT></DIV>
+<DIV align="left">&nbsp;</DIV>
+<DIV align="left">&nbsp;<STRONG>办公地址：花江校区行政办公楼2楼</STRONG></DIV></DIV></DIV></DIV>
+<DIV class="content-right">
+<DIV class="news">
+<H1 class="news-title index-title"><FONT size="2">新闻动态</FONT><SPAN class="more"><A href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1034" target="_blank"><IMG src="image/more.gif" width="41" height="11"></A></SPAN></H1>
+<DIV class="news-contnet">
+<UL><!--#begineditable clone="0" namechanged="0" order="4" ispublic="0" tagname="新闻动态" viewid="1101" contentviewid="" contype="" stylesysid="" layout="" action="" name="新闻动态"--><script language="javascript" src="/system/resource/js/dynclicks.js"></script><ul>
+   <li><a href="info/1034/1590.htm" target="_blank" title="基建处召开新中国成立70国庆节期间安全稳定会议（附图）">基建处召开新中国成立70国庆节期间安全稳定会议（附图）</a>
+      &nbsp;2019/09/30&nbsp;</li>
+   <li><a href="info/1034/1500.htm" target="_blank" title="花江校区F区学生宿舍组团项目开工建设(图）">花江校区F区学生宿舍组团项目开工建设(图）</a>
+      &nbsp;2019/05/16&nbsp;</li>
+   <li><a href="info/1034/1494.htm" target="_blank" title="基建处（花管会）党支部召开中共桂林电子科技大学 机关委员会换届及两委委员第二轮推荐大会">基建处（花管会）党支部召开中共桂林电子科技大学 机关委员会换届及两委委员第二轮推荐大会</a>
+      &nbsp;2019/04/13&nbsp;</li>
+   <li><a href="info/1034/1476.htm" target="_blank" title="基建处成立师德师风建设工作小组并开展相关工作">基建处成立师德师风建设工作小组并开展相关工作</a>
+      &nbsp;2019/04/12&nbsp;</li>
+</ul><script>_showDynClickBatch(['dynclicks_u4_1590','dynclicks_u4_1500','dynclicks_u4_1494','dynclicks_u4_1476'],[1590,1500,1494,1476],"wbnews", 1411857061)</script>
+<!--#endeditable--></UL></DIV></DIV>
+<DIV class="gg">
+<H1 class="gg-title index-title"><FONT size="2">通知公告</FONT><SPAN style="margin-left: 180px"><A href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1035" target="_blank"><IMG src="image/more.gif" width="41" height="11"></A></SPAN></H1>
+<DIV class="gg-contnet"><!--#begineditable clone="0" namechanged="0" order="5" ispublic="0" tagname="标题列表" viewid="165078" contentviewid="" contype="" stylesysid="" layout="" action="" name="标题列表"--><ul>
+   <li><a href="info/1035/1102.htm" target="_blank" title="关于举办“2017年教职工意识形态责任意识全员培训会”的通知">关于举办“2017年教职工意识形态责任意识全员培训会”的通知</a>
+      &nbsp;2017/10/12&nbsp</li>
+   <li><a href="info/1035/1101.htm" target="_blank" title="基建处 花江校区管委会科员岗位设置一览表">基建处 花江校区管委会科员岗位设置一览表</a>
+      &nbsp;2016/10/08&nbsp</li>
+   <li><a href="info/1035/1100.htm" target="_blank" title="关于桂林电子科技大学科级以下管理岗位工作人员聘任工作的通知">关于桂林电子科技大学科级以下管理岗位工作人员聘任工作的通知</a>
+      &nbsp;2016/09/30&nbsp</li>
+   <li><a href="info/1035/1099.htm" target="_blank" title="关于停止花江校区教师公寓临时供电线路供电的通知">关于停止花江校区教师公寓临时供电线路供电的通知</a>
+      &nbsp;2016/07/07&nbsp</li>
+</ul><script>_showDynClickBatch(['dynclicks_u5_1102','dynclicks_u5_1101','dynclicks_u5_1100','dynclicks_u5_1099'],[1102,1101,1100,1099],"wbnews", 1411857061)</script>
+<!--#endeditable--></DIV></DIV>
+<DIV class="news m-t-10">
+<H1 class="news-title index-title"><FONT size="2">招标公告</FONT><SPAN class="more"><A href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1040" target="_blank"><IMG src="image/more.gif" width="41" height="11"></A></SPAN></H1>
+<DIV class="news-contnet">
+<UL><!--#begineditable clone="0" namechanged="0" order="6" ispublic="0" tagname="招标公告" viewid="164137" contentviewid="" contype="" stylesysid="" layout="" action="" name="招标公告"-->
+<DIV id="scrollupjsu6js" style="OVERFLOW: hidden; WIDTH: 400px; HEIGHT: 180px">
+    <DIV id="scrollup1jsu6js"><BR>
+        <table>
+        
+            <tr>
+                <td><span class="leaderfont164137"><img src="image/icon.gif" align="absmiddle" border="0"></span></td>
+                <td style="font-size:9pt">
+                    
+                    <a href="info/1040/1680.htm" title="桂林电子科技大学花江校区F区学生宿舍组团周边道路、围墙及停车位工程施工招标公告" target="_blank">
+                    <span class="titlestyle164137">桂林电子科技大学花江校区F区学生宿舍组团周边道路、</span></a>
+                    
+                    <span class="timestyle164137">2020/04/13</span>
+                    <span></span>
+                </td>
+                <td width="1" style="padding:0px;border:0px;visibility:hidden"><span class="titlestyle164137" style="width:1px"></span></td>
+                </tr>
+        
+            <tr>
+                <td><span class="leaderfont164137"><img src="image/icon.gif" align="absmiddle" border="0"></span></td>
+                <td style="font-size:9pt">
+                    
+                    <a href="info/1040/1672.htm" title="桂林电子科技大学花江校区JX07、JX08教学实验楼工程（项目招标编号：E4500002802000374001001）更正公告（一）" target="_blank">
+                    <span class="titlestyle164137">桂林电子科技大学花江校区JX07、JX08教学实验楼工程（</span></a>
+                    
+                    <span class="timestyle164137">2020/03/31</span>
+                    <span></span>
+                </td>
+                <td width="1" style="padding:0px;border:0px;visibility:hidden"><span class="titlestyle164137" style="width:1px"></span></td>
+                </tr>
+        
+            <tr>
+                <td><span class="leaderfont164137"><img src="image/icon.gif" align="absmiddle" border="0"></span></td>
+                <td style="font-size:9pt">
+                    
+                    <a href="info/1040/1671.htm" title="桂林电子科技大学花江校区JX07、JX08教学实验楼工程施工招标公告" target="_blank">
+                    <span class="titlestyle164137">桂林电子科技大学花江校区JX07、JX08教学实验楼工程施</span></a>
+                    
+                    <span class="timestyle164137">2020/03/23</span>
+                    <span></span>
+                </td>
+                <td width="1" style="padding:0px;border:0px;visibility:hidden"><span class="titlestyle164137" style="width:1px"></span></td>
+                </tr>
+        
+            <tr>
+                <td><span class="leaderfont164137"><img src="image/icon.gif" align="absmiddle" border="0"></span></td>
+                <td style="font-size:9pt">
+                    
+                    <a href="info/1040/1670.htm" title="桂林电子科技大学花江校区JX12电子信息实验楼施工招标公告" target="_blank">
+                    <span class="titlestyle164137">桂林电子科技大学花江校区JX12电子信息实验楼施工招标</span></a>
+                    
+                    <span class="timestyle164137">2020/03/18</span>
+                    <span></span>
+                </td>
+                <td width="1" style="padding:0px;border:0px;visibility:hidden"><span class="titlestyle164137" style="width:1px"></span></td>
+                </tr>
+        
+            <tr>
+                <td><span class="leaderfont164137"><img src="image/icon.gif" align="absmiddle" border="0"></span></td>
+                <td style="font-size:9pt">
+                    
+                    <a href="info/1040/1660.htm" title="广西建信建设项目管理有限公司关于桂林电子科技大学花江校区JX07、JX08教学实验楼工程施工监理服务采购（项目编号：GXZC2019-J3-001526-GXJX）竞争性谈判公告" target="_blank">
+                    <span class="titlestyle164137">广西建信建设项目管理有限公司关于桂林电子科技大学花</span></a>
+                    
+                    <span class="timestyle164137">2020/03/10</span>
+                    <span></span>
+                </td>
+                <td width="1" style="padding:0px;border:0px;visibility:hidden"><span class="titlestyle164137" style="width:1px"></span></td>
+                </tr>
+        
+            <tr>
+                <td><span class="leaderfont164137"><img src="image/icon.gif" align="absmiddle" border="0"></span></td>
+                <td style="font-size:9pt">
+                    
+                    <a href="info/1040/1650.htm" title="桂林电子科技大学花江校区F区学生宿舍组团、教学楼及食堂电力增容工程施工公开招标公告" target="_blank">
+                    <span class="titlestyle164137">桂林电子科技大学花江校区F区学生宿舍组团、教学楼及</span></a>
+                    
+                    <span class="timestyle164137">2020/01/22</span>
+                    <span></span>
+                </td>
+                <td width="1" style="padding:0px;border:0px;visibility:hidden"><span class="titlestyle164137" style="width:1px"></span></td>
+                </tr>
+        
+            <tr>
+                <td><span class="leaderfont164137"><img src="image/icon.gif" align="absmiddle" border="0"></span></td>
+                <td style="font-size:9pt">
+                    
+                    <a href="info/1040/1630.htm" title="桂林电子科技大学花江校区C道路工程施工招标公告" target="_blank">
+                    <span class="titlestyle164137">桂林电子科技大学花江校区C道路工程施工招标公告</span></a>
+                    
+                    <span class="timestyle164137">2019/12/19</span>
+                    <span></span>
+                </td>
+                <td width="1" style="padding:0px;border:0px;visibility:hidden"><span class="titlestyle164137" style="width:1px"></span></td>
+                </tr>
+        
+        </table>
+    </DIV>
+    <DIV id="scrollup2jsu6js"></DIV>
+</DIV>
+<SCRIPT> 
+    function scrollupMarqueejsu6js()
+    { 
+        try
+        {
+            var scrollup = document.getElementById("scrollupjsu6js");
+            var scrollup1 = document.getElementById("scrollup1jsu6js");
+    
+            //滚动到头继续滚
+            if(scrollup.scrollTop + scrollup.clientHeight == scrollup.scrollHeight)
+            {
+                scrollup.scrollTop-=scrollup1.clientHeight-1; 
+            }
+            else
+            {
+                scrollup.scrollTop++;
+            }
+            
+        } 
+        catch(e)
+        {
+        }
+    } 
+    var scrollupMyMarjsu6js;
+    function scrollupfunjsu6js()
+    {
+        var speed = 40; 
+        var scrollup = document.getElementById("scrollupjsu6js");
+        var scrollup1 = document.getElementById("scrollup1jsu6js");
+        var scrollup2 = document.getElementById("scrollup2jsu6js");
+        
+        scrollup2.innerHTML=scrollup1.innerHTML;
+        
+        if(scrollup1.scrollHeight == 0 || scrollup1.scrollHeight < 180)
+        {
+            scrollup1.style.height="180px";
+        }
+        else
+        {
+            scrollup1.style.height=scrollup1.scrollHeight + "px";
+        }
+
+        if(scrollup2.scrollHeight == 0 || scrollup2.scrollHeight < 180)
+        {
+            scrollup2.style.height="180px";
+        }
+        else
+        {
+            scrollup2.style.height=scrollup2.scrollHeight + "px";
+        }
+    
+        scrollupMyMarjsu6js=setInterval(scrollupMarqueejsu6js,speed); 
+        scrollup.onmouseover=function() {clearInterval(scrollupMyMarjsu6js)} 
+        scrollup.onmouseout=function() {scrollupMyMarjsu6js=setInterval(scrollupMarqueejsu6js,speed)} 
+    }
+    window.setTimeout(scrollupfunjsu6js, 0);
+</SCRIPT><!--#endeditable--></UL></DIV></DIV>
+<DIV class="gg m-t-10">
+<H1 class="bd-title index-title"><FONT size="2">&nbsp;资料下载</FONT><SPAN style="margin-left: 165px"><A href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1008" target="_blank"><IMG src="image/more.gif" width="41" height="11"></A></SPAN></H1>
+<DIV class="bd-contnet">
+<UL class="bd-w-299" style="width: 278px; height: 181px"><!--#begineditable clone="0" namechanged="0" order="7" ispublic="0" tagname="资料下载" viewid="1098" contentviewid="" contype="" stylesysid="" layout="" action="" name="资料下载"--><div>  
+<ul>
+   <li><a href="info/1008/1369.htm" target="_blank" title="基建处施工图设计校对沟通单（用于与设计沟通）" class="c1098">基建处施工图设计校对沟通单（用于与设计沟通）</a></li>
+   <li><a href="info/1008/1368.htm" target="_blank" title="基建处方案设计校对沟通单（用于与设计沟通）" class="c1098">基建处方案设计校对沟通单（用于与设计沟通）</a></li>
+   <li><a href="info/1008/1367.htm" target="_blank" title="基建处图纸校对审查记录单（供审图小组使用）" class="c1098">基建处图纸校对审查记录单（供审图小组使用）</a></li>
+   <li><a href="info/1008/1366.htm" target="_blank" title="基建工程用户意见收集反馈单02（用于施工图阶段与校内使用单位沟通）" class="c1098">基建工程用户意见收集反馈单02（用于施工图阶...</a></li>
+   <li><a href="info/1008/1365.htm" target="_blank" title="基建工程用户意见收集反馈单01（用于方案设计阶段与校内使用单位沟通）" class="c1098">基建工程用户意见收集反馈单01（用于方案设计...</a></li>
+   <li><a href="info/1008/1144.htm" target="_blank" title="25基建工程质保金验退表.doc" class="c1098">25基建工程质保金验退表.doc</a></li>
+</ul>
+<div></div>
+</div> 
+<script>_showDynClickBatch(['dynclicks_u7_1369','dynclicks_u7_1368','dynclicks_u7_1367','dynclicks_u7_1366','dynclicks_u7_1365','dynclicks_u7_1144'],[1369,1368,1367,1366,1365,1144],"wbnews", 1411857061)</script>
+<!--#endeditable--></UL></DIV></DIV></DIV>
+<DIV class="clear"></DIV>
+<DIV class="blank1"></DIV>
+<DIV class="scroll-pic">
+<H2>
+<P class="scroll-pic-title">工程图片 
+<P></H2></P>
+<UL class="scroll-pic-right"><!--#begineditable clone="0" namechanged="0" order="8" ispublic="0" tagname="工程图片" viewid="1094" contentviewid="" contype="" stylesysid="" layout="" action="" name="工程图片"--><script language="javascript" src="/system/resource/js/vsbpreloadimg.js"></script>
+<TABLE width="920" cellSpacing="0" cellPadding="0" align="center" border="0"> 
+    <TR><TD>
+        <DIV id="u_u8_demo" style="OVERFLOW:hidden;WIDTH:920px;COLOR:#ffffff"><TABLE cellSpacing="0" cellPadding="0" border="0">
+                <TR><TD id="u_u8_demo1" vAlign="top" width="920"><table border="0" cellpadding="0" cellspacing="0" width="920">
+                        <tr>
+
+                            <td valign="top" align="center" style="padding-left:0px;padding-right:1px"><div style="padding: 0px; width:160px"><table cellpadding="0" cellspacing="0" style="border:1px solid #888;">
+                                    <tr><td width="160" height="108" valign="middle" align="center"><a href="images/QQ20180508145219.jpg" onclick="_addDynClicks('wbimage',1411857061,32408)"><img name="u_u8_img" border="0" src="/system/resource/images/loading.gif" alt="" title="" hspace="0" vspace="0"></a></td></tr>
+                                </table></div><div style="padding-top:1px;padding-bottom:1px">
+                            <span class="titlestyle1094"></span>
+                            
+
+                          </div></td>
+                            <td valign="top" align="center" style="padding-left:0px;padding-right:1px"><div style="padding: 0px; width:160px"><table cellpadding="0" cellspacing="0" style="border:1px solid #888;">
+                                    <tr><td width="160" height="108" valign="middle" align="center"><a href="images/DSC_8094.jpg" onclick="_addDynClicks('wbimage',1411857061,32407)"><img name="u_u8_img" border="0" src="/system/resource/images/loading.gif" alt="" title="" hspace="0" vspace="0"></a></td></tr>
+                                </table></div><div style="padding-top:1px;padding-bottom:1px">
+                            <span class="titlestyle1094"></span>
+                            
+
+                          </div></td>
+                            <td valign="top" align="center" style="padding-left:0px;padding-right:1px"><div style="padding: 0px; width:160px"><table cellpadding="0" cellspacing="0" style="border:1px solid #888;">
+                                    <tr><td width="160" height="108" valign="middle" align="center"><a href="images/3333.jpg" onclick="_addDynClicks('wbimage',1411857061,32406)"><img name="u_u8_img" border="0" src="/system/resource/images/loading.gif" alt="" title="" hspace="0" vspace="0"></a></td></tr>
+                                </table></div><div style="padding-top:1px;padding-bottom:1px">
+                            <span class="titlestyle1094"></span>
+                            
+
+                          </div></td>
+                            <td valign="top" align="center" style="padding-left:0px;padding-right:1px"><div style="padding: 0px; width:160px"><table cellpadding="0" cellspacing="0" style="border:1px solid #888;">
+                                    <tr><td width="160" height="108" valign="middle" align="center"><a href="images/1222.jpg" onclick="_addDynClicks('wbimage',1411857061,32405)"><img name="u_u8_img" border="0" src="/system/resource/images/loading.gif" alt="" title="" hspace="0" vspace="0"></a></td></tr>
+                                </table></div><div style="padding-top:1px;padding-bottom:1px">
+                            <span class="titlestyle1094"></span>
+                            
+
+                          </div></td>
+                            <td valign="top" align="center" style="padding-left:0px;padding-right:1px"><div style="padding: 0px; width:160px"><table cellpadding="0" cellspacing="0" style="border:1px solid #888;">
+                                    <tr><td width="160" height="108" valign="middle" align="center"><a href="4.IMG_1428.jpg" onclick="_addDynClicks('wbimage',1411857061,32404)"><img name="u_u8_img" border="0" src="/system/resource/images/loading.gif" alt="" title="" hspace="0" vspace="0"></a></td></tr>
+                                </table></div><div style="padding-top:1px;padding-bottom:1px">
+                            <span class="titlestyle1094"></span>
+                            
+
+                          </div></td></tr>
+           </table></TD> 
+          <TD id="u_u8_demo2" vAlign="top" width="920"></TD> 
+        </TR> 
+      </TABLE> 
+      </DIV> 
+    </TD> 
+  </TR> 
+</TABLE> 
+<SCRIPT language="javascript">
+    var u_u8_imgs = new VsbPreloadImgArray();
+    
+    //初始化图片
+    function u_u8_init_img()
+    {
+
+            u_u8_imgs.addImg("images\/QQ20180508145219.jpg", "0", u_u8_onimgload);
+
+            u_u8_imgs.addImg("images\/DSC_8094.jpg", "1", u_u8_onimgload);
+
+            u_u8_imgs.addImg("images\/3333.jpg", "2", u_u8_onimgload);
+
+            u_u8_imgs.addImg("images\/1222.jpg", "3", u_u8_onimgload);
+
+            u_u8_imgs.addImg("4.IMG_1428.jpg", "4", u_u8_onimgload);
+
+    }
+    function u_u8_onimgload(img, imgid)
+    {
+        var imgobjs = document.getElementsByName("u_u8_img");
+        var imgindex = new Number(imgid);
+        
+        img.showImg(imgobjs[imgindex], 160, 108, true, true);
+        img.showImg(imgobjs[imgindex+ 5], 160, 108, true, true);
+    }
+
+
+    var u_u8_MyMar;
+    var u_u8_speed3;
+    var u_u8_move = true;
+    var u_u8_movenum = 0;
+    var u_u8_pos = null; //td位置组
+    
+    function u_u8_initpos()
+    {
+        u_u8_pos = new Array();
+        
+        var tds1 = document.getElementById("u_u8_demo1").childNodes[0].rows[0].cells;
+        
+        for(i = 0 ;i < tds1.length; i++)
+        {
+            u_u8_pos[u_u8_pos.length] = tds1[i].offsetLeft;
+        }
+        
+        var tds2 = document.getElementById("u_u8_demo2").childNodes[0].rows[0].cells;
+        var tds2offset = document.getElementById("u_u8_demo2").offsetLeft;
+        for(i = 0 ;i < tds2.length; i++)
+        {
+            u_u8_pos[u_u8_pos.length] = tds2[i].offsetLeft + tds2offset;
+        }
+    }
+    
+    function u_u8_getpos(scrollpos)
+    {
+        for(i = 0; i < u_u8_pos.length; i++)
+        {
+            if(scrollpos < u_u8_pos[i])
+                return i-1;
+        }
+    }
+
+
+    function u_u8_Marquee() 
+    { 
+        try 
+        { 
+            if(!u_u8_move)
+                return;
+            
+            var demoobj = document.getElementById("u_u8_demo");
+            var demo1obj = document.getElementById("u_u8_demo1");
+
+            //滚动步长
+            var scrollstep = 1
+            
+            //当前位置
+            var oldscrollLeft = demoobj.scrollLeft;
+            
+            //更新后的位置, 已考虑过回滚
+            var newscrollLeft = (oldscrollLeft + scrollstep)%demo1obj.scrollWidth;
+
+            
+            demoobj.scrollLeft = newscrollLeft; 
+            
+        } 
+        catch(e) 
+        { 
+        } 
+    } 
+
+    function u_u8_clearInterval()
+    {
+        clearInterval(u_u8_MyMar);
+    }
+    
+    function u_u8_setInterval()
+    {
+        u_u8_MyMar = setInterval(u_u8_Marquee,u_u8_speed3);
+    }
+    
+    function u_u8_stopmove()
+    {
+        u_u8_move = false;
+    }
+
+    function u_u8_startmove()
+    {
+        u_u8_move = true;
+    }
+    
+    function u_u8_init()
+    {
+        u_u8_speed3 = 50;
+        if(u_u8_speed3 < 1)
+        {
+            u_u8_speed3 = 1;
+        }
+        
+        document.getElementById("u_u8_demo").onmouseover = u_u8_stopmove;
+        document.getElementById("u_u8_demo").onmouseout = u_u8_startmove;
+
+        document.getElementById("u_u8_demo2").innerHTML = document.getElementById("u_u8_demo1").innerHTML;
+        
+        u_u8_init_img();
+
+        u_u8_setInterval();
+
+    }
+    
+    u_u8_init();
+</SCRIPT><!--#endeditable--></UL></DIV>
+<DIV class="clear"></DIV></DIV>
+<DIV class="footer w-990"><!--#begineditable clone="0" namechanged="0" order="9" ispublic="0" tagname="版权" viewid="1092" contentviewid="" contype="" stylesysid="" layout="" action="" name="版权"--><p style="text-align: center"><span style="font-size: 14px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;版权所有：桂林电子科技大学 基建处</span></p><p style="text-align: center"><span style="font-size: 14px">&nbsp;</span></p><p style="text-align: center; padding-bottom: 0px; line-height: 10px; widows: 2; text-transform: none; background-color: rgb(255,255,255); font-style: normal; text-indent: 0px; padding-left: 0px; width: auto; padding-right: 0px; font-family: 微软雅黑; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(61,56,56); clear: both; font-size: 12px; font-weight: normal; word-spacing: 0px; padding-top: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px"><span style="font-size: 14px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="font-size: 14px">Copyright© 2012-2015 All Rights Reserved</span></p><p style="text-align: center; padding-bottom: 0px; line-height: 10px; widows: 2; text-transform: none; background-color: rgb(255,255,255); font-style: normal; text-indent: 0px; padding-left: 0px; width: auto; padding-right: 0px; font-family: 微软雅黑; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(61,56,56); clear: both; font-size: 12px; font-weight: normal; word-spacing: 0px; padding-top: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px"><span style="font-size: 14px"></span>&nbsp;</p><p style="text-align: center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-family: 微软雅黑,Microsoft YaHei; font-size: 14px"><span style="font-family: 宋体,SimSun; font-size: 14px"><span style="text-align: center; widows: 2; text-transform: none; background-color: rgb(255,255,255); font-style: normal; text-indent: 0px; font-family: 微软雅黑,Microsoft YaHei; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); font-weight: normal; word-spacing: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px">地址:桂林市金鸡路1号桂林电子科技大学 邮编：541004</span><span style="text-align: center; widows: 2; text-transform: none; background-color: rgb(255,255,255); font-style: normal; text-indent: 0px; display: inline !important; font-family: 微软雅黑,Microsoft YaHei; white-space: normal; orphans: 2; float: none; letter-spacing: normal; color: rgb(0,0,0); font-weight: normal; word-spacing: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px">&nbsp;</span></span></span><span style="font-family: 宋体,SimSun"></span></p><p style="text-align: center">&nbsp;</p><!--#endeditable--></DIV>
+
+</BODY></HTML>

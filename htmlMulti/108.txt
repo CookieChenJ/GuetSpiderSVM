@@ -1,0 +1,680 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><HTML><HEAD><TITLE>桂林电子科技大学-保卫处</TITLE><META Name="keywords" Content="桂林电子科技大学-保卫处" />
+
+
+
+
+
+<META content="text/html; charset=UTF-8" http-equiv="Content-Type"><LINK rel="stylesheet" type="text/css" href="style/style.css">
+
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="/baowei/index.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1411857712)</script>
+</HEAD>
+<BODY >
+<TABLE cellspacing="0" cellpadding="0" width="1000" align="center" border="0">
+<TBODY>
+<TR>
+<TD height="194" align="center">
+<table border="0" cellspacing="0" cellpadding="0"><tr><td><img src="images/bann.jpg" width="1000" height="194"   border="0" alt="保卫处" title="保卫处" ></td></tr></table></TD></TR></TBODY></TABLE>
+<TABLE cellspacing="0" cellpadding="0" width="1000" align="center" background="images/nav_bg.jpg" border="0" style="border-top: #5282b5 1px solid; border-right: #5282b5 1px solid; border-bottom: #5282b5 1px solid; border-left: #5282b5 1px solid">
+<TBODY>
+<TR>
+<TD height="36" align="center"><style type="text/css">
+td.b1_1_{FONT-SIZE:9pt;}
+td.b2_1_{FONT-SIZE:9pt;}
+td.b3_1_{FONT-SIZE:9pt;BORDER-BOTTOM: #cccccc 1px solid;BACKGROUND-COLOR: #eeeeee;BORDER-RIGHT: #cccccc 1px solid;; }
+td.b4_1_{FONT-SIZE:9pt;BORDER-BOTTOM: #cccccc 1px solid;BACKGROUND-COLOR: #eeeeee;BORDER-RIGHT: #cccccc 1px solid;; }
+a.menu0_1_:link {TEXT-DECORATION: none; };
+a.menu0_1_:visited { TEXT-DECORATION: none;};
+a.menu0_1_:hover {TEXT-DECORATION: none;};
+a.menu0_1_:active {TEXT-DECORATION: none;};
+table.tb1_1_{FONT-SIZE:9pt;border:0;}
+span.s1_1_{LINE-HEIGHT: 160%;FONT-FAMILY: 宋体;COLOR: #ffffff;FONT-SIZE: 10pt;FONT-WEIGHT: bold;}
+span.s2_1_{LINE-HEIGHT: 160%;FONT-FAMILY: 宋体;COLOR: #cc0000;FONT-SIZE: 11pt;TEXT-DECORATION: none;}
+span.s10_1_{LINE-HEIGHT: 160%;FONT-FAMILY: 宋体;COLOR: #ffffff;FONT-SIZE: 10pt;FONT-WEIGHT: bold;}
+span.s20_1_{LINE-HEIGHT: 160%;FONT-FAMILY: 宋体;COLOR: #000000;FONT-SIZE: 11pt;TEXT-DECORATION: none;}
+</style>
+<SCRIPT language=javascript> 
+ var showfix_1_ = 1;
+ var isvertical_1_ = false;
+</SCRIPT>
+<script language="javascript" src="/system/resource/js/menu/text.js"></script>
+<TABLE id="t1_1_" cellSpacing=0 cellPadding=0 border=0 height=0 width=960><TR><TD valign=center></TD><TD valign=middle height=0 width=0 nowrap class=b1_1_ align=center id=a_1_1001 onmouseover="tshowLayers('1001','b2_1_', '_1_')"  onmouseout="thideLayers('1001','b1_1_', '_1_','true','true')"><a class=menu0_1_ href='index.jsp'><span  class="fontstyle122862" >&nbsp;首页&nbsp;</span></a></TD><TD valign=center class="leaderfont122862" ><img src="images/nav_jgx.jpg" border=0></TD><TD valign=middle width=0 nowrap class=b1_1_ align=center id=a_1_1096 onmouseover="tshowLayers('1096','b2_1_', '_1_')"  onmouseout="thideLayers('1096','b1_1_', '_1_','true','true')"><a class=menu0_1_ href='bmgk/bmgk.htm'><span  class="fontstyle122862" >&nbsp;部门概况&nbsp;</span></a></TD><TD valign=center class="leaderfont122862" ><img src="images/nav_jgx.jpg" border=0></TD><TD valign=middle width=0 nowrap class=b1_1_ align=center id=a_1_1097 onmouseover="tshowLayers('1097','b2_1_', '_1_')"  onmouseout="thideLayers('1097','b1_1_', '_1_','true','true')"><a class=menu0_1_ href='tzgg/tzgg.htm'><span  class="fontstyle122862" >&nbsp;通知公告&nbsp;</span></a></TD><TD valign=center class="leaderfont122862" ><img src="images/nav_jgx.jpg" border=0></TD><TD valign=middle width=0 nowrap class=b1_1_ align=center id=a_1_1098 onmouseover="tshowLayers('1098','b2_1_', '_1_')"  onmouseout="thideLayers('1098','b1_1_', '_1_','true','true')"><a class=menu0_1_ href='gzdt/gzdt.htm'><span  class="fontstyle122862" >&nbsp;工作动态&nbsp;</span></a></TD><TD valign=center class="leaderfont122862" ><img src="images/nav_jgx.jpg" border=0></TD><TD valign=middle width=0 nowrap class=b1_1_ align=center id=a_1_1099 onmouseover="tshowLayers('1099','b2_1_', '_1_')"  onmouseout="thideLayers('1099','b1_1_', '_1_','true','true')"><a class=menu0_1_ href='flfg/flfg.htm'><span  class="fontstyle122862" >&nbsp;法律法规&nbsp;</span></a></TD><TD valign=center class="leaderfont122862" ><img src="images/nav_jgx.jpg" border=0></TD><TD valign=middle width=0 nowrap class=b1_1_ align=center id=a_1_1100 onmouseover="tshowLayers('1100','b2_1_', '_1_')"  onmouseout="thideLayers('1100','b1_1_', '_1_','true','true')"><a class=menu0_1_ href='ywbl/ywbl.htm'><span  class="fontstyle122862" >&nbsp;业务办理&nbsp;</span></a></TD><TD valign=center class="leaderfont122862" ><img src="images/nav_jgx.jpg" border=0></TD><TD valign=middle width=0 nowrap class=b1_1_ align=center id=a_1_1101 onmouseover="tshowLayers('1101','b2_1_', '_1_')"  onmouseout="thideLayers('1101','b1_1_', '_1_','true','true')"><a class=menu0_1_ href='aqzs/aqzs.htm'><span  class="fontstyle122862" >&nbsp;安全知识&nbsp;</span></a></TD><TD valign=center class="leaderfont122862" ><img src="images/nav_jgx.jpg" border=0></TD><TD valign=middle width=0 nowrap class=b1_1_ align=center id=a_1_1102 onmouseover="tshowLayers('1102','b2_1_', '_1_')"  onmouseout="thideLayers('1102','b1_1_', '_1_','true','true')"><a class=menu0_1_ href='xzzx/xzzx.htm'><span  class="fontstyle122862" >&nbsp;下载中心&nbsp;</span></a></TD><TD valign=center class="leaderfont122862" ><img src="images/nav_jgx.jpg" border=0></TD><TD valign=middle width=0 nowrap class=b1_1_ align=center id=a_1_1104 onmouseover="tshowLayers('1104','b2_1_', '_1_')"  onmouseout="thideLayers('1104','b1_1_', '_1_','true','true')"><a class=menu0_1_ href='xyaqxh/swzl.htm'><span  class="fontstyle122862" >&nbsp;失物招领&nbsp;</span></a></TD><TD valign=center class="leaderfont122862" ><img src="images/nav_jgx.jpg" border=0></TD><TD valign=middle width=0 nowrap class=b1_1_ align=center id=a_1_1117 onmouseover="tshowLayers('1117','b2_1_', '_1_')"  onmouseout="thideLayers('1117','b1_1_', '_1_','true','true')"><a class=menu0_1_ href='xyaqxh1/xyaqxh.htm'><span  class="fontstyle122862" >&nbsp;校园安全协会&nbsp;</span></a></TD></TR></TR></table></TD></TR></TBODY></TABLE>
+<TABLE cellspacing="0" cellpadding="0" width="1000" align="center" bgcolor="#ffffff" border="0">
+<TBODY>
+<TR>
+<TD>&nbsp;</TD></TR>
+<TR>
+<TD height="10">
+
+
+
+
+
+
+<script language="javascript" src="/system/resource/js/base64.js"></script>
+<script language="javascript" src="/system/resource/js/formfunc.js"></script>
+<form action='list1.jsp?wbtreeid=1001' method='post' name='a201218a' target="_blank" style="display: inline;" onsubmit="return subsearchdataa201218a()">
+ <input type='hidden' name="Find" value='find'>
+ <input type='hidden' name='entrymode' value="1">
+ <input type="hidden" id="INTEXT2"  name="INTEXT2" value="">
+ <input type='hidden' name="news_search_code">
+ <table border='0' cellspacing="0" cellpadding="5" >
+  <tr>
+   <td Valign="middle" nowrap="nowrap" height="22">
+    <font  class="leaderfont201218" >站内搜索：</font>
+    
+        <input type="hidden" name="wbtreeids" value="0">
+    </td><td><span id="intextspana201218a"></span><iframe id="intextframea201218a"   src="about:blank"   scrolling="no" frameborder="0" style="position:absolute;top:0px;left:0px;display:none;"></iframe><input size='22' name='INTEXT'    class="querystyle201218" >
+   </td>
+   <td align="absmiddle" nowrap="nowrap" height="1">
+   <input type="image" src="/system/resource/images/research/seach22.gif" valign="bottom" style="cursor: hand" ></td>
+  </tr>
+  
+ </table>
+</form>
+<script>
+String.prototype.trim= function()       
+{              
+    var t = this.replace(/(^\s*)|(\s*$)/g, "");     
+    return t.replace(/(^　*)|(　*$)/g, "");     
+}
+ 
+function subsearchdataa201218a()
+{ 
+	
+	if(document.a201218a.INTEXT.value.trim()=="")
+	{
+		alert("请输入查询关键字！");
+		return false;
+	}
+	
+	
+    if(checkDataa201218a(document.a201218a))
+    {
+       return true;  
+    }
+    return false;
+}       
+</script>
+
+<script> 
+function checkDataa201218a(formname)
+{
+	if(formname.INTEXT.value.trim()=="")
+	{
+		alert("请输入查询关键字！");
+		return false;
+	}
+
+	var  base64 = new Base64();
+    if(window.toFF==1)
+        {
+            var ssvalue = formname.INTEXT.value;
+            formname.INTEXT2.value = Simplized(ssvalue);
+            formname.INTEXT2.value = base64.encode(formname.INTEXT2.value);
+        }else
+        formname.INTEXT2.value = formname.INTEXT.value;
+        formname.INTEXT2.value = base64.encode(formname.INTEXT2.value);
+       return true;
+}
+</script>
+</TD></TR></TBODY></TABLE>
+<TABLE cellspacing="0" cellpadding="0" width="1000" align="center" bgcolor="#ffffff" border="0">
+<TBODY>
+<TR>
+<TD>
+<TABLE height="175" cellspacing="0" cellpadding="0" width="978" align="center" border="0">
+<TBODY>
+<TR>
+<TD valign="top" width="720">
+<TABLE class="table_bkx" cellspacing="0" cellpadding="0" width="720" border="0">
+<TBODY>
+<TR>
+<TD height="300" width="378" align="center">
+<TABLE cellspacing="0" cellpadding="0" width="362" align="right" border="0">
+<TBODY>
+<TR>
+<TD align="center">
+<LINK href="/system/resource/style/component/news/list/imagechangenews.css" type=text/css rel=stylesheet>
+<script language="javascript" src="/system/resource/js/news/imagechangenews.js"></script><script language=JavaScript>
+var u_u3_icn = new ImageChangeNews("u_u3_", 364, 254, 4, 2.0, true, false, false, true);
+
+//初始化图片, 并启动定时
+function u_u3_init_img()
+{
+
+    u_u3_icn.addimg("\/__local\/E\/D2\/2C\/401D85AC0BA8E841EF4CD4D5076_6AFCB2B1_3B49.jpg", "content.jsp?urltype=news.NewsContentUrl&wbtreeid=1110&wbnewsid=1505", "国家安全教育日|国家利益高...", "");
+
+    u_u3_icn.addimg("\/__local\/7\/2A\/6F\/AF5F6B6A47253F3031082240F6A_1E49EA93_AE823.jpg", "content.jsp?urltype=news.NewsContentUrl&wbtreeid=1110&wbnewsid=1504", "全民国家安全教育日", "");
+
+    u_u3_icn.addimg("\/__local\/2\/B5\/28\/ADC6D7CAA6E62DE94DA81015003_364C2BD8_8B80.jpeg", "content.jsp?urltype=news.NewsContentUrl&wbtreeid=1110&wbnewsid=1503", "全民国家安全教育日，这些...", "");
+
+    u_u3_icn.addimg("\/__local\/5\/4E\/5A\/1725A4A837E15D616ADCC44046D_A1910858_427FA.jpg", "content.jsp?urltype=news.NewsContentUrl&wbtreeid=1107&wbnewsid=1500", "【疫情防控】工会与保卫处...", "");
+
+    u_u3_icn.addimg("\/__local\/4\/CF\/98\/504041DC4C297BC36EC1AA17CCB_904E7C6A_45AFB.jpg", "content.jsp?urltype=news.NewsContentUrl&wbtreeid=1107&wbnewsid=1496", "保卫处走访慰问部门离退休...", "");
+
+    u_u3_icn.addimg("\/__local\/8\/EB\/5C\/C1F9A72D6E23698B5AB23DD07DC_8FC48E87_722AB.jpg", "content.jsp?urltype=news.NewsContentUrl&wbtreeid=1107&wbnewsid=1498", "保卫处赴桂林理工大学考察...", "");
+
+    u_u3_icn.changeimg(0);
+}
+</script><table  cellspacing=0 cellpadding=0 border=0 style="padding:0px margin:0px; border:0px" >
+    <tr><td>
+        <div style="OVERFLOW: hidden;height:254px;width:364px">
+            <div id="u_u3_div"  style="padding:0px;margin:0px;border:0px solid black;background-color:#000000;FILTER: progid:DXImageTransform.Microsoft.RevealTrans (duration=2.0,transition=23);height:254px;width:364px" align=center>
+                <div id="u_u3_imgdiv" style="padding:0px;border:0px;"><a id="u_u3_url" target="_blank"><img id="u_u3_pic" border=0 width=364 height=254 src="/system/resource/images/space.gif"></a></div>
+            </div>
+            <div style="filter:alpha(style=1,opacity=10,finishOpacity=80);width:364px;height:19px;text-align:right;top:-19px;position:relative;padding:0px;margin:0px;border:0px;">
+<a href='javascript:u_u3_icn.changeimg(0)'; id=u_u3_selectNode0 class=imagechangenews_pnode target=_self>1</a><a href='javascript:u_u3_icn.changeimg(1)'; id=u_u3_selectNode1 class=imagechangenews_pnode target=_self>2</a><a href='javascript:u_u3_icn.changeimg(2)'; id=u_u3_selectNode2 class=imagechangenews_pnode target=_self>3</a><a href='javascript:u_u3_icn.changeimg(3)'; id=u_u3_selectNode3 class=imagechangenews_pnode target=_self>4</a><a href='javascript:u_u3_icn.changeimg(4)'; id=u_u3_selectNode4 class=imagechangenews_pnode target=_self>5</a><a href='javascript:u_u3_icn.changeimg(5)'; id=u_u3_selectNode5 class=imagechangenews_pnode target=_self>6</a>
+            </div></div></td></tr>
+       
+    <tr><td height=25>
+        <div style="overflow:hidden;text-overflow:ellipsis;height:25px;width:364px;" 
+            align=center ><a  target="_blank"  class="titlestyle122863"  id="u_u3_newstitle"></a></div>
+    </td></tr>
+<div style="overflow:hidden;text-overflow:ellipsis;height:0px;width:364px;padding-left:2px;padding-right:2px" 
+            align=left display=none><a  target="_blank"  class="summarystyle122863"  id="u_u3_newssummary"></a></div>   
+</table><SCRIPT language=JavaScript>u_u3_init_img();</SCRIPT></TD></TR></TBODY></TABLE></TD>
+<TD valign="top" width="10">&nbsp;</TD>
+<TD valign="top" width="320">
+<TABLE class="table_dtbg" cellspacing="0" cellpadding="0" width="330" align="center" border="0">
+<TBODY>
+<TR>
+<TD height="46" width="20" align="left"><IMG src="images/ico_02.jpg" width="12" height="15"></TD>
+<TD class="font14" width="258"><A href="gzdt/gzdt.htm" target=""><FONT size="3" target>工作动态</FONT></A></TD>
+<TD class="font14" width="52" align="right"><A href="gzdt/gzdt.htm" target=""><IMG src="images/more.jpg" width="38" height="13"></A></TD></TR></TBODY></TABLE>
+<TABLE cellspacing="5" cellpadding="0" width="330" border="0">
+<TBODY>
+<TR>
+<TD><table  width=100%  cellspacing="3" cellpadding="0">
+  
+<tr><td align="center" valign="middle" width=10 nowrap><span  class="leaderfont122864" ><img src="images/ico_01.jpg" align="absmiddle" border="0"></span></td>
+<td valign="middle" align='left' >
+    
+    
+        <a href="content.jsp?urltype=news.NewsContentUrl&wbtreeid=1107&wbnewsid=1502" class='c122864'  title="【疫情防控】学校开展疫情防控知识培训暨应急演练（图）" target=_blank >
+        【疫情防控】学校开展疫情防控知识...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align=right  class="timestyle122864"  width="1%" nowrap>04月04日</td></tr>  
+<tr><td align="center" valign="middle" width=10 nowrap><span  class="leaderfont122864" ><img src="images/ico_01.jpg" align="absmiddle" border="0"></span></td>
+<td valign="middle" align='left' >
+    
+    
+        <a href="content.jsp?urltype=news.NewsContentUrl&wbtreeid=1107&wbnewsid=1500" class='c122864'  title="【疫情防控】工会与保卫处党支部组织开展专题理论学习（图）" target=_blank >
+        【疫情防控】工会与保卫处党支部组...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align=right  class="timestyle122864"  width="1%" nowrap>03月29日</td></tr>  
+<tr><td align="center" valign="middle" width=10 nowrap><span  class="leaderfont122864" ><img src="images/ico_01.jpg" align="absmiddle" border="0"></span></td>
+<td valign="middle" align='left' >
+    
+    
+        <a href="content.jsp?urltype=news.NewsContentUrl&wbtreeid=1107&wbnewsid=1499" class='c122864'  title="保卫处、学工处联合开展消防安全大检查​" target=_blank >
+        保卫处、学工处联合开展消防安全大...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align=right  class="timestyle122864"  width="1%" nowrap>03月22日</td></tr>  
+<tr><td align="center" valign="middle" width=10 nowrap><span  class="leaderfont122864" ><img src="images/ico_01.jpg" align="absmiddle" border="0"></span></td>
+<td valign="middle" align='left' >
+    
+    
+        <a href="content.jsp?urltype=news.NewsContentUrl&wbtreeid=1107&wbnewsid=1497" class='c122864'  title="【疫情防控】保卫处加大校园管控力度（图）" target=_blank >
+        【疫情防控】保卫处加大校园管控力...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align=right  class="timestyle122864"  width="1%" nowrap>02月12日</td></tr>  
+<tr><td align="center" valign="middle" width=10 nowrap><span  class="leaderfont122864" ><img src="images/ico_01.jpg" align="absmiddle" border="0"></span></td>
+<td valign="middle" align='left' >
+    
+    
+        <a href="content.jsp?urltype=news.NewsContentUrl&wbtreeid=1107&wbnewsid=1495" class='c122864'  title="【疫情防控】工会与保卫处党支部召开疫情防控工作专题视频会议" target=_blank >
+        【疫情防控】工会与保卫处党支部召...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align=right  class="timestyle122864"  width="1%" nowrap>02月05日</td></tr>  
+<tr><td align="center" valign="middle" width=10 nowrap><span  class="leaderfont122864" ><img src="images/ico_01.jpg" align="absmiddle" border="0"></span></td>
+<td valign="middle" align='left' >
+    
+    
+        <a href="content.jsp?urltype=news.NewsContentUrl&wbtreeid=1107&wbnewsid=1496" class='c122864'  title="保卫处走访慰问部门离退休老同志（图）" target=_blank >
+        保卫处走访慰问部门离退休老同志（图）
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align=right  class="timestyle122864"  width="1%" nowrap>01月14日</td></tr>  
+<tr><td align="center" valign="middle" width=10 nowrap><span  class="leaderfont122864" ><img src="images/ico_01.jpg" align="absmiddle" border="0"></span></td>
+<td valign="middle" align='left' >
+    
+    
+        <a href="content.jsp?urltype=news.NewsContentUrl&wbtreeid=1107&wbnewsid=1498" class='c122864'  title="保卫处赴桂林理工大学考察交流（图）" target=_blank >
+        保卫处赴桂林理工大学考察交流（图）
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align=right  class="timestyle122864"  width="1%" nowrap>01月13日</td></tr>  
+<tr><td align="center" valign="middle" width=10 nowrap><span  class="leaderfont122864" ><img src="images/ico_01.jpg" align="absmiddle" border="0"></span></td>
+<td valign="middle" align='left' >
+    
+    
+        <a href="content.jsp?urltype=news.NewsContentUrl&wbtreeid=1107&wbnewsid=1494" class='c122864'  title="保卫处召开2019年总结表彰暨技能比赛大会（图）" target=_blank >
+        保卫处召开2019年总结表彰暨技能比...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align=right  class="timestyle122864"  width="1%" nowrap>01月11日</td></tr>
+</table></TD></TR></TBODY></TABLE></TD>
+<TD valign="top" width="10">&nbsp;</TD></TR></TBODY></TABLE></TD>
+<TD width="10">&nbsp;</TD>
+<TD valign="top" width="248">
+<TABLE class="table_bkx" cellspacing="0" cellpadding="0" width="248" border="0" style="height: 218px; width: 248px">
+<TBODY>
+<TR>
+<TD height="302" valign="top">
+<TABLE class="table_dtbg2" cellspacing="0" cellpadding="0" width="230" align="center" border="0">
+<TBODY>
+<TR>
+<TD height="43" width="9" align="left"></TD>
+<TD class="font14" width="143"><A href="tzgg/tzgg.htm" target=""><FONT size="3" target>通知公告</FONT></A></TD>
+<TD class="font14" width="48" align="right"><A href="tzgg/tzgg.htm" target=""><IMG src="images/more.jpg" width="38" height="13"></A></TD></TR></TBODY></TABLE>
+<TABLE cellspacing="0" cellpadding="0" width="230" align="center" border="0">
+<TBODY>
+<TR>
+<TD><table  width=100%  cellspacing="3" cellpadding="0">
+  
+<tr><td align="center" valign="middle" width=10 nowrap><span  class="leaderfont167237" ><img src="images/ico_01.jpg" align="absmiddle" border="0"></span></td>
+<td valign="middle" align='left' >
+    
+    
+        <a href="content.jsp?urltype=news.NewsContentUrl&wbtreeid=1106&wbnewsid=1143" class='c167237'  title="关于规范电动车充电安全管理的公告" target=_blank >
+        关于规范电动车充...
+        </a>
+        &nbsp;
+        
+        
+        <span valign="middle"  class="timestyle167237"  width="1%" nowrap>2019/05/09</span>
+            </td>
+        </tr>  
+<tr><td align="center" valign="middle" width=10 nowrap><span  class="leaderfont167237" ><img src="images/ico_01.jpg" align="absmiddle" border="0"></span></td>
+<td valign="middle" align='left' >
+    
+    
+        <a href="content.jsp?urltype=news.NewsContentUrl&wbtreeid=1106&wbnewsid=1501" class='c167237'  title="寒假安全须知" target=_blank >
+        寒假安全须知
+        </a>
+        &nbsp;
+        
+        
+        <span valign="middle"  class="timestyle167237"  width="1%" nowrap>2020/01/02</span>
+            </td>
+        </tr>  
+<tr><td align="center" valign="middle" width=10 nowrap><span  class="leaderfont167237" ><img src="images/ico_01.jpg" align="absmiddle" border="0"></span></td>
+<td valign="middle" align='left' >
+    
+    
+        <a href="content.jsp?urltype=news.NewsContentUrl&wbtreeid=1106&wbnewsid=1445" class='c167237'  title="2019年度考核优秀人员名单公示" target=_blank >
+        2019年度考核优秀...
+        </a>
+        &nbsp;
+        
+        
+        <span valign="middle"  class="timestyle167237"  width="1%" nowrap>2019/12/16</span>
+            </td>
+        </tr>  
+<tr><td align="center" valign="middle" width=10 nowrap><span  class="leaderfont167237" ><img src="images/ico_01.jpg" align="absmiddle" border="0"></span></td>
+<td valign="middle" align='left' >
+    
+    
+        <a href="content.jsp?urltype=news.NewsContentUrl&wbtreeid=1106&wbnewsid=1371" class='c167237'  title="【主题教育•整治动态】关于启用来校办理公务车辆预约系统的通知" target=_blank >
+        【主题教育•整治...
+        </a>
+        &nbsp;
+        
+        
+        <span valign="middle"  class="timestyle167237"  width="1%" nowrap>2019/11/07</span>
+            </td>
+        </tr>  
+<tr><td align="center" valign="middle" width=10 nowrap><span  class="leaderfont167237" ><img src="images/ico_01.jpg" align="absmiddle" border="0"></span></td>
+<td valign="middle" align='left' >
+    
+    
+        <a href="content.jsp?urltype=news.NewsContentUrl&wbtreeid=1106&wbnewsid=1370" class='c167237'  title="【主题教育•整治动态】关于防范网络、电信诈骗的预警提示" target=_blank >
+        【主题教育•整治...
+        </a>
+        &nbsp;
+        
+        
+        <span valign="middle"  class="timestyle167237"  width="1%" nowrap>2019/11/07</span>
+            </td>
+        </tr>  
+<tr><td align="center" valign="middle" width=10 nowrap><span  class="leaderfont167237" ><img src="images/ico_01.jpg" align="absmiddle" border="0"></span></td>
+<td valign="middle" align='left' >
+    
+    
+        <a href="content.jsp?urltype=news.NewsContentUrl&wbtreeid=1106&wbnewsid=1344" class='c167237'  title="关于做好2019年国庆节期间安全稳定工作的告知书" target=_blank >
+        关于做好2019年国...
+        </a>
+        &nbsp;
+        
+        
+        <span valign="middle"  class="timestyle167237"  width="1%" nowrap>2019/09/30</span>
+            </td>
+        </tr>  
+<tr><td align="center" valign="middle" width=10 nowrap><span  class="leaderfont167237" ><img src="images/ico_01.jpg" align="absmiddle" border="0"></span></td>
+<td valign="middle" align='left' >
+    
+    
+        <a href="content.jsp?urltype=news.NewsContentUrl&wbtreeid=1106&wbnewsid=1313" class='c167237'  title="关于规范电动车停放充电安全管理的再次公告" target=_blank >
+        关于规范电动车停...
+        </a>
+        &nbsp;
+        
+        
+        <span valign="middle"  class="timestyle167237"  width="1%" nowrap>2019/09/27</span>
+            </td>
+        </tr>  
+<tr><td align="center" valign="middle" width=10 nowrap><span  class="leaderfont167237" ><img src="images/ico_01.jpg" align="absmiddle" border="0"></span></td>
+<td valign="middle" align='left' >
+    
+    
+        <a href="content.jsp?urltype=news.NewsContentUrl&wbtreeid=1106&wbnewsid=1310" class='c167237'  title="保卫处“三全育人”、服务育人示范岗及先进个人名单公示​" target=_blank >
+        保卫处“三全育人...
+        </a>
+        &nbsp;
+        
+        
+        <span valign="middle"  class="timestyle167237"  width="1%" nowrap>2019/09/18</span>
+            </td>
+        </tr>
+</table></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+<TABLE cellspacing="0" cellpadding="0" width="1000" align="center" bgcolor="#ffffff" border="0">
+<TBODY>
+<TR>
+<TD height="10"></TD></TR></TBODY></TABLE>
+<TABLE cellspacing="0" cellpadding="0" width="1000" align="center" bgcolor="#ffffff" border="0">
+<TBODY>
+<TR>
+<TD height="10">
+<TABLE cellspacing="3" cellpadding="0" width="978" align="center" bgcolor="#ffffff" border="0" style="border-top: #cccccc 1px solid; border-right: #cccccc 1px solid; border-bottom: #cccccc 1px solid; border-left: #cccccc 1px solid">
+<TBODY>
+<TR>
+<TD height="89" align="center">
+
+
+
+
+<script language="javascript" src="/system/resource/js/dynclicks.js"></script>
+<table  border="0" cellpadding="0" cellspacing="0">
+    <tr>
+    <td><img src="images/top3.jpg" width="972" height="89" hspace="0" vspace="0" border="0"   ></td>
+        </tr>
+        </table></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+<TABLE cellspacing="0" cellpadding="0" width="1000" align="center" bgcolor="#ffffff" border="0">
+<TBODY>
+<TR>
+<TD height="10"></TD></TR></TBODY></TABLE>
+<TABLE cellspacing="0" cellpadding="0" width="978" align="center" bgcolor="#ffffff" background="images/title_b1.jpg" border="0">
+<TBODY>
+<TR>
+<TD height="9"></TD></TR></TBODY></TABLE>
+<TABLE bordercolor="#0000e0" cellspacing="0" cellpadding="0" width="978" align="center" bgcolor="#ffffff" border="0" style="height: 104px; width: 978px">
+<TBODY>
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD></TR>
+<TR>
+<TD bgcolor="#c2d8f8">&nbsp;<IMG src="images/ico_02.jpg">&nbsp;<STRONG><A href="flfg/flfg.htm" target="">法律法规</A></STRONG></TD>
+<TD bgcolor="#c2d8f8">&nbsp;<IMG src="images/ico_02.jpg">&nbsp;<STRONG><A href="ywbl/ywbl.htm" target="">业务办理</A></STRONG></TD>
+<TD bgcolor="#c2d8f8">&nbsp;<IMG src="images/ico_02.jpg">&nbsp;<STRONG><A href="aqzs/aqzs.htm" target="">安全知识</A></STRONG></TD></TR>
+<TR>
+<TD>&nbsp;<table  width=100%  cellspacing="3" cellpadding="0">
+  
+<tr><td align="center" valign="middle" width=10 nowrap><span  class="leaderfont200495" ><img src="images/ico_01.jpg" align="absmiddle" border="0"></span></td>
+<td valign="middle" align='left' >
+    
+    
+        <a href="content.jsp?urltype=news.NewsContentUrl&wbtreeid=1108&wbnewsid=1401" class='c200495'  title="保卫处工作职责" target=_blank >
+        保卫处工作职责
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align=right  class="timestyle200495"  width="1%" nowrap>2019/11/15</td></tr>  
+<tr><td align="center" valign="middle" width=10 nowrap><span  class="leaderfont200495" ><img src="images/ico_01.jpg" align="absmiddle" border="0"></span></td>
+<td valign="middle" align='left' >
+    
+    
+        <a href="content.jsp?urltype=news.NewsContentUrl&wbtreeid=1108&wbnewsid=1400" class='c200495'  title="桂林电子科技大学校内治安巡逻制度" target=_blank >
+        桂林电子科技大学校内治安巡逻制度
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align=right  class="timestyle200495"  width="1%" nowrap>2019/11/15</td></tr>  
+<tr><td align="center" valign="middle" width=10 nowrap><span  class="leaderfont200495" ><img src="images/ico_01.jpg" align="absmiddle" border="0"></span></td>
+<td valign="middle" align='left' >
+    
+    
+        <a href="content.jsp?urltype=news.NewsContentUrl&wbtreeid=1108&wbnewsid=1399" class='c200495'  title="桂林电子科技大学门卫值班管理制度" target=_blank >
+        桂林电子科技大学门卫值班管理制度
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align=right  class="timestyle200495"  width="1%" nowrap>2019/11/15</td></tr>  
+<tr><td align="center" valign="middle" width=10 nowrap><span  class="leaderfont200495" ><img src="images/ico_01.jpg" align="absmiddle" border="0"></span></td>
+<td valign="middle" align='left' >
+    
+    
+        <a href="content.jsp?urltype=news.NewsContentUrl&wbtreeid=1108&wbnewsid=1398" class='c200495'  title="桂林电子科技大学关于办理户口的有关规定" target=_blank >
+        桂林电子科技大学关于办理户口的有 ...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align=right  class="timestyle200495"  width="1%" nowrap>2019/11/15</td></tr>  
+<tr><td align="center" valign="middle" width=10 nowrap><span  class="leaderfont200495" ><img src="images/ico_01.jpg" align="absmiddle" border="0"></span></td>
+<td valign="middle" align='left' >
+    
+    
+        <a href="content.jsp?urltype=news.NewsContentUrl&wbtreeid=1108&wbnewsid=1397" class='c200495'  title="桂林电子科技大学保卫处工作人员言行规范言行规范" target=_blank >
+        桂林电子科技大学保卫处工作人员言 ...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align=right  class="timestyle200495"  width="1%" nowrap>2019/11/15</td></tr>
+</table></TD>
+<TD>&nbsp;<table  width=100%  cellspacing="3" cellpadding="0">
+  
+<tr><td align="center" valign="middle" width=10 nowrap><span  class="leaderfont200500" ><img src="images/ico_01.jpg" align="absmiddle" border="0"></span></td>
+<td valign="middle" align='left' >
+    
+    
+        <a href="content.jsp?urltype=news.NewsContentUrl&wbtreeid=1109&wbnewsid=1059" class='c200500'  title="校门口出入卡办理" target=_blank >
+        校门口出入卡办理
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align=right  class="timestyle200500"  width="1%" nowrap>2019/03/28</td></tr>  
+<tr><td align="center" valign="middle" width=10 nowrap><span  class="leaderfont200500" ><img src="images/ico_01.jpg" align="absmiddle" border="0"></span></td>
+<td valign="middle" align='left' >
+    
+    
+        <a href="content.jsp?urltype=news.NewsContentUrl&wbtreeid=1109&wbnewsid=1051" class='c200500'  title="桂林电子科技大学关于办理户口的有关规定" target=_blank >
+        桂林电子科技大学关于办理户口的有 ...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align=right  class="timestyle200500"  width="1%" nowrap>2019/03/20</td></tr>
+</table></TD>
+<TD>&nbsp;<table  width=100%  cellspacing="3" cellpadding="0">
+  
+<tr><td align="center" valign="middle" width=10 nowrap><span  class="leaderfont200497" ><img src="images/ico_01.jpg" align="absmiddle" border="0"></span></td>
+<td valign="middle" align='left' >
+    
+    
+        <a href="content.jsp?urltype=news.NewsContentUrl&wbtreeid=1110&wbnewsid=1506" class='c200497'  title="图解丨全民国家安全教育日——国家安全 关系你我" target=_blank >
+        图解丨全民国家安全教育日——国家...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align=right  class="timestyle200497"  width="1%" nowrap>2020/04/14</td></tr>  
+<tr><td align="center" valign="middle" width=10 nowrap><span  class="leaderfont200497" ><img src="images/ico_01.jpg" align="absmiddle" border="0"></span></td>
+<td valign="middle" align='left' >
+    
+    
+        <a href="content.jsp?urltype=news.NewsContentUrl&wbtreeid=1110&wbnewsid=1505" class='c200497'  title="国家安全教育日|国家利益高于一切，国家安全人人有责" target=_blank >
+        国家安全教育日|国家利益高于一切，...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align=right  class="timestyle200497"  width="1%" nowrap>2020/04/13</td></tr>  
+<tr><td align="center" valign="middle" width=10 nowrap><span  class="leaderfont200497" ><img src="images/ico_01.jpg" align="absmiddle" border="0"></span></td>
+<td valign="middle" align='left' >
+    
+    
+        <a href="content.jsp?urltype=news.NewsContentUrl&wbtreeid=1110&wbnewsid=1504" class='c200497'  title="全民国家安全教育日" target=_blank >
+        全民国家安全教育日
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align=right  class="timestyle200497"  width="1%" nowrap>2020/04/12</td></tr>  
+<tr><td align="center" valign="middle" width=10 nowrap><span  class="leaderfont200497" ><img src="images/ico_01.jpg" align="absmiddle" border="0"></span></td>
+<td valign="middle" align='left' >
+    
+    
+        <a href="content.jsp?urltype=news.NewsContentUrl&wbtreeid=1110&wbnewsid=1503" class='c200497'  title="全民国家安全教育日，这些知识你应该知道！" target=_blank >
+        全民国家安全教育日，这些知识你应...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align=right  class="timestyle200497"  width="1%" nowrap>2020/04/11</td></tr>  
+<tr><td align="center" valign="middle" width=10 nowrap><span  class="leaderfont200497" ><img src="images/ico_01.jpg" align="absmiddle" border="0"></span></td>
+<td valign="middle" align='left' >
+    
+    
+        <a href="content.jsp?urltype=news.NewsContentUrl&wbtreeid=1110&wbnewsid=1516" class='c200497'  title="新型冠状病毒肺炎" target=_blank >
+        新型冠状病毒肺炎
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align=right  class="timestyle200497"  width="1%" nowrap>2020/04/06</td></tr>
+</table></TD></TR>
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD></TR>
+<TR>
+<TD bgcolor="#c2d8f8">&nbsp;<IMG src="images/ico_02.jpg">&nbsp;<STRONG><A href="xzzx/xzzx.htm" target="">下载中心</A></STRONG></TD>
+<TD bgcolor="#c2d8f8">&nbsp;<IMG src="images/ico_02.jpg">&nbsp;<STRONG><A href="xyaqxh/swzl.htm" target="">失物招领</A></STRONG></TD>
+<TD bgcolor="#c2d8f8">&nbsp;<IMG src="images/ico_02.jpg"><STRONG><A href="<span style='color:red;font-size:9pt'>转换链接错误</span>" target="">校园安全协会</A></STRONG></TD></TR>
+<TR>
+<TD>&nbsp;<table  width=100%  cellspacing="3" cellpadding="0">
+  
+<tr><td align="center" valign="middle" width=10 nowrap><span  class="leaderfont200498" ><img src="images/ico_01.jpg" align="absmiddle" border="0"></span></td>
+<td valign="middle" align='left' >
+    
+    
+        <a href="content.jsp?urltype=news.NewsContentUrl&wbtreeid=1111&wbnewsid=1048" class='c200498'  title="花江及金鸡岭校区校门门禁申请表" target=_blank >
+        花江及金鸡岭校区校门门禁申请表
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align=right  class="timestyle200498"  width="1%" nowrap>2019/03/15</td></tr>
+</table></TD>
+<TD>&nbsp;<table  width=100%  cellspacing="3" cellpadding="0">
+
+<tr><td colspan="5"><span  class="titlestyle200499" >尚无内容。</span></td>  
+       </tr></table></TD>
+<TD><table  width=100%  cellspacing="3" cellpadding="0">
+
+<tr><td colspan="5"><span  class="titlestyle202464" >尚无内容。</span></td>  
+       </tr></table></TD></TR>
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD></TR></TBODY></TABLE>
+<TABLE cellspacing="0" cellpadding="0" width="1000" align="center" bgcolor="#ffffff" border="0">
+<TBODY>
+<TR></TR></TBODY></TABLE>
+<TABLE cellspacing="0" cellpadding="0" width="978" align="center" bgcolor="#ffffff" background="images/title_b1.jpg" border="0">
+<TBODY>
+<TR>
+<TD height="9"></TD></TR></TBODY></TABLE>
+<TABLE cellspacing="0" cellpadding="0" width="978" align="center" bgcolor="#c6e2f4" border="0">
+<TBODY>
+<TR></TR></TBODY></TABLE>
+<P align="center">&nbsp;<STRONG>校园报警电话：花江校区：2290110&nbsp;金鸡岭校区：2291438&nbsp; 报警：110&nbsp;&nbsp;&nbsp; 火警：119&nbsp;&nbsp;&nbsp; 救护：120</STRONG>&nbsp;</P>
+<P align="center"><p style="text-align: center"><span style="font-size: 9pt; font-family: arial, helvetica, sans-serif; line-height: 24px">©版权所有：桂林电子科技大学 保卫处　校址：中国广西桂林市七星区金鸡路1号　邮编：541004</span><span style="font-size: 9pt; line-height: 24px"><span style="font-size: 14px; font-family: &#39;Microsoft Yahei&#39;, 微软雅黑, Tahoma, Arial, Helvetica, STHeiti; line-height: 30px"></span>&nbsp;<br />Email：<a href="mailto:bwc@guet.edu.cn">bwc@guet.edu.cn</a> 电话：0773－2290110 传真：0773－2290110</span></p>
+<P></P>
+
+</BODY></HTML>

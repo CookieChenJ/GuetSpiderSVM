@@ -1,0 +1,344 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
+<title>关心下一代-桂林电子科技大学离退休工作处</title><META Name="keywords" Content="离退处" />
+
+<link rel="stylesheet" href="../css/style.css" type="text/css">
+<link rel="stylesheet" href="../css/publice.css" type="text/css">
+<script type="text/javascript" src="../js/jquery-1.8.3.min.js"></script>
+<script type="text/javascript" src="../js/jquery.js"></script>
+<script type="text/javascript" src="../js/superslide.2.1.js"></script>
+<script type="text/javascript" src="../js/jquery.soChange.js"></script>
+<script type="text/javascript" src="../js/index.js"></script>
+<script type="text/javascript">
+	$(function(){
+		$(".mainmenu dl").hide();
+		$("li.mainmenu").hover(function(){
+			$(this).find("dl").stop(true,true);
+			$(this).find("dl").slideDown();
+		},function(){
+			$(this).find("dl").stop(true,true);
+			$(this).find("dl").slideUp();
+		});
+	})
+</script>
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="../_sitegray/_sitegray_d.css" />
+<script language="javascript" src="../_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="../list.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1076,'/list.jsp',-1,1411857626)</script>
+</head>
+<body>
+<!--top s-->
+<div class="topWrap clearfix">
+	<div class="topDiv">
+		
+			<!--#begineditable name="高校LOGO" viewid="164983" tagname="高校LOGO" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""-->
+<!-- 网站logo图片地址请在本组件"内容配置-网站logo"处填写 -->
+<div class="logo">
+<a href="../index.htm"><img src="../images/logo.png"></a>
+</div><!--#endeditable-->
+		
+		<div class="topR fr">
+			<!--#begineditable name="头部文字链接" viewid="164984" tagname="头部文字链接" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><script language="javascript" src="/system/resource/js/dynclicks.js"></script><script language="javascript" src="/system/resource/js/openlink.js"></script><div class="topR_t fr">
+     <a href="http://www.guet.edu.cn/index.htm">学校主页</a>
+     |
+     <a href="http://ltc.guet.edu.cn/">原网站</a>
+     |
+     <a href="#">处长信箱</a>
+     
+</div>
+
+
+<!--#endeditable-->
+			<!--#begineditable name="头部检索" viewid="164985" tagname="头部检索" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><script type="text/javascript">
+    function _nl_ys_check_2(){
+        
+        var keyword = document.getElementById('showkeycode164985_2').value;
+        if(keyword==null||keyword==""){
+            alert("请输入关键字搜索");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkeyword164985").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkeyword164985").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkeyword164985").value = base64.encode(document.getElementById("lucenenewssearchkeyword164985").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode164985_2"));
+        return true;
+    } 
+    function submitForm()
+    {
+        document.getElementById("au2a").submit();
+    }
+</script>
+<script type="text/javascript">
+                function test3()
+                {
+                    var tempStr=document.getElementById('showkeycode164985_2').value;
+                    if(tempStr=="请输入关键字搜索")
+                    {
+                        document.getElementById('showkeycode164985_2').value="";
+                    }
+                }
+                function test4()
+                {
+                    var tempStr=document.getElementById('showkeycode164985_2').value;
+                    if(tempStr=="")
+                    {
+                        document.getElementById('showkeycode164985_2').value="请输入关键字搜索";
+                    }
+                }
+            </script>
+<div class="Search">
+<form action="../ssjg.jsp?wbtreeid=1076" method="post" id="au2a" name="au2a" onsubmit="return _nl_ys_check_2()">
+ <input type="hidden" id="lucenenewssearchkeyword164985" name="lucenenewssearchkeyword" value=""><input type="hidden" id="_lucenesearchtype164985" name="_lucenesearchtype" value="1"><input type="hidden" id="searchScope164985" name="searchScope" value="1">
+ <input type="text" value="请输入关键字搜索" name="showkeycode" class="search_text" onfocus="test3()" onblur="test4()" id="showkeycode164985_2" />
+                <div class="fdj fr"><input type="image" src="../img/top_hunt.png" value="" style="padding-right:26px;;cursor: hand"></div>
+</form>
+</div><script language="javascript" src="/system/resource/js/base64.js"></script><script language="javascript" src="/system/resource/js/formfunc.js"></script>
+<!--#endeditable-->
+			
+		</div>
+	</div>
+</div>
+<!--nav-->
+<!--#begineditable name="主导航" viewid="165008" tagname="主导航" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><div class="navWrap  clearfix">
+    <div class="nav">
+    <ul>
+            <li>
+            <a class="link" href="../index.htm">首页</a>
+                        
+        </li>
+        <li class="mainmenu">
+            <a class="link" href="../bmjj.htm">部门简介</a>
+        </li>
+        <li class="mainmenu">
+            <a class="link" href="../gwzz.htm">岗位职责</a>
+        </li>
+        <li class="mainmenu">
+            <a class="link" href="../zcfg.htm">政策法规</a>
+        </li>
+        <li class="mainmenu">
+            <a class="link" href="../dwdj.htm">党委党建</a>
+        </li>
+        <li class="mainmenu">
+            <a class="link" href="../gxxyd.htm">关心下一代</a>
+        </li>
+        <li class="mainmenu">
+            <a class="link" href="../zqxy.htm">长青学院</a>
+        </li>
+        <li class="mainmenu">
+            <a class="link" href="../lnst.htm">老年社团</a>
+        </li>
+     
+    </ul>
+</div>
+</div>
+<script type="text/javascript">
+
+    $(".mainmenu dl").hide();
+
+</script><!--#endeditable-->
+<!--banner-->
+<div class="vsb-box">
+	<div class="vsb-container a" containerid="1" columns="6">
+		<div class="vsb-space bannerWrap clearfix" columns="6">
+			<!--banner1-->
+			<!--#begineditable name="带左右切换图片变换banner" viewid="165009" tagname="图片列表" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""-->        <!--banner1-->
+    <div class="banner_one">
+        <div id="slideBox" class="slideBox">
+            <div class="hd">
+                <ul>
+                    <li></li>
+            <li></li>
+        
+        </ul>
+            </div>
+            <div class="bd">
+                <ul>
+            <li><img src="../images/banner01.png" /></li>
+            <li><img src="../images/lunbo1.png" /></li>
+                </ul>
+            </div>
+            <a class="prev" href="javascript:void(0)"></a>
+            <a class="next" href="javascript:void(0)"></a>
+
+        </div>
+         
+    </div>
+<script type="text/javascript">
+        jQuery(".slideBox").slide({mainCell:".bd ul",autoPlay:true});
+        </script><!--#endeditable-->
+		</div>
+	</div>
+	<!--main-->
+	
+	</div>
+</div>
+<!--main-->
+<div class="mainWrap clearfix"><!--#begineditable name="当前位置" viewid="165013" tagname="当前位置" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><div class="main_tit">
+        <div class="main_titT main_titTa">
+            <img src="../img/bri_icon1.png">
+
+<a href="../index.htm">首页</a>>
+<a href="gxxyd.htm" class="cur">关心下一代</a>
+        </div>
+</div>
+<!--#endeditable-->
+<div class="main_con">
+<div class="main_conL">
+<div class="main_conLT">
+<dl><!--#begineditable name="栏目名称" viewid="165015" tagname="栏目名称" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><dt>首页</dt><!--#endeditable--><!--#begineditable name="左侧二级导航" viewid="165016" tagname="左侧二级导航" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><dd><a href="xwdt.htm">新闻动态</a></dd>
+<dd><a href="tzgg.htm">通知公告</a></dd>
+<dd><a href="zczc.htm">政策之窗</a></dd>
+<dd><a href="djgz.htm">党建工作</a></dd>
+<dd><a href="gxxyd.htm" class="cur">关心下一代</a></dd>
+<dd><a href="hdzs.htm">活动展示</a></dd>
+<!--#endeditable--></dl></div>
+<div class="informBox informBoxb informBoxb1">
+<!--#begineditable name="左侧全文检索" viewid="165014" tagname="左侧全文检索" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><script type="text/javascript">
+    function _nl_ys_check(){
+        
+        var keyword = document.getElementById('showkeycode165014').value;
+        if(keyword==null||keyword==""){
+            alert("请输入你要检索的内容！");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkeyword165014").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkeyword165014").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkeyword165014").value = base64.encode(document.getElementById("lucenenewssearchkeyword165014").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode165014"));
+        return true;
+    } 
+ function submitForm()
+    {
+        document.getElementById("au8a").submit();
+    }
+</script>
+
+<form action="../ssjg.jsp?wbtreeid=1076" method="post" id="au8a" name="au8a" onsubmit="return _nl_ys_check()" style="display: inline">
+ <input type="hidden" id="lucenenewssearchkeyword165014" name="lucenenewssearchkeyword" value=""><input type="hidden" id="_lucenesearchtype165014" name="_lucenesearchtype" value="1"><input type="hidden" id="searchScope165014" name="searchScope" value="1">
+ 
+<div class="dynamic dynamicc"><h2>站内搜索</h2></div>
+                <input id="showkeycode165014" type="text" class="search_text" name="showkeycode" value="请输入关键字进行搜索" onfocus="if(this.value=='请输入关键字进行搜索')this.value='';" onblur="if(this.value=='')this.value='请输入关键字进行搜索';" />
+                <input type="image" src="../img/sousuo.png" value="搜索" class="h_button" />
+     </form>         
+
+<!--#endeditable-->
+
+</div></div><!--#begineditable name="静态翻页列表" viewid="165018" tagname="静态翻页列表" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""-->
+
+<script language="javascript" src="/system/resource/js/news/statpagedown.js"></script><div class="main_conR main_conRa">
+            <div class="main_conRCb">
+                <ul>
+<li id="line_u9_0"><a href="../info/1076/1513.htm"><span>2020-03-15</span><em>【疫情防控】图书馆办事服务指南 </em></a></li>
+<li id="line_u9_1"><a href="../info/1076/1482.htm"><span>2020-02-21</span><em>冠状病毒肺炎学生防护手册（小学版）</em></a></li>
+<li id="line_u9_2"><a href="../info/1076/1432.htm"><span>2019-10-25</span><em>《成长》刊发报道我校关工委开展“读懂中国----我和我的祖国”主题活动新闻</em></a></li>
+<li id="line_u9_3"><a href="http://iw.guet.edu.cn/info/1061/60558.htm"><span>2019-09-30</span><em>关于我校第十八期教职工子弟英语口语班开班的通知</em></a></li>
+<li id="line_u9_4"><a href="http://iw.guet.edu.cn/info/1061/60377.htm"><span>2019-09-18</span><em>关于我校第十八期教职工子弟英语口语班报名的通知</em></a></li>
+<li id="line_u9_5"><a href="https://www.guet.edu.cn/ltc/info/1073/1373.htm"><span>2019-06-25</span><em>校关工委赴北海校区开展系列培训指导 ——校关工委副主任谢先知作关工委业务培训</em></a></li>
+<li id="line_u9_6"><a href="https://www.guet.edu.cn/ltc/info/1073/1372.htm"><span>2019-06-25</span><em>校关工委赴北海校区开展系列培训指导 ——王喜成教授与青年教师谈如何进行高效课堂教学设计</em></a></li>
+<li id="line_u9_7"><a href="https://www.guet.edu.cn/ltc/info/1073/1371.htm"><span>2019-06-25</span><em>校关工委赴北海校区开展系列培训指导 ——陈尚松教授与青年学子谈“我和我的祖国”</em></a></li>
+<li id="line_u9_8"><a href="../info/1076/1386.htm"><span>2019-06-17</span><em>王喜成教授应法学院／知识产权学院邀请作“我和我的祖国”的讲座</em></a></li>
+<li id="line_u9_9"><a href="../info/1076/1383.htm"><span>2019-05-27</span><em>王喜成教授与艺术与设计学院青年学子谈 “读懂中国”--铭记桂电校史，发扬桂电精神”</em></a></li>
+                    
+              </ul>
+            </div>
+           <div align="center" style="margin-top:20px;"><INPUT TYPE="hidden" NAME="actiontype" VALUE=""><input type="hidden" name="_scode_" value="1584332982168"><input type="hidden" name="urltype" value="tree.TreeTempUrl"><input type="hidden" name="wbtreeid" value="1076"><input type="hidden" name="outFlag" value="false">
+<style type="text/css">
+.headStyle1rgqlvbvkr, .headStyle1rgqlvbvkr td, .headStyle1rgqlvbvkr div {font-size: 12px;font-family:宋体; color: #000000; margin-left: auto; margin-right: auto; line-height:14px;}
+.defaultButtonStyle {font-size: 12px;font-family:宋体; height:20px;color: #000000;BORDER: #AFD5F5 1px solid; margin: 0px;padding: 0px; FILTER:progid:DXImageTransform.Microsoft.Gradient(GradientType=0,StartColorStr=#ffffff, EndColorStr=#BDDBF7);  CURSOR: pointer; line-height:14px;background:-webkit-gradient(linear, 0 0, 0 100%, from(#ffffff), to(#BDDBF7));background: -moz-linear-gradient( top,#ffffff,#BDDBF7);background:-ms-linear-gradient(top,#ffffff 0%,#bddbf7 100%);}
+.defaultinputStyle {font-size: 12px;font-family:宋体; height:20px; border:1px solid #AFD5F5; line-height:14px;}
+.colHeader {font-size: 12px;font-family:宋体; line-height:14px;}
+.headStyle1rgqlvbvkr a, .pageList .this-page {font-size: 12px;font-family:宋体; display:inline-block; height:14px; padding: 2px 4px; border: solid 1px #AFD5F5; background: #fff; text-decoration: none; MARGIN-RIGHT: 1px;line-height:14px;}
+.headStyle1rgqlvbvkr a:visited {font-size: 12px;font-family:宋体; color: #000000; text-decoration: none; line-height:14px;}
+.headStyle1rgqlvbvkr .PrevDisabled {font-size: 12px;font-family:宋体; display:inline-block;height:14px;  margin-right: 3px; padding: 2px 4px; background: #fff;color:#ccc;border: solid 1px #AFD5F5; line-height:14px;}
+.headStyle1rgqlvbvkr .SelectList {font-size: 12px;font-family:宋体;line-height:14px;}
+.headStyle1rgqlvbvkr .Prev { font-size: 12px;font-family:宋体; margin-right: 3px; padding: 2px 4px;line-height:14px;}
+.headStyle1rgqlvbvkr .break {font-size: 12px;font-family:宋体; border: none; text-decoration: none; line-height:14px;}
+.headStyle1rgqlvbvkr .NextDisabled { font-size: 12px;font-family:宋体;display:inline-block; height:14px; margin-left: 2px; padding: 2px 4px;background: #fff;color:#ccc;border: solid 1px #AFD5F5; line-height:14px;}
+.headStyle1rgqlvbvkr .Next { font-size: 12px;font-family:宋体; margin-left: 2px; padding: 2px 4px;line-height:14px;}
+.headStyle1rgqlvbvkr .this-page {font-size: 12px;font-family:宋体;display:inline-block;height:14px;padding: 2px 4px; border: solid 1px #AFD5F5; background: #E1F0FD; font-weight: bold; color:black; MARGIN-RIGHT: 1px;line-height:14px;}
+.headStyle1rgqlvbvkr a:hover {font-size: 12px;font-family:宋体;color: black; background: #EFF7FE; border-color: #AFD5F5; text-decoration: none;line-height:14px;}
+.headStyle1rgqlvbvkr a:link {font-size: 12px;font-family:宋体;color: #000000; text-decoration: none;line-height:14px;}
+.headStyle1rgqlvbvkr a:active { font-size: 12px;font-family:宋体;color: black; text-decoration: none; background: #EFF7FE; line-height:14px;}
+</style><script language="javascript" src="/system/resource/js/gotopage.js"></script><script type="text/javascript">function a165018_gopage_fun(){_simple_list_gotopage_fun(2,'a165018GOPAGE',2)}</script><table cellspacing="0" cellpadding="0" border="0"><TR><td colspan="0"><table cellspacing="0" class="headStyle1rgqlvbvkr" width="100%" cellpadding="1"><tr valign="middle"><TD nowrap align="left" width="1%" id="fanye165018">共19条&nbsp;&nbsp;1/2&nbsp;</td><td nowrap align="left"><div><span class="PrevDisabled">首页</span><span class="PrevDisabled">上页</span><a href="gxxyd/1.htm" class="Next">下页</a><a href="gxxyd/1.htm" class="Next">尾页</a>&nbsp;&nbsp;<input align="absmiddle" type="button" class="defaultButtonStyle" id="gotopagebut" name="a165018Find" value="转到" onclick="javascript:a165018_gopage_fun()"><INPUT size="2" align="absmiddle" class="defaultInputStyle" NAME="a165018GOPAGE" id="a165018GOPAGE" VALUE="" style="margin-left:1px;margin-right:1px">页</div></td></tr></table></table></div>
+        
+        </div><script>_showDynClickBatch(['dynclicks_u9_1513','dynclicks_u9_1482','dynclicks_u9_1432','dynclicks_u9_1412','dynclicks_u9_1413','dynclicks_u9_1376','dynclicks_u9_1375','dynclicks_u9_1374','dynclicks_u9_1386','dynclicks_u9_1383'],[1513,1482,1432,1412,1413,1376,1375,1374,1386,1383],"wbnews", 1411857626)</script><!--#endeditable--></div></div>
+<div class="vsb-container container clearfix" containerid="2" columns="6">	
+		
+		<div class="vsb-space content contentf" columns="6">
+			<!--#begineditable name="横向链接1" viewid="165022" tagname="横向链接1" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><div class="link_one clearfix" style="padding-top:20px;">
+            <dl>
+                <dt>友情链接</dt>
+<dd>
+
+<a href="http://www.gxlgbgz.gov.cn/">广西老干部工作</a>
+
+
+
+<a href="http://ltx.gxu.edu.cn/">广西大学离退处</a>
+
+
+
+<a href="http://ltc.gxun.edu.cn/">广西民族大学离退处</a>
+
+
+
+<a href="http://ltc.gxnu.edu.cn/">广西师范大学离退处</a>
+
+
+
+<a href="http://ltc.glut.edu.cn/">桂林理工大学离退处</a>
+
+
+<a href="https://mgmt.glmc.edu.cn/ltc/" class="cur">桂林医学院离退处</a>
+
+
+    </dd>         
+            </dl>
+        </div>
+
+
+<!--#endeditable-->
+			
+		</div>
+	</div>	
+<!--foot-->
+<div class="footWrap"><!--#begineditable name="版权1" viewid="165023" tagname="版权1" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><div class="footDiv_one">
+		<div class="foot_one">
+			<p class="copyRight" style="text-align: center"><span style="color: rgb(255,255,255)"></span><br /></p><p style="list-style-type: none; font-size: 12px; border-top: 0px; font-family: 微软雅黑; border-right: 0px; white-space: normal; border-bottom: 0px; color: rgb(51,51,51); padding-bottom: 0px; text-align: center; padding-top: 0px; padding-left: 0px; border-left: 0px; margin: 0px auto; line-height: 22px; padding-right: 0px"><span style="color: rgb(255,255,255)">地址:桂林市金鸡路1号桂林电子科技大学 邮编：541004</span></p><p style="list-style-type: none; font-size: 12px; border-top: 0px; font-family: 微软雅黑; border-right: 0px; white-space: normal; border-bottom: 0px; color: rgb(51,51,51); padding-bottom: 0px; text-align: center; padding-top: 0px; padding-left: 0px; border-left: 0px; margin: 0px auto; line-height: 22px; padding-right: 0px"><span style="color: rgb(255,255,255)">CopyRight? 2007-2013 All Right esball Reserved 桂林电子科技大学</span><a href="http://ltc.guet.edu.cn/login.aspx" target="_blank" style="list-style-type: none; text-decoration: underline; border-top: 0px; border-right: 0px; border-bottom: 0px; color: rgb(255,255,255); padding-bottom: 0px; padding-top: 0px; padding-left: 0px; border-left: 0px; margin: 0px; padding-right: 0px"><span style="color: rgb(255,255,255)">离退处&nbsp;</span></a><span style="color: rgb(255,255,255)">版权所有</span></p>
+		</div>
+	</div><!--#endeditable-->
+</div>
+
+
+
+<script type="text/javascript">
+$(function () {
+
+//切换对象为其他，这里为包含图片和标题的层
+	$('#change_32 div.changeDiv').soChange({//对象指向层，层内包含图片及标题
+		thumbObj:'#change_32 .ul_change_a2 span',
+		thumbNowClass:'on'//自定义导航对象当前class为on
+	});
+
+});
+</script>
+
+</body></html>

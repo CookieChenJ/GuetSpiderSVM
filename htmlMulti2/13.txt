@@ -1,0 +1,811 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="sth=device-width, initial-scale=1">
+    <title>桂林电子科技大学北海校区</title><META Name="keywords" Content="桂林电子科技大学北海校区,北海校区,桂林电子科技大学北海校区" />
+
+    <meta name="description" content="桂林电子科技大学北海校区网站是桂电北海校区唯一官方网站" />
+    
+
+    <link href="skin/css/bootstrap.min.css" type="text/css" rel="stylesheet" />
+    <link href="skin/css/style.css" type="text/css" rel="stylesheet" />
+    <link href="skin/css/index.css" type="text/css" rel="stylesheet" />
+
+    <script type="text/javascript" src="skin/js/jquery.min.js"></script>
+    <script type="text/javascript" src="skin/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="skin/js/touchslide.1.1.js"></script>
+    <script type="text/javascript" src="skin/js/common.js"></script>
+    <script type="text/javascript" src="skin/js/jquery.SuperSlide.2.1.2.js"></script>
+    <script type="text/javascript" src="skin/js/flash.js"></script>
+    <script type="text/javascript" src="skin/js/ckplayer.js" charset="utf-8"></script>
+    <!--[if (gt IE 9)|!(IE)]><!-->
+    <link href="skin/css/animate.min.css" type="text/css" rel="stylesheet" />
+    <script type="text/javascript" src="skin/js/wow.min.js"></script>
+    <!--<![endif]-->
+    <!-- <style type="text/css">
+        #adverBox{
+            width: 151px;
+            height: 433px;
+            overflow: hidden;
+            z-index: 9999;}
+        #adverBox .img{
+            width: 151px;
+            height: 433px;
+            position: relative;}
+        #adverBox .img .close{
+            width: 30px;
+            height: 30px;
+            font-size: 30px;
+            color: red;
+            position: absolute;
+            right: 0;
+            text-decoration: none;}
+    </style>
+    <script type="text/javascript">
+
+        //公共脚本: main.js
+        function addEvent(obj,evtType,func,cap){
+            cap=cap||false;
+            if(obj.addEventListener){
+                obj.addEventListener(evtType,func,cap);
+                return true;
+            }else if(obj.attachEvent){
+                if(cap){
+                    obj.setCapture();
+                    return true;
+                }else{
+                    return obj.attachEvent("on" + evtType,func);
+                }
+            }else{
+                return false;
+            }
+        }
+        function getPageScroll(){
+            var xScroll,yScroll;
+            if (self.pageXOffset) {
+                xScroll = self.pageXOffset;
+            } else if (document.documentElement  &&  document.documentElement.scrollLeft){
+                xScroll = document.documentElement.scrollLeft;
+            } else if (document.body) {
+                xScroll = document.body.scrollLeft;
+            }
+            if (self.pageYOffset) {
+                yScroll = self.pageYOffset;
+            } else if (document.documentElement  &&  document.documentElement.scrollTop){
+                yScroll = document.documentElement.scrollTop;
+            } else if (document.body) {
+                yScroll = document.body.scrollTop;
+            }
+            arrayPageScroll = new Array(xScroll,yScroll);
+            return arrayPageScroll;
+        }
+        function GetPageSize(){
+            var xScroll, yScroll;
+            if (window.innerHeight  &&  window.scrollMaxY) {
+                xScroll = document.body.scrollWidth;
+                yScroll = window.innerHeight + window.scrollMaxY;
+            } else if (document.body.scrollHeight > document.body.offsetHeight){
+                xScroll = document.body.scrollWidth;
+                yScroll = document.body.scrollHeight;
+            } else {
+                xScroll = document.body.offsetWidth;
+                yScroll = document.body.offsetHeight;
+            }
+            var windowWidth, windowHeight;
+            if (self.innerHeight) {
+                windowWidth = self.innerWidth;
+                windowHeight = self.innerHeight;
+            } else if (document.documentElement  &&  document.documentElement.clientHeight) {
+                windowWidth = document.documentElement.clientWidth;
+                windowHeight = document.documentElement.clientHeight;
+            } else if (document.body) {
+                windowWidth = document.body.clientWidth;
+                windowHeight = document.body.clientHeight;
+            }
+            if(yScroll < windowHeight){
+                pageHeight = windowHeight;
+            } else {
+                pageHeight = yScroll;
+            }
+            if(xScroll < windowWidth){
+                pageWidth = windowWidth;
+            } else {
+                pageWidth = xScroll;
+            }
+            arrayPageSize = new Array(pageWidth,pageHeight,windowWidth,windowHeight)
+            return arrayPageSize;
+        }
+        //脚本: AdMove.js
+        var AdMoveConfig=new Object();
+        AdMoveConfig.IsInitialized=false;
+        AdMoveConfig.ScrollX=0;
+        AdMoveConfig.ScrollY=0;
+        AdMoveConfig.MoveWidth=0;
+        AdMoveConfig.MoveHeight=0;
+        AdMoveConfig.Resize=function(){
+            var winsize=GetPageSize();
+            AdMoveConfig.MoveWidth=winsize[2];
+            AdMoveConfig.MoveHeight=winsize[3];
+            AdMoveConfig.Scroll();
+        }
+        AdMoveConfig.Scroll=function(){
+            var winscroll=getPageScroll();
+            AdMoveConfig.ScrollX=winscroll[0];
+            AdMoveConfig.ScrollY=winscroll[1];
+        }
+        addEvent(window,"resize",AdMoveConfig.Resize);
+        addEvent(window,"scroll",AdMoveConfig.Scroll);
+        function AdMove(id){
+            if(!AdMoveConfig.IsInitialized){
+                AdMoveConfig.Resize();
+                AdMoveConfig.IsInitialized=true;
+            }
+            var obj=document.getElementById(id);
+            obj.style.position="absolute";
+            var W=AdMoveConfig.MoveWidth-obj.offsetWidth;
+            var H=AdMoveConfig.MoveHeight-obj.offsetHeight;
+            var x = W*Math.random(),y = H*Math.random();
+            var rad=(Math.random()+1)*Math.PI/6;
+            var kx=Math.sin(rad),ky=Math.cos(rad);
+            var dirx = (Math.random()<0.5?1:-1), diry = (Math.random()<0.5?1:-1);
+            var step = 1;
+            var interval;
+            this.SetLocation=function(vx,vy){x=vx;y=vy;}
+            this.SetDirection=function(vx,vy){dirx=vx;diry=vy;}
+            obj.CustomMethod=function(){
+                obj.style.left = (x + AdMoveConfig.ScrollX) + "px";
+                obj.style.top = (y + AdMoveConfig.ScrollY) + "px";
+                rad=(Math.random()+1)*Math.PI/6;
+                W=AdMoveConfig.MoveWidth-obj.offsetWidth;
+                H=AdMoveConfig.MoveHeight-obj.offsetHeight;
+                x = x + step*kx*dirx;
+                if (x < 0){dirx = 1;x = 0;kx=Math.sin(rad);ky=Math.cos(rad);}
+                if (x > W){dirx = -1;x = W;kx=Math.sin(rad);ky=Math.cos(rad);}
+                y = y + step*ky*diry;
+                if (y < 0){diry = 1;y = 0;kx=Math.sin(rad);ky=Math.cos(rad);}
+                if (y > H){diry = -1;y = H;kx=Math.sin(rad);ky=Math.cos(rad);}
+            }
+            this.Run=function(){
+                var delay = 10;
+                interval=setInterval(obj.CustomMethod,delay);
+                obj.onmouseover=function(){clearInterval(interval);}
+                obj.onmouseout=function(){interval=setInterval(obj.CustomMethod, delay);}
+            }
+        }
+        $(function () {
+            $("#adverBox .close").click(function () {
+                $("#adverBox").hide();
+            });
+            var ad1 = new AdMove("adverBox");
+            ad1.Run();
+        });
+    </script> -->
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="index.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1015,'/index.jsp',-1,1411857808)</script>
+</head>
+
+<body>
+    <!--头部开始-->
+    <header id="header">
+        <div class="container">
+            <div id="logo">
+                <a href="" title="桂林电子科技大学北海校区"><img src="skin/images/logo.png" alt="桂林电子科技大学北海校区" /></a>
+            </div>
+            <!-- <div id="logo">
+                <a href="/" title="桂林电子科技大学北海校区">
+                    <!/--#begineditable name="LOGO" action="webber.wbst.com.basecomponent.BaseComponent" layout="/system/_component/basecomponent/tpllogo.jsp" tpltype="1" contype="" clone="" viewid="201113" contentviewid="" tagname="LOGO"--/>elementname
+                    <!/--#endeditable--/>
+            </a>
+            </div> -->
+            <div id="header_right">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+                <div class="language">
+                    <ul>
+                        <li><a href="http://192.168.4.213/" target="_blank">【校区智慧校园】</a></li>
+                        <li><a href="http://icampus.guet.edu.cn/login.aspx" target="_blank">【本部智慧校园】</a></li>
+                    </ul>
+                </div>
+                <div class="clear"></div>
+                <div id="search" class="wow bounceInDown" style="width: 225px;">
+                    <!--#begineditable name="全文检索" action="webber.wbst.com.SpaceStaticAction" layout="/system/_component/news/tplnewslucenesearch.jsp" tpltype="1" contype="" clone="" viewid="201021" contentviewid="" tagname="全文检索"--><script type="text/javascript">
+    function _nl_ys_check(){
+        
+        var keyword = document.getElementById('showkeycode201021').value;
+        if(keyword==null||keyword==""){
+            alert("请输入你要检索的内容！");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkeyword201021").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkeyword201021").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkeyword201021").value = base64.encode(document.getElementById("lucenenewssearchkeyword201021").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode201021"));
+        return true;
+    } 
+</script>
+<form action="search.jsp?wbtreeid=1015" method="post" id="au0a" name="au0a" onsubmit="return _nl_ys_check()" style="display: inline">
+         <input type="hidden" id="lucenenewssearchkeyword201021" name="lucenenewssearchkeyword" value=""><input type="hidden" id="_lucenesearchtype201021" name="_lucenesearchtype" value="1"><input type="hidden" id="searchScope201021" name="searchScope" value="0">
+         <input type="hidden" name="kwtype" value="0" />
+         <input type="text" name="showkeycode" id="showkeycode201021" placeholder="search" class="skw" size="12" onfocus="javascript:clearsearch(this);" onblur="javascript:redosearch(this);" />
+         <input name="submit" type="submit" class="sub" value="" />
+</form>
+
+
+
+<script language="javascript" src="/system/resource/js/base64.js"></script><script language="javascript" src="/system/resource/js/formfunc.js"></script>
+<!--#endeditable-->
+                </div>
+            </div>
+            <div class="clear"></div>
+            <div class="row mobile_nav">
+                <nav class="collapse navbar-collapse">
+                    <!--#begineditable name="网站导航2" action="webber.wbst.com.nav.MenuAction" layout="/system/_component/sitenav/tplvnav.jsp" tpltype="1" contype="" clone="" viewid="200950" contentviewid="" tagname="网站导航2"--><ul>
+              <li class="first_menu"><a class="current" href="index.htm">首页</a></li>
+            <li><a class="" href="xqgk/xqjj.htm">校区概况</a>
+            </li>
+            <li><a class="" href="jgsz/gljigou.htm">机构设置</a>
+            </li>
+            <li><a class="" href="djgz.htm">党建工作</a>
+            </li>
+            <li><a class="" href="rcpy/bkjy.htm">人才培养</a>
+            </li>
+            <li><a class="" href="kxyanjiu.htm">科学研究</a>
+            </li>
+            <li><a class="" href="xgtw/xsgongzuo.htm">学工团委</a>
+            </li>
+            <li><a class="" href="https://www.guet.edu.cn/bh_zs/">招生就业</a>
+            </li>
+            <li><a class="" href="jxjy.htm">继续教育</a>
+            </li>
+            <li><a class="" href="cpyc.htm">诚聘英才</a>
+            </li>
+            <li><a class="" href="gjjy.htm">国际教育</a>
+            </li>
+            <li><a class="" href="xyVR.htm">校园VR</a>
+            </li>
+            <li><a class="" href="zlxz.htm">资料下载</a>
+            </li>
+          <!--<li><a href='/' ><img src='/skin/images/cn.jpg' /></a></li>
+          <li><a href='/en/'><img src='/skin/images/en.jpg' /></a></li>-->
+          <div class="search_m">
+            <form name="formsearch" action="plus/search.php">
+              <input type="hidden" name="kwtype" value="0">
+              <input name="q" placeholder="search" class="skw" size="12" onfocus="javascript:clearsearch(this);" onblur="javascript:redosearch(this);">
+              <input name="submit" type="submit" class="sub" value="">
+            </form>
+          </div>
+        </ul><!--#endeditable-->
+                </nav>
+            </div>
+        </div>
+    </header>
+    <div class="clear"></div>
+    <nav id="navigate">
+        <div class="container">
+            <!--#begineditable name="网站导航1" action="webber.wbst.com.nav.MenuAction" layout="/system/_component/sitenav/tplvnav.jsp" tpltype="1" contype="" clone="" viewid="200948" contentviewid="" tagname="网站导航1"--><ul>
+                <li class="first_menu"><a class="current" href="index.htm">首页</a></li>
+            <li><a class="" href="xqgk/xqjj.htm">校区概况</a>
+                    <ul>
+                            <li><a href="xqgk/xqjj.htm" title="校区简介">校区简介</a></li>
+                            <li><a href="xqgk/xqld.htm" title="校区领导">校区领导</a></li>
+                            <li><a href="xqgk/xyfg.htm" title="校园风光">校园风光</a></li>
+                    </ul>
+            </li>
+            <li><a class="" href="jgsz/gljigou.htm">机构设置</a>
+                    <ul>
+                            <li><a href="jgsz/gljigou.htm" title="管理机构">管理机构</a></li>
+                            <li><a href="jgsz/jxdw.htm" title="教学单位">教学单位</a></li>
+                            <li><a href="jgsz/qtjig.htm" title="其他机构">其他机构</a></li>
+                    </ul>
+            </li>
+            <li><a class="" href="djgz.htm">党建工作</a>
+            </li>
+            <li><a class="" href="rcpy/bkjy.htm">人才培养</a>
+                    <ul>
+                            <li><a href="rcpy/bkjy.htm" title="本科教育">本科教育</a></li>
+                            <li><a href="rcpy/gzjy.htm" title="高职教育">高职教育</a></li>
+                            <li><a href="rcpy/ssjy.htm" title="硕士教育">硕士教育</a></li>
+                    </ul>
+            </li>
+            <li><a class="" href="kxyanjiu.htm">科学研究</a>
+            </li>
+            <li><a class="" href="xgtw/xsgongzuo.htm">学工团委</a>
+                    <ul>
+                            <li><a href="xgtw/xsgongzuo.htm" title="学生工作">学生工作</a></li>
+                            <li><a href="xgtw/twgz.htm" title="团委工作">团委工作</a></li>
+                    </ul>
+            </li>
+            <li><a class="" href="https://www.guet.edu.cn/bh_zs/">招生就业</a>
+                    <ul>
+                            <li><a href="https://www.guet.edu.cn/bh_zs/" title="招生信息">招生信息</a></li>
+                            <li><a href="https://www.guet.edu.cn/bh_jy/" title="就业信息">就业信息</a></li>
+                    </ul>
+            </li>
+            <li><a class="" href="jxjy.htm">继续教育</a>
+            </li>
+            <li><a class="" href="cpyc.htm">诚聘英才</a>
+            </li>
+            <li><a class="" href="gjjy.htm">国际教育</a>
+            </li>
+            <li><a class="" href="xyVR.htm">校园VR</a>
+            </li>
+            <li><a class="" href="zlxz.htm">资料下载</a>
+            </li>
+ </ul><!--#endeditable-->
+        </div>
+    </nav>
+
+    <div id="nav_bottom"></div>
+    <div class="clear"></div>
+
+    <div id="flash">
+        <div class="banner">
+            <div class="fullSlide pr">
+                <div class="bd">
+                    <ul>
+                        <li class="pr">
+                            <a href="#" title="疫情防护工作"><img class="imgfull" src="skin/pic/fkgz.jpg" alt=""></a>
+                        </li>
+                        <li class="pr">
+                            <a href="#" title=""><img class="imgfull" src="skin/pic/jsrc.jpg" alt=""></a>
+                        </li>
+                        <li class="pr">
+                            <a href="#" title="疫情防护"><img class="imgfull" src="skin/pic/yqfh.jpg" alt=""></a>
+                        </li>
+                        <li class="pr">
+                            <a href="https://www.guet.edu.cn/gdbh/fyzt.htm" title=""><img class="imgfull" src="skin/pic/fyzt.jpg" alt=""></a>
+                        </li>
+                        <li class="pr">
+                            <a href="https://www.guet.edu.cn/gdbh/bwcx_ljsm.htm" title="不忘初心，牢记使命专题"><img class="imgfull" src="skin/pic/888.jpg" alt=""></a>
+                        </li>
+                        <li class="pr">
+                            <a href="#" title="桂电照片墙1"><img class="imgfull" src="skin/pic/gd_pw01.jpg" alt=""></a>
+                        </li>
+                        <li class="pr">
+                            <a href="#" title="桂电照片墙2"><img class="imgfull" src="skin/pic/gd_pw02.jpg" alt=""></a>
+                        </li>
+                        <li class="pr">
+                            <a href="#" title="桂电照片墙3"><img class="imgfull" src="skin/pic/gd_pw03.jpg" alt=""></a>
+                        </li>
+                        <li class="pr">
+                            <a href="https://www.guet.edu.cn/gdbh/info/1178/1310.htm" title="华为ICT大赛全球一等奖" target="_blank"><img class="imgfull" src="skin/pic/33.jpg" alt=""></a>
+                        </li>
+                        <!--<li class="pr">
+                            <a href="#" title=""><img class="imgfull" src="skin/pic/55.jpg" alt=""></a>
+                        </li>-->
+                    </ul>
+                </div>
+                <div class="hd">
+                    <ul>
+                        <li></li>
+                    </ul>
+                </div>
+                <!-- Add Arrows -->
+                <a class="prev" href="javascript:void(0)"></a>
+                <a class="next" href="javascript:void(0)"></a>
+            </div>
+            <script type="text/javascript">
+                //banner
+                jQuery(".banner .fullSlide").slide({
+                    titCell: ".hd ul",
+                    mainCell: ".bd ul",
+                    effect: "leftLoop",
+                    vis: "auto",
+                    delayTime: 400,
+                    interTime: 5000,
+                    autoPlay: true,
+                    autoPage: true,
+                    trigger: "click"
+                });
+            </script>
+        </div>
+    </div>
+    </div>
+
+    <div class="clear"></div>
+    <!-- ibox start -->
+    <div id="ibox">
+        <div class="container">
+            <!-- 校区新闻 start -->
+            <div id="ibox1">
+                <div class="home_top wow fadeInUp">
+                    <h3>校区新闻</h3>
+                    <a href="index/xyxw.htm" target=""></a>
+                </div>
+                <div class="ibox1_con">
+                    <div id="ad" class="wow fadeInUp">
+                        <div id="adBox" class="slideBox">
+                            <!--#begineditable name="首页图片" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/tpltitlelist.jsp" tpltype="1" contype="news" clone="" viewid="200951" contentviewid="" tagname="首页图片"--><script language="javascript" src="/system/resource/js/dynclicks.js"></script><div class="bd">
+              <ul>
+                
+<a href="info/1178/2689.htm" title="【疫情防控】北海市教育局、卫健委到北海校区督查指导复学准备情况">
+                <li> <img src="/__local/A/D1/A1/52D822E9A4BE0CC8F8C0467614A_7C867E08_521A0.jpg">
+                  <div class="ad_title">【疫情防控】北海市教育局、卫健委到北海校区督查指导复学准备情况</div>
+                </li>
+                </a>
+
+<a href="info/1178/2662.htm" title="【疫情防控】徐华蕊校长到北海市政府参加桂电北海校区开学工作会议">
+                <li> <img src="/__local/5/4A/69/64F3CCA54A13C6C6B0F80C1DFC9_E5B890FC_1255D4.png">
+                  <div class="ad_title">【疫情防控】徐华蕊校长到北海市政府参加桂电北海校区开学工作会议</div>
+                </li>
+                </a>
+
+<a href="info/1178/2652.htm" title="【疫情防控】徐华蕊校长带队到北海校区检查开学疫情防控筹备工作">
+                <li> <img src="/__local/F/AE/B5/54E3EAD317CE24482BCE9124DA0_3DA72F36_189B4.png">
+                  <div class="ad_title">【疫情防控】徐华蕊校长带队到北海校区检查开学疫情防控筹备工作</div>
+                </li>
+                </a>
+
+<a href="info/1178/2644.htm" title="北海市委常委、常务副市长黄江一行到北海校区督查指导复学准备工作">
+                <li> <img src="/__local/6/7B/BE/E6C9BD1D1701E20739E151AA4BF_271310A2_5A823.jpg">
+                  <div class="ad_title">北海市委常委、常务副市长黄江一行到北海校区督查指导复学准备工作</div>
+                </li>
+                </a>
+
+<a href="info/1178/2612.htm" title="【疫情防控】众志成城齐心抗疫，北海校区全力织牢疫情防控网  ----北海校区抗疫阻击战工作成绩单">
+                <li> <img src="/__local/E/6F/FC/D4248FEBBB1D34B7C1399897491_FD8536EC_79118.png">
+                  <div class="ad_title">【疫情防控】众志成城齐心抗疫，北海校区全力织牢疫情防控网  ----北海校区抗疫阻击战工作成绩单</div>
+                </li>
+                </a>
+
+<a href="info/1178/2608.htm" title="【疫情防控】北海校区学工干部肩负使命抗击疫情">
+                <li> <img src="/__local/9/1D/71/91F803CE2672A6E1BEB523FB2FD_0B50F141_AEB8A.png">
+                  <div class="ad_title">【疫情防控】北海校区学工干部肩负使命抗击疫情</div>
+                </li>
+                </a>
+
+<a href="info/1178/2598.htm" title="北海校区领导为第30期发展对象培训班上党课">
+                <li> <img src="/__local/9/65/3E/DAC247FBB2F00DB33782AE27A21_3316C1B1_387FA.jpg">
+                  <div class="ad_title">北海校区领导为第30期发展对象培训班上党课</div>
+                </li>
+                </a>
+
+</ul>
+            </div>
+            <div class="hd">
+              <ul>
+              </ul>
+            </div>
+            <span class="prev"></span><span class="next"></span><script>_showDynClickBatch(['dynclicks_u3_2689','dynclicks_u3_2662','dynclicks_u3_2652','dynclicks_u3_2644','dynclicks_u3_2612','dynclicks_u3_2608','dynclicks_u3_2598'],[2689,2662,2652,2644,2612,2608,2598],"wbnews", 1411857808)</script>
+<!--#endeditable-->
+                        </div>
+                    </div>
+                    <div id="ibox1_right">
+                        <!--#begineditable name="校区新闻" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/tpltitlelist.jsp" tpltype="1" contype="news" clone="" viewid="200952" contentviewid="" tagname="校区新闻"--><div class="ibox1_item wow fadeInUp">
+            <div class="ibox1_item_title"> <img src="skin/images/arrow1.gif" width="12" height="12">&nbsp; <a href="info/1178/2697.htm">硬核开学！北海校区举行学生返校疫情防...</a>&nbsp;&nbsp;&nbsp;<span> (04-19 )</span></div>
+          </div>
+
+<div class="ibox1_item wow fadeInUp">
+            <div class="ibox1_item_title"> <img src="skin/images/arrow1.gif" width="12" height="12">&nbsp; <a href="info/1178/2696.htm">【疫情防控】桂林电子科技大学北海校区...</a>&nbsp;&nbsp;&nbsp;<span> (04-19 )</span></div>
+          </div>
+
+<div class="ibox1_item wow fadeInUp">
+            <div class="ibox1_item_title"> <img src="skin/images/arrow1.gif" width="12" height="12">&nbsp; <a href="info/1178/2693.htm">北海市人大常委会副主任柳金红一行到北...</a>&nbsp;&nbsp;&nbsp;<span> (04-18 )</span></div>
+          </div>
+
+<div class="ibox1_item wow fadeInUp">
+            <div class="ibox1_item_title"> <img src="skin/images/arrow1.gif" width="12" height="12">&nbsp; <a href="info/1178/2692.htm">【疫情防控】北海校区召开学生返校应急...</a>&nbsp;&nbsp;&nbsp;<span> (04-18 )</span></div>
+          </div>
+
+<div class="ibox1_item wow fadeInUp">
+            <div class="ibox1_item_title"> <img src="skin/images/arrow1.gif" width="12" height="12">&nbsp; <a href="info/1178/2689.htm">【疫情防控】北海市教育局、卫健委到北...</a>&nbsp;&nbsp;&nbsp;<span> (04-17 )</span></div>
+          </div>
+
+<div class="ibox1_item wow fadeInUp">
+            <div class="ibox1_item_title"> <img src="skin/images/arrow1.gif" width="12" height="12">&nbsp; <a href="info/1178/2685.htm">【疫情防控】校区领导到后勤保障部检查...</a>&nbsp;&nbsp;&nbsp;<span> (04-17 )</span></div>
+          </div>
+
+<div class="ibox1_item wow fadeInUp">
+            <div class="ibox1_item_title"> <img src="skin/images/arrow1.gif" width="12" height="12">&nbsp; <a href="info/1178/2684.htm">校区领导一行到北海六禾电子有限公司进...</a>&nbsp;&nbsp;&nbsp;<span> (04-17 )</span></div>
+          </div>
+
+<script>_showDynClickBatch(['dynclicks_u4_2697','dynclicks_u4_2696','dynclicks_u4_2693','dynclicks_u4_2692','dynclicks_u4_2689','dynclicks_u4_2685','dynclicks_u4_2684'],[2697,2696,2693,2692,2689,2685,2684],"wbnews", 1411857808)</script>
+<!--#endeditable-->
+                    </div>
+                </div>
+            </div>
+            <!-- 校区新闻 end -->
+            <!-- 通知公告 start -->
+            <div id="ibox2">
+                <div class="ibox2_top wow fadeInUp">
+                    <h3>通知公告</h3>
+                    <a href="index/tzgongga.htm" target="">查看更多</a></div>
+                <div class="news_con">
+                    <!--#begineditable name="通知公告" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/tpltitlelist.jsp" tpltype="1" contype="news" clone="" viewid="201063" contentviewid="" tagname="通知公告"--><div class="news_item wow fadeInUp">
+<a href="info/1180/2672.htm">
+     </a><div class="ibox1_item_title"><a href="info/1180/2672.htm"> <img src="skin/images/arrow00.gif" width="12" height="12">&nbsp; </a><a href="info/1180/2672.htm">关于北海校区2020年春季学期毕...</a>&nbsp;&nbsp;&nbsp;<span> (04-15)</span></div>
+
+        </div>
+
+<div class="news_item wow fadeInUp">
+<a href="info/1180/2638.htm">
+     </a><div class="ibox1_item_title"><a href="info/1180/2638.htm"> <img src="skin/images/arrow00.gif" width="12" height="12">&nbsp; </a><a href="info/1180/2638.htm">桂林电子科技大学北海校区学生...</a>&nbsp;&nbsp;&nbsp;<span> (04-03)</span></div>
+
+        </div>
+
+<div class="news_item wow fadeInUp">
+<a href="info/1180/2636.htm">
+     </a><div class="ibox1_item_title"><a href="info/1180/2636.htm"> <img src="skin/images/arrow00.gif" width="12" height="12">&nbsp; </a><a href="info/1180/2636.htm">关于做好2020届毕业生参军入伍...</a>&nbsp;&nbsp;&nbsp;<span> (04-03)</span></div>
+
+        </div>
+
+<div class="news_item wow fadeInUp">
+<a href="info/1180/2635.htm">
+     </a><div class="ibox1_item_title"><a href="info/1180/2635.htm"> <img src="skin/images/arrow00.gif" width="12" height="12">&nbsp; </a><a href="info/1180/2635.htm">关于2019 年“课程思政”专业课...</a>&nbsp;&nbsp;&nbsp;<span> (04-03)</span></div>
+
+        </div>
+
+<div class="news_item wow fadeInUp">
+<a href="info/1180/2634.htm">
+     </a><div class="ibox1_item_title"><a href="info/1180/2634.htm"> <img src="skin/images/arrow00.gif" width="12" height="12">&nbsp; </a><a href="info/1180/2634.htm">关于北海校区组织申报2020年度...</a>&nbsp;&nbsp;&nbsp;<span> (04-03)</span></div>
+
+        </div>
+
+<div class="news_item wow fadeInUp">
+<a href="info/1180/2617.htm">
+     </a><div class="ibox1_item_title"><a href="info/1180/2617.htm"> <img src="skin/images/arrow00.gif" width="12" height="12">&nbsp; </a><a href="info/1180/2617.htm">关于编制经费预算的通知</a>&nbsp;&nbsp;&nbsp;<span> (03-30)</span></div>
+
+        </div>
+
+<div class="news_item wow fadeInUp">
+<a href="info/1180/2613.htm">
+     </a><div class="ibox1_item_title"><a href="info/1180/2613.htm"> <img src="skin/images/arrow00.gif" width="12" height="12">&nbsp; </a><a href="info/1180/2613.htm">关于开展“师德大讲堂”的通知</a>&nbsp;&nbsp;&nbsp;<span> (03-26)</span></div>
+
+        </div>
+
+<script>_showDynClickBatch(['dynclicks_u5_2672','dynclicks_u5_2638','dynclicks_u5_2636','dynclicks_u5_2635','dynclicks_u5_2634','dynclicks_u5_2617','dynclicks_u5_2613'],[2672,2638,2636,2635,2634,2617,2613],"wbnews", 1411857808)</script>
+<!--#endeditable-->
+                </div>
+            </div>
+        </div>
+        <!-- 通知公告 end -->
+    </div>
+    </div>
+    <!-- ibox end -->
+
+    <!-- 综合信息 start -->
+    <div id="research">
+        <div class="container">
+            <div class="research_row">
+                <!-- 院部动态 start -->
+                <div class="news_box">
+                    <div class="home_top news_top wow fadeInUp">
+                        <h3>院部动态</h3>
+                        <a href="index/ybdt.htm" target=""></a>
+                    </div>
+                    <div class="news_con">
+                        <!--#begineditable name="院部动态" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/tpltitlelist.jsp" tpltype="1" contype="news" clone="" viewid="200953" contentviewid="" tagname="院部动态"--> <div class="news_item wow fadeInUp"><a href="info/1179/2691.htm">
+     <div class="ibox1_item_title"> <img src="skin/images/arrow00.gif" width="12" height="12" />&nbsp <a href="info/1179/2691.htm">计算机工程学院党总支开展中...</a>&nbsp;&nbsp;&nbsp;<span> (04-17)</span></div>
+            </div>
+
+ <div class="news_item wow fadeInUp"><a href="info/1179/2690.htm">
+     <div class="ibox1_item_title"> <img src="skin/images/arrow00.gif" width="12" height="12" />&nbsp <a href="info/1179/2690.htm">计算机工程学院召开学生返校...</a>&nbsp;&nbsp;&nbsp;<span> (04-17)</span></div>
+            </div>
+
+ <div class="news_item wow fadeInUp"><a href="info/1179/2681.htm">
+     <div class="ibox1_item_title"> <img src="skin/images/arrow00.gif" width="12" height="12" />&nbsp <a href="info/1179/2681.htm">经济与管理学院再研究再部署...</a>&nbsp;&nbsp;&nbsp;<span> (04-16)</span></div>
+            </div>
+
+ <div class="news_item wow fadeInUp"><a href="info/1179/2661.htm">
+     <div class="ibox1_item_title"> <img src="skin/images/arrow00.gif" width="12" height="12" />&nbsp <a href="info/1179/2661.htm">【疫情防控】经济与管理学院...</a>&nbsp;&nbsp;&nbsp;<span> (04-14)</span></div>
+            </div>
+
+ <div class="news_item wow fadeInUp"><a href="info/1179/2648.htm">
+     <div class="ibox1_item_title"> <img src="skin/images/arrow00.gif" width="12" height="12" />&nbsp <a href="info/1179/2648.htm">经济与管理学院师生在线收看...</a>&nbsp;&nbsp;&nbsp;<span> (04-10)</span></div>
+            </div>
+
+ <div class="news_item wow fadeInUp"><a href="info/1179/2631.htm">
+     <div class="ibox1_item_title"> <img src="skin/images/arrow00.gif" width="12" height="12" />&nbsp <a href="info/1179/2631.htm">经济与管理学院召开学生工作...</a>&nbsp;&nbsp;&nbsp;<span> (04-02)</span></div>
+            </div>
+
+ <div class="news_item wow fadeInUp"><a href="info/1179/2622.htm">
+     <div class="ibox1_item_title"> <img src="skin/images/arrow00.gif" width="12" height="12" />&nbsp <a href="info/1179/2622.htm">海洋工程学院召开教学工作推进会</a>&nbsp;&nbsp;&nbsp;<span> (04-01)</span></div>
+            </div>
+
+<script>_showDynClickBatch(['dynclicks_u6_2691','dynclicks_u6_2690','dynclicks_u6_2681','dynclicks_u6_2661','dynclicks_u6_2648','dynclicks_u6_2631','dynclicks_u6_2622'],[2691,2690,2681,2661,2648,2631,2622],"wbnews", 1411857808)</script>
+<!--#endeditable-->
+                    </div>
+                </div>
+            </div>
+            <!-- 院部动态 end -->
+            <!-- 媒体关注 start -->
+            <div class="news_box">
+                <div class="home_top news_top wow fadeInUp">
+                    <h3>媒体关注</h3>
+                    <a href="index/mtgz.htm" target=""></a>
+                </div>
+                <div class="news_con">
+                    <!--#begineditable name="媒体关注" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/tpltitlelist.jsp" tpltype="1" contype="news" clone="" viewid="200954" contentviewid="" tagname="媒体关注"--><div class="news_item wow fadeInUp"><a href="info/1185/2695.htm">
+            <div class="news_item_right">
+              <div class="news_item_title">广西壮族自治区教育厅：桂林电子科技大学...</div>
+              <div class="news_item_des">来源：广西壮族自治区教育厅    面对新冠病毒疫情给高校毕业生就业工作带来的严峻挑战，桂林电子科技大学北海...</div>
+             
+            </div>
+            </a></div>
+
+<div class="news_item wow fadeInUp"><a href="info/1185/2694.htm">
+            <div class="news_item_right">
+              <div class="news_item_title">广西壮族自治区教育厅：桂电北海校区：战...</div>
+              <div class="news_item_des">来源：广西壮族自治区教育厅新冠肺炎疫情以来，桂林电子科技大学北海校区根据教育部、自治区教育厅对疫情防控...</div>
+             
+            </div>
+            </a></div>
+
+<div class="news_item wow fadeInUp"><a href="info/1185/2620.htm">
+            <div class="news_item_right">
+              <div class="news_item_title">北海日报：桂电北海校区扎实推进网上教学</div>
+              <div class="news_item_des">来源：北海日报近日，记者从桂林电子科技大学北海校区获悉，疫情期间，该校本着“教学质量与线下等效同质”的...</div>
+             
+            </div>
+            </a></div>
+
+<script>_showDynClickBatch(['dynclicks_u7_2695','dynclicks_u7_2694','dynclicks_u7_2620'],[2695,2694,2620],"wbnews", 1411857808)</script>
+<!--#endeditable-->
+                </div>
+            </div>
+            <!-- 媒体关注 end -->
+            <!-- 快速导航 start -->
+            <div class="news_box" text-align: center;>
+                <div class="home_top news_top wow fadeInUp">
+                    <h3>快速导航</h3>
+                </div><br />
+                <ul class="dbxgn jkzx">
+                    <br />
+                    <li>
+                        <a href="https://www.guet.edu.cn" target="_blank"> <img src="skin/img/1.png" alt="桂电本部"><br /> 桂电本部
+                        </a>
+                    </li>
+                    <li style="margin-right: 0">
+                        <a href="https://www.guet.edu.cn/gdbh/xqgk/xyfg.htm" target="_blank"> <img src="skin/img/4.png" alt="校园风光"><br /> 校园风光 </a>
+                    </li>
+                    <li style="margin-right: 0">
+                        <a href="http://192.168.4.8:8088/lib/index.asp" target="_blank"> <img src="skin/img/5.png" alt="图书馆"><br /> 图书馆
+                        </a>
+                    </li>
+                    <li style="margin-right: 0">
+                        <a href="http://mail.guet.edu.cn/" target="_blank"> <img src="skin/img/7.png" alt="邮件系统"><br /> 邮件系统 </a>
+                    </li>
+                    <li style="margin-right: 0">
+                        <a href="https://www.guet.edu.cn/bhqfw/" target="_blank"> <img src="skin/img/6.png" alt="清风网"><br /> 清风网 </a>
+                    </li>
+                    <li style="margin-right: 0">
+                        <a href="https://www.guet.edu.cn/gdbh/cpyc.htm" target="_blank"> <img src="skin/img/3.png" alt="诚聘英才"><br /> 诚聘英才 </a>
+                    </li>
+                    <li style="margin-right: 0">
+                        <a href="http://webvpn.gdbh.guet.edu.cn:11280" target="_blank"><img src="skin/img/14.png" alt="WebVPN"><br /> VPN </a>
+                    </li>
+                    <li style="margin-right: 0">
+                        <a href="http://192.168.4.213" target="_blank"> <img src="skin/img/8.png" alt="北海校区智慧校园"><br /> 校区智慧校园 </a>
+                    </li>
+                    <li style="margin-right: 0">
+                        <a href="http://icampus.guet.edu.cn/login.aspx" target="_blank"> <img src="skin/img/11.png" alt="校本部智慧校园"><br /> 本部智慧校园 </a>
+                    </li>
+
+                </ul>
+            </div>
+        </div>
+    </div>
+    </div>
+    </div>
+    <!-- 综合信息 end -->
+
+    <div class="clear"></div>
+    <!-- 友情链接 start -->
+    <div id="link" class="wow fadeInUp">
+        <div class="container">
+            <div class="link_box">
+                <div id="tel" style="font-weight: 400; font-size: 16px;color: #000000">
+                    <div style="width: 115px;float: left;">院部快速导航：</div>
+                    <!--#begineditable name="链接" action="webber.wbst.com.url.ColumnUrl" layout="/system/_component/columnurl/linkguide.jsp" tpltype="0" contype="url" clone="" viewid="200955" contentviewid="" tagname="链接"-->
+
+
+
+
+<table><tr>
+        
+        <td>
+            <A class="c200955" HREF="#" onclick="_addDynClicks('wburl',1411857808,38686)" target="_blank" title="海洋工程学院">
+            	 海洋工程学院 
+            </A>
+             
+        </td>
+            <td class="leaderstyle200955"> |</td>
+        
+        <td>
+            <A class="c200955" HREF="#" onclick="_addDynClicks('wburl',1411857808,38687)" target="_blank">
+            	 电子信息学院 
+            </A>
+             
+        </td>
+            <td class="leaderstyle200955"> |</td>
+        
+        <td>
+            <A class="c200955" HREF="#" onclick="_addDynClicks('wburl',1411857808,38688)" target="_blank">
+            	 计算机工程学院 
+            </A>
+             
+        </td>
+            <td class="leaderstyle200955"> |</td>
+        
+        <td>
+            <A class="c200955" HREF="#" onclick="_addDynClicks('wburl',1411857808,38689)" target="_blank">
+            	 设计与创意学院 
+            </A>
+             
+        </td>
+            <td class="leaderstyle200955"> |</td>
+        
+        <td>
+            <A class="c200955" HREF="#" onclick="_addDynClicks('wburl',1411857808,38690)" target="_blank">
+            	 经济与管理学院 
+            </A>
+             
+        </td>
+            <td class="leaderstyle200955"> |</td>
+        
+        <td>
+            <A class="c200955" HREF="#" onclick="_addDynClicks('wburl',1411857808,38691)" target="_blank">
+            	 基础教学部 
+            </A>
+             
+        </td>
+            <td class="leaderstyle200955"> |</td>
+        
+        <td>
+            <A class="c200955" HREF="#" onclick="_addDynClicks('wburl',1411857808,38692)" target="_blank">
+            	 桂电东盟教育中心 
+            </A>
+             
+        </td>
+            </tr>
+</table><!--#endeditable-->
+                </div>
+                <div id="tel" style="font-weight: 400; font-size: 16px;color: #000000">
+                    桂电北海校区意见箱：beiguanzhb@163.com &nbsp;桂电北海校区纪委举报邮箱：bhxqjw@guet.edu.cn &nbsp;&nbsp;&nbsp;
+                    <a href="http://www.guet.edu.cn/jwjc/jb.jsp?urltype=tree.TreeTempUrl&wbtreeid=1089">
+                        桂林电子科技大学纪检监察举报网站
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- 友情链接 end -->
+    <div class="blank38"></div>
+    <div class="clear"></div>
+    <footer id="footer">
+        <div class="container">
+            <div id="copy_txt" class="wow fadeInUp">Copyright@2008-2018桂林电子科技大学北海校区</div>
+            <div>地址: 广西北海市银海区南珠大道9号 邮编：536000 电话：0779-3221218 传真：0779-3221082 </div>
+        </div>
+    </footer>
+    <script type="text/javascript">
+        $(function() {
+            $("a.c200955").css("FONT-SIZE", "12pt");
+        });
+    </script>
+    <!--版权区结束-->
+    <!-- <div id="adverBox">
+        <div class="img">
+            <a class="close" href="javascript:void(0);"><img src="_Xxx.png" width="100%"></a>
+            <a href="https://www.guet.edu.cn/gdbh/info/1180/1719.htm">
+                <img src="skin/pic/sxh.png">
+            </a>
+        </div>
+    </div> -->
+
+</body>
+
+</html>

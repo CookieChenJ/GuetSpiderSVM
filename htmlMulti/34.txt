@@ -1,0 +1,1594 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<HTML>
+    <HEAD>
+        <TITLE>不忘初心牢记使命学习</TITLE><META Name="keywords" Content="不忘初心牢记使命学习，桂电，桂林电子科技大学" />
+
+
+        <META content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+        <LINK rel="stylesheet" type="text/css" href="style/css.css" />
+
+    <!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="index.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1579944170)</script>
+<!--[if lt IE 7]><script type="text/javascript" src="/system/resource/js/unitpngfix/unitpngfix.js"></script><![endif]-->
+</HEAD>
+    <BODY>
+        <TABLE cellspacing="0" cellpadding="0" width="100%" align="center" background="images/index_banner2.jpg" border="0">
+            <TBODY>
+                <TR>
+                    <TD height="198" background="images/index_banner2.jpg" style="background-repeat: no-repeat; background-position: center top">
+                        <TABLE cellspacing="0" cellpadding="0" width="1000" align="center" border="0">
+                            <TBODY>
+                                <TR>
+                                    <TD width="37">&nbsp;</TD>
+                                    <TD width="963" align="left"><!--#begineditable clone="0" namechanged="0" order="0" ispublic="0" tagname="LOGO" viewid="202245" contentviewid="" contype="" stylesysid="" layout="" action="" name="LOGO"-->
+<table border="0" cellspacing="0" cellpadding="0"><tr><td><img src="images/toplogo2019_3.png" width="963" border="0" alt="不忘初心牢记使命学习" title="不忘初心牢记使命学习"></td></tr></table><!--#endeditable--></TD>
+                                </TR>
+                            </TBODY>
+                        </TABLE>
+                    </TD>
+                </TR>
+            </TBODY>
+        </TABLE>
+        <TABLE cellspacing="0" cellpadding="0" width="100%" align="center" background="images/dh_bg.gif" border="0">
+            <TBODY>
+                <TR>
+                    <TD height="41" align="center">
+                        <TABLE cellspacing="0" cellpadding="0" width="1000" border="0">
+                            <TBODY>
+                                <TR>
+                                    <TD><!--#begineditable clone="0" namechanged="0" order="1" ispublic="0" tagname="网站导航" viewid="202222" contentviewid="" contype="" stylesysid="" layout="" action="" name="网站导航"--><style type="text/css">
+td.b1_1_{FONT-SIZE:9pt;}
+td.b2_1_{FONT-SIZE:9pt;BACKGROUND-IMAGE: url(images/dh_rdbg.gif);}
+td.b3_1_{FONT-SIZE:9pt;BACKGROUND-COLOR: #eff8fe;}
+td.b4_1_{FONT-SIZE:9pt;BACKGROUND-COLOR: #e8f0fb;}
+a.menu0_1_:link {TEXT-DECORATION: none;};
+a.menu0_1_:visited { TEXT-DECORATION: none;};
+a.menu0_1_:hover {TEXT-DECORATION: none;};
+a.menu0_1_:active {TEXT-DECORATION: none;};
+table.tb1_1_{FONT-SIZE:9pt;border:0;}
+span.s1_1_{COLOR: #ffff00;FONT-SIZE: 14px;FONT-WEIGHT: bold;}
+span.s2_1_{FONT-SIZE: 9pt;COLOR: #cc0000;LINE-HEIGHT: 160%;}
+span.s10_1_{COLOR: #ffffff;FONT-SIZE: 14px;FONT-WEIGHT: bold;}
+span.s20_1_{FONT-SIZE: 9pt;COLOR: #222222;LINE-HEIGHT: 160%;}
+</style>
+<SCRIPT language="javascript"> 
+ var showfix_1_ = 1;
+ var isvertical_1_ = false;
+</SCRIPT>
+<script language="javascript" src="/system/resource/js/menu/text.js"></script>
+<TABLE id="t1_1_" cellSpacing="0" cellPadding="0" border="0" height="0" width="1000"><TR><TD valign="center"></TD><TD valign="middle" height="0" width="0" nowrap class="b1_1_" align="center" id="a_1_1001" onmouseover="tshowLayers('1001','b2_1_', '_1_')" onmouseout="thideLayers('1001','b1_1_', '_1_','true','true')"><a class="menu0_1_" href="index.htm"><span class="fontstyle202222">&nbsp;首页&nbsp;</span></a></TD><TD valign="center" class="leaderfont202222"><img src="images/dh_jgx.gif" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_1_" align="center" id="a_1_1004" onmouseover="tshowLayers('1004','b2_1_', '_1_')" onmouseout="thideLayers('1004','b1_1_', '_1_','true','true')"><a class="menu0_1_" href="sjjs.htm"><span class="fontstyle202222">&nbsp;上级精神&nbsp;</span></a></TD><TD valign="center" class="leaderfont202222"><img src="images/dh_jgx.gif" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_1_" align="center" id="a_1_1002" onmouseover="tshowLayers('1002','b2_1_', '_1_')" onmouseout="thideLayers('1002','b1_1_', '_1_','true','true')"><a class="menu0_1_" href="gzjz.htm"><span class="fontstyle202222">&nbsp;工作进展&nbsp;</span></a></TD><TD valign="center" class="leaderfont202222"><img src="images/dh_jgx.gif" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_1_" align="center" id="a_1_1003" onmouseover="tshowLayers('1003','b2_1_', '_1_')" onmouseout="thideLayers('1003','b1_1_', '_1_','true','true')"><a class="menu0_1_" href="jcdt.htm"><span class="fontstyle202222">&nbsp;基层动态&nbsp;</span></a></TD><TD valign="center" class="leaderfont202222"><img src="images/dh_jgx.gif" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_1_" align="center" id="a_1_1005" onmouseover="tshowLayers('1005','b2_1_', '_1_')" onmouseout="thideLayers('1005','b1_1_', '_1_','true','true')"><a class="menu0_1_" href="xxzl.htm"><span class="fontstyle202222">&nbsp;学习资料&nbsp;</span></a></TD><TD valign="center" class="leaderfont202222"><img src="images/dh_jgx.gif" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_1_" align="center" id="a_1_1024" onmouseover="tshowLayers('1024','b2_1_', '_1_')" onmouseout="thideLayers('1024','b1_1_', '_1_','true','true')"><a class="menu0_1_" href="byll.htm"><span class="fontstyle202222">&nbsp;榜样力量&nbsp;</span></a></TD><TD valign="center" class="leaderfont202222"><img src="images/dh_jgx.gif" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_1_" align="center" id="a_1_1025" onmouseover="tshowLayers('1025','b2_1_', '_1_')" onmouseout="thideLayers('1025','b1_1_', '_1_','true','true')"><a class="menu0_1_" href="tzgg.htm"><span class="fontstyle202222">&nbsp;通知公告&nbsp;</span></a></TD><TD valign="center" class="leaderfont202222"><img src="images/dh_jgx.gif" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_1_" align="center" id="a_1_1031" onmouseover="tshowLayers('1031','b2_1_', '_1_')" onmouseout="thideLayers('1031','b1_1_', '_1_','true','true')"><a class="menu0_1_" href="zzdt.htm"><span class="fontstyle202222">&nbsp;整治动态&nbsp;</span></a></TD><TD valign="center" class="leaderfont202222"><img src="images/dh_jgx.gif" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_1_" align="center" id="a_1_1032" onmouseover="tshowLayers('1032','b2_1_', '_1_')" onmouseout="thideLayers('1032','b1_1_', '_1_','true','true')"><a class="menu0_1_" href="mtbd.htm"><span class="fontstyle202222">&nbsp;媒体报道&nbsp;</span></a></TD><TD valign="center" class="leaderfont202222"><img src="images/dh_jgx.gif" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_1_" align="center" id="a_1_1026" onmouseover="tshowLayers('1026','b2_1_', '_1_')" onmouseout="thideLayers('1026','b1_1_', '_1_','true','true')"><a class="menu0_1_" href="cylj.htm"><span class="fontstyle202222">&nbsp;常用链接&nbsp;</span></a></TD></TR></TR></table><!--#endeditable--></TD>
+                                </TR>
+                            </TBODY>
+                        </TABLE>
+                    </TD>
+                </TR>
+            </TBODY>
+        </TABLE>
+        <TABLE cellspacing="0" cellpadding="0" width="100%" align="center" background="images/dh_bg_2.gif" border="0">
+            <TBODY>
+                <TR>
+                    <TD height="31" align="center">
+                        <TABLE cellspacing="0" cellpadding="0" width="970" border="0">
+                            <TBODY>
+                                <TR>
+                                    <TD width="323" align="center"><!--#begineditable clone="0" namechanged="0" order="2" ispublic="0" tagname="文本日历" viewid="202223" contentviewid="" contype="" stylesysid="" layout="" action="" name="文本日历"--><script language="javascript" src="/system/resource/js/calendar/simple.js"></script>               
+<script language="JavaScript">
+//阳历
+var c_Calendar202223EnDateString;
+
+var c_Calendar202223WeekDayString;
+
+//阴历
+var c_Calendar202223CnDateString;
+//节气
+var c_Calendar202223JQString;
+//年
+var c_Calendar202223YearString;
+//月
+var c_Calendar202223MonthString;
+//日
+var c_Calendar202223DayString;
+//周
+var c_Calendar202223WeekString;
+function RunGLNL202223()
+{          
+    var  sc =new Simple_Calendar ();
+    sc.init();
+    c_Calendar202223CnDateString=sc.getCnDateString();
+    c_Calendar202223WeekDayString=sc.getCalendarWeekString();
+    c_Calendar202223JQString=sc.getJQString();
+    c_Calendar202223EnDateString=sc.getEnDateString();
+    c_Calendar202223YearString=sc.getYearString();
+    c_Calendar202223MonthString=sc.getMonthString();
+    c_Calendar202223DayString=sc.getDayString();
+    c_Calendar202223WeekString=sc.getWeekString();
+}
+RunGLNL202223();
+document.write('<div id="c_lunar202223"   class="fontstyle202223"  >');       
+document.write(c_Calendar202223EnDateString);
+document.write("&nbsp;&nbsp;"+c_Calendar202223WeekDayString);
+document.write("&nbsp;&nbsp;"+c_Calendar202223CnDateString);
+
+
+document.write("</div>");
+
+</script>
+<!--#endeditable--></TD>
+                                    <TD width="357"></TD>
+                                    <TD width="290" align="center"><!--#begineditable clone="0" namechanged="0" order="3" ispublic="0" tagname="简单检索" viewid="202231" contentviewid="" contype="" stylesysid="" layout="" action="" name="简单检索"-->
+
+
+
+
+
+
+<script language="javascript" src="/system/resource/js/base64.js"></script>
+<script language="javascript" src="/system/resource/js/formfunc.js"></script>
+<form action="search_info.jsp?wbtreeid=1001" method="post" name="a202231a" target="_blank" onsubmit="return subsearchdataa202231a()" style="display: inline;">
+ <input type="hidden" name="Find" value="find">
+ <input type="hidden" name="entrymode" value="1">
+ <input type="hidden" id="INTEXT2" name="INTEXT2" value="">
+ <input type="hidden" name="news_search_code">
+ <table border="0" cellspacing="0" cellpadding="3">
+  <tr>
+   <td Valign="middle" nowrap="nowrap" height="22">
+    <font class="leaderfont202231">站内搜索：</font>
+    
+        <input type="hidden" name="wbtreeids" value="0">
+    </td><td><span id="intextspana202231a"></span><iframe id="intextframea202231a" src="about:blank" scrolling="no" frameborder="0" style="position:absolute;top:0px;left:0px;display:none;"></iframe><input size="22" name="INTEXT" class="querystyle202231">
+   </td>
+   <td align="absmiddle" nowrap="nowrap" height="1">
+   <input type="image" src="images/an_search.gif" valign="bottom" style="cursor: hand"></td>
+  </tr>
+  
+ </table>
+</form>
+<script>
+String.prototype.trim= function()       
+{              
+    var t = this.replace(/(^\s*)|(\s*$)/g, "");     
+    return t.replace(/(^　*)|(　*$)/g, "");     
+}
+ 
+function subsearchdataa202231a()
+{ 
+	
+	if(document.a202231a.INTEXT.value.trim()=="")
+	{
+		alert("请输入查询关键字！");
+		return false;
+	}
+	
+	
+    if(checkDataa202231a(document.a202231a))
+    {
+       return true;  
+    }
+    return false;
+}       
+</script>
+
+<script> 
+function checkDataa202231a(formname)
+{
+	if(formname.INTEXT.value.trim()=="")
+	{
+		alert("请输入查询关键字！");
+		return false;
+	}
+
+	var  base64 = new Base64();
+    if(window.toFF==1)
+        {
+            var ssvalue = formname.INTEXT.value;
+            formname.INTEXT2.value = Simplized(ssvalue);
+            formname.INTEXT2.value = base64.encode(formname.INTEXT2.value);
+        }else
+        formname.INTEXT2.value = formname.INTEXT.value;
+        formname.INTEXT2.value = base64.encode(formname.INTEXT2.value);
+       return true;
+}
+</script>
+<!--#endeditable--></TD>
+                                </TR>
+                            </TBODY>
+                        </TABLE>
+                    </TD>
+                </TR>
+            </TBODY>
+        </TABLE>
+        <TABLE cellspacing="0" cellpadding="0" width="1000" align="center" bgcolor="#ffffff" border="0">
+            <TBODY>
+                <TR>
+                    <TD height="15"></TD>
+                </TR>
+            </TBODY>
+        </TABLE>
+        <TABLE cellspacing="0" cellpadding="0" width="1000" align="center" bgcolor="#ffffff" border="0">
+            <TBODY>
+                <TR>
+                    <TD height="386" valign="top" width="247" style="padding-left: 15px">
+                        <TABLE cellspacing="0" cellpadding="0" width="232" align="center" background="images/title_bg.jpg" border="0">
+                            <TBODY>
+                                <TR>
+                                    <TD height="31" width="29">&nbsp;</TD>
+                                    <TD class="h4" width="155" align="left">通知公告</TD>
+                                    <TD class="heise12x" width="48">
+                                        <a href="tzgg.htm" target="" style="color:white">更多&gt;&gt;</a>
+                                    </TD>
+                                </TR>
+                            </TBODY>
+                        </TABLE>
+                        <TABLE cellspacing="5" cellpadding="0" width="232" align="center" bgcolor="#ffffff" border="0" style="border-top: #cccccc 1px solid; border-right: #cccccc 1px solid; border-bottom: #cccccc 1px solid; border-left: #cccccc 1px solid">
+                            <TBODY>
+                                <TR>
+                                    <TD valign="top"><!--#begineditable name="通知公告-标题列表" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/titlelist.jsp" tpltype="0" contype="news" clone="" viewid="202477" contentviewid="" tagname="通知公告-标题列表"--><table width="100%" cellspacing="3" cellpadding="0">
+  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202477"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1025/1766.htm" class="c202477" title="关于举办学习贯彻党的十九届四中全会精神专题辅导报告会的通知" target="_blank">
+        关于举办学习贯彻党的十九届四中...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202477" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202477"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1025/1519.htm" class="c202477" title="关于举办“不忘初心、牢记使命”主题教育专题党课的通知" target="_blank">
+        关于举办“不忘初心、牢记使命”...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202477" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202477"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1025/1475.htm" class="c202477" title="关于举办“不忘初心、牢记使命”主题教育专题党课的通知" target="_blank">
+        关于举办“不忘初心、牢记使命”...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202477" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202477"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1025/1317.htm" class="c202477" title="关于举办“不忘初心、牢记使命”主题教育《红色传奇》进高校系列活动桂林电子科技大学分享会的通知" target="_blank">
+        关于举办“不忘初心、牢记使命”...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202477" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202477"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1025/1278.htm" class="c202477" title="关于组织“不忘初心、牢记使命”主题教育知识考试的通知" target="_blank">
+        关于组织“不忘初心、牢记使命”...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202477" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202477"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1025/1253.htm" class="c202477" title="关于认真组织收听收看习近平总书记在庆祝中华人民共和国成立70周年大会上重要讲话的通知" target="_blank">
+        关于认真组织收听收看习近平总书...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202477" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202477"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1025/1157.htm" class="c202477" title="关于举办“我和我的祖国——共和国故事进校园”主题宣讲报告会的通知" target="_blank">
+        关于举办“我和我的祖国——共和...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202477" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202477"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1025/1149.htm" class="c202477" title="关于举办庆祝新中国成立70周年文艺晚会的通知" target="_blank">
+        关于举办庆祝新中国成立70周年文...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202477" width="1%" nowrap></td></tr>
+</table><!--#endeditable--></TD>
+                                </TR>
+                            </TBODY>
+                        </TABLE>
+                        <TABLE cellspacing="0" cellpadding="0" width="100%" align="center" border="0">
+                            <TBODY>
+                                <TR>
+                                    <TD height="10"></TD>
+                                </TR>
+                            </TBODY>
+                        </TABLE>
+                        <TABLE cellspacing="0" cellpadding="0" width="232" align="center" background="images/title_bg.jpg" border="0">
+                            <TBODY>
+                                <TR>
+                                    <TD height="31" width="29">&nbsp;</TD>
+                                    <TD class="h4" width="155" align="left">榜样力量</TD>
+                                    <TD class="heise12x" width="48">
+                                        <a href="byll.htm" target="" style="color:white">更多&gt;&gt;</a>
+                                    </TD>
+                                </TR>
+                            </TBODY>
+                        </TABLE>
+                        <TABLE cellspacing="5" cellpadding="0" width="232" align="center" bgcolor="#ffffff" border="0" style="border-top: #cccccc 1px solid; border-right: #cccccc 1px solid; border-bottom: #cccccc 1px solid; border-left: #cccccc 1px solid">
+                            <TBODY>
+                                <TR>
+                                    <TD height="200" valign="top"><!--#begineditable clone="0" namechanged="0" order="6" ispublic="0" tagname="榜样力量-标题列表" viewid="202256" contentviewid="" contype="" stylesysid="" layout="" action="" name="榜样力量-标题列表"--><table width="100%" cellspacing="3" cellpadding="0">
+  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202256"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1024/1345.htm" class="c202256" title="中共中央关于追授黄文秀同志“全国优秀共产党员”称号的决定" target="_blank">
+        中共中央关于追授黄文秀同志“全...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202256" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202256"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1024/1721.htm" class="c202256" title="做校园“电子团”的引路人——记自治区优秀教师赵中华" target="_blank">
+        做校园“电子团”的引路人——记...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202256" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202256"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1024/1720.htm" class="c202256" title="造中国最稳定的LED产品 ——— 记实验室里走出来的企业家周明" target="_blank">
+        造中国最稳定的LED产品 ——— 记...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202256" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202256"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1024/1492.htm" class="c202256" title="中宣部追授李夏“时代楷模”称号" target="_blank">
+        中宣部追授李夏“时代楷模”称号
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202256" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202256"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1024/1471.htm" class="c202256" title="​新时代的青春之歌——追记用生命坚守初心使命的时代楷模黄文秀" target="_blank">
+        ​新时代的青春之歌——追记用生...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202256" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202256"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1024/1428.htm" class="c202256" title="学校表彰“三全育人”服务育人示范岗及先进个人" target="_blank">
+        学校表彰“三全育人”服务育人示...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202256" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202256"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1024/1261.htm" class="c202256" title="我校孙保燕教授获第五届自治区道德模范提名奖 系广西高校唯一代表" target="_blank">
+        我校孙保燕教授获第五届自治区道...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202256" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202256"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1024/1254.htm" class="c202256" title="向英雄模范学习致敬" target="_blank">
+        向英雄模范学习致敬
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202256" width="1%" nowrap></td></tr>
+</table><!--#endeditable--></TD>
+                                </TR>
+                            </TBODY>
+                        </TABLE>
+                        <TABLE cellspacing="0" cellpadding="0" width="100%" align="center" border="0">
+                            <TBODY>
+                                <TR>
+                                    <TD height="10"></TD>
+                                </TR>
+                            </TBODY>
+                        </TABLE>
+                        <TABLE cellspacing="0" cellpadding="0" width="232" align="center" background="images/title_bg.jpg" border="0">
+                            <TBODY>
+                                <TR>
+                                    <TD height="31" width="29">&nbsp;</TD>
+                                    <TD class="h4" width="155" align="left">媒体报道</TD>
+                                    <TD width="48" class="heise12x" style="font-weight:normal">
+                                        <a href="mtbd.htm" target="" style="color:white">更多&gt;&gt;</a>
+                                    </TD>
+                                </TR>
+                            </TBODY>
+                        </TABLE>
+                        <TABLE cellspacing="5" cellpadding="0" width="232" align="center" bgcolor="#ffffff" border="0" style="border-top: #cccccc 1px solid; border-right: #cccccc 1px solid; border-bottom: #cccccc 1px solid; border-left: #cccccc 1px solid">
+                            <TBODY>
+                                <TR>
+                                    <TD height="195" valign="top"><!--#begineditable clone="0" namechanged="0" order="7" ispublic="0" tagname="媒体报道-标题列表" viewid="202252" contentviewid="" contype="" stylesysid="" layout="" action="" name="学习资料-标题列表"--><table width="100%" cellspacing="3" cellpadding="0">
+  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202252"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1032/1838.htm" class="c202252" title="桂林电视台：“传承2019——中国科学家精神报告团广西行”系列报告会活动走进桂林" target="_blank">
+        桂林电视台：“传承2019——中国...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202252" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202252"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1032/1837.htm" class="c202252" title="中国教育在线：桂林电子科技大学：贯彻落实全会精神,推进主题教育走深走实" target="_blank">
+        中国教育在线：桂林电子科技大学...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202252" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202252"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1032/1836.htm" class="c202252" title="学习强国转载校党委书记张学洪理论文章：在学习遵守党章党规中践行初心使命" target="_blank">
+        学习强国转载校党委书记张学洪理...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202252" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202252"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1032/1835.htm" class="c202252" title="八桂科创：广西科技厅到桂林电子科技大学调研指导科技创新及平台建设工作（图）" target="_blank">
+        八桂科创：广西科技厅到桂林电子...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202252" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202252"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1032/1812.htm" class="c202252" title="广西新闻网转载校党委书记张学洪理论文章：在学习遵守党章党规中践行初心使命" target="_blank">
+        广西新闻网转载校党委书记张学洪...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202252" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202252"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1032/1811.htm" class="c202252" title="中国教育在线:桂林电子科技大学：在主题教育中彰显服务地方发展使命" target="_blank">
+        中国教育在线:桂林电子科技大学：...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202252" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202252"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1032/1810.htm" class="c202252" title="校党委书记张学洪在广西日报发表理论文章：在学习遵守党章党规中践行初心使命" target="_blank">
+        校党委书记张学洪在广西日报发表...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202252" width="1%" nowrap></td></tr>
+</table><!--#endeditable--></TD>
+                                </TR>
+                            </TBODY>
+                        </TABLE>
+                    </TD>
+                    <TD valign="top" width="753" style="padding-left: 15px; padding-right: 15px">
+                        <!--头条文章列表-->
+                        <TABLE cellspacing="0" cellpadding="0" width="722" bgcolor="#fef5ec" border="0" style="border-top: #fcb096 1px solid; border-right: #fcb096 1px solid; border-bottom: #fcb096 1px solid; border-left: #fcb096 1px solid">
+                            <TBODY>
+                                <TR>
+                                    <TD height="95" background="images/toutiao_bg.gif" align="center" style="background-repeat: no-repeat; background-position: right top">
+                                        <!--#begineditable clone="0" namechanged="0" order="8" ispublic="0" tagname="头条文章列表" viewid="202225" contentviewid="" contype="" stylesysid="" layout="" action="" name="头条文章列表"-->
+  
+<table width="100%" cellspacing="0" cellpadding="0">
+    <tr><td colspan="1" align="center" nowrap>
+    
+		<span class="firsttitlestyle202225">
+        	<a href="http://jhsjk.people.cn/article/resultapi?title=%D2%BB%B4%F8%D2%BB%C2%B7&content=&form=0&year=0&submit=%CB%D1%CB%F7" class="c202225" title="习近平系列重要讲话数据库" target="_blank">习近平系列重要讲话数据库</a>
+        </span>    
+		
+
+    </td></tr>
+</table><!--#endeditable-->
+                                    </TD>
+                                </TR>
+                            </TBODY>
+                        </TABLE>
+                        <TABLE cellspacing="0" cellpadding="0" width="100%" align="center" border="0">
+                            <TBODY>
+                                <TR>
+                                    <TD height="10"></TD>
+                                </TR>
+                            </TBODY>
+                        </TABLE>
+                        <!--头条文章列表-->
+
+                        <TABLE cellspacing="5" cellpadding="0" width="100%" align="center" bgcolor="#ffffff" border="0">
+                            <TBODY>
+                                <TR>
+                                     <td height="200" width="297" align="center" valign="top" bgcolor="#fef5ec" style="padding-top:5px;border-top: #fcb096 1px solid; border-right: #fcb096 1px solid; border-bottom: #fcb096 1px solid; border-left: #fcb096 1px solid">
+                                        <!--#begineditable clone="0" namechanged="0" order="9" ispublic="0" tagname="变换图片文章" viewid="202226" contentviewid="" contype="" stylesysid="" layout="" action="" name="变换图片文章"-->
+<LINK href="/system/resource/style/component/news/list/imagechangenews.css" type="text/css" rel="stylesheet">
+<script language="javascript" src="/system/resource/js/news/imagechangenews.js"></script><script language="JavaScript">
+var u_u8_icn = new ImageChangeNews("u_u8_", 280, 180, 4, 2.0, true, false, false, true);
+
+//初始化图片, 并启动定时
+function u_u8_init_img()
+{
+
+    u_u8_icn.addimg("\/__local\/0\/3A\/D6\/CBF6E668296A9BFF9318E3CF63F_2F49BA0D_97A9.jpg", "info\/1021\/1855.htm", "校党委书记张学洪到艺术与...", "");
+
+    u_u8_icn.addimg("\/__local\/D\/E4\/86\/834B5544834842C2695014CAA5D_71EB854E_AB1B.jpg", "info\/1021\/1834.htm", "校党委书记张学洪参加马克...", "");
+
+    u_u8_icn.addimg("\/__local\/D\/94\/3B\/EF4745038213D9FBACE89B9F9D0_725E53D0_A23F.jpg", "info\/1021\/1833.htm", "外国语学院党委召开主题教...", "");
+
+    u_u8_icn.addimg("\/__local\/1\/55\/AE\/883288CFE37E3B7FBE0B294D8B0_7DF4F51E_9741.jpg", "info\/1021\/1832.htm", "桂林市政府副秘书长李顺意...", "");
+
+    u_u8_icn.addimg("\/__local\/B\/4F\/BD\/2E100ECD85F4A4C316B2D6CBE93_1511C3C7_D288.jpg", "info\/1021\/1831.htm", "副校长欧阳缮与分管部门同...", "");
+
+    u_u8_icn.addimg("\/__local\/3\/C8\/98\/D930EFC49CAFCCB2B2010D84806_C3A2602D_AE1C.jpg", "info\/1021\/1815.htm", "学校党委召开“不忘初心、...", "");
+
+    u_u8_icn.changeimg(0);
+}
+</script><table cellspacing="0" cellpadding="0" border="0" style="padding:0px margin:0px; border:0px">
+    <tr><td>
+        <div style="OVERFLOW: hidden;height:180px;width:280px">
+            <div id="u_u8_div" align="center" style="padding:0px;margin:0px;border:0px solid black;background-color:#000000;FILTER: progid:DXImageTransform.Microsoft.RevealTrans (duration=2.0,transition=23);height:180px;width:280px">
+                <div id="u_u8_imgdiv" style="padding:0px;border:0px;"><a id="u_u8_url" target="_blank"><img id="u_u8_pic" border="0" width="280" height="180" src="/system/resource/images/space.gif"></a></div>
+            </div>
+            <div style="filter:alpha(style=1,opacity=10,finishOpacity=80);width:280px;height:19px;text-align:right;top:-19px;position:relative;padding:0px;margin:0px;border:0px;">
+<a href="javascript:u_u8_icn.changeimg(0)" ; id="u_u8_selectNode0" class="imagechangenews_pnode" target="_self">1</a><a href="javascript:u_u8_icn.changeimg(1)" ; id="u_u8_selectNode1" class="imagechangenews_pnode" target="_self">2</a><a href="javascript:u_u8_icn.changeimg(2)" ; id="u_u8_selectNode2" class="imagechangenews_pnode" target="_self">3</a><a href="javascript:u_u8_icn.changeimg(3)" ; id="u_u8_selectNode3" class="imagechangenews_pnode" target="_self">4</a><a href="javascript:u_u8_icn.changeimg(4)" ; id="u_u8_selectNode4" class="imagechangenews_pnode" target="_self">5</a><a href="javascript:u_u8_icn.changeimg(5)" ; id="u_u8_selectNode5" class="imagechangenews_pnode" target="_self">6</a>
+            </div></div></td></tr>
+       
+    <tr><td height="25">
+        <div align="center" style="overflow:hidden;text-overflow:ellipsis;height:25px;width:280px;"><a target="_blank" class="titlestyle202226" id="u_u8_newstitle"></a></div>
+    </td></tr>
+<div align="left" display="none" style="overflow:hidden;text-overflow:ellipsis;height:0px;width:280px;padding-left:2px;padding-right:2px"><a target="_blank" class="summarystyle202226" id="u_u8_newssummary"></a></div>   
+</table><SCRIPT language="JavaScript">u_u8_init_img();</SCRIPT><!--#endeditable-->
+                                    </TD>
+                                    <td width="5"></td>
+                                    <TD valign="top" width="423">
+                                        <TABLE cellspacing="0" cellpadding="0" width="100%" align="center" background="images/title2_bg.gif" border="0">
+                                            <TBODY>
+                                                <TR>
+                                                    <TD height="31" width="25"></TD>
+                                                    <TD class="h5" width="104" align="center" style="padding-top: 4px">上级精神</TD>
+                                                    <TD class="h5" width="218">&nbsp;</TD>
+                                                    <TD class="h5" height="31" width="61"><a href="sjjs.htm" target="_blank" style="font-weight:normal;font-size:12px;">更多&gt;&gt;</a> </TD>
+                                                </TR> 
+                                            </TBODY>
+                                        </TABLE>
+                                        <TABLE cellspacing="0" cellpadding="0" width="100%" border="0" style="height:180px;border-top: #fcb096 1px solid; border-right: #fcb096 1px solid; border-bottom: #fcb096 1px solid; border-left: #fcb096 1px solid">
+                                            <TBODY>
+                                                <tr>
+                                                    <td>
+                                                        <!--#begineditable clone="0" namechanged="0" order="10" ispublic="0" tagname="上级精神-标题列表" viewid="202227" contentviewid="" contype="" stylesysid="" layout="" action="" name="上级精神-标题列表"--><table width="100%" cellspacing="3" cellpadding="0">
+  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202227"><img src="images/ico_002.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1004/1887.htm" class="c202227" title="国家主席习近平发表二〇二〇年新年贺词" target="_blank">
+        国家主席习近平发表二〇二〇年新年贺词
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202227" width="1%" nowrap>01月05日</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202227"><img src="images/ico_002.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1004/1861.htm" class="c202227" title="自治区领导赴各市参加指导“不忘初心、牢记使命”专题民主生活会" target="_blank">
+        自治区领导赴各市参加指导“不忘初心、牢记使命”专题...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202227" width="1%" nowrap>12月17日</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202227"><img src="images/ico_002.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1004/1816.htm" class="c202227" title="中央“不忘初心、牢记使命”主题教育领导小组印发通知 整治“景观亮化工程”过度化等“政绩工程”、“面子工程”问题" target="_blank">
+        中央“不忘初心、牢记使命”主题教育领导小组印发通知 ...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202227" width="1%" nowrap>12月04日</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202227"><img src="images/ico_002.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1004/1809.htm" class="c202227" title="习近平主持召开中共中央政治局会议——审议《中国共产党党和国家机关基层组织工作条例》和《中国共产党国有企业基层组织工作条例（试行）》" target="_blank">
+        习近平主持召开中共中央政治局会议——审议《中国共产...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202227" width="1%" nowrap>12月02日</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202227"><img src="images/ico_002.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1004/1747.htm" class="c202227" title="中央“不忘初心、牢记使命”主题教育领导小组印发《关于第二批主题教育单位基层党组织召开专题组织生活会和开展民主评议党员的通知》" target="_blank">
+        中央“不忘初心、牢记使命”主题教育领导小组印发《关...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202227" width="1%" nowrap>11月21日</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202227"><img src="images/ico_002.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1004/1717.htm" class="c202227" title="《求是》杂志发表习近平总书记重要文章《学习马克思主义基本理论是共产党人的必修课》" target="_blank">
+        《求是》杂志发表习近平总书记重要文章《学习马克思主...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202227" width="1%" nowrap>11月19日</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202227"><img src="images/ico_002.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1004/1667.htm" class="c202227" title="中央主题教育领导小组印发通知要求在第二批主题教育中认真学习贯彻四中全会精神" target="_blank">
+        中央主题教育领导小组印发通知要求在第二批主题教育中...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202227" width="1%" nowrap>11月13日</td></tr>
+</table><!--#endeditable-->
+
+                                                    </td>
+                                                </tr>
+                                            </TBODY>
+                                        </TABLE>
+                                    </TD>
+                                </TR>
+                            </TBODY>
+                        </TABLE>
+                        <TABLE cellspacing="0" cellpadding="0" width="100%" align="center" border="0">
+                            <TBODY>
+                                <TR>
+                                    <TD height="10"></TD>
+                                </TR>
+                            </TBODY>
+                        </TABLE>
+                        <!--工作进展  基层动态-->
+                        <TABLE cellspacing="0" cellpadding="0" width="100%" align="center" border="0">
+                            <TBODY>
+                                <TR>
+                                    <TD height="31" width="356">
+                                        <TABLE cellspacing="0" cellpadding="0" width="356" background="images/title3_bg.jpg" border="0">
+                                            <TBODY>
+                                                <TR>
+                                                    <TD height="31" width="21">&nbsp;</TD>
+                                                    <TD width="274"><SPAN class="h4">工作进展</SPAN></TD>
+                                                    <TD height="31" class="heise12x" width="61"><a href="gzjz.htm" target="_blank" style="color:white;font-weight:normal">更多&gt;&gt;</a> </TD>
+                                                </TR>
+                                            </TBODY>
+                                        </TABLE>
+                                    </TD>
+                                    <TD></TD>
+                                    <TD width="356">
+                                        <TABLE cellspacing="0" cellpadding="0" width="356" background="images/title3_bg.jpg" border="0">
+                                            <TBODY>
+                                                <TR>
+                                                    <TD height="31" width="21">&nbsp;</TD>
+                                                    <TD width="274"><SPAN class="h4">基层动态&nbsp;</SPAN></TD>
+                                                    <TD height="31" width="61" class="heise12x" style="padding-left:2px;"><a href="jcdt.htm" target="_blank" style="color:white;font-weight:normal">更多&gt;&gt;</a> </TD>
+                                                </TR>
+                                            </TBODY>
+                                        </TABLE>
+                                    </TD>
+                                </TR>
+                            </TBODY>
+                        </TABLE>
+                        <TABLE cellspacing="0" cellpadding="0" width="100%" align="center" border="0">
+                            <TBODY>
+                                <TR>
+                                    <TD valign="top" width="354">
+                                        <TABLE cellspacing="5" cellpadding="0" width="356" align="center" bgcolor="#ffffff" border="0" style="border-right: #fcb096 1px solid; border-bottom: #fcb096 1px solid; border-left: #fcb096 1px solid">
+                                            <TBODY>
+                                                <TR>
+                                                    <TD height="151" valign="top"><!--#begineditable clone="0" namechanged="0" order="11" ispublic="0" tagname="工作进展-标题列表" viewid="202228" contentviewid="" contype="" stylesysid="" layout="" action="" name="工作进展-标题列表"--><table width="100%" cellspacing="3" cellpadding="0">
+  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202228"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1002/1881.htm" class="c202228" title="中央电视台报道我校挖掘“校友经济”潜力，共创共赢平台" target="_blank">
+        中央电视台报道我校挖掘“校友经济”潜力，...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202228" width="1%" nowrap>12月25日</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202228"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1002/1885.htm" class="c202228" title="校党委副书记农毅赴贺州市贫困村指导集体经济帮扶项目" target="_blank">
+        校党委副书记农毅赴贺州市贫困村指导集体经...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202228" width="1%" nowrap>12月30日</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202228"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1002/1883.htm" class="c202228" title="学校召开“不忘初心、牢记使命”主题教育“回头看”工作会" target="_blank">
+        学校召开“不忘初心、牢记使命”主题教育“...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202228" width="1%" nowrap>12月26日</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202228"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1002/1882.htm" class="c202228" title="学校与贺州市八步区开展脱贫攻坚工作交流暨政校合作洽谈" target="_blank">
+        学校与贺州市八步区开展脱贫攻坚工作交流暨...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202228" width="1%" nowrap>12月25日</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202228"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1002/1876.htm" class="c202228" title="学校开展本科课堂教学质量专项检查活动" target="_blank">
+        学校开展本科课堂教学质量专项检查活动
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202228" width="1%" nowrap>12月24日</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202228"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1002/1875.htm" class="c202228" title="校长徐华蕊赴贺州市贫困村开展扶贫工作（图）" target="_blank">
+        校长徐华蕊赴贺州市贫困村开展扶贫工作（图）
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202228" width="1%" nowrap>12月23日</td></tr>
+</table><!--#endeditable--></TD>
+                                                </TR>
+                                            </TBODY>
+                                        </TABLE>
+                                    </TD>
+                                    <TD></TD>
+                                    <TD width="354">
+                                        <TABLE cellspacing="5" cellpadding="0" width="356" align="center" bgcolor="#ffffff" border="0" style="border-right: #fcb096 1px solid; border-bottom: #fcb096 1px solid; border-left: #fcb096 1px solid">
+                                            <TBODY>
+                                                <TR>
+                                                    <TD height="151" valign="top"><!--#begineditable clone="0" namechanged="0" order="12" ispublic="0" tagname="基层动态-标题列表" viewid="202232" contentviewid="" contype="" stylesysid="" layout="" action="" name="基层动态-标题列表"--><table width="100%" cellspacing="3" cellpadding="0">
+  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202232"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1003/1884.htm" class="c202232" title="学生工作部开展“新时代讲习所”理论宣讲活动（图）" target="_blank">
+        学生工作部开展“新时代讲习所”理论宣讲活...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202232" width="1%" nowrap>12月27日</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202232"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1003/1872.htm" class="c202232" title="计算机与信息安全学院党委开展主题教育工作评估座谈会（图）" target="_blank">
+        计算机与信息安全学院党委开展主题教育工作...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202232" width="1%" nowrap>12月20日</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202232"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1003/1863.htm" class="c202232" title="金鸡岭校区快递包裹存储柜安装完毕（图）" target="_blank">
+        金鸡岭校区快递包裹存储柜安装完毕（图）
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202232" width="1%" nowrap>12月18日</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202232"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1003/1852.htm" class="c202232" title="工会与保卫处党支部召开专题民主生活会和民主评议党员会议（图）" target="_blank">
+        工会与保卫处党支部召开专题民主生活会和民...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202232" width="1%" nowrap>12月11日</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202232"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1003/1851.htm" class="c202232" title="外国语学院举行团学干部培训班理论学习第三讲暨结业仪式（图）" target="_blank">
+        外国语学院举行团学干部培训班理论学习第三...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202232" width="1%" nowrap>12月11日</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202232"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1003/1850.htm" class="c202232" title="法学院党委召开主题教育专题民主生活会（图）" target="_blank">
+        法学院党委召开主题教育专题民主生活会（图）
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202232" width="1%" nowrap>12月11日</td></tr>
+</table><!--#endeditable--></TD>
+                                                </TR>
+                                            </TBODY>
+                                        </TABLE>
+                                    </TD>
+                                </TR>
+                            </TBODY>
+                        </TABLE>
+                        <TABLE cellspacing="0" cellpadding="0" width="100%" align="center" border="0">
+                            <TBODY>
+                                <TR>
+                                    <TD height="10"></TD>
+                                </TR>
+                            </TBODY>
+                        </TABLE>
+                        <!--结束 工作进展  基层动态-->
+ <TABLE cellspacing="0" cellpadding="0" width="100%" align="center" border="0">
+                            <TBODY>
+                                <TR>
+                                    <TD height="10"></TD>
+                                </TR>
+                            </TBODY>
+                        </TABLE>
+                        
+                        <!--开始  学习资料和整治动态-->
+                        <TABLE cellspacing="0" cellpadding="0" width="100%" align="center" border="0">
+                            <TBODY>
+                                <TR>
+                                    <TD height="31" width="356">
+                                        <TABLE cellspacing="0" cellpadding="0" width="356" background="images/title3_bg.jpg" border="0">
+                                            <TBODY>
+                                                <TR>
+                                                    <TD height="31" width="21">&nbsp;</TD>
+                                                    <TD width="274"><SPAN class="h4">整治动态&nbsp;</SPAN></TD>
+                                                    <TD height="31" class="heise12x" width="61"><a href="zzdt.htm" target="_blank" style="color:white;font-weight:normal">更多&gt;&gt;</a> </TD>
+                                                </TR>
+                                            </TBODY>
+                                        </TABLE>
+                                    </TD>
+                                    <TD></TD>
+                                    <TD width="356">
+                                        <TABLE cellspacing="0" cellpadding="0" width="356" background="images/title3_bg.jpg" border="0">
+                                            <TBODY>
+                                                <TR>
+                                                    <TD height="31" width="21">&nbsp;</TD>
+                                                    <TD width="274"><SPAN class="h4">学习资料&nbsp;</SPAN></TD>
+                                                    <TD height="31" width="61" class="heise12x" style="padding-left:2px;"><a href="xxzl.htm" target="_blank" style="color:white;font-weight:normal">更多&gt;&gt;</a> </TD>
+                                                </TR>
+                                            </TBODY>
+                                        </TABLE>
+                                    </TD>
+                                </TR>
+                            </TBODY>
+                        </TABLE>
+                        <TABLE cellspacing="0" cellpadding="0" width="100%" align="center" border="0">
+                            <TBODY>
+                                <TR>
+                                    <TD valign="top" width="354">
+                                        <TABLE cellspacing="5" cellpadding="0" width="356" align="center" bgcolor="#ffffff" border="0" style="border-right: #fcb096 1px solid; border-bottom: #fcb096 1px solid; border-left: #fcb096 1px solid">
+                                            <TBODY>
+                                                <TR>
+                                                    <TD height="171.2" valign="top"><!--#begineditable name="整治动态-标题列表" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/titlelist.jsp" tpltype="0" contype="news" clone="" viewid="202448" contentviewid="" tagname="整治动态-标题列表"--><table width="100%" cellspacing="3" cellpadding="0">
+  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202448"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1031/1820.htm" class="c202448" title="学校召开科研突出成果奖励办法专题研讨会" target="_blank">
+        学校召开科研突出成果奖励办法专题研讨会
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202448" width="1%" nowrap>12月05日</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202448"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1031/1814.htm" class="c202448" title="学校召开信息科技学院转设专项推进会" target="_blank">
+        学校召开信息科技学院转设专项推进会
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202448" width="1%" nowrap>12月03日</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202448"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1031/1802.htm" class="c202448" title="学校后勤处切实推进校园绿化高标准养护工作（图）" target="_blank">
+        学校后勤处切实推进校园绿化高标准养护工作 ...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202448" width="1%" nowrap>11月28日</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202448"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1031/1792.htm" class="c202448" title="学校多措并举强化本科教学质量监控" target="_blank">
+        学校多措并举强化本科教学质量监控
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202448" width="1%" nowrap>11月27日</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202448"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1031/1783.htm" class="c202448" title="校领导指导国际学院搬迁" target="_blank">
+        校领导指导国际学院搬迁
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202448" width="1%" nowrap>11月26日</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202448"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1031/1770.htm" class="c202448" title="学校开展高校教师系列职称评审条件制定第二轮调研（图）" target="_blank">
+        学校开展高校教师系列职称评审条件制定第二 ...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202448" width="1%" nowrap>11月25日</td></tr>
+</table><!--#endeditable--></TD>
+                                                </TR>
+                                            </TBODY>
+                                        </TABLE>
+                                    </TD>
+                                    <TD></TD>
+                                    <TD width="354">
+                                        <TABLE cellspacing="5" cellpadding="0" width="356" align="center" bgcolor="#ffffff" border="0" style="border-right: #fcb096 1px solid; border-bottom: #fcb096 1px solid; border-left: #fcb096 1px solid">
+                                            <TBODY>
+                                                <TR>
+                                                    <TD height="171.2" valign="top"><!--#begineditable name="学习资料-标题列表" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/titlelist.jsp" tpltype="0" contype="news" clone="" viewid="202450" contentviewid="" tagname="学习资料-标题列表"--><table width="100%" cellspacing="3" cellpadding="0">
+  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202450"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1005/1886.htm" class="c202450" title="图解：如何做好“不忘初心、牢记使命”主题教育总结工作" target="_blank">
+        图解：如何做好“不忘初心、牢记使命”主题...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202450" width="1%" nowrap>01月05日</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202450"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1005/1874.htm" class="c202450" title="建立不忘初心、牢记使命的制度" target="_blank">
+        建立不忘初心、牢记使命的制度
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202450" width="1%" nowrap>12月23日</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202450"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1005/1862.htm" class="c202450" title="建立不忘初心、牢记使命的制度意义重大" target="_blank">
+        建立不忘初心、牢记使命的制度意义重大
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202450" width="1%" nowrap>12月18日</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202450"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1005/1840.htm" class="c202450" title="收藏！人民日报关于主题教育的重要评论合集" target="_blank">
+        收藏！人民日报关于主题教育的重要评论合集
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202450" width="1%" nowrap>12月09日</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202450"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1005/1839.htm" class="c202450" title="为学习助力！主题教育独家学习资料包来了" target="_blank">
+        为学习助力！主题教育独家学习资料包来了
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202450" width="1%" nowrap>12月09日</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont202450"><img src="images/ico_004.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1005/1818.htm" class="c202450" title="必备利器！这套主题教育超全学习工具包快收藏" target="_blank">
+        必备利器！这套主题教育超全学习工具包快收藏
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle202450" width="1%" nowrap>12月04日</td></tr>
+</table><!--#endeditable--></TD>
+                                                </TR>
+                                            </TBODY>
+                                        </TABLE>
+                                    </TD>
+                                </TR>
+                            </TBODY>
+                        </TABLE>
+                        <TABLE cellspacing="0" cellpadding="0" width="100%" align="center" border="0">
+                            <TBODY>
+                                <TR>
+                                    <TD height="10"></TD>
+                                </TR>
+                            </TBODY>
+                        </TABLE>
+                        <!--结束：学习资料和整治动态-->
+                        
+                    </TD>
+                </TR>
+            </TBODY>
+        </TABLE>
+        <TABLE cellspacing="0" cellpadding="0" width="1000" align="center" bgcolor="#ffffff" border="0">
+            <TBODY>
+                <TR>
+                    <TD height="15"></TD>
+                </TR>
+            </TBODY>
+        </TABLE>
+        <TABLE cellspacing="0" cellpadding="0" width="100%" align="center" bgcolor="#bd1c00" border="0">
+            <TBODY>
+                <TR>
+                    <TD height="112">
+                        <TABLE cellspacing="0" cellpadding="0" width="1000" align="center" background="images/end_bg.gif" border="0">
+                            <TBODY>
+                                <TR>
+                                    <TD height="112" align="center"><!--#begineditable clone="0" namechanged="0" order="13" ispublic="0" tagname="版权" viewid="202230" contentviewid="" contype="" stylesysid="" layout="" action="" name="版权"--><p style="text-align: center"><span style="font-size: 9pt; color: #ffffff">Copyright © 桂林电子科技大学--宣传部 版权所有</span> </p><!--#endeditable--></TD>
+                                </TR>
+                            </TBODY>
+                        </TABLE>
+                    </TD>
+                </TR>
+            </TBODY>
+        </TABLE>
+
+    </BODY>
+</HTML>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><HTML><HEAD><TITLE>桂林电子科技大学60周年校庆</TITLE><META Name="keywords" Content="桂林电子科技大学60周年校庆官方网站" />
+
+
+
+
+
+<META content="text/html; charset=UTF-8" http-equiv="Content-Type">
+<META name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"><LINK rel="stylesheet" type="text/css" href="css/GuetWeb.css"><!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<STYLE>
+        #category_1 a p {
+            height: 120px;
+            width: 221px;
+            word-wrap: break-word;
+            display: inline-block;
+            overflow: hidden;
+            text-overflow: ellipsis;}
+
+        #category_9 span {
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;}
+            
+    </STYLE>
+
+
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="index.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/vsbscreen.min.js" id="_vsbscreen" devices="pc|pad"></script>
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1363,'/index.jsp',-1,1630066771)</script>
+</HEAD>
+<BODY><!--第一：头部内容-->
+<DIV class="topbanner">
+<DIV class="main-top"><A class="logo float-l" href="<span style='color:red;font-size:9pt'>转换链接错误</span>" target=""></A>
+<DIV class="headtoolbar float-r"><!--#begineditable clone="0" namechanged="0" order="0" ispublic="0" tagname="顶部链接" viewid="203207" contentviewid="" contype="" stylesysid="" layout="" action="" name="顶部链接"--><script language="javascript" src="/system/resource/js/dynclicks.js"></script><script language="javascript" src="/system/resource/js/openlink.js"></script><a target="_blank" href="http://www.gliet.edu.cn/" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1630066771, 39492)" class="a_style1">【学校主页】</a>
+<!--#endeditable--><BR><BR>
+<DIV class="sear"><!--othersiteview  clone="0" namechanged="0" order="1" ispublic="0" tagname="简单检索" viewid="160194" contentviewid="" contype="" stylesysid="" layout="" action="" name="简单检索"--></DIV><!--#begineditable clone="" namechanged="0" order="0" ispublic="0" tagname="简单检索" viewid="203310" contentviewid="" contype="" stylesysid="" layout="" action="" name="简单检索"-->
+
+
+
+
+
+<form action="search.jsp?wbtreeid=1363" method="post" name="a203310a" onsubmit="return subsearchdataa203310a()" style="display: inline;">
+  <input type="hidden" name="Find" value="find"><input type="hidden" name="entrymode" value="1"><input type="hidden" id="INTEXT2" name="INTEXT2" value=""><input type="hidden" name="news_search_code">
+                <iframe id="intextframea203310a" src="about:blank" scrolling="no" frameborder="0" style="position:absolute;top:0px;left:0px;display:none;"></iframe>
+                <input name="INTEXT" id="qText" type="text" class="float-l sear_word" placeholder="查询关键字" value="" style="border-radius:5px; padding-left:10px">
+                 <input type="submit" name="FindButton" align="absmiddle" valign="bottom" value="" class="float-l sear_button">
+</form>
+
+<script>
+String.prototype.trim= function()       
+{              
+    var t = this.replace(/(^\s*)|(\s*$)/g, "");     
+    return t.replace(/(^　*)|(　*$)/g, "");     
+}  
+function subsearchdataa203310a()
+{ 
+    if(document.a203310a.INTEXT.value.trim()=="")
+    {
+        alert("请输入查询关键字！");
+        return false;
+    }
+    if(checkDataa203310a(document.a203310a))
+    {
+       return true;  
+    }
+    return false;
+}       
+</script>
+
+    <script> 
+    function checkDataa203310a(formname)
+    {
+        if(a203310a.INTEXT.value.trim()=="")
+        {
+            alert("请输入查询关键字！");
+            return false;
+        }       
+        var  base64 = new Base64();
+        if(window.toFF==1)
+            {
+                var ssvalue = a203310a.INTEXT.value;
+                document.a203310a.INTEXT2.value = base64.encode(Simplized(ssvalue));
+            }else
+            document.a203310a.INTEXT2.value = base64.encode(document.a203310a.INTEXT.value);
+           return true;
+    }
+    </script>
+<script language="javascript" src="/system/resource/js/base64.js"></script> 
+<!--#endeditable--></DIV></DIV><!--导航栏-->
+<DIV id="nav" class="nav"><!--#begineditable clone="0" namechanged="0" order="1" ispublic="0" tagname="网站导航" viewid="203209" contentviewid="" contype="" stylesysid="" layout="" action="" name="网站导航"--><ul id="navItems"> <!--  -->
+                <li class="frontMenu">  <!--  --> 
+                    <a href="index.htm" title="校庆首页">校庆首页</a>
+                </li>
+                <li class="frontMenu">  <!--  --> 
+                    <a href="zzjg.htm" title="组织机构">组织机构</a>
+                </li>
+                <li class="frontMenu">  <!--  --> 
+                    <a href="xqdt.htm" title="校庆动态">校庆动态</a>
+                </li>
+                <li class="frontMenu">  <!--  --> 
+                    <a href="xqgg.htm" title="校庆公告">校庆公告</a>
+                </li>
+                <li class="frontMenu">  <!--  --> 
+                    <a href="xgxz.htm" title="相关下载">相关下载</a>
+                </li>
+                <li class="frontMenu">  <!--  --> 
+                    <a href="mtbd.htm" title="媒体报道">媒体报道</a>
+                </li>
+                <li class="frontMenu">  <!--  --> 
+                    <a href="xyyx.htm" title="校园影像">校园影像</a>
+                </li>
+                <li class="frontMenu">  <!--  --> 
+                    <a href="" title="我要捐赠">我要捐赠</a>
+                    <ul>   <!-- class="sub-nav"  -->
+                        <li>
+                              <a href="https://h5.sosho.cn/fs/project/list.html?id=1792&from=groupmessage" target="_blank" title="在线捐赠">在线捐赠</a>
+                        </li>
+                        <li>
+                              <a href="wyjz/jzfs.htm" title="捐赠方式">捐赠方式</a>
+                        </li>
+                    </ul>
+                </li>
+                <li class="frontMenu">  <!--  --> 
+                    <a href="https://www.guet.edu.cn/xyb/" title="桂电校友">桂电校友</a>
+                </li>
+                <li class="frontMenu">  <!--  --> 
+                    <a href="xygy.htm" title="校友感言">校友感言</a>
+                </li>
+            </ul><!--#endeditable--></DIV><!--轮播图-->
+<DIV id="touchMain" class="slide-main"><A class="prev" href="javascript:;" stat="prev1001"><IMG src="images/l-btn.png"></A> <!--#begineditable clone="0" namechanged="0" order="2" ispublic="0" tagname="banner" viewid="203211" contentviewid="" contype="" stylesysid="" layout="" action="" name="幻灯图"--><div class="slide-box" id="slideContent">
+                <div class="slide" id="bgstylea">
+                   <!-- <div class="slide-text">校庆总图</div> -->
+                    <a target="_blank" href="info/1158/1098.htm"><img width="1280" height="410" src="/__local/D/34/D7/B6B073F8F79D4D7097D78E3DFB2_06CCC16D_3CDB6.jpg" /></a>
+                </div>  
+                <div class="slide" id="bgstylea">
+                   <!-- <div class="slide-text">金鸡岭奠基</div> -->
+                    <a target="_blank" href="info/1158/1096.htm"><img width="1280" height="410" src="/__local/C/CF/33/BEC9DA79875FBE78E7DF45B9A27_47758CED_3621B.jpg" /></a>
+                </div>  
+                <div class="slide" id="bgstylea">
+                   <!-- <div class="slide-text">80年代大门</div> -->
+                    <a target="_blank" href="info/1158/1095.htm"><img width="1280" height="410" src="/__local/7/40/D9/035AB4EA4A30BFA2828E8176332_355437E2_38CE6.jpg" /></a>
+                </div>  
+                <div class="slide" id="bgstylea">
+                   <!-- <div class="slide-text">90年代校门1</div> -->
+                    <a target="_blank" href="info/1158/1094.htm"><img width="1280" height="410" src="/__local/B/C2/D5/5B6F187C8B555102745ED84242E_D9692F0C_4441E.jpg" /></a>
+                </div>  
+                <div class="slide" id="bgstylea">
+                   <!-- <div class="slide-text">三十周年校庆</div> -->
+                    <a target="_blank" href="info/1158/1114.htm"><img width="1280" height="410" src="/__local/6/61/9E/3328569238EF68D4EE48B50366E_2B44B4B6_1C374.jpg" /></a>
+                </div>  
+                <div class="slide" id="bgstylea">
+                   <!-- <div class="slide-text">四十周年校庆</div> -->
+                    <a target="_blank" href="info/1158/1112.htm"><img width="1280" height="410" src="/__local/A/75/D6/77225DE84DC9A866A442FB068C5_FB39B3B3_35A55.jpg" /></a>
+                </div>  
+                <div class="slide" id="bgstylea">
+                   <!-- <div class="slide-text">五十周年校庆</div> -->
+                    <a target="_blank" href="info/1158/1111.htm"><img width="1280" height="410" src="/__local/E/9A/B0/FB605FE847AEB9250EE0595E07E_946A6C04_46922.jpg" /></a>
+                </div>  
+</div>
+<a class="next" href="javascript:;" stat="next1002"><img src="images/r-btn.png"></a>
+    <div id="items" class="item">
+    <a href="javascript:;" stat="item1001"></a>
+    <a href="javascript:;" stat="item1002"></a>
+    <a href="javascript:;" stat="item1003"></a>
+    <a href="javascript:;" stat="item1004"></a>
+    <a href="javascript:;" stat="item1005"></a>
+    <a href="javascript:;" stat="item1006"></a>
+    <a href="javascript:;" stat="item1007"></a>
+    </div><script>_showDynClickBatch(['dynclicks_u3_1098','dynclicks_u3_1096','dynclicks_u3_1095','dynclicks_u3_1094','dynclicks_u3_1114','dynclicks_u3_1112','dynclicks_u3_1111'],[1098,1096,1095,1094,1114,1112,1111],"wbnews", 1630066771)</script>
+<!--#endeditable--></DIV></DIV><!--/topbanner--><!--第二：主体内容-->
+<DIV class="content">
+<DIV class="con_tittle_mid">
+<UL id="tabs2" class="tabs">
+<LI class="thistab"><A href="xwzx/xsxq.htm" target="_self">学术校庆</A> </LI>
+<LI><A href="xwzx/whxq.htm" target="_self">文化校庆</A> </LI>
+<LI><A href="xwzx/xyxq.htm" target="_self">校友校庆</A> </LI></UL></DIV><!--21校庆开始-->
+<DIV class="news2 float-l margintop15 ">
+<DIV class="con_tittle">
+<P class="con_tittle_l float-l">校庆动态</P><A class="con_tittle_r float-r" href="xqdt.htm" target="_blank">更多&gt;&gt;</A> </DIV><!--/con_tittle-->
+<UL id="tab_conbox1">
+<LI class="new_imgtit" style="display: list-item"><!--#begineditable clone="0" namechanged="0" order="3" ispublic="0" tagname="校庆动态" viewid="203245" contentviewid="" contype="" stylesysid="" layout="" action="" name="校庆动态"--><a href="info/1352/1126.htm" target="_blank" title="我校召开60周年校庆第二次筹备工作推进会（图）">
+        <img alt="" src="/__local/6/32/B4/33854F9D94699C5B457E2F61DB6_17BA7400_387AC.jpg" width="221" height="141" float="left">
+        <h1>我校召开60周年校庆第二次筹备工作推进会（图）</h1>
+        <p>3月30日上午，我校在花江校区办公楼515会议室召开第二次60周年校庆筹...</p>
+ </a>    
+<a href="info/1352/1125.htm" target="_blank" title="计算机与信息安全学院召开校庆启动工作会议">
+        <img alt="" src="/system/resource/images/defaultimg.gif" width="221" height="141" float="left">
+        <h1>计算机与信息安全学院召开校庆启动工作会议</h1>
+        <p>2020年9月学校将迎来60周年华诞，同时也是计算机与信息安全学院40周年...</p>
+ </a>    
+<a href="info/1292/1121.htm" target="_blank" title="【文化校庆】艺术与设计学院举行学校60周年校庆纪念品方案初审会">
+        <img alt="" src="/__local/3/92/7F/8006FB86D3E6E80AD8C04CDE9DE_E614BA41_680D8.png" width="221" height="141" float="left">
+        <h1>【文化校庆】艺术与设计学院举行学校60周年校庆...</h1>
+        <p>​3月24日，艺术与设计学院在花江校区18教205室举行了学校60周年校庆...</p>
+ </a>    
+<a href="info/1352/1107.htm" target="_blank" title="校庆六十周年公告情牵师生、校友引发热烈反响（图）">
+        <img alt="" src="/__local/D/8D/05/B1A785065E7D84FF3056C6682B2_71AC6CC3_343AC.png" width="221" height="141" float="left">
+        <h1>校庆六十周年公告情牵师生、校友引发热烈反响（图）</h1>
+        <p>​3月19日，我校在校园网、官方微信公众号等正式发布桂林电子科技大学...</p>
+ </a>    
+<a href="info/1352/1101.htm" target="_blank" title="学校召开60周年校庆筹备工作推进会（图）">
+        <img alt="" src="/__local/E/DB/B5/0EBDC54618821D65FCECD7D8A28_F71A7ABA_3CE02.jpg" width="221" height="141" float="left">
+        <h1>学校召开60周年校庆筹备工作推进会（图）</h1>
+        <p>3月12日下午，我校在花江校区多功能厅召开60周年校庆筹备工作推进会，...</p>
+ </a>    
+<a href="info/1352/1102.htm" target="_blank" title="我校召开2019年“携手共进，喜迎学校60周年校庆”校友工作会议（图）">
+        <img alt="" src="/__local/4/BA/CC/49A7DEAE86C70BE45B25918713F_B126AED5_3DD98.jpg" width="221" height="141" float="left">
+        <h1>我校召开2019年“携手共进，喜迎学校60周年校庆...</h1>
+        <p>11月30日，我校召开2019年“携手共进，喜迎学校60周年校庆”校友工作...</p>
+ </a>    
+<script>_showDynClickBatch(['dynclicks_u4_1126','dynclicks_u4_1125','dynclicks_u4_1121','dynclicks_u4_1107','dynclicks_u4_1101','dynclicks_u4_1102'],[1126,1125,1121,1107,1101,1102],"wbnews", 1630066771)</script>
+<!--#endeditable--></LI></UL></DIV><!--/news2 float-l margintop15--><!--22校庆结束-->
+<DIV class="newsflash float-r margintop15" style="height: 260px; width: 470px">
+<DIV class="con_tittle">
+<P class="con_tittle_l float-l">校庆公告</P><A class="con_tittle_r float-r" href="xqgg.htm" target="_blank">更多&gt;&gt;</A> </DIV>
+<UL id="tab_conbox2" class="new_list">
+<LI style="display: list-item"><!--#begineditable clone="0" namechanged="0" order="4" ispublic="0" tagname="校庆公告" viewid="203246" contentviewid="" contype="" stylesysid="" layout="" action="" name="校庆公告"-->   <a href="info/1351/1086.htm" target="_blank" title="桂林电子科技大学校庆六十周年公告(第1号)" target="_blank"><span>03-19</span><span> 桂林电子科技大学校庆六十周年公告(第1号)</span> </a>
+   <a href="info/1351/1124.htm" target="_blank" title="【校史馆捐赠活动】点滴都是爱！母校校史馆重建需要“众人拾柴”" target="_blank"><span>03-27</span><span> 【校史馆捐赠活动】点滴都是爱！母校校史馆重建需要“众人拾柴”</span> </a>
+   <a href="info/1351/1087.htm" target="_blank" title="【照片征集活动】上传青春照片 分享桂电记忆" target="_blank"><span>03-23</span><span> 【照片征集活动】上传青春照片 分享桂电记忆</span> </a>
+   <a href="info/1351/1109.htm" target="_blank" title="【校庆标识征集活动】桂电60周年校庆标识邀你来设计" target="_blank"><span>03-13</span><span> 【校庆标识征集活动】桂电60周年校庆标识邀你来设计</span> </a>
+<script>_showDynClickBatch(['dynclicks_u5_1086','dynclicks_u5_1124','dynclicks_u5_1087','dynclicks_u5_1109'],[1086,1124,1087,1109],"wbnews", 1630066771)</script>
+<!--#endeditable--></LI></UL></DIV>
+<DIV class="newsflash float-r margintop15" style="height: 370px; width: 472px">
+<DIV class="con_tittle">
+<P class="con_tittle_l float-l">媒体报道</P><A class="con_tittle_r float-r" href="mtbd.htm" target="_blank">更多&gt;&gt;</A> </DIV>
+<UL id="tab_conbox3" class="new_list">
+<LI style="display: list-item"><!--#begineditable clone="0" namechanged="0" order="5" ispublic="0" tagname="媒体报道" viewid="203247" contentviewid="" contype="" stylesysid="" layout="" action="" name="媒体报道"--> <li id="category_2" style="display: list-item">
+   <a href="info/1349/1088.htm" target="_blank" title="中国教育在线：桂林电子科技大学校庆60周年公告第1号" target="_blank"><span>03-23</span><span> 中国教育在线：桂林电子科技大学校庆60周年公告第1号</span> </a>
+<script>_showDynClickBatch(['dynclicks_u6_1088'],[1088],"wbnews", 1630066771)</script>
+<!--#endeditable--></LI></UL></DIV><!-- 23专题和快捷导航-->
+<DIV class="newsflash float-l margintop15" style="height: 500px; width: 1280px">
+<DIV class="con_tittle" style="height: 40px; width: 100%">
+<P class="con_tittle_l float-l">校园影像</P><A class="con_tittle_r float-r" href="xyyx.htm" target="_blank">更多&gt;&gt;</A> </DIV>
+<DIV class="imglist2 float-l margintop15"><!--#begineditable clone="0" namechanged="0" order="6" ispublic="0" tagname="校园影像" viewid="203297" contentviewid="" contype="" stylesysid="" layout="" action="" name="校园影像"--><a href="info/1354/1057.htm" target="_blank" title="紫荆花雨">
+        <img alt="" src="/__local/7/0A/89/BBAF8C3F6F9666E2FEED57768F6_4442BC68_83E2D.jpg" width="310" height="200" float="left">
+               </a>    
+<a href="info/1354/1105.htm" target="_blank" title="花江校区">
+        <img alt="" src="/__local/6/69/99/206440C46FE6072FDCFE3905FFC_8FDE19A6_5CDC4.jpg" width="310" height="200" float="left">
+               </a>    
+<a href="info/1354/1117.htm" target="_blank" title="致桂电校友|你是我最美的遇见">
+        <img alt="" src="/__local/9/2E/39/2B7EC1BB8563D90960A3276E9ED_802FBCCB_6ACD7.png" width="310" height="200" float="left">
+               </a>    
+<a href="info/1354/1119.htm" target="_blank" title="校运会">
+        <img alt="" src="/__local/4/65/49/82F75A992FF29E9B58A9C96DC05_CC86AF30_67B5B.jpg" width="310" height="200" float="left">
+               </a>    
+<a href="info/1354/1045.htm" target="_blank" title="毕业季">
+        <img alt="" src="/__local/0/33/7E/62B648C951EFF5D262A70ECF143_F9A46340_37821.jpg" width="310" height="200" float="left">
+               </a>    
+<a href="info/1354/1115.htm" target="_blank" title="落花">
+        <img alt="" src="/__local/3/8A/33/291033E6D3F23699D3AA57443D2_5B657040_64D62.jpg" width="310" height="200" float="left">
+               </a>    
+<a href="info/1354/1110.htm" target="_blank" title="烟雨校园2020">
+        <img alt="" src="/__local/3/24/7D/085BE452BD6EA2694D2857865CD_9DA28DDF_2F6E7.jpg" width="310" height="200" float="left">
+               </a>    
+<a href="info/1354/1085.htm" target="_blank" title="日出日落">
+        <img alt="" src="/__local/3/F4/3F/CC5A43D27DAC0FAC4786F435A8A_56E07594_13D49.jpg" width="310" height="200" float="left">
+               </a>    
+<script>_showDynClickBatch(['dynclicks_u7_1057','dynclicks_u7_1105','dynclicks_u7_1117','dynclicks_u7_1119','dynclicks_u7_1045','dynclicks_u7_1115','dynclicks_u7_1110','dynclicks_u7_1085'],[1057,1105,1117,1119,1045,1115,1110,1085],"wbnews", 1630066771)</script>
+<!--#endeditable--></DIV></DIV></DIV><!-- content--><!-- 第三 底部-->
+<DIV class="footerimg"></DIV>
+<DIV class="footer">
+<DIV class="footercenter"><SPAN><!--#begineditable clone="0" namechanged="0" order="7" ispublic="0" tagname="版权" viewid="203226" contentviewid="" contype="" stylesysid="" layout="" action="" name="版权"--><!-- 版权内容请在本组件"内容配置-版权"处填写 -->
+<p>©版权所有：桂林电子科技大学　校址：中国广西桂林金鸡路1号　邮编：541004　传真：0773-2290083</p><p style="text-align: center;height:20px;line-height:20px;margin: 0px 0px 0px 5px;"><a href="http://www.beian.miit.gov.cn" target="_blank">桂ICP备05000961号</a>&nbsp; &nbsp; <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=45030502000232" style="display:inline-block;text-decoration:none;height:20px;line-height:20px"><img src="/__local/D/02/89/DC0A46FC5B15B3363FFA78CF6C7_C267B386_4B38.png" />桂公网安备45030502000232号</a>&nbsp;<br /></p><!--#endeditable--></SPAN><A class="blue_error" href="http://bszs.conac.cn/sitename?method=show&amp;id=17A7818D2EE94AB9E053012819ACB5C4" target="_blank"><IMG alt="" src="images/blue_error.png" width="80" height="80"> </A></DIV></DIV><script type="text/javascript" src="js/jquery.min.js"></script><script src="js/banSlide.js"></script><script>
+        function SearchNews(){
+            var qText = $("#qText").val();
+            if (!qText)
+            {
+                alert('请输入要查询的关键字！');
+                return;
+            }
+           // window.location.href = "/ListAndDetail?qText=" + qText;
+        }
+
+        //顶部导航菜单
+          $('li.frontMenu').hover(
+          function(){
+              $(this).find('a:first').addClass("hover");
+              var current_li=$(this);
+              NavWaitSlide = setTimeout(function() {
+                  if(!$(current_li).children('ul').is(':visible'))
+                  {
+                        $(current_li).find('ul').slideDown(200);
+                  }
+              },100)
+          },
+         function(){
+              clearTimeout(NavWaitSlide);
+              $(this).find('ul').slideUp(100);
+              $(this).find('a:first').removeClass("hover");
+          }
+        );
+
+    </script><!--<script type="text/javascript" src="js/jquery.js"></script>--><!--<script type="text/javascript" src="js/main.js"></script>--><script type="text/javascript" src="js/index.js"></script><script>
+
+        $(document).ready(function () {
+            jQuery.jqtab = function (tabtit, tab_conbox, shijian) {
+                $(tab_conbox).find("li").hide();
+                $(tabtit).find("li:first").addClass("thistab").show();
+                $(tab_conbox).find("li:first").show();
+
+                $(tabtit).find("li").bind(shijian, function () {
+                    $(this).addClass("thistab").siblings("li").removeClass("thistab");
+                    $(tab_conbox).children().eq($(this).index()).show().siblings().hide();
+                    return false;
+                });
+
+            };
+            
+            $.jqtab("#tabs1", "#tab_conbox1", "mouseenter");
+            
+            $.jqtab("#tabs3", "#tab_conboxNotice", "mouseenter");           
+            $.jqtab("#tabs2", "#tab_conbox2", "mouseenter");
+            slideInit();
+        });
+    </script>
+
+</BODY></HTML>

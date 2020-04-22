@@ -1,0 +1,396 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>中心简介-北海校区毕业生就业网</title><META Name="keywords" Content="北海校区毕业生就业网,留言咨询" />
+
+    <link rel="stylesheet" href="../../css/style.css" type="text/css">
+    <link rel="stylesheet" href="../../css/publice.css" type="text/css">
+    <script type="text/javascript" src="../../js/jquery-1.8.3.min.js"></script>
+    <script type="text/javascript" src="../../js/jquery.js"></script>
+    <script type="text/javascript" src="../../js/superslide.2.1.js"></script>
+    <script type="text/javascript" src="../../js/jquery.soChange.js"></script>
+    <script type="text/javascript" src="../../js/index.js"></script>
+    <script type="text/javascript">
+        $(function() {
+            $(".mainmenu dl").hide();
+            $("li.mainmenu").hover(function() {
+                $(this).find("dl").stop(true, true);
+                $(this).find("dl").slideDown();
+            }, function() {
+                $(this).find("dl").stop(true, true);
+                $(this).find("dl").slideUp();
+            });
+        })
+    </script>
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="../../_sitegray/_sitegray_d.css" />
+<script language="javascript" src="../../_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="../../content.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/vsbscreen.min.js" id="_vsbscreen" devices="pc|pad"></script>
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1092,'/content.jsp',1246,1597863513)</script>
+</head>
+
+<body>
+    <!--top s-->
+    <div class="topWrap clearfix">
+        <div class="topDiv">
+
+            <!--#begineditable name="高校LOGO" viewid="202654" tagname="高校LOGO" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""-->
+<!-- 网站logo图片地址请在本组件"内容配置-网站logo"处填写 -->
+<div class="logo">
+<a href="../../index.htm"><img src="../../images/logo-2.png"></a>
+</div><!--#endeditable-->
+
+            <div class="topR fr">
+                <!--<a href="#">网站旧版</a>|<a href="#">学校首页</a>|<a href="#">中文版</a>|<a href="#">English</a>-->
+                <!--#begineditable name="头部检索" viewid="202656" tagname="头部检索" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><script type="text/javascript">
+    function _nl_ys_check_2(){
+        
+        var keyword = document.getElementById('showkeycode202656_2').value;
+        if(keyword==null||keyword==""){
+            alert("请输入关键字搜索");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkeyword202656").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkeyword202656").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkeyword202656").value = base64.encode(document.getElementById("lucenenewssearchkeyword202656").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode202656_2"));
+        return true;
+    } 
+    function submitForm()
+    {
+        document.getElementById("au1a").submit();
+    }
+</script>
+<script type="text/javascript">
+                function test3()
+                {
+                    var tempStr=document.getElementById('showkeycode202656_2').value;
+                    if(tempStr=="请输入关键字搜索")
+                    {
+                        document.getElementById('showkeycode202656_2').value="";
+                    }
+                }
+                function test4()
+                {
+                    var tempStr=document.getElementById('showkeycode202656_2').value;
+                    if(tempStr=="")
+                    {
+                        document.getElementById('showkeycode202656_2').value="请输入关键字搜索";
+                    }
+                }
+            </script>
+<div class="Search">
+<form action="../../ssjg.jsp?wbtreeid=1092" method="post" id="au1a" name="au1a" onsubmit="return _nl_ys_check_2()">
+ <input type="hidden" id="lucenenewssearchkeyword202656" name="lucenenewssearchkeyword" value=""><input type="hidden" id="_lucenesearchtype202656" name="_lucenesearchtype" value="1"><input type="hidden" id="searchScope202656" name="searchScope" value="1">
+ <input type="text" value="请输入关键字搜索" name="showkeycode" class="search_text" onfocus="test3()" onblur="test4()" id="showkeycode202656_2" />
+                <div class="fdj fr"><input type="image" src="../../img/top_hunt.png" value="" style="padding-right:10px;;cursor: hand"></div>
+</form>
+</div><script language="javascript" src="/system/resource/js/base64.js"></script><script language="javascript" src="/system/resource/js/formfunc.js"></script>
+<!--#endeditable-->
+            </div>
+        </div>
+    </div>
+    <!--nav-->
+    <!--#begineditable name="主导航" viewid="202679" tagname="主导航" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><div class="navWrap  clearfix">
+    <div class="nav">
+    <ul>
+            <li>
+            <a class="link" href="../../index.htm">首页</a>
+                        
+        </li>
+        <li class="mainmenu">
+            <a class="link" href="https://www.guet.edu.cn/xxjj.htm">学校概况</a>
+        </li>
+        <li class="mainmenu">
+            <a class="link" href="https://www.guet.edu.cn/gdbh/xqgk/xqjj.htm">校区概况</a>
+        </li>
+        <li class="mainmenu">
+            <a class="link" href="../../xwgg1/tzgg.htm">新闻公告</a>
+            <!--如果是导航字数很多，则加上 class="chang"，否则去掉即可-->
+            <dl class="chang">
+                    <dd><a href="../../xwgg1/tzgg.htm" title="通知公告">通知公告</a></dd>
+                    <dd><a href="../../xwgg1/jydong_ta.htm" title="就业动态">就业动态</a></dd>
+            </dl>
+        </li>
+        <li class="mainmenu">
+            <a class="link" href="../../zp/xyzp.htm">招聘信息</a>
+            <!--如果是导航字数很多，则加上 class="chang"，否则去掉即可-->
+            <dl class="chang">
+                    <dd><a href="../../zp/xyzp.htm" title="校园招聘">校园招聘</a></dd>
+                    <dd><a href="../../zp/wlzp.htm" title="网络招聘">网络招聘</a></dd>
+            </dl>
+        </li>
+        <li class="mainmenu">
+            <a class="link" href="../../xsfw1/zcfg.htm">学生服务</a>
+            <!--如果是导航字数很多，则加上 class="chang"，否则去掉即可-->
+            <dl class="chang">
+                    <dd><a href="../../xsfw1/zcfg.htm" title="政策法规">政策法规</a></dd>
+                    <dd><a href="../../xsfw1/jyzd.htm" title="就业指导">就业指导</a></dd>
+                    <dd><a href="../../xsfw1/sxbl.htm" title="手续办理">手续办理</a></dd>
+                    <dd><a href="../../xsfw1/zycp.htm" title="职业测评">职业测评</a></dd>
+                    <dd><a href="../../xsfw1/sygh.htm" title="生涯规划">生涯规划</a></dd>
+            </dl>
+        </li>
+        <li class="mainmenu">
+            <a class="link" href="../../dan_wei_f/yyzczp.htm">单位服务</a>
+            <!--如果是导航字数很多，则加上 class="chang"，否则去掉即可-->
+            <dl class="chang">
+                    <dd><a href="../../dan_wei_f/yyzczp.htm" title="预约专场招聘">预约专场招聘</a></dd>
+                    <dd><a href="../../dan_wei_f/wlfbxx.htm" title="网络发布信息">网络发布信息</a></dd>
+                    <dd><a href="../../dan_wei_f/fwzn.htm" title="服务指南">服务指南</a></dd>
+            </dl>
+        </li>
+        <li class="mainmenu">
+            <a class="link" href="../../zyjs_xs/hygcxue_yuan.htm">专业介绍</a>
+            <!--如果是导航字数很多，则加上 class="chang"，否则去掉即可-->
+            <dl class="chang">
+                    <dd><a href="../../zyjs_xs/hygcxue_yuan.htm" title="海洋工程学院">海洋工程学院</a></dd>
+                    <dd><a href="../../zyjs_xs/dzxxxy.htm" title="电子信息学院">电子信息学院</a></dd>
+                    <dd><a href="../../zyjs_xs/jsjgcxy.htm" title="计算机工程学院">计算机工程学院</a></dd>
+                    <dd><a href="../../zyjs_xs/sjycyxy.htm" title="设计与创意学院">设计与创意学院</a></dd>
+                    <dd><a href="../../zyjs_xs/jjyglxy.htm" title="经济与管理学院">经济与管理学院</a></dd>
+                    <dd><a href="../../zyjs_xs/ssyjszy1.htm" title="硕士研究生专业">硕士研究生专业</a></dd>
+            </dl>
+        </li>
+        <li class="mainmenu">
+            <a class="link" href="../../byszy.htm">毕业生资源</a>
+        </li>
+        <li class="mainmenu">
+            <a class="link" href="https://www.guet.edu.cn/bh_jy/info/1092/1246.htm">联系我们</a>
+            <!--如果是导航字数很多，则加上 class="chang"，否则去掉即可-->
+            <dl class="chang">
+                    <dd><a href="../../lyb.jsp?urltype=tree.TreeTempUrl&wbtreeid=1133" title="留言板">留言板</a></dd>
+            </dl>
+        </li>
+     
+    </ul>
+</div>
+</div>
+<script type="text/javascript">
+
+    $(".mainmenu dl").hide();
+
+</script><!--#endeditable-->
+
+    <!--main-->
+    <div class="mainWrap clearfix">
+        <!--#begineditable name="当前位置" viewid="202684" tagname="当前位置" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--><div class="main_tit">
+        <div class="main_titT main_titTa">
+            <img src="../../img/bri_icon1.png">
+
+<a href="../../index.htm">首页</a>>
+<a href="https://www.guet.edu.cn/bh_jy/info/1092/1246.htm" class="cur">联系我们</a>
+        </div>
+</div>
+<!--#endeditable-->
+        <!--#begineditable name="文章内容" viewid="202688" tagname="文章内容" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""-->
+<script language="javascript" src="/system/resource/js/dynclicks.js"></script><script language="javascript" src="../../_dwr/interface/NewsvoteDWR.js"></script><script language="javascript" src="../../_dwr/engine.js"></script><script language="javascript" src="/system/resource/js/news/newscontent.js"></script><script type="text/javascript">NewsvoteDWR.getNewsLinkUrl(1246,'1597863513','vsb',newsSkip);function newsSkip(data){if(data != ""){window.location.href = data;}}</script><script language="javascript" src="/system/resource/js/ajax.js"></script><form name="_newscontent_fromname">
+<div class="main_content">
+<div class="main_contit">
+            <h2>中心简介</h2>
+            <p>        <span>来源：        
+
+        </span>
+        作者：    时间：2019-12-08    点击数：<script>_showDynClicks("wbnews", 1597863513, 1246)</script></p>
+        </div>
+    <div class="main_conDiv" id="vsb_content"><p style="text-indent: 2em;"><span style="color: rgb(0, 0, 0); text-transform: none; text-indent: 24px; letter-spacing: normal; font-family: 宋体,SimSun; font-size: 21px; font-style: normal; font-weight: normal; word-spacing: 0px; float: none; display: inline !important; white-space: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">桂林电子科技大学北海校区就业指导中心是<span style="text-transform: none; text-indent: 28px; letter-spacing: normal; font-family: 宋体,SimSun; font-size: 21px; font-style: normal; font-weight: normal; word-spacing: 0px; float: none; display: inline !important; white-space: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">隶属于北海校区学生工作部，主要职责是负责校区全日制本专科学生就业工作。</span></span></p>
+<p style="text-indent: 2em;"><span style="color: rgb(0, 0, 0); text-transform: none; text-indent: 24px; letter-spacing: normal; font-family: 宋体,SimSun; font-size: 21px; font-style: normal; font-weight: normal; word-spacing: 0px; float: none; display: inline !important; white-space: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><span style="text-transform: none; text-indent: 28px; letter-spacing: normal; font-family: 宋体,SimSun; font-size: 21px; font-style: normal; font-weight: normal; word-spacing: 0px; float: none; display: inline !important; white-space: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"></span></span>&nbsp;</p>
+<p style="text-indent: 2em;"><span style="color: rgb(0, 0, 0); text-transform: none; text-indent: 24px; letter-spacing: normal; font-family: 宋体,SimSun; font-size: 21px; font-style: normal; font-weight: normal; word-spacing: 0px; float: none; display: inline !important; white-space: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><span style="text-transform: none; text-indent: 28px; letter-spacing: normal; font-family: 宋体,SimSun; font-size: 21px; font-style: normal; font-weight: normal; word-spacing: 0px; float: none; display: inline !important; white-space: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><span style="text-transform: none; text-indent: 24px; letter-spacing: normal; font-family: 宋体,SimSun; font-size: 21px; font-style: normal; font-weight: normal; word-spacing: 0px; float: none; display: inline !important; white-space: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><span style="color: rgb(0, 0, 0); font-family: 宋体,SimSun; font-size: 21px;">1.就业指导中心电话：0779-3228106（兼传真）</span></span></span></span></p>
+<p style="margin: 0px; padding: 0px; color: rgb(0, 0, 0); text-transform: none; line-height: 21px; text-indent: 2em; letter-spacing: normal; font-family: &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; font-weight: normal; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><span style="color: rgb(0, 0, 0); font-family: 宋体,SimSun; font-size: 21px;"><span style="color: rgb(0, 0, 0); font-family: 宋体,SimSun; font-size: 24px;"><span style="color: rgb(0, 0, 0); font-family: 宋体,SimSun; font-size: 21px;"><span style="color: rgb(0, 0, 0); font-family: 宋体,SimSun; font-size: 24px;"><br></span></span></span></span></p>
+<p style="margin: 0px; padding: 0px; color: rgb(0, 0, 0); text-transform: none; line-height: 21px; text-indent: 2em; letter-spacing: normal; font-family: &quot;Microsoft YaHei&quot;; font-style: normal; font-weight: normal; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><span style="color: rgb(0, 0, 0); font-family: 宋体,SimSun; font-size: 21px;">2.联系人：</span></p>
+<p style="margin: 0px; padding: 0px; color: rgb(0, 0, 0); text-transform: none; line-height: 21px; text-indent: 2em; letter-spacing: normal; font-family: &quot;Microsoft YaHei&quot;; font-style: normal; font-weight: normal; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><span style="color: rgb(0, 0, 0); font-family: 宋体,SimSun; font-size: 21px;"><br></span></p>
+<p style="margin: 0px; padding: 0px; color: rgb(0, 0, 0); text-transform: none; line-height: 21px; text-indent: 2em; letter-spacing: normal; font-family: &quot;Microsoft YaHei&quot;; font-style: normal; font-weight: normal; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><span style="color: rgb(0, 0, 0); font-family: 宋体,SimSun; font-size: 21px;">梁老师：0779-3228106</span></p>
+<p style="margin: 0px; padding: 0px; color: rgb(0, 0, 0); text-transform: none; line-height: 21px; text-indent: 2em; letter-spacing: normal; font-family: &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; font-weight: normal; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><span style="color: rgb(0, 0, 0); font-family: 宋体,SimSun; font-size: 21px;"> 叶老师：0779-3228106 </span></p>
+<p style="margin: 0px; padding: 0px; color: rgb(0, 0, 0); text-transform: none; line-height: 21px; text-indent: 2em; letter-spacing: normal; font-family: &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; font-weight: normal; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><span style="color: rgb(0, 0, 0); font-family: 宋体,SimSun; font-size: 21px;"><br></span></p>
+<p style="margin: 0px; padding: 0px; color: rgb(0, 0, 0); text-transform: none; line-height: 21px; text-indent: 2em; letter-spacing: normal; font-family: &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; font-weight: normal; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><span style="color: rgb(0, 0, 0); font-family: 宋体,SimSun; font-size: 21px;">3.<span style="color: rgb(0, 0, 0); font-family: 宋体,SimSun; font-size: 21px;"><span style="color: rgb(0, 0, 0); font-family: 宋体,SimSun;">就业指导中心</span>邮箱：</span></span><span style="text-decoration: none;"><strong><span style="color: rgb(0, 0, 0); font-family: 宋体,SimSun; font-size: 21px; text-decoration: none;"><a href="mailto:bhxqjyzdzx@guet.edu.cn" style="font-family: 宋体,SimSun; font-size: 21px;">bhxqjyzdzx@guet.edu.cn</a></span></strong></span></p>
+<p style="margin: 0px; padding: 0px; color: rgb(0, 0, 0); text-transform: none; line-height: 21px; text-indent: 2em; letter-spacing: normal; font-family: &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; font-weight: normal; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><span style="color: rgb(0, 0, 0); font-family: 宋体,SimSun; font-size: 21px;"><span style="font-family: 宋体,SimSun; font-size: 21px;"><br></span></span></p>
+<p style="margin: 0px; padding: 0px; color: rgb(0, 0, 0); text-transform: none; line-height: 21px; text-indent: 2em; letter-spacing: normal; font-family: &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; font-weight: normal; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><span style="font-family: 宋体,SimSun; font-size: 21px;"><span style="color: rgb(0, 0, 0); font-family: 宋体,SimSun; font-size: 21px;">4.<span style="font-family: 宋体,SimSun; font-size: 24px;"></span></span>地 址：广西北海市银海区南珠大道9号桂林电子科技大学北海校区西校区综合楼308办公室</span></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><span style="font-size: 21px;"><strong><span style="background: white; color: rgb(0, 0, 0); text-transform: none; text-indent: 24px; letter-spacing: normal; font-family: 宋体,SimSun; font-size: 21px; font-style: normal; font-weight: normal; text-decoration: none; word-spacing: 0px; float: none; display: inline !important; white-space: normal; orphans: 2; widows: 2; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px;"></span></strong><span style="background: white; color: rgb(0, 0, 0); text-transform: none; text-indent: 24px; letter-spacing: normal; font-family: 宋体,SimSun; font-size: 21px; font-style: normal; font-weight: normal; text-decoration: none; word-spacing: 0px; float: none; display: inline !important; white-space: normal; orphans: 2; widows: 2; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px;"><br>各学院2020届毕业生就业工作联系方式</span></span></p>
+<table width="528" cellspacing="0" cellpadding="0">
+ <tbody>
+  <tr class="firstRow" style="height: 17px;">
+   <td width="47" height="17" nowrap style="padding: 0px 7px; border: 1px solid windowtext; background-color: transparent; border-image: none;"><p style="text-align: center;"><span style="font-family: 宋体,SimSun; font-size: 14px;"><strong><span style="color: black; font-family: 宋体,SimSun;">序号</span></strong></span></p></td>
+   <td width="123" height="17" nowrap style="border-width: 1px 1px 1px 0px; border-style: solid solid solid none; border-color: windowtext windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="font-family: 宋体,SimSun; font-size: 14px;"><strong><span style="color: black; font-family: 宋体,SimSun;">学院</span></strong></span></p></td>
+   <td width="75" height="17" nowrap style="border-width: 1px 1px 1px 0px; border-style: solid solid solid none; border-color: windowtext windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="font-family: 宋体,SimSun; font-size: 14px;"><strong><span style="color: black; font-family: 宋体,SimSun;">联系人</span></strong></span></p></td>
+   <td width="153" height="17" nowrap style="border-width: 1px 1px 1px 0px; border-style: solid solid solid none; border-color: windowtext windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="font-family: 宋体,SimSun; font-size: 14px;"><strong><span style="color: black; font-family: 宋体,SimSun;">联系电话</span></strong></span></p></td>
+   <td width="91" height="17" style="border-width: 1px 1px 1px 0px; border-style: solid solid solid none; border-color: windowtext windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="font-family: 宋体,SimSun; font-size: 14px;"><strong><span style="color: black; font-family: 宋体,SimSun;">备注</span></strong></span></p></td>
+  </tr>
+  <tr style="height: 17px;">
+   <td width="47" height="17" nowrap rowspan="4" style="border-width: 0px 1px 1px; border-style: none solid solid; border-color: rgb(0, 0, 0) windowtext windowtext; padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family: 宋体,SimSun; font-size: 14px;">1</span></p></td>
+   <td width="123" height="17" nowrap rowspan="4" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family: 宋体,SimSun; font-size: 14px;">海洋工程学院</span></p></td>
+   <td width="75" height="17" nowrap style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family: 宋体,SimSun; font-size: 14px;">严老师</span></p></td>
+   <td width="153" height="17" nowrap style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family: 宋体,SimSun; font-size: 14px;">18177965520</span></p></td>
+   <td width="91" height="17" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family: 宋体,SimSun; font-size: 14px;">高职</span></p></td>
+  </tr>
+  <tr style="height: 17px;">
+   <td width="75" height="17" nowrap style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family: 宋体,SimSun; font-size: 14px;">李老师</span></p></td>
+   <td width="153" height="17" nowrap style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family: 宋体,SimSun; font-size: 14px;">18593235832</span></p></td>
+   <td width="91" height="17" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family: 宋体,SimSun; font-size: 14px;">高职</span></p></td>
+  </tr>
+  <tr style="height: 17px;">
+   <td width="75" height="17" nowrap style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family: 宋体,SimSun; font-size: 14px;">郅老师</span></p></td>
+   <td width="153" height="17" nowrap style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family: 宋体,SimSun; font-size: 14px;">18507897892</span></p></td>
+   <td width="91" height="17" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family: 宋体,SimSun; font-size: 14px;">本科</span></p></td>
+  </tr>
+  <tr style="height: 17px;">
+   <td width="75" height="17" nowrap style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family: 宋体,SimSun; font-size: 14px;">李老师</span></p></td>
+   <td width="153" height="17" nowrap style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family: 宋体,SimSun; font-size: 14px;">13617799929</span></p></td>
+   <td width="91" height="17" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family: 宋体,SimSun; font-size: 14px;">本科</span></p></td>
+  </tr>
+  <tr style="height: 17px;">
+   <td width="47" height="17" nowrap rowspan="4" style="border-width: 0px 1px 1px; border-style: none solid solid; border-color: rgb(0, 0, 0) windowtext windowtext; padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family: 宋体,SimSun; font-size: 14px;">2</span></p></td>
+   <td width="123" height="17" nowrap rowspan="4" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family: 宋体,SimSun; font-size: 14px;">电子信息学院</span></p></td>
+   <td width="75" height="17" nowrap style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family: 宋体,SimSun; font-size: 14px;">骆老师</span></p></td>
+   <td width="153" height="17" nowrap style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family: 宋体,SimSun; font-size: 14px;">18775798978</span></p></td>
+   <td width="91" height="17" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family: 宋体,SimSun; font-size: 14px;">高职</span></p></td>
+  </tr>
+  <tr style="height: 17px;">
+   <td width="75" height="17" nowrap style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family: 宋体,SimSun; font-size: 14px;">张老师</span></p></td>
+   <td width="153" height="17" nowrap style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family: 宋体,SimSun; font-size: 14px;">18877919270</span></p></td>
+   <td width="91" height="17" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family: 宋体,SimSun; font-size: 14px;">高职</span></p></td>
+  </tr>
+  <tr style="height: 17px;">
+   <td width="75" height="17" nowrap style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family: 宋体,SimSun; font-size: 14px;">黄老师</span></p></td>
+   <td width="153" height="17" nowrap style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family: 宋体,SimSun; font-size: 14px;">13617799290</span></p></td>
+   <td width="91" height="17" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family: 宋体,SimSun; font-size: 14px;">本科</span></p></td>
+  </tr>
+  <tr style="height: 17px;">
+   <td width="75" height="17" nowrap style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family: 宋体,SimSun; font-size: 14px;">黄老师</span></p></td>
+   <td width="153" height="17" nowrap style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family: 宋体,SimSun; font-size: 14px;">13877963364</span></p></td>
+   <td width="91" height="17" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family: 宋体,SimSun; font-size: 14px;">本科</span></p></td>
+  </tr>
+  <tr style="height: 17px;">
+   <td width="47" height="17" nowrap rowspan="3" style="border-width: 0px 1px 1px; border-style: none solid solid; border-color: rgb(0, 0, 0) windowtext windowtext; padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family: 宋体,SimSun; font-size: 14px;">3</span></p></td>
+   <td width="123" height="17" nowrap rowspan="3" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family: 宋体,SimSun; font-size: 14px;">计算机工程学院</span></p></td>
+   <td width="75" height="17" nowrap style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family: 宋体,SimSun; font-size: 14px;">郭老师</span></p></td>
+   <td width="153" height="17" nowrap style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family: 宋体,SimSun; font-size: 14px;">18077988669</span></p></td>
+   <td width="91" height="17" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family: 宋体,SimSun; font-size: 14px;">高职</span></p></td>
+  </tr>
+  <tr style="height: 17px;">
+   <td width="75" height="17" nowrap style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family: 宋体,SimSun; font-size: 14px;">龚老师</span></p></td>
+   <td width="153" height="17" nowrap style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family: 宋体,SimSun; font-size: 14px;">15240798372</span></p></td>
+   <td width="91" height="17" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family: 宋体,SimSun; font-size: 14px;">高职</span></p></td>
+  </tr>
+  <tr style="height: 17px;">
+   <td width="75" height="17" nowrap style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family: 宋体,SimSun; font-size: 14px;">廖老师</span></p></td>
+   <td width="153" height="17" nowrap style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family: 宋体,SimSun; font-size: 14px;">15078906558</span></p></td>
+   <td width="91" height="17" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family: 宋体,SimSun; font-size: 14px;">本科</span></p></td>
+  </tr>
+  <tr style="height: 17px;">
+   <td width="47" height="17" nowrap rowspan="2" style="border-width: 0px 1px 1px; border-style: none solid solid; border-color: rgb(0, 0, 0) windowtext windowtext; padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family: 宋体,SimSun; font-size: 14px;">4</span></p></td>
+   <td width="123" height="17" nowrap rowspan="2" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family: 宋体,SimSun; font-size: 14px;">设计与创意学院</span></p></td>
+   <td width="75" height="17" nowrap style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family: 宋体,SimSun; font-size: 14px;">洪老师</span></p></td>
+   <td width="153" height="17" nowrap style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family: 宋体,SimSun; font-size: 14px;">13819675887</span></p></td>
+   <td width="91" height="17" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family: 宋体,SimSun; font-size: 14px;">高职</span></p></td>
+  </tr>
+  <tr style="height: 17px;">
+   <td width="75" height="17" nowrap style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family: 宋体,SimSun; font-size: 14px;">张老师</span></p></td>
+   <td width="153" height="17" nowrap style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family: 宋体,SimSun; font-size: 14px;">19877976669</span></p></td>
+   <td width="91" height="17" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family: 宋体,SimSun; font-size: 14px;">本科</span></p></td>
+  </tr>
+  <tr style="height: 17px;">
+   <td width="47" height="17" nowrap rowspan="3" style="border-width: 0px 1px 1px; border-style: none solid solid; border-color: rgb(0, 0, 0) windowtext windowtext; padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family: 宋体,SimSun; font-size: 14px;">5</span></p></td>
+   <td width="123" height="17" nowrap rowspan="3" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family: 宋体,SimSun; font-size: 14px;">经济与管理学院</span></p></td>
+   <td width="75" height="17" nowrap style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family: 宋体,SimSun; font-size: 14px;">王老师</span></p></td>
+   <td width="153" height="17" nowrap style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family: 宋体,SimSun; font-size: 14px;">13667794777</span></p></td>
+   <td width="91" height="17" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family: 宋体,SimSun; font-size: 14px;">高职</span></p></td>
+  </tr>
+  <tr style="height: 17px;">
+   <td width="75" height="17" nowrap style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family: 宋体,SimSun; font-size: 14px;">张老师</span></p></td>
+   <td width="153" height="17" nowrap style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family: 宋体,SimSun; font-size: 14px;">18977960928</span></p></td>
+   <td width="91" height="17" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family: 宋体,SimSun; font-size: 14px;">高职</span></p></td>
+  </tr>
+  <tr style="height: 17px;">
+   <td width="75" height="17" nowrap style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family: 宋体,SimSun; font-size: 14px;">庞老师</span></p></td>
+   <td width="153" height="17" nowrap style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family: 宋体,SimSun; font-size: 14px;">13557235832</span></p></td>
+   <td width="91" height="17" style="border-width: 0px 1px 1px 0px; border-style: none solid solid none; border-color: rgb(0, 0, 0) windowtext windowtext rgb(0, 0, 0); padding: 0px 7px; background-color: transparent;"><p style="text-align: center;"><span style="color: black; font-family: 宋体,SimSun; font-size: 14px;">本科</span></p></td>
+  </tr>
+ </tbody>
+</table>
+<p><span style="color: rgb(102, 102, 102); text-transform: none; text-indent: 24px; letter-spacing: normal; font-family: &quot;Microsoft YaHei&quot;, Arial, Tahoma, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-weight: normal; word-spacing: 0px; float: none; display: inline !important; white-space: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"></span></p><div id="div_vote_id"></div>
+    </div>
+   
+   
+</form>
+
+<!--#endeditable-->
+    </div>
+    <div class="vsb-container container clearfix" containerid="2" columns="6">
+
+            <div class="vsb-space content contentf" columns="6">
+                <div class="urlSelect">
+                    <!--#begineditable name="快速链接-1" action="webber.wbst.com.url.ColumnUrl" layout="/system/_component/columnurl/tpllinklist.jsp" tpltype="1" contype="url" clone="" viewid="202746" contentviewid="" tagname="快速链接-1"--><script language="javascript" src="/system/resource/js/openlink.js"></script><select class="c160181_select" onchange="_openSelectLink(this, 'value', 'addclicks')">
+     <option>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;---北海校区二级学院---</option>              
+     <option value="https://www.guet.edu.cn/gdbh/" title="">海洋工程学院</option> 
+     <option value="https://www.guet.edu.cn/gdbh/" title="">电子信息学院</option> 
+     <option value="https://www.guet.edu.cn/gdbh/" title="">计算机工程学院</option> 
+     <option value="https://www.guet.edu.cn/gdbh/" title="">设计与创意学院</option> 
+     <option value="https://www.guet.edu.cn/gdbh/" title="">经济与管理学院</option> 
+</select><!--#endeditable-->
+                </div>
+                <div class="urlSelect">
+                    <!--#begineditable name="快速链接-2" action="" layout="" tpltype="" contype="" clone="" viewid="202747" contentviewid="" tagname="快速链接-2"--><select class="c160181_select" onchange="_openSelectLink(this, 'value', 'addclicks')">
+     <option>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;---广西各地市人才网---</option>              
+     <option value="https://www.gxrc.com" title="">广西人才网</option> 
+     <option value="https://lz.gxrc.com/" title="">柳州人才网</option> 
+     <option value="http://gl.gxrc.com" title="">桂林人才网</option> 
+     <option value="http://bh.gxrc.com" title="">北海人才网</option> 
+     <option value="https://gg.gxrc.com" title="">贵港人才网</option> 
+</select><!--#endeditable-->
+                </div>
+                <div class="urlSelect">
+                    <!--#begineditable name="快速链接-3" action="" layout="" tpltype="" contype="" clone="" viewid="202748" contentviewid="" tagname="快速链接-3"--><select class="c160181_select" onchange="_openSelectLink(this, 'value', 'addclicks')">
+     <option>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;---社会招聘网站---</option>              
+     <option value="s://www.ncss.org.cn" title="">新职业</option> 
+     <option value="https://www.gxbys.com" title="">广西毕业生就业网</option> 
+     <option value="http://szyfw.gxrc.com/portal.php" title="">广西“三支一扶”网主页</option> 
+</select><!--#endeditable-->
+                </div>
+                <div class="urlSelect">
+                    <!--#begineditable name="快速链接-4" action="" layout="" tpltype="" contype="" clone="" viewid="202749" contentviewid="" tagname="快速链接-4"--><select class="c160181_select" onchange="_openSelectLink(this, 'value', 'addclicks')">
+     <option>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;---广西高校就业网---</option>              
+     <option value="https://www.guet.edu.cn/jy/index.htm" title="">桂林电子科技大学就业网</option> 
+     <option value="http://zj.gxu.edu.cn" title="">广西大学就业网</option> 
+     <option value="http://gxnujyb.good-edu.cn/index.php" title="">广西师范大学就业网</option> 
+     <option value="https://jyb.gxun.edu.cn" title="">广西民族大学就业网</option> 
+     <option value="http://www.gxust.edu.cn/jyw/" title="">广西科技大学就业网</option> 
+</select><!--#endeditable-->
+                </div>
+            </div>
+    </div>
+    <!--foot-->
+    <div class="footWrap">
+        <!--#begineditable name="版权1" viewid="202694" tagname="版权1" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><div class="footDiv_one">
+		<div class="foot_one">
+			<p style="text-align:center;">桂林电子科技大学北海校区就业指导中心&nbsp;&nbsp;地址：广西北海市银海区南珠大道9号<br />电话：0779-3228106&nbsp;&nbsp;邮编：536000<br /></p>
+		</div>
+	</div><!--#endeditable-->
+    </div>
+</body>
+
+</html>
+<script type="text/javascript">
+    $(function() {
+
+        //切换对象为其他，这里为包含图片和标题的层
+        $('#change_32 div.changeDiv').soChange({ //对象指向层，层内包含图片及标题
+            thumbObj: '#change_32 .ul_change_a2 span',
+            thumbNowClass: 'on' //自定义导航对象当前class为on
+        });
+
+    });
+</script>

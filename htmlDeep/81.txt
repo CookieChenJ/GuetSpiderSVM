@@ -1,0 +1,754 @@
+<!DOCTYPE html
+
+<!-- saved from url=(0023)#/>
+<html lang="lang=zh-cmn-Hans" class="hb-loaded">
+
+	<head>
+		<title>学校为全体教职工送上春节慰问品，助力脱贫攻坚（图）-桂林电子科技大学工会委员会</title><META Name="keywords" Content="桂林电子科技大学工会委员会,综合新闻" />
+
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+		<script sf_script="1"></script>
+
+		<meta name="Copyright" content="桂林电子科技大学工会委员会">
+		<meta name="description" content="&lt;p&gt;桂林电子科技大学工会委员会信息门户网站&lt;/p&gt;">
+		
+
+		<link rel="stylesheet" href="../../css/font-awesome.min.css">
+		<link rel="stylesheet" href="../../css/common.css">
+		<link rel="stylesheet" href="../../css/iealert.css">
+		<style type="text/css">
+			.m-title {
+				color: #ffffff !important;
+				text-decoration: none !important;
+				margin-left: 10px;}
+		</style>
+
+		<script src="../../js/jquery-3.3.1.min.js" type="text/javascript" charset="utf-8"></script>
+		<script>
+			$(document).ready(function() {
+
+				$(".nav-list li").hover(
+					function() {
+						$(this).addClass("active");
+						$(this).find(".nav-list-sub").show();
+					},
+					function() {
+						$(this).removeClass("active");
+						$(this).find(".nav-list-sub").hide();
+					}
+				);
+			});
+		</script>
+
+	<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="../../_sitegray/_sitegray_d.css" />
+<script language="javascript" src="../../_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="../../content.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/vsbscreen.min.js" id="_vsbscreen" devices="pc|mobile|pad"></script>
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1029,'/content.jsp',1321,1411843832)</script>
+</head>
+
+	<body huaban_collector_injected="true">
+		<div id="poor-container" style="position:absolute;z-index:99999">
+
+		</div>
+
+		<!--start:  wrapper  -->
+		<div class="wrapper">
+			<div class="top">
+				<div class="content-outer"></div>
+			</div>
+
+			<div class="nav">
+				<div class="nav-wrapper">
+					<div class="nav-content">
+						<ul class="nav-list cf">
+			<!--#begineditable name="网站导航" viewid="200286" tagname="网站导航" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""-->  <li>
+	<a href="../../index.htm">首页</a>
+
+</li>
+  <li>
+	<a href="../../ghgk.htm">工会概况</a>
+	<ul class="nav-list-sub cf" style="left: 0px; display: none;">
+
+<li><a href="../../ghgk/gkjs.htm">概况介绍</a></li>
+
+<li><a href="../../ghgk/zzjg.htm">组织机构</a></li>
+
+<li><a href="../../ghgk/jczz.htm">基层组织</a></li>
+	</ul>
+</li>
+  <li>
+	<a href="../../jgsz.htm">机构设置</a>
+	<ul class="nav-list-sub cf" style="left: 0px; display: none;">
+
+<li><a href="../../jgsz/jbqk.htm">基本情况</a></li>
+
+<li><a href="../../jgsz/gzzz.htm">工作职责</a></li>
+	</ul>
+</li>
+  <li>
+	<a href="../../mzjs.htm">民主建设</a>
+	<ul class="nav-list-sub cf" style="left: 0px; display: none;">
+
+<li><a href="../../mzjs/mzqk.htm">民主情况</a></li>
+
+<li><a href="../../mzjs/lsyg.htm">历史沿革</a></li>
+	</ul>
+</li>
+  <li>
+	<a href="../../jgfc.htm">教工风采</a>
+	<ul class="nav-list-sub cf" style="left: 0px; display: none;">
+
+<li><a href="../../jgfc/zthl.htm">专题画廊</a></li>
+
+<li><a href="../../jgfc/hdjy.htm">活动剪影</a></li>
+
+<li><a href="../../jgfc/ghyd.htm">工会园地</a></li>
+	</ul>
+</li>
+  <li>
+	<a href="../../ngyd.htm">女工园地</a>
+	<ul class="nav-list-sub cf" style="left: 0px; display: none;">
+
+<li><a href="../../ngyd/nzgwyh.htm">女职工委员会</a></li>
+
+<li><a href="../../ngyd/jgjg.htm">巾帼建功</a></li>
+
+<li><a href="../../ngyd/jjyd.htm">建家园地</a></li>
+	</ul>
+</li>
+  <li>
+	<a href="../../zcfg.htm">政策法规</a>
+	<ul class="nav-list-sub cf" style="left: 0px; display: none;">
+
+<li><a href="../../zcfg/flfg.htm">法律法规</a></li>
+
+<li><a href="../../zcfg/gzzd.htm">规章制度</a></li>
+
+<li><a href="../../zcfg/nbgl.htm">内部管理</a></li>
+	</ul>
+</li>
+  <li>
+	<a href="../../axjj.htm">爱心基金</a>
+	<ul class="nav-list-sub cf" style="left: 0px; display: none;">
+
+<li><a href="../../axjj/axjz.htm">爱心捐助</a></li>
+
+<li><a href="../../axjj/zyfw.htm">志愿服务</a></li>
+	</ul>
+</li>
+  <li>
+	<a href="http://mwb.guet.edu.cn">后台管理</a>
+
+</li>
+<!--#endeditable-->
+							<div class="sou">
+								<!--#begineditable name="全文检索" viewid="167300" tagname="全文检索" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp="true"--><script type="text/javascript">
+    function _nl_ys_check(){
+        
+        var keyword = document.getElementById('showkeycode167300').value;
+        if(keyword==null||keyword==""){
+            alert("请输入你要检索的内容！");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkeyword167300").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkeyword167300").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkeyword167300").value = base64.encode(document.getElementById("lucenenewssearchkeyword167300").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode167300"));
+        return true;
+    } 
+</script><div id="inav_sou">
+<form action="../../search.jsp?wbtreeid=1029" method="post" id="au1a" name="au1a" onsubmit="return _nl_ys_check()" style="display: inline">
+ <input type="hidden" id="lucenenewssearchkeyword167300" name="lucenenewssearchkeyword" value=""><input type="hidden" id="_lucenesearchtype167300" name="_lucenesearchtype" value="1"><input type="hidden" id="searchScope167300" name="searchScope" value="0">
+ 
+ <input type="search" name="showkeycode" class="keyword" id="showkeycode167300" placeholder="请输入关键词">
+ <input type="submit" class="soubtn" value="搜索" style="cursor: hand">
+</form></div><script language="javascript" src="/system/resource/js/base64.js"></script><script language="javascript" src="/system/resource/js/formfunc.js"></script>
+<!--#endeditable-->
+							</div>
+						</ul>
+					</div>
+				</div>
+			</div>
+
+			<div class="main">
+				<div class="content-inner cf">
+					 <!--#begineditable name="文章内容" viewid="200299" tagname="文章内容" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""-->
+<script language="javascript" src="/system/resource/js/dynclicks.js"></script><script language="javascript" src="../../_dwr/interface/NewsvoteDWR.js"></script><script language="javascript" src="../../_dwr/engine.js"></script><script language="javascript" src="/system/resource/js/news/newscontent.js"></script><script type="text/javascript">NewsvoteDWR.getNewsLinkUrl(1321,'1411843832','vsb',newsSkip);function newsSkip(data){if(data != ""){window.location.href = data;}}</script><LINK href="/system/resource/js/photoswipe/3.0.5.1/photoswipe.css" type="text/css" rel="stylesheet"><script language="javascript" src="/system/resource/js/photoswipe/3.0.5.1/klass.min.js"></script><script language="javascript" src="/system/resource/js/ajax.js"></script><div class="article">
+	<h2>学校为全体教职工送上春节慰问品，助力脱贫攻坚（图） </h2>
+	<div class="article-summary cf">
+		发布人员： &nbsp;&nbsp;  发布日期： 2019-12-31
+	</div>
+	<div class="article-content" deep="4">
+		<div id="vsb_content"><p class="vsbcontent_start" style="padding: 0px; border: 0px #000000; color: rgb(51, 51, 51); line-height: 33.6px; text-indent: 2em; font-family: &quot;Segoe UI&quot;, Verdana, Helvetica, sans-serif; font-size: 14pt; margin-top: 0px; margin-bottom: 0px; vertical-align: baseline; white-space: normal; background-color: rgb(255, 255, 255);">12月30日，2020年我校教职工春节慰问品发放扶贫物资工作顺利进行。学校在金鸡岭校区现场布置了24个发放点为全校教职工发放了2430余份节日慰问品，包括4900余只家禽、2万5千斤红薯粉，发放活动持续8个小时。在慰问品发放现场，大家纷纷感谢学校对教职工的关心。</p>
+<p style="text-align: center;">
+ <img src="/__local/F/8A/9D/4957C08B1B76902FB64DF41FE3F_198CA119_74499.jpg" width="500" vsbhref="vurl" vurl="/_vsl/F8A9D4957C08B1B76902FB64DF41FE3F/198CA119/74499" vheight="" vwidth="500" orisrc="/__local/E/B5/E5/037EE966D2D3F8D4925DE5A9D85_1D2BF1EE_D1570.jpg" class="img_vsb_content"></p>
+<p style="text-align: center;">
+ <img src="/__local/B/52/1D/AF776F30F99B66EBF1E65DFF4BA_14117E66_60816.jpg" width="500" vsbhref="vurl" vurl="/_vsl/B521DAF776F30F99B66EBF1E65DFF4BA/14117E66/60816" vheight="" vwidth="500" orisrc="/__local/5/B8/FA/0A775946EFA0A64D19A8C84F145_9752345B_F2C30.jpg" class="img_vsb_content"></p>
+<p style="text-align: center;">
+ <img src="/__local/E/5C/19/24257EBCCEE00FD37A7CD2F2F18_4F7E5D95_4CF43.jpg" width="500" vsbhref="vurl" vurl="/_vsl/E5C1924257EBCCEE00FD37A7CD2F2F18/4F7E5D95/4CF43" vheight="" vwidth="500" orisrc="/__local/E/1D/CC/F4619D0BAE4CBD4474DC122B3F0_5B4ECF8E_C9AEB.jpg" class="img_vsb_content"></p>
+<p style="text-align: center;">
+ <img src="/__local/9/B6/5D/A7F55A76D24087F54CD1BC84BDA_A6385484_5C299.jpg" width="500" vsbhref="vurl" vurl="/_vsl/9B65DA7F55A76D24087F54CD1BC84BDA/A6385484/5C299" vheight="" vwidth="500" orisrc="/__local/E/81/0B/1F5E5465541DBECA25D89C8408B_6141A8E5_83131.jpg" class="img_vsb_content"></p>
+<p style="text-align: center;">
+ <img src="/__local/2/9C/15/41607141CEA2E5FBA29AA546F61_6CCF4183_5AE37.jpg" width="500" vsbhref="vurl" vurl="/_vsl/29C1541607141CEA2E5FBA29AA546F61/6CCF4183/5AE37" vheight="" vwidth="500" orisrc="/__local/8/CC/B8/6D9CD9748B42BF3CEE34EB59665_DFB3E13F_80B07.jpg" class="img_vsb_content"></p>
+<p style="text-align: center;">
+ <img src="/__local/A/60/AD/A9CB052A605449970BE537F91F4_0932921F_478A0.jpg" width="500" vsbhref="vurl" vurl="/_vsl/A60ADA9CB052A605449970BE537F91F4/0932921F/478A0" vheight="" vwidth="500" orisrc="/__local/2/C0/91/D0BE6CAC2666834EAEE400AB1DA_71187922_B88FB.jpg" class="img_vsb_content"></p>
+<p style="text-align: center;">
+ <img src="/__local/1/C0/83/BF04B94E5DC9C8F730D13929D0E_BD26DC1A_4C15A.jpg" width="500" vsbhref="vurl" vurl="/_vsl/1C083BF04B94E5DC9C8F730D13929D0E/BD26DC1A/4C15A" vheight="" vwidth="500" orisrc="/__local/0/97/22/BDF1F605D51409C731822FE41E6_9B180006_1B7535.jpg" class="img_vsb_content"></p>
+<p style="text-align: center;">
+ <img src="/__local/6/96/6C/90CCC15867D43CB2B6E8362E68E_599E8741_65D6B.jpg" width="500" vsbhref="vurl" vurl="/_vsl/6966C90CCC15867D43CB2B6E8362E68E/599E8741/65D6B" vheight="" vwidth="500" orisrc="/__local/4/B1/60/AC154CEF0168C361CD9C4036135_F2BF830D_1FE6AC.jpg" class="img_vsb_content"></p>
+<p style="text-align: center;">
+ <img src="/__local/4/7E/54/F770BFF191BA33BE2B75BBD79F9_6E8FC49F_6C748.jpg" width="500" vsbhref="vurl" vurl="/_vsl/47E54F770BFF191BA33BE2B75BBD79F9/6E8FC49F/6C748" vheight="" vwidth="500" orisrc="/__local/5/77/E7/B479BBBCA8620ABECE2BDD298B3_64EDA707_3A472B.jpg" class="img_vsb_content"></p>
+<p style="padding: 0px; border: 0px #000000; color: rgb(51, 51, 51); line-height: 33.6px; text-indent: 2em; font-family: &quot;Segoe UI&quot;, Verdana, Helvetica, sans-serif; font-size: 14pt; margin-top: 0px; margin-bottom: 0px; vertical-align: baseline; white-space: normal; background-color: rgb(255, 255, 255);">（供稿：校工会 王朵朵）</p>
+<p class="vsbcontent_img" style="padding: 0px; border: 0px #000000; text-align: center; color: rgb(51, 51, 51); line-height: 33.6px; font-family: &quot;Segoe UI&quot;, Verdana, Helvetica, sans-serif; font-size: 14pt; margin-top: 0px; margin-bottom: 0px; vertical-align: baseline; white-space: normal; background-color: rgb(255, 255, 255);">
+ <img class="img_vsb_content" src="/__local/B/C9/8C/771F6F586FC3F7A1A5225B06AA3_496ACE89_3988F.jpg" width="500" orisrc="/__local/B/C9/8C/771F6F586FC3F7A1A5225B06AA3_496ACE89_3988F.jpg" vwidth="500" vheight="" vurl="/_vsl/BC98C771F6F586FC3F7A1A5225B06AA3/496ACE89/3988F?e=.jpg" vsbhref="vurl" style="border: 1px solid rgb(204, 204, 204); vertical-align: top;"></p>
+<p style="padding: 0px; border: 0px #000000; text-align: center; color: rgb(51, 51, 51); line-height: 33.6px; text-indent: 2em; font-family: &quot;Segoe UI&quot;, Verdana, Helvetica, sans-serif; font-size: 14pt; margin-top: 0px; margin-bottom: 0px; vertical-align: baseline; white-space: normal; background-color: rgb(255, 255, 255);"><span style="margin: 0px; padding: 0px; border: 0px #000000; line-height: 25.2px; text-indent: 2em; font-family: inherit; font-size: 14px; vertical-align: baseline;">发放慰问品现场（一）</span></p>
+<p class="vsbcontent_img" style="padding: 0px; border: 0px #000000; text-align: center; color: rgb(51, 51, 51); line-height: 33.6px; font-family: &quot;Segoe UI&quot;, Verdana, Helvetica, sans-serif; font-size: 14pt; margin-top: 0px; margin-bottom: 0px; vertical-align: baseline; white-space: normal; background-color: rgb(255, 255, 255);">
+ <img class="img_vsb_content" src="/__local/D/55/D4/7011EFC54B9F4C26C48D305519E_0B5559E8_5FADB.jpg" width="500" orisrc="/__local/2/05/1A/A3173595B8EC69EB833C89CE486_93E5C5F1_D3CE3.jpg" vwidth="500" vheight="" vurl="/_vsl/D55D47011EFC54B9F4C26C48D305519E/0B5559E8/5FADB?e=.jpg" vsbhref="vurl" style="border: 1px solid rgb(204, 204, 204); vertical-align: top;"></p>
+<p class="vsbcontent_end" style="padding: 0px; border: 0px #000000; text-align: center; color: rgb(51, 51, 51); line-height: 33.6px; text-indent: 2em; font-family: &quot;Segoe UI&quot;, Verdana, Helvetica, sans-serif; font-size: 14pt; margin-top: 0px; margin-bottom: 0px; vertical-align: baseline; white-space: normal; background-color: rgb(255, 255, 255);"><span style="margin: 0px; padding: 0px; border: 0px #000000; line-height: 25.2px; text-indent: 2em; font-family: inherit; font-size: 14px; vertical-align: baseline;">发放慰问品现场（二）</span></p>
+<p><br></p></div> 
+		 
+	</div>
+</div><!--#endeditable-->
+					<div class="aside">
+						<div class="aside-inner">
+							<h3>最新消息</h3>
+
+							<!--#begineditable name="最新消息-标题列表" viewid="200298" tagname="最新消息-标题列表" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--><div class="msg">
+		<div class="msg-summary">
+			发布于：2020年02月26日<br>
+		</div>
+		<div class="msg-title">
+			<a href="1333.htm">【疫情防控】学校全力保障教职工“菜篮子”供应（图）</a>
+		</div>
+	</div><div class="msg">
+		<div class="msg-summary">
+			发布于：2020年02月26日<br>
+		</div>
+		<div class="msg-title">
+			<a href="../1028/1332.htm">【疫情防控】校工会关于做好新冠肺炎防疫防控工作倡议书</a>
+		</div>
+	</div><div class="msg">
+		<div class="msg-summary">
+			发布于：2020年02月25日<br>
+		</div>
+		<div class="msg-title">
+			<a href="1339.htm">【疫情防控】校工会慰问后勤处疫情防控一线员工</a>
+		</div>
+	</div><div class="msg">
+		<div class="msg-summary">
+			发布于：2020年02月24日<br>
+		</div>
+		<div class="msg-title">
+			<a href="1336.htm">【疫情防控】校长徐华蕊在新学期第一课上的讲课内容全文</a>
+		</div>
+	</div><script>_showDynClickBatch(['dynclicks_u3_1333','dynclicks_u3_1332','dynclicks_u3_1339','dynclicks_u3_1336'],[1333,1332,1339,1336],"wbnews", 1411843832)</script>
+<!--#endeditable-->
+
+							<div class="msg-more">
+								<a href="../../web/1/http/1/gonghui.guet.edu.cn/channels/30.html"><i class="iconfont icon-caidan"></i>&nbsp;更多内容</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<!--star:  footer  -->
+			<div class="footer">
+				<div class="footer-top">
+					<div class="footer_top">
+						<div class="link_tit">
+							友情链接</div>
+						<div class="link">
+						<!--#begineditable name="友情链接-链接列表" viewid="200293" tagname="友情链接-链接列表" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--><script language="javascript" src="/system/resource/js/openlink.js"></script><ul>
+        <li>
+        <a href="http://www.gliet.edu.cn/" target="_blank">桂林电子科技大学</a>
+    </li>
+    <li>
+        <a href="http://www.acftu.org/template/10041/index.jsp" target="_blank">中国教科文卫体工会</a>
+    </li>
+    <li>
+        <a href="http://www.gxftu.org/" target="_blank">广西总工会</a>
+    </li>
+    <li>
+        <a href="http://www.glgh.org/" target="_blank">桂林总工会</a>
+    </li>
+    <li>
+        <a href="http://ghxt.cic.tsinghua.edu.cn/ghxt_web/" target="_blank">清华大学工会</a>
+    </li>
+    <li>
+        <a href="http://gh.cumt.edu.cn/main.htm" target="_blank">北京大学工会</a>
+    </li>
+    <li>
+        <a href="http://xgh.scu.edu.cn/" target="_blank">四川大学工会</a>
+    </li>
+    <li>
+        <a href="http://zdgh.zju.edu.cn/" target="_blank">浙江大学工会</a>
+    </li>
+    <li>
+        <a href="http://www.gh.uestc.edu.cn/eWeb/xWeb/Default.aspx" target="_blank">电子科技大学工会</a>
+    </li>
+    <li>
+        <a href="https://www.xidian.edu.cn/index.htm" target="_blank">西安电子科技大学工会</a>
+    </li>
+    <li>
+        <a href="http://teachhome.hdu.edu.cn/" target="_blank">杭州电子科技大学工会</a>
+    </li>
+     
+</ul><!--#endeditable-->
+						</div>
+					</div>
+					<div class="content-inner cf">
+						<img src="../../images/foot-logo.png" alt="桂林电子科技大学工会委员会" width="400" class="footer-logo">
+
+						<div class="footer-top-content">
+							<!--#begineditable name="版权" viewid="200296" tagname="版权" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--><!-- 版权内容请在本组件"内容配置-版权"处填写 -->
+<p>Copyright@2017　</p><p>桂林电子科技大学工会委员会 地址：广西桂林市七星区金鸡路1号　</p><p>电话：0773-2290831　 传真：0773-2290831　　 邮编：541004　　 邮箱：gonghui@guet.edu.cn</p><p><br /></p><!--#endeditable-->
+						</div>
+					</div>
+				</div>
+
+				<div class="footer-bottom"><!--#begineditable name="技术支持" action="" layout="" tpltype="" contype="" clone="" viewid="200527" contentviewid="" tagname="技术支持"--><!-- 版权内容请在本组件"内容配置-版权"处填写 -->
+版权所有：桂林电子科技大学工会委员会 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       技术支持：桂林启智科技
+<!--#endeditable--></div>
+			</div>
+			<!--end:  footer  -->
+
+		</div>
+		<!--end:  wrapper  -->
+
+		<!--star:  js  -->
+		<script type="text/javascript" src="../../js/jquery.min.js"></script>
+
+		<script language="javascript" sf_script="1">
+			if(typeof(SF_FUNC_cache_flush) == 'function') SF_FUNC_cache_flush();
+		</script>
+		<script type="text/javascript" src="../../js/jquery.easing-1.3.js"></script>
+
+		<script language="javascript" sf_script="1">
+			if(typeof(SF_FUNC_cache_flush) == 'function') SF_FUNC_cache_flush();
+		</script>
+		<script type="text/javascript" src="../../js/jquery.iosslider.js"></script>
+
+		<script language="javascript" sf_script="1">
+			if(typeof(SF_FUNC_cache_flush) == 'function') SF_FUNC_cache_flush();
+		</script>
+		<script type="text/javascript" src="../../js/slider.js"></script>
+
+		<script language="javascript" sf_script="1">
+			if(typeof(SF_FUNC_cache_flush) == 'function') SF_FUNC_cache_flush();
+		</script>
+		<script type="text/javascript" src="../../js/iealert.js"></script>
+
+		<script language="javascript" sf_script="1">
+			if(typeof(SF_FUNC_cache_flush) == 'function') SF_FUNC_cache_flush();
+		</script>
+		<script type="text/javascript" src="../../js/common.js"></script>
+
+		<script language="javascript" sf_script="1">
+			if(typeof(SF_FUNC_cache_flush) == 'function') SF_FUNC_cache_flush();
+		</script>
+		<script type="text/javascript" src="../../js/bsStatic.js" charset="utf-8"></script>
+
+		<script language="javascript" sf_script="1">
+			if(typeof(SF_FUNC_cache_flush) == 'function') SF_FUNC_cache_flush();
+		</script>
+
+		<script type="text/javascript" src="../../js/bs-engine.js" charset="utf-8"></script>
+
+		<script language="javascript" sf_script="1">
+			if(typeof(SF_FUNC_cache_flush) == 'function') SF_FUNC_cache_flush();
+		</script>
+		<!--end:  js  -->
+
+	</body>
+
+</html>
+<!DOCTYPE html
+
+<!-- saved from url=(0023)#/>
+<html lang="lang=zh-cmn-Hans" class="hb-loaded">
+
+	<head>
+		<title>学校为全体教职工送上春节慰问品，助力脱贫攻坚（图）-桂林电子科技大学工会委员会</title><META Name="keywords" Content="桂林电子科技大学工会委员会,综合新闻" />
+
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+		<script sf_script="1"></script>
+
+		<meta name="Copyright" content="桂林电子科技大学工会委员会">
+		<meta name="description" content="&lt;p&gt;桂林电子科技大学工会委员会信息门户网站&lt;/p&gt;">
+		
+
+		<link rel="stylesheet" href="../../css/font-awesome.min.css">
+		<link rel="stylesheet" href="../../css/common.css">
+		<link rel="stylesheet" href="../../css/iealert.css">
+		<style type="text/css">
+			.m-title {
+				color: #ffffff !important;
+				text-decoration: none !important;
+				margin-left: 10px;}
+		</style>
+
+		<script src="../../js/jquery-3.3.1.min.js" type="text/javascript" charset="utf-8"></script>
+		<script>
+			$(document).ready(function() {
+
+				$(".nav-list li").hover(
+					function() {
+						$(this).addClass("active");
+						$(this).find(".nav-list-sub").show();
+					},
+					function() {
+						$(this).removeClass("active");
+						$(this).find(".nav-list-sub").hide();
+					}
+				);
+			});
+		</script>
+
+	<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="../../_sitegray/_sitegray_d.css" />
+<script language="javascript" src="../../_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="../../content.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/vsbscreen.min.js" id="_vsbscreen" devices="pc|mobile|pad"></script>
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1029,'/content.jsp',1321,1411843832)</script>
+</head>
+
+	<body huaban_collector_injected="true">
+		<div id="poor-container" style="position:absolute;z-index:99999">
+
+		</div>
+
+		<!--start:  wrapper  -->
+		<div class="wrapper">
+			<div class="top">
+				<div class="content-outer"></div>
+			</div>
+
+			<div class="nav">
+				<div class="nav-wrapper">
+					<div class="nav-content">
+						<ul class="nav-list cf">
+			<!--#begineditable name="网站导航" viewid="200286" tagname="网站导航" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""-->  <li>
+	<a href="../../index.htm">首页</a>
+
+</li>
+  <li>
+	<a href="../../ghgk.htm">工会概况</a>
+	<ul class="nav-list-sub cf" style="left: 0px; display: none;">
+
+<li><a href="../../ghgk/gkjs.htm">概况介绍</a></li>
+
+<li><a href="../../ghgk/zzjg.htm">组织机构</a></li>
+
+<li><a href="../../ghgk/jczz.htm">基层组织</a></li>
+	</ul>
+</li>
+  <li>
+	<a href="../../jgsz.htm">机构设置</a>
+	<ul class="nav-list-sub cf" style="left: 0px; display: none;">
+
+<li><a href="../../jgsz/jbqk.htm">基本情况</a></li>
+
+<li><a href="../../jgsz/gzzz.htm">工作职责</a></li>
+	</ul>
+</li>
+  <li>
+	<a href="../../mzjs.htm">民主建设</a>
+	<ul class="nav-list-sub cf" style="left: 0px; display: none;">
+
+<li><a href="../../mzjs/mzqk.htm">民主情况</a></li>
+
+<li><a href="../../mzjs/lsyg.htm">历史沿革</a></li>
+	</ul>
+</li>
+  <li>
+	<a href="../../jgfc.htm">教工风采</a>
+	<ul class="nav-list-sub cf" style="left: 0px; display: none;">
+
+<li><a href="../../jgfc/zthl.htm">专题画廊</a></li>
+
+<li><a href="../../jgfc/hdjy.htm">活动剪影</a></li>
+
+<li><a href="../../jgfc/ghyd.htm">工会园地</a></li>
+	</ul>
+</li>
+  <li>
+	<a href="../../ngyd.htm">女工园地</a>
+	<ul class="nav-list-sub cf" style="left: 0px; display: none;">
+
+<li><a href="../../ngyd/nzgwyh.htm">女职工委员会</a></li>
+
+<li><a href="../../ngyd/jgjg.htm">巾帼建功</a></li>
+
+<li><a href="../../ngyd/jjyd.htm">建家园地</a></li>
+	</ul>
+</li>
+  <li>
+	<a href="../../zcfg.htm">政策法规</a>
+	<ul class="nav-list-sub cf" style="left: 0px; display: none;">
+
+<li><a href="../../zcfg/flfg.htm">法律法规</a></li>
+
+<li><a href="../../zcfg/gzzd.htm">规章制度</a></li>
+
+<li><a href="../../zcfg/nbgl.htm">内部管理</a></li>
+	</ul>
+</li>
+  <li>
+	<a href="../../axjj.htm">爱心基金</a>
+	<ul class="nav-list-sub cf" style="left: 0px; display: none;">
+
+<li><a href="../../axjj/axjz.htm">爱心捐助</a></li>
+
+<li><a href="../../axjj/zyfw.htm">志愿服务</a></li>
+	</ul>
+</li>
+  <li>
+	<a href="http://mwb.guet.edu.cn">后台管理</a>
+
+</li>
+<!--#endeditable-->
+							<div class="sou">
+								<!--#begineditable name="全文检索" viewid="167300" tagname="全文检索" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp="true"--><script type="text/javascript">
+    function _nl_ys_check(){
+        
+        var keyword = document.getElementById('showkeycode167300').value;
+        if(keyword==null||keyword==""){
+            alert("请输入你要检索的内容！");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkeyword167300").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkeyword167300").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkeyword167300").value = base64.encode(document.getElementById("lucenenewssearchkeyword167300").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode167300"));
+        return true;
+    } 
+</script><div id="inav_sou">
+<form action="../../search.jsp?wbtreeid=1029" method="post" id="au1a" name="au1a" onsubmit="return _nl_ys_check()" style="display: inline">
+ <input type="hidden" id="lucenenewssearchkeyword167300" name="lucenenewssearchkeyword" value=""><input type="hidden" id="_lucenesearchtype167300" name="_lucenesearchtype" value="1"><input type="hidden" id="searchScope167300" name="searchScope" value="0">
+ 
+ <input type="search" name="showkeycode" class="keyword" id="showkeycode167300" placeholder="请输入关键词">
+ <input type="submit" class="soubtn" value="搜索" style="cursor: hand">
+</form></div><script language="javascript" src="/system/resource/js/base64.js"></script><script language="javascript" src="/system/resource/js/formfunc.js"></script>
+<!--#endeditable-->
+							</div>
+						</ul>
+					</div>
+				</div>
+			</div>
+
+			<div class="main">
+				<div class="content-inner cf">
+					 <!--#begineditable name="文章内容" viewid="200299" tagname="文章内容" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""-->
+<script language="javascript" src="/system/resource/js/dynclicks.js"></script><script language="javascript" src="../../_dwr/interface/NewsvoteDWR.js"></script><script language="javascript" src="../../_dwr/engine.js"></script><script language="javascript" src="/system/resource/js/news/newscontent.js"></script><script type="text/javascript">NewsvoteDWR.getNewsLinkUrl(1321,'1411843832','vsb',newsSkip);function newsSkip(data){if(data != ""){window.location.href = data;}}</script><LINK href="/system/resource/js/photoswipe/3.0.5.1/photoswipe.css" type="text/css" rel="stylesheet"><script language="javascript" src="/system/resource/js/photoswipe/3.0.5.1/klass.min.js"></script><script language="javascript" src="/system/resource/js/ajax.js"></script><div class="article">
+	<h2>学校为全体教职工送上春节慰问品，助力脱贫攻坚（图） </h2>
+	<div class="article-summary cf">
+		发布人员： &nbsp;&nbsp;  发布日期： 2019-12-31
+	</div>
+	<div class="article-content" deep="4">
+		<div id="vsb_content"><p class="vsbcontent_start" style="padding: 0px; border: 0px #000000; color: rgb(51, 51, 51); line-height: 33.6px; text-indent: 2em; font-family: &quot;Segoe UI&quot;, Verdana, Helvetica, sans-serif; font-size: 14pt; margin-top: 0px; margin-bottom: 0px; vertical-align: baseline; white-space: normal; background-color: rgb(255, 255, 255);">12月30日，2020年我校教职工春节慰问品发放扶贫物资工作顺利进行。学校在金鸡岭校区现场布置了24个发放点为全校教职工发放了2430余份节日慰问品，包括4900余只家禽、2万5千斤红薯粉，发放活动持续8个小时。在慰问品发放现场，大家纷纷感谢学校对教职工的关心。</p>
+<p style="text-align: center;">
+ <img src="/__local/F/8A/9D/4957C08B1B76902FB64DF41FE3F_198CA119_74499.jpg" width="500" vsbhref="vurl" vurl="/_vsl/F8A9D4957C08B1B76902FB64DF41FE3F/198CA119/74499" vheight="" vwidth="500" orisrc="/__local/E/B5/E5/037EE966D2D3F8D4925DE5A9D85_1D2BF1EE_D1570.jpg" class="img_vsb_content"></p>
+<p style="text-align: center;">
+ <img src="/__local/B/52/1D/AF776F30F99B66EBF1E65DFF4BA_14117E66_60816.jpg" width="500" vsbhref="vurl" vurl="/_vsl/B521DAF776F30F99B66EBF1E65DFF4BA/14117E66/60816" vheight="" vwidth="500" orisrc="/__local/5/B8/FA/0A775946EFA0A64D19A8C84F145_9752345B_F2C30.jpg" class="img_vsb_content"></p>
+<p style="text-align: center;">
+ <img src="/__local/E/5C/19/24257EBCCEE00FD37A7CD2F2F18_4F7E5D95_4CF43.jpg" width="500" vsbhref="vurl" vurl="/_vsl/E5C1924257EBCCEE00FD37A7CD2F2F18/4F7E5D95/4CF43" vheight="" vwidth="500" orisrc="/__local/E/1D/CC/F4619D0BAE4CBD4474DC122B3F0_5B4ECF8E_C9AEB.jpg" class="img_vsb_content"></p>
+<p style="text-align: center;">
+ <img src="/__local/9/B6/5D/A7F55A76D24087F54CD1BC84BDA_A6385484_5C299.jpg" width="500" vsbhref="vurl" vurl="/_vsl/9B65DA7F55A76D24087F54CD1BC84BDA/A6385484/5C299" vheight="" vwidth="500" orisrc="/__local/E/81/0B/1F5E5465541DBECA25D89C8408B_6141A8E5_83131.jpg" class="img_vsb_content"></p>
+<p style="text-align: center;">
+ <img src="/__local/2/9C/15/41607141CEA2E5FBA29AA546F61_6CCF4183_5AE37.jpg" width="500" vsbhref="vurl" vurl="/_vsl/29C1541607141CEA2E5FBA29AA546F61/6CCF4183/5AE37" vheight="" vwidth="500" orisrc="/__local/8/CC/B8/6D9CD9748B42BF3CEE34EB59665_DFB3E13F_80B07.jpg" class="img_vsb_content"></p>
+<p style="text-align: center;">
+ <img src="/__local/A/60/AD/A9CB052A605449970BE537F91F4_0932921F_478A0.jpg" width="500" vsbhref="vurl" vurl="/_vsl/A60ADA9CB052A605449970BE537F91F4/0932921F/478A0" vheight="" vwidth="500" orisrc="/__local/2/C0/91/D0BE6CAC2666834EAEE400AB1DA_71187922_B88FB.jpg" class="img_vsb_content"></p>
+<p style="text-align: center;">
+ <img src="/__local/1/C0/83/BF04B94E5DC9C8F730D13929D0E_BD26DC1A_4C15A.jpg" width="500" vsbhref="vurl" vurl="/_vsl/1C083BF04B94E5DC9C8F730D13929D0E/BD26DC1A/4C15A" vheight="" vwidth="500" orisrc="/__local/0/97/22/BDF1F605D51409C731822FE41E6_9B180006_1B7535.jpg" class="img_vsb_content"></p>
+<p style="text-align: center;">
+ <img src="/__local/6/96/6C/90CCC15867D43CB2B6E8362E68E_599E8741_65D6B.jpg" width="500" vsbhref="vurl" vurl="/_vsl/6966C90CCC15867D43CB2B6E8362E68E/599E8741/65D6B" vheight="" vwidth="500" orisrc="/__local/4/B1/60/AC154CEF0168C361CD9C4036135_F2BF830D_1FE6AC.jpg" class="img_vsb_content"></p>
+<p style="text-align: center;">
+ <img src="/__local/4/7E/54/F770BFF191BA33BE2B75BBD79F9_6E8FC49F_6C748.jpg" width="500" vsbhref="vurl" vurl="/_vsl/47E54F770BFF191BA33BE2B75BBD79F9/6E8FC49F/6C748" vheight="" vwidth="500" orisrc="/__local/5/77/E7/B479BBBCA8620ABECE2BDD298B3_64EDA707_3A472B.jpg" class="img_vsb_content"></p>
+<p style="padding: 0px; border: 0px #000000; color: rgb(51, 51, 51); line-height: 33.6px; text-indent: 2em; font-family: &quot;Segoe UI&quot;, Verdana, Helvetica, sans-serif; font-size: 14pt; margin-top: 0px; margin-bottom: 0px; vertical-align: baseline; white-space: normal; background-color: rgb(255, 255, 255);">（供稿：校工会 王朵朵）</p>
+<p class="vsbcontent_img" style="padding: 0px; border: 0px #000000; text-align: center; color: rgb(51, 51, 51); line-height: 33.6px; font-family: &quot;Segoe UI&quot;, Verdana, Helvetica, sans-serif; font-size: 14pt; margin-top: 0px; margin-bottom: 0px; vertical-align: baseline; white-space: normal; background-color: rgb(255, 255, 255);">
+ <img class="img_vsb_content" src="/__local/B/C9/8C/771F6F586FC3F7A1A5225B06AA3_496ACE89_3988F.jpg" width="500" orisrc="/__local/B/C9/8C/771F6F586FC3F7A1A5225B06AA3_496ACE89_3988F.jpg" vwidth="500" vheight="" vurl="/_vsl/BC98C771F6F586FC3F7A1A5225B06AA3/496ACE89/3988F?e=.jpg" vsbhref="vurl" style="border: 1px solid rgb(204, 204, 204); vertical-align: top;"></p>
+<p style="padding: 0px; border: 0px #000000; text-align: center; color: rgb(51, 51, 51); line-height: 33.6px; text-indent: 2em; font-family: &quot;Segoe UI&quot;, Verdana, Helvetica, sans-serif; font-size: 14pt; margin-top: 0px; margin-bottom: 0px; vertical-align: baseline; white-space: normal; background-color: rgb(255, 255, 255);"><span style="margin: 0px; padding: 0px; border: 0px #000000; line-height: 25.2px; text-indent: 2em; font-family: inherit; font-size: 14px; vertical-align: baseline;">发放慰问品现场（一）</span></p>
+<p class="vsbcontent_img" style="padding: 0px; border: 0px #000000; text-align: center; color: rgb(51, 51, 51); line-height: 33.6px; font-family: &quot;Segoe UI&quot;, Verdana, Helvetica, sans-serif; font-size: 14pt; margin-top: 0px; margin-bottom: 0px; vertical-align: baseline; white-space: normal; background-color: rgb(255, 255, 255);">
+ <img class="img_vsb_content" src="/__local/D/55/D4/7011EFC54B9F4C26C48D305519E_0B5559E8_5FADB.jpg" width="500" orisrc="/__local/2/05/1A/A3173595B8EC69EB833C89CE486_93E5C5F1_D3CE3.jpg" vwidth="500" vheight="" vurl="/_vsl/D55D47011EFC54B9F4C26C48D305519E/0B5559E8/5FADB?e=.jpg" vsbhref="vurl" style="border: 1px solid rgb(204, 204, 204); vertical-align: top;"></p>
+<p class="vsbcontent_end" style="padding: 0px; border: 0px #000000; text-align: center; color: rgb(51, 51, 51); line-height: 33.6px; text-indent: 2em; font-family: &quot;Segoe UI&quot;, Verdana, Helvetica, sans-serif; font-size: 14pt; margin-top: 0px; margin-bottom: 0px; vertical-align: baseline; white-space: normal; background-color: rgb(255, 255, 255);"><span style="margin: 0px; padding: 0px; border: 0px #000000; line-height: 25.2px; text-indent: 2em; font-family: inherit; font-size: 14px; vertical-align: baseline;">发放慰问品现场（二）</span></p>
+<p><br></p></div> 
+		 
+	</div>
+</div><!--#endeditable-->
+					<div class="aside">
+						<div class="aside-inner">
+							<h3>最新消息</h3>
+
+							<!--#begineditable name="最新消息-标题列表" viewid="200298" tagname="最新消息-标题列表" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--><div class="msg">
+		<div class="msg-summary">
+			发布于：2020年02月26日<br>
+		</div>
+		<div class="msg-title">
+			<a href="1333.htm">【疫情防控】学校全力保障教职工“菜篮子”供应（图）</a>
+		</div>
+	</div><div class="msg">
+		<div class="msg-summary">
+			发布于：2020年02月26日<br>
+		</div>
+		<div class="msg-title">
+			<a href="../1028/1332.htm">【疫情防控】校工会关于做好新冠肺炎防疫防控工作倡议书</a>
+		</div>
+	</div><div class="msg">
+		<div class="msg-summary">
+			发布于：2020年02月25日<br>
+		</div>
+		<div class="msg-title">
+			<a href="1339.htm">【疫情防控】校工会慰问后勤处疫情防控一线员工</a>
+		</div>
+	</div><div class="msg">
+		<div class="msg-summary">
+			发布于：2020年02月24日<br>
+		</div>
+		<div class="msg-title">
+			<a href="1336.htm">【疫情防控】校长徐华蕊在新学期第一课上的讲课内容全文</a>
+		</div>
+	</div><script>_showDynClickBatch(['dynclicks_u3_1333','dynclicks_u3_1332','dynclicks_u3_1339','dynclicks_u3_1336'],[1333,1332,1339,1336],"wbnews", 1411843832)</script>
+<!--#endeditable-->
+
+							<div class="msg-more">
+								<a href="../../web/1/http/1/gonghui.guet.edu.cn/channels/30.html"><i class="iconfont icon-caidan"></i>&nbsp;更多内容</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<!--star:  footer  -->
+			<div class="footer">
+				<div class="footer-top">
+					<div class="footer_top">
+						<div class="link_tit">
+							友情链接</div>
+						<div class="link">
+						<!--#begineditable name="友情链接-链接列表" viewid="200293" tagname="友情链接-链接列表" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--><script language="javascript" src="/system/resource/js/openlink.js"></script><ul>
+        <li>
+        <a href="http://www.gliet.edu.cn/" target="_blank">桂林电子科技大学</a>
+    </li>
+    <li>
+        <a href="http://www.acftu.org/template/10041/index.jsp" target="_blank">中国教科文卫体工会</a>
+    </li>
+    <li>
+        <a href="http://www.gxftu.org/" target="_blank">广西总工会</a>
+    </li>
+    <li>
+        <a href="http://www.glgh.org/" target="_blank">桂林总工会</a>
+    </li>
+    <li>
+        <a href="http://ghxt.cic.tsinghua.edu.cn/ghxt_web/" target="_blank">清华大学工会</a>
+    </li>
+    <li>
+        <a href="http://gh.cumt.edu.cn/main.htm" target="_blank">北京大学工会</a>
+    </li>
+    <li>
+        <a href="http://xgh.scu.edu.cn/" target="_blank">四川大学工会</a>
+    </li>
+    <li>
+        <a href="http://zdgh.zju.edu.cn/" target="_blank">浙江大学工会</a>
+    </li>
+    <li>
+        <a href="http://www.gh.uestc.edu.cn/eWeb/xWeb/Default.aspx" target="_blank">电子科技大学工会</a>
+    </li>
+    <li>
+        <a href="https://www.xidian.edu.cn/index.htm" target="_blank">西安电子科技大学工会</a>
+    </li>
+    <li>
+        <a href="http://teachhome.hdu.edu.cn/" target="_blank">杭州电子科技大学工会</a>
+    </li>
+     
+</ul><!--#endeditable-->
+						</div>
+					</div>
+					<div class="content-inner cf">
+						<img src="../../images/foot-logo.png" alt="桂林电子科技大学工会委员会" width="400" class="footer-logo">
+
+						<div class="footer-top-content">
+							<!--#begineditable name="版权" viewid="200296" tagname="版权" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp=""--><!-- 版权内容请在本组件"内容配置-版权"处填写 -->
+<p>Copyright@2017　</p><p>桂林电子科技大学工会委员会 地址：广西桂林市七星区金鸡路1号　</p><p>电话：0773-2290831　 传真：0773-2290831　　 邮编：541004　　 邮箱：gonghui@guet.edu.cn</p><p><br /></p><!--#endeditable-->
+						</div>
+					</div>
+				</div>
+
+				<div class="footer-bottom"><!--#begineditable name="技术支持" action="" layout="" tpltype="" contype="" clone="" viewid="200527" contentviewid="" tagname="技术支持"--><!-- 版权内容请在本组件"内容配置-版权"处填写 -->
+版权所有：桂林电子科技大学工会委员会 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       技术支持：桂林启智科技
+<!--#endeditable--></div>
+			</div>
+			<!--end:  footer  -->
+
+		</div>
+		<!--end:  wrapper  -->
+
+		<!--star:  js  -->
+		<script type="text/javascript" src="../../js/jquery.min.js"></script>
+
+		<script language="javascript" sf_script="1">
+			if(typeof(SF_FUNC_cache_flush) == 'function') SF_FUNC_cache_flush();
+		</script>
+		<script type="text/javascript" src="../../js/jquery.easing-1.3.js"></script>
+
+		<script language="javascript" sf_script="1">
+			if(typeof(SF_FUNC_cache_flush) == 'function') SF_FUNC_cache_flush();
+		</script>
+		<script type="text/javascript" src="../../js/jquery.iosslider.js"></script>
+
+		<script language="javascript" sf_script="1">
+			if(typeof(SF_FUNC_cache_flush) == 'function') SF_FUNC_cache_flush();
+		</script>
+		<script type="text/javascript" src="../../js/slider.js"></script>
+
+		<script language="javascript" sf_script="1">
+			if(typeof(SF_FUNC_cache_flush) == 'function') SF_FUNC_cache_flush();
+		</script>
+		<script type="text/javascript" src="../../js/iealert.js"></script>
+
+		<script language="javascript" sf_script="1">
+			if(typeof(SF_FUNC_cache_flush) == 'function') SF_FUNC_cache_flush();
+		</script>
+		<script type="text/javascript" src="../../js/common.js"></script>
+
+		<script language="javascript" sf_script="1">
+			if(typeof(SF_FUNC_cache_flush) == 'function') SF_FUNC_cache_flush();
+		</script>
+		<script type="text/javascript" src="../../js/bsStatic.js" charset="utf-8"></script>
+
+		<script language="javascript" sf_script="1">
+			if(typeof(SF_FUNC_cache_flush) == 'function') SF_FUNC_cache_flush();
+		</script>
+
+		<script type="text/javascript" src="../../js/bs-engine.js" charset="utf-8"></script>
+
+		<script language="javascript" sf_script="1">
+			if(typeof(SF_FUNC_cache_flush) == 'function') SF_FUNC_cache_flush();
+		</script>
+		<!--end:  js  -->
+
+	</body>
+
+</html>

@@ -1,0 +1,1180 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><HTML><HEAD><TITLE>发展规划处</TITLE><META Name="keywords" Content="发展规划处" />
+
+
+
+
+
+<META content="text/html; charset=UTF-8" http-equiv="Content-Type"><LINK rel="stylesheet" type="text/css" href="style/css.css">
+
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="index.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1417291953)</script>
+</HEAD>
+<BODY>
+<TABLE border="0" cellspacing="0" cellpadding="0" width="970" background="images/banner.jpg" align="center">
+<TBODY>
+<TR>
+<TD height="195" valign="middle" style="padding-left: 60px"><!--#begineditable contype="" name="LOGO" action="" layout="" clone="0" namechanged="0" order="0" ispublic="0" tagname="LOGO" viewid="42231" contentviewid="" stylesysid=""-->
+<table border="0" cellspacing="0" cellpadding="0"><tr><td><img src="images/logo1.png" border="0" alt="发展规划处" title="发展规划处"></td></tr></table><!--#endeditable--></TD></TR></TBODY></TABLE>
+<TABLE border="0" cellspacing="0" cellpadding="0" width="1000" background="images/index_03.gif" align="center">
+<TBODY>
+<TR>
+<TD height="35" align="center"><!--#begineditable contype="" name="网站导航" action="" layout="" clone="0" namechanged="0" order="1" ispublic="0" tagname="网站导航" viewid="42232" contentviewid="" stylesysid=""--><style type="text/css">
+td.b1_1_{FONT-SIZE:9pt;}
+td.b2_1_{FONT-SIZE:9pt;}
+td.b3_1_{FONT-SIZE:9pt;PADDING-BOTTOM: 9px;BACKGROUND-COLOR: #4795c9;PADDING-LEFT: 10px;PADDING-RIGHT: 10px;BORDER-TOP: #ffffff 1px solid;PADDING-TOP: 9px;}
+td.b4_1_{FONT-SIZE:9pt;PADDING-BOTTOM: 9px;BACKGROUND-COLOR: #76aacc;PADDING-LEFT: 10px;PADDING-RIGHT: 10px;PADDING-TOP: 9px;}
+a.menu0_1_:link {TEXT-DECORATION: none;};
+a.menu0_1_:visited { TEXT-DECORATION: none;};
+a.menu0_1_:hover {TEXT-DECORATION: none;};
+a.menu0_1_:active {TEXT-DECORATION: none;};
+table.tb1_1_{FONT-SIZE:9pt;border:0;}
+span.s1_1_{COLOR: #ffff00;FONT-SIZE: 10pt;FONT-WEIGHT: bold;}
+span.s2_1_{COLOR: #ffff00;FONT-SIZE: 10pt;FONT-WEIGHT: bold;TEXT-DECORATION: none;}
+span.s10_1_{COLOR: #ffffff;FONT-SIZE: 10pt;FONT-WEIGHT: bold;TEXT-DECORATION: none;}
+span.s20_1_{PADDING-BOTTOM: 4px;PADDING-LEFT: 4px;PADDING-RIGHT: 4px;COLOR: #ffffff;FONT-SIZE: 10pt;FONT-WEIGHT: bold;TEXT-DECORATION: none;PADDING-TOP: 4px;}
+</style>
+<SCRIPT language="javascript"> 
+ var showfix_1_ = 1;
+ var isvertical_1_ = false;
+</SCRIPT>
+<script language="javascript" src="/system/resource/js/menu/text.js"></script>
+<TABLE id="t1_1_" cellSpacing="0" cellPadding="0" border="0" height="0" width="960"><TR><TD valign="center"></TD><TD valign="middle" height="0" width="0" nowrap class="b1_1_" align="center" id="a_1_1001" onmouseover="tshowLayers('1001','b2_1_', '_1_')" onmouseout="thideLayers('1001','b1_1_', '_1_','true','true')"><a class="menu0_1_" href="index.htm"><span class="fontstyle42232">&nbsp;首页&nbsp;</span></a></TD><TD valign="center" class="leaderfont42232">|</TD><TD valign="middle" width="0" nowrap class="b1_1_" align="center" id="a_1_1082" onmouseover="tshowLayers('1082','b2_1_', '_1_')" onmouseout="thideLayers('1082','b1_1_', '_1_','true','true')"><a class="menu0_1_" href="xwzx1/ryzc.htm"><span class="fontstyle42232">&nbsp;组织机构&nbsp;</span></a></TD><TD valign="center" class="leaderfont42232">|</TD><TD valign="middle" width="0" nowrap class="b1_1_" align="center" id="a_1_1003" onmouseover="tshowLayers('1003','b2_1_', '_1_')" onmouseout="thideLayers('1003','b1_1_', '_1_','true','true')"><a class="menu0_1_" href="xwzx/gj_dfgh.htm"><span class="fontstyle42232">&nbsp;战略规划&nbsp;</span></a></TD><TD valign="center" class="leaderfont42232">|</TD><TD valign="middle" width="0" nowrap class="b1_1_" align="center" id="a_1_1060" onmouseover="tshowLayers('1060','b2_1_', '_1_')" onmouseout="thideLayers('1060','b1_1_', '_1_','true','true')"><a class="menu0_1_" href="zxgz/xkgk.htm"><span class="fontstyle42232">&nbsp;学科建设&nbsp;</span></a></TD><TD valign="center" class="leaderfont42232">|</TD><TD valign="middle" width="0" nowrap class="b1_1_" align="center" id="a_1_1010" onmouseover="tshowLayers('1010','b2_1_', '_1_')" onmouseout="thideLayers('1010','b1_1_', '_1_','true','true')"><a class="menu0_1_" href="gzzd/qtzx.htm"><span class="fontstyle42232">&nbsp;专项工程&nbsp;</span></a></TD><TD valign="center" class="leaderfont42232">|</TD><TD valign="middle" width="0" nowrap class="b1_1_" align="center" id="a_1_1015" onmouseover="tshowLayers('1015','b2_1_', '_1_')" onmouseout="thideLayers('1015','b1_1_', '_1_','true','true')"><a class="menu0_1_" href="rcgl/zcjd.htm"><span class="fontstyle42232">&nbsp;政策资讯&nbsp;</span></a></TD><TD valign="center" class="leaderfont42232">|</TD><TD valign="middle" width="0" nowrap class="b1_1_" align="center" id="a_1_1020" onmouseover="tshowLayers('1020','b2_1_', '_1_')" onmouseout="thideLayers('1020','b1_1_', '_1_','true','true')"><a class="menu0_1_" href="aqjy/gcjyfzyjzxzk.htm"><span class="fontstyle42232">&nbsp;高教研究&nbsp;</span></a></TD><TD valign="center" class="leaderfont42232">|</TD><TD valign="middle" width="0" nowrap class="b1_1_" align="center" id="a_1_1034" onmouseover="tshowLayers('1034','b2_1_', '_1_')" onmouseout="thideLayers('1034','b1_1_', '_1_','true','true')"><a class="menu0_1_" href="xszz/bkjxztsj.htm"><span class="fontstyle42232">&nbsp;信息统计&nbsp;</span></a></TD><TD valign="center" class="leaderfont42232">|</TD><TD valign="middle" width="0" nowrap class="b1_1_" align="center" id="a_1_1055" onmouseover="tshowLayers('1055','b2_1_', '_1_')" onmouseout="thideLayers('1055','b1_1_', '_1_','true','true')"><a class="menu0_1_" href="xzzx/fzghl.htm"><span class="fontstyle42232">&nbsp;下载中心&nbsp;</span></a></TD></TR></TR><TR><td align="left" nowrap></td><td></td><td align="left" nowrap><DIV class="main_1_" id="layer_1_1082" onmouseover="tshownull('1082','b2_1_', '_1_')" onmouseout="thideLayers('1082','b1_1_', '_1_','true')" style="z-index:99999;display: none; POSITION: absolute;"><TABLE align="center" class="tb1_1_" cellSpacing="0" cellPadding="0" border="0"><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_1_', '_1_');" onmouseout="TOUT(this,'b3_1_', '_1_');" class="b3_1_">
+<A class="menu0_1_" href="xwzx1/bmzz.htm"><span class="ejfontstyle42232">&nbsp;部门职责&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_1_', '_1_');" onmouseout="TOUT(this,'b3_1_', '_1_');" class="b3_1_">
+<A class="menu0_1_" href="xwzx1/ryzc.htm"><span class="ejfontstyle42232">&nbsp;人员组成&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_1_', '_1_');" onmouseout="TOUT(this,'b3_1_', '_1_');" class="b3_1_">
+<A class="menu0_1_" href="xwzx1/bszn.htm"><span class="ejfontstyle42232">&nbsp;办事指南&nbsp;</span></a></TD></tr></table></div></td><td></td><td align="left" nowrap><DIV class="main_1_" id="layer_1_1003" onmouseover="tshownull('1003','b2_1_', '_1_')" onmouseout="thideLayers('1003','b1_1_', '_1_','true')" style="z-index:99999;display: none; POSITION: absolute;"><TABLE align="center" class="tb1_1_" cellSpacing="0" cellPadding="0" border="0"><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_1_', '_1_');" onmouseout="TOUT(this,'b3_1_', '_1_');" class="b3_1_">
+<A class="menu0_1_" href="xwzx/gj_dfgh.htm"><span class="ejfontstyle42232">&nbsp;国家、地方规划&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_1_', '_1_');" onmouseout="TOUT(this,'b3_1_', '_1_');" class="b3_1_">
+<A class="menu0_1_" href="xwzx/xxgh.htm"><span class="ejfontstyle42232">&nbsp;学校规划&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_1_', '_1_');" onmouseout="TOUT(this,'b3_1_', '_1_');" class="b3_1_">
+<A class="menu0_1_" href="xwzx/ghdt.htm"><span class="ejfontstyle42232">&nbsp;规划动态&nbsp;</span></a></TD></tr></table></div></td><td></td><td align="left" nowrap><DIV class="main_1_" id="layer_1_1060" onmouseover="tshownull('1060','b2_1_', '_1_')" onmouseout="thideLayers('1060','b1_1_', '_1_','true')" style="z-index:99999;display: none; POSITION: absolute;"><TABLE align="center" class="tb1_1_" cellSpacing="0" cellPadding="0" border="0"><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_1_', '_1_');" onmouseout="TOUT(this,'b3_1_', '_1_');" class="b3_1_">
+<A class="menu0_1_" href="zxgz/xkgk.htm"><span class="ejfontstyle42232">&nbsp;学科概况&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_1_', '_1_');" onmouseout="TOUT(this,'b3_1_', '_1_');" class="b3_1_">
+<A class="menu0_1_" href="zxgz/ylxkjs.htm"><span class="ejfontstyle42232">&nbsp;一流学科建设&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_1_', '_1_');" onmouseout="TOUT(this,'b3_1_', '_1_');" class="b3_1_">
+<A class="menu0_1_" href="zxgz/xxjcxk.htm"><span class="ejfontstyle42232">&nbsp;新兴交叉学科&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_1_', '_1_');" onmouseout="TOUT(this,'b3_1_', '_1_');" class="b3_1_">
+<A class="menu0_1_" href="zxgz/gxzdxk.htm"><span class="ejfontstyle42232">&nbsp;广西重点学科&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_1_', '_1_');" onmouseout="TOUT(this,'b3_1_', '_1_');" class="b3_1_">
+<A class="menu0_1_" href="zxgz/xwsq.htm"><span class="ejfontstyle42232">&nbsp;学位授权&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_1_', '_1_');" onmouseout="TOUT(this,'b3_1_', '_1_');" class="b3_1_">
+<A class="menu0_1_" href="zxgz/xwd_xkpg.htm"><span class="ejfontstyle42232">&nbsp;学位点&amp;学科评估&nbsp;</span></a></TD></tr></table></div></td><td></td><td align="left" nowrap><DIV class="main_1_" id="layer_1_1010" onmouseover="tshownull('1010','b2_1_', '_1_')" onmouseout="thideLayers('1010','b1_1_', '_1_','true')" style="z-index:99999;display: none; POSITION: absolute;"><TABLE align="center" class="tb1_1_" cellSpacing="0" cellPadding="0" border="0"><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_1_', '_1_');" onmouseout="TOUT(this,'b3_1_', '_1_');" class="b3_1_">
+<A class="menu0_1_" href="gzzd/zxbjcnljsgc.htm"><span class="ejfontstyle42232">&nbsp;中西部基础能力建设工程&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_1_', '_1_');" onmouseout="TOUT(this,'b3_1_', '_1_');" class="b3_1_">
+<A class="menu0_1_" href="gzzd/zyydfgjzj.htm"><span class="ejfontstyle42232">&nbsp;中央与地方共建资金&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_1_', '_1_');" onmouseout="TOUT(this,'b3_1_', '_1_');" class="b3_1_">
+<A class="menu0_1_" href="gzzd/qjcy.htm"><span class="ejfontstyle42232">&nbsp;强基创优&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_1_', '_1_');" onmouseout="TOUT(this,'b3_1_', '_1_');" class="b3_1_">
+<A class="menu0_1_" href="gzzd/qtzx.htm"><span class="ejfontstyle42232">&nbsp;其他专项&nbsp;</span></a></TD></tr></table></div></td><td></td><td align="left" nowrap><DIV class="main_1_" id="layer_1_1015" onmouseover="tshownull('1015','b2_1_', '_1_')" onmouseout="thideLayers('1015','b1_1_', '_1_','true')" style="z-index:99999;display: none; POSITION: absolute;"><TABLE align="center" class="tb1_1_" cellSpacing="0" cellPadding="0" border="0"><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_1_', '_1_');" onmouseout="TOUT(this,'b3_1_', '_1_');" class="b3_1_">
+<A class="menu0_1_" href="rcgl/zcjd.htm"><span class="ejfontstyle42232">&nbsp;政策解读&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_1_', '_1_');" onmouseout="TOUT(this,'b3_1_', '_1_');" class="b3_1_">
+<A class="menu0_1_" href="rcgl/zcwj.htm"><span class="ejfontstyle42232">&nbsp;政策文件&nbsp;</span></a></TD></tr></table></div></td><td></td><td align="left" nowrap><DIV class="main_1_" id="layer_1_1020" onmouseover="tshownull('1020','b2_1_', '_1_')" onmouseout="thideLayers('1020','b1_1_', '_1_','true')" style="z-index:99999;display: none; POSITION: absolute;"><TABLE align="center" class="tb1_1_" cellSpacing="0" cellPadding="0" border="0"><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_1_', '_1_');" onmouseout="TOUT(this,'b3_1_', '_1_');" class="b3_1_">
+<A class="menu0_1_" href="aqjy/gcjyfzyjzxzk.htm"><span class="ejfontstyle42232">&nbsp;工程教育发展研究中心智库&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_1_', '_1_');" onmouseout="TOUT(this,'b3_1_', '_1_');" class="b3_1_">
+<A class="menu0_1_" href="aqjy/gjdt.htm"><span class="ejfontstyle42232">&nbsp;高教动态&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_1_', '_1_');" onmouseout="TOUT(this,'b3_1_', '_1_');" class="b3_1_">
+<A class="menu0_1_" href="aqjy/fzck.htm"><span class="ejfontstyle42232">&nbsp;发展参考&nbsp;</span></a></TD></tr></table></div></td><td></td><td align="left" nowrap><DIV class="main_1_" id="layer_1_1034" onmouseover="tshownull('1034','b2_1_', '_1_')" onmouseout="thideLayers('1034','b1_1_', '_1_','true')" style="z-index:99999;display: none; POSITION: absolute;"><TABLE align="center" class="tb1_1_" cellSpacing="0" cellPadding="0" border="0"><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_1_', '_1_');" onmouseout="TOUT(this,'b3_1_', '_1_');" class="b3_1_">
+<A class="menu0_1_" href="xszz/bkjxztsj.htm"><span class="ejfontstyle42232">&nbsp;本科教学状态数据&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_1_', '_1_');" onmouseout="TOUT(this,'b3_1_', '_1_');" class="b3_1_">
+<A class="menu0_1_" href="xszz/gjb.htm"><span class="ejfontstyle42232">&nbsp;高基表&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_1_', '_1_');" onmouseout="TOUT(this,'b3_1_', '_1_');" class="b3_1_">
+<A class="menu0_1_" href="xszz/sjbzyfb.htm"><span class="ejfontstyle42232">&nbsp;数据标准与发布&nbsp;</span></a></TD></tr></table></div></td><td></td><td align="left" nowrap><DIV class="main_1_" id="layer_1_1055" onmouseover="tshownull('1055','b2_1_', '_1_')" onmouseout="thideLayers('1055','b1_1_', '_1_','true')" style="z-index:99999;display: none; POSITION: absolute;"><TABLE align="center" class="tb1_1_" cellSpacing="0" cellPadding="0" border="0"><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_1_', '_1_');" onmouseout="TOUT(this,'b3_1_', '_1_');" class="b3_1_">
+<A class="menu0_1_" href="xzzx/fzghl.htm"><span class="ejfontstyle42232">&nbsp;发展规划类&nbsp;</span></a></TD></tr><tr><TD height="0" align="left" nowrap onmouseover="TOVT(this,'b4_1_', '_1_');" onmouseout="TOUT(this,'b3_1_', '_1_');" class="b3_1_">
+<A class="menu0_1_" href="xzzx/xkjsl.htm"><span class="ejfontstyle42232">&nbsp;学科建设类&nbsp;</span></a></TD></tr></table></div></td><td></td></TR></table><!--#endeditable--></TD></TR></TBODY></TABLE>
+<TABLE border="0" cellspacing="0" cellpadding="0" width="1000" background="images/index_07.gif" align="center">
+<TBODY>
+<TR>
+<TD width="27" align="left"><IMG src="images/index_05.gif" width="27" height="30"></TD>
+<TD width="473" align="left" style="padding-left: 30px"><!--#begineditable contype="" name="文本日历" action="" layout="" clone="0" namechanged="0" order="2" ispublic="0" tagname="文本日历" viewid="42233" contentviewid="" stylesysid=""--><script language="javascript" src="/system/resource/js/calendar/simple.js"></script>               
+<script language="JavaScript">
+//阳历
+var c_Calendar42233EnDateString;
+
+var c_Calendar42233WeekDayString;
+
+//阴历
+var c_Calendar42233CnDateString;
+//节气
+var c_Calendar42233JQString;
+//年
+var c_Calendar42233YearString;
+//月
+var c_Calendar42233MonthString;
+//日
+var c_Calendar42233DayString;
+//周
+var c_Calendar42233WeekString;
+function RunGLNL42233()
+{          
+    var  sc =new Simple_Calendar ();
+    sc.init();
+    c_Calendar42233CnDateString=sc.getCnDateString();
+    c_Calendar42233WeekDayString=sc.getCalendarWeekString();
+    c_Calendar42233JQString=sc.getJQString();
+    c_Calendar42233EnDateString=sc.getEnDateString();
+    c_Calendar42233YearString=sc.getYearString();
+    c_Calendar42233MonthString=sc.getMonthString();
+    c_Calendar42233DayString=sc.getDayString();
+    c_Calendar42233WeekString=sc.getWeekString();
+}
+RunGLNL42233();
+document.write('<div id="c_lunar42233"   class="fontstyle42233"  >');       
+document.write(c_Calendar42233EnDateString);
+document.write("&nbsp;&nbsp;"+c_Calendar42233WeekDayString);
+document.write("&nbsp;&nbsp;"+c_Calendar42233JQString);
+
+
+document.write("</div>");
+
+</script>
+<!--#endeditable--></TD>
+<TD width="474" align="right" style="padding-right: 30px"><!--#begineditable contype="" name="简单检索" action="" layout="" clone="0" namechanged="0" order="3" ispublic="0" tagname="简单检索" viewid="42234" contentviewid="" stylesysid=""-->
+
+
+
+
+
+
+<script language="javascript" src="/system/resource/js/base64.js"></script>
+<script language="javascript" src="/system/resource/js/formfunc.js"></script>
+<form action="search.jsp?wbtreeid=1001" method="post" name="a42234a" target="_blank" onsubmit="return subsearchdataa42234a()" style="display: inline;">
+ <input type="hidden" name="Find" value="find">
+ <input type="hidden" name="entrymode" value="1">
+ <input type="hidden" id="INTEXT2" name="INTEXT2" value="">
+ <input type="hidden" name="news_search_code">
+ <table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+   <td Valign="middle" nowrap="nowrap" height="22">
+    <font class="leaderfont42234">站内搜索：</font>
+    
+        <input type="hidden" name="wbtreeids" value="0">
+    </td><td><span id="intextspana42234a"></span><iframe id="intextframea42234a" src="about:blank" scrolling="no" frameborder="0" style="position:absolute;top:0px;left:0px;display:none;"></iframe><input size="22" name="INTEXT" class="querystyle42234">
+   </td>
+   <td align="absmiddle" nowrap="nowrap" height="1">
+   <input type="image" src="images/index_10.gif" valign="bottom" style="cursor: hand"></td>
+  </tr>
+  
+ </table>
+</form>
+<script>
+String.prototype.trim= function()       
+{              
+    var t = this.replace(/(^\s*)|(\s*$)/g, "");     
+    return t.replace(/(^　*)|(　*$)/g, "");     
+}
+ 
+function subsearchdataa42234a()
+{ 
+	
+	if(document.a42234a.INTEXT.value.trim()=="")
+	{
+		alert("请输入查询关键字！");
+		return false;
+	}
+	
+	
+    if(checkDataa42234a(document.a42234a))
+    {
+       return true;  
+    }
+    return false;
+}       
+</script>
+
+<script> 
+function checkDataa42234a(formname)
+{
+	if(formname.INTEXT.value.trim()=="")
+	{
+		alert("请输入查询关键字！");
+		return false;
+	}
+
+	var  base64 = new Base64();
+    if(window.toFF==1)
+        {
+            var ssvalue = formname.INTEXT.value;
+            formname.INTEXT2.value = Simplized(ssvalue);
+            formname.INTEXT2.value = base64.encode(formname.INTEXT2.value);
+        }else
+        formname.INTEXT2.value = formname.INTEXT.value;
+        formname.INTEXT2.value = base64.encode(formname.INTEXT2.value);
+       return true;
+}
+</script>
+<!--#endeditable--></TD>
+<TD width="26" align="right"><IMG src="images/index_08.gif" width="26" height="30"></TD></TR></TBODY></TABLE>
+<TABLE border="0" cellspacing="0" cellpadding="0" width="970" align="center">
+<TBODY>
+<TR>
+<TD height="10"></TD></TR></TBODY></TABLE>
+<TABLE border="0" cellspacing="0" cellpadding="0" width="970" align="center">
+<TBODY>
+<TR>
+<TD valign="top" width="42" align="center">
+<TABLE border="0" cellspacing="0" cellpadding="0" width="367">
+<TBODY>
+<TR>
+<TD height="4"><IMG src="images/index_left4.gif" width="367" height="4"></TD></TR></TBODY></TABLE>
+<TABLE border="0" cellspacing="5" cellpadding="0" width="367" style="border-left: #cccccc 1px solid; border-right: #cccccc 1px solid">
+<TBODY>
+<TR>
+<TD height="215" valign="middle" align="center"><!--#begineditable contype="" name="变换图片文章" action="" layout="" clone="0" namechanged="0" order="4" ispublic="0" tagname="变换图片文章" viewid="42237" contentviewid="" stylesysid=""-->
+<LINK href="/system/resource/style/component/news/list/imagechangenews.css" type="text/css" rel="stylesheet">
+<script language="javascript" src="/system/resource/js/news/imagechangenews.js"></script><script language="JavaScript">
+var u_u4_icn = new ImageChangeNews("u_u4_", 355, 194, 4, 2.0, true, false, false, true);
+
+//初始化图片, 并启动定时
+function u_u4_init_img()
+{
+
+    u_u4_icn.addimg("\/__local\/2\/EA\/74\/E2F011F3EDD433DE4EDEC8DAEBB_EF0A0815_475F.jpg", "info\/1091\/1485.htm", "我校举办2019年教育事业数据统计工作培训", "");
+
+    u_u4_icn.addimg("\/__local\/4\/A6\/7D\/96E8F254A303D3057ABA60CE933_1E0013A8_8B08.jpg", "http:\/\/iw.guet.edu.cn\/info\/1034\/59984.htm", "我校召开2019年教育统计工作会议（图）", "");
+
+    u_u4_icn.addimg("\/__local\/5\/CA\/91\/F6003B5654AC8978097F42D0EE1_85B5E1F2_75AD.png", "http:\/\/iw.guet.edu.cn\/info\/1034\/59978.htm", "人工智能学院交叉学科平台建设项目通过专家论证（图）", "");
+
+    u_u4_icn.addimg("\/__local\/C\/6A\/7A\/3A0C5993E41DFCAD6C3ADC51468_40DA89DC_801A.jpg", "http:\/\/iw.guet.edu.cn\/info\/1002\/59539.htm?tdsourcetag=s_pcqq_aiomsg", "学校顺利完成土木水利硕士专业学位授权点申报校外...", "");
+
+    u_u4_icn.addimg("\/__local\/D\/00\/08\/FE5E0BF934F0638E1F254EFD93A_E5E802E4_9A53.jpg", "http:\/\/iw.guet.edu.cn\/info\/1002\/59573.htm?tdsourcetag=s_pcqq_aiomsg", "外国语学院2019年统筹增列学位授权点同行专家评审...", "");
+
+    u_u4_icn.addimg("\/__local\/C\/C4\/E1\/D085A49DA671DB1CEDA25D4D6DE_AD5CDDF7_B880.jpg", "info\/1091\/1425.htm", "发展规划处赴华东交通大学调研校院二级管理情况", "");
+
+    u_u4_icn.changeimg(0);
+}
+</script><table cellspacing="0" cellpadding="0" border="0" style="padding:0px margin:0px; border:0px">
+    <tr><td>
+        <div style="OVERFLOW: hidden;height:194px;width:355px">
+            <div id="u_u4_div" align="center" style="padding:0px;margin:0px;border:0px solid black;background-color:#000000;FILTER: progid:DXImageTransform.Microsoft.RevealTrans (duration=2.0,transition=23);height:194px;width:355px">
+                <div id="u_u4_imgdiv" style="padding:0px;border:0px;"><a id="u_u4_url" target="_blank"><img id="u_u4_pic" border="0" width="355" height="194" src="/system/resource/images/space.gif"></a></div>
+            </div>
+            <div style="filter:alpha(style=1,opacity=10,finishOpacity=80);width:355px;height:19px;text-align:right;top:-19px;position:relative;padding:0px;margin:0px;border:0px;">
+<a href="javascript:u_u4_icn.changeimg(0)" ; id="u_u4_selectNode0" class="imagechangenews_pnode" target="_self">1</a><a href="javascript:u_u4_icn.changeimg(1)" ; id="u_u4_selectNode1" class="imagechangenews_pnode" target="_self">2</a><a href="javascript:u_u4_icn.changeimg(2)" ; id="u_u4_selectNode2" class="imagechangenews_pnode" target="_self">3</a><a href="javascript:u_u4_icn.changeimg(3)" ; id="u_u4_selectNode3" class="imagechangenews_pnode" target="_self">4</a><a href="javascript:u_u4_icn.changeimg(4)" ; id="u_u4_selectNode4" class="imagechangenews_pnode" target="_self">5</a><a href="javascript:u_u4_icn.changeimg(5)" ; id="u_u4_selectNode5" class="imagechangenews_pnode" target="_self">6</a>
+            </div></div></td></tr>
+       
+    <tr><td height="25">
+        <div align="center" style="overflow:hidden;text-overflow:ellipsis;height:25px;width:355px;"><a target="_blank" class="titlestyle42237" id="u_u4_newstitle"></a></div>
+    </td></tr>
+<div align="left" display="none" style="overflow:hidden;text-overflow:ellipsis;height:0px;width:355px;padding-left:2px;padding-right:2px"><a target="_blank" class="summarystyle42237" id="u_u4_newssummary"></a></div>   
+</table><SCRIPT language="JavaScript">u_u4_init_img();</SCRIPT><!--#endeditable--></TD></TR></TBODY></TABLE>
+<TABLE border="0" cellspacing="0" cellpadding="0" width="367">
+<TBODY>
+<TR>
+<TD height="4" valign="top"><IMG src="images/index_left5.gif" width="367" height="4"></TD></TR></TBODY></TABLE></TD>
+<TD valign="top" width="712" align="center">
+<TABLE border="0" cellspacing="0" cellpadding="0" width="367" background="images/index_16.gif">
+<TBODY>
+<TR>
+<TD height="30" width="43">&nbsp;</TD>
+<TD class="h5" width="270" align="left">最新动态</TD>
+<TD width="54"><A class="heise12x" href="zxdt.htm" target="">更多&gt;&gt;</A></TD></TR></TBODY></TABLE>
+<TABLE border="0" cellspacing="5" cellpadding="0" width="367" style="border-left: #cccccc 1px solid; border-right: #cccccc 1px solid">
+<TBODY>
+<TR>
+<TD height="190" valign="top" align="left"><!--#begineditable contype="" name="最新动态" action="" layout="" clone="0" namechanged="0" order="5" ispublic="0" tagname="最新动态" viewid="42236" contentviewid="" stylesysid=""--><table width="100%" cellspacing="3" cellpadding="0">
+  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont42236"><img src="images/index_23.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="https://www.guet.edu.cn/info/1151/52154.htm" class="c42236" title="我校通过动态调整增列3个硕士学位授权点" target="_blank">
+        我校通过动态调整增列3个硕士学位授权点
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle42236" width="1%" nowrap>04月03日</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont42236"><img src="images/index_23.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1091/1535.htm" class="c42236" title="桂林旅游学院发展规划处一行到我校调研" target="_blank">
+        桂林旅游学院发展规划处一行到我校调研
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle42236" width="1%" nowrap>12月24日</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont42236"><img src="images/index_23.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="https://www.guet.edu.cn/info/1151/50844.htm" class="c42236" title="我校召开2020年拟申请新增博士点申报材料校内论证会（图）" target="_blank">
+        我校召开2020年拟申请新增博士点申报材料校...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle42236" width="1%" nowrap>11月20日</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont42236"><img src="images/index_23.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="https://www.guet.edu.cn/info/1151/50515.htm" class="c42236" title="自治区学位办傅源方主任来校指导博士点申报准备工作（图）" target="_blank">
+        自治区学位办傅源方主任来校指导博士点申报...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle42236" width="1%" nowrap>11月02日</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont42236"><img src="images/index_23.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1091/1489.htm" class="c42236" title="广西科技大学发展规划处一行到校交流（图）" target="_blank">
+        广西科技大学发展规划处一行到校交流（图）
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle42236" width="1%" nowrap>10月17日</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont42236"><img src="images/index_23.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="http://iw.guet.edu.cn/info/1002/60699.htm?tdsourcetag=s_pcqq_aiomsg" class="c42236" title="【不忘初心、牢记使命】​校领导深入一流学科建设、博士点立项建设单位实地调研（图）" target="_blank">
+        【不忘初心、牢记使命】​校领导深入一流学...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle42236" width="1%" nowrap>10月14日</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont42236"><img src="images/index_23.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1091/1485.htm" class="c42236" title="我校举办2019年教育事业数据统计工作培训" target="_blank">
+        我校举办2019年教育事业数据统计工作培训
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle42236" width="1%" nowrap>09月30日</td></tr>
+</table><!--#endeditable--></TD></TR></TBODY></TABLE>
+<TABLE border="0" cellspacing="0" cellpadding="0" width="367">
+<TBODY>
+<TR>
+<TD valign="top"><IMG src="images/index_left3.gif" width="367" height="4"></TD></TR></TBODY></TABLE></TD>
+<TD height="136" valign="top" width="216" align="left">
+<TABLE border="0" cellspacing="0" cellpadding="0" width="221" style="width: 216px; height: 30px">
+<TBODY>
+<TR>
+<TD valign="top">
+<TABLE border="0" cellspacing="0" cellpadding="0" width="216" background="images/index_38.gif">
+<TBODY>
+<TR>
+<TD height="30" width="33">&nbsp;</TD>
+<TD class="h5" height="31" width="136" align="left">通知通告</TD>
+<TD width="47"><A class="heise12x" href="tztg.htm" target="">更多&gt;&gt;</A></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+<TABLE border="0" cellspacing="0" cellpadding="0" width="216" style="border-left: #cccccc 1px solid; border-right: #cccccc 1px solid">
+<TBODY>
+<TR>
+<TD height="200" valign="top" align="left"><!--#begineditable contype="" name="通知通告" action="" layout="" clone="0" namechanged="0" order="6" ispublic="0" tagname="通知通告" viewid="162113" contentviewid="" stylesysid=""--><table width="100%" cellspacing="3" cellpadding="0">
+  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont162113"><img src="images/cio_002.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1077/1416.htm" class="c162113" title="桂林电子科技大学发展规划处2019年人员招聘公告">
+        桂林电子科技大学发...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle162113" width="1%" nowrap>03月01日</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont162113"><img src="images/cio_002.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1077/1355.htm" class="c162113" title="关于“十三五”规划和综合改革方案阶段性成果材料收集的通知">
+        关于“十三五”规划...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle162113" width="1%" nowrap>12月14日</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont162113"><img src="images/cio_002.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1077/1315.htm" class="c162113" title="关于对工程硕士专业学位授权点对应调整的通知">
+        关于对工程硕士专业...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle162113" width="1%" nowrap>09月19日</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont162113"><img src="images/cio_002.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1077/1305.htm" class="c162113" title="关于学位授权点合格评估有关事项的通知">
+        关于学位授权点合格...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle162113" width="1%" nowrap>07月10日</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont162113"><img src="images/cio_002.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1077/1256.htm" class="c162113" title="广西壮族自治区教育厅办公室转发关于印发《高等学校人工智能创新行动计划》的通知(科信处)">
+        广西壮族自治区教育...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle162113" width="1%" nowrap>04月17日</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont162113"><img src="images/cio_002.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1077/1236.htm" class="c162113" title="关于做好学位授权点合格评估后续工作的通知">
+        关于做好学位授权点...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle162113" width="1%" nowrap>04月12日</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont162113"><img src="images/cio_002.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1077/1235.htm" class="c162113" title="关于做好我校2017年度本科教学基本状态数据采集工作的通知">
+        关于做好我校2017年...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle162113" width="1%" nowrap>04月10日</td></tr>
+</table><!--#endeditable--></TD></TR></TBODY></TABLE>
+<TABLE border="0" cellspacing="0" cellpadding="0" width="216">
+<TBODY>
+<TR>
+<TD valign="top"><IMG src="images/index_left2.gif" width="216" height="5"></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+<TABLE border="0" cellspacing="0" cellpadding="0" width="970" align="center">
+<TBODY>
+<TR>
+<TD height="10"></TD></TR></TBODY></TABLE>
+<TABLE border="0" cellspacing="0" cellpadding="0" width="970" align="center">
+<TBODY>
+<TR>
+<TD valign="top" width="42" align="center">
+<TABLE border="0" cellspacing="0" cellpadding="0" width="367" background="images/index_42.gif">
+<TBODY>
+<TR>
+<TD height="30" width="43">&nbsp;</TD>
+<TD class="h5" width="270" align="left">学科建设</TD>
+<TD width="54"><A class="heise12x" href="zxgz/xwsq.htm" target="">更多&gt;&gt;</A></TD></TR></TBODY></TABLE>
+<TABLE border="0" cellspacing="5" cellpadding="0" width="367" style="border-left: #cccccc 1px solid; border-right: #cccccc 1px solid">
+<TBODY>
+<TR>
+<TD height="190" valign="middle" align="left"><!--#begineditable contype="" name="学科建设" action="" layout="" clone="0" namechanged="0" order="7" ispublic="0" tagname="学科建设" viewid="42239" contentviewid="" stylesysid=""--><table width="100%" cellspacing="3" cellpadding="0">
+  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont42239"><img src="images/index_23.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1063/1278.htm" class="c42239" title="学位【2018】7号 国务院学位委员会、教育部关于对工程专业学位类别进行调整的通知" target="_blank">
+        学位【2018】7号 国务院学位委员会、教育部...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle42239" width="1%" nowrap>05月14日</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont42239"><img src="images/index_23.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1063/1277.htm" class="c42239" title="学位【2018】9号 国务院学位委员会关于下达2017年审核增列的博士、硕士学位授权点名单的通知（含附件）" target="_blank">
+        学位【2018】9号 国务院学位委员会关于下达2...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle42239" width="1%" nowrap>05月14日</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont42239"><img src="images/index_23.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1063/1172.htm" class="c42239" title="我校相关学位授予和人才培养一级学科简介" target="_blank">
+        我校相关学位授予和人才培养一级学科简介
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle42239" width="1%" nowrap>04月02日</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont42239"><img src="images/index_23.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1063/1173.htm" class="c42239" title="我校相关学科博士硕士学位基本要求" target="_blank">
+        我校相关学科博士硕士学位基本要求
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle42239" width="1%" nowrap>03月05日</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont42239"><img src="images/index_23.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1113/1178.htm" class="c42239" title="学位〔2018〕1号-国务院学位委员会 教育部关于下达2017年学位授权点专项评估结果及处理意见的通知" target="_blank">
+        学位〔2018〕1号-国务院学位委员会 教育部关...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle42239" width="1%" nowrap>02月28日</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont42239"><img src="images/index_23.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1063/1171.htm" class="c42239" title="学位授权审核申请基本条件（试行）" target="_blank">
+        学位授权审核申请基本条件（试行）
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle42239" width="1%" nowrap>02月14日</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont42239"><img src="images/index_23.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1113/1175.htm" class="c42239" title="第四次学科评估结果公布" target="_blank">
+        第四次学科评估结果公布
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle42239" width="1%" nowrap>12月29日</td></tr>
+</table><!--#endeditable--></TD></TR></TBODY></TABLE>
+<TABLE border="0" cellspacing="0" cellpadding="0" width="367">
+<TBODY>
+<TR>
+<TD valign="top"><IMG src="images/index_left3.gif" width="367" height="4"></TD></TR></TBODY></TABLE></TD>
+<TD valign="top" width="712" align="center">
+<TABLE border="0" cellspacing="0" cellpadding="0" width="367" background="images/index_40.gif">
+<TBODY>
+<TR>
+<TD height="30" width="43">&nbsp;</TD>
+<TD class="h5" width="270" align="left">战略规划</TD>
+<TD width="54"><A class="heise12x" href="xwzx/xxgh.htm">更多&gt;&gt;</A></TD></TR></TBODY></TABLE>
+<TABLE border="0" cellspacing="5" cellpadding="0" width="367" style="border-left: #cccccc 1px solid; border-right: #cccccc 1px solid">
+<TBODY>
+<TR>
+<TD height="190" valign="middle" align="left"><!--#begineditable contype="" name="战略规划" action="" layout="" clone="0" namechanged="0" order="8" ispublic="0" tagname="战略规划" viewid="42238" contentviewid="" stylesysid=""--><table width="100%" cellspacing="3" cellpadding="0">
+  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont42238"><img src="images/index_23.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1004/1192.htm" class="c42238" title="转发广西壮族自治区人民政府关于印发广西教育事业“十三五”规划的通知" target="_blank">
+        转发广西壮族自治区人民政府关于印发广西教...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle42238" width="1%" nowrap>03月03日</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont42238"><img src="images/index_23.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1004/1191.htm" class="c42238" title="国务院关于印发国家教育事业发展“十三五”规划的通知" target="_blank">
+        国务院关于印发国家教育事业发展“十三五”...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle42238" width="1%" nowrap>01月12日</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont42238"><img src="images/index_23.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1005/1195.htm" class="c42238" title="桂电党〔2016〕100号--关于印发“十三五”事业发展专项发展规划的通知" target="_blank">
+        桂电党〔2016〕100号--关于印发“十三五”事...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle42238" width="1%" nowrap>12月31日</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont42238"><img src="images/index_23.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1005/1193.htm" class="c42238" title="桂电党〔2016〕91号--关于印发《桂林电子科技大学“十三五”事业发展规划》的通知" target="_blank">
+        桂电党〔2016〕91号--关于印发《桂林电子科...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle42238" width="1%" nowrap>12月31日</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont42238"><img src="images/index_23.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1005/1194.htm" class="c42238" title="桂电党〔2016〕92号--关于印发《桂林电子科技大学综合改革方案》的通知" target="_blank">
+        桂电党〔2016〕92号--关于印发《桂林电子科...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle42238" width="1%" nowrap>12月30日</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont42238"><img src="images/index_23.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1004/1187.htm" class="c42238" title="广西壮族自治区人民政府办公厅关于印发广西工业和信息化发展”十三五“规划的通知" target="_blank">
+        广西壮族自治区人民政府办公厅关于印发广西...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle42238" width="1%" nowrap>11月02日</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont42238"><img src="images/index_23.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1004/1188.htm" class="c42238" title="广西壮族自治区人民政府办公厅关于印发广西科技创新”十三五“规划的通知" target="_blank">
+        广西壮族自治区人民政府办公厅关于印发广西...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle42238" width="1%" nowrap>09月20日</td></tr>
+</table><!--#endeditable--></TD></TR></TBODY></TABLE>
+<TABLE border="0" cellspacing="0" cellpadding="0" width="367">
+<TBODY>
+<TR>
+<TD valign="top"><IMG src="images/index_left3.gif" width="367" height="4"></TD></TR></TBODY></TABLE></TD>
+<TD height="234" valign="top" width="216" align="center">
+<TABLE border="0" cellspacing="0" cellpadding="0" width="216" background="images/index_38.gif">
+<TBODY>
+<TR>
+<TD height="30" width="33">&nbsp;</TD>
+<TD class="h5" height="31" width="136" align="left">智库</TD>
+<TD width="47"><A class="heise12x" href="xzzx/fzghl.htm">更多&gt;&gt;</A></TD></TR></TBODY></TABLE>
+<TABLE border="0" cellspacing="0" cellpadding="0" width="216" style="border-left: #cccccc 1px solid; border-right: #cccccc 1px solid">
+<TBODY>
+<TR>
+<TD height="199" valign="top" align="left"><!--#begineditable contype="" name="智库" action="" layout="" clone="0" namechanged="0" order="9" ispublic="0" tagname="智库" viewid="162378" contentviewid="" stylesysid=""--><table width="100%" cellspacing="3" cellpadding="0">
+  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont162378"><img src="images/cio_002.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1021/1233.htm" class="c162378" title="桂林电子科技大学“广西工程教育发展研究中心”智库建设与运行管理办法（试行）" target="_blank">
+        桂林电子科技大学“广西工程教...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle162378" width="1%" nowrap></td></tr>
+</table><!--#endeditable--></TD></TR></TBODY></TABLE>
+<TABLE border="0" cellspacing="0" cellpadding="0" width="216">
+<TBODY>
+<TR>
+<TD valign="top"><IMG src="images/index_left2.gif" width="216" height="5"></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+<TABLE border="0" cellspacing="0" cellpadding="0" width="970" align="center">
+<TBODY>
+<TR>
+<TD height="10"></TD></TR></TBODY></TABLE>
+<TABLE border="0" cellspacing="0" cellpadding="0" width="970" align="center">
+<TBODY>
+<TR>
+<TD valign="top" width="744" align="center">
+<TABLE border="0" cellspacing="0" cellpadding="0" width="200">
+<TBODY>
+<TR>
+<TD><!--#begineditable contype="" name="广告条" action="" layout="" clone="0" namechanged="0" order="10" ispublic="0" tagname="广告条" viewid="42247" contentviewid="" stylesysid=""-->
+
+
+
+
+<script language="javascript" src="/system/resource/js/dynclicks.js"></script>
+<table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+    <td><a href="#" target="_blank" onclick="_addDynClicks('wbimage',1417291953,29387)"><img src="images/guanggaotiao.jpg" width="745" height="76" hspace="0" vspace="0" border="0"></a></td>
+        </tr>
+        </table><!--#endeditable--></TD></TR></TBODY></TABLE>
+<TABLE border="0" cellspacing="0" cellpadding="0" width="100%" align="center">
+<TBODY>
+<TR>
+<TD height="10"></TD></TR></TBODY></TABLE>
+<TABLE border="0" cellspacing="0" cellpadding="0" width="745" align="center">
+<TBODY>
+<TR>
+<TD height="112" valign="top" width="241">
+<TABLE border="0" cellspacing="0" cellpadding="0" width="241" background="images/index_62.gif">
+<TBODY>
+<TR>
+<TD height="30" width="27">&nbsp;</TD>
+<TD class="h5" width="160" align="left">专项工程</TD>
+<TD width="54"><A class="heise12x" href="gzzd/qtzx.htm">更多&gt;&gt;</A></TD></TR></TBODY></TABLE>
+<TABLE border="0" cellspacing="5" cellpadding="0" width="241" style="border-bottom: #cccccc 1px solid; border-left: #cccccc 1px solid; border-right: #cccccc 1px solid">
+<TBODY>
+<TR>
+<TD height="200" valign="top" align="left"><!--#begineditable contype="" name="专项工程" action="" layout="" clone="0" namechanged="0" order="11" ispublic="0" tagname="专项工程" viewid="42241" contentviewid="" stylesysid=""--><table width="100%" cellspacing="3" cellpadding="0">
+
+<tr><td colspan="5"><span class="titlestyle42241">尚无内容。</span></td>  
+       </tr></table><!--#endeditable--></TD></TR></TBODY></TABLE></TD>
+<TD valign="top">
+<TABLE border="0" cellspacing="0" cellpadding="0" width="241" background="images/index_62.gif" align="center">
+<TBODY>
+<TR>
+<TD height="30" width="27">&nbsp;</TD>
+<TD class="h5" width="160" align="left">高教研究</TD>
+<TD width="54"><A class="heise12x" href="aqjy/gcjyfzyjzxzk.htm">更多&gt;&gt;</A></TD></TR></TBODY></TABLE>
+<TABLE border="0" cellspacing="5" cellpadding="0" width="241" align="center" style="border-bottom: #cccccc 1px solid; border-left: #cccccc 1px solid; border-right: #cccccc 1px solid">
+<TBODY>
+<TR>
+<TD height="200" valign="top" align="left"><!--#begineditable contype="" name="高教研究" action="" layout="" clone="0" namechanged="0" order="12" ispublic="0" tagname="高教研究" viewid="42242" contentviewid="" stylesysid=""--><table width="100%" cellspacing="3" cellpadding="0">
+  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont42242"><img src="images/cio_002.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1021/1233.htm" class="c42242" title="桂林电子科技大学“广西工程教育发展研究中心”智库建设与运行管理办法（试行）" target="_blank">
+        桂林电子科技大学“广西工程教育...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle42242" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont42242"><img src="images/cio_002.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1023/1206.htm" class="c42242" title="高教发展参考（2017年第2期）高校社会捐赠" target="_blank">
+        高教发展参考（2017年第2期）高校...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle42242" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont42242"><img src="images/cio_002.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1023/1205.htm" class="c42242" title="高校发展参考（2017年第1期）高校课程教学评价、学生评教改革动态与趋势" target="_blank">
+        高校发展参考（2017年第1期）高校...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle42242" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont42242"><img src="images/cio_002.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1023/1204.htm" class="c42242" title="高校发展参考（2016年第7期）高校社会培训" target="_blank">
+        高校发展参考（2016年第7期）高校...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle42242" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont42242"><img src="images/cio_002.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1023/1203.htm" class="c42242" title="高校发展参考（2016年第6期）科技成果转化" target="_blank">
+        高校发展参考（2016年第6期）科技...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle42242" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont42242"><img src="images/cio_002.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1023/1202.htm" class="c42242" title="高校发展参考（2016年第5期）双一流建设" target="_blank">
+        高校发展参考（2016年第5期）双一...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle42242" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont42242"><img src="images/cio_002.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1023/1201.htm" class="c42242" title="高校发展参考（2016年第4期）多校区大学" target="_blank">
+        高校发展参考（2016年第4期）多校...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle42242" width="1%" nowrap></td></tr>
+</table><!--#endeditable--></TD></TR></TBODY></TABLE></TD>
+<TD valign="top" width="241">
+<TABLE border="0" cellspacing="0" cellpadding="0" width="241" background="images/index_62.gif" align="center">
+<TBODY>
+<TR>
+<TD height="30" width="27">&nbsp;</TD>
+<TD class="h5" width="160" align="left">政策资讯</TD>
+<TD width="54"><A class="heise12x" href="rcgl/zcjd.htm">更多&gt;&gt;</A></TD></TR></TBODY></TABLE>
+<TABLE border="0" cellspacing="5" cellpadding="0" width="241" align="center" style="border-bottom: #cccccc 1px solid; border-left: #cccccc 1px solid; border-right: #cccccc 1px solid">
+<TBODY>
+<TR>
+<TD height="200" valign="top" align="left"><!--#begineditable contype="" name="政策资讯" action="" layout="" clone="0" namechanged="0" order="13" ispublic="0" tagname="政策资讯" viewid="42243" contentviewid="" stylesysid=""--><table width="100%" cellspacing="3" cellpadding="0">
+  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont42243"><img src="images/cio_002.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1017/1279.htm" class="c42243" title="学位【2018】3号 国务院学位委员会关于下达2017年动态调整撤销和增列的学位授权点名单的通知" target="_blank">
+        学位【2018】3号 国务院学位委员...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle42243" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont42243"><img src="images/cio_002.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1017/1245.htm" class="c42243" title="国务院学位委员会、教育部关于对工程专业学位类别进行调整的通知" target="_blank">
+        国务院学位委员会、教育部关于对...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle42243" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont42243"><img src="images/cio_002.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1017/1223.htm" class="c42243" title="桂教科研〔2017〕29号关于组织申报广西一流学科的通知" target="_blank">
+        桂教科研〔2017〕29号关于组织申...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle42243" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont42243"><img src="images/cio_002.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1017/1224.htm" class="c42243" title="桂政发〔2017〕27号-关于印发统筹推进一流大学和一流学科建设实施方案的通知" target="_blank">
+        桂政发〔2017〕27号-关于印发统筹...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle42243" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont42243"><img src="images/cio_002.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1017/1219.htm" class="c42243" title="学位〔2017〕9号-国务院学位委员会关于印发《博士硕士学位授权审核办法》的通知" target="_blank">
+        学位〔2017〕9号-国务院学位委员...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle42243" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont42243"><img src="images/cio_002.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1017/1221.htm" class="c42243" title="教研〔2017〕2号-教育部 财政部 国家发展改革委关于印发《统筹推进世界一流大学和一流学科建设实施办法（暂行）》的通知" target="_blank">
+        教研〔2017〕2号-教育部 财政部 ...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle42243" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont42243"><img src="images/cio_002.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1017/1218.htm" class="c42243" title="学位〔2015〕40号-国务院学位委员会关于开展博士、硕士学位授权学科和专业学位授权类别动态调整工作的通知" target="_blank">
+        学位〔2015〕40号-国务院学位委员...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle42243" width="1%" nowrap></td></tr>
+</table><!--#endeditable--></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD>
+<TD valign="top" width="10" align="center">&nbsp;</TD>
+<TD height="234" valign="top" width="216" align="center">
+<TABLE border="0" cellspacing="0" cellpadding="0" width="216" background="images/index_52.gif">
+<TBODY>
+<TR>
+<TD height="30" width="33">&nbsp;</TD>
+<TD class="h5" height="31" width="136" align="left">下载专区</TD>
+<TD width="47"><A class="heise12x" href="xzzx/fzghl.htm" target="">更多&gt;&gt;</A></TD></TR></TBODY></TABLE>
+<TABLE border="0" cellspacing="5" cellpadding="0" width="216" style="border-left: #cccccc 1px solid; width: 216px; height: 237px; border-right: #cccccc 1px solid">
+<TBODY>
+<TR>
+<TD height="225" valign="top" align="left">
+<P><!--#begineditable contype="" name="下载专区" action="" layout="" clone="0" namechanged="0" order="14" ispublic="0" tagname="下载专区" viewid="162114" contentviewid="" stylesysid=""--><table width="100%" cellspacing="3" cellpadding="0">
+  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont162114"><img src="images/cio_002.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1057/1531.htm" class="c162114" title="学位点申请简况表-学科简介模板">
+        学位点申请简况表-学科简介模板
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle162114" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont162114"><img src="images/cio_002.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1057/1528.htm" class="c162114" title="学位点申请简况表-格式规范">
+        学位点申请简况表-格式规范
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle162114" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont162114"><img src="images/cio_002.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1057/1527.htm" class="c162114" title="专业学位点申请简况表--学术带头人（学术骨干）简介模板">
+        专业学位点申请简况表--学术...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle162114" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont162114"><img src="images/cio_002.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1057/1526.htm" class="c162114" title="学术学位点申请简况表--学术带头人（学术骨干）简介模板">
+        学术学位点申请简况表--学术...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle162114" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont162114"><img src="images/cio_002.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1057/1525.htm" class="c162114" title="学位点申请简况表-学科方向与特色模板">
+        学位点申请简况表-学科方向与...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle162114" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont162114"><img src="images/cio_002.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1057/1405.htm" class="c162114" title="桂电学科【2019】9号关于印发《桂林电子科技大学学科建设管理办法（修订）》的通知">
+        桂电学科【2019】9号关于印发...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle162114" width="1%" nowrap></td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont162114"><img src="images/cio_002.gif" align="absmiddle" border="0"></span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1057/1499.htm" class="c162114" title="学科材料撰写注意事项">
+        学科材料撰写注意事项
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle162114" width="1%" nowrap></td></tr>
+</table><!--#endeditable--></P></TD></TR></TBODY></TABLE>
+<TABLE border="0" cellspacing="0" cellpadding="0" width="216">
+<TBODY>
+<TR>
+<TD valign="top"><IMG src="images/index_left2.gif" width="216" height="5"></TD></TR></TBODY></TABLE>
+<TABLE border="0" cellspacing="0" cellpadding="0" width="216" align="center" style="width: 216px; height: 28px">
+<TBODY>
+<TR>
+<TD height="10" valign="top" align="center">
+<TABLE border="0" cellspacing="0" cellpadding="0" width="216" background="images/index_52.gif">
+<TBODY>
+<TR>
+<TD height="30" width="33">&nbsp;</TD>
+<TD class="h5" height="31" width="136" align="left">友情链接</TD>
+<TD width="47"></TD></TR></TBODY></TABLE><!--#begineditable contype="" name="下拉链接" action="" layout="" clone="0" namechanged="0" order="15" ispublic="0" tagname="下拉链接" viewid="162377" contentviewid="" stylesysid=""-->    
+    
+    
+    
+  
+
+    
+<script language="javascript">    
+<!--    
+    function doLinksu15(o)    
+    {    
+        var link=document.getElementsByName("su15")[0];    
+        var index=link.selectedIndex;    
+        if (index==-1 || index>=link.options.length)    
+        {    
+          return;    
+        }    
+        var value = link.options[index].value;    
+        var obj = document.getElementById("hu15");    
+        obj.href = value;
+        var wburlid =link.options[index].getAttribute("aa162377aa");
+        _addDynClicks('wburl',1417291953,wburlid)
+            
+                     obj.target = "_blank"
+                    
+         if(document.all){
+          obj.click();     
+        }         
+         else 
+        { 
+          window.open(value);
+         }
+       
+       if(o.selectedIndex != 0)    
+       {    
+           o.selectedIndex = 0;    
+       }    
+    }    
+-->    
+</script>  
+<table>    
+    <tr><td align="center">    
+            <span class="titlestyle162377"></span> <a id="hu15"></a>    
+            <select name="su15" class="selectstyle162377" onChange="doLinksu15(this)">    
+                <option value="">　　　--友情链接--</option>    
+                <option vsbhrefname="value" aa162377aa="28881" value="http://www.moe.edu.cn/s78/A22/">国务院学位委员会办公室    
+                <option vsbhrefname="value" aa162377aa="28882" value="http://www.moe.gov.cn/">中华人民共和国教育部    
+                <option vsbhrefname="value" aa162377aa="28883" value="http://www.gxedu.gov.cn/">广西壮族自治区教育厅    
+                <option vsbhrefname="value" aa162377aa="28884" value="http://www.cdgdc.edu.cn/">中国学位与研究生教育信息网    
+                </select>    
+        </td><tr></table><!--#endeditable--></TD></TR></TBODY></TABLE>
+<TABLE border="0" cellspacing="0" cellpadding="0" width="216" align="center" style="width: 216px; height: 20px">
+<TBODY>
+<TR>
+<TD height="10"><A href="<span style='color:red;font-size:9pt'>转换链接错误</span>"></A></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+<TABLE border="0" cellspacing="0" cellpadding="0" width="970" background="images/index_endbg.gif" align="center">
+<TBODY>
+<TR>
+<TD class="lanse12x" height="35" align="center"><!--#begineditable contype="" name="网站底部导航" action="" layout="" clone="0" namechanged="0" order="16" ispublic="0" tagname="网站底部导航" viewid="42244" contentviewid="" stylesysid=""--><style type="text/css">
+td.b1_16_{FONT-SIZE:9pt;}
+td.b2_16_{FONT-SIZE:9pt;}
+td.b3_16_{FONT-SIZE:9pt;BACKGROUND-COLOR: #eff8fe;}
+td.b4_16_{FONT-SIZE:9pt;BACKGROUND-COLOR: #e8f0fb;}
+a.menu0_16_:link {TEXT-DECORATION: none;};
+a.menu0_16_:visited { TEXT-DECORATION: none;};
+a.menu0_16_:hover {TEXT-DECORATION: none;};
+a.menu0_16_:active {TEXT-DECORATION: none;};
+table.tb1_16_{FONT-SIZE:9pt;border:0;}
+span.s1_16_{FONT-FAMILY: 宋体;COLOR: #222222;FONT-SIZE: 9pt;}
+span.s2_16_{FONT-SIZE: 9pt;COLOR: #cc0000;LINE-HEIGHT: 160%;}
+span.s10_16_{FONT-FAMILY: 宋体;COLOR: #222222;FONT-SIZE: 9pt;}
+span.s20_16_{FONT-SIZE: 9pt;COLOR: #222222;LINE-HEIGHT: 160%;}
+</style>
+<SCRIPT language="javascript"> 
+ var showfix_16_ = 1;
+ var isvertical_16_ = false;
+</SCRIPT>
+
+<TABLE id="t1_16_" cellSpacing="0" cellPadding="0" border="0" height="0" width="0"><TR><TD valign="center"></TD><TD valign="middle" height="0" width="0" nowrap class="b1_16_" align="center" id="a_16_1001" onmouseover="tshowLayers('1001','b2_16_', '_16_')" onmouseout="thideLayers('1001','b1_16_', '_16_','true','true')"><a class="menu0_16_" href="index.htm"><span class="fontstyle42244">&nbsp;首页&nbsp;</span></a></TD><TD valign="center" class="leaderfont42244">|</TD><TD valign="middle" width="0" nowrap class="b1_16_" align="center" id="a_16_1082" onmouseover="tshowLayers('1082','b2_16_', '_16_')" onmouseout="thideLayers('1082','b1_16_', '_16_','true','true')"><a class="menu0_16_" href="xwzx1/ryzc.htm"><span class="fontstyle42244">&nbsp;组织机构&nbsp;</span></a></TD><TD valign="center" class="leaderfont42244">|</TD><TD valign="middle" width="0" nowrap class="b1_16_" align="center" id="a_16_1003" onmouseover="tshowLayers('1003','b2_16_', '_16_')" onmouseout="thideLayers('1003','b1_16_', '_16_','true','true')"><a class="menu0_16_" href="xwzx/gj_dfgh.htm"><span class="fontstyle42244">&nbsp;战略规划&nbsp;</span></a></TD><TD valign="center" class="leaderfont42244">|</TD><TD valign="middle" width="0" nowrap class="b1_16_" align="center" id="a_16_1060" onmouseover="tshowLayers('1060','b2_16_', '_16_')" onmouseout="thideLayers('1060','b1_16_', '_16_','true','true')"><a class="menu0_16_" href="zxgz/xkgk.htm"><span class="fontstyle42244">&nbsp;学科建设&nbsp;</span></a></TD><TD valign="center" class="leaderfont42244">|</TD><TD valign="middle" width="0" nowrap class="b1_16_" align="center" id="a_16_1010" onmouseover="tshowLayers('1010','b2_16_', '_16_')" onmouseout="thideLayers('1010','b1_16_', '_16_','true','true')"><a class="menu0_16_" href="gzzd/qtzx.htm"><span class="fontstyle42244">&nbsp;专项工程&nbsp;</span></a></TD><TD valign="center" class="leaderfont42244">|</TD><TD valign="middle" width="0" nowrap class="b1_16_" align="center" id="a_16_1015" onmouseover="tshowLayers('1015','b2_16_', '_16_')" onmouseout="thideLayers('1015','b1_16_', '_16_','true','true')"><a class="menu0_16_" href="rcgl/zcjd.htm"><span class="fontstyle42244">&nbsp;政策资讯&nbsp;</span></a></TD><TD valign="center" class="leaderfont42244">|</TD><TD valign="middle" width="0" nowrap class="b1_16_" align="center" id="a_16_1020" onmouseover="tshowLayers('1020','b2_16_', '_16_')" onmouseout="thideLayers('1020','b1_16_', '_16_','true','true')"><a class="menu0_16_" href="aqjy/gcjyfzyjzxzk.htm"><span class="fontstyle42244">&nbsp;高教研究&nbsp;</span></a></TD><TD valign="center" class="leaderfont42244">|</TD><TD valign="middle" width="0" nowrap class="b1_16_" align="center" id="a_16_1034" onmouseover="tshowLayers('1034','b2_16_', '_16_')" onmouseout="thideLayers('1034','b1_16_', '_16_','true','true')"><a class="menu0_16_" href="xszz/bkjxztsj.htm"><span class="fontstyle42244">&nbsp;信息统计&nbsp;</span></a></TD><TD valign="center" class="leaderfont42244">|</TD><TD valign="middle" width="0" nowrap class="b1_16_" align="center" id="a_16_1055" onmouseover="tshowLayers('1055','b2_16_', '_16_')" onmouseout="thideLayers('1055','b1_16_', '_16_','true','true')"><a class="menu0_16_" href="xzzx/fzghl.htm"><span class="fontstyle42244">&nbsp;下载中心&nbsp;</span></a></TD></TR></TR></table><!--#endeditable--></TD></TR></TBODY></TABLE>
+<TABLE border="0" cellspacing="0" cellpadding="0" width="970" align="center">
+<TBODY>
+<TR>
+<TD class="heise12x" height="80" align="center"><!--#begineditable contype="" name="版权" action="" layout="" clone="0" namechanged="0" order="17" ispublic="0" tagname="版权" viewid="42245" contentviewid="" stylesysid=""--><p style="text-align: center">桂林电子科技大学发展规划处&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;版权所有<br />地址：桂林电子科技大学发展规划处&nbsp;&nbsp;&nbsp;&nbsp; 邮编：541004&nbsp;&nbsp;&nbsp;&nbsp; 发展规划处办公室：0773-2292516,0773-3569065&nbsp; 电子邮箱：<a href="mailto:fzghc@guet.edu.cn">fzghc@guet.edu.cn</a></p><!--#endeditable--></TD></TR></TBODY></TABLE>
+
+</BODY></HTML>

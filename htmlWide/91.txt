@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<HTML><HEAD><TITLE>热点关注-桂林电子科技大学北海校区清风网</TITLE><META Name="keywords" Content="北海校区，清风网" />
+
+
+
+
+
+<META charset="utf-8"><LINK rel="stylesheet" type="text/css" href="css/style.css"><LINK rel="stylesheet" type="text/css" href="css/publice.css"><script type="text/javascript" src="js/jquery.js"></script><script type="text/javascript" src="js/jquery.soChange.js"></script><script type="text/javascript">
+$(function(){
+    $(".mainmenu dl").hide();
+    $("li.mainmenu").hover(function(){
+        $(this).find("dl").stop(true,true);
+        $(this).find("dl").slideDown();
+    },function(){
+        $(this).find("dl").stop(true,true);
+        $(this).find("dl").slideUp();
+    });
+})
+</script>
+
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="list.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1040,'/list.jsp',-1,1453679873)</script>
+</HEAD>
+<BODY><!--top s-->
+<DIV class="topWrap clearfix">
+<DIV class="topDiv"><!--#begineditable name="高校LOGO" clone="0" namechanged="0" order="0" ispublic="0" tagname="高校LOGO" viewid="161173" contentviewid="" contype="" stylesysid="" layout="" action=""-->
+<!-- 网站logo图片地址请在本组件"内容配置-网站logo"处填写 -->
+<div class="logo">
+<a href="index.htm"><img src="images/logo2.png"></a>
+</div><!--#endeditable-->
+</DIV></DIV></DIV><!--nav--><!--#begineditable name="主导航" clone="0" namechanged="0" order="3" ispublic="0" tagname="主导航" viewid="161176" contentviewid="" contype="" stylesysid="" layout="" action=""--><div class="navWrap  clearfix">
+    <div class="nav">
+    <ul>
+			<li>
+			<a class="link" href="index.htm">首页</a>
+						
+		</li>
+		<li class="mainmenu">
+		    <a class="link" href="jgzn.htm">机构职能</a>
+			<!--如果是导航字数很多，则加上 class="chang"，否则去掉即可-->
+			<dl>
+					<dd><a href="jgzn/gzzz.htm">工作职责</a></dd>
+					<dd><a href="jgzn/rygc.htm">人员构成</a></dd>
+					<dd><a href="jgzn/gzcx.htm">工作程序</a></dd>
+			</dl>
+		</li>
+		<li class="mainmenu">
+		    <a class="link" href="xxdt.htm">信息动态</a>
+			<!--如果是导航字数很多，则加上 class="chang"，否则去掉即可-->
+			<dl>
+					<dd><a href="xxdt/zhbd.htm">综合报道</a></dd>
+					<dd><a href="xxdt/tzgg.htm">通知公告</a></dd>
+					<dd><a href="xxdt/ajtb.htm">案件通报</a></dd>
+					<dd><a href="xxdt/lzyw.htm">廉政要闻</a></dd>
+			</dl>
+		</li>
+		<li class="mainmenu">
+		    <a class="link" href="rdgz.htm">热点关注</a>
+			<!--如果是导航字数很多，则加上 class="chang"，否则去掉即可-->
+			<dl>
+					<dd><a href="rdgz/gngz.htm">国内关注</a></dd>
+					<dd><a href="rdgz/gxgz.htm">高校关注</a></dd>
+					<dd><a href="rdgz/rdtb.htm">热点通报</a></dd>
+					<dd><a href="rdgz/ryry.htm">热言热议</a></dd>
+			</dl>
+		</li>
+		<li class="mainmenu">
+		    <a class="link" href="djfg.htm">党纪法规</a>
+			<!--如果是导航字数很多，则加上 class="chang"，否则去掉即可-->
+			<dl>
+					<dd><a href="djfg/dnfg.htm">党内法规</a></dd>
+					<dd><a href="djfg/flfg.htm">法律法规</a></dd>
+					<dd><a href="djfg/jszc.htm">警示之窗</a></dd>
+					<dd><a href="djfg/qlby.htm">勤廉榜样</a></dd>
+					<dd><a href="djfg/xsgw.htm">学思感悟</a></dd>
+			</dl>
+		</li>
+		<li class="mainmenu">
+		    <a class="link" href="ljwh.htm">廉洁文化</a>
+			<!--如果是导航字数很多，则加上 class="chang"，否则去掉即可-->
+			<dl>
+					<dd><a href="ljwh/xxjc.htm">学习教材</a></dd>
+					<dd><a href="ljwh/yczp.htm">原创作品</a></dd>
+					<dd><a href="ljwh/gyjj.htm">格言警句</a></dd>
+					<dd><a href="ljwh/lzsw.htm">廉政书屋</a></dd>
+					<dd><a href="ljwh/yxsp.htm">音像视频</a></dd>
+					<dd><a href="ljwh/mhgs.htm">漫画故事</a></dd>
+			</dl>
+		</li>
+		<li class="mainmenu">
+		    <a class="link" href="xfjb.htm">信访举报</a>
+			<!--如果是导航字数很多，则加上 class="chang"，否则去掉即可-->
+			<dl>
+					<dd><a href="xfjb/jbzn.htm">举报指南</a></dd>
+					<dd><a href="xfjb/wyjb.htm">我要举报</a></dd>
+			</dl>
+		</li>
+		<li class="mainmenu">
+		    <a class="link" href="zlxz.htm">资料下载</a>
+			<!--如果是导航字数很多，则加上 class="chang"，否则去掉即可-->
+			<dl>
+					<dd><a href="zlxz/jjwj.htm">纪检文件</a></dd>
+					<dd><a href="zlxz/cybg.htm">常用表格</a></dd>
+			</dl>
+		</li>
+     
+    </ul>
+</div>
+</div>
+<script type="text/javascript">
+
+	$(".mainmenu dl").hide();
+
+</script><!--#endeditable--><!--banner--><!--#begineditable name="圆点图片切换banner" clone="0" namechanged="0" order="4" ispublic="0" tagname="圆点图片切换banner" viewid="161179" contentviewid="" contype="" stylesysid="" layout="" action=""-->    <script language="javascript" src="/system/resource/js/dynclicks.js"></script><div class="banner clearfix">
+            <div class="eachBox">
+                <div class="changeBox_a1" id="change_32">
+		   			<div class="changeDiv">
+                        <h3><a href="#" target="_blank"></a></h3>
+                        <a target="_blank" href="#" title=""><img width="1000" height="335" src="images/banner1.png" /></a>
+                    </div>
+			<div class="changeDiv">
+                        <h3><a href="#" target="_blank"></a></h3>
+                        <a target="_blank" href="#" title=""><img width="1000" height="335" src="images/banner.png" /></a>
+                    </div>
+                    
+               
+                    <ul class="ul_change_a2">
+                        <li><span></span></li>
+                        <li><span></span></li>
+                    </ul>
+                </div>
+            </div>
+        </div><!--#endeditable--><!--main-->
+<DIV class="mainWrap clearfix"><!--#begineditable name="当前位置" clone="0" namechanged="0" order="5" ispublic="0" tagname="当前位置" viewid="161197" contentviewid="" contype="" stylesysid="" layout="" action=""--><div class="main_tit">
+        <div class="main_titT main_titTa">
+            <img src="img/bri_icon1.png">
+
+<a href="index.htm">首页</a>>
+<a href="rdgz.htm" class="cur">热点关注</a>
+        </div>
+</div>
+<!--#endeditable-->
+<DIV class="main_con">
+<DIV class="main_conL">
+<DIV class="main_conLT">
+<DL><!--#begineditable name="栏目名称" clone="0" namechanged="0" order="6" ispublic="0" tagname="栏目名称" viewid="161202" contentviewid="" contype="" stylesysid="" layout="" action=""--><dt>热点关注</dt><!--#endeditable--><!--#begineditable name="左侧二级导航" clone="0" namechanged="0" order="7" ispublic="0" tagname="左侧二级导航" viewid="161203" contentviewid="" contype="" stylesysid="" layout="" action=""--><dd><a href="rdgz/gngz.htm">国内关注</a></dd>
+<dd><a href="rdgz/gxgz.htm">高校关注</a></dd>
+<dd><a href="rdgz/rdtb.htm">热点通报</a></dd>
+<dd><a href="rdgz/ryry.htm">热言热议</a></dd>
+<!--#endeditable--></DL></DIV>
+<DIV class="informBox informBoxb informBoxb1"><!--#begineditable name="左侧全文检索" clone="0" namechanged="0" order="8" ispublic="0" tagname="左侧全文检索" viewid="161198" contentviewid="" contype="" stylesysid="" layout="" action=""--><script type="text/javascript">
+    function _nl_ys_check(){
+        
+        var keyword = document.getElementById('showkeycode161198').value;
+        if(keyword==null||keyword==""){
+            alert("请输入你要检索的内容！");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkeyword161198").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkeyword161198").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkeyword161198").value = base64.encode(document.getElementById("lucenenewssearchkeyword161198").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode161198"));
+        return true;
+    } 
+ function submitForm()
+    {
+        document.getElementById("au6a").submit();
+    }
+</script>
+
+<form action="ssjg.jsp?wbtreeid=1040" method="post" id="au6a" name="au6a" onsubmit="return _nl_ys_check()" style="display: inline">
+ <input type="hidden" id="lucenenewssearchkeyword161198" name="lucenenewssearchkeyword" value=""><input type="hidden" id="_lucenesearchtype161198" name="_lucenesearchtype" value="1"><input type="hidden" id="searchScope161198" name="searchScope" value="1">
+ 
+<div class="dynamic dynamicc"><h2>站内搜索</h2></div>
+                <input id="showkeycode161198" type="text" class="search_text" name="showkeycode" value="请输入关键字进行搜索" onfocus="if(this.value=='请输入关键字进行搜索')this.value='';" onblur="if(this.value=='')this.value='请输入关键字进行搜索';" />
+                <input type="submit" value="搜索" class="h_button" />
+     </form>         
+<script language="javascript" src="/system/resource/js/base64.js"></script><script language="javascript" src="/system/resource/js/formfunc.js"></script>
+<!--#endeditable--><!--#begineditable name="左侧检索下的图片链接列表" clone="0" namechanged="0" order="9" ispublic="0" tagname="左侧检索下的图片链接列表" viewid="161199" contentviewid="" contype="" stylesysid="" layout="" action=""-->    <div class="zp_pic">
+                    <a href="info/1079/1128.htm"><img src="images/jbzn.png"></a>
+                    <a href="info/1080/1129.htm"><img src="images/wyjb.png"></a>
+
+                </div><!--#endeditable--></DIV></DIV><!--#begineditable name="静态翻页列表" clone="0" namechanged="0" order="10" ispublic="0" tagname="静态翻页列表" viewid="161206" contentviewid="" contype="" stylesysid="" layout="" action=""-->
+
+<script language="javascript" src="/system/resource/js/news/statpagedown.js"></script><div class="main_conR main_conRa">
+            <div class="main_conRCb">
+                <ul>
+<li id="line_u8_0"><a href="info/1055/1106.htm"><span>2018-05-18</span><em>桂林电子科技大学督办工作实施办法(试行)</em></a></li>
+<li id="line_u8_1"><a href="info/1055/1105.htm"><span>2018-05-18</span><em>中共中央 国务院印发《关于加强和改进新形势下高校思想政治工作的意见》</em></a></li>
+<li id="line_u8_2"><a href="info/1055/1078.htm"><span>2016-04-05</span><em>学校举办校纪委委员、二级纪委书记、纪检委员、纪检监察干部培训班（图）</em></a></li>
+<li id="line_u8_3"><a href="info/1055/1079.htm"><span>2016-04-03</span><em>学校召开干部压力管理与心理调适培训会（图）</em></a></li>
+                    
+              </ul>
+            </div>
+           <div align="center" style="margin-top:20px;"><INPUT TYPE="hidden" NAME="actiontype" VALUE=""><input type="hidden" name="_scode_" value="1527152432278"><input type="hidden" name="urltype" value="tree.TreeTempUrl"><input type="hidden" name="wbtreeid" value="1040"><input type="hidden" name="outFlag" value="false">
+<style type="text/css">
+.headStyle3dficqc36g, .headStyle3dficqc36g td, .headStyle3dficqc36g div {font-size: 12px;font-family:宋体; color: #000000; margin-left: auto; margin-right: auto; line-height:14px;}
+.defaultButtonStyle {font-size: 12px;font-family:宋体; height:20px;color: #000000;BORDER: #AFD5F5 1px solid; margin: 0px;padding: 0px; FILTER:progid:DXImageTransform.Microsoft.Gradient(GradientType=0,StartColorStr=#ffffff, EndColorStr=#BDDBF7);  CURSOR: pointer; line-height:14px;background:-webkit-gradient(linear, 0 0, 0 100%, from(#ffffff), to(#BDDBF7));background: -moz-linear-gradient( top,#ffffff,#BDDBF7);background:-ms-linear-gradient(top,#ffffff 0%,#bddbf7 100%);}
+.defaultinputStyle {font-size: 12px;font-family:宋体; height:20px; border:1px solid #AFD5F5; line-height:14px;}
+.colHeader {font-size: 12px;font-family:宋体; line-height:14px;}
+.headStyle3dficqc36g a, .pageList .this-page {font-size: 12px;font-family:宋体; display:inline-block; height:14px; padding: 2px 4px; border: solid 1px #AFD5F5; background: #fff; text-decoration: none; MARGIN-RIGHT: 1px;line-height:14px;}
+.headStyle3dficqc36g a:visited {font-size: 12px;font-family:宋体; color: #000000; text-decoration: none; line-height:14px;}
+.headStyle3dficqc36g .PrevDisabled {font-size: 12px;font-family:宋体; display:inline-block;height:14px;  margin-right: 3px; padding: 2px 4px; background: #fff;color:#ccc;border: solid 1px #AFD5F5; line-height:14px;}
+.headStyle3dficqc36g .SelectList {font-size: 12px;font-family:宋体;line-height:14px;}
+.headStyle3dficqc36g .Prev { font-size: 12px;font-family:宋体; margin-right: 3px; padding: 2px 4px;line-height:14px;}
+.headStyle3dficqc36g .break {font-size: 12px;font-family:宋体; border: none; text-decoration: none; line-height:14px;}
+.headStyle3dficqc36g .NextDisabled { font-size: 12px;font-family:宋体;display:inline-block; height:14px; margin-left: 2px; padding: 2px 4px;background: #fff;color:#ccc;border: solid 1px #AFD5F5; line-height:14px;}
+.headStyle3dficqc36g .Next { font-size: 12px;font-family:宋体; margin-left: 2px; padding: 2px 4px;line-height:14px;}
+.headStyle3dficqc36g .this-page {font-size: 12px;font-family:宋体;display:inline-block;height:14px;padding: 2px 4px; border: solid 1px #AFD5F5; background: #E1F0FD; font-weight: bold; color:black; MARGIN-RIGHT: 1px;line-height:14px;}
+.headStyle3dficqc36g a:hover {font-size: 12px;font-family:宋体;color: black; background: #EFF7FE; border-color: #AFD5F5; text-decoration: none;line-height:14px;}
+.headStyle3dficqc36g a:link {font-size: 12px;font-family:宋体;color: #000000; text-decoration: none;line-height:14px;}
+.headStyle3dficqc36g a:active { font-size: 12px;font-family:宋体;color: black; text-decoration: none; background: #EFF7FE; line-height:14px;}
+</style><script language="javascript" src="/system/resource/js/gotopage.js"></script><script type="text/javascript">function a161206_gopage_fun(){_simple_list_gotopage_fun(1,'a161206GOPAGE',2)}</script><table cellspacing="0" cellpadding="0" border="0"><TR><td colspan="0"><table cellspacing="0" class="headStyle3dficqc36g" width="100%" cellpadding="1"><tr valign="middle"><TD nowrap align="left" width="1%" id="fanye161206">共4条&nbsp;&nbsp;1/1&nbsp;</td><td nowrap align="left"><div><span class="PrevDisabled">首页</span><span class="PrevDisabled">上页</span><span class="NextDisabled">下页</span><span class="NextDisabled">尾页</span></div></td></tr></table></table></div>
+        
+        </div><script>_showDynClickBatch(['dynclicks_u8_1106','dynclicks_u8_1105','dynclicks_u8_1078','dynclicks_u8_1079'],[1106,1105,1078,1079],"wbnews", 1453679873)</script><!--#endeditable--></DIV></DIV><!--link--><!--#begineditable name="下方5条图片链接列表" clone="0" namechanged="0" order="11" ispublic="0" tagname="下方5条图片链接列表" viewid="161201" contentviewid="" contype="" stylesysid="" layout="" action=""-->    <div class="linkDiv_two">
+    <div class="link_tit">
+        <h3>友情链接<i>/LINK</i></h3>
+    </div>
+    <div class="link_two">
+        <ul>
+<li><a href="http://www.guet.edu.cn/jgsz.htm#"><img src="images/guetlogo.png"></a></li>
+<li><a href="http://guetoa.guet.edu.cn/"><img src="images/dzbgs.png"></a></li>
+<li><a href="http://www.guet.edu.cn/jwjc/"><img src="images/jjjcw.png"></a></li>
+<li><a href="http://www.gxjjw.gov.cn/"><img src="images/gxjj.png"></a></li>
+<li style="float: right;margin-right: 0"><a href="http://www.12371.cn/"><img src="images/gcdyw.png"></a></li>
+
+        </ul>
+    </div>
+</div><!--#endeditable--><!--foot-->
+<DIV class="footDiv_three">
+<DIV class="foot_three">
+<DIV class="foot-left" style="text-align: center; margin-top: 20px; line-height: 32px"><!--#begineditable name="版权3" clone="0" namechanged="0" order="12" ispublic="0" tagname="版权3" viewid="161224" contentviewid="" contype="" stylesysid="" layout="" action=""--><!-- 版权内容请在本组件"内容配置-版权"处填写 -->
+<div style="text-align: center"><span style="color: rgb(255,255,255)">桂林电子科技大学©版权所有&nbsp;&nbsp;&nbsp;&nbsp;桂ICP备&nbsp;05000961号<br />北海校区纪委&nbsp;&nbsp;&nbsp;&nbsp;联系电话：0779-320000<br />地址：广西北海市南珠大道9号桂林电子科技大学北海校区<br /></span></div><p><br /></p><!--#endeditable-->
+<P></P></DIV>
+<DIV class="foot-right" style="width: 110px; float: right; margin-top: 10px"></DIV></DIV></DIV><script type="text/javascript">
+$(function () {
+
+//切换对象为其他，这里为包含图片和标题的层
+    $('#change_32 div.changeDiv').soChange({//对象指向层，层内包含图片及标题
+        thumbObj:'#change_32 .ul_change_a2 span',
+        thumbNowClass:'on'//自定义导航对象当前class为on
+    });
+
+});
+</script>
+
+</BODY></HTML>

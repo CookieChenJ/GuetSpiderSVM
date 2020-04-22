@@ -1,0 +1,500 @@
+<!DOCTYPE html><HTML><HEAD><TITLE>就业网</TITLE><META Name="keywords" Content="就业网,就业系统" />
+
+
+<META charset="utf-8">
+<META name="viewport" content="width=device-width, initial-scale=1.0">
+<META content="ie=edge" http-equiv="X-UA-Compatible"><!-- <link rel="stylesheet" type="text/css" href="__PUBLIC__/simpleboot/themes/bluesky/theme.min.css"/> --><LINK rel="stylesheet" type="text/css" href="css/common.css"><script src="js/jquery.min.js"></script><INCLUDE title="加入我们" file="Public/header" /><LINK rel="stylesheet" type="text/css" href="css/index.css"><LINK rel="stylesheet" type="text/css" href="css/common.css"><script src="js/jquery-1.8.3.min.js" type="text/javascript"></script><script src="js/jcarousellite.js" type="text/javascript" charset="utf-8"></script><script src="js/coda.js" type="text/javascript" charset="utf-8"></script><LINK rel="stylesheet" type="text/css" href="css/css.css"><script src="js/comm.js" type="text/javascript"></script><LINK rel="stylesheet" type="text/css" href="css/jquery.qtip.min.css"><script type="text/javascript" src="js/jquery.qtip.min.js"></script><!--        <script type="text/javascript" src="js/calendar-1.js"></script> --><script type="text/javascript" src="js/pageSwitch.min.js"></script>
+
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="index.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1445875082)</script>
+</HEAD>
+<BODY>
+
+ <a href="https://www.guet.edu.cn/jy/jyzc.jsp?urltype=tree.TreeTempUrl&wbtreeid=1105"><img src="images/04.jpg" id="demo1" /></a>
+   <style type="text/css">
+           #demo1 {
+               width: 325px;
+               height: 227px;
+               position:absolute;
+               border-radius:10px;
+                z-index: 99999;}
+       </style>
+    
+       <script type="text/javascript">
+           window.onload = function(){
+               var demo = document.getElementById('demo1');
+               var sx = sy = 10;
+               var x = y = 0;
+    
+               function move(){
+                   if(document.documentElement.clientWidth - demo.offsetWidth-10 < x || x < 0){
+                       sx = -sx;
+                   }
+    
+                   if(document.documentElement.clientHeight - demo.offsetHeight-10 < y || y < 0){
+                       sy = -sy;
+                   }
+    
+                   x = demo.offsetLeft + sx;
+                   y = demo.offsetTop + sy;
+    
+                   demo.style.left = x + 'px';
+                   demo.style.top = y + 'px';
+               }
+    
+               var timer = setInterval(move, 100);
+    
+               demo.onmouseover = function(){
+                   clearInterval(timer);
+               }
+    
+               demo.onmouseout = function(){
+                   timer = setInterval(move, 100);
+               }
+           }
+       </script>
+       
+<HEADER>
+<DIV class="header"><IMG src="images/nav_bg.png" style="height: 140px; width: 99.91%; left: 1px; top: 1px"> 
+<DIV class="center"><A href="index.jsp">
+<H1 class="logo"><!--#begineditable clone="0" namechanged="0" order="0" ispublic="0" tagname="LOGO" viewid="165614" contentviewid="" contype="" stylesysid="" layout="" action="" name="LOGO"-->
+<!-- 网站logo图片地址请在本组件"内容配置-网站logo"处填写 -->
+<a href="" title="就业网"><img src="images/index/registerlogo.png" width="400" height="64" border="0" alt="就业网" title="就业网"></a><!--#endeditable--></H1></A>
+<DIV id="search"><!--#begineditable clone="0" namechanged="0" order="1" ispublic="0" tagname="全文检索" viewid="165817" contentviewid="" contype="" stylesysid="" layout="" action="" name="全文检索"--><script type="text/javascript">
+    function _nl_ys_check(){
+        
+        var keyword = document.getElementById('showkeycode165817').value;
+        if(keyword==null||keyword==""){
+            alert("请输入你要检索的内容！");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkeyword165817").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkeyword165817").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkeyword165817").value = base64.encode(document.getElementById("lucenenewssearchkeyword165817").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode165817"));
+        return true;
+    } 
+</script>
+<form action="search.jsp?wbtreeid=1001" method="post" id="au1a" name="au1a" onsubmit="return _nl_ys_check()" style="display: inline">
+ <input type="hidden" id="lucenenewssearchkeyword165817" name="lucenenewssearchkeyword" value=""><input type="hidden" id="_lucenesearchtype165817" name="_lucenesearchtype" value="1"><input type="hidden" id="searchScope165817" name="searchScope" value="0">
+<input name="showkeycode" id="showkeycode165817" class="search">
+ <input type="submit" align="absmiddle" class="button" value="搜索" style="cursor: hand">
+
+</form><script language="javascript" src="/system/resource/js/base64.js"></script><script language="javascript" src="/system/resource/js/formfunc.js"></script>
+<!--#endeditable--></DIV></DIV><NAV class="link">
+<DIV class="center"><!--#begineditable clone="0" namechanged="0" order="2" ispublic="0" tagname="网站导航" viewid="165616" contentviewid="" contype="" stylesysid="" layout="" action="" name="网站导航"-->                        <ul>
+                                                    <li class=""><a href="index.htm">首页</a></li>
+                            <li class=""><a href="zhaopin.jsp?urltype=tree.TreeTempUrl&wbtreeid=1003">招聘信息</a></li>
+                            <li class=""><a href="zyjs.htm">专业介绍</a></li>
+                            <li class=""><a href="bys.jsp?urltype=tree.TreeTempUrl&wbtreeid=1095">用人单位服务指南</a></li>
+                            <li class=""><a href="bys.jsp?urltype=tree.TreeTempUrl&wbtreeid=1006">毕业生资源介绍</a></li>
+                            <li class=""><a href="jyzc.jsp?urltype=tree.TreeTempUrl&wbtreeid=1005">就业政策</a></li>
+                            <li class=""><a href="jyzd.jsp?urltype=tree.TreeTempUrl&wbtreeid=1004">就业指导</a></li>
+                            <li class=""><a href="zlxz.jsp?urltype=tree.TreeTempUrl&wbtreeid=1008">表格下载</a></li>
+                            <li class=""><a href="jyzd.jsp?urltype=tree.TreeTempUrl&wbtreeid=1104">新闻中心</a></li>
+                            <li class=""><a href="jyzc.jsp?urltype=tree.TreeTempUrl&wbtreeid=1105">公告公示</a></li>
+                        </ul>   <!--#endeditable--></DIV></NAV></DIV></HEADER><SECTION>
+<DIV class="center">
+<DIV id="banner">
+<DIV class="sections"><!--#begineditable clone="0" namechanged="0" order="3" ispublic="0" tagname="标题列表" viewid="165610" contentviewid="" contype="" stylesysid="" layout="" action="" name="banner"--><script language="javascript" src="/system/resource/js/dynclicks.js"></script>		   			
+		   			<div class="section">
+		   			<a href="info/1009/12146.htm" target="_blank"><img src="/__local/A/25/2F/607B6ADA08630A23A0EBC336DDF_0C49D29A_2776B.jpg" width="100%" /></a>
+		   			</div>
+
+		   			<div class="section">
+		   			<a href="info/1009/12147.htm" target="_blank"><img src="/__local/5/83/69/EBE95D29550AEE95A6EE705E4AA_ADEE93B7_2AE88.jpg" width="100%" /></a>
+		   			</div>
+
+		   			<div class="section">
+		   			<a href="info/1009/12106.htm" target="_blank"><img src="/__local/A/02/EF/4F10CC83B4ABE068E1427E34068_C47BE6D0_2FC42.jpg" width="100%" /></a>
+		   			</div>
+<script>_showDynClickBatch(['dynclicks_u3_12146','dynclicks_u3_12147','dynclicks_u3_12106'],[12146,12147,12106],"wbnews", 1445875082)</script>
+<!--#endeditable--></DIV></DIV></DIV>
+<DIV class="center">
+<DIV class="news">
+<UL>
+<LI class="news_on" url="/index.php?g=&amp;m=Special&amp;a=special">专场招聘 </LI>
+<LI url="/index.php?g=&amp;m=Shuangxuan&amp;a=shuangxuan">双选会 </LI>
+<LI url="/index.php?g=&amp;m=Shuangxuan&amp;a=group">组团招聘 </LI>
+<LI url="/index.php?g=&amp;m=Recruit&amp;a=recruit&amp;rec=-1&amp;type=0&amp;money=-1">网络招聘 </LI><A id="gengduo1" class="more" href="zhaopin.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1003">更多&gt;</A></UL><!--#begineditable clone="0" namechanged="0" order="4" ispublic="0" tagname="专场招聘" viewid="165748" contentviewid="" contype="" stylesysid="" layout="" action="" name="专场招聘"--><ol style="display: block;">
+		<a href="info/1033/11699.htm">
+		<li><span sytle="margin-right:100px;">深圳市艾贝特电子科技有限公司12月9日来校招聘</span><span class="sr">2019-12-06 17:07</span></li>
+	</a>
+	<a href="info/1033/11689.htm">
+		<li><span sytle="margin-right:100px;">中国平安财产保险股份有限公司广西分公司12月5日来校招聘</span><span class="sr">2019-12-03 16:56</span></li>
+	</a>
+	<a href="info/1033/11681.htm">
+		<li><span sytle="margin-right:100px;">佛山市顺德区冠宇达电源有限公司11月29号来校招聘</span><span class="sr">2019-11-28 11:39</span></li>
+	</a>
+	<a href="info/1033/11667.htm">
+		<li><span sytle="margin-right:100px;">桂林市豪文学校11月28日来校招聘</span><span class="sr">2019-11-26 14:06</span></li>
+	</a>
+	<a href="info/1033/11657.htm">
+		<li><span sytle="margin-right:100px;">南宁中公未来教育咨询有限公司11月28日来校招聘</span><span class="sr">2019-11-22 09:42</span></li>
+	</a>
+	<a href="info/1033/11653.htm">
+		<li><span sytle="margin-right:100px;">广西五运科技有限公司11月25日来校招聘</span><span class="sr">2019-11-22 09:06</span></li>
+	</a>
+	<a href="info/1033/11650.htm">
+		<li><span sytle="margin-right:100px;">中软国际11月29日来校招聘</span><span class="sr">2019-11-21 10:02</span></li>
+	</a>
+	<a href="info/1033/11645.htm">
+		<li><span sytle="margin-right:100px;">深圳市巨龙创视科技有限公司11月26日来校招聘</span><span class="sr">2019-11-20 17:02</span></li>
+	</a>
+</ol><script>_showDynClickBatch(['dynclicks_u4_11699','dynclicks_u4_11689','dynclicks_u4_11681','dynclicks_u4_11667','dynclicks_u4_11657','dynclicks_u4_11653','dynclicks_u4_11650','dynclicks_u4_11645'],[11699,11689,11681,11667,11657,11653,11650,11645],"wbnews", 1445875082)</script>
+<!--#endeditable--><!--#begineditable clone="0" namechanged="0" order="5" ispublic="0" tagname="双选会" viewid="165752" contentviewid="" contype="" stylesysid="" layout="" action="" name="双选会"--><ol style="display: none;">
+		<a href="info/1031/10857.htm">
+		<li>深圳市南科芯微电子有限公司来校参加双选会<span class="sr">2019-10-25</span></li>
+	</a>
+	<a href="info/1031/10526.htm">
+		<li>深圳市全智芯科技有限公司来校参加双选会<span class="sr">2019-10-24</span></li>
+	</a>
+	<a href="info/1031/10509.htm">
+		<li>广西盈彦实业有限公司来校参加双选会<span class="sr">2019-10-23</span></li>
+	</a>
+	<a href="info/1031/10508.htm">
+		<li>深圳市汇博数码电子科技有限公司来校参加双选会<span class="sr">2019-10-23</span></li>
+	</a>
+	<a href="info/1031/10507.htm">
+		<li>十一冶建设集团有限责任公司第五工程分公司来校参加双选会<span class="sr">2019-10-23</span></li>
+	</a>
+	<a href="info/1031/10506.htm">
+		<li>中国电信股份有限公司来宾分公司来校参加双选会<span class="sr">2019-10-23</span></li>
+	</a>
+	<a href="info/1031/10505.htm">
+		<li>中国电信梧州分公司来校参加双选会<span class="sr">2019-10-23</span></li>
+	</a>
+	<a href="info/1031/10504.htm">
+		<li>中国电信贺州分公司来校参加双选会<span class="sr">2019-10-23</span></li>
+	</a>
+</ol><script>_showDynClickBatch(['dynclicks_u5_10857','dynclicks_u5_10526','dynclicks_u5_10509','dynclicks_u5_10508','dynclicks_u5_10507','dynclicks_u5_10506','dynclicks_u5_10505','dynclicks_u5_10504'],[10857,10526,10509,10508,10507,10506,10505,10504],"wbnews", 1445875082)</script>
+<!--#endeditable--><!--#begineditable clone="0" namechanged="0" order="6" ispublic="0" tagname="组团招聘" viewid="165753" contentviewid="" contype="" stylesysid="" layout="" action="" name="组团招聘"--><ol style="display: none;">
+		<a href="info/1032/10911.htm">
+		<li>厦门市人才组团11月7日来校招聘<span class="sr">2019-10-29</span></li>
+	</a>
+	<a href="info/1032/10900.htm">
+		<li>江苏扬州组团11月7日来校招聘<span class="sr">2019-10-28</span></li>
+	</a>
+	<a href="info/1032/4829.htm">
+		<li>柳州市人才3月26日组团招聘<span class="sr">2019-03-22</span></li>
+	</a>
+	<a href="info/1032/4830.htm">
+		<li>广东佛山顺德区、佛山南海区、肇庆高新区3月22日组团招聘（96家）<span class="sr">2019-03-15</span></li>
+	</a>
+	<a href="info/1032/4831.htm">
+		<li>广州市人社局3月15日组团招聘（42家）<span class="sr">2019-03-12</span></li>
+	</a>
+	<a href="info/1032/4832.htm">
+		<li>珠海高新区3月13日组团招聘（28家）<span class="sr">2019-03-08</span></li>
+	</a>
+	<a href="info/1032/4833.htm">
+		<li>贵阳市人才服务中心11月22日组团招聘<span class="sr">2018-11-17</span></li>
+	</a>
+	<a href="info/1032/4834.htm">
+		<li>济南人才服务局11月26日组团招聘<span class="sr">2018-11-16</span></li>
+	</a>
+</ol><script>_showDynClickBatch(['dynclicks_u6_10911','dynclicks_u6_10900','dynclicks_u6_4829','dynclicks_u6_4830','dynclicks_u6_4831','dynclicks_u6_4832','dynclicks_u6_4833','dynclicks_u6_4834'],[10911,10900,4829,4830,4831,4832,4833,4834],"wbnews", 1445875082)</script>
+<!--#endeditable--><!--#begineditable clone="0" namechanged="0" order="7" ispublic="0" tagname="网络招聘" viewid="165754" contentviewid="" contype="" stylesysid="" layout="" action="" name="网络招聘"--><ol style="display: none;">
+		<a href="info/1022/12153.htm">
+		<li>关于举办桂林电子科技大学2020届毕业生“文科综合类”线上双选会的通知<span class="sr">2020-04-13</span></li>
+	</a>
+	<a href="info/1022/12154.htm">
+		<li>桂林电子科技大学2020届毕业生“文科综合类”线上双选会邀请函<span class="sr">2020-04-13</span></li>
+	</a>
+	<a href="info/1022/12137.htm">
+		<li>关于举办2020届毕业生春季线上专场招聘会的通知<span class="sr">2020-04-11</span></li>
+	</a>
+	<a href="info/1022/12111.htm">
+		<li>战略性新兴产业面向2020届高校毕业生网络招聘会<span class="sr">2020-04-07</span></li>
+	</a>
+	<a href="info/1022/12112.htm">
+		<li>电子商务行业面向2020届高校毕业生网上招聘会<span class="sr">2020-04-07</span></li>
+	</a>
+	<a href="info/1022/12109.htm">
+		<li>“千校万岗·就业有位来”广西专场（桂林站）<span class="sr">2020-04-07</span></li>
+	</a>
+	<a href="info/1022/12178.htm">
+		<li>北京云泰数通互联网科技有限公司招聘简章<span class="sr">2020-04-19</span></li>
+	</a>
+	<a href="info/1022/12177.htm">
+		<li>广州佰谦化工有限公司招聘简章<span class="sr">2020-04-19</span></li>
+	</a>
+</ol><script>_showDynClickBatch(['dynclicks_u7_12153','dynclicks_u7_12154','dynclicks_u7_12137','dynclicks_u7_12111','dynclicks_u7_12112','dynclicks_u7_12109','dynclicks_u7_12178','dynclicks_u7_12177'],[12153,12154,12137,12111,12112,12109,12178,12177],"wbnews", 1445875082)</script>
+<!--#endeditable--></DIV>
+<DIV class="relevant">
+<DIV class="house" style="height: 246px; width: 380px; margin-top: 30px">
+<DIV class="contacts-tel">
+<P><SPAN><FONT size="3">办公时间：</FONT></SPAN></P>
+<P><FONT size="3">上午8:30-12:00 下午14:00-17:30（节假日除外）</FONT></P>
+<P><FONT size="3"><SPAN>企业对接：</SPAN></FONT></P>
+<P><FONT size="3"><SPAN></SPAN>就业指导服务中心 0773-2319102<BR>邓老师 0773-2305923 <BR>张老师 0773-2316183<BR>路老师 0773-2305922</FONT></P>
+<P><SPAN><FONT size="3">邮编：</FONT></SPAN><FONT size="3">541004</FONT></P>
+<P><SPAN><FONT size="3">邮箱：</FONT></SPAN><FONT size="3">jiuye@guet.edu.cn</FONT></P>
+<P><SPAN><FONT size="3">地址：</FONT></SPAN><FONT size="3">桂林电子科技大学（花江校区）红亮学生活动中心</FONT></P></DIV></DIV></DIV></DIV>
+<DIV class="clear"></DIV>
+<DIV class="center">
+<DIV id="gonggao" class="notice">
+<UL>
+<LI class="notice_on">公告公示 </LI>
+<LI>新闻中心 </LI><A id="gengduo3" class="more" href="jyzc.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1105">更多&gt;</A></UL><!--#begineditable clone="0" namechanged="0" order="8" ispublic="0" tagname="公示公告" viewid="165741" contentviewid="" contype="" stylesysid="" layout="" action="" name="公示公告"--><ol style="display: none;">
+        <a href="info/1015/12161.htm"><li>广西西部计划志愿者招募500人，每年补贴3.5万元<span>2020-04-15</span></li></a>
+    <a href="info/1015/12145.htm"><li>关于举办桂林电子科技大学2020届毕业生“文科综合类”线上双...<span>2020-04-13</span></li></a>
+    <a href="info/1015/12144.htm"><li>桂林电子科技大学2020届毕业生“文科综合类”线上双选会邀请...<span>2020-04-13</span></li></a>
+    <a href="info/1015/12143.htm"><li>2020年桂林人社进校园暨桂林电子科技大学网络专场招聘会邀请...<span>2020-04-13</span></li></a>
+    <a href="info/1015/12138.htm"><li>招募季丨重磅！西部计划报名通道已开启！<span>2020-04-13</span></li></a>
+    <a href="info/1015/12105.htm"><li>“千校万岗·就业有位来”广西专场（桂林站）<span>2020-04-07</span></li></a>
+    <a href="info/1015/12179.htm"><li>桂林电子科技大学“文科综合类”双选会参会企业名单<span>2020-04-19</span></li></a>
+    <a href="info/1015/12159.htm"><li>关于梨树霖等人换发协议书公示<span>2020-04-15</span></li></a>
+    
+</ol><script>_showDynClickBatch(['dynclicks_u8_12161','dynclicks_u8_12145','dynclicks_u8_12144','dynclicks_u8_12143','dynclicks_u8_12138','dynclicks_u8_12105','dynclicks_u8_12179','dynclicks_u8_12159'],[12161,12145,12144,12143,12138,12105,12179,12159],"wbnews", 1445875082)</script>
+<!--#endeditable--><!--#begineditable clone="0" namechanged="0" order="9" ispublic="0" tagname="新闻中心" viewid="165742" contentviewid="" contype="" stylesysid="" layout="" action="" name="新闻中心"--><ol style="display: none;">
+        <a href="info/1017/12036.htm"><li>生命与环境科学学院召开毕业生就业视频推进会<span>2020-03-24</span></li></a>
+    <a href="info/1017/12035.htm"><li>生命与环境科学学院召开2020届建档立卡毕业生就业精准帮扶网络视频会<span>2020-03-24</span></li></a>
+    <a href="info/1017/11989.htm"><li>我校2020届毕业生春季首场网络双选会顺利举行<span>2020-03-20</span></li></a>
+    <a href="info/1017/11526.htm"><li>泓文教育集团董事长肖岳峰到外国语学院开展就业创业指导讲座<span>2019-11-04</span></li></a>
+    <a href="info/1017/11449.htm"><li>材料科学与工程学院暑期开展毕业生质量调研活动<span>2019-10-31</span></li></a>
+    <a href="info/1017/10875.htm"><li>数学与计算科学学院召开2020届毕业生就业动员会<span>2019-10-25</span></li></a>
+    <a href="info/1017/10874.htm"><li>外国语学院召开2020届毕业生就业动员大会<span>2019-10-25</span></li></a>
+    <a href="info/1017/8170.htm"><li>商学院2019届毕业生就业推进大会暨文明离校教育大会圆满举办<span>2019-04-19</span></li></a>
+    
+</ol><script>_showDynClickBatch(['dynclicks_u9_12036','dynclicks_u9_12035','dynclicks_u9_11989','dynclicks_u9_11526','dynclicks_u9_11449','dynclicks_u9_10875','dynclicks_u9_10874','dynclicks_u9_8170'],[12036,12035,11989,11526,11449,10875,10874,8170],"wbnews", 1445875082)</script>
+<!--#endeditable--></DIV>
+<DIV class="relevant">
+<DIV class="house" style="height: 246px; width: 380px">
+<DIV class="contacts-tel"></DIV></DIV></DIV>
+<DIV></DIV></DIV>
+<DIV class="center">
+<DIV id="zhengce" class="notice">
+<UL>
+<LI class="notice_on">就业政策 </LI>
+<LI>就业指导 </LI><A id="gengduo2" class="more" href="jyzc.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1005">更多&gt;</A></UL><!--#begineditable clone="0" namechanged="0" order="10" ispublic="0" tagname="就业政策" viewid="165747" contentviewid="" contype="" stylesysid="" layout="" action="" name="就业政策"--><ol style="display: none;">
+        <a href="info/1012/12023.htm">
+        <li>广东省人民政府关于印发广东省进一步稳定和促进就业若干政策措…<span class="sr">2020-03-20</span></li>
+    </a>
+    <a href="info/1012/12024.htm">
+        <li>广西壮族自治区人民政府办公厅关于印发广西持续增加城镇居民收…<span class="sr">2020-03-20</span></li>
+    </a>
+    <a href="info/1012/12025.htm">
+        <li>广西壮族自治区人力资源和社会保障厅 财政厅关于调整我区高校 …<span class="sr">2020-03-20</span></li>
+    </a>
+    <a href="info/1012/12026.htm">
+        <li>关于实施支持和促进重点群体创业就业有关税收政策具体操作问题…<span class="sr">2020-03-20</span></li>
+    </a>
+    <a href="info/1012/12027.htm">
+        <li>关于进一步支持和促进重点群体创业就业有关税收政策的通知<span class="sr">2020-03-20</span></li>
+    </a>
+    <a href="info/1012/12028.htm">
+        <li>大学生就业创业相关网址<span class="sr">2020-03-20</span></li>
+    </a>
+    <a href="info/1012/11529.htm">
+        <li>珠海横琴人才落户政策优化租房生活补贴加码<span class="sr">2019-11-04</span></li>
+    </a>
+    <a href="info/1012/9670.htm">
+        <li>广西壮族自治区人民政府关于做好当前和今后一段时期就业创业工…<span class="sr">2017-11-01</span></li>
+    </a>
+</ol><script>_showDynClickBatch(['dynclicks_u10_12023','dynclicks_u10_12024','dynclicks_u10_12025','dynclicks_u10_12026','dynclicks_u10_12027','dynclicks_u10_12028','dynclicks_u10_11529','dynclicks_u10_9670'],[12023,12024,12025,12026,12027,12028,11529,9670],"wbnews", 1445875082)</script>
+<!--#endeditable--><!--#begineditable clone="0" namechanged="0" order="11" ispublic="0" tagname="就业指导" viewid="165746" contentviewid="" contype="" stylesysid="" layout="" action="" name="就业指导"--><ol style="display: none;">
+		<a href="info/1011/11957.htm">
+		<li>线上就业创业课程资源免费开放啦~<span class="sr">2020-03-13</span></li>
+	</a>
+	<a href="info/1011/9717.htm">
+		<li>四招让你拥有职场好心态<span class="sr">2018-03-23</span></li>
+	</a>
+	<a href="info/1011/9716.htm">
+		<li>面试中的突破性思维问题<span class="sr">2018-03-23</span></li>
+	</a>
+	<a href="info/1011/9715.htm">
+		<li>16个经典面试问题回答思路<span class="sr">2018-03-23</span></li>
+	</a>
+	<a href="info/1011/9714.htm">
+		<li>面试紧张怎么办？<span class="sr">2018-03-23</span></li>
+	</a>
+	<a href="info/1011/9713.htm">
+		<li>面试技巧——如何进行自我介绍<span class="sr">2018-03-23</span></li>
+	</a>
+	<a href="info/1011/9712.htm">
+		<li>六种简历最容易被抛弃<span class="sr">2018-03-23</span></li>
+	</a>
+	<a href="info/1011/9711.htm">
+		<li>如何“读透”简历<span class="sr">2018-03-23</span></li>
+	</a>
+</ol><script>_showDynClickBatch(['dynclicks_u11_11957','dynclicks_u11_9717','dynclicks_u11_9716','dynclicks_u11_9715','dynclicks_u11_9714','dynclicks_u11_9713','dynclicks_u11_9712','dynclicks_u11_9711'],[11957,9717,9716,9715,9714,9713,9712,9711],"wbnews", 1445875082)</script>
+<!--#endeditable--></DIV>
+<DIV class="advert"><!--#begineditable clone="0" namechanged="0" order="12" ispublic="0" tagname="图片列表" viewid="165743" contentviewid="" contype="" stylesysid="" layout="" action="" name="图片列表"-->    <ul>
+		<li>
+		<a href="https://www.baidu.com/" target="_blank">
+			<img src="images/18/06/15/1n4cv5jfmq/5ac189505e743.jpg" border="0" />
+		</a>
+	</li>
+	<li>
+		<a href="https://www.baidu.com/" target="_blank">
+			<img src="images/18/06/15/1n4cv5jfmq/5ac186f2c53a9.png" border="0" />
+		</a>
+	</li>
+	<li>
+		<a href="https://www.baidu.com/" target="_blank">
+			<img src="images/18/06/15/1n4cv5jfmq/5a54306fb2c1d.png" border="0" />
+		</a>
+	</li>
+	<li>
+		<a href="https://www.baidu.com/" target="_blank">
+			<img src="images/18/06/15/1n4cv5jfmq/5a54304c0958a.png" border="0" />
+		</a>
+	</li>
+</ul><!--#endeditable--></DIV></DIV>
+<DIV></DIV>
+<DIV class="center">
+<DIV class="clear"></DIV>
+<DIV class="honor">
+<DIV id="demo" class="jCarouselLite"><!--#begineditable clone="0" namechanged="0" order="13" ispublic="0" tagname="滚动图片" viewid="165744" contentviewid="" contype="" stylesysid="" layout="" action="" name="滚动图片"--><script language="javascript" src="/system/resource/js/image/imagescroll.js"></script><ul>
+		<li>
+            <a href="https://www.baidu.com/" target="_blank">
+                <img src="images/18/06/15/1moun2qfrz/ad5.png" height="58" width="178" alt="1">
+            </a>
+		
+	</li>
+	<li>
+            <a href="https://www.baidu.com/" target="_blank">
+                <img src="images/18/06/15/1moun2qfrz/ad4.png" height="58" width="178" alt="1">
+            </a>
+		
+	</li>
+	<li>
+            <a href="https://www.baidu.com/" target="_blank">
+                <img src="images/18/06/15/1moun2qfrz/ad3.png" height="58" width="178" alt="1">
+            </a>
+		
+	</li>
+	<li>
+            <a href="https://www.baidu.com/" target="_blank">
+                <img src="images/18/06/15/1moun2qfrz/ad2.png" height="58" width="178" alt="1">
+            </a>
+		
+	</li>
+	<li>
+            <a href="https://www.baidu.com/" target="_blank">
+                <img src="images/18/06/15/1moun2qfrz/ad1.png" height="58" width="178" alt="1">
+            </a>
+		
+	</li>
+	<li>
+            <a href="https://www.baidu.com/" target="_blank">
+                <img src="images/index/ad5.png" height="58" width="178" alt="1">
+            </a>
+		
+	</li>
+	<li>
+            <a href="https://www.baidu.com/" target="_blank">
+                <img src="images/index/ad4.png" height="58" width="178" alt="1">
+            </a>
+		
+	</li>
+	<li>
+            <a href="https://www.baidu.com/" target="_blank">
+                <img src="images/index/ad3.png" height="58" width="178" alt="1">
+            </a>
+		
+	</li>
+	<li>
+            <a href="https://www.baidu.com/" target="_blank">
+                <img src="images/index/ad1.png" height="58" width="178" alt="1">
+            </a>
+		
+	</li>
+	<li>
+            <a href="https://www.baidu.com/" target="_blank">
+                <img src="images/index/ad2.png" height="58" width="178" alt="1">
+            </a>
+		
+	</li>
+</ul><!--#endeditable--></DIV></DIV></DIV></SECTION><FOOTER>
+<DIV class="center">
+<DIV id="code"><IMG src="images/index/erwei.png"></DIV>
+<DIV id="center">
+<UL>
+<LI>友情链接: <!--#begineditable clone="0" namechanged="0" order="14" ispublic="0" tagname="友情链接" viewid="165757" contentviewid="" contype="" stylesysid="" layout="" action="" name="友情链接"--><script language="javascript" src="/system/resource/js/openlink.js"></script><!--#endeditable--></LI></UL>
+<DIV class="clear"></DIV><!--#begineditable clone="0" namechanged="0" order="15" ispublic="0" tagname="版权" viewid="165758" contentviewid="" contype="" stylesysid="" layout="" action="" name="版权"--><!-- 版权内容请在本组件"内容配置-版权"处填写 -->
+<p>::Copyright©2013 桂林电子科技大学大学生就业指导服务中心 All Right Reserved</p><p>地址：桂林电子科技大学花江校区大学生活动中心 电话:0773-2319102 传真:0773-2319102 邮编:541004</p><p>疑问及反馈请发E-mail:jiuye@guet.edu.cn</p><!--#endeditable--></DIV></DIV></FOOTER><script type="text/javascript">
+$("#gonggao>ol").hide().eq(0).show();
+$("#zhengce>ol").hide().eq(0).show();
+            $(document).ready(function(){
+                $('#demo').jCarouselLite({  
+                    auto: 800,
+                    speed: 1000
+                });     
+            });
+            $("#gonggao>ul>li").click(function(){
+                var url = $(this).attr('url');
+                $(this).siblings('span').find('a').attr("href",url);
+                var index = $(this).index();
+                 var url ="jyzc.jsp?urltype=tree.TreeTempUrl&wbtreeid=1105";
+        if(index==1){
+            url="jyzd.jsp?urltype=tree.TreeTempUrl&wbtreeid=1104";
+        } 
+               $("#gengduo3").attr("href",url);
+                $(this).addClass("notice_on").siblings().removeClass("notice_on");
+                $("#gonggao>ol").hide().eq(index).show();
+                
+
+            });
+            
+            $(".news>ul>li").click(function(){
+                var url = $(this).attr('url');
+                $(this).siblings('span').find('a').attr("href",url);
+                var index = $(this).index();
+        var url ="zhaopin.jsp?urltype=tree.TreeTempUrl&wbtreeid=1033";
+        if(index==1){
+            url="zhaopin.jsp?urltype=tree.TreeTempUrl&wbtreeid=1031";
+        }else if(index==2){
+            url="zhaopin.jsp?urltype=tree.TreeTempUrl&wbtreeid=1032";
+        }else{
+            url="zhaopin.jsp?urltype=tree.TreeTempUrl&wbtreeid=1022";
+        }
+        $("#gengduo1").attr("href",url);
+                $(this).addClass("news_on").siblings().removeClass("news_on");
+                $(".news>ol").hide().eq(index).show();
+            });
+            
+      $("#zhengce>ul>li").click(function(){
+                var url = $(this).attr('url');
+                $(this).siblings('span').find('a').attr("href",url);
+                var index = $(this).index();
+        var url="jyzc.jsp?urltype=tree.TreeTempUrl&wbtreeid=1005";
+        if(index==1){
+        url="jyzd.jsp?urltype=tree.TreeTempUrl&wbtreeid=1004";
+        }
+        $("#gengduo2").attr("href",url);
+                $(this).addClass("notice_on").siblings().removeClass("notice_on");
+                $("#zhengce>ol").hide().eq(index).show();
+            });
+            
+            
+            
+
+            
+       
+            
+   
+            
+        </script><script type="text/javascript">
+                $("#banner").PageSwitch({
+                    direction:'horizontal',
+                    easing:'ease-in',
+                    duration:500,
+                    autoPlay:true,
+                    loop:'false'
+                });
+            </script>
+
+</BODY></HTML>

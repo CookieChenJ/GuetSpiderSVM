@@ -1,0 +1,356 @@
+<!DOCTYPE html><HTML><HEAD><TITLE>招聘公告-桂林电子科技大学数学与计算科学学院</TITLE><META Name="keywords" Content="桂林电子科技大学数学与计算科学学院" />
+
+
+
+
+
+<META charset="utf-8"><LINK rel="stylesheet" type="text/css" href="../../css/style.css"><LINK rel="stylesheet" type="text/css" href="../../css/publice.css"><script type="text/javascript" src="../../js/jquery-1.8.3.min.js"></script><script type="text/javascript" src="../../js/jquery.js"></script><script type="text/javascript" src="../../js/superslide.2.1.js"></script><script type="text/javascript" src="../../js/jquery.soChange.js"></script><script type="text/javascript" src="../../js/index.js"></script><script type="text/javascript">
+$(function(){
+
+    $(".mainmenu dl").hide();
+    
+    $("li.mainmenu").hover(function(){
+        $(this).find("dl").stop(true,true);
+        $(this).find("dl").slideDown();
+    },function(){
+        $(this).find("dl").stop(true,true);
+        $(this).find("dl").slideUp();
+    });
+    
+})
+</script>
+
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="../../_sitegray/_sitegray_d.css" />
+<script language="javascript" src="../../_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="../../nry.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1051,'/nry.jsp',1385,1411889815)</script>
+</HEAD>
+<BODY><!--top s-->
+<DIV class="topWrap clearfix">
+<DIV class="topDiv">
+<DIV class="logo"><!--#begineditable clone="0" namechanged="0" order="0" ispublic="0" tagname="高校LOGO" viewid="163166" contentviewid="" contype="" stylesysid="" layout="" action="" name="高校LOGO"-->
+<!-- 网站logo图片地址请在本组件"内容配置-网站logo"处填写 -->
+
+<a href="../../index.htm"><img src="../../images/logo.png"></a>
+<!--#endeditable--></DIV>
+<DIV class="topR fr">
+<DIV class="topR_t fr"><!--#begineditable clone="0" namechanged="0" order="1" ispublic="0" tagname="主页|收藏" viewid="163167" contentviewid="" contype="" stylesysid="" layout="" action="" name="主页|收藏"-->
+<script language="javascript">
+function dosuba163167a()
+{
+    try{
+        var ua = navigator.userAgent.toLowerCase();
+        if(ua.indexOf("msie 8")>-1)
+        {
+            window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE8
+        }else if(ua.toLowerCase().indexOf("rv:")>-1)
+        {
+            window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE11+
+        }else{
+            if (document.all) 
+            {
+                window.external.addFavorite(document.location.href, document.title);
+            }else if(window.sidebar)
+            {
+                window.sidebar.addPanel( document.title, document.location.href, "");//firefox
+            }
+            else
+            {
+                alert(hotKeysa163167a());
+            }
+        }
+
+    }
+    catch (e){alert("无法自动添加到收藏夹，请使用 Ctrl + d 手动添加");}
+}
+function hotKeysa163167a() 
+{
+    var ua = navigator.userAgent.toLowerCase(); 
+    var str = "";    
+    var isWebkit = (ua.indexOf('webkit') != - 1); 
+    var isMac = (ua.indexOf('mac') != - 1);     
+    if (ua.indexOf('konqueror') != - 1) 
+    {  
+        str = 'CTRL + B'; // Konqueror   
+    } 
+    else if (window.home || isWebkit || isMac) 
+    {        
+        str = (isMac ? 'Command/Cmd' : 'CTRL') + ' + D'; // Netscape, Safari, iCab, IE5/Mac   
+    }
+    return ((str) ? '无法自动添加到收藏夹，请使用' + str + '手动添加' : str);
+}
+function setHomepagea163167a()
+{
+    var url = document.location.href;
+    if (document.all)
+    {
+        document.body.style.behavior='url(#default#homepage)';
+        document.body.setHomePage(url);
+    }
+    else if (window.sidebar)
+    {
+        if(window.netscape)
+        {
+             try{
+                  netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+             }catch (e){
+                   alert("该操作被浏览器拒绝，如果想启用该功能，请在地址栏内输入 about:config,然后将项 signed.applets.codebase_principal_support 值该为true");
+             }
+        }
+    var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components. interfaces.nsIPrefBranch);
+    prefs.setCharPref('browser.startup.homepage',url);
+    }
+    else
+    {
+        alert("浏览器不支持自动设为首页，请手动设置");
+    }
+}
+</script>
+
+            <A onclick="javascript:dosuba163167a();" href="#" style="TEXT-DECORATION: none;">
+                加入收藏
+            </A>|
+            <A href="http://www.guet.edu.cn/" target="_blank" style="TEXT-DECORATION: none;">
+               学校主页
+            </A><!--#endeditable--></DIV>
+<DIV style="clear: both"></DIV><!--#begineditable clone="0" namechanged="0" order="2" ispublic="0" tagname="头部检索" viewid="163168" contentviewid="" contype="" stylesysid="" layout="" action="" name="头部检索"--><script type="text/javascript">
+    function _nl_ys_check(){
+        
+        var keyword = document.getElementById('showkeycode163168').value;
+        if(keyword==null||keyword==""){
+            alert("请输入你要检索的内容！");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkeyword163168").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkeyword163168").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkeyword163168").value = base64.encode(document.getElementById("lucenenewssearchkeyword163168").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode163168"));
+        return true;
+    } 
+    function submitForm()
+    {
+        document.getElementById("au2a").submit();
+    }
+     function test44()
+                {
+                    var tempStr=document.getElementById('showkeycode163168').value;
+                    if(tempStr=="")
+                    {
+                        document.getElementById('showkeycode163168').value="请输入关键字搜索";
+                    }
+                }
+                
+                 function test33()
+                {
+                    var tempStr=document.getElementById('showkeycode163168').value;
+                    if(tempStr=="请输入关键字搜索")
+                    {
+                        document.getElementById('showkeycode163168').value="";
+                    }
+                }
+</script>
+<div class="Search">
+<form action="../../ssjgy.jsp?wbtreeid=1051" method="post" id="au2a" name="au2a" onsubmit="return _nl_ys_check()">
+ <input type="hidden" id="lucenenewssearchkeyword163168" name="lucenenewssearchkeyword" value=""><input type="hidden" id="_lucenesearchtype163168" name="_lucenesearchtype" value="1"><input type="hidden" id="searchScope163168" name="searchScope" value="0">
+ <input type="text" value="请输入关键字搜索" name="showkeycode" class="search_text" onclick="test33()" onblur="test44()" id="showkeycode163168" />
+                <div class="fdj fr"><input type="submit" class="button pngFix" value=""></div>
+</form>
+</div><script language="javascript" src="/system/resource/js/base64.js"></script><script language="javascript" src="/system/resource/js/formfunc.js"></script>
+<!--#endeditable--><script type="text/javascript">
+                function test3()
+                {
+                    var tempStr=document.getElementById('test2').value;
+                    if(tempStr=="请输入关键字搜索")
+                    {
+                        document.getElementById('test2').value="";
+                    }
+                }
+                function test4()
+                {
+                    var tempStr=document.getElementById('test2').value;
+                    if(tempStr=="")
+                    {
+                        document.getElementById('test2').value="请输入关键字搜索";
+                    }
+                }
+            </script></DIV></DIV></DIV><!--nav-->
+<DIV class="navWrap  clearfix">
+<DIV class="nav"><!--#begineditable clone="0" namechanged="0" order="3" ispublic="0" tagname="主导航" viewid="163169" contentviewid="" contype="" stylesysid="" layout="" action="" name="主导航"--><div class="navWrap  clearfix">
+    <div class="nav">
+    <ul>
+            <li>
+            <a class="link" href="../../index.htm">首页</a>
+        </li>
+        <li class="mainmenu">
+
+            <a class="link" href="../../xygk/xyjj.htm">学院概况</a>
+   
+            <dl class="chang">
+
+                    <dd><a href="../../xygk/xyjj.htm">学院简介</a></dd>
+
+                    <dd><a href="../../xygk/xrld.htm">现任领导</a></dd>
+
+                    <dd><a href="../../xygk/zzjg.htm">组织机构</a></dd>
+
+                    <dd><a href="../../xygk/bszn.htm">办事指南</a></dd>
+            </dl>
+        </li>
+        <li class="mainmenu">
+
+            <a class="link" href="../../szdw/szdwjj.htm">师资队伍</a>
+   
+            <dl class="chang">
+
+                    <dd><a href="../../szdw/szdwjj.htm">师资队伍简介</a></dd>
+
+                    <dd><a href="../../szdw/ssbsds.htm">硕士博士导师</a></dd>
+
+                    <dd><a href="../../szdw/ajsszbmck.htm">按教师所在部门查看</a></dd>
+            </dl>
+        </li>
+        <li class="mainmenu">
+
+            <a class="link" href="../../bksjy/bksjy.htm">本科生教育</a>
+   
+            <dl class="chang">
+
+                    <dd><a href="../../bksjy/bksjy.htm">本科生教育</a></dd>
+
+                    <dd><a href="../../bksjy/cxcy.htm">创新创业</a></dd>
+            </dl>
+        </li>
+        <li class="mainmenu">
+
+            <a class="link" href="../../yjsjy.htm">研究生教育</a>
+   
+        </li>
+        <li class="mainmenu">
+
+            <a class="link" href="../../kxyj/kypt.htm">科学研究</a>
+   
+            <dl class="chang">
+
+                    <dd><a href="../../kxyj/kypt.htm">科研平台</a></dd>
+
+                    <dd><a href="../../kxyj/yjtd.htm">研究团队</a></dd>
+
+                    <dd><a href="../../kxyj/kyxm.htm">科研项目</a></dd>
+            </dl>
+        </li>
+        <li class="mainmenu">
+
+            <a class="link" href="../../djgz/zbsz.htm">党建工作</a>
+   
+            <dl class="chang">
+
+                    <dd><a href="../../djgz/zbsz.htm">支部设置</a></dd>
+
+                    <dd><a href="../../djgz/zthd.htm">专题活动</a></dd>
+
+                    <dd><a href="../../djgz/llxx.htm">理论学习</a></dd>
+
+                    <dd><a href="../../djgz/jcdt.htm">基层动态</a></dd>
+
+                    <dd><a href="../../djgz/gzzd.htm">规章制度</a></dd>
+            </dl>
+        </li>
+        <li class="mainmenu">
+
+            <a class="link" href="../../xsgz/xshd.htm">学生工作</a>
+   
+            <dl class="chang">
+
+                    <dd><a href="../../xsgz/xshd.htm">学生活动</a></dd>
+
+                    <dd><a href="../../xsgz/tzgg.htm">通知公告</a></dd>
+
+                    <dd><a href="../../xsgz/jyzd.htm">就业指导</a></dd>
+
+                    <dd><a href="../../xsgz/ybdt.htm">易班动态</a></dd>
+            </dl>
+        </li>
+        <li class="mainmenu">
+
+            <a class="link" href="https://www.guet.edu.cn/dept7/info/1051/1385.htm">人才招聘</a>
+   
+        </li>
+     
+    </ul>
+</div>
+</div>
+<script type="text/javascript">
+
+    $(".mainmenu dl").hide();
+
+</script><!--#endeditable--></DIV></DIV><!--banner--><!--banner--><!--container--><!--main-->
+<DIV class="mainWrap clearfix">
+<DIV class="main_tit">
+<DIV class="main_titT main_titTa"><IMG src="../../img/bri_icon1.png"><!--#begineditable clone="0" namechanged="0" order="5" ispublic="0" tagname="当前位置" viewid="163156" contentviewid="" contype="" stylesysid="" layout="" action="" name="当前位置"-->        
+<a href="../../index.htm">首页</a>
+
+                >
+<a href="../../index/xyxw.htm">学院新闻</a>
+
+                >
+                正文
+<!--#endeditable--></DIV></DIV>
+<DIV class="main_content"><!--#begineditable clone="0" namechanged="0" order="6" ispublic="0" tagname="文章内容" viewid="163157" contentviewid="" contype="" stylesysid="" layout="" action="" name="文章内容"-->
+<script language="javascript" src="/system/resource/js/dynclicks.js"></script><script language="javascript" src="../../_dwr/interface/NewsvoteDWR.js"></script><script language="javascript" src="../../_dwr/engine.js"></script><script language="javascript" src="/system/resource/js/news/newscontent.js"></script><script type="text/javascript">NewsvoteDWR.getNewsLinkUrl(1385,'1411889815','vsb',newsSkip);function newsSkip(data){if(data != ""){window.location.href = data;}}</script><script language="javascript" src="/system/resource/js/ajax.js"></script><form name="_newscontent_fromname">
+<div class="main_contit">
+			<h2>招聘公告</h2>
+			<p>作者：    时间：2020-03-03    点击数：<script>_showDynClicks("wbnews", 1411889815, 1385)</script></p>
+</div>
+<div class="main_conDiv" style="margin:10px auto 0;">
+<div class="main_reporter" style="margin-top:10px;">
+
+    <div id="vsb_content"><p style="margin: 0px 0px 13px; line-height: 29px; text-indent: 32px;"><span style="background: white; color: black; font-family: 宋体,SimSun; font-size: 16px;">林电子科技大学是省部共建高校、国家“中西部高校基础能力建设工程”入选高校、广西壮族自治区重点建设高校、四所电子科大之一。学校现有博士后流动站3个，博士学位授权一级学科点4个，硕士学位授权一级学科点17个，具有硕士研究生推免资格高校，“工程学”和“材料科学”学科进入ESI全球前1%。学校开设本科专业73个，有教职工3100余人。学校现有全日制在校学生41000余人，其中硕博士研究生4000余人。 </span></p>
+<p style="background: white; margin: 0px 0px 13px; line-height: 29px; text-indent: 32px;"><span style="font-family: 宋体,SimSun;"><span style="background: white; color: black; font-family: 宋体; font-size: 16px;">桂林电子科技大学数学与计算科学学院</span><span style="color: rgb(34, 34, 34); font-family: 宋体; font-size: 16px;">现有“网络空间安全理论基础”二级学科方向博士点、数学硕士学位授权一级学科点和应用统计硕士专业学位授权点。学院开设有信息与计算科学、应用统计学、数学与应用数学三个本科专业。信息与计算科学专业为国</span><span style="color: black; font-family: 宋体; font-size: 16px;">家一流专业、国家级特色专业、广西首批优质专业、广西高校优势特色专业，“应用统计学”是广西优势专业，“工科数学教学团队”为自治区级教学团队。 “应用数学”学科为广西重点学科，拥有“广西高校数据分析与计算重点实验室”和“广西密码学与信息安全重点实验室”自治区级科研平台。目前，全院本科学生1000余人，研究生150余人。全院现有教职工95人，其中专任教师82人，教授25人，副教授23人，具有博士学位的教师44人。国务院特殊津贴专家1人，全国优秀教育工作者1人，中国运筹学新人奖1人，广西高等学校教学名师2人，广西优秀教师1人，广西杰出青年基金获得者5人，广西青年科技奖2人，广西高校优秀人才资助计划4人，广西高等学校千名骨干教师计划入选6人，博士生导师9人。学校聘请了菲尔兹奖获得者Efim Zelmanov教授和上海大学原系主任王卿文教授为荣誉教授。</span><span style="color: rgb(34, 34, 34); font-family: 宋体; font-size: 16px;">近年来，主持50多项国家自然科学基金项目，8项中国博士后科学基金项目，60多项广西自然科学基金项目，1项广西创新团队基金项目，4项广西杰出青年基金项目<a name="_GoBack"></a>。学院教师编写专著教材20多部，在国内外学术期刊《Advances in Mathematics》《Transactions of the American Mathematical Society》《Proceedings of the American Mathematical Society》等上发表了600多篇论文，其中SCI收录400余篇。学院现有1门国家级精品课程，2门广西一流本科课程，4门广西区级精品课程，12个校企合作产学研基地。获6项广西自然科学奖和4项广西高等教育教学成果奖。</span><span style="background: white; color: black; font-family: 宋体; font-size: 16px;">目前</span><strong><span style="font-family: 宋体; font-size: 16px;">学院各项事业快速发展，急需数学与统计类博士，诚邀您的加盟！</span></strong></span></p>
+<p style="background: white; line-height: 29px;"><span style="font-family: 宋体,SimSun;"><span style="font-family: 宋体,SimSun; font-size: 16px;"><strong><span style="font-family: 宋体;"> &nbsp;&nbsp;&nbsp; </span></strong><strong><span style="background: white; color: black; font-family: 宋体,SimSun;">招聘学科及人数</span></strong></span><span style="background: white; color: black; font-family: 宋体,SimSun; font-size: 16px;">：数学类和统计学类博士10人。 <br> &nbsp;&nbsp;&nbsp; <strong>引进待遇</strong>：引进博士的基本待遇为博士55万，博士副教授75万，博士教授130万，上不封顶。解决家属工作，提供过渡房。学校有桂电幼儿园、桂电小学、桂电中学，协助解决子女上学问题。</span></span></p>
+<p style="background: white; line-height: 29px; text-indent: 32px;"><span style="font-family: 宋体,SimSun; font-size: 16px;"><strong><span style="color: black; font-family: 宋体; font-size: 16px;">联系方式</span></strong><span style="color: black; font-family: 宋体,SimSun; font-size: 16px;">：</span></span></p>
+<p style="background: white; line-height: 29px; text-indent: 32px;"><span style="color: black; font-family: 宋体,SimSun; font-size: 16px;">地址：广西桂林市金鸡路1号桂林电子科技大学数学与计算科学学院</span></p>
+<p style="background: white; line-height: 29px; text-indent: 32px;"><span style="color: black; font-family: 宋体,SimSun; font-size: 16px;">联系人： 段雪峰（学院院长）： </span><span style="font-family: 宋体,SimSun; font-size: 16px;"><a href="mailto:duanxuefeng@guet.edu.cn"><span style="color: black; font-family: 宋体,SimSun; font-size: 16px; text-underline: none;">duanxuefeng@guet.edu.cn</span></a></span></p>
+<p style="background: white; line-height: 29px;"><span style="font-family: 宋体,SimSun; font-size: 16px;"><span style="color: black; font-family: 宋体,SimSun; font-size: 16px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;赖艳（办公室主任）： </span><a href="mailto:857152219@qq.com"><span style="color: black; font-family: 宋体,SimSun; font-size: 16px; text-underline: none;">857152219@qq.com</span></a></span></p>
+<p>&nbsp;</p></div>
+			</div></div>
+<div id="div_vote_id"></div>
+
+
+
+
+
+    <div class="main_art">
+<ul>
+        <li><lable>上一条：</lable><a href="1920.htm">【疫情防控】数学与计算科学学院召开2020年重点工作布置会</a></li>
+        <li><lable>下一条：</lable><a href="1916.htm">【疫情防控】数学与计算科学学院疫情期间停课不停学线上授课</a></li>
+ 
+</ul>
+</div>
+   
+</form><!--#endeditable--></DIV></DIV><!--foot-->
+<DIV class="footWrap clearfix">
+<DIV class="footDiv_two">
+<DIV class="foot_two"><!--#begineditable clone="0" namechanged="0" order="7" ispublic="0" tagname="版权" viewid="163147" contentviewid="" contype="" stylesysid="" layout="" action="" name="版权"--><!-- 版权内容请在本组件"内容配置-版权"处填写 -->
+<p>Copyright© 2018 All Rights Reserved. 桂林电子科技大学数学与计算科学学院</p><!--#endeditable-->
+<DIV class="choice" style="width: 230px; margin-top: 20px; float: right; color: rgb(255,255,255); line-height: 28px; padding-right: 0px"><!--#begineditable clone="0" namechanged="0" order="8" ispublic="0" tagname="相关链接" viewid="163148" contentviewid="" contype="" stylesysid="" layout="" action="" name="相关链接"--><script language="javascript" src="/system/resource/js/openlink.js"></script><select onchange="doJump(this)" style="height: 28px;line-height: 28px;font-size: 14px;margin-right:10px;width:230px">
+     <option value="">== 相关链接 ==</option>
+
+   <option value="#">清华大学</option>
+   <option value="#">北京大学</option>
+   <option value="#">厦门大学</option>
+   <option value="#">复旦大学</option>
+   <option value="#">上海大学</option>
+
+</select>
+<!--#endeditable-->
+
+</DIV></DIV></DIV></DIV></BODY></HTML>

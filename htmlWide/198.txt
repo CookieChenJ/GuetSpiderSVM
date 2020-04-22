@@ -1,0 +1,333 @@
+<HTML><HEAD><TITLE>教学改革-集成电路与系统研究所</TITLE><META Name="keywords" Content="集成电路与系统研究所" />
+
+
+
+<META content="text/html; charset=UTF-8" http-equiv="Content-Type"><LINK rel="stylesheet" type="text/css" href="style/css.css">
+
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="list.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1152,'/list.jsp',-1,1447960670)</script>
+</HEAD>
+<BODY>
+<TABLE cellspacing="0" cellpadding="0" width="1200" align="center" background="images/logo5_1.png" border="0">
+<TBODY>
+<TR>
+<TD height="109" width="661">&nbsp;</TD>
+<TD width="319">
+<TABLE cellspacing="0" cellpadding="0" width="100%" align="center" border="0">
+<TBODY>
+<TR>
+<TD valign="top" align="right" style="padding-right: 10px"><!--#begineditable clone="0" namechanged="0" order="0" ispublic="0" tagname="主页|收藏" viewid="39874" contentviewid="" contype="" stylesysid="" layout="" action="" name="主页|收藏"--><script language="javascript">
+function dosuba39874a()
+{
+    try{
+		var ua = navigator.userAgent.toLowerCase();
+		if(ua.indexOf("msie 8")>-1)
+		{
+			window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE8
+		}else if(ua.toLowerCase().indexOf("rv:")>-1)
+        {
+            window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE11+
+        }else{
+			if (document.all) 
+			{
+				window.external.addFavorite(document.location.href, document.title);
+			}else if(window.sidebar)
+			{
+				window.sidebar.addPanel( document.title, document.location.href, "");//firefox
+			}
+			else
+			{
+				alert(hotKeysa39874a());
+			}
+		}
+
+    }
+    catch (e){alert("无法自动添加到收藏夹，请使用 Ctrl + d 手动添加");}
+}
+function hotKeysa39874a() 
+{
+	var ua = navigator.userAgent.toLowerCase(); 
+	var str = "";    
+	var isWebkit = (ua.indexOf('webkit') != - 1); 
+	var isMac = (ua.indexOf('mac') != - 1);     
+	if (ua.indexOf('konqueror') != - 1) 
+	{  
+		str = 'CTRL + B'; // Konqueror   
+	} 
+	else if (window.home || isWebkit || isMac) 
+	{        
+		str = (isMac ? 'Command/Cmd' : 'CTRL') + ' + D'; // Netscape, Safari, iCab, IE5/Mac   
+	}
+	return ((str) ? '无法自动添加到收藏夹，请使用' + str + '手动添加' : str);
+}
+function setHomepagea39874a()
+{
+	var url = document.location.href;
+    if (document.all)
+    {
+        document.body.style.behavior='url(#default#homepage)';
+        document.body.setHomePage(url);
+    }
+    else if (window.sidebar)
+    {
+        if(window.netscape)
+        {
+             try{
+                  netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+             }catch (e){
+                   alert("该操作被浏览器拒绝，如果想启用该功能，请在地址栏内输入 about:config,然后将项 signed.applets.codebase_principal_support 值该为true");
+             }
+    	}
+	var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components. interfaces.nsIPrefBranch);
+	prefs.setCharPref('browser.startup.homepage',url);
+	}
+	else
+	{
+		alert("浏览器不支持自动设为首页，请手动设置");
+	}
+}
+</script><table><tr><td style="font-size:9pt"><A href="javascript:setHomepagea39874a()"><span class="font39874">设为首页</span></A>&nbsp;<span class="splitcharstyle39874"> | </span>&nbsp;<A onclick="javascript:dosuba39874a();" href="#"><span class="font39874">加入收藏</span></A></td></tr></table><!--#endeditable--></TD></TR></TBODY></TABLE>
+<TABLE cellspacing="0" cellpadding="0" width="100%" align="center" border="0">
+<TBODY>
+<TR>
+<TD height="46" valign="bottom" align="right"><!--#begineditable clone="0" namechanged="0" order="1" ispublic="0" tagname="简单检索" viewid="39876" contentviewid="" contype="" stylesysid="" layout="" action="" name="简单检索"-->
+
+
+
+
+
+
+<script language="javascript" src="/system/resource/js/base64.js"></script>
+<script language="javascript" src="/system/resource/js/formfunc.js"></script>
+<form action="ssjgy.jsp?wbtreeid=1152" method="post" name="a39876a" target="_blank" onsubmit="return subsearchdataa39876a()" style="display: inline;">
+ <input type="hidden" name="Find" value="find">
+ <input type="hidden" name="entrymode" value="1">
+ <input type="hidden" id="INTEXT2" name="INTEXT2" value="">
+ <input type="hidden" name="news_search_code">
+ <table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+   <td Valign="middle" nowrap="nowrap" height="22">
+    
+        <input type="hidden" name="wbtreeids" value="0">
+    </td><td><span id="intextspana39876a"></span><iframe id="intextframea39876a" src="about:blank" scrolling="no" frameborder="0" style="position:absolute;top:0px;left:0px;display:none;"></iframe><input size="22" name="INTEXT" class="querystyle39876">
+   </td>
+   <td align="absmiddle" nowrap="nowrap" height="1">
+   <input type="image" src="images/an_sousuo.gif" valign="bottom" style="cursor: hand"></td>
+  </tr>
+  
+  <tr>
+      <td colspan="2">
+
+        <span onclick="popularsearcha39876a('1234')" style="cursor:pointer">1234</span>   
+   
+      </td>
+  </tr>
+  
+ </table>
+</form>
+<script>
+String.prototype.trim= function()       
+{              
+    var t = this.replace(/(^\s*)|(\s*$)/g, "");     
+    return t.replace(/(^　*)|(　*$)/g, "");     
+}
+     
+function popularsearcha39876a(popularstr)
+{
+    document.a39876a.INTEXT.value=popularstr;
+    document.a39876a.onsubmit();
+}    
+
+function subsearchdataa39876a()
+{ 
+	
+	if(document.a39876a.INTEXT.value.trim()=="")
+	{
+		alert("请输入查询关键字！");
+		return false;
+	}
+	
+	
+    if(checkDataa39876a(document.a39876a))
+    {
+       return true;  
+    }
+    return false;
+}       
+</script>
+
+<script> 
+function checkDataa39876a(formname)
+{
+	if(formname.INTEXT.value.trim()=="")
+	{
+		alert("请输入查询关键字！");
+		return false;
+	}
+
+	var  base64 = new Base64();
+    if(window.toFF==1)
+        {
+            var ssvalue = formname.INTEXT.value;
+            formname.INTEXT2.value = Simplized(ssvalue);
+            formname.INTEXT2.value = base64.encode(formname.INTEXT2.value);
+        }else
+        formname.INTEXT2.value = formname.INTEXT.value;
+        formname.INTEXT2.value = base64.encode(formname.INTEXT2.value);
+       return true;
+}
+</script>
+<!--#endeditable--></TD></TR></TBODY></TABLE>
+<TABLE cellspacing="0" cellpadding="0" width="100%" align="center" border="0">
+<TBODY>
+<TR>
+<TD align="right"></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+<TABLE cellspacing="0" cellpadding="0" width="1200" align="center" background="images/dh_bg1.jpg" border="0">
+<TBODY>
+<TR>
+<TD height="32" align="center"><!--#begineditable clone="0" namechanged="0" order="2" ispublic="0" tagname="网站导航" viewid="39889" contentviewid="" contype="" stylesysid="" layout="" action="" name="网站导航"--><style type="text/css">
+td.b1_2_{FONT-SIZE:9pt;}
+td.b2_2_{FONT-SIZE:9pt;BACKGROUND-IMAGE: url(images/dh_rdbg.gif);}
+td.b3_2_{FONT-SIZE:9pt;BACKGROUND-COLOR: #eff8fe;}
+td.b4_2_{FONT-SIZE:9pt;BACKGROUND-COLOR: #e8f0fb;}
+a.menu0_2_:link {TEXT-DECORATION: none;};
+a.menu0_2_:visited { TEXT-DECORATION: none;};
+a.menu0_2_:hover {TEXT-DECORATION: none;};
+a.menu0_2_:active {TEXT-DECORATION: none;};
+table.tb1_2_{FONT-SIZE:9pt;border:0;}
+span.s1_2_{COLOR: #98FF00;FONT-SIZE: 10pt;TEXT-DECORATION: none;}
+span.s2_2_{FONT-SIZE: 9pt;COLOR: #cc0000;LINE-HEIGHT: 160%;}
+span.s10_2_{FONT-SIZE: 9pt;TEXT-DECORATION: none;COLOR: #ffffff;}
+span.s20_2_{FONT-SIZE: 9pt;COLOR: #222222;LINE-HEIGHT: 160%;}
+</style>
+<SCRIPT language="javascript"> 
+ var showfix_2_ = 1;
+ var isvertical_2_ = false;
+</SCRIPT>
+<script language="javascript" src="/system/resource/js/menu/text.js"></script>
+<TABLE id="t1_2_" cellSpacing="0" cellPadding="0" border="0" height="0" width="890"><TR><TD valign="center"></TD><TD valign="middle" height="30" width="90" nowrap class="b1_2_" align="center" id="a_2_1001" onmouseover="tshowLayers('1001','b2_2_', '_2_')" onmouseout="thideLayers('1001','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="index.htm"><span class="fontstyle39889">&nbsp;首    页&nbsp;</span></a></TD><TD valign="center"></TD><TD valign="middle" width="90" nowrap class="b1_2_" align="center" id="a_2_1096" onmouseover="tshowLayers('1096','b2_2_', '_2_')" onmouseout="thideLayers('1096','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="yjsgk.htm"><span class="fontstyle39889">&nbsp;研究所概况&nbsp;</span></a></TD><TD valign="center"></TD><TD valign="middle" width="90" nowrap class="b1_2_" align="center" id="a_2_1087" onmouseover="tshowLayers('1087','b2_2_', '_2_')" onmouseout="thideLayers('1087','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="xw.htm"><span class="fontstyle39889">&nbsp;新闻资讯&nbsp;</span></a></TD><TD valign="center"></TD><TD valign="middle" width="90" nowrap class="b1_2_" align="center" id="a_2_1114" onmouseover="tshowLayers('1114','b2_2_', '_2_')" onmouseout="thideLayers('1114','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="kytd.htm"><span class="fontstyle39889">&nbsp;科研团队&nbsp;</span></a></TD><TD valign="center"></TD><TD valign="middle" width="90" nowrap class="b1_2_" align="center" id="a_2_1126" onmouseover="tshowLayers('1126','b2_2_', '_2_')" onmouseout="thideLayers('1126','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="xkjs.htm"><span class="fontstyle39889">&nbsp;学科建设&nbsp;</span></a></TD><TD valign="center"></TD><TD valign="middle" width="90" nowrap class="b1_2_" align="center" id="a_2_1130" onmouseover="tshowLayers('1130','b2_2_', '_2_')" onmouseout="thideLayers('1130','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="kypt.htm"><span class="fontstyle39889">&nbsp;科研平台&nbsp;</span></a></TD><TD valign="center"></TD><TD valign="middle" width="90" nowrap class="b1_2_" align="center" id="a_2_1136" onmouseover="tshowLayers('1136','b2_2_', '_2_')" onmouseout="thideLayers('1136','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="kyxm.htm"><span class="fontstyle39889">&nbsp;科研项目&nbsp;</span></a></TD><TD valign="center"></TD><TD valign="middle" width="90" nowrap class="b1_2_" align="center" id="a_2_1058" onmouseover="tshowLayers('1058','b2_2_', '_2_')" onmouseout="thideLayers('1058','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="kycg.htm"><span class="fontstyle39889">&nbsp;科研成果&nbsp;</span></a></TD><TD valign="center"></TD><TD valign="middle" width="90" nowrap class="b1_2_" align="center" id="a_2_1143" onmouseover="tshowLayers('1143','b2_2_', '_2_')" onmouseout="thideLayers('1143','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="rcpy.htm"><span class="fontstyle39889">&nbsp;人才培养&nbsp;</span></a></TD><TD valign="center"></TD><TD valign="middle" width="90" nowrap class="b1_2_" align="center" id="a_2_1147" onmouseover="tshowLayers('1147','b2_2_', '_2_')" onmouseout="thideLayers('1147','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="hzjl1.htm"><span class="fontstyle39889">&nbsp;合作交流&nbsp;</span></a></TD><TD valign="center"></TD><TD valign="middle" width="90" nowrap class="b1_2_" align="center" id="a_2_1152" onmouseover="tshowLayers('1152','b2_2_', '_2_')" onmouseout="thideLayers('1152','b1_2_', '_2_','false','true')"><a class="menu0_2_" href="jxgg.htm"><span class="currentfontStyle39889">&nbsp;教学改革&nbsp;</span></a></TD></TR></TR></table><!--#endeditable--></TD></TR></TBODY></TABLE>
+<TABLE height="10" cellspacing="0" cellpadding="0" width="1200" align="center" border="0">
+<TBODY>
+<TR>
+<TD></TD></TR></TBODY></TABLE>
+<TABLE height="517" cellspacing="0" cellpadding="0" width="1200" align="center" border="0">
+<TBODY>
+<TR>
+<TD height="242" valign="top" width="159" align="center">
+<TABLE cellspacing="0" cellpadding="0" width="160" border="0">
+<TBODY>
+<TR>
+<TD><IMG src="images/left_dh_01.gif" width="159" height="7"></TD></TR></TBODY></TABLE>
+<TABLE cellspacing="0" cellpadding="0" width="159" background="images/left_dh_02.gif" border="0">
+<TBODY>
+<TR>
+<TD height="65" align="center"><!--#begineditable clone="0" namechanged="0" order="3" ispublic="0" tagname="装饰图片" viewid="39907" contentviewid="" contype="" stylesysid="" layout="" action="" name="装饰图片"--><!--#endeditable--></TD></TR>
+<TR>
+<TD height="182" valign="top" align="center"><!--#begineditable clone="0" namechanged="0" order="4" ispublic="0" tagname="二级导航" viewid="39906" contentviewid="" contype="" stylesysid="" layout="" action="" name="二级导航"--><style type="text/css">
+td.b1_4_{FONT-SIZE:9pt;BACKGROUND-IMAGE: url(images/leftdh_2.gif);}
+td.b2_4_{FONT-SIZE:9pt;BACKGROUND-IMAGE: url(images/leftdh_1.gif);}
+td.b3_4_{FONT-SIZE:9pt;BACKGROUND-COLOR: #eff8fe;}
+td.b4_4_{FONT-SIZE:9pt;BACKGROUND-COLOR: #e8f0fb;}
+a.menu0_4_:link {TEXT-DECORATION: none;};
+a.menu0_4_:visited { TEXT-DECORATION: none;};
+a.menu0_4_:hover {TEXT-DECORATION: none;};
+a.menu0_4_:active {TEXT-DECORATION: none;};
+table.tb1_4_{FONT-SIZE:9pt;border:0;}
+span.s1_4_{PADDING-LEFT: 20px;COLOR: #cc0000;FONT-SIZE: 10pt;FONT-WEIGHT: bold;TEXT-DECORATION: none;}
+span.s2_4_{FONT-SIZE: 9pt;COLOR: #cc0000;LINE-HEIGHT: 160%;}
+span.s10_4_{PADDING-LEFT: 20px;COLOR: #ffffff;FONT-SIZE: 10pt;FONT-WEIGHT: bold;TEXT-DECORATION: none;}
+span.s20_4_{FONT-SIZE: 9pt;COLOR: #222222;LINE-HEIGHT: 160%;}
+</style>
+<SCRIPT language="javascript"> 
+ var showfix_4_ = 1;
+ var isvertical_4_ = true;
+</SCRIPT>
+
+<TABLE id="t1_4_" cellSpacing="0" cellPadding="0" border="0" height="0" width="0"><TR><TD valign="middle" height="30" width="180" class="b1_4_" align="left" id="a_4_1153" onmouseover="tshowLayers('1153','b2_4_', '_4_')" onmouseout="thideLayers('1153','b1_4_', '_4_','true')"> <a class="menu0_4_" href="jxgg/jgxm.htm"><span class="fontstyle39906">&nbsp;教改项目&nbsp;</span></a></TD></tr><TR><TD valign="middle" height="30" width="180" class="b1_4_" align="left" id="a_4_1154" onmouseover="tshowLayers('1154','b2_4_', '_4_')" onmouseout="thideLayers('1154','b1_4_', '_4_','true')"> <a class="menu0_4_" href="jxgg/jglw.htm"><span class="fontstyle39906">&nbsp;教改论文&nbsp;</span></a></TD></tr><TR><TD valign="middle" height="30" width="180" class="b1_4_" align="left" id="a_4_1155" onmouseover="tshowLayers('1155','b2_4_', '_4_')" onmouseout="thideLayers('1155','b1_4_', '_4_','true')"> <a class="menu0_4_" href="jxgg/jccb.htm"><span class="fontstyle39906">&nbsp;教材出版&nbsp;</span></a></TD></tr><TR><TD valign="middle" height="30" width="180" class="b1_4_" align="left" id="a_4_1156" onmouseover="tshowLayers('1156','b2_4_', '_4_')" onmouseout="thideLayers('1156','b1_4_', '_4_','true')"> <a class="menu0_4_" href="jxgg/jxcg.htm"><span class="fontstyle39906">&nbsp;教学成果&nbsp;</span></a></TD></tr></table><!--#endeditable--></TD></TR></TBODY></TABLE>
+<TABLE cellspacing="0" cellpadding="0" width="160" border="0">
+<TBODY>
+<TR>
+<TD><IMG src="images/left_dh_03.gif" width="159" height="6"></TD></TR></TBODY></TABLE></TD>
+<TD width="23"></TD>
+<TD valign="top">
+<TABLE cellspacing="0" cellpadding="0" width="780" border="0">
+<TBODY>
+<TR>
+<TD height="93"><!--#begineditable clone="0" namechanged="0" order="5" ispublic="0" tagname="装饰图片2" viewid="39908" contentviewid="" contype="" stylesysid="" layout="" action="" name="装饰图片2"--><img src="images/banner2.jpg" width="803" height="93" border="0"><!--#endeditable--></TD></TR></TBODY></TABLE>
+<TABLE cellspacing="0" cellpadding="0" width="100%" align="center" border="0">
+<TBODY>
+<TR>
+<TD height="5"></TD></TR></TBODY></TABLE>
+<TABLE cellspacing="0" cellpadding="0" width="100%" align="center" border="0">
+<TBODY>
+<TR>
+<TD width="22" style="border-bottom: #127b27 1px solid"><IMG src="images/ico_03.gif" width="22" height="16"></TD>
+<TD height="28" width="105" align="left" style="border-bottom: #127b27 1px solid"></TD>
+<TD width="660" align="right" style="border-bottom: #74c449 1px solid"><!--#begineditable clone="0" namechanged="0" order="7" ispublic="0" tagname="当前位置" viewid="39904" contentviewid="" contype="" stylesysid="" layout="" action="" name="当前位置"-->  
+<table class="winstyle39904" cellspacing="0" cellpadding="0"><tr><td nowrap>当前位置：   
+<a href="index.htm"><span class="fontstyle39904">首    页</span></a><span class="splitflagstyle39904">>></span><a href="jxgg.htm"><span class="fontstyle39904">教学改革</span></a></td></tr></table><!--#endeditable--></TD></TR></TBODY></TABLE>
+<TABLE cellspacing="10" cellpadding="0" width="100%" align="center" border="0">
+<TBODY>
+<TR>
+<TD>&nbsp;</TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+<TABLE height="10" cellspacing="0" cellpadding="0" width="980" align="center" border="0">
+<TBODY>
+<TR>
+<TD></TD></TR></TBODY></TABLE>
+<TABLE cellspacing="0" cellpadding="0" width="100%" align="center" background="images/end_dhbg.jpg" border="0" style="background-repeat: no-repeat; background-position: center top">
+<TBODY>
+<TR>
+<TD height="32" align="center"><!--#begineditable clone="0" namechanged="0" order="9" ispublic="0" tagname="横向链接" viewid="39897" contentviewid="" contype="" stylesysid="" layout="" action="" name="横向链接"-->
+
+
+
+<script language="javascript" src="/system/resource/js/dynclicks.js"></script>
+<table><tr>
+        
+        <td>
+            <A class="c39897" HREF="&lt;span style='color:red;font-size:9pt'&gt;转换链接错误&lt;/span&gt;" onclick="_addDynClicks('wburl',1447960670,30937)" target="_blank">
+            	 校园风光 
+            </A>
+             
+        </td>
+            <td class="leaderstyle39897">|</td>
+        
+        <td>
+            <A class="c39897" HREF="index/map.htm" onclick="_addDynClicks('wburl',1447960670,30936)" target="_blank">
+            	 网站地图 
+            </A>
+             
+        </td>
+            <td class="leaderstyle39897">|</td>
+        
+        <td>
+            <A class="c39897" HREF="http://iicmd.guet.edu.cn" onclick="_addDynClicks('wburl',1447960670,30938)" target="_blank">
+            	 旧版回顾 
+            </A>
+             
+        </td>
+            <td class="leaderstyle39897">|</td>
+        
+        <td>
+            <A class="c39897" HREF="#" onclick="_addDynClicks('wburl',1447960670,30939)" target="_blank">
+            	 英文网站 
+            </A>
+             
+        </td>
+            </tr>
+</table><!--#endeditable--></TD></TR></TBODY></TABLE>
+<TABLE cellspacing="0" cellpadding="0" width="100%" align="center" background="images/end_bg.jpg" border="0" style="background-repeat: repeat-x; background-position: center top">
+<TBODY>
+<TR>
+<TD height="96">
+<TABLE cellspacing="0" cellpadding="0" width="980" align="center" background="images/endbg_bq.jpg" border="0">
+<TBODY>
+<TR>
+<TD height="96" align="center"><!--#begineditable clone="0" namechanged="0" order="10" ispublic="0" tagname="版权" viewid="39882" contentviewid="" contype="" stylesysid="" layout="" action="" name="版权"--><p style="text-align: center">集成电路与系统研究所&nbsp;&nbsp;地址：广西桂林市金鸡路1号<br /></p><!--#endeditable--></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+
+</BODY></HTML>

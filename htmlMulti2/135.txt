@@ -1,0 +1,294 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<HTML><HEAD><TITLE>2020年硕士研究生招生调剂、复试热点问题回答-桂林电子科技大学研究生招生信息网</TITLE><META Name="keywords" Content="高校,招生" />
+
+
+<META content="text/html; charset=UTF-8" http-equiv="Content-Type"><LINK rel="stylesheet" type="text/css" href="../../style/main.css">
+
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="../../_sitegray/_sitegray_d.css" />
+<script language="javascript" src="../../_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="../../content.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1038,'/content.jsp',1397,1461952780)</script>
+</HEAD>
+<BODY class="norepeat" background="../../images/listbannerbg.jpg" leftmargin="0" topmargin="0" bgcolor="#f5f5f5">
+<TABLE border="0" cellspacing="0" width="1002" align="center">
+<TBODY>
+<TR>
+<TD height="78">
+<TABLE border="0" cellspacing="0" cellpadding="0" width="98%" align="center">
+<TBODY>
+<TR>
+<TD><!--#begineditable contype="" name="LOGO" action="" layout="" clone="0" namechanged="0" order="0" ispublic="0" tagname="LOGO" viewid="165570"-->
+<table border="0" cellspacing="0" cellpadding="0"><tr><td><img src="../../images/logo.jpg" border="0" alt="研究生招生信息网" title="研究生招生信息网"></td></tr></table><!--#endeditable--></TD>
+<TD valign="top" align="right"><!--#begineditable contype="" name="主页|收藏" action="" layout="" clone="0" namechanged="0" order="1" ispublic="0" tagname="主页|收藏" viewid="165571"--><script language="javascript">
+function dosuba165571a()
+{
+    try{
+		var ua = navigator.userAgent.toLowerCase();
+		if(ua.indexOf("msie 8")>-1)
+		{
+			window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE8
+		}else if(ua.toLowerCase().indexOf("rv:")>-1)
+        {
+            window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE11+
+        }else{
+			if (document.all) 
+			{
+				window.external.addFavorite(document.location.href, document.title);
+			}else if(window.sidebar)
+			{
+				window.sidebar.addPanel( document.title, document.location.href, "");//firefox
+			}
+			else
+			{
+				alert(hotKeysa165571a());
+			}
+		}
+
+    }
+    catch (e){alert("无法自动添加到收藏夹，请使用 Ctrl + d 手动添加");}
+}
+function hotKeysa165571a() 
+{
+	var ua = navigator.userAgent.toLowerCase(); 
+	var str = "";    
+	var isWebkit = (ua.indexOf('webkit') != - 1); 
+	var isMac = (ua.indexOf('mac') != - 1);     
+	if (ua.indexOf('konqueror') != - 1) 
+	{  
+		str = 'CTRL + B'; // Konqueror   
+	} 
+	else if (window.home || isWebkit || isMac) 
+	{        
+		str = (isMac ? 'Command/Cmd' : 'CTRL') + ' + D'; // Netscape, Safari, iCab, IE5/Mac   
+	}
+	return ((str) ? '无法自动添加到收藏夹，请使用' + str + '手动添加' : str);
+}
+function setHomepagea165571a()
+{
+	var url = document.location.href;
+    if (document.all)
+    {
+        document.body.style.behavior='url(#default#homepage)';
+        document.body.setHomePage(url);
+    }
+    else if (window.sidebar)
+    {
+        if(window.netscape)
+        {
+             try{
+                  netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+             }catch (e){
+                   alert("该操作被浏览器拒绝，如果想启用该功能，请在地址栏内输入 about:config,然后将项 signed.applets.codebase_principal_support 值该为true");
+             }
+    	}
+	var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components. interfaces.nsIPrefBranch);
+	prefs.setCharPref('browser.startup.homepage',url);
+	}
+	else
+	{
+		alert("浏览器不支持自动设为首页，请手动设置");
+	}
+}
+</script><table><tr><td style="font-size:9pt"><A href="javascript:setHomepagea165571a()"><span class="font165571">设为首页</span></A>&nbsp;<span class="splitcharstyle165571"> | </span>&nbsp;<A onclick="javascript:dosuba165571a();" href="#"><span class="font165571">加入收藏</span></A></td></tr></table><!--#endeditable--></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD height="43" valign="top">
+<TABLE border="0" cellspacing="0" cellpadding="0" width="992" align="center" height="34">
+<TBODY>
+<TR>
+<td background="../../images/menubar-left.jpg" class="menuleftbg" width="150"></td>
+<TD background="../../images/menubarbg.jpg" width="695" align="center"><!--#begineditable contype="" name="网站导航" action="" layout="" clone="0" namechanged="0" order="2" ispublic="0" tagname="网站导航" viewid="165558"--><style type="text/css">
+td.b1_2_{FONT-SIZE:9pt;}
+td.b2_2_{FONT-SIZE:9pt;}
+td.b3_2_{FONT-SIZE:9pt;BACKGROUND-COLOR: #eff8fe;}
+td.b4_2_{FONT-SIZE:9pt;BACKGROUND-COLOR: #e8f0fb;}
+a.menu0_2_:link {TEXT-DECORATION: none;};
+a.menu0_2_:visited { TEXT-DECORATION: none;};
+a.menu0_2_:hover {TEXT-DECORATION: none;};
+a.menu0_2_:active {TEXT-DECORATION: none;};
+table.tb1_2_{FONT-SIZE:9pt;border:0;}
+span.s1_2_{COLOR: #ff9900;FONT-SIZE: 10pt;FONT-WEIGHT: bold;}
+span.s2_2_{FONT-SIZE: 9pt;COLOR: #cc0000;LINE-HEIGHT: 160%;}
+span.s10_2_{COLOR: #ffffff;FONT-SIZE: 10pt;FONT-WEIGHT: bold;TEXT-DECORATION: none;}
+span.s20_2_{FONT-SIZE: 9pt;COLOR: #222222;LINE-HEIGHT: 160%;}
+</style>
+<SCRIPT language="javascript"> 
+ var showfix_2_ = 1;
+ var isvertical_2_ = false;
+</SCRIPT>
+<script language="javascript" src="/system/resource/js/menu/text.js"></script>
+<TABLE id="t1_2_" cellSpacing="0" cellPadding="0" border="0" height="0" width="688"><TR><TD valign="center"></TD><TD valign="middle" height="0" width="0" nowrap class="b1_2_" align="center" id="a_2_1001" onmouseover="tshowLayers('1001','b2_2_', '_2_')" onmouseout="thideLayers('1001','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="../../index.htm"><span class="fontstyle165558">&nbsp;首页&nbsp;</span></a></TD><TD valign="center" class="leaderfont165558"><img src="../../images/menubar-br.jpg" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1034" onmouseover="tshowLayers('1034','b2_2_', '_2_')" onmouseout="thideLayers('1034','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="../../list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1039"><span class="fontstyle165558">&nbsp;博士招生&nbsp;</span></a></TD><TD valign="center" class="leaderfont165558"><img src="../../images/menubar-br.jpg" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1028" onmouseover="tshowLayers('1028','b2_2_', '_2_')" onmouseout="thideLayers('1028','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="../../list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1038"><span class="fontstyle165558">&nbsp;硕士招生&nbsp;</span></a></TD><TD valign="center" class="leaderfont165558"><img src="../../images/menubar-br.jpg" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1054" onmouseover="tshowLayers('1054','b2_2_', '_2_')" onmouseout="thideLayers('1054','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="http://www.guet.edu.cn/gra/jsfw/sssds.htm"><span class="fontstyle165558">&nbsp;导师介绍&nbsp;</span></a></TD><TD valign="center" class="leaderfont165558"><img src="../../images/menubar-br.jpg" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1035" onmouseover="tshowLayers('1035','b2_2_', '_2_')" onmouseout="thideLayers('1035','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="../../list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1044"><span class="fontstyle165558">&nbsp;考点通知&nbsp;</span></a></TD><TD valign="center" class="leaderfont165558"><img src="../../images/menubar-br.jpg" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1030" onmouseover="tshowLayers('1030','b2_2_', '_2_')" onmouseout="thideLayers('1030','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="../../list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1045"><span class="fontstyle165558">&nbsp;招生政策&nbsp;</span></a></TD><TD valign="center" class="leaderfont165558"><img src="../../images/menubar-br.jpg" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1036" onmouseover="tshowLayers('1036','b2_2_', '_2_')" onmouseout="thideLayers('1036','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="../../list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1064"><span class="fontstyle165558">&nbsp;历史数据&nbsp;</span></a></TD><TD valign="center" class="leaderfont165558"><img src="../../images/menubar-br.jpg" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1047" onmouseover="tshowLayers('1047','b2_2_', '_2_')" onmouseout="thideLayers('1047','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="../../list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1048"><span class="fontstyle165558">&nbsp;信息公开&nbsp;</span></a></TD><TD valign="center" class="leaderfont165558"><img src="../../images/menubar-br.jpg" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1041" onmouseover="tshowLayers('1041','b2_2_', '_2_')" onmouseout="thideLayers('1041','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="../../list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1042"><span class="fontstyle165558">&nbsp;联系方式&nbsp;</span></a></TD><TD valign="center" class="leaderfont165558"><img src="../../images/menubar-br.jpg" border="0"></TD><TD valign="middle" width="0" nowrap class="b1_2_" align="center" id="a_2_1051" onmouseover="tshowLayers('1051','b2_2_', '_2_')" onmouseout="thideLayers('1051','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="../../list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1067"><span class="fontstyle165558">&nbsp;下载专区&nbsp;</span></a></TD></TR></TR></table><!--#endeditable--></TD>
+<TD width="150"><IMG src="../../images/menubar-right.jpg" width="150" height="34"></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+<TABLE border="0" cellspacing="0" width="100%">
+<TBODY>
+<TR>
+<TD height="22">&nbsp;</TD></TR>
+<TR>
+<TD bgcolor="#ffffff" height="30" align="center">
+<TABLE border="0" cellspacing="0" width="1002">
+<TBODY>
+<TR>
+<TD align="left"><!--#begineditable contype="" name="当前位置" action="" layout="" clone="0" namechanged="0" order="3" ispublic="0" tagname="当前位置" viewid="37948"-->  
+<table class="winstyle37948" cellspacing="0" cellpadding="0"><tr><td nowrap>您的位置：   
+<a href="../../index.htm"><span class="fontstyle37948">首页</span></a><span class="splitflagstyle37948">></span><a href="../../list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1038"><span class="fontstyle37948">硕士招生</span></a><span class="splitflagstyle37948">></span><a href="../../list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1038"><span class="fontstyle37948">硕士招生</span></a><span class="splitflagstyle37948">></span><span class="fontstyle37948">正文</span></td></tr></table><!--#endeditable--><STRONG></STRONG></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD align="center"><BR>
+<TABLE border="0" cellspacing="1" cellpadding="3" width="970" bgcolor="#d3d3d3">
+<TBODY>
+<TR>
+<TD class="4border" bgcolor="#ffffff" align="center"><br><!--#begineditable contype="" name="文章内容" action="" layout="" clone="0" namechanged="0" order="0" ispublic="0" tagname="文章内容" viewid="165561"-->
+
+<LINK href="/system/resource/style/component/news/content/title.css" type="text/css" rel="stylesheet">
+<style type="text/css">
+     .content{margin:auto;text-align:left;line-height:18px;padding:3px 0 0 0;color:#727272;}
+     .process{width:162px;height:11px;background:#EDEDED;overflow:hidden;float:left;margin-left:26px !important;margin-left:13px;margin-right:10px;}
+     .process div{width:160px;height:11px;background:url(/system/resource/images/newsvote/bg.gif) repeat-x;border-left:1px solid #000;border-right:1px solid #000;}
+     .process .style7{border-left-color:#ff0000;border-right-color:#ff0000;background-position:0 -77px;}
+     
+</style>
+
+
+<script language="javascript" src="../../_dwr/interface/NewsvoteDWR.js"></script>
+<script language="javascript" src="../../_dwr/engine.js"></script>
+<script language="javascript" src="../../_dwr/util.js"></script>
+<script language="javascript" src="/system/resource/js/news/newscontent.js"></script>
+<script type="text/javascript">
+
+NewsvoteDWR.getNewsLinkUrl(1397,"1461952780","vsb",newsSkip);
+function newsSkip(data)
+{
+    if(data != "")
+    {
+        window.location.href = data;
+    }
+}
+</script>
+
+
+<LINK href="/system/resource/style/component/news/content/format2.css" type="text/css" rel="stylesheet">
+<form name="form165561a">
+<table border="0" class="winstyle165561" width="100%" cellspacing="0" cellpadding="0">
+
+      <tr><td class="titlestyle165561" align="center">
+2020年硕士研究生招生调剂、复试热点问题回答
+      </td></tr>
+      <tr height="30"><td align="center">
+            <span class="timestyle165561">
+                 2020-02-25 19:37</span>
+            <span class="authorstyle165561">&nbsp;
+            
+            
+            </span>
+            
+                <span class="wb_content">审核人：</span>
+            
+            
+        </td></tr>
+        <tr><td align="right">
+        <span>
+
+        </span>
+        </td></tr>
+<tr><td height="1" BACKGROUND="../../bgline.gif"></td></tr>
+      <tr><td class="contentstyle165561">
+        <div class="c165561_content" id="vsb_newscontent"><div id="vsb_content_2">
+           <p class="vsbcontent_start"><span style="font-size: 18px;"><strong><span style="font-size: 18px;">特别提醒：</span></strong></span></p>
+<p class="vsbcontent_start"><span style="font-size: 18px;"><strong><span style="font-size: 16px; line-height: 21px; text-indent: 28px;">我校硕士研究生复试工作预计在国家复试线公布、研招网调剂系统开通后根据实际情况进行。</span><span style="font-size: 16px; text-indent: 28px;">调剂政策、复试分数线及复试方案等以学校后续通知为准，请有意调剂我校相关专业的考生查阅我校研究生招生网通知，并在中国研招网开通调剂系统期间填报调剂到我校的志愿。考生调剂必须通过国家研招网调剂系统，否则调剂无效，我校2020年无预调剂，不接收邮件调剂申请。</span></strong><strong><span style="font-size: 16px; text-indent: 28px;"></span></strong></span></p>
+<p class="vsbcontent_start"><span style="font-size: 18px;"><strong style="text-indent: 2em;"><br></strong></span></p>
+<p class="vsbcontent_start"><span style="font-size: 18px;"><strong style="text-indent: 2em;">1.2020年</strong><strong style="text-indent: 2em;">国家复试线什么时候公布？什么时候调剂和复试？</strong><br></span></p>
+<p><span style="font-size: 18px;">答：按照往年情况，教育部<span style="font-size: 16px; text-indent: 28px;">一般</span>在3月中旬前后公布国家复试线，之后开通研招网调剂系统。2020年分数线公布时间、研招网调剂系统开通时间尚未确定。</span></p>
+<p><span style="font-size: 18px;"><strong>2.</strong><strong>我的初试成绩能否上线？</strong></span></p>
+<p><span style="font-size: 18px;">答：2020年国家复试线尚未公布，考生初试成绩能否上线，无法确定，往年国家复试线及我校各专业复试线可在以下网址查询：</span></p>
+<p><span style="font-size: 18px;">（1）中国研究生招生信息网：</span></p>
+<p><span style="font-size: 18px;">2019年国家线：</span></p>
+<p><a href="https://yz.chsi.com.cn/kyzx/kydt/201903/20190312/1772265387.html" style="text-decoration: underline; font-size: 18px;"><span style="font-size: 18px;">https://yz.chsi.com.cn/kyzx/kydt/201903/20190312/1772265387.html</span></a></p>
+<p><span style="font-size: 18px;">2018年国家线：</span></p>
+<p><a href="https://yz.chsi.com.cn/kyzx/kydt/201803/20180316/1669704798.html" style="text-decoration: underline; font-size: 18px;"><span style="font-size: 18px;">https://yz.chsi.com.cn/kyzx/kydt/201803/20180316/1669704798.html</span></a></p>
+<p><span style="font-size: 18px;">2017年国家线：</span></p>
+<p><a href="https://yz.chsi.com.cn/kyzx/kydt/201703/20170315/1591045016.html" style="text-decoration: underline; font-size: 18px;"><span style="font-size: 18px;">https://yz.chsi.com.cn/kyzx/kydt/201703/20170315/1591045016.html</span></a></p>
+<p><span style="font-size: 18px;">（2）桂林电子科技大学研究生招生网：</span></p>
+<p><span style="font-size: 18px;">我校2019年硕士研究生招生复试分数线要求：</span></p>
+<p><a href="https://www.guet.edu.cn/yjszs/info/1038/1256.htm" style="text-decoration: underline; font-size: 18px;"><span style="font-size: 18px;">https://www.guet.edu.cn/yjszs/info/1038/1256.htm</span></a></p>
+<p><span style="font-size: 18px;">我校2018年硕士研究生招生复试分数线要求：</span></p>
+<p><a href="https://www.guet.edu.cn/yjszs/info/1038/1180.htm" style="font-size: 18px; text-decoration: underline;"><span style="font-size: 18px;">https://www.guet.edu.cn/yjszs/info/1038/1180.htm</span></a></p>
+<p><span style="font-size: 18px;">我校2017年硕士研究生招生复试分数线要求：</span></p>
+<p><a href="https://www.guet.edu.cn/yjszs/info/1038/1160.htm" style="font-size: 18px; text-decoration: underline;"><span style="font-size: 18px;">https://www.guet.edu.cn/yjszs/info/1038/1160.htm</span></a></p>
+<p><span style="font-size: 18px;"><strong>3.</strong><strong>桂电</strong><strong>2020</strong><strong>年需要调剂的具体专业及其人数？</strong></span></p>
+<p><span style="font-size: 18px;">答：<span style="font-size: 16px; text-indent: 28px;">往年我校除会计硕士外，其余各专业均有调剂缺额。具体缺额需等国家线公布及国家招生计划下拨后方可确定，具体调剂专业以官网发布通知为准。</span></span></p>
+<p><span style="font-size: 18px;"><strong>4.</strong><strong>我初试报考***专业，能否调剂到贵校参加复试？</strong></span></p>
+<p><span style="font-size: 18px;">答：考生初试报考某个专业能否调剂到我校，要看专业是否有缺额，还要看报考专业与调剂专业是否满足国家调剂政策要求</span></p>
+<p><span style="font-size: 18px;">我校2019年硕士研究生招生调剂公告：</span></p>
+<p><a href="https://www.guet.edu.cn/yjszs/info/1038/1257.htm" style="text-decoration: underline; font-size: 18px;"><span style="font-size: 18px;">https://www.guet.edu.cn/yjszs/info/1038/1257.htm</span></a></p>
+<p><span style="font-size: 18px;"><strong style="white-space: normal;">5.</strong><strong style="white-space: normal;">我的初试成绩***分，参加调剂进入复试的几率有多大？</strong></span></p>
+<p><span style="background-color: rgb(255, 255, 255); font-size: 18px;">每年在研招网系统中申请调剂考生的成绩、数量等情况不同，无法判断概率大小。</span></p>
+<p><span style="font-size: 18px;"><strong>6.</strong><strong style="text-indent: 2em;">复试需要准备哪些材料，今年是如何安排复试的，复试内容有哪些</strong><strong style="text-indent: 2em;">？</strong></span></p>
+<p><span style="font-size: 18px;">答：复试要求请考生查阅我校《2020年硕士研究生招生简章》：</span></p>
+<p><a href="https://www.guet.edu.cn/yjszs/info/1038/1333.htm" _src="https://www.guet.edu.cn/yjszs/info/1038/1333.htm" style="text-decoration: underline; font-size: 18px;"><span style="font-size: 18px;">https://www.guet.edu.cn/yjszs/info/1038/1333.htm</span></a> </p>
+<p><span style="font-size: 18px;"><strong style="white-space: normal;"><strong style="white-space: normal;">往年情况仅供考生查阅了解，</strong>2020年所有与研究生复试有关内容，均以研招网及我校后续公布的通知为准。</strong></span></p>
+<p><span style="font-size: 18px;">疫情期间，请所有考生在居住地安心备考，增强健康防护意识，减少流动聚集，严格遵守防控纪律，严禁擅自来校。有疑问的考生可通过邮件方式咨询学校研招办及各招生学院，联系邮箱详见附件。</span></p>
+<p><br></p>
+</div></div>
+          
+           
+           
+        </td></tr>
+        
+        <tr><td class="pagestyle165561" align="left">
+        </td></tr>
+        <tr><td><div id="div_vote_id"></div></td></tr>
+    <tr><td align="left"><span>
+             <script language="javascript" src="/system/resource/js/ajax.js"></script><span>附件【<a href="/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1461952780&wbfileid=2393175"><span>联系方式.xlsx</span></a>】</span><span>已下载<span id="nattach2393175"><script language="javascript">getClickTimes(2393175,1461952780,"wbnewsfile","attach")</script></span>次</span><br>
+             
+      </span></td></tr>
+      
+      <tr>
+         <td align="center">
+            
+         </td>
+      </tr>
+
+      <tr><td align="right">
+              <span>【</span><a href="javascript:window.opener=null;window.open('','_self');window.close();"><span>关闭窗口</span></a><span>】</span>
+      </td></tr>
+
+</table>
+</form>
+
+
+
+<script type="text/javascript">
+
+function dosuba165561a()
+{
+    try{
+        var ua = navigator.userAgent.toLowerCase();
+        if(ua.indexOf("msie 8")>-1)
+        {
+            window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE8
+        }else{
+            if (document.all) 
+            {
+                window.external.addFavorite(document.location.href, document.title);
+            }else if(window.sidebar)
+            {
+                window.sidebar.addPanel( document.title, document.location.href, "");//firefox
+            }
+        }
+
+    }
+    catch (e){alert("无法自动添加到收藏夹，请使用 Ctrl + d 手动添加");}
+}
+
+
+</script>
+<!--#endeditable--></TD></TR></TBODY></TABLE><BR></TD></TR>
+<TR>
+<TD>
+<TABLE border="0" cellspacing="0" width="100%" background="../../images/copybg.gif" height="65">
+<TBODY>
+<TR>
+<TD class="norepeat" valign="top" align="center"><br><!--#begineditable contype="" name="版权" action="" layout="" clone="0" namechanged="0" order="4" ispublic="0" tagname="版权" viewid="165554"--><p style="text-align: center"><span style="color: #828282">桂林电子科技大学研究生院招生办公室　版权所有</span></p><!--#endeditable--><FONT color="#828282"></FONT></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+
+</BODY></HTML>

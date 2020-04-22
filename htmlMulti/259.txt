@@ -1,0 +1,701 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en"><head><title>在线培训-桂林电子科技大学图书馆</title><META Name="keywords" Content="桂林电子科技大学图书馆,在线培训" />
+
+
+
+
+
+<meta charset="UTF-8"><link rel="stylesheet" type="text/css" href="../../css/style.css"><script type="text/javascript" src="../../js/script.js"></script>
+<style>
+	.single_area{margin: auto; padding: 10px 0px 10px 0px ; left:-30px; width: 1200px; font-family: Arial; position: relative;}
+	.sidebar_area{border: 0px solid #999; width: 300px; min-height: 650px; position: absolute; left: 0px; z-index: 1;}
+	.content_area_border{padding-left: 355px; width: 1190px;}
+	.content_area_bg{background: #fff;-moz-box-shadow: 3px 3px 8px #999;box-shadow: 3px 3px 8px #999;-webkit-box-shadow: 3px 3px 8px #999;}
+	.nav_area{margin: auto; border: solid 0px #999; padding-left: 20px; line-height: 25px; vertical-align: middle; color:#000; font-size: 15px; padding-top: 20px;}
+	.nav_area a{color: #2b6ca3; font-size: 14px;}
+	.title_area{margin: auto; border:solid 0px #999; line-height: 38px; vertical-align: middle; color:#000; font-size: 18px; text-align: center;}
+	.time_area{margin: auto; border: solid 0px #999; line-height: 35px; vertical-align: middle; font-size: 12px; color: #666; text-align: center;}
+	<!--
+	.single_area_outer{margin: auto; padding: 0;  width:1200px; border:1px solid #f00;position:relative;}
+	.content_area{margin:auto; padding:0px; border:solid 0px #999; line-height: 25px; width:800px; text-indent: 24px; font-size: 14px;}
+	-->
+	.content_area{border: solid 0px #999; text-indent: 3px; padding-top: 18px; padding-left: 10px; padding-right: 15px; padding-bottom: 20px; color: #555; font-size: 14px; text-indent:2em; line-height: 30px;}
+	.content_area a{color: #2b6ca3;}
+	
+		/* Start footer BODY section */	   
+		.footer_border{margin:auto; padding:0px; width:auto; min-width:1200px; background: #efefef;}
+		.outer{margin: auto; padding-top:2px; padding-left:129px; width:1200px; height:32px; border:1px solid #7aadde; color: #fff; background: #7aadde; position:relative; text-align:center; font-size: 15px;font-weight:bold;line-height: 25px; vertical-align: middle;}
+		.in0{border-right:1px solid #FFF; width:120px; float:left;}
+		.in0 a{color: #fff;}
+		.in1{border-right:1px solid #FFF; width:120px; float:left;}
+		.in1 a{color: #fff;}
+		.in2{border-right:1px solid #FFF; width:120px; float:left;}
+		.in2 a{color: #fff;}
+		.in3{border-right:1px solid #FFF; width:120px; float:left;}
+		.in3 a{color: #fff;}
+		.in4{border-right:1px solid #FFF; width:120px; float:left;}
+		.in4 a{color: #fff;}
+		.in5{border-right:1px solid #FFF; width:120px; float:left;}
+		.in5 a{color: #fff;}
+		.in6{border-right:1px solid #FFF; width:120px; float:left;}
+		.in6 a{color: #fff;}
+		.in7{border-right:0px solid #FFF; width:120px; float:left;}
+		.in7 a{color: #fff;}
+		.outer1{margin: auto; padding-top: 10px; width:1200px; height:90px; border:0px solid #f00;position:relative; text-align:center;}
+
+	
+</style>
+</link></link>
+<style></style>
+
+<style></style>
+
+
+</link>
+<style></style>
+
+<style></style>
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="../../_sitegray/_sitegray_d.css" />
+<script language="javascript" src="../../_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="../../content.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1071,'/content.jsp',2896,1411890787)</script>
+</head>
+<body style="zoom: 1"><!-- Start menu HEAD section --><!-- add to the <head> of your page --><!-- Title 代码部分begin -->
+<div style="text-align: center; margin-left: auto; margin-top: -15px; margin-right: auto"><img title="" alt="" src="../../images/guetliblogo.jpg" width="1200" height="110" style="border-top: medium none; border-right: medium none; border-bottom: medium none; border-left: medium none"></div><!-- Title 代码部分End --><!-- Menu 代码部分begin -->
+<div style="font-size: 15px; width: 1200px; background: #efefef; min-width: 1200px; padding-bottom: 0px; text-align: center; padding-top: 0px; padding-left: 0px; margin: auto; z-index: 120; padding-right: 0px">
+<div class="ulmenu"><!--#begineditable name="网站主导航菜单" viewid="165077" tagname="网站主导航菜单" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""-->        <div class="dropdown">
+            <a href="http://www.guet.edu.cn/lib/" class="dropbtn">首页</a>
+        </div>
+        <div class="dropdown">
+            <a href="#" class="dropbtn">概况</a>
+            <div class="dropdown-content" style="height: 399px;">
+                <div class="dropdown-title">图书馆概况</div>
+                <a href="http://www.guet.edu.cn/lib/info/1036/2875.htm">馆长致辞</a>
+                <a href="http://www.guet.edu.cn/lib/info/1037/2876.htm">本馆简介</a>
+                <a href="http://www.guet.edu.cn/lib/info/1038/2877.htm">现任领导</a>
+                <a href="http://www.guet.edu.cn/lib/info/1039/2878.htm">组织机构</a>
+                <a href="http://www.guet.edu.cn/lib/info/1040/2879.htm">规章制度</a>
+                <a href="http://www.guet.edu.cn/lib/info/1041/2880.htm">常见问题</a>
+                <a href="http://www.guet.edu.cn/lib/info/1042/2881.htm">办证需知</a>
+                <a href="http://www.guet.edu.cn/lib/info/1043/2883.htm">离校手续</a>
+                <a href="http://www.guet.edu.cn/lib/info/1152/2928.htm">图书馆漫游</a>
+                <a href="http://www.guet.edu.cn/lib/info/1045/2884.htm">信息公开</a>
+                <a href="http://www.guet.edu.cn/lib/info/1046/2885.htm">书刊捐赠</a>
+            </div>
+            <div class="dropdown-content" style="margin-left: 200px; height: 399px;">
+                <div class="dropdown-title">新闻与通知</div>
+                <a href="http://www.guet.edu.cn/lib/gk/xwytz/ggxx.htm">公告消息</a>
+                <a href="../../gk/xwytz/zydt.htm">资源动态</a>
+                <a href="http://www.guet.edu.cn/lib/gk/xwytz/gnxw.htm">馆内新闻</a>
+            </div>
+        </div>
+        <div class="dropdown">
+            <a href="#" class="dropbtn">资源</a>
+            <div class="dropdown-content">
+                <a href="http://www.guet.edu.cn/lib/info/1025/2886.htm">版权公告</a>
+                <a href="http://202.193.70.166:8020/index.asp" target="_blank">数据库导航</a>
+                <a href="http://202.193.70.166:8020/index.asp?idc=en&mem=true" target="_blank">外文数据库</a>
+                <a href="http://202.193.70.166:8020/index.asp?idc=cn&mem=true" target="_blank">中文数据库</a>
+                <a href="http://202.193.70.166:8020/index.asp?idc=tryout&mem=true" target="_blank">试用数据库</a>
+                <a href="http://202.193.70.169:90/lib/bookdisc.asp" target="_blank">随书光盘数据库</a>
+                <a href="http://www.guet.edu.cn/lib/info/1032/2888.htm">本校学位论文</a>
+                <a href="http://202.193.70.166:8020/index.asp?idc=oa&mem=true" target="_blank">OA数据库</a>
+                <a href="http://www.guet.edu.cn/lib/info/1034/2889.htm" target="_blank">常用阅读软件</a>
+                <a href="http://202.193.70.139/NTRdrNewBook.aspx" target="_blank">新书通报</a>
+                <a href="http://202.193.70.177/" target="_blank">免费资源推荐</a>
+            </div>
+        </div>
+        <div class="dropdown">
+            <a href="#" class="dropbtn">服务</a>
+            <div class="dropdown-content" style="height:369px;">
+                <div class="dropdown-title">借阅服务</div>
+                <a href="http://www.guet.edu.cn/lib/info/1060/2890.htm">图书馆布局</a>
+                <a href="http://202.193.70.139/index.aspx" target="_blank">馆藏书刊查询</a>
+                <a href="http://202.193.70.139/NTRdrLogin.aspx" target="_blank">个人借阅管理</a>
+                <a href="http://202.193.70.139/NTRdrNewBook.aspx" target="_blank">新书通报</a>
+                <a href="http://www.guet.edu.cn/lib/info/1064/2891.htm">开放时间</a>
+                <a href="http://202.193.70.132:8088/" target="_blank">书刊荐购</a>
+                <a href="http://www.guet.edu.cn/lib/zzwy/index.html" target="_blank">自助文印</a>
+            </div>
+            <div class="dropdown-content" style="margin-left: 200px; height:369px;">
+                <div class="dropdown-title">学科服务</div>
+                <a href="http://www.guet.edu.cn/lib/info/1067/2892.htm">文献传递</a>
+                <a href="http://www.guet.edu.cn/lib/info/1068/2893.htm">查收查引</a>
+                <a href="http://www.guet.edu.cn/lib/info/1069/2894.htm">科技查新</a>
+                <a href="http://www.guet.edu.cn/lib/info/1070/2895.htm">用户教育</a>
+                <a href="http://www.guet.edu.cn/lib/info/1071/2896.htm">在线培训</a>
+                <a href="http://ipscience-help.thomsonreuters.com/incitesLiveESI/ESIGroup/overviewESI/esiJournalsList.html">ESI期刊</a>
+                <a href="http://www.guet.edu.cn/lib/info/1074/2900.htm">投稿指南</a>
+                <a href="http://www.guet.edu.cn/lib/info/1075/2901.htm">桂电SCIE收录动态</a>
+                <a href="http://www.guet.edu.cn/lib/info/1076/2899.htm">ESI高水平论文</a>
+                <a href="http://www.fenqubiao.com/" target="_blank">中科院期刊分区在线平台</a>
+            </div>
+            <div class="dropdown-content" style="margin-left: 400px; height:369px;">
+                <div class="dropdown-title">文化服务</div>
+                <a href="http://202.193.70.162:8089/" target="_blank">研讨室预约</a>
+                <a href="http://202.193.70.165/subject/subject.html" target="_blank">专题导读</a>
+                <a href="http://www.guet.edu.cn/lib/info/1080/2902.htm">新生专栏</a>
+                <a href="http://202.193.70.165/dzzt/index.php" target="_blank">电子展厅</a>
+            </div>
+        </div>
+        <div class="dropdown">
+            <a href="#" class="dropbtn">党建园地</a>
+            <div class="dropdown-content">
+                <a href="http://www.guet.edu.cn/lib/djyd/zbdt.htm">支部动态</a>
+                <a href="http://www.guet.edu.cn/lib/djyd/djll.htm">党建理论</a>
+                <a href="http://www.guet.edu.cn/lib/djyd/ztxx.htm">专题学习</a>
+                <a href="http://www.guet.edu.cn/lib/djyd/dwgk.htm">党务公开</a>
+            </div>
+        </div>
+        <div class="dropdown">
+            <a href="#" class="dropbtn">新生专栏</a>
+            <div class="dropdown-content">
+                <a href="http://www.guet.edu.cn/lib/info/1080/2902.htm">你问我答</a>
+                <a href="http://www.guet.edu.cn/lib/info/1153/2929.htm">新生入馆教育视频</a>
+                <a href="http://202.193.70.132:8096/" target="_blank">新生入馆测试</a>
+            </div>
+        </div>
+        <div class="dropdown">
+            <a href="http://202.193.70.139/NTRdrLogin.aspx" class="dropbtn" target="_blank">个人借阅管理</a>
+        </div>
+        <div class="dropdown">
+            <a href="#" class="dropbtn">联系我们</a>
+            <div class="dropdown-content">
+                <a href="mailto:library@guet.edu.cn">馆长信箱</a>
+                <a href="http://www.guet.edu.cn/lib/bbs.jsp?urltype=tree.TreeTempUrl&wbtreeid=1167">请您留言</a>
+            </div>
+        </div>
+<!--#endeditable--></div></div><!-- Menu 代码部分End --><!-- End menu HEAD section -->
+
+<!-- Start sidebar right HEAD section --><!-- add to the <head> of your page -->
+<!--#begineditable name="网站导航-右侧导航条" viewid="202481" tagname="网站导航-右侧导航条" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp="true"--><!-- Start sidebar right HEAD section --><!-- add to the <head> of your page -->
+<ul id="nav-bar">
+  <li class="level-one"><img src="../../images/picture/weixin.png" width="45" height="45" onmouseover="this.style.opacity=0.8;" onmouseout="this.style.opacity=1" />
+    <ul class="level-two">
+	<li><img src="../../images/picture/waplibrary1.png" width="90" height="90" border="0" /></li>
+	<li>微信图书馆</li>
+    </ul>
+  </li>
+
+  <li class="level-one"><img src="../../images/picture/app.png" width="45" height="45" onmouseover="this.style.opacity=0.8;" onmouseout="this.style.opacity=1" />
+    <ul class="level-two">
+	<li><img src="../../images/picture/waplibrary3.png" width="90" height="90" border="0" /></li>
+	<li>超星学习通<br />邀请码：yzgldzkd</li>
+    </ul>
+  </li>
+
+  <li class="level-one1"><img src="../../images/picture/qq.png" width="45" height="45" onmouseover="this.style.opacity=0.8;" onmouseout="this.style.opacity=1" />
+    <ul class="level-two1">
+	<li>
+          <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=377406987&site=qq&menu=yes">
+	  <img border="0" src="http://wpa.qq.com/pa?p=2:377406987:49" alt="点击这里给我发消息" title="有关图书、期刊、数据库的荐购及对现有文献资源的意见和建议，请找我吧"></a>
+	  <div style="margin-left:5px;">资源建设部 刘老师</div>
+	</li>
+
+	<li>
+          <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=150520281&site=qq&menu=yes">
+	  <img border="0" src="http://wpa.qq.com/pa?p=2:150520281:49" alt="点击这里给我发消息" title="有关花江图书馆流通、阅览等问题，请找我吧"></a>
+	  <div style="margin-left:5px;">读者服务部 韦老师</div>
+	</li>
+
+	<li>
+ 	  <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=1029723910&site=qq&menu=yes">
+	  <img border="0" src="http://wpa.qq.com/pa?p=2:1029723910:49" alt="点击这里给我发消息" title="有关金鸡岭图书馆流通、阅览等问题，请找我吧"></a>
+	  <div style="margin-left:5px;">读者服务部 田老师</div>
+	</li>
+
+	<li>
+	  <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=532306156&site=qq&menu=yes">
+	  <img border="0" src="http://wpa.qq.com/pa?p=2:532306156:49" alt="点击这里给我发消息" title="有关文献的收录引用检索、科技查新、信息素养培训、科研数据分析及数据库的使用等问题请找我吧"></a>
+	  <div style="margin-left:5px;">学科与技术服务部 陈老师</div>
+	</li>
+
+	<li>
+	  <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=553552464&site=qq&menu=yes">
+	  <img border="0" src="http://wpa.qq.com/pa?p=2:553552464:49" alt="点击这里给我发消息" title="有关电子资源的使用、查收查引、原始文献获取、学科服务等问题请找我吧"></a>
+	  <div style="margin-left:5px;">学科与技术服务部 马老师</div>
+	</li>
+
+	<li>
+	  <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=240607828&site=qq&menu=yes">
+	  <img border="0" src="http://wpa.qq.com/pa?p=2:240607828:49" alt="点击这里给我发消息" title="有关新生培训、厅室预约、展览展示、文化活动、参观交流等问题，请找我吧"></a>
+	  <div style="margin-left:5px;">综合业务部 童老师</div>
+	</li>
+
+	<li>
+ 	  <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=543938445&site=qq&menu=yes">
+	  <img border="0" src="http://wpa.qq.com/pa?p=2:543938445:49" alt="点击这里给我发消息" title="有关新生培训、厅室预约、展览展示、文化活动、参观交流等问题，请找我吧"></a>
+	  <div style="margin-left:5px;">综合业务部 陈老师</div>
+	</li>
+    </ul> 
+  </li>
+</ul>
+
+
+<!-- End sidebar right HEAD section --><!--#endeditable-->
+<!-- End sidebar right HEAD section -->
+
+<!-- Start BODY section --><!-- add to the <body> of your page --><!-- Start content section --><!-- add to the <head> of your page -->
+<div class="single_area">
+<div class="sidebar_area"><!-- Start sidebar left section --><!-- add to the <head> of your page --><!-- sidebar_area begin --><!-- sidebar_head begin --><script src="../../js/jquery.min.js" type="text/javascript"></script><script type="text/javascript" src="../../js/sidebar_menu_min.js"></script><script type="text/javascript">
+			$(document).ready(function (){ 
+	  
+				$(".menu ul li").menu();
+	  
+			}); 
+		</script><link rel="stylesheet" type="text/css" href="../../css/sidebar-menu-css.css"><!-- sidebar_head end -->
+<div id="content">
+<div class="menu"><!--#begineditable name="左边栏三级导航" viewid="164980" tagname="左边栏三级导航" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""-->		
+
+				<a href="#" title="" style="margin: 5px 0px 5px 135px; font-size: 26px; weight: bolder; color: #000;">学科服务</a>
+				<ul>
+						<li>
+							<a href="http://www.guet.edu.cn/lib/info/1067/2892.htm" title="文献传递">文献传递</a>
+						</li>
+						<li>
+							<a href="http://www.guet.edu.cn/lib/info/1068/2893.htm" title="查收查引">查收查引</a>
+						</li>
+						<li>
+							<a href="http://www.guet.edu.cn/lib/info/1069/2894.htm" title="科技查新">科技查新</a>
+						</li>
+						<li>
+							<a href="http://www.guet.edu.cn/lib/info/1070/2895.htm" title="用户教育">用户教育</a>
+						</li>
+						<li>
+							<a href="http://www.guet.edu.cn/lib/info/1071/2896.htm" title="在线培训">在线培训</a>
+						</li>
+						<li>
+							<a href="http://ipscience-help.thomsonreuters.com/incitesLiveESI/ESIGroup/overviewESI/esiJournalsList.html" title="ESI期刊">ESI期刊</a>
+						</li>
+						<li>
+							<a href="http://www.guet.edu.cn/lib/info/1074/2900.htm" title="投稿指南">投稿指南</a>
+						</li>
+						<li>
+							<a href="http://www.guet.edu.cn/lib/info/1075/2901.htm" title="桂电SCIE收录动态">桂电SCIE收录动态</a>
+						</li>
+						<li>
+							<a href="http://www.guet.edu.cn/lib/info/1076/2899.htm" title="ESI高水平论文">ESI高水平论文</a>
+						</li>
+						<li>
+							<a href="http://www.fenqubiao.com/" title="中科院期刊分区在线平台">中科院期刊分区在线平台</a>
+						</li>
+				</ul>
+
+<!--#endeditable--></div></div><!-- sidebar_area end --><!-- End sidebar left section --></div>
+<div class="content_area_border">
+<div class="content_area_bg">
+<div class="nav_area"><!--#begineditable name="当前位置" viewid="164968" tagname="当前位置" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""-->		<a href="../../index.htm">首页</a>
+		<img src="../../images/picture/off.png" alt="" title="" width="28" height="28" style="border:none; vertical-align: top" />
+		<a href="../../fw.htm">服务</a>
+		<img src="../../images/picture/off.png" alt="" title="" width="28" height="28" style="border:none; vertical-align: top" />
+		<a href="../../fw/xkfw.htm">学科服务</a>
+		<img src="../../images/picture/off.png" alt="" title="" width="28" height="28" style="border:none; vertical-align: top" />
+		正文
+<!--#endeditable--></div><!--#begineditable name="文章内容" viewid="164969" tagname="文章内容" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""-->
+<script language="javascript" src="/system/resource/js/dynclicks.js"></script><script language="javascript" src="../../_dwr/interface/NewsvoteDWR.js"></script><script language="javascript" src="../../_dwr/engine.js"></script><script language="javascript" src="/system/resource/js/news/newscontent.js"></script><script type="text/javascript">NewsvoteDWR.getNewsLinkUrl(2896,'1411890787','vsb',newsSkip);function newsSkip(data){if(data != ""){window.location.href = data;}}</script><LINK href="/system/resource/js/photoswipe/3.0.5.1/photoswipe.css" type="text/css" rel="stylesheet"><script language="javascript" src="/system/resource/js/photoswipe/3.0.5.1/klass.min.js"></script><script language="javascript" src="/system/resource/js/ajax.js"></script><form name="_newscontent_fromname"><script language="javascript" src="/system/resource/js/jquery/jquery-latest.min.js"></script>
+<div>
+	<div class="title_area">在线培训</div>
+    <hr>
+    <div id="vsb_content" class="content_area"><p style="text-indent:2em;"><p class="vsbcontent_start">******************************************************************************************************************************************</p>
+<p class="vsbcontent_start">&nbsp;</p>
+<p><a href="https://clarivate.com.cn/e-clarivate/index.htm"><strong>科睿唯安在线学院</strong></a></p>
+<p><a href="https://clarivate.com.cn/e-clarivate/wos.htm"><strong>Web of Science</strong><strong>在线大讲堂</strong></a></p>
+<p class="vsbcontent_img">
+ <img width="600" height="162" alt="" src="/__local/5/C4/8C/B3AEFC6B42653ACC1B90C3DCC55_2A32B460_45F5.jpg" vsbhref="vurl" vurl="/_vsl/5C48CB3AEFC6B42653ACC1B90C3DCC55/2A32B460/45F5?e=.jpg" vheight="162" vwidth="600" orisrc="/__local/5/C4/8C/B3AEFC6B42653ACC1B90C3DCC55_2A32B460_45F5.jpg" class="img_vsb_content"></p>
+<p><a href="https://clarivate.com.cn/e-clarivate/wos_2018_spring.htm"><strong>2018</strong><strong>年春季课程直播</strong></a><strong>开始了！</strong></p>
+<p class="vsbcontent_img">
+ <img width="600" height="371" alt="" src="/__local/2/13/3E/31A45EB950542AAD802AC1883C7_823519BB_6F11.png" vsbhref="vurl" vurl="/_vsl/2133E31A45EB950542AAD802AC1883C7/823519BB/6F11?e=.png" vheight="371" vwidth="600" orisrc="/__local/2/13/3E/31A45EB950542AAD802AC1883C7_823519BB_6F11.png" class="img_vsb_content"></p>
+<p><a href="https://clarivate.com.cn/e-clarivate/index.htm"><strong>科睿唯安在线学院</strong></a>不仅包括大家所熟知的<a href="https://clarivate.com.cn/e-clarivate/wos.htm"><strong>Web of Science</strong><strong>在线大讲堂</strong></a>（原汤森路透WOS在线大讲堂），还新增企业创新与知识产权大讲堂、生命科学与制药在线大讲堂，涵盖更多丰富内容，拓宽您的创新视野。</p>
+<p>&nbsp;</p>
+<p>******************************************************************************************************************************************</p>
+<p>&nbsp;</p>
+<p><strong>IEEE Xplore MOOC 2017秋季课程</strong></p>
+<p><strong>IEEE Xplore MOOC 2017秋季课程开课啦！</strong></p>
+<p>IEEE（电气电子工程师学会）是目前全球科学技术领域领先的专业机构。IEEE 科技文献代表全球最新最前沿研发动态，其跨学科、多学科的研究成果与解决方案将进一步激发科研机构产生新的创意与想法，从而转化为创新专利与新型产品。</p>
+<p>IEEE Xplore Digital Library 作为IEEE科技文献的在线访问平台，收录了400多万篇全文文献，为科研人员提供当今世界科技发展最权威最前沿的科技成果，其强有力的检索工具让科研人员更方便快捷地获取全球最先进的高价值文献，节省机构研发投入，提升从业人员科研效率。</p>
+<p>IEEE Xplore MOOC品牌，在新学期继续为大家提供优质的网络课程服务。所有主题的课程均会在三个渠道进行——WebEx、微信和QQ。请用户按照以下课程安排和说明进行注册，以获得详细听课指南以及课程讲义。另外，IEEE Xplore MOOC会不定期邀请科技领域和图书馆届的专家学者分享他们的知识、经验和实践。</p>
+<p><strong><strong>参与方式</strong></strong></p>
+<p>1. 提前注册</p>
+<p>请在开课前登录链接<a href="https://registerieeexplore.wufoo.com/forms/m4d6wx50z43bci/"><span style="text-decoration: underline;">https://registerieeexplore.wufoo.com/forms/m4d6wx50z43bci/</span></a>或扫描下方二维码进行注册。每位用户只须注册一次便可参加所有形式的全部课程。注册采用实名制，请填写真实姓名、微信名和QQ号，方便管理人员进行核实。</p>
+<p><a href="/__local/E/8A/FB/BDF59D2E4826965B81BF3143753_B6F11DC7_7CBB.jpg"></a></p>
+<p class="vsbcontent_img">
+ <img width="125" height="125" alt="krwa2" src="/__local/E/8A/FB/BDF59D2E4826965B81BF3143753_B6F11DC7_7CBB.jpg" vsbhref="vurl" vurl="/_vsl/E8AFBBDF59D2E4826965B81BF3143753/B6F11DC7/7CBB?e=.jpg" vheight="125" vwidth="125" orisrc="/__local/E/8A/FB/BDF59D2E4826965B81BF3143753_B6F11DC7_7CBB.jpg" class="img_vsb_content"></p>
+<p>2. 按时登录</p>
+<p>① WebEx</p>
+<p>WebEx通过视频音频双向沟通的方式进行授课。用户通过电脑登录WebEx培训系统收听课程，可同步观看PPT演示，也可通过麦克风或文字与老师和他人交流。请用户按照“<a href="http://cn.ieee.org/files/IEEE_Conf_Login_Intro.pdf"><span style="text-decoration: underline;">IEEE Xplore MOOC WebEx登录说明</span></a>”在课程开始前15分钟登录。</p>
+<p>② 微信</p>
+<p>微信通过语音穿插讲义图片的方式进行授课，用户在授课前加入微信群即可。课程语音和讲义图片会在课程后保存在微信中，方便用户随时收听浏览。</p>
+<p>③ QQ</p>
+<p>QQ通过视频音频双向沟通的方式进行授课，用户加入QQ群收听课程，可同步观看PPT演示，也可通过麦克风与老师和他人交流。</p>
+<p>如需定制IEEE Xplore MOOC课程或相关登录问题，请咨询<a href="mailto:li.q@ieee.org"><span style="text-decoration: underline;">li.q@ieee.org</span></a>或者<a href="mailto:iel@igroup.com.cn"><span style="text-decoration: underline;">iel@igroup.com.cn</span></a>。</p>
+<p>3. 下载PPT</p>
+<p>每次课程结束后，用户可在第二天通过微信公众号“IEEE Xplore微服务”下载课程PPT。用户可以扫描下方二维码关注公众号后，在公众号首页回复“MOOC”获得PPT下载链接。</p>
+<p>微信公众号“IEEE Xplore 微服务”（微信号：IEEE_Xplore_Service）</p>
+<p><a href="/__local/7/2E/32/C903DE2E0A8B5CFB92CAADABE56_BBEC3174_4E0B.jpg"></a></p>
+<p class="vsbcontent_img">
+ <img width="125" height="125" alt="krwa2" src="/__local/7/2E/32/C903DE2E0A8B5CFB92CAADABE56_BBEC3174_4E0B.jpg" vsbhref="vurl" vurl="/_vsl/72E32C903DE2E0A8B5CFB92CAADABE56/BBEC3174/4E0B?e=.jpg" vheight="125" vwidth="125" orisrc="/__local/7/2E/32/C903DE2E0A8B5CFB92CAADABE56_BBEC3174_4E0B.jpg" class="img_vsb_content"></p>
+<p>4. 评奖</p>
+<p><strong>IEEE Xplore</strong><strong>MOOC 2017秋季课程结束后将评选出“最佳出勤奖”若干名和“最佳组织奖”5名，颁发给课程参与次数最多的用户和参与人数最多的学校/机构，送出移动充值卡和IEEE周边大礼。</strong></p>
+<p><strong>课程安排</strong></p>
+<p><strong>主题一: IEEE Xplore高效检索、文献调研及热点追踪</strong></p>
+<p>•知己知彼-IEEE IEL数据库资源详解</p>
+<p>•利用IEEE Xplore平台高效检索文献</p>
+<p>•利用IEEE Xplore平台深度文献调研</p>
+<p>•利用IEEE Xplore平台追踪热点技术</p>
+<p><strong>主题二: IEEE期刊会议投稿流程与注意事项</strong></p>
+<p>•IEEE出版渠道选择</p>
+<p>•IEEE期刊会议投稿流程</p>
+<p>•IEEE期刊会议审稿流程</p>
+<p>•IEEE期刊会议投稿注意事项</p>
+<p><strong>主题三: IEEE科技论文英文写作剖析</strong></p>
+<p>•IEEE拒稿常见原因</p>
+<p>•科技论文结构剖析</p>
+<p>•科技论文写作要点</p>
+<p>•学术道德/注意事项</p>
+<p><strong>主题四：IEEE会员申请、国际竞赛、奖学金与就业资源</strong></p>
+<p>•IEEE会员级别与申请流程</p>
+<p>•IEEE学生分会活动与申请流程</p>
+<p>•IEEE学生奖学金/国际竞赛申请流程</p>
+<p>•IEEE就业资源与服务介绍</p>
+<p><strong>主题五： 专利申请、专利检索与分析基础课程</strong></p>
+<p>•科研与专利转化重要性</p>
+<p>•专利法基础知识</p>
+<p>•零基础专利检索</p>
+<p>•专利竞争态势分析</p>
+<p>•专利技术全景图谱</p>
+<p><strong>IEEE Xplore MOOC 2017秋季课程安排表</strong></p>
+<p><a href="/__local/F/B8/E3/1E5491B2F1950BF8CBA460B4187_F8889B2A_3A7F.jpg"></a></p>
+<p class="vsbcontent_img">
+ <img width="479" height="136" alt="krwa2" src="/__local/F/B8/E3/1E5491B2F1950BF8CBA460B4187_F8889B2A_3A7F.jpg" vsbhref="vurl" vurl="/_vsl/FB8E31E5491B2F1950BF8CBA460B4187/F8889B2A/3A7F?e=.jpg" vheight="136" vwidth="479" orisrc="/__local/F/B8/E3/1E5491B2F1950BF8CBA460B4187_F8889B2A_3A7F.jpg" class="img_vsb_content"></p>
+<p class="vsbcontent_img">&nbsp;</p>
+<p>******************************************************************************************************************************************</p>
+<p>&nbsp;</p>
+<p><a href="http://ip-science.thomsonreuters.com.cn/e-Clarivate/index.htm"><span style="text-decoration: underline;"><strong>科睿唯安在线学院</strong></span></a><strong>全新发布</strong></p>
+<p><strong>&nbsp;</strong></p>
+<p class="vsbcontent_img">
+ <img width="644" height="222" alt="krwa1" src="/__local/1/B6/41/2CCE62022DA383CD766618D53FE_5C74F367_A3C0B.png" vsbhref="vurl" vurl="/_vsl/1B6412CCE62022DA383CD766618D53FE/5C74F367/A3C0B?e=.png" vheight="222" vwidth="644" orisrc="/__local/1/B6/41/2CCE62022DA383CD766618D53FE_5C74F367_A3C0B.png" class="img_vsb_content"></p>
+<p><strong><strong>&nbsp;&nbsp;&nbsp;</strong>在这春意盎然的季节，</strong><a href="http://ip-science.thomsonreuters.com.cn/e-Clarivate/index.htm"><span style="text-decoration: underline;"><strong>科睿唯安在线学院</strong></span></a><strong>全新发布，该在线学院不仅包括大家所熟知的</strong><a href="http://ip-science.thomsonreuters.com.cn/e-Clarivate/wos.htm"><span style="text-decoration: underline;"><strong>Web of Science在线大讲堂</strong></span></a><strong>（原汤森路透WOS在线大讲堂），还新增</strong><a href="http://ip-science.thomsonreuters.com.cn/e-Clarivate/ip.htm"><span style="text-decoration: underline;"><strong>企业创新与知识产权大讲堂</strong></span></a><strong>、</strong><a href="http://ip-science.thomsonreuters.com.cn/e-Clarivate/ls.htm"><span style="text-decoration: underline;"><strong>生命科学与制药在线大讲堂</strong></span></a><strong>，涵盖更多丰富内容，拓宽您的创新视野。</strong></p>
+<p><strong><strong>&nbsp;&nbsp;&nbsp;&nbsp;</strong>焕然一新的Web of Science在线大讲堂新增以下亮点：</strong></p>
+<p><strong>•【Live直播】名师云集，让你近距离感受学术“大咖”风采<a href="http://ip-science.thomsonreuters.com.cn/e-Clarivate/wos_next.htm"><span style="text-decoration: underline;">点击了解</span></a></strong></p>
+<p><strong>•【微讲堂】三分钟微视频，让你迅速get科研与数据应用技巧<a href="http://ip-science.thomsonreuters.com.cn/e-Clarivate/wos_video.htm"><span style="text-decoration: underline;">点击了解</span></a></strong></p>
+<p><strong>•【热点资讯】洞悉科技前沿网罗</strong><a href="http://ip-science.thomsonreuters.com.cn/e-Clarivate/hotnews.htm"><span style="text-decoration: underline;"><strong>最新最热资讯</strong></span></a><strong>，多份深度研究报告<a href="http://ip-science.thomsonreuters.com.cn/e-Clarivate/report.htm"><span style="text-decoration: underline;">免费下载</span></a></strong></p>
+<p><strong>•【移动学习】移动端同步上线，随时随地“移动学习”</strong></p>
+<p><strong>扫描下方二维码获取电子版在线学院精彩介绍【不要错过哟！】</strong></p>
+<p><a href="/__local/E/82/8C/8C709B0326EBD91EDDEFEDC935C_B1161253_6241.png"></a></p>
+<p class="vsbcontent_img">
+ <img width="157" height="151" alt="krwa2" src="/__local/E/82/8C/8C709B0326EBD91EDDEFEDC935C_B1161253_6241.png" vsbhref="vurl" vurl="/_vsl/E828C8C709B0326EBD91EDDEFEDC935C/B1161253/6241?e=.png" vheight="151" vwidth="157" orisrc="/__local/E/82/8C/8C709B0326EBD91EDDEFEDC935C_B1161253_6241.png" class="img_vsb_content"></p>
+<p><strong><strong>如您有其他需求，欢迎随时联系：</strong></strong></p>
+<p><strong><strong>科睿唯安 中国办公室</strong></strong><strong>susie.shu@clarivate.com</strong><strong>或cathie.tao@clarivate.com。</strong></p>
+<p><strong><strong>桂林电子科技大学 图书馆 学科与技术服务部<a href="mailto:libxkb@guet.edu.cn">libxkb@guet.edu.cn</a>&nbsp;</strong></strong></p>
+<p>&nbsp;</p>
+<p>******************************************************************************************************************************************</p>
+<p>&nbsp;</p>
+<p><strong>题目：InnovationQ Plus:专利检索与专利分析</strong></p>
+<p><strong>主讲：李箐 IEEE中国区资讯经理</strong></p>
+<p>InnovationQ Plus是IEEE与IP.com合作推出的一个强大的创新发现与分析平台，整合了来自IEEE的深度工程技术文献及来自IP.com的全球专利与非专利文档。依托IP.com独有的、基于语义分析的检索引擎，InnovationQ Plus快速审查海量数据，高效定位相关专利、专利申请与非专利文献，并输出业界领先的检索结果。</p>
+<p><strong>培训主题内容：</strong></p>
+<ul class=" list-paddingleft-2">
+ <li><p>专利检索基本知识</p></li>
+ <li><p>零基础全面系统专利检索</p></li>
+ <li><p>技术专利竞争态势分析</p></li>
+ <li><p>全球专利现状全景图谱</p></li>
+ <li><p>科技文献-专利双向检索与追踪</p></li>
+</ul>
+<p><strong>培训时间以及登录链接：</strong></p>
+<p>11月14日下午3:00（北京时间）</p>
+<p><a href="https://ieee.webex.com/ieee/j.php?MTID=m70971dc713adabf923af40c833de2626"><span style="text-decoration: underline;">https://ieee.webex.com/ieee/j.php?MTID=m70971dc713adabf923af40c833de2626</span></a></p>
+<p><strong>注：</strong>用户只要能够访问<strong>国际网并且配备耳机</strong>即可参加。培训将采用视频音频双向沟通的方式，完全通过网络进行。参加者将通过电脑实时看到培训PPT，并通过麦克风与其它人交流。请需要参加培训的老师同学，按“<a href="http://101.96.8.165/cn.ieee.org/files/IEEE_Conf_Login_Intro.pdf"><span style="text-decoration: underline;">IEEE网络培训登录说明</span></a>”在培训开始前30分钟登录培训系统即可。登录无需密码，只需用自己的电子邮件地址即可。如遇问题，可使用统一登录密码Xplore1；也可以拨打电话咨询：010-82331971-811；021-64453167-8031。有关网络培训咨询，请联系<a href="mailto:qing-li@ieee.org"><span style="text-decoration: underline;">qing-li@ieee.org</span></a>或者<a href="mailto:iel@igroup.com.cn"><span style="text-decoration: underline;">iel@igroup.com.cn</span></a>。谢谢！</p>
+<p>&nbsp;</p>
+<p>******************************************************************************************************************************************</p>
+<p>&nbsp;</p>
+<p><a href="/__local/E/7E/36/5C70F8D643287BF8E48A4ABA82E_CFCCAFF8_197FA.png"></a>&nbsp;</p>
+<p>
+ <img width="561" height="348" alt="Web of Science" src="/__local/E/7E/36/5C70F8D643287BF8E48A4ABA82E_CFCCAFF8_197FA.png" vsbhref="vurl" vurl="/_vsl/E7E365C70F8D643287BF8E48A4ABA82E/CFCCAFF8/197FA?e=.png" vheight="348" vwidth="561" orisrc="/__local/E/7E/36/5C70F8D643287BF8E48A4ABA82E_CFCCAFF8_197FA.png" class="img_vsb_content"></p>
+<p>&nbsp;</p>
+<p><a href="http://lib.guet.edu.cn/wp-content/uploads/2016/09/Web-of-Science.png">&nbsp;</a></p>
+<p>更多实用课程请点击浏览：<a href="http://ip-science.thomsonreuters.com.cn/WOSOnline/autumn2016/"><span style="text-decoration: underline;">http://ip-science.thomsonreuters.com.cn/WOSOnline/autumn2016/</span></a></p>
+<p>&nbsp;</p>
+<p>******************************************************************************************************************************************</p>
+<p>&nbsp;</p>
+<p><strong>2015</strong><strong>年下半年</strong><strong>IEEE</strong><strong>数据库网络课堂</strong></p>
+<p>IEEE，电气电子工程师学会，是目前全球科学技术领域领先的专业机构。作为IEEE旗下最完整最权威的在线数据资源，IEEE/IET Electronic Library （简称IEL）提供了当今全世界电子电气，通信和计算机科学等领域将近三分之一的文献。其收录的期刊，杂志，会议论文和标准文档高达3百余万篇，种类覆盖电子工程，计算机工程，空间技术，生物工程等多个学科领域。</p>
+<p>为了更好地提供IEL数据库培训以及加强与终端用户的沟通，本学期IEEE将每周提供一次网络培训。为了方便记忆，<strong>培训时间统一定为周五下午</strong><strong>2:30-3:30 (</strong><strong>主题一</strong><strong>/</strong><strong>二</strong><strong>/</strong><strong>三</strong><strong>),</strong><strong>以及周五上午</strong><strong>10:00-11:00(</strong><strong>主题四</strong><strong>/</strong><strong>五</strong><strong>)</strong>。培训内容分为五个主题，分别涉及数据库检索技巧、期刊会议投稿流程、学会资源与会员权益、IEEE标准概览以及图书馆员分享专场，请各位按兴趣届时登录。</p>
+<p>登录培训系统请访问：<a href="http://cn.ieee.org/online_training.html">http://cn.ieee.org/online_training.html</a></p>
+<p>有关网络培训咨询，或者您需要给学校预约个性化的培训，请联系&nbsp;<a href="mailto:qing-li@ieee.org">qing-li@ieee.org</a>&nbsp;&nbsp;或者&nbsp;<a href="mailto:iel@igroup.com.cn">iel@igroup.com.cn</a>，谢谢</p>
+<p>&nbsp;</p>
+<p>******************************************************************************************************************************************</p>
+<p>&nbsp;</p>
+<p><strong>2015年秋季在线大讲堂于9月22日开讲啦！</strong></p>
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+ <tbody>
+  <tr class="firstRow">
+   <td height="40" valign="top"><p>汤森路透WOS在线大讲堂2015年秋季课程，将为大家揭示诺奖热门得主背后的科研影响力，捕捉通往科学至高殿堂的智慧之光；拂去经典文献的历史尘埃，展现百年引文的璀璨价值；打开专利情报分析的黑匣子，解码实现科研成果转化的高效方法。</p><p class="vsbcontent_img">
+     <img width="10" height="10" alt="" src="http://lib.guet.edu.cn/doc/check.jpg" vsbhref="vurl" vurl="http://lib.guet.edu.cn/doc/check.jpg" vheight="10" vwidth="10" orisrc="http://lib.guet.edu.cn/doc/check.jpg" class="img_vsb_content">此外，本学期还将通过面向科研与研发人员的8节在线免费课程，与大家分享——如何获取自然科学、社会科学跨学科的研究前沿、如何利用数据分析工具帮助发表SCI/SSCI论文、提高论文发表的机会、以及社科研究中SSCI经典文献分析及应用等实践经验，帮助科研与研发人员激发创新思路、实现高效的科研产出、提升科研应用的实效性。面向图书馆员和情报分析人员的4节精彩课程，将为大家介绍如何通过智能的信息情报分析工具深化学科服务、把握行业发展趋势、支撑战略规划决策等应用实践。</p><p class="vsbcontent_img">
+     <img width="10" height="10" alt="" src="http://lib.guet.edu.cn/doc/check.jpg" vsbhref="vurl" vurl="http://lib.guet.edu.cn/doc/check.jpg" vheight="10" vwidth="10" orisrc="http://lib.guet.edu.cn/doc/check.jpg" class="img_vsb_content">本期在线大讲堂还将特别推出经典课程回顾专题，包括精选的专家实践课程、事半功倍的应用技巧、具有启发性的科研思路，为大家呈现WOS在线大讲堂历时五年的经典学习资源锦集。</p>
+    <ul class=" list-paddingleft-2">
+     <li><p>详情请登录Web of Science在线大讲堂网站：<a href="http://ip-science.thomsonreuters.com.cn/WOSOnline/autumn2015/"></a></p><p>http://ip-science.thomsonreuters.com.cn/WOSOnline/autumn2015/</p></li>
+     <li><p>关注WOS在线大讲堂微博群：<a href="http://q.weibo.com/569008">http://q.weibo.com/569008</a></p></li>
+    </ul></td>
+  </tr>
+ </tbody>
+</table>
+<p>&nbsp;</p>
+<p>******************************************************************************************************************************************</p>
+<p>&nbsp;</p>
+<p><strong>2014</strong><strong>—2015学年秋季学期</strong></p>
+<p><strong>桂林电子科技大学图书馆信息检索专题培训计划</strong></p>
+<p><strong>一、主要培训内容：（共</strong><strong>10</strong><strong>个主题）</strong><strong>&nbsp;</strong></p>
+<p><strong>主题一：</strong><strong>电子资源检索入门</strong></p>
+<p><strong>（上课时间：</strong><strong>10</strong><strong>月</strong><strong>14</strong><strong>日</strong><strong>19</strong><strong>：</strong><strong>30</strong><strong>—</strong><strong>21</strong><strong>：</strong><strong>00</strong><strong>；</strong><strong>10</strong><strong>月</strong><strong>16</strong><strong>日</strong><strong>14</strong><strong>：</strong><strong>30</strong><strong>—</strong><strong>16</strong><strong>：</strong><strong>00</strong><strong>）</strong><strong>&nbsp;</strong></p>
+<p>图书馆是资源的海洋，如何迅速找到想要的资源？图书馆没有的资源去哪里获取？如何能更有效地利用图书馆？本讲座旨在帮助您尽快熟悉、了解图书馆的资源及服务，为您介绍图书馆电子资源的类型、特点及其功用，电子资源的主要检索方法和检索技巧，以及如何利用图书馆的电子资源及其服务。</p>
+<p><strong>主题二： Web of Science 核心数据库的检索与利用</strong></p>
+<p><strong>（上课时间：</strong><strong>10</strong><strong>月</strong><strong>21</strong><strong>日</strong><strong>19</strong><strong>：</strong><strong>30</strong><strong>—</strong><strong>21</strong><strong>：</strong><strong>00</strong><strong>；</strong><strong>10</strong><strong>月</strong><strong>23</strong><strong>日</strong><strong>14</strong><strong>：</strong><strong>30</strong><strong>—</strong><strong>16</strong><strong>：</strong><strong>00</strong><strong>）</strong></p>
+<p>Web of Science是世界上有影响的文摘索引数据库，其核心合集包含国内公认的重要文献检索工具SCI系列和CPCI-S（ISTP）系列，具有强大的引文检索功能和分析功能。除作为文献检索工具，Web of Science还被广泛用于科研成果的评价。本讲重点介绍该数据库核心合集的检索方法和创建文献跟踪服务功能。</p>
+<p><strong>主题三： 工程索引（Ei Compendex）的检索与利用</strong></p>
+<p><strong>（上课时间：</strong><strong>10</strong><strong>月</strong><strong>28</strong><strong>日</strong><strong>19</strong><strong>：</strong><strong>30</strong><strong>—</strong><strong>21</strong><strong>：</strong><strong>00</strong><strong>；</strong><strong>10</strong><strong>月</strong><strong>30</strong><strong>日</strong><strong>14</strong><strong>：</strong><strong>30</strong><strong>—</strong><strong>16</strong><strong>：</strong><strong>00</strong><strong>）</strong></p>
+<p>Ei Compendex（工程索引网络版）是最常用的文摘数据库之一，侧重于工程技术领域的文献的报道。数据来源于5100多种工程类期刊、会议论文集和技术报告，可检索1884年以来的文献信息。本讲重点介绍该数据库的使用方法。</p>
+<p><strong>主题四： 中外文电子期刊全文数据库检索与利用</strong></p>
+<p><strong>（上课时间：</strong><strong>11</strong><strong>月</strong><strong>4</strong><strong>日</strong><strong>19</strong><strong>：</strong><strong>30</strong><strong>—</strong><strong>21</strong><strong>：</strong><strong>00</strong><strong>；</strong><strong>11</strong><strong>月</strong><strong>6</strong><strong>日</strong><strong>14</strong><strong>：</strong><strong>30</strong><strong>—</strong><strong>16</strong><strong>：</strong><strong>00</strong><strong>）</strong></p>
+<p>期刊论文是文献调研的重要内容之一，全面准确地获取期刊论文将大大提高研究工作的效率。本讲以中国知网和Elsevier的Science Direct为例，介绍中外文期刊论文的检索方法，并简要介绍其他中外文全文电子期刊数据库的使用。</p>
+<p><strong>主题五： 中外文电子图书数据库检索与利用</strong></p>
+<p><strong>（上课时间：</strong><strong>11</strong><strong>月</strong><strong>11</strong><strong>日</strong><strong>19</strong><strong>：</strong><strong>30</strong><strong>—</strong><strong>21</strong><strong>：</strong><strong>00</strong><strong>；</strong><strong>11</strong><strong>月</strong><strong>13</strong><strong>日</strong><strong>14</strong><strong>：</strong><strong>30</strong><strong>—</strong><strong>16</strong><strong>：</strong><strong>00</strong><strong>）</strong></p>
+<p>足不出户，坐拥百万书库？鼠标在手，浩瀚书海畅游？——本馆丰富的电子图书资源可以帮助你实现这些梦想！本讲座全面介绍我校读者可以使用各种中外文电子图书数据库，并以超星数字图书馆、ebrary、Safari电子图书等数据库为例重点介绍这类资源的使用方法。<strong>&nbsp;</strong></p>
+<p><strong>主题六： 国内外学位论文的检索与原文获取</strong></p>
+<p><strong>（上课时间：</strong><strong>11</strong><strong>月</strong><strong>18</strong><strong>日</strong><strong>19</strong><strong>：</strong><strong>30</strong><strong>—</strong><strong>21</strong><strong>：</strong><strong>00</strong><strong>；</strong><strong>11</strong><strong>月</strong><strong>20</strong><strong>日</strong><strong>14</strong><strong>：</strong><strong>30</strong><strong>—</strong><strong>16</strong><strong>：</strong><strong>00</strong><strong>）</strong></p>
+<p>介绍国内外学位论文数据库的特色、检索方法，使读者较为全面地了解学位论文的全貌；重点学习国外学位论文数据库PQDT的检索技巧及个性化服务；介绍学位论文原文的获取途径。</p>
+<p><strong>主题七：多媒体学术资源及其使用</strong></p>
+<p><strong>（上课时间：</strong><strong>11</strong><strong>月</strong><strong>25</strong><strong>日</strong><strong>19</strong><strong>：</strong><strong>30</strong><strong>—</strong><strong>21</strong><strong>：</strong><strong>00</strong><strong>；</strong><strong>11</strong><strong>月</strong><strong>27</strong><strong>日</strong><strong>14</strong><strong>：</strong><strong>30</strong><strong>—</strong><strong>16</strong><strong>：</strong><strong>00</strong><strong>）</strong><strong>&nbsp;</strong></p>
+<p><strong>&nbsp;</strong>如何找到丰富生动的多媒体学术资源？您是否已经阅遍了文字型的各类学术资料？？您是否需要找些直观生动的图像或视频资料？？?</p>
+<p>本讲座将介绍我馆多媒体学术资源的类型及内容、检索与播放等，涉及的多媒体学术资源内容包括：新东方网络课程数据库、KUKE数字音乐图书馆、爱迪科森网上报告厅、超星名师讲坛等多种在线的多媒体学术资源。</p>
+<p><strong>主题八： 因特网免费学术资源的检索与利用</strong></p>
+<p><strong>&nbsp;&nbsp;</strong><strong>（上课时间：</strong><strong>12</strong><strong>月</strong><strong>2</strong><strong>日</strong><strong>19</strong><strong>：</strong><strong>30</strong><strong>—</strong><strong>21</strong><strong>：</strong><strong>00</strong><strong>；</strong><strong>11</strong><strong>月</strong><strong>4</strong><strong>日</strong><strong>14</strong><strong>：</strong><strong>30</strong><strong>—</strong><strong>16</strong><strong>：</strong><strong>00</strong><strong>）</strong></p>
+<p>网上免费学术资源有哪些类型？如何利用百度、Google高效搜索？Google Scholar学术搜索如何使用？本讲座将重点讲解检索网络学术资源的方法和技巧，并推荐优秀的资源及学习参考资料。</p>
+<p><strong>主题九：论文写作技巧——开题与立项前的文献调研概述</strong></p>
+<p><strong>（上课时间：</strong><strong>12</strong><strong>月</strong><strong>9</strong><strong>日</strong><strong>19</strong><strong>：</strong><strong>30</strong><strong>—</strong><strong>21</strong><strong>：</strong><strong>00</strong><strong>；</strong><strong>12</strong><strong>月</strong><strong>11</strong><strong>日</strong><strong>14</strong><strong>：</strong><strong>30</strong><strong>—</strong><strong>16</strong><strong>：</strong><strong>00</strong><strong>）</strong></p>
+<p>“文献调研”是课题立项以及论文开题前一项极为重要的工作，通过深入、全面的文献调研工作，可以了解最新的研究进展和最重要的研究成果。本讲座介绍文献调研所涉及的文献资源类型、检索方法和检索技巧。</p>
+<p><strong>主题十： 论文写作技巧——个人文献管理软件NoteExpress的功能与使用（包括NoteExpress、EndNote Web 及 RefWorks）</strong></p>
+<p><strong>（上课时间：</strong><strong>12</strong><strong>月</strong><strong>16</strong><strong>日</strong><strong>19</strong><strong>：</strong><strong>30</strong><strong>—</strong><strong>21</strong><strong>：</strong><strong>00</strong><strong>；</strong><strong>12</strong><strong>月</strong><strong>18</strong><strong>日</strong><strong>14</strong><strong>：</strong><strong>30</strong><strong>—</strong><strong>16</strong><strong>：</strong><strong>00</strong><strong>）</strong></p>
+<p>你知道吗，利用个人文献管理软件建立“个人图书馆”，可以有效地组织、管理已获取的各种文献，并在研究和著述中方便地使用这些信息？本讲座主要介绍个人文献管理软件NoteExpress的特点和基本使用方法。</p>
+<p>除以上系列讲座外，图书馆还根据读者需求组织特邀电子资源培训、邀请用户参与研究分享类讲座、定制专题讲座。欢迎联系预约，欢迎您对讲座提出意见和建议！<a href="mailto:libxkb@guet.edu.cn">libxkb@guet.edu.cn</a>&nbsp; 2291608</p>
+<p><strong>二、时间及方式：</strong>2014—1015学年第一学期的第6周（2014年10月14日）开始，至第15周（2014年12月18日）结束。连续十周。暂定每一主题讲两次，每次时间约1小时30分钟，含课后上机实习和辅导。每周周二晚上和周四下午上课。</p>
+<p><strong>三、适应对象：</strong>2-4年级本科生；研究生；教师。</p>
+<p><strong>四、地点：</strong>花江图书馆电子培训室。</p>
+<p><strong>五、主办：</strong>桂林电子科技大学图书馆学科服务部。</p>
+<p>&nbsp;</p>
+<p>******************************************************************************************************************************************</p>
+<p>&nbsp;</p>
+<p><strong>Web of Science在线大讲堂2014年秋季课程</strong></p>
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+ <tbody>
+  <tr class="firstRow">
+   <td height="40" valign="top"><p>在本学期20节精彩的在线免费课程中，知名高校相关专家与科研“大牛”将做客大讲堂，与大家分享成功的科研实践和最有效的科研流程，为科研人员寻找研究前沿和提升科研创新能力提供有益的借鉴和启发。本期课程亮点：</p><p class="vsbcontent_img">
+     <img width="10" height="10" alt="" src="http://lib.guet.edu.cn/doc/check.jpg" vsbhref="vurl" vurl="http://lib.guet.edu.cn/doc/check.jpg" vheight="10" vwidth="10" orisrc="http://lib.guet.edu.cn/doc/check.jpg" class="img_vsb_content">邀请入选为2014全球“高被引科学家”名录的中国科学家、以及知名高校的教授做客大讲堂，介绍其精彩曲折的科研之路，帮助您锁定研究前沿、开拓科研视野。</p><p class="vsbcontent_img">
+     <img width="10" height="10" alt="" src="http://lib.guet.edu.cn/doc/check.jpg" vsbhref="vurl" vurl="http://lib.guet.edu.cn/doc/check.jpg" vheight="10" vwidth="10" orisrc="http://lib.guet.edu.cn/doc/check.jpg" class="img_vsb_content">邀请知名科技期刊总编为您分享期刊投稿最佳实践与学术规范，帮助您提升投稿效率。</p><p class="vsbcontent_img">
+     <img width="10" height="10" alt="" src="http://lib.guet.edu.cn/doc/check.jpg" vsbhref="vurl" vurl="http://lib.guet.edu.cn/doc/check.jpg" vheight="10" vwidth="10" orisrc="http://lib.guet.edu.cn/doc/check.jpg" class="img_vsb_content">汤森路透和知名高校的文献管理、情报分析、科研管理、以及知识产权管理专家，与您分享智能信息平台及工具的最佳应用实践，提升您对科研信息资源的应用技巧，帮助您轻松开展科研，拓展创新能力。</p><p>汤森路透Web of Science<sup>TM</sup>在线大讲堂历时四年，举办了超过200次在线免费培训课程。截至2014春季课程，Web of Science<sup>TM</sup>在线大讲堂累计参与人数超过26万，在中国高校和科研界收获了良好的声誉，并已经成为帮助科研和研发人员、图书馆员、情报分析人员以及科研管理者高效利用智能信息资源提升科研绩效、推动科研创新、提高学科服务水平、以及开展情报分析工作的有效途径。</p>
+    <ul class=" list-paddingleft-2">
+     <li><p>详情请登录Web of Science在线大讲堂网站：<a href="http://ip-science.thomsonreuters.com.cn/wosonline">http://ip_science.thomsonreuters.com.cn/WOSonline</a></p></li>
+     <li><p>关注WOS在线大讲堂微博群：<a href="http://q.weibo.com/569008">http://q.weibo.com/569008</a></p></li>
+     <li><p>汤森路透公开课系列课程：<a href="http://ip-science.thomsonreuters.com.cn/WOSOn line/Autumn2014/resource_oc.htm">http://ip-science.thomsonreuters.com.cn/WOSOnline/Autumn2014/</a></p><p>resource_oc.htm</p></li>
+    </ul></td>
+  </tr>
+ </tbody>
+</table>
+<p><a href="/__local/F/21/F1/4D92A904EF745E37BAD74A523EA_2B6267BB_28BB4.jpg"></a></p>
+<p class="vsbcontent_img">
+ <img title="ebsco2" alt="" src="/__local/D/BB/74/8F8708F593D2ADD474C76D23C9E_4D425074_19CF9.jpg" vsbhref="vurl" vurl="/_vsl/DBB748F8708F593D2ADD474C76D23C9E/4D425074/19CF9?e=.jpg" vheight="" vwidth="" orisrc="/__local/D/BB/74/8F8708F593D2ADD474C76D23C9E_4D425074_19CF9.jpg" class="img_vsb_content"></p>
+<p class="vsbcontent_img">&nbsp;</p>
+<p>******************************************************************************************************************************************</p>
+<p>&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>IEEE网络系列培训</strong></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 本周五下午2:30-3:30&nbsp;将会进行本学期第一次IEEE网络系列培训，本周的培训主题是:一、<strong>如何利用</strong>IEEE Xplore<strong>提升科研效率 —</strong>&nbsp;IEL<strong>数据库检索技巧详解—a.</strong><strong>IEEE Xplore</strong><strong>数据库功能入门（初学者适用）</strong></p>
+<p>·&nbsp;&nbsp;IEEE IEL数据库资源详解</p>
+<p>·&nbsp;&nbsp;如何利用IEEE Xplore平台支持课题研究</p>
+<p>·&nbsp;&nbsp;如何利用IEEE Xplore平台进行学科跟踪</p>
+<p>·&nbsp;&nbsp;如何利用IEEE Xplore平台进行文献管理</p>
+<p>·&nbsp;&nbsp;如何利用IEEE Xplore平台查看热点文章</p>
+<p>登录培训系统请访问：<a href="http://cn.ieee.org/online_training.html">http://cn.ieee.org/online_training.html</a></p>
+<p>有关网络培训咨询，或者您需要给学校预约个性化的培训，请联系&nbsp;<a href="mailto:qing-li@ieee.org">qing-li@ieee.org</a>&nbsp;&nbsp;或者&nbsp;<a href="mailto:iel@igroup.com.cn">iel@igroup.com.cn</a>，谢谢</p>
+<p>&nbsp;</p>
+<p>******************************************************************************************************************************************</p>
+<p>&nbsp;</p>
+<p><strong>2013 EBSCO 数据库夏季在线培训课程</strong></p>
+<p>&nbsp;</p>
+<p>EBSCO的夏季在线培训课程表发布了。</p>
+<p>需要说明的是，只要报名一次，以后用同一账号登录即可参加任意场次的培训。</p>
+<p><strong>网址</strong><strong>:&nbsp;</strong><a href="http://www.ebscohost.com/">http://www.ebscohost.com</a></p>
+<p><a href="/__local/E/C4/FB/D67B7635D5D2E165C5116FF822B_DDFE7FC3_2786B.jpg"></a></p>
+<p class="vsbcontent_img">
+ <img width="529" height="736" title="ebsco1" alt="" src="/__local/E/C4/FB/D67B7635D5D2E165C5116FF822B_DDFE7FC3_2786B.jpg" vsbhref="vurl" vurl="/_vsl/EC4FBD67B7635D5D2E165C5116FF822B/DDFE7FC3/2786B?e=.jpg" vheight="736" vwidth="529" orisrc="/__local/E/C4/FB/D67B7635D5D2E165C5116FF822B_DDFE7FC3_2786B.jpg" class="img_vsb_content"></p>
+<p><a href="/__local/F/21/F1/4D92A904EF745E37BAD74A523EA_2B6267BB_28BB4.jpg"></a></p>
+<p class="vsbcontent_img">
+ <img width="531" height="750" title="ebsco2" alt="" src="/__local/F/21/F1/4D92A904EF745E37BAD74A523EA_2B6267BB_28BB4.jpg" vsbhref="vurl" vurl="/_vsl/F21F14D92A904EF745E37BAD74A523EA/2B6267BB/28BB4?e=.jpg" vheight="750" vwidth="531" orisrc="/__local/F/21/F1/4D92A904EF745E37BAD74A523EA_2B6267BB_28BB4.jpg" class="img_vsb_content"></p>
+<p>&nbsp;</p>
+<p>******************************************************************************************************************************************</p>
+<p>&nbsp;</p>
+<p><strong>2013 EBSCO 数据库夏季在线培训课程</strong></p>
+<p>&nbsp;</p>
+<p>EBSCO的夏季在线培训课程表发布了，请参考附件。</p>
+<p>欢迎参考咨询部的老师在时间方便时参加并提出宝贵意见。也烦请发布在图书馆的公告栏中，欢迎广大师生参与。</p>
+<p>需要说明的是，只要报名一次，以后用同一账号登录即可参加任意场次的培训。</p>
+<p><a href="/__local/B/30/D1/C7B99EB4E1DA93A454DA70E767A_44BD9368_2E287.jpg"></a></p>
+<p class="vsbcontent_img">
+ <img width="597" height="738" title="ebsco" alt="" src="/__local/B/30/D1/C7B99EB4E1DA93A454DA70E767A_44BD9368_2E287.jpg" vsbhref="vurl" vurl="/_vsl/B30D1C7B99EB4E1DA93A454DA70E767A/44BD9368/2E287?e=.jpg" vheight="738" vwidth="597" orisrc="/__local/B/30/D1/C7B99EB4E1DA93A454DA70E767A_44BD9368_2E287.jpg" class="img_vsb_content"></p>
+<p>&nbsp;</p>
+<p>******************************************************************************************************************************************</p>
+<p>&nbsp;</p>
+<p><strong>“IEEE网络系列培训：IEL数据库网络课堂”本周五（6月21日）培训通知</strong></p>
+<p>各位读者你们好！非常感谢大家长期以来对IEL数据库的支持和关注。本周五下午2:30-3:30&nbsp;“IEEE网络系列培训：IEL数据库网络课堂”开讲。本周的培训主题是：如何利用IEEE Xplore提升科研效率&nbsp;—&nbsp;IEL数据库检索技巧详解—进阶版。通过此次培训，您将具体了解到：</p>
+<p>•&nbsp;&nbsp;如何利用IEL进行课题研究</p>
+<p>•&nbsp;&nbsp;如何利用IEL支持文献综述</p>
+<p>•&nbsp;&nbsp;如何利用IEL进行学科跟踪</p>
+<p>•&nbsp;&nbsp;如何利用IEL进行文献管理</p>
+<p>•&nbsp;&nbsp;如何利用IEL支持专利申请</p>
+<p>•&nbsp;&nbsp;如何使用和参与开发IEEE标准</p>
+<p>登录培训系统请访问：<a href="http://cn.ieee.org/online_training.html">http://cn.ieee.org/online_training.html</a></p>
+<p>&nbsp;</p>
+<p>******************************************************************************************************************************************</p>
+<p>&nbsp;</p>
+<p>&nbsp;<strong>2013 EBSCO 数据库春季在线培训课程 (3-6月)</strong></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 为帮助用户更好使用EBSCOhost数据库，本公司的用户培训采用在在线上课培训的方式。新年新气象，本学期的教育培训课程，已改为固定星期一与星期四晚上19:00 开始，最新课程信息请见：<a href="https://ebsco-chinese.webex.com/">https://ebsco-chinese.webex.com/</a>。欢迎广大师生报名参加。</p>
+<p><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 注意事项：</strong></p>
+<p>请于课程开始前12小时完成注册(报名)，逾时恕不受理。</p>
+<p>请点选Register注册 (即报名)，填写完基本信息后，您将收到确认信，请准时与会。</p>
+<p>无人注册的场次将自动取消。</p>
+<div></div>
+<div>
+ <p><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;以下是部分课程信息：</strong></p>
+ <p>&nbsp;日期与开始时间&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 主题&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 持续时间</p>
+ <p style="text-align: justify;">&nbsp;3月07日 晚上 7:00&nbsp;&nbsp;&nbsp; 如何使用EBSCOhost平台：高級检索　　　　　　　　　　　　　　　　50分钟</p>
+</div>
+<div>
+ <p style="text-align: justify;">&nbsp;3月11日 晚上 7:00&nbsp;&nbsp;&nbsp; 如何使用EBSCOhost平台：行动检索　　　　　　　　　　　　　　　　50分钟</p>
+</div>
+<div>
+ <p style="text-align: justify;">&nbsp;3月14日 晚上 7:00&nbsp;&nbsp;&nbsp; 整合查询搜寻介绍：EDS探索服务与A-to-Z及 LinkSource　　　　　　 　60分钟</p>
+</div>
+<div>
+ <p style="text-align: justify;">&nbsp;3月18日 晚上 7:00&nbsp;&nbsp;&nbsp; PsycINFO, PsycARTICLES 心理学数据库　　　　　　　　　　　　　　50分钟</p>
+</div>
+<div>
+ <p style="text-align: justify;">&nbsp;3月21日 晚上 7:00&nbsp;&nbsp;&nbsp; SPORTDiscus with Full Text运动科学全文数据库　　　　　　　　　　　40分钟</p>
+</div>
+<div>
+ <p style="text-align: justify;">&nbsp;3月25日 晚上 7:00&nbsp;&nbsp;&nbsp; Academic Search Complete/Premier 综合学科全文数据库　　　　　　　50分钟</p>
+</div>
+<div>
+ <p style="text-align: justify;">&nbsp;3月28日 晚上 7:00&nbsp;&nbsp;&nbsp; EBSCOhost 电子书与有声书 (包含行动载具下载说明)　　　　　　　　　50分钟</p>
+</div>
+<div>
+ <p style="text-align: justify;">&nbsp;4月01日 晚上 7:00&nbsp;&nbsp;&nbsp; 如何使用EBSCOhost平台：基本检索　　　　　　　　　　　　　　　　 50分钟</p>
+</div>
+<div>
+ <p style="text-align: justify;">&nbsp;4月08日 晚上 7:00&nbsp;&nbsp;&nbsp; 如何使用EBSCOhost平台：高級检索　　　　　　　　　　　　　　　　50分钟</p>
+</div>
+<div>
+ <p style="text-align: justify;">&nbsp;4月11日 晚上 7:00&nbsp;&nbsp;&nbsp; 如何使用EBSCOhost平台：行动检索　　　　　　　　　　　　　　　　50分钟</p>
+</div>
+<div>
+ <p style="text-align: justify;">&nbsp;4月15日 晚上 7:00&nbsp;&nbsp;&nbsp; 整合查询搜寻介绍：EDS探索服务与A-to-Z及 LinkSource　　　　　　　 60分钟</p>
+</div>
+<div>
+ <p style="text-align: justify;">&nbsp;4月18日 晚上 7:00&nbsp;&nbsp;&nbsp; 电子书在线采购系统介绍：EBSCOhost Collection Manager　　　　　　40分钟</p>
+</div>
+<div>
+ <p style="text-align: justify;">&nbsp;4月22日 晚上 7:00&nbsp;&nbsp;&nbsp; EBSCOhost 电子书与有声书 (包含行动载具下载说明)　　　　 　　　　 50分钟</p>
+</div>
+<div>
+ <p style="text-align: justify;">&nbsp;4月22日 晚上 8:30&nbsp;&nbsp;&nbsp; AP Images 美联社新闻图片数据库　　　　　　　　　　　　　　　　　30分钟</p>
+</div>
+<div>
+ <p style="text-align: justify;">&nbsp;5月02日 晚上 7:00&nbsp;&nbsp;&nbsp; 如何使用EBSCOhost平台：基本检索　　　　　　　　　　　　　　　　50分钟</p>
+</div>
+<div>
+ <p style="text-align: justify;">&nbsp;5月06日 晚上 7:00&nbsp;&nbsp;&nbsp; 如何使用EBSCOhost平台：高級检索　　　　　　　　　　　　　　　　50分钟</p>
+</div>
+<div>
+ <p style="text-align: justify;">&nbsp;5月06日 晚上 8:30&nbsp;&nbsp;&nbsp; AP Images 美联社新闻图片数据库　　　　　　　　　　　　　　　　　30分钟</p>
+</div>
+<div>
+ <p style="text-align: justify;">&nbsp;5月09日 晚上 7:00&nbsp;&nbsp;&nbsp; 如何使用EBSCOhost平台：行动检索　　　　　　　　　　　　　　　　50分钟</p>
+</div>
+<div>
+ <p>&nbsp;&nbsp;</p>
+</div>
+<div>
+ <p>******************************************************************************************************************************************&nbsp;&nbsp;</p>
+</div>
+<p>&nbsp;</p>
+<div>
+ <p><strong>数据库名称</strong><strong>:IEL数据库2012下半年培训</strong>&nbsp;&nbsp;&nbsp;</p>
+</div>
+<div>
+ <p><strong><strong>链接：<a href="http://cn.ieee.org/online_training.html">http://cn.ieee.org/online_training.html</a></strong></strong>&nbsp;&nbsp;&nbsp;</p>
+</div>
+<div>
+ <p><strong>说明：</strong>为了在新学期给各位老师同学有完善的IEEE网络培训体验，“IEEE网络系列培训：IEL数据库网络课堂”本学期网络培训计划已经安排好，详细内容只要访问IEEE中文官方网站即可。相关课程详细信息下载：<a href="http://lib.guet.edu.cn/traindata2010/train/2012年下半年网络培训计划.doc">2012下半年IEEE 网络系列培训</a>，<a href="http://lib.guet.edu.cn/traindata2010/train/IEEE网络培训登录说明.pdf">IEEE网络培训登录说明</a>。&nbsp;&nbsp;&nbsp;</p>
+ <p>&nbsp;</p>
+</div>
+<div>
+ <p>******************************************************************************************************************************************&nbsp;&nbsp;&nbsp;</p>
+ <p>&nbsp;</p>
+</div>
+<div>
+ <p><strong>数据库名称</strong><strong>:IEL数据库</strong>&nbsp;&nbsp;&nbsp;</p>
+</div>
+<div>
+ <p><strong>链接：</strong><a href="http://cn.ieee.org/online_training.html">http://cn.ieee.org/online_training.html</a>&nbsp;&nbsp;&nbsp;</p>
+</div>
+<div>
+ <p><strong>说明</strong>：为了在暑期给各位老师同学提供完善的IEEE网络培训体验，“IEEE网络系列培训：IEL数据库网络课堂”暑期网络培训计划已经安排好，详细内容只要访问IEEE中文官方网站即可。&nbsp;&nbsp;&nbsp;</p>
+ <p>&nbsp;</p>
+</div>
+<div>
+ <p>******************************************************************************************************************************************&nbsp;&nbsp;&nbsp;</p>
+ <p>&nbsp;</p>
+</div>
+<p><strong>数据库名称</strong><strong>:IEL数据库</strong>&nbsp;&nbsp;&nbsp;</p>
+<p><strong>链接</strong>：<a href="http://cn.ieee.org/online_training.html">http://cn.ieee.org/online_training.html</a></p>
+<p><strong>说明：</strong></p>
+<p>本周的培训主题是：<strong>如何利用IEEE Xplore提升科研效率 — IEL数据库检索技巧详解</strong>。通过此次培训，您将具体了解到：</p>
+<p>如何利用IEL进行课题研究</p>
+<p>如何利用IEL进行学科跟踪</p>
+<p>如何快速获取相关文献全文</p>
+<p>如何管理参考文献数据</p>
+<p>如何利用IEL辅助投稿</p>
+<p>&nbsp;</p>
+<p>******************************************************************************************************************************************</p>
+<p>&nbsp;</p>
+<p><strong>数据库名称</strong><strong>:</strong>EBSCO数据库</p>
+<p><strong>链接：</strong><strong>&nbsp;&nbsp;</strong><strong>&nbsp;<a href="http://www.bmetrack.com/c/v?e=180772&c=22E90&l=14D89D8&email=p2ebwb%2Fiit4dB%2B4gaouSo%2BYsUrlvEkQs&relid=D161D5FB">http://www.bmetrack.com/c/v?e=180772&amp;c=22E90&amp;l=14D89D8&amp;email=p2ebwb%2Fiit4dB%2B4gaouSo%2BYsUrlvEkQs&amp;relid=D161D5FB</a></strong></p>
+<p><strong>说明：</strong></p>
+<p>各位老师，你们好！以下这个链接提供的是EBSCO数据库5月份的在线培训安排，欢迎各位读者在时间方便时参加并提出宝贵意见。每个场次中的“按我注册”是报名的意思，只要报名一次，以后用同一账号登录即可参加任意场次的培训，并不需要每次都注册。</p>
+<p>&nbsp;</p>
+<p>******************************************************************************************************************************************</p>
+<p>&nbsp;</p>
+<p><strong>数据库名称</strong><strong>:</strong>2012年05月Elsevier在线培训课程表</p>
+<p><strong>链接：</strong><br><strong><a href="http://china.elsevier.com/elsevierdnn/ch/%E8%AE%B2%E5%BA%A7%E4%B8%8E%E6%B4%BB%E5%8A%A8/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%9C%A8%E7%BA%BF%E5%9F%B9%E8%AE%AD/tabid/1420/Default.aspx">http://china.elsevier.com/elsevierdnn/ch/%E8%AE%B2%E5%BA%A7%E4%B8%8E%E6%B4%BB%E5%8A%A8/<br>%E6%95%B0%E6%8D%AE%E5%BA%93%E5%9C%A8%E7%BA%BF%E5%9F%B9%E8%AE%AD/tabid/1420/Default.aspx</a></strong></p>
+<p><strong>说明：</strong></p>
+<p class="vsbcontent_end">各位老师，你们好！以下这个链接提供的是Elsevier数据库5月份的在线培训安排，欢迎各位读者在时间方便时参加并提出宝贵意见。</p></p></div><div id="div_vote_id"></div>
+        <br />
+    <p align="right">【<a href="javascript:window.opener=null;window.open('','_self');window.close();">关闭</a>】</p><br />
+</div>
+</form><!--#endeditable--></div></div></div><!-- End BODY section --><!-- Start footer BODY section --><!-- add to the <head> of your page -->
+<div class="footer_border">
+<p></p>
+<div class="outer">
+<div class="in0"><a href="http://www.guet.edu.cn" target="_blank">学校主页</a> </div>
+<div class="in1"><a href="http://202.193.70.191" target="_blank">回到旧版</a> </div>
+<div class="in2"><a href="http://www.guet.edu.cn/lib/info/1064/2891.htm" target="_blank">开馆时间</a> </div>
+<div class="in3"><a href="http://www.guet.edu.cn/lib/info/1060/2890.htm" target="_blank">馆藏分布</a> </div>
+<div class="in4"><a href="http://202.193.70.165/dzzt/index.php" target="_blank">电子展厅</a> </div>
+<div class="in5"><a href="http://www.guet.edu.cn/lib/info/1032/2888.htm" target="_blank">论文提交</a> </div>
+<div class="in6"><a href="http://202.193.70.165/subject/subject.html" target="_blank">专题导读</a> </div>
+<div class="in7"><a href="http://202.193.70.166:8020/index.asp?idc=tryout&amp;mem=true" target="_blank">最新试用</a> </div></div>
+<p></p>
+<p></p>
+<div class="outer1">版权所有：桂林电子科技大学图书馆 电话：(0773)2191353 地址：中国广西桂林金鸡路1号 邮编：541004 </div>
+<p></p></div><!-- End footer BODY section -->
+
+</body></html>

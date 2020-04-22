@@ -1,0 +1,1442 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><link href="Web/img/icon.ico" rel="shortcut icon" /><title>校团委</title><META Name="keywords" Content="校团委" />
+<link rel="stylesheet" href="dfiles/9850/web/css/style1.css" />
+    <script type="text/javascript" src="dfiles/9850/web/js/jquery.js"></script>
+    <script type="text/javascript" src="dfiles/9850/web/js/scroll.js"></script>
+    <script src="dfiles/9850/web/js/script.js" language="JavaScript"></script>
+    <script type="text/javascript" src="dfiles/9850/web/js/index_min.js"></script>
+    <script>
+        if ((screen.width == 1024) && (screen.height == 768)) {
+            document.write("<body background='skins/default/ip.gif'>");
+        }
+        if ((screen.width == 1152) && (screen.height == 864)) {
+            document.write("<body background='skins/default/message.gif'>");
+        }
+    </script>
+    <script>//tab部分JS
+        $(document).ready(function () {
+            $("#content div").hide(); // Initially hide all content
+            $("#tabs li:first").attr("id", "current"); // Activate first tab
+            $("#content div:first").fadeIn(); // Show first tab content
+
+            $('#tabs a').mouseover(function (e) {
+                e.preventDefault();
+                $("#content div").hide(); //Hide all content
+                $("#tabs li").attr("id", ""); //Reset id's
+                $(this).parent().attr("id", "current"); // Activate this
+                $('#' + $(this).attr('title')).fadeIn(); // Show content for current tab
+            });
+        });
+    </script>
+    <script language="JavaScript">
+        $(document).ready(function () {
+            $('.list_lh li:even').addClass('lieven');
+        })
+        $(function () {
+            $("div.list_lh").myScroll({
+                speed: 40, //数值越大，速度越慢
+                rowHeight: 68 //li的高度
+            });
+        });
+    </script>
+    <link rel="stylesheet" href="dfiles/9850/web/dummy-images/orbit-1.2.3.css" />
+    <script type="text/javascript" src="dfiles/9850/web/dummy-images/jquery.orbit-1.2.3.min.js"></script>
+    <script type="text/javascript">
+        $(window).load(function () {
+            $('#featured').orbit();
+        });
+    </script>
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="index.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/vsbscreen.min.js" id="_vsbscreen" devices="pc|mobile|pad"></script>
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1411844460)</script>
+</head>
+<body>
+    <div class="all-web">
+        <div class="header">
+            <div class="badge"></div>
+            <div class="nav">
+                <ul>
+                    <li><a href="">首页</a>
+                    </li>
+                    <li><a href="#">团情快讯</a>
+                        <ul>
+                            <li><a href="info/1022/1012.htm" target="">团委简介</a></li>
+                            <li><a href="info/1022/1013.htm" target="">组织机构</a></li>
+                            <li><a href="tqkx/twdong.htm" target="">团委动态</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="xydo.htm" target="">学院动态 </a>
+                        <ul>
+                            <li><a href="xydo/jdgo.htm" target="">学院团委风采</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="#">社团风采</a>
+                        <ul>
+                            <li><a href="stfc/stjj.htm" target="">社团简介</a></li>
+                            <li><a href="stfc/stdt.htm" target="">社团动态</a></li>
+                        </ul>
+                    </li>
+
+                    <li><a href="#">实践创新</a>
+                        <ul>
+                            <li><a href="sjcx/shsj.htm" target="">社会实践</a></li>
+                            <li><a href="sjcx/cxcy.htm" target="">创新创业</a></li>
+                        </ul>
+                    </li>
+
+                    <li><a href="xia_z/we.htm" target="">文件下载</a></li>
+
+                     <li><a href="http://tw.guet.edu.cn/Web/auditorium_main.aspx" target="_blank">演艺厅</a></li>
+
+                    <li><a href="#">规章制度</a>
+                        <ul>
+                            <li><a href="gzzd/bslc.htm" target="">办事流程</a></li>
+                            <li><a href="gzzd/glzd.htm" target="">管理制度</a></li>
+
+                        </ul>
+                    </li>
+
+                     <li><a href="#">联系我们</a>
+                        <ul>
+                            <li><a href="info/1022/1014.htm" target="">团委电子邮箱</a></li>
+                            <li><a href="info/1022/1015.htm" target="">领导邮箱</a></li>
+                            <li><a href="info/1022/1016.htm" target="">传真</a></li>
+                        </ul>
+                    </li>
+                    <li> 
+                    <div><!--#begineditable name="简单检索" action="webber.wbst.com.news.SearchList" layout="/system/_component/searchlist/tplentry1.jsp" tpltype="1" contype="" clone="" viewid="202741" contentviewid="" tagname="简单检索"-->
+
+
+
+
+
+<form action="search_list.jsp?wbtreeid=1001" method="post" name="a202741a" onsubmit="return subsearchdataa202741a()" style="display: inline;">
+  <input type="hidden" name="Find" value="find"><input type="hidden" name="entrymode" value="1"><input type="hidden" id="INTEXT2" name="INTEXT2" value=""><input type="hidden" name="news_search_code">
+ <table border="0" cellspacing="1" cellpadding="0">
+      <tr>
+           <td Valign="middle" nowrap="nowrap" height="22">
+                  <input type="hidden" name="condition" value="0">   </td><td>
+                <span id="intextspana202741a"></span>
+                <iframe id="intextframea202741a" src="about:blank" scrolling="no" frameborder="0" style="position:absolute;top:0px;left:0px;display:none;"></iframe>
+                <input size="12" name="INTEXT" style="height:22px;border-radius:3px;">
+           </td>
+           <td align="absmiddle" nowrap="nowrap" height="1">
+                    <input type="image" src="dfiles/9850/web/img/search1.png" align="absmiddle" valign="bottom" style="cursor: hand;width:17px;margin-left:5px;">
+
+           </td>
+      </tr>
+ </table>
+</form>
+<script>
+String.prototype.trim= function()       
+{              
+    var t = this.replace(/(^\s*)|(\s*$)/g, "");     
+    return t.replace(/(^　*)|(　*$)/g, "");     
+}  
+function subsearchdataa202741a()
+{ 
+    if(document.a202741a.INTEXT.value.trim()=="")
+    {
+        alert("请输入查询关键字！");
+        return false;
+    }
+    if(checkDataa202741a(document.a202741a))
+    {
+       return true;  
+    }
+    return false;
+}       
+</script>
+
+    <script> 
+    function checkDataa202741a(formname)
+    {
+        if(a202741a.INTEXT.value.trim()=="")
+        {
+            alert("请输入查询关键字！");
+            return false;
+        }       
+        var  base64 = new Base64();
+        if(window.toFF==1)
+            {
+                var ssvalue = a202741a.INTEXT.value;
+                document.a202741a.INTEXT2.value = base64.encode(Simplized(ssvalue));
+            }else
+            document.a202741a.INTEXT2.value = base64.encode(document.a202741a.INTEXT.value);
+           return true;
+    }
+    </script>
+<script language="javascript" src="/system/resource/js/base64.js"></script> 
+<!--#endeditable--></div>
+                        </li>
+                </ul>
+            </div>
+            <div></div>
+        </div>
+        <div class="line"></div>
+        <div class="body">
+            
+            <div class="next">
+                <div class="next-active">
+                    <div class="next-active-tit">
+                        <div class="new-notice">团委动态<a href="tqkx/twdong.htm" target="">更多+</a></div>
+                    </div>
+                    <div class="next-active-con">
+                        <div class="next-active-con-photo">
+                            <div class="next-active-con-photo-all" id="all">
+                                <div class="next-active-con-photo-screen"><!--#begineditable name="banner变换" action="webber.wbst.com.image.ColumnImage" layout="/system/_component/columnimage/bannerchangeimage.jsp" tpltype="0" contype="image" clone="" viewid="200590" contentviewid="" tagname="banner变换"--><style type="text/css">
+ul,li{
+    padding:0;
+    margin:0;
+    list-style:none;}
+#flashBoxu_u1_{
+    width:300px;
+    height:280px;
+    border:0px solid #EEE;
+    position:relative;
+    margin-left: auto;
+    margin-right: auto;}
+#flashBoxu_u1_ img{
+    /*初始不要显示*/
+    display:none;
+    /*用边框来实现空位，因为margin和paading有时会引起些麻烦*/
+    border:0px solid #FFF;}
+#flashBoxu_u1_ ul{
+    position:absolute;
+    right:7px;
+    bottom:3px;
+    font:9px tahoma;}
+#flashBoxu_u1_ ul li{
+    display:block;
+    float:left;
+    width:12px;
+    height:12px;
+    line-height:12px;
+    margin-right:3px;
+    border:0px solid #999;
+    background:#F0F0F0;
+    text-align:center;
+    cursor:pointer;}
+#flashBoxu_u1_ ul li.hover{
+    border-color:red;
+    background:#FFE1E1;
+    color:red;}
+</style>
+<script type="text/javascript">
+function flashBoxCtrl(o){
+    this.obj=document.getElementById(o);
+    //这个私有方法虽然写了，但暂时没用到
+    function addListener(ele,eventName,functionBody){
+        if (ele.attachEvent){
+            ele.attachEvent("on"+eventName, functionBody);
+        }else if (ele.addEventListener){
+            ele.addEventListener("on"+eventName,functionBody, false);
+        }else{
+            return false;
+        }
+    }
+    //初始化
+    this.init=function(){
+        var objImg=this.obj.getElementsByTagName("img");
+        var tagLength=objImg.length;
+        if (tagLength>0){
+            var oUl=document.createElement("ul");
+            oUl.setAttribute("id",o+"numTag");
+            for (var i=0;i<tagLength;i++){
+                var oLi=oUl.appendChild(document.createElement("li"));
+                if (i==0){
+                    oLi.setAttribute("class","hover"); //初始化时把第一个设置为高亮
+                    oLi.setAttribute("className","hover");
+                }
+                //设置标签的数字
+                oLi.appendChild(document.createTextNode((i+1)));
+            }
+            this.obj.appendChild(oUl);
+            objImg[0].style.display="block";
+            //设置标签事件
+            var oTag=this.obj.getElementsByTagName("li");
+            for (var i=0;i<oTag.length;i++){
+                var flag = 0;
+                var temp = 0;
+                var timeout=null;
+                var step = function(){
+                    for (j=0;j<oTag.length;j++){
+                        oTag[j].className="";
+                        objImg[j].style.display="none";
+                    }
+                    this.className="hover";
+                    flag = flag>=oTag.length-1?0:flag+1;
+                    objImg[flag].style.display="block";
+                    oTag[flag].className = "hover";
+                    timeout = setTimeout(step,4000);
+                };
+                oTag[i].onmouseover=function(){
+                    for (j=0;j<oTag.length;j++){
+                        oTag[j].className="";
+                        objImg[j].style.display="none";
+                        temp = j;
+                    }
+                    this.className="hover";
+                    objImg[this.innerHTML-1].style.display="block";
+                    temp = this.innerHTML-1;
+                    flag = i;
+                    clearInterval(timeout);
+                }
+                oTag[i].onmouseout = function(){
+                    for (j=0;j<oTag.length;j++){
+                        oTag[j].className="";
+                        objImg[j].style.display="none";
+                    }
+                    flag = temp;
+                    objImg[temp].style.display="block";
+                    oTag[temp].className = "hover";
+                    timeout = setTimeout(step,4000);
+                }
+                if(i==0)
+                {
+                    timeout = setTimeout(step,4000);
+                }
+            }
+        }
+    };
+    //自动滚动的方法还没写
+    this.imgRoll=function(){};
+    //生成对象时自动加载init()方法以初始化对象
+    this.init();
+}
+</script>
+<table cellspacing="0" cellpadding="0" border="0"><tr><td><div id="flashBoxu_u1_"><img src="dfiles/9850/web/upload/image/101.jpg" border="0" width="300" height="280" /><img src="dfiles/9850/web/upload/image/102.jpg" border="0" width="300" height="280" /></div></td></tr></table><SCRIPT language="JavaScript">new flashBoxCtrl("flashBoxu_u1_");</SCRIPT><!--#endeditable--></div>
+                                <ol>
+                                </ol>
+                            </div>
+                        </div>
+                        <div class="next-active-con-new"><!--#begineditable name="团委动态" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/tpltitlelist.jsp" tpltype="1" contype="news" clone="" viewid="200378" contentviewid="" tagname="团委动态"--><script language="javascript" src="/system/resource/js/dynclicks.js"></script><div class="new-content">
+                                <ul>
+                                    
+                                    
+<li>
+                                        <a href="info/1043/2782.htm" target="_blank" title="关于我校申报2019年度“桂林市优秀共青团员”“桂林市优秀共青团干部”“桂林市五四红旗团委（团支部）”推荐名单的公示">关于我校申报2019年度“桂林市优秀共青团员”“…</a><span style="float: right;">[04-13]</span>
+                                    </li>
+                                    
+                                    
+<li>
+                                        <a href="info/1043/2774.htm" target="_blank" title="“千校万岗·就业有位来”广西专场 （桂林站）——2020届高校毕业生春季空中双选会邀请函">“千校万岗·就业有位来”广西专场 （桂林站）—…</a><span style="float: right;">[04-07]</span>
+                                    </li>
+                                    
+                                    
+<li>
+                                        <a href="info/1043/2771.htm" target="_blank" title="云祭祀，表哀思——校团委组织团员青年开展线上祭祀活动">云祭祀，表哀思——校团委组织团员青年开展线上…</a><span style="float: right;">[04-05]</span>
+                                    </li>
+                                    
+                                    
+<li>
+                                        <a href="info/1043/2772.htm" target="_blank" title="【战“疫”专栏】战“疫”先锋，团青出列">【战“疫”专栏】战“疫”先锋，团青出列</a><span style="float: right;">[04-03]</span>
+                                    </li>
+                                    
+                                    
+<li>
+                                        <a href="info/1043/2766.htm" target="_blank" title="校长徐华蕊到大学生活动中心调研">校长徐华蕊到大学生活动中心调研</a><span style="float: right;">[03-31]</span>
+                                    </li>
+                                    
+                                    
+<li>
+                                        <a href="info/1043/2764.htm" target="_blank" title="校团委牵头召开学校60周年校庆晚会节目筹备专题会议">校团委牵头召开学校60周年校庆晚会节目筹备专题…</a><span style="float: right;">[03-23]</span>
+                                    </li>
+                                    
+                                    
+<li>
+                                        <a href="info/1043/2756.htm" target="_blank" title="青春战役 有你有我 ——关于疫情期间开展“学雷锋”活动的倡议">青春战役 有你有我 ——关于疫情期间开展“学雷…</a><span style="float: right;">[03-05]</span>
+                                    </li>
+                                    
+                                    
+</ul>
+                            </div><script>_showDynClickBatch(['dynclicks_u2_2782','dynclicks_u2_2774','dynclicks_u2_2771','dynclicks_u2_2772','dynclicks_u2_2766','dynclicks_u2_2764','dynclicks_u2_2756'],[2782,2774,2771,2772,2766,2764,2756],"wbnews", 1411844460)</script>
+<!--#endeditable--></div>
+                    </div>
+                </div>
+                <div class="notice-roll">
+                    <div class="box">
+                        <div class="bcon">
+                            <div class="new-title">
+                                <div class="new-notice">团内通知<a href="tntz.htm" target="">更多+</a></div>
+                            </div>
+                            
+                            <div><!--#begineditable name="团内通知" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/tpltitlelist.jsp" tpltype="1" contype="news" clone="" viewid="200384" contentviewid="" tagname="团内通知"--><div class="list_lh">
+                                <div class="notice-roll-new-content"><ul style="width:100%">
+                                        
+                                        
+<li>
+                                            <a href="info/1003/2781.htm" target="_blank" title="关于我校申报2019年度“桂林市优秀共青团员”“桂林市优秀共青团干部”“桂林市五四红旗团委（团支部）”推荐名单的公示">关于我校申报2019年度“桂林市优秀共青团员”“桂林…</a><span style="float: right;">[04-13]</span>
+                                        </li>
+                                        
+                                        
+<li>
+                                            <a href="info/1003/2775.htm" target="_blank" title="关于推荐2020年广西高校共青团“第二课堂成绩单”精品课程的公示">关于推荐2020年广西高校共青团“第二课堂成绩单”精…</a><span style="float: right;">[04-07]</span>
+                                        </li>
+                                        
+                                        
+<li>
+                                            <a href="info/1003/2773.htm" target="_blank" title="“千校万岗·就业有位来”广西专场 （桂林站）——2020届高校毕业生春季空中双选会邀请函">“千校万岗·就业有位来”广西专场 （桂林站）——20…</a><span style="float: right;">[04-07]</span>
+                                        </li>
+                                        
+                                        
+<li>
+                                            <a href="info/1003/2755.htm" target="_blank" title="青春战役 有你有我 ——关于疫情期间开展“学雷锋”活动的倡议">青春战役 有你有我 ——关于疫情期间开展“学雷锋”…</a><span style="float: right;">[03-05]</span>
+                                        </li>
+                                        
+                                        
+<li>
+                                            <a href="info/1003/2752.htm" target="_blank" title="关于我校申报首届广西青少年科技创新自治区主席奖（含主席提名奖）推荐名单的公示">关于我校申报首届广西青少年科技创新自治区主席奖（…</a><span style="float: right;">[02-26]</span>
+                                        </li>
+                                        
+                                        
+<li>
+                                            <a href="info/1003/2734.htm" target="_blank" title="关于组织高校青年志愿者开展“与抗疫一线医务人员家庭手拉手专项志愿服务”的工作建议和指引">关于组织高校青年志愿者开展“与抗疫一线医务人员家…</a><span style="float: right;">[02-14]</span>
+                                        </li>
+                                        
+                                        
+<li>
+                                            <a href="info/1003/2721.htm" target="_blank" title="桂林电子科技大学新型冠状病毒感染的肺炎疫情防控工作领导小组通告（第4号）">桂林电子科技大学新型冠状病毒感染的肺炎疫情防控工…</a><span style="float: right;">[02-13]</span>
+                                        </li>
+                                        
+                                        
+<li>
+                                            <a href="info/1003/2720.htm" target="_blank" title="桂林电子科技大学新型冠状病毒感染的肺炎疫情防控工作领导小组通告（第3号）">桂林电子科技大学新型冠状病毒感染的肺炎疫情防控工…</a><span style="float: right;">[02-11]</span>
+                                        </li>
+                                        
+                                        
+</ul></div>
+                            </div><script>_showDynClickBatch(['dynclicks_u3_2781','dynclicks_u3_2775','dynclicks_u3_2773','dynclicks_u3_2755','dynclicks_u3_2752','dynclicks_u3_2734','dynclicks_u3_2721','dynclicks_u3_2720'],[2781,2775,2773,2755,2752,2734,2721,2720],"wbnews", 1411844460)</script>
+<!--#endeditable--></div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="link"><a href="#"></a></div>
+
+            <div class="all-new">
+                <div class="new">
+                    <div class="new-title">
+                        <div class="new-notice">社会实践<a href="sjcx/shsj.htm" target="">更多+</a></div>
+                    </div>
+                    <div class="new-content"><!--#begineditable name="社会实践" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/tpltitlelist.jsp" tpltype="1" contype="news" clone="" viewid="200385" contentviewid="" tagname="社会实践"--><ul>
+                            
+                            
+<li>
+      <a href="info/1027/2004.htm" target="_blank" title="桂林电子科技大学暑期“三下乡”防溺水安全教育活动">桂林电子科技大学暑期“三下乡”防溺水安全教育活动</a><span style="float: right;">[07-05]</span>
+ </li>
+                            
+                            
+<li>
+      <a href="info/1027/2006.htm" target="_blank" title="关于桂林电子科技大学2019年“三下乡”社会实践活动申报全国及自治区重点团队推荐名单公示">关于桂林电子科技大学2019年“三下乡”社会实践活…</a><span style="float: right;">[06-22]</span>
+ </li>
+                            
+                            
+<li>
+      <a href="info/1027/2008.htm" target="_blank" title="关于开展“迎六十华诞 传桂电精神”寻访优秀校友暑期社会实践专项活动的通知">关于开展“迎六十华诞 传桂电精神”寻访优秀校友…</a><span style="float: right;">[06-06]</span>
+ </li>
+                            
+                            
+<li>
+      <a href="info/1027/2009.htm" target="_blank" title="关于开展“相约桂电 励志起航”优秀学子母校回访暑期社会实践专项活动的通知">关于开展“相约桂电 励志起航”优秀学子母校回访…</a><span style="float: right;">[06-06]</span>
+ </li>
+                            
+                            
+<li>
+      <a href="info/1027/1782.htm" target="_blank" title="2018年桂林电子科技大学 大学生暑期“三下乡”社会实践活动的通报名单公示">2018年桂林电子科技大学 大学生暑期“三下乡”社…</a><span style="float: right;">[12-05]</span>
+ </li>
+                            
+                            
+</ul><script>_showDynClickBatch(['dynclicks_u4_2004','dynclicks_u4_2006','dynclicks_u4_2008','dynclicks_u4_2009','dynclicks_u4_1782'],[2004,2006,2008,2009,1782],"wbnews", 1411844460)</script>
+<!--#endeditable--></div>
+                </div>
+                <div class="new">
+                    <div class="new-title">
+                        <div class="new-notice">创新创业<a href="sjcx/cxcy.htm" target="">更多+</a></div>
+                    </div>
+                    <div class="new-content"><!--#begineditable name="创新创业" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/tpltitlelist.jsp" tpltype="1" contype="news" clone="" viewid="200386" contentviewid="" tagname="创新创业"--><ul>
+                            
+                            
+<li>
+                                <a href="info/1028/2010.htm" target="_blank" title="关于2019年大学生创新创业年会遴选的通知">关于2019年大学生创新创业年会遴选</a><span style="float: right;">[07-04]</span>
+                            </li>
+                            
+                            
+<li>
+                                <a href="info/1028/2011.htm" target="_blank" title="关于我校第十六届“挑战杯”全国大学生课外学术科技作品竞赛拟推送国赛项目更改的公示">关于我校第十六届“挑战杯”全国大</a><span style="float: right;">[07-01]</span>
+                            </li>
+                            
+                            
+<li>
+                                <a href="info/1028/2012.htm" target="_blank" title="关于我校参加第十六届“挑战杯”全国大学生课外学术作品竞赛作品名单的公示">关于我校参加第十六届“挑战杯”全</a><span style="float: right;">[06-25]</span>
+                            </li>
+                            
+                            
+<li>
+                                <a href="info/1028/2013.htm" target="_blank" title="关于公布推荐第五届中国“互联网+”大学生创新创业大赛广西赛区选拔赛青年红色筑梦之旅赛道项目的通知">关于公布推荐第五届中国“互联网+</a><span style="float: right;">[06-18]</span>
+                            </li>
+                            
+                            
+<li>
+                                <a href="info/1028/2014.htm" target="_blank" title="关于举办2019年学校“互联网+”大学生创新创业大赛青年红色筑梦之旅赛道现场决赛的通知">关于举办2019年学校“互联网+”大</a><span style="float: right;">[06-10]</span>
+                            </li>
+                            
+                            
+</ul><script>_showDynClickBatch(['dynclicks_u5_2010','dynclicks_u5_2011','dynclicks_u5_2012','dynclicks_u5_2013','dynclicks_u5_2014'],[2010,2011,2012,2013,2014],"wbnews", 1411844460)</script>
+<!--#endeditable--></div>
+                </div>
+                <div class="plan" style="text-align: center;">
+                    <ul>
+                        <li><a href="yxyzzl/yxyzdt.htm" target="">一学一做专栏      </a></li>
+                        <li><a href="xsgbsztsjh/xsgbsztsdt.htm" target="">学生干部素质提升计划        </a></li>
+                        <li><a href="tzbhltsjh/tzbhltsdt.htm" target="">团支部活力提升计划         </a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="line"></div>
+            <div class="body-bottom">
+                <div class="body-bottom-tab">
+                    <ul id="tabs" style="font-size: 16px;">
+                        <li title="机电工程学院"><a href="xydo/jdgo.htm" title="机电工程学院" target="">机电工程</a></li>
+                        <li title="信息与通信学院"><a href="xydo/xxytxxy.htm" title="信息与通信学院" target="">信息与通信</a></li>
+                        <li title="计算机与信息安全学院"><a href="xydo/jsjyxxaqxy.htm" title="计算机与信息安全学院" target="">计算机与信息安全</a></li>
+                        <li title="艺术与设计学院"><a href="xydo/ysysjxy.htm" title="艺术与设计学院" target="">艺术与设计</a></li>
+                    </ul>
+                    <a class="a_college" href="xydo/jdgo.htm" target="">更多>></a>
+                    <div id="content">
+                        <div id="机电工程学院" class="tab-content"><!--#begineditable name="机电工程" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/tpltitlelist.jsp" tpltype="1" contype="news" clone="" viewid="200486" contentviewid="" tagname="机电工程"--><ul>
+                                
+                                
+<li>
+                                    <a href="info/1008/1276.htm" target="_blank" title="魅力宣讲|魅力之星主题宣讲——第一期">魅力宣讲|魅力之星主题宣讲——第一期</a><span style="float: right;">[03-04]</span>
+                                </li>
+                                
+                                
+<li>
+                                    <a href="info/1008/1275.htm" target="_blank" title="魅力宣讲|魅力之星主题宣讲——第一期">机电工程学院党委召开理论学习会</a><span style="float: right;">[01-02]</span>
+                                </li>
+                                
+                                
+<li>
+                                    <a href="info/1008/1274.htm" target="_blank" title="魅力宣讲|魅力之星主题宣讲——第一期">机电工程学院|2019元旦晚会圆满落幕</a><span style="float: right;">[12-26]</span>
+                                </li>
+                                
+                                
+<li>
+                                    <a href="info/1008/1273.htm" target="_blank" title="魅力宣讲|魅力之星主题宣讲——第一期">晨曦志愿行动|寒冬送暖，情系老者</a><span style="float: right;">[12-13]</span>
+                                </li>
+                                
+                                
+<li>
+                                    <a href="info/1008/1272.htm" target="_blank" title="魅力宣讲|魅力之星主题宣讲——第一期">2017年度“延榜样路，踏新征程”魅力之</a><span style="float: right;">[12-08]</span>
+                                </li>
+                                
+                                
+</ul><script>_showDynClickBatch(['dynclicks_u6_1276','dynclicks_u6_1275','dynclicks_u6_1274','dynclicks_u6_1273','dynclicks_u6_1272'],[1276,1275,1274,1273,1272],"wbnews", 1411844460)</script>
+<!--#endeditable--></div>
+                        <div id="信息与通信学院" class="tab-content"><!--#begineditable name="信息与通信" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/tpltitlelist.jsp" tpltype="1" contype="news" clone="" viewid="200487" contentviewid="" tagname="信息与通信"--><ul>
+                                
+                                
+<li>
+                                    <a href="info/1009/1399.htm" target="_blank" title="信息与通信学院团委学生会团建活动">信息与通信学院团委学生会团建活动</a><span style="float: right;">[11-28]</span>
+                                </li>
+                                
+                                
+<li>
+                                    <a href="info/1009/1398.htm" target="_blank" title="信息与通信学院团委学生会团建活动">桂电话剧大赛 | 剧星风采，且看舆</a><span style="float: right;">[11-23]</span>
+                                </li>
+                                
+                                
+<li>
+                                    <a href="info/1009/1397.htm" target="_blank" title="信息与通信学院团委学生会团建活动">信息与通信学院“爱心义卖”活动</a><span style="float: right;">[11-03]</span>
+                                </li>
+                                
+                                
+<li>
+                                    <a href="info/1009/1396.htm" target="_blank" title="信息与通信学院团委学生会团建活动">信息与通信学院2018年“乐动今朝 </a><span style="float: right;">[10-28]</span>
+                                </li>
+                                
+                                
+<li>
+                                    <a href="info/1009/1395.htm" target="_blank" title="信息与通信学院团委学生会团建活动">信息与通信学院举办第二期校友交流</a><span style="float: right;">[10-12]</span>
+                                </li>
+                                
+                                
+</ul><script>_showDynClickBatch(['dynclicks_u7_1399','dynclicks_u7_1398','dynclicks_u7_1397','dynclicks_u7_1396','dynclicks_u7_1395'],[1399,1398,1397,1396,1395],"wbnews", 1411844460)</script>
+<!--#endeditable--></div>
+                        <div id="计算机与信息安全学院" class="tab-content"><!--#begineditable name="计算机与信息安全" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/tpltitlelist.jsp" tpltype="1" contype="news" clone="" viewid="200488" contentviewid="" tagname="计算机与信息安全"--><ul>
+                                
+                                
+<li>
+                                    <a href="info/1010/1486.htm" target="_blank" title="计算机与信息安全学院2018年新生杯篮球赛落幕（图）">计算机与信息安全学院2018年新生杯篮球赛落幕（图）</a><span style="float: right;">[12-07]</span>
+                                </li>
+                                
+                                
+<li>
+                                    <a href="info/1010/1484.htm" target="_blank" title="计算机与信息安全学院2018年新生杯篮球赛落幕（图）">计算机与信息安全学院举办新生杯羽毛球比赛（图）</a><span style="float: right;">[12-06]</span>
+                                </li>
+                                
+                                
+<li>
+                                    <a href="info/1010/1483.htm" target="_blank" title="计算机与信息安全学院2018年新生杯篮球赛落幕（图）">计算机与信息安全学院组织走访就业单位（图）</a><span style="float: right;">[12-04]</span>
+                                </li>
+                                
+                                
+<li>
+                                    <a href="info/1010/1481.htm" target="_blank" title="计算机与信息安全学院2018年新生杯篮球赛落幕（图）">计算机与信息安全学院召开工程专业认证动员大会（图</a><span style="float: right;">[12-03]</span>
+                                </li>
+                                
+                                
+<li>
+                                    <a href="info/1010/1479.htm" target="_blank" title="计算机与信息安全学院2018年新生杯篮球赛落幕（图）">计算机与信息安全学院院长常亮为学院教职工党员上党</a><span style="float: right;">[12-03]</span>
+                                </li>
+                                
+                                
+</ul><script>_showDynClickBatch(['dynclicks_u8_1486','dynclicks_u8_1484','dynclicks_u8_1483','dynclicks_u8_1481','dynclicks_u8_1479'],[1486,1484,1483,1481,1479],"wbnews", 1411844460)</script>
+<!--#endeditable--></div>
+                        <div id="艺术与设计学院" class="tab-content"><!--#begineditable name="艺术与设计" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/tpltitlelist.jsp" tpltype="1" contype="news" clone="" viewid="200489" contentviewid="" tagname="艺术与设计"--><ul>
+                                
+                                
+<li>
+                                    <a href="info/1011/2021.htm" target="_blank" title="艺术与设计学院马红副教授举办 “吉祥中国红——马红剪纸艺术作品展”">艺术与设计学院举办2019年田径运动会</a><span style="float: right;">[09-28]</span>
+                                </li>
+                                
+                                
+<li>
+                                    <a href="info/1011/2039.htm" target="_blank" title="艺术与设计学院马红副教授举办 “吉祥中国红——马红剪纸艺术作品展”">遇见团扇——桂林传统工艺振兴计划团队在行动</a><span style="float: right;">[09-27]</span>
+                                </li>
+                                
+                                
+<li>
+                                    <a href="info/1011/2022.htm" target="_blank" title="艺术与设计学院马红副教授举办 “吉祥中国红——马红剪纸艺术作品展”">艺术与设计学院召开2019级新生见面会暨专业认知教育会</a><span style="float: right;">[09-27]</span>
+                                </li>
+                                
+                                
+<li>
+                                    <a href="info/1011/2023.htm" target="_blank" title="艺术与设计学院马红副教授举办 “吉祥中国红——马红剪纸艺术作品展”">艺术与设计学院学生作品在第三届“全国大学生网络文化节’喜获佳绩</a><span style="float: right;">[09-20]</span>
+                                </li>
+                                
+                                
+<li>
+                                    <a href="info/1011/2024.htm" target="_blank" title="艺术与设计学院马红副教授举办 “吉祥中国红——马红剪纸艺术作品展”">艺术与设计学院“D+工作室”受邀参加“东西巷·陶乐集”中秋创意集市活…</a><span style="float: right;">[09-15]</span>
+                                </li>
+                                
+                                
+</ul><script>_showDynClickBatch(['dynclicks_u9_2021','dynclicks_u9_2039','dynclicks_u9_2022','dynclicks_u9_2023','dynclicks_u9_2024'],[2021,2039,2022,2023,2024],"wbnews", 1411844460)</script>
+<!--#endeditable--></div>
+                    </div>
+                </div>
+                <div class="download">
+                    <div class="download-til">下载专区<a href="xia_z/we.htm" target="">更多>></a></div>
+                    <div class="dowload-content"><!--#begineditable name="下载专区" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/tpltitlelist.jsp" tpltype="1" contype="news" clone="" viewid="200485" contentviewid="" tagname="下载专区"--><ul>
+                            
+                            
+<li>
+                                <a href="info/1041/2005.htm" target="_blank" title="共青团桂林电子科技大学委员会  2019 年工作要点"><span style="color: #D81513;">&gt;&gt;</span>关于印发《桂林电子科技大学学生社团…</a><span style="float: right;">[05-23]</span>
+                            </li>
+                            
+                            
+<li>
+                                <a href="info/1041/1865.htm" target="_blank" title="共青团桂林电子科技大学委员会  2019 年工作要点"><span style="color: #D81513;">&gt;&gt;</span>大学生演艺厅管理办法</a><span style="float: right;">[04-17]</span>
+                            </li>
+                            
+                            
+<li>
+                                <a href="info/1041/1864.htm" target="_blank" title="共青团桂林电子科技大学委员会  2019 年工作要点"><span style="color: #D81513;">&gt;&gt;</span>大学生演艺厅内部搭建舞台架申请单</a><span style="float: right;">[04-17]</span>
+                            </li>
+                            
+                            
+<li>
+                                <a href="info/1041/1863.htm" target="_blank" title="共青团桂林电子科技大学委员会  2019 年工作要点"><span style="color: #D81513;">&gt;&gt;</span>共青团桂林电子科技大学委员会  2019…</a><span style="float: right;">[03-25]</span>
+                            </li>
+                            
+                            
+<li>
+                                <a href="info/1041/1862.htm" target="_blank" title="共青团桂林电子科技大学委员会  2019 年工作要点"><span style="color: #D81513;">&gt;&gt;</span>关于举办第十三届校园舞蹈大赛的通知</a><span style="float: right;">[03-21]</span>
+                            </li>
+                            
+                            
+</ul><script>_showDynClickBatch(['dynclicks_u10_2005','dynclicks_u10_1865','dynclicks_u10_1864','dynclicks_u10_1863','dynclicks_u10_1862'],[2005,1865,1864,1863,1862],"wbnews", 1411844460)</script>
+<!--#endeditable--></div>
+                </div>
+            </div>
+            <div class="friendly-link">
+                <div class="friendly-link-tit">友情链接:</div>
+                <ul>
+                    
+                    <li><a href="http://www.guet.edu.cn/extGuetWeb" target="_blank">校主页</a></li>
+                    
+                    <li><a href="http://xsgzc.guet.edu.cn/" target="_blank">学工处</a></li>
+                    
+                    <li><a href="http://www.ccyl.org.cn/" target="_blank">中国共青团网</a></li>
+                    
+                </ul>
+            </div>
+            <div class="webo">
+                <ul class="webo-link">
+                    <li><a href="https://weibo.com/guetgqt" target="_blank">官方微博</a></li>
+                    <li><a href="javascript:void(0);" id="wechat">官方微信 </a></li>
+                    <li><a href="http://gliet.gx.qnzs.youth.cn/" target="_blank">青年之声</a></li>
+                    <li><a href="javascript:void(0);">新媒体联盟</a></li>
+                </ul>
+            </div>
+            <script>
+                function search() {
+                    var key = $("#key").val();
+                    location.href = "Web/news_search_list.aspx?key="+key;
+                }
+                $(document).ready(function () {
+                    $("#wechat").hover(function () {
+                        $("#wechat_img").show();
+                    });
+                    $("#wechat").mouseout(function () {
+                        $("#wechat_img").hide();
+                    });
+                });
+            </script>
+        </div>
+    </div>
+    <div class="footer">
+        <div class="line"></div>
+        <div class="footer-bottom">
+            <p>
+                Copyright ©共青团桂林电子科技大学委员会<br />
+                校址:中国广西桂林市七星区金鸡路1号    邮编:541004
+                <br />
+                桂林电子科技大学 团委 网络中心 审核通过
+                <br />
+                <a href="http://mwb.guet.edu.cn/system/login.jsp" target="_blank" style="color: white;">后台管理</a>
+            </p>
+        </div>
+    </div>
+</body>
+</html>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><link href="Web/img/icon.ico" rel="shortcut icon" /><title>校团委</title><META Name="keywords" Content="校团委" />
+<link rel="stylesheet" href="dfiles/9850/web/css/style1.css" />
+    <script type="text/javascript" src="dfiles/9850/web/js/jquery.js"></script>
+    <script type="text/javascript" src="dfiles/9850/web/js/scroll.js"></script>
+    <script src="dfiles/9850/web/js/script.js" language="JavaScript"></script>
+    <script type="text/javascript" src="dfiles/9850/web/js/index_min.js"></script>
+    <script>
+        if ((screen.width == 1024) && (screen.height == 768)) {
+            document.write("<body background='skins/default/ip.gif'>");
+        }
+        if ((screen.width == 1152) && (screen.height == 864)) {
+            document.write("<body background='skins/default/message.gif'>");
+        }
+    </script>
+    <script>//tab部分JS
+        $(document).ready(function () {
+            $("#content div").hide(); // Initially hide all content
+            $("#tabs li:first").attr("id", "current"); // Activate first tab
+            $("#content div:first").fadeIn(); // Show first tab content
+
+            $('#tabs a').mouseover(function (e) {
+                e.preventDefault();
+                $("#content div").hide(); //Hide all content
+                $("#tabs li").attr("id", ""); //Reset id's
+                $(this).parent().attr("id", "current"); // Activate this
+                $('#' + $(this).attr('title')).fadeIn(); // Show content for current tab
+            });
+        });
+    </script>
+    <script language="JavaScript">
+        $(document).ready(function () {
+            $('.list_lh li:even').addClass('lieven');
+        })
+        $(function () {
+            $("div.list_lh").myScroll({
+                speed: 40, //数值越大，速度越慢
+                rowHeight: 68 //li的高度
+            });
+        });
+    </script>
+    <link rel="stylesheet" href="dfiles/9850/web/dummy-images/orbit-1.2.3.css" />
+    <script type="text/javascript" src="dfiles/9850/web/dummy-images/jquery.orbit-1.2.3.min.js"></script>
+    <script type="text/javascript">
+        $(window).load(function () {
+            $('#featured').orbit();
+        });
+    </script>
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="index.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/vsbscreen.min.js" id="_vsbscreen" devices="pc|mobile|pad"></script>
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1411844460)</script>
+</head>
+<body>
+    <div class="all-web">
+        <div class="header">
+            <div class="badge"></div>
+            <div class="nav">
+                <ul>
+                    <li><a href="">首页</a>
+                    </li>
+                    <li><a href="#">团情快讯</a>
+                        <ul>
+                            <li><a href="info/1022/1012.htm" target="">团委简介</a></li>
+                            <li><a href="info/1022/1013.htm" target="">组织机构</a></li>
+                            <li><a href="tqkx/twdong.htm" target="">团委动态</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="xydo.htm" target="">学院动态 </a>
+                        <ul>
+                            <li><a href="xydo/jdgo.htm" target="">学院团委风采</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="#">社团风采</a>
+                        <ul>
+                            <li><a href="stfc/stjj.htm" target="">社团简介</a></li>
+                            <li><a href="stfc/stdt.htm" target="">社团动态</a></li>
+                        </ul>
+                    </li>
+
+                    <li><a href="#">实践创新</a>
+                        <ul>
+                            <li><a href="sjcx/shsj.htm" target="">社会实践</a></li>
+                            <li><a href="sjcx/cxcy.htm" target="">创新创业</a></li>
+                        </ul>
+                    </li>
+
+                    <li><a href="xia_z/we.htm" target="">文件下载</a></li>
+
+                     <li><a href="http://tw.guet.edu.cn/Web/auditorium_main.aspx" target="_blank">演艺厅</a></li>
+
+                    <li><a href="#">规章制度</a>
+                        <ul>
+                            <li><a href="gzzd/bslc.htm" target="">办事流程</a></li>
+                            <li><a href="gzzd/glzd.htm" target="">管理制度</a></li>
+
+                        </ul>
+                    </li>
+
+                     <li><a href="#">联系我们</a>
+                        <ul>
+                            <li><a href="info/1022/1014.htm" target="">团委电子邮箱</a></li>
+                            <li><a href="info/1022/1015.htm" target="">领导邮箱</a></li>
+                            <li><a href="info/1022/1016.htm" target="">传真</a></li>
+                        </ul>
+                    </li>
+                    <li> 
+                    <div><!--#begineditable name="简单检索" action="webber.wbst.com.news.SearchList" layout="/system/_component/searchlist/tplentry1.jsp" tpltype="1" contype="" clone="" viewid="202741" contentviewid="" tagname="简单检索"-->
+
+
+
+
+
+<form action="search_list.jsp?wbtreeid=1001" method="post" name="a202741a" onsubmit="return subsearchdataa202741a()" style="display: inline;">
+  <input type="hidden" name="Find" value="find"><input type="hidden" name="entrymode" value="1"><input type="hidden" id="INTEXT2" name="INTEXT2" value=""><input type="hidden" name="news_search_code">
+ <table border="0" cellspacing="1" cellpadding="0">
+      <tr>
+           <td Valign="middle" nowrap="nowrap" height="22">
+                  <input type="hidden" name="condition" value="0">   </td><td>
+                <span id="intextspana202741a"></span>
+                <iframe id="intextframea202741a" src="about:blank" scrolling="no" frameborder="0" style="position:absolute;top:0px;left:0px;display:none;"></iframe>
+                <input size="12" name="INTEXT" style="height:22px;border-radius:3px;">
+           </td>
+           <td align="absmiddle" nowrap="nowrap" height="1">
+                    <input type="image" src="dfiles/9850/web/img/search1.png" align="absmiddle" valign="bottom" style="cursor: hand;width:17px;margin-left:5px;">
+
+           </td>
+      </tr>
+ </table>
+</form>
+<script>
+String.prototype.trim= function()       
+{              
+    var t = this.replace(/(^\s*)|(\s*$)/g, "");     
+    return t.replace(/(^　*)|(　*$)/g, "");     
+}  
+function subsearchdataa202741a()
+{ 
+    if(document.a202741a.INTEXT.value.trim()=="")
+    {
+        alert("请输入查询关键字！");
+        return false;
+    }
+    if(checkDataa202741a(document.a202741a))
+    {
+       return true;  
+    }
+    return false;
+}       
+</script>
+
+    <script> 
+    function checkDataa202741a(formname)
+    {
+        if(a202741a.INTEXT.value.trim()=="")
+        {
+            alert("请输入查询关键字！");
+            return false;
+        }       
+        var  base64 = new Base64();
+        if(window.toFF==1)
+            {
+                var ssvalue = a202741a.INTEXT.value;
+                document.a202741a.INTEXT2.value = base64.encode(Simplized(ssvalue));
+            }else
+            document.a202741a.INTEXT2.value = base64.encode(document.a202741a.INTEXT.value);
+           return true;
+    }
+    </script>
+<script language="javascript" src="/system/resource/js/base64.js"></script> 
+<!--#endeditable--></div>
+                        </li>
+                </ul>
+            </div>
+            <div></div>
+        </div>
+        <div class="line"></div>
+        <div class="body">
+            
+            <div class="next">
+                <div class="next-active">
+                    <div class="next-active-tit">
+                        <div class="new-notice">团委动态<a href="tqkx/twdong.htm" target="">更多+</a></div>
+                    </div>
+                    <div class="next-active-con">
+                        <div class="next-active-con-photo">
+                            <div class="next-active-con-photo-all" id="all">
+                                <div class="next-active-con-photo-screen"><!--#begineditable name="banner变换" action="webber.wbst.com.image.ColumnImage" layout="/system/_component/columnimage/bannerchangeimage.jsp" tpltype="0" contype="image" clone="" viewid="200590" contentviewid="" tagname="banner变换"--><style type="text/css">
+ul,li{
+    padding:0;
+    margin:0;
+    list-style:none;}
+#flashBoxu_u1_{
+    width:300px;
+    height:280px;
+    border:0px solid #EEE;
+    position:relative;
+    margin-left: auto;
+    margin-right: auto;}
+#flashBoxu_u1_ img{
+    /*初始不要显示*/
+    display:none;
+    /*用边框来实现空位，因为margin和paading有时会引起些麻烦*/
+    border:0px solid #FFF;}
+#flashBoxu_u1_ ul{
+    position:absolute;
+    right:7px;
+    bottom:3px;
+    font:9px tahoma;}
+#flashBoxu_u1_ ul li{
+    display:block;
+    float:left;
+    width:12px;
+    height:12px;
+    line-height:12px;
+    margin-right:3px;
+    border:0px solid #999;
+    background:#F0F0F0;
+    text-align:center;
+    cursor:pointer;}
+#flashBoxu_u1_ ul li.hover{
+    border-color:red;
+    background:#FFE1E1;
+    color:red;}
+</style>
+<script type="text/javascript">
+function flashBoxCtrl(o){
+    this.obj=document.getElementById(o);
+    //这个私有方法虽然写了，但暂时没用到
+    function addListener(ele,eventName,functionBody){
+        if (ele.attachEvent){
+            ele.attachEvent("on"+eventName, functionBody);
+        }else if (ele.addEventListener){
+            ele.addEventListener("on"+eventName,functionBody, false);
+        }else{
+            return false;
+        }
+    }
+    //初始化
+    this.init=function(){
+        var objImg=this.obj.getElementsByTagName("img");
+        var tagLength=objImg.length;
+        if (tagLength>0){
+            var oUl=document.createElement("ul");
+            oUl.setAttribute("id",o+"numTag");
+            for (var i=0;i<tagLength;i++){
+                var oLi=oUl.appendChild(document.createElement("li"));
+                if (i==0){
+                    oLi.setAttribute("class","hover"); //初始化时把第一个设置为高亮
+                    oLi.setAttribute("className","hover");
+                }
+                //设置标签的数字
+                oLi.appendChild(document.createTextNode((i+1)));
+            }
+            this.obj.appendChild(oUl);
+            objImg[0].style.display="block";
+            //设置标签事件
+            var oTag=this.obj.getElementsByTagName("li");
+            for (var i=0;i<oTag.length;i++){
+                var flag = 0;
+                var temp = 0;
+                var timeout=null;
+                var step = function(){
+                    for (j=0;j<oTag.length;j++){
+                        oTag[j].className="";
+                        objImg[j].style.display="none";
+                    }
+                    this.className="hover";
+                    flag = flag>=oTag.length-1?0:flag+1;
+                    objImg[flag].style.display="block";
+                    oTag[flag].className = "hover";
+                    timeout = setTimeout(step,4000);
+                };
+                oTag[i].onmouseover=function(){
+                    for (j=0;j<oTag.length;j++){
+                        oTag[j].className="";
+                        objImg[j].style.display="none";
+                        temp = j;
+                    }
+                    this.className="hover";
+                    objImg[this.innerHTML-1].style.display="block";
+                    temp = this.innerHTML-1;
+                    flag = i;
+                    clearInterval(timeout);
+                }
+                oTag[i].onmouseout = function(){
+                    for (j=0;j<oTag.length;j++){
+                        oTag[j].className="";
+                        objImg[j].style.display="none";
+                    }
+                    flag = temp;
+                    objImg[temp].style.display="block";
+                    oTag[temp].className = "hover";
+                    timeout = setTimeout(step,4000);
+                }
+                if(i==0)
+                {
+                    timeout = setTimeout(step,4000);
+                }
+            }
+        }
+    };
+    //自动滚动的方法还没写
+    this.imgRoll=function(){};
+    //生成对象时自动加载init()方法以初始化对象
+    this.init();
+}
+</script>
+<table cellspacing="0" cellpadding="0" border="0"><tr><td><div id="flashBoxu_u1_"><img src="dfiles/9850/web/upload/image/101.jpg" border="0" width="300" height="280" /><img src="dfiles/9850/web/upload/image/102.jpg" border="0" width="300" height="280" /></div></td></tr></table><SCRIPT language="JavaScript">new flashBoxCtrl("flashBoxu_u1_");</SCRIPT><!--#endeditable--></div>
+                                <ol>
+                                </ol>
+                            </div>
+                        </div>
+                        <div class="next-active-con-new"><!--#begineditable name="团委动态" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/tpltitlelist.jsp" tpltype="1" contype="news" clone="" viewid="200378" contentviewid="" tagname="团委动态"--><script language="javascript" src="/system/resource/js/dynclicks.js"></script><div class="new-content">
+                                <ul>
+                                    
+                                    
+<li>
+                                        <a href="info/1043/2782.htm" target="_blank" title="关于我校申报2019年度“桂林市优秀共青团员”“桂林市优秀共青团干部”“桂林市五四红旗团委（团支部）”推荐名单的公示">关于我校申报2019年度“桂林市优秀共青团员”“…</a><span style="float: right;">[04-13]</span>
+                                    </li>
+                                    
+                                    
+<li>
+                                        <a href="info/1043/2774.htm" target="_blank" title="“千校万岗·就业有位来”广西专场 （桂林站）——2020届高校毕业生春季空中双选会邀请函">“千校万岗·就业有位来”广西专场 （桂林站）—…</a><span style="float: right;">[04-07]</span>
+                                    </li>
+                                    
+                                    
+<li>
+                                        <a href="info/1043/2771.htm" target="_blank" title="云祭祀，表哀思——校团委组织团员青年开展线上祭祀活动">云祭祀，表哀思——校团委组织团员青年开展线上…</a><span style="float: right;">[04-05]</span>
+                                    </li>
+                                    
+                                    
+<li>
+                                        <a href="info/1043/2772.htm" target="_blank" title="【战“疫”专栏】战“疫”先锋，团青出列">【战“疫”专栏】战“疫”先锋，团青出列</a><span style="float: right;">[04-03]</span>
+                                    </li>
+                                    
+                                    
+<li>
+                                        <a href="info/1043/2766.htm" target="_blank" title="校长徐华蕊到大学生活动中心调研">校长徐华蕊到大学生活动中心调研</a><span style="float: right;">[03-31]</span>
+                                    </li>
+                                    
+                                    
+<li>
+                                        <a href="info/1043/2764.htm" target="_blank" title="校团委牵头召开学校60周年校庆晚会节目筹备专题会议">校团委牵头召开学校60周年校庆晚会节目筹备专题…</a><span style="float: right;">[03-23]</span>
+                                    </li>
+                                    
+                                    
+<li>
+                                        <a href="info/1043/2756.htm" target="_blank" title="青春战役 有你有我 ——关于疫情期间开展“学雷锋”活动的倡议">青春战役 有你有我 ——关于疫情期间开展“学雷…</a><span style="float: right;">[03-05]</span>
+                                    </li>
+                                    
+                                    
+</ul>
+                            </div><script>_showDynClickBatch(['dynclicks_u2_2782','dynclicks_u2_2774','dynclicks_u2_2771','dynclicks_u2_2772','dynclicks_u2_2766','dynclicks_u2_2764','dynclicks_u2_2756'],[2782,2774,2771,2772,2766,2764,2756],"wbnews", 1411844460)</script>
+<!--#endeditable--></div>
+                    </div>
+                </div>
+                <div class="notice-roll">
+                    <div class="box">
+                        <div class="bcon">
+                            <div class="new-title">
+                                <div class="new-notice">团内通知<a href="tntz.htm" target="">更多+</a></div>
+                            </div>
+                            
+                            <div><!--#begineditable name="团内通知" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/tpltitlelist.jsp" tpltype="1" contype="news" clone="" viewid="200384" contentviewid="" tagname="团内通知"--><div class="list_lh">
+                                <div class="notice-roll-new-content"><ul style="width:100%">
+                                        
+                                        
+<li>
+                                            <a href="info/1003/2781.htm" target="_blank" title="关于我校申报2019年度“桂林市优秀共青团员”“桂林市优秀共青团干部”“桂林市五四红旗团委（团支部）”推荐名单的公示">关于我校申报2019年度“桂林市优秀共青团员”“桂林…</a><span style="float: right;">[04-13]</span>
+                                        </li>
+                                        
+                                        
+<li>
+                                            <a href="info/1003/2775.htm" target="_blank" title="关于推荐2020年广西高校共青团“第二课堂成绩单”精品课程的公示">关于推荐2020年广西高校共青团“第二课堂成绩单”精…</a><span style="float: right;">[04-07]</span>
+                                        </li>
+                                        
+                                        
+<li>
+                                            <a href="info/1003/2773.htm" target="_blank" title="“千校万岗·就业有位来”广西专场 （桂林站）——2020届高校毕业生春季空中双选会邀请函">“千校万岗·就业有位来”广西专场 （桂林站）——20…</a><span style="float: right;">[04-07]</span>
+                                        </li>
+                                        
+                                        
+<li>
+                                            <a href="info/1003/2755.htm" target="_blank" title="青春战役 有你有我 ——关于疫情期间开展“学雷锋”活动的倡议">青春战役 有你有我 ——关于疫情期间开展“学雷锋”…</a><span style="float: right;">[03-05]</span>
+                                        </li>
+                                        
+                                        
+<li>
+                                            <a href="info/1003/2752.htm" target="_blank" title="关于我校申报首届广西青少年科技创新自治区主席奖（含主席提名奖）推荐名单的公示">关于我校申报首届广西青少年科技创新自治区主席奖（…</a><span style="float: right;">[02-26]</span>
+                                        </li>
+                                        
+                                        
+<li>
+                                            <a href="info/1003/2734.htm" target="_blank" title="关于组织高校青年志愿者开展“与抗疫一线医务人员家庭手拉手专项志愿服务”的工作建议和指引">关于组织高校青年志愿者开展“与抗疫一线医务人员家…</a><span style="float: right;">[02-14]</span>
+                                        </li>
+                                        
+                                        
+<li>
+                                            <a href="info/1003/2721.htm" target="_blank" title="桂林电子科技大学新型冠状病毒感染的肺炎疫情防控工作领导小组通告（第4号）">桂林电子科技大学新型冠状病毒感染的肺炎疫情防控工…</a><span style="float: right;">[02-13]</span>
+                                        </li>
+                                        
+                                        
+<li>
+                                            <a href="info/1003/2720.htm" target="_blank" title="桂林电子科技大学新型冠状病毒感染的肺炎疫情防控工作领导小组通告（第3号）">桂林电子科技大学新型冠状病毒感染的肺炎疫情防控工…</a><span style="float: right;">[02-11]</span>
+                                        </li>
+                                        
+                                        
+</ul></div>
+                            </div><script>_showDynClickBatch(['dynclicks_u3_2781','dynclicks_u3_2775','dynclicks_u3_2773','dynclicks_u3_2755','dynclicks_u3_2752','dynclicks_u3_2734','dynclicks_u3_2721','dynclicks_u3_2720'],[2781,2775,2773,2755,2752,2734,2721,2720],"wbnews", 1411844460)</script>
+<!--#endeditable--></div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="link"><a href="#"></a></div>
+
+            <div class="all-new">
+                <div class="new">
+                    <div class="new-title">
+                        <div class="new-notice">社会实践<a href="sjcx/shsj.htm" target="">更多+</a></div>
+                    </div>
+                    <div class="new-content"><!--#begineditable name="社会实践" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/tpltitlelist.jsp" tpltype="1" contype="news" clone="" viewid="200385" contentviewid="" tagname="社会实践"--><ul>
+                            
+                            
+<li>
+      <a href="info/1027/2004.htm" target="_blank" title="桂林电子科技大学暑期“三下乡”防溺水安全教育活动">桂林电子科技大学暑期“三下乡”防溺水安全教育活动</a><span style="float: right;">[07-05]</span>
+ </li>
+                            
+                            
+<li>
+      <a href="info/1027/2006.htm" target="_blank" title="关于桂林电子科技大学2019年“三下乡”社会实践活动申报全国及自治区重点团队推荐名单公示">关于桂林电子科技大学2019年“三下乡”社会实践活…</a><span style="float: right;">[06-22]</span>
+ </li>
+                            
+                            
+<li>
+      <a href="info/1027/2008.htm" target="_blank" title="关于开展“迎六十华诞 传桂电精神”寻访优秀校友暑期社会实践专项活动的通知">关于开展“迎六十华诞 传桂电精神”寻访优秀校友…</a><span style="float: right;">[06-06]</span>
+ </li>
+                            
+                            
+<li>
+      <a href="info/1027/2009.htm" target="_blank" title="关于开展“相约桂电 励志起航”优秀学子母校回访暑期社会实践专项活动的通知">关于开展“相约桂电 励志起航”优秀学子母校回访…</a><span style="float: right;">[06-06]</span>
+ </li>
+                            
+                            
+<li>
+      <a href="info/1027/1782.htm" target="_blank" title="2018年桂林电子科技大学 大学生暑期“三下乡”社会实践活动的通报名单公示">2018年桂林电子科技大学 大学生暑期“三下乡”社…</a><span style="float: right;">[12-05]</span>
+ </li>
+                            
+                            
+</ul><script>_showDynClickBatch(['dynclicks_u4_2004','dynclicks_u4_2006','dynclicks_u4_2008','dynclicks_u4_2009','dynclicks_u4_1782'],[2004,2006,2008,2009,1782],"wbnews", 1411844460)</script>
+<!--#endeditable--></div>
+                </div>
+                <div class="new">
+                    <div class="new-title">
+                        <div class="new-notice">创新创业<a href="sjcx/cxcy.htm" target="">更多+</a></div>
+                    </div>
+                    <div class="new-content"><!--#begineditable name="创新创业" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/tpltitlelist.jsp" tpltype="1" contype="news" clone="" viewid="200386" contentviewid="" tagname="创新创业"--><ul>
+                            
+                            
+<li>
+                                <a href="info/1028/2010.htm" target="_blank" title="关于2019年大学生创新创业年会遴选的通知">关于2019年大学生创新创业年会遴选</a><span style="float: right;">[07-04]</span>
+                            </li>
+                            
+                            
+<li>
+                                <a href="info/1028/2011.htm" target="_blank" title="关于我校第十六届“挑战杯”全国大学生课外学术科技作品竞赛拟推送国赛项目更改的公示">关于我校第十六届“挑战杯”全国大</a><span style="float: right;">[07-01]</span>
+                            </li>
+                            
+                            
+<li>
+                                <a href="info/1028/2012.htm" target="_blank" title="关于我校参加第十六届“挑战杯”全国大学生课外学术作品竞赛作品名单的公示">关于我校参加第十六届“挑战杯”全</a><span style="float: right;">[06-25]</span>
+                            </li>
+                            
+                            
+<li>
+                                <a href="info/1028/2013.htm" target="_blank" title="关于公布推荐第五届中国“互联网+”大学生创新创业大赛广西赛区选拔赛青年红色筑梦之旅赛道项目的通知">关于公布推荐第五届中国“互联网+</a><span style="float: right;">[06-18]</span>
+                            </li>
+                            
+                            
+<li>
+                                <a href="info/1028/2014.htm" target="_blank" title="关于举办2019年学校“互联网+”大学生创新创业大赛青年红色筑梦之旅赛道现场决赛的通知">关于举办2019年学校“互联网+”大</a><span style="float: right;">[06-10]</span>
+                            </li>
+                            
+                            
+</ul><script>_showDynClickBatch(['dynclicks_u5_2010','dynclicks_u5_2011','dynclicks_u5_2012','dynclicks_u5_2013','dynclicks_u5_2014'],[2010,2011,2012,2013,2014],"wbnews", 1411844460)</script>
+<!--#endeditable--></div>
+                </div>
+                <div class="plan" style="text-align: center;">
+                    <ul>
+                        <li><a href="yxyzzl/yxyzdt.htm" target="">一学一做专栏      </a></li>
+                        <li><a href="xsgbsztsjh/xsgbsztsdt.htm" target="">学生干部素质提升计划        </a></li>
+                        <li><a href="tzbhltsjh/tzbhltsdt.htm" target="">团支部活力提升计划         </a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="line"></div>
+            <div class="body-bottom">
+                <div class="body-bottom-tab">
+                    <ul id="tabs" style="font-size: 16px;">
+                        <li title="机电工程学院"><a href="xydo/jdgo.htm" title="机电工程学院" target="">机电工程</a></li>
+                        <li title="信息与通信学院"><a href="xydo/xxytxxy.htm" title="信息与通信学院" target="">信息与通信</a></li>
+                        <li title="计算机与信息安全学院"><a href="xydo/jsjyxxaqxy.htm" title="计算机与信息安全学院" target="">计算机与信息安全</a></li>
+                        <li title="艺术与设计学院"><a href="xydo/ysysjxy.htm" title="艺术与设计学院" target="">艺术与设计</a></li>
+                    </ul>
+                    <a class="a_college" href="xydo/jdgo.htm" target="">更多>></a>
+                    <div id="content">
+                        <div id="机电工程学院" class="tab-content"><!--#begineditable name="机电工程" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/tpltitlelist.jsp" tpltype="1" contype="news" clone="" viewid="200486" contentviewid="" tagname="机电工程"--><ul>
+                                
+                                
+<li>
+                                    <a href="info/1008/1276.htm" target="_blank" title="魅力宣讲|魅力之星主题宣讲——第一期">魅力宣讲|魅力之星主题宣讲——第一期</a><span style="float: right;">[03-04]</span>
+                                </li>
+                                
+                                
+<li>
+                                    <a href="info/1008/1275.htm" target="_blank" title="魅力宣讲|魅力之星主题宣讲——第一期">机电工程学院党委召开理论学习会</a><span style="float: right;">[01-02]</span>
+                                </li>
+                                
+                                
+<li>
+                                    <a href="info/1008/1274.htm" target="_blank" title="魅力宣讲|魅力之星主题宣讲——第一期">机电工程学院|2019元旦晚会圆满落幕</a><span style="float: right;">[12-26]</span>
+                                </li>
+                                
+                                
+<li>
+                                    <a href="info/1008/1273.htm" target="_blank" title="魅力宣讲|魅力之星主题宣讲——第一期">晨曦志愿行动|寒冬送暖，情系老者</a><span style="float: right;">[12-13]</span>
+                                </li>
+                                
+                                
+<li>
+                                    <a href="info/1008/1272.htm" target="_blank" title="魅力宣讲|魅力之星主题宣讲——第一期">2017年度“延榜样路，踏新征程”魅力之</a><span style="float: right;">[12-08]</span>
+                                </li>
+                                
+                                
+</ul><script>_showDynClickBatch(['dynclicks_u6_1276','dynclicks_u6_1275','dynclicks_u6_1274','dynclicks_u6_1273','dynclicks_u6_1272'],[1276,1275,1274,1273,1272],"wbnews", 1411844460)</script>
+<!--#endeditable--></div>
+                        <div id="信息与通信学院" class="tab-content"><!--#begineditable name="信息与通信" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/tpltitlelist.jsp" tpltype="1" contype="news" clone="" viewid="200487" contentviewid="" tagname="信息与通信"--><ul>
+                                
+                                
+<li>
+                                    <a href="info/1009/1399.htm" target="_blank" title="信息与通信学院团委学生会团建活动">信息与通信学院团委学生会团建活动</a><span style="float: right;">[11-28]</span>
+                                </li>
+                                
+                                
+<li>
+                                    <a href="info/1009/1398.htm" target="_blank" title="信息与通信学院团委学生会团建活动">桂电话剧大赛 | 剧星风采，且看舆</a><span style="float: right;">[11-23]</span>
+                                </li>
+                                
+                                
+<li>
+                                    <a href="info/1009/1397.htm" target="_blank" title="信息与通信学院团委学生会团建活动">信息与通信学院“爱心义卖”活动</a><span style="float: right;">[11-03]</span>
+                                </li>
+                                
+                                
+<li>
+                                    <a href="info/1009/1396.htm" target="_blank" title="信息与通信学院团委学生会团建活动">信息与通信学院2018年“乐动今朝 </a><span style="float: right;">[10-28]</span>
+                                </li>
+                                
+                                
+<li>
+                                    <a href="info/1009/1395.htm" target="_blank" title="信息与通信学院团委学生会团建活动">信息与通信学院举办第二期校友交流</a><span style="float: right;">[10-12]</span>
+                                </li>
+                                
+                                
+</ul><script>_showDynClickBatch(['dynclicks_u7_1399','dynclicks_u7_1398','dynclicks_u7_1397','dynclicks_u7_1396','dynclicks_u7_1395'],[1399,1398,1397,1396,1395],"wbnews", 1411844460)</script>
+<!--#endeditable--></div>
+                        <div id="计算机与信息安全学院" class="tab-content"><!--#begineditable name="计算机与信息安全" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/tpltitlelist.jsp" tpltype="1" contype="news" clone="" viewid="200488" contentviewid="" tagname="计算机与信息安全"--><ul>
+                                
+                                
+<li>
+                                    <a href="info/1010/1486.htm" target="_blank" title="计算机与信息安全学院2018年新生杯篮球赛落幕（图）">计算机与信息安全学院2018年新生杯篮球赛落幕（图）</a><span style="float: right;">[12-07]</span>
+                                </li>
+                                
+                                
+<li>
+                                    <a href="info/1010/1484.htm" target="_blank" title="计算机与信息安全学院2018年新生杯篮球赛落幕（图）">计算机与信息安全学院举办新生杯羽毛球比赛（图）</a><span style="float: right;">[12-06]</span>
+                                </li>
+                                
+                                
+<li>
+                                    <a href="info/1010/1483.htm" target="_blank" title="计算机与信息安全学院2018年新生杯篮球赛落幕（图）">计算机与信息安全学院组织走访就业单位（图）</a><span style="float: right;">[12-04]</span>
+                                </li>
+                                
+                                
+<li>
+                                    <a href="info/1010/1481.htm" target="_blank" title="计算机与信息安全学院2018年新生杯篮球赛落幕（图）">计算机与信息安全学院召开工程专业认证动员大会（图</a><span style="float: right;">[12-03]</span>
+                                </li>
+                                
+                                
+<li>
+                                    <a href="info/1010/1479.htm" target="_blank" title="计算机与信息安全学院2018年新生杯篮球赛落幕（图）">计算机与信息安全学院院长常亮为学院教职工党员上党</a><span style="float: right;">[12-03]</span>
+                                </li>
+                                
+                                
+</ul><script>_showDynClickBatch(['dynclicks_u8_1486','dynclicks_u8_1484','dynclicks_u8_1483','dynclicks_u8_1481','dynclicks_u8_1479'],[1486,1484,1483,1481,1479],"wbnews", 1411844460)</script>
+<!--#endeditable--></div>
+                        <div id="艺术与设计学院" class="tab-content"><!--#begineditable name="艺术与设计" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/tpltitlelist.jsp" tpltype="1" contype="news" clone="" viewid="200489" contentviewid="" tagname="艺术与设计"--><ul>
+                                
+                                
+<li>
+                                    <a href="info/1011/2021.htm" target="_blank" title="艺术与设计学院马红副教授举办 “吉祥中国红——马红剪纸艺术作品展”">艺术与设计学院举办2019年田径运动会</a><span style="float: right;">[09-28]</span>
+                                </li>
+                                
+                                
+<li>
+                                    <a href="info/1011/2039.htm" target="_blank" title="艺术与设计学院马红副教授举办 “吉祥中国红——马红剪纸艺术作品展”">遇见团扇——桂林传统工艺振兴计划团队在行动</a><span style="float: right;">[09-27]</span>
+                                </li>
+                                
+                                
+<li>
+                                    <a href="info/1011/2022.htm" target="_blank" title="艺术与设计学院马红副教授举办 “吉祥中国红——马红剪纸艺术作品展”">艺术与设计学院召开2019级新生见面会暨专业认知教育会</a><span style="float: right;">[09-27]</span>
+                                </li>
+                                
+                                
+<li>
+                                    <a href="info/1011/2023.htm" target="_blank" title="艺术与设计学院马红副教授举办 “吉祥中国红——马红剪纸艺术作品展”">艺术与设计学院学生作品在第三届“全国大学生网络文化节’喜获佳绩</a><span style="float: right;">[09-20]</span>
+                                </li>
+                                
+                                
+<li>
+                                    <a href="info/1011/2024.htm" target="_blank" title="艺术与设计学院马红副教授举办 “吉祥中国红——马红剪纸艺术作品展”">艺术与设计学院“D+工作室”受邀参加“东西巷·陶乐集”中秋创意集市活…</a><span style="float: right;">[09-15]</span>
+                                </li>
+                                
+                                
+</ul><script>_showDynClickBatch(['dynclicks_u9_2021','dynclicks_u9_2039','dynclicks_u9_2022','dynclicks_u9_2023','dynclicks_u9_2024'],[2021,2039,2022,2023,2024],"wbnews", 1411844460)</script>
+<!--#endeditable--></div>
+                    </div>
+                </div>
+                <div class="download">
+                    <div class="download-til">下载专区<a href="xia_z/we.htm" target="">更多>></a></div>
+                    <div class="dowload-content"><!--#begineditable name="下载专区" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/tpltitlelist.jsp" tpltype="1" contype="news" clone="" viewid="200485" contentviewid="" tagname="下载专区"--><ul>
+                            
+                            
+<li>
+                                <a href="info/1041/2005.htm" target="_blank" title="共青团桂林电子科技大学委员会  2019 年工作要点"><span style="color: #D81513;">&gt;&gt;</span>关于印发《桂林电子科技大学学生社团…</a><span style="float: right;">[05-23]</span>
+                            </li>
+                            
+                            
+<li>
+                                <a href="info/1041/1865.htm" target="_blank" title="共青团桂林电子科技大学委员会  2019 年工作要点"><span style="color: #D81513;">&gt;&gt;</span>大学生演艺厅管理办法</a><span style="float: right;">[04-17]</span>
+                            </li>
+                            
+                            
+<li>
+                                <a href="info/1041/1864.htm" target="_blank" title="共青团桂林电子科技大学委员会  2019 年工作要点"><span style="color: #D81513;">&gt;&gt;</span>大学生演艺厅内部搭建舞台架申请单</a><span style="float: right;">[04-17]</span>
+                            </li>
+                            
+                            
+<li>
+                                <a href="info/1041/1863.htm" target="_blank" title="共青团桂林电子科技大学委员会  2019 年工作要点"><span style="color: #D81513;">&gt;&gt;</span>共青团桂林电子科技大学委员会  2019…</a><span style="float: right;">[03-25]</span>
+                            </li>
+                            
+                            
+<li>
+                                <a href="info/1041/1862.htm" target="_blank" title="共青团桂林电子科技大学委员会  2019 年工作要点"><span style="color: #D81513;">&gt;&gt;</span>关于举办第十三届校园舞蹈大赛的通知</a><span style="float: right;">[03-21]</span>
+                            </li>
+                            
+                            
+</ul><script>_showDynClickBatch(['dynclicks_u10_2005','dynclicks_u10_1865','dynclicks_u10_1864','dynclicks_u10_1863','dynclicks_u10_1862'],[2005,1865,1864,1863,1862],"wbnews", 1411844460)</script>
+<!--#endeditable--></div>
+                </div>
+            </div>
+            <div class="friendly-link">
+                <div class="friendly-link-tit">友情链接:</div>
+                <ul>
+                    
+                    <li><a href="http://www.guet.edu.cn/extGuetWeb" target="_blank">校主页</a></li>
+                    
+                    <li><a href="http://xsgzc.guet.edu.cn/" target="_blank">学工处</a></li>
+                    
+                    <li><a href="http://www.ccyl.org.cn/" target="_blank">中国共青团网</a></li>
+                    
+                </ul>
+            </div>
+            <div class="webo">
+                <ul class="webo-link">
+                    <li><a href="https://weibo.com/guetgqt" target="_blank">官方微博</a></li>
+                    <li><a href="javascript:void(0);" id="wechat">官方微信 </a></li>
+                    <li><a href="http://gliet.gx.qnzs.youth.cn/" target="_blank">青年之声</a></li>
+                    <li><a href="javascript:void(0);">新媒体联盟</a></li>
+                </ul>
+            </div>
+            <script>
+                function search() {
+                    var key = $("#key").val();
+                    location.href = "Web/news_search_list.aspx?key="+key;
+                }
+                $(document).ready(function () {
+                    $("#wechat").hover(function () {
+                        $("#wechat_img").show();
+                    });
+                    $("#wechat").mouseout(function () {
+                        $("#wechat_img").hide();
+                    });
+                });
+            </script>
+        </div>
+    </div>
+    <div class="footer">
+        <div class="line"></div>
+        <div class="footer-bottom">
+            <p>
+                Copyright ©共青团桂林电子科技大学委员会<br />
+                校址:中国广西桂林市七星区金鸡路1号    邮编:541004
+                <br />
+                桂林电子科技大学 团委 网络中心 审核通过
+                <br />
+                <a href="http://mwb.guet.edu.cn/system/login.jsp" target="_blank" style="color: white;">后台管理</a>
+            </p>
+        </div>
+    </div>
+</body>
+</html>

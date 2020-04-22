@@ -1,0 +1,272 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<title>【巡视整改】学校举行第五期青干班开班仪式(图)-组织部 </title><META Name="keywords" Content="组织部 ,工作动态" />
+
+		
+		<meta name="description" content="《纪律处分条例》背后的案例故事(三)" />
+		<link rel="stylesheet" type="text/css" href="../../dfiles/11258/css/style.css" />
+		<link rel="stylesheet" type="text/css" href="../../dfiles/11258/css/css.css" />
+		<script type="text/javascript" src="../../dfiles/11258/css/jquery_002.js"></script>
+		<script type="text/javascript" src="../../dfiles/11258/css/index.js"></script>
+		<script type="text/javascript" src="../../dfiles/11258/css/jquery.js"></script>
+	<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="../../_sitegray/_sitegray_d.css" />
+<script language="javascript" src="../../_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="../../content.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/vsbscreen.min.js" id="_vsbscreen" devices="pc|mobile|pad"></script>
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1002,'/content.jsp',1704,1410804833)</script>
+</head>
+	<body>
+		 
+			<div>
+				 
+			</div>
+
+			<div>
+
+				 
+			</div>
+			<div class="main">
+
+
+				<div class="zkd_header">
+					<div class="logo">
+						<!--#begineditable name="LOGO" viewid="200329" tagname="LOGO" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp="true"-->
+<!-- 网站logo图片地址请在本组件"内容配置-网站logo"处填写 -->
+<a href="../../" title="组织部"><img src="../../dfiles/11258/css/logo.gif" width="980" height="150" border="0" alt="组织部" title="组织部"></a><!--#endeditable-->
+					</div>
+				</div>
+				<div class="clear"></div>
+				<div class="zkd_nav">
+
+					<div class="zkd_navbody">
+						<!--#begineditable name="网站导航" viewid="200319" tagname="网站导航" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp="true"-->     <span><a href="http://www.gliet.edu.cn" style="color: #7a531c">学校主页</a></span> 
+     <span><a href="../../index.htm" style="color: #7a531c">本站首页</a></span> 
+     <span><a href="../../bmjj.htm" style="color: #7a531c">部门简介</a></span> 
+     <span><a href="../../gbgz.htm" style="color: #7a531c">干部工作</a></span> 
+     <span><a href="../../djgz.htm" style="color: #7a531c">党建工作</a></span> 
+     <span><a href="../../dxgz.htm" style="color: #7a531c">党校工作</a></span> 
+     <span><a href="../../gzzd.htm" style="color: #7a531c">规章制度</a></span> 
+     <span><a href="../../xzzx.htm" style="color: #7a531c">下载中心</a></span> 
+<!--#endeditable-->
+						<div class="zkd_right"><!--#begineditable name="全文检索" action="" layout="" tpltype="" contype="" clone="" viewid="200334" contentviewid="" tagname="全文检索"--><script type="text/javascript">
+    function _nl_ys_check(){
+        
+        var keyword = document.getElementById('showkeycode200334').value;
+        if(keyword==null||keyword==""){
+            alert("请输入你要检索的内容！");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkeyword200334").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkeyword200334").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkeyword200334").value = base64.encode(document.getElementById("lucenenewssearchkeyword200334").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode200334"));
+        return true;
+    } 
+</script>
+<form action="../../search.jsp?wbtreeid=1002" method="post" id="au2a" name="au2a" onsubmit="return _nl_ys_check()" style="display: inline">
+ <input type="hidden" id="lucenenewssearchkeyword200334" name="lucenenewssearchkeyword" value=""><input type="hidden" id="_lucenesearchtype200334" name="_lucenesearchtype" value="1"><input type="hidden" id="searchScope200334" name="searchScope" value="0">
+ 
+
+<div class="zkd_navbodydate">
+                <input name="showkeycode" id="showkeycode200334" type="text" placeholder="查询关键词" style="border-style:None;height:18px;width:130px;">
+          </div> 
+      <div class="zkd_navbodydate1">
+          <input type="image" name="head$ImageButton1" id="head_ImageButton1" src="../../dfiles/11258/css/2.jpg" align="absmiddle" style="border-width:0px;cursor: hand">
+    </div> 
+
+
+
+</form><script language="javascript" src="/system/resource/js/base64.js"></script><script language="javascript" src="/system/resource/js/formfunc.js"></script>
+<!--#endeditable--></div>
+					</div>
+
+
+				</div>
+
+				<div class="clear"></div>
+
+				<div class="zkd_navbody1"></div>
+				<div class="neirong">
+					<div class="neiye">
+						<!--#begineditable name="文章内容" viewid="200335" tagname="文章内容" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp="true"-->
+<script language="javascript" src="/system/resource/js/dynclicks.js"></script><script language="javascript" src="../../_dwr/interface/NewsvoteDWR.js"></script><script language="javascript" src="../../_dwr/engine.js"></script><script language="javascript" src="/system/resource/js/news/newscontent.js"></script><script type="text/javascript">NewsvoteDWR.getNewsLinkUrl(1704,'1410804833','vsb',newsSkip);function newsSkip(data){if(data != ""){window.location.href = data;}}</script><LINK href="/system/resource/js/photoswipe/3.0.5.1/photoswipe.css" type="text/css" rel="stylesheet"><script language="javascript" src="/system/resource/js/photoswipe/3.0.5.1/klass.min.js"></script><script language="javascript" src="/system/resource/js/ajax.js"></script><div class="xnldy">
+                            <h2>【巡视整改】学校举行第五期青干班开班仪式(图)</h2>
+                            <div class="SecondTitle">作者：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;文章来源：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;点击数：<script>_showDynClicks("wbnews", 1410804833, 1704)</script>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;录入时间：<span class="huangse">2019-05-31</span></div>
+     <p style="text-align:center;background:white">
+             <div id="vsb_content"><p class="vsbcontent_start" style="margin-top: 0px; margin-bottom: 0px; padding: 0px; list-style: none; width: 970px; height: 66px; font-size: 19px; text-indent: 2em; white-space: normal; background-color: rgb(255, 255, 255); word-wrap: break-word; border-width: medium; border-style: none; border-color: initial; font-family: &quot;microsoft yahei&quot;, 微软雅黑, tahoma, arial, helvetica, stheiti; color: rgb(51, 51, 51); line-height: 33px; text-size-adjust: none;">5月30日上午，学校在花江校区图书馆报告厅举行第五期青年干部培训班开班仪式，校党委副书记农毅出席开班仪式并讲话。开班仪式由党委常委、组织部长聂慧主持。</p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; list-style: none; width: 970px; height: 132px; font-size: 19px; text-indent: 2em; white-space: normal; background-color: rgb(255, 255, 255); word-wrap: break-word; border-width: medium; border-style: none; border-color: initial; font-family: &quot;microsoft yahei&quot;, 微软雅黑, tahoma, arial, helvetica, stheiti; color: rgb(51, 51, 51); line-height: 33px; text-size-adjust: none;">本期青干班培训共有来自各二级学院、职能部门的32名学员参加培训，培训时间将历时一年。农副书记在讲话中指出，举办青年干部培训班是学校党的建设的需要、事业发展的需要、干部队伍建设的需要，本期培训班将结合“不忘初心、牢记使命”主题教育活动，在学习形式、课程设置、教学模式、实践活动等方面进行创新，突出增强参训青年干部的“四个意识”，提高工作业务能力和管理服务水平，他还对参训学员提出了具体要求。</p>
+<p class="vsbcontent_end" style="margin-top: 0px; margin-bottom: 0px; padding: 0px; list-style: none; width: 970px; height: 33px; font-size: 19px; text-indent: 2em; white-space: normal; background-color: rgb(255, 255, 255); word-wrap: break-word; border-width: medium; border-style: none; border-color: initial; font-family: &quot;microsoft yahei&quot;, 微软雅黑, tahoma, arial, helvetica, stheiti; color: rgb(51, 51, 51); line-height: 33px; text-size-adjust: none;">（供稿：党政办 康明 图:宣传部 农必东 大学生通讯社 黄瑶 ）</p>
+<p class="vsbcontent_img" style="margin-top: 0px; margin-bottom: 0px; padding: 0px; list-style: none; width: 970px; height: 335.328px; font-size: 19px; white-space: normal; background-color: rgb(255, 255, 255); word-wrap: break-word; border-width: medium; border-style: none; border-color: initial; font-family: &quot;microsoft yahei&quot;, 微软雅黑, tahoma, arial, helvetica, stheiti; color: rgb(51, 51, 51); text-align: center; line-height: 33px; text-size-adjust: none;">
+ <img class="img_vsb_content" src="/__local/6/F2/AE/50791E640BF37336AD2C4CD0092_BCEBB814_3E38D.jpg" width="500" vwidth="500" vurl="/_vsl/6F2AE50791E640BF37336AD2C4CD0092/BCEBB814/3E38D?e=.jpg" vsbhref="vurl" orisrc="/__local/A/4A/9E/752199FD3DF15E8DE41CD67B0F3_EB5F6D53_D63F8.jpg" vheight="" style="border: 1px solid rgb(204, 204, 204); outline-width: medium; outline-style: none; margin: 0px; resize: none; padding: 0px;"></p>
+<p><br></p></div>
+                            </p>
+                             
+                        </div><!--#endeditable-->
+					</div>
+				</div>
+
+
+				<div class="bot1">
+					<div class="footer">
+						<div class="footerzb" style="text-align: center">
+							<ul 　　 style="line-height: 20px; color: #000000; font-size: 13px; font-family: 宋体, Arial, Helvetica, sans-serif">
+								<!--#begineditable name="版权" viewid="200328" tagname="版权" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp="true"--><!-- 版权内容请在本组件"内容配置-版权"处填写 -->
+<p style="margin-top: 20px">中国共产党桂林电子科技大学委员会组织部　版权所有 管理员入口<br />地址：桂林电子科技大学花江校区办公楼4楼<br />电话：0773-2290361 传真：0773-2290361 电子邮箱：<a href="mailto:guetzzb@163.com">guetzzb@163.com</a></p><!--#endeditable-->
+							</ul>
+						</div>
+
+					</div>
+				</div>
+
+
+			</div>
+		 
+	</body>
+</html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<title>【巡视整改】学校举行第五期青干班开班仪式(图)-组织部 </title><META Name="keywords" Content="组织部 ,工作动态" />
+
+		
+		<meta name="description" content="《纪律处分条例》背后的案例故事(三)" />
+		<link rel="stylesheet" type="text/css" href="../../dfiles/11258/css/style.css" />
+		<link rel="stylesheet" type="text/css" href="../../dfiles/11258/css/css.css" />
+		<script type="text/javascript" src="../../dfiles/11258/css/jquery_002.js"></script>
+		<script type="text/javascript" src="../../dfiles/11258/css/index.js"></script>
+		<script type="text/javascript" src="../../dfiles/11258/css/jquery.js"></script>
+	<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="../../_sitegray/_sitegray_d.css" />
+<script language="javascript" src="../../_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="../../content.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/vsbscreen.min.js" id="_vsbscreen" devices="pc|mobile|pad"></script>
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1002,'/content.jsp',1704,1410804833)</script>
+</head>
+	<body>
+		 
+			<div>
+				 
+			</div>
+
+			<div>
+
+				 
+			</div>
+			<div class="main">
+
+
+				<div class="zkd_header">
+					<div class="logo">
+						<!--#begineditable name="LOGO" viewid="200329" tagname="LOGO" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp="true"-->
+<!-- 网站logo图片地址请在本组件"内容配置-网站logo"处填写 -->
+<a href="../../" title="组织部"><img src="../../dfiles/11258/css/logo.gif" width="980" height="150" border="0" alt="组织部" title="组织部"></a><!--#endeditable-->
+					</div>
+				</div>
+				<div class="clear"></div>
+				<div class="zkd_nav">
+
+					<div class="zkd_navbody">
+						<!--#begineditable name="网站导航" viewid="200319" tagname="网站导航" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp="true"-->     <span><a href="http://www.gliet.edu.cn" style="color: #7a531c">学校主页</a></span> 
+     <span><a href="../../index.htm" style="color: #7a531c">本站首页</a></span> 
+     <span><a href="../../bmjj.htm" style="color: #7a531c">部门简介</a></span> 
+     <span><a href="../../gbgz.htm" style="color: #7a531c">干部工作</a></span> 
+     <span><a href="../../djgz.htm" style="color: #7a531c">党建工作</a></span> 
+     <span><a href="../../dxgz.htm" style="color: #7a531c">党校工作</a></span> 
+     <span><a href="../../gzzd.htm" style="color: #7a531c">规章制度</a></span> 
+     <span><a href="../../xzzx.htm" style="color: #7a531c">下载中心</a></span> 
+<!--#endeditable-->
+						<div class="zkd_right"><!--#begineditable name="全文检索" action="" layout="" tpltype="" contype="" clone="" viewid="200334" contentviewid="" tagname="全文检索"--><script type="text/javascript">
+    function _nl_ys_check(){
+        
+        var keyword = document.getElementById('showkeycode200334').value;
+        if(keyword==null||keyword==""){
+            alert("请输入你要检索的内容！");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkeyword200334").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkeyword200334").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkeyword200334").value = base64.encode(document.getElementById("lucenenewssearchkeyword200334").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode200334"));
+        return true;
+    } 
+</script>
+<form action="../../search.jsp?wbtreeid=1002" method="post" id="au2a" name="au2a" onsubmit="return _nl_ys_check()" style="display: inline">
+ <input type="hidden" id="lucenenewssearchkeyword200334" name="lucenenewssearchkeyword" value=""><input type="hidden" id="_lucenesearchtype200334" name="_lucenesearchtype" value="1"><input type="hidden" id="searchScope200334" name="searchScope" value="0">
+ 
+
+<div class="zkd_navbodydate">
+                <input name="showkeycode" id="showkeycode200334" type="text" placeholder="查询关键词" style="border-style:None;height:18px;width:130px;">
+          </div> 
+      <div class="zkd_navbodydate1">
+          <input type="image" name="head$ImageButton1" id="head_ImageButton1" src="../../dfiles/11258/css/2.jpg" align="absmiddle" style="border-width:0px;cursor: hand">
+    </div> 
+
+
+
+</form><script language="javascript" src="/system/resource/js/base64.js"></script><script language="javascript" src="/system/resource/js/formfunc.js"></script>
+<!--#endeditable--></div>
+					</div>
+
+
+				</div>
+
+				<div class="clear"></div>
+
+				<div class="zkd_navbody1"></div>
+				<div class="neirong">
+					<div class="neiye">
+						<!--#begineditable name="文章内容" viewid="200335" tagname="文章内容" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp="true"-->
+<script language="javascript" src="/system/resource/js/dynclicks.js"></script><script language="javascript" src="../../_dwr/interface/NewsvoteDWR.js"></script><script language="javascript" src="../../_dwr/engine.js"></script><script language="javascript" src="/system/resource/js/news/newscontent.js"></script><script type="text/javascript">NewsvoteDWR.getNewsLinkUrl(1704,'1410804833','vsb',newsSkip);function newsSkip(data){if(data != ""){window.location.href = data;}}</script><LINK href="/system/resource/js/photoswipe/3.0.5.1/photoswipe.css" type="text/css" rel="stylesheet"><script language="javascript" src="/system/resource/js/photoswipe/3.0.5.1/klass.min.js"></script><script language="javascript" src="/system/resource/js/ajax.js"></script><div class="xnldy">
+                            <h2>【巡视整改】学校举行第五期青干班开班仪式(图)</h2>
+                            <div class="SecondTitle">作者：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;文章来源：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;点击数：<script>_showDynClicks("wbnews", 1410804833, 1704)</script>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;录入时间：<span class="huangse">2019-05-31</span></div>
+     <p style="text-align:center;background:white">
+             <div id="vsb_content"><p class="vsbcontent_start" style="margin-top: 0px; margin-bottom: 0px; padding: 0px; list-style: none; width: 970px; height: 66px; font-size: 19px; text-indent: 2em; white-space: normal; background-color: rgb(255, 255, 255); word-wrap: break-word; border-width: medium; border-style: none; border-color: initial; font-family: &quot;microsoft yahei&quot;, 微软雅黑, tahoma, arial, helvetica, stheiti; color: rgb(51, 51, 51); line-height: 33px; text-size-adjust: none;">5月30日上午，学校在花江校区图书馆报告厅举行第五期青年干部培训班开班仪式，校党委副书记农毅出席开班仪式并讲话。开班仪式由党委常委、组织部长聂慧主持。</p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; list-style: none; width: 970px; height: 132px; font-size: 19px; text-indent: 2em; white-space: normal; background-color: rgb(255, 255, 255); word-wrap: break-word; border-width: medium; border-style: none; border-color: initial; font-family: &quot;microsoft yahei&quot;, 微软雅黑, tahoma, arial, helvetica, stheiti; color: rgb(51, 51, 51); line-height: 33px; text-size-adjust: none;">本期青干班培训共有来自各二级学院、职能部门的32名学员参加培训，培训时间将历时一年。农副书记在讲话中指出，举办青年干部培训班是学校党的建设的需要、事业发展的需要、干部队伍建设的需要，本期培训班将结合“不忘初心、牢记使命”主题教育活动，在学习形式、课程设置、教学模式、实践活动等方面进行创新，突出增强参训青年干部的“四个意识”，提高工作业务能力和管理服务水平，他还对参训学员提出了具体要求。</p>
+<p class="vsbcontent_end" style="margin-top: 0px; margin-bottom: 0px; padding: 0px; list-style: none; width: 970px; height: 33px; font-size: 19px; text-indent: 2em; white-space: normal; background-color: rgb(255, 255, 255); word-wrap: break-word; border-width: medium; border-style: none; border-color: initial; font-family: &quot;microsoft yahei&quot;, 微软雅黑, tahoma, arial, helvetica, stheiti; color: rgb(51, 51, 51); line-height: 33px; text-size-adjust: none;">（供稿：党政办 康明 图:宣传部 农必东 大学生通讯社 黄瑶 ）</p>
+<p class="vsbcontent_img" style="margin-top: 0px; margin-bottom: 0px; padding: 0px; list-style: none; width: 970px; height: 335.328px; font-size: 19px; white-space: normal; background-color: rgb(255, 255, 255); word-wrap: break-word; border-width: medium; border-style: none; border-color: initial; font-family: &quot;microsoft yahei&quot;, 微软雅黑, tahoma, arial, helvetica, stheiti; color: rgb(51, 51, 51); text-align: center; line-height: 33px; text-size-adjust: none;">
+ <img class="img_vsb_content" src="/__local/6/F2/AE/50791E640BF37336AD2C4CD0092_BCEBB814_3E38D.jpg" width="500" vwidth="500" vurl="/_vsl/6F2AE50791E640BF37336AD2C4CD0092/BCEBB814/3E38D?e=.jpg" vsbhref="vurl" orisrc="/__local/A/4A/9E/752199FD3DF15E8DE41CD67B0F3_EB5F6D53_D63F8.jpg" vheight="" style="border: 1px solid rgb(204, 204, 204); outline-width: medium; outline-style: none; margin: 0px; resize: none; padding: 0px;"></p>
+<p><br></p></div>
+                            </p>
+                             
+                        </div><!--#endeditable-->
+					</div>
+				</div>
+
+
+				<div class="bot1">
+					<div class="footer">
+						<div class="footerzb" style="text-align: center">
+							<ul 　　 style="line-height: 20px; color: #000000; font-size: 13px; font-family: 宋体, Arial, Helvetica, sans-serif">
+								<!--#begineditable name="版权" viewid="200328" tagname="版权" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="" istemp="true"--><!-- 版权内容请在本组件"内容配置-版权"处填写 -->
+<p style="margin-top: 20px">中国共产党桂林电子科技大学委员会组织部　版权所有 管理员入口<br />地址：桂林电子科技大学花江校区办公楼4楼<br />电话：0773-2290361 传真：0773-2290361 电子邮箱：<a href="mailto:guetzzb@163.com">guetzzb@163.com</a></p><!--#endeditable-->
+							</ul>
+						</div>
+
+					</div>
+				</div>
+
+
+			</div>
+		 
+	</body>
+</html>

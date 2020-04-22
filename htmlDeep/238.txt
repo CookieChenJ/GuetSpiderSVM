@@ -1,0 +1,1268 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>体育部</title><META Name="keywords" Content="体育部" />
+
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <link href="style/lanmu.css" type="text/css" rel="stylesheet" />
+    <link href="style/public.css" type="text/css" rel="stylesheet" />
+    <link href="style/dropmenu.css" type="text/css" rel="stylesheet" /> 
+    <link href="style/nav.css" rel="stylesheet" />
+    <script src="js/jquery-1.9.1.min.js" type="text/javascript"></script>
+    <script src="js/jquery.nav.js" type="text/javascript"></script>  
+    <script src="js/all.js" type="text/javascript"></script>
+    <script type="text/javascript">        
+        function Link_Open(link,Target) { if(link!="") { if(Target=="1") { window.open(link,"_target"); } else { location.href=link; } } }
+    </script>
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="index.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1411890727)</script>
+</head>
+<body>
+    <div class="page_style">
+        <div class="menu_box">
+            <div class="menu_box_style1_1">
+                <ul>
+                    <li class="menu_box_style1_1_1"><a href=""><img id="ctl00_Logo_image" src="images/logo.png" style="border-width:0px;" /></a></li>
+                    <li class="menu_box_style1_1_2"><br /></li>
+                    <li class="clear"></li>
+                </ul>
+            </div>
+            <div class="menu_box_style1_2" id="MainMenu">
+                <ul>
+
+                    <li class="menu_style_1" id="MainMenuItem" name="MainMenuItem">
+                        <a href="" class="menu_1" id="Menu_1" target="_self">网站首页</a>
+                    </li>
+
+                    <li class="menu_style_1" id="MainMenuItem" name="MainMenuItem">
+                        <a href="gywm/bmjs.htm" class="menu_1" id="Menu_3" target="_self">关于我们</a><ul>
+                            <li><a href="gywm/bmjs.htm" target="">部门介绍</a></li>
+                            <li><a href="gywm/xrld.htm" target="">现任领导</a></li>
+                            <li><a href="gywm/zzjg.htm" target="">组织架构</a></li>
+                            <li><a href="gywm/fzlc.htm" target="">发展历程</a></li>
+                        </ul>
+                    </li>
+
+                    <li class="menu_style_1" id="MainMenuItem" name="MainMenuItem">
+                        <a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1008" class="menu_1" id="Menu_5" target="_self">新闻动态</a><ul>
+                            <li><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1008">部门新闻</a></li>
+                            <li><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1009">院校动态</a></li>
+                        </ul>
+                    </li>
+
+                    <li class="menu_style_1" id="MainMenuItem" name="MainMenuItem">
+                        <a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1011" class="menu_1" id="Menu_23" target="_self">体育教学</a><ul>
+                            <li><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1011">本科教学</a></li>
+                            <li><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1012">研究生教学</a></li>
+                            <li><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1013">精品课程</a></li>
+                        </ul>
+                    </li>
+
+                    <li class="menu_style_1" id="MainMenuItem" name="MainMenuItem">
+                        <a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1015" class="menu_1" id="Menu_6" target="_self">运动竞赛</a><ul>
+                            <li><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1015">精彩赛事</a></li>
+                            <li><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1016">竞赛规则</a></li>
+                            <li><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1017">竞赛公告</a></li>
+                            <li><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1018">表格下载</a></li>
+                            <li><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1019">校队组建</a></li>
+                        </ul>
+                    </li>
+
+                    <li class="menu_style_1" id="MainMenuItem" name="MainMenuItem">
+                        <a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1021" class="menu_1" id="Menu_24" target="_self">体育场馆</a><ul>
+                            <li><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1021">管理条例</a></li>
+                            <li><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1022">管理职责</a></li>
+                        </ul>
+                    </li>
+
+                    <li class="menu_style_1" id="MainMenuItem" name="MainMenuItem">
+                        <a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1024" class="menu_1" id="Menu_7" target="_self">党建工作</a><ul>
+                            <li><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1024">专题活动</a></li>
+                            <li><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1025">理论学习</a></li>
+                            <li><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1026">基层动态</a></li>
+                        </ul>
+                    </li>
+
+                    <li class="menu_style_1" id="MainMenuItem" name="MainMenuItem">
+                        <a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1027" class="menu_1" id="Menu_4" target="_self">合作交流</a>
+                    </li>
+
+                    <li class="menu_style_1" id="MainMenuItem" name="MainMenuItem">
+                        <a href="lxwm.htm" class="menu_1" id="Menu_8" target="_self">联系我们</a>
+                    </li>
+
+                </ul>
+            </div>
+            
+        </div>
+        <script type="text/javascript">
+             var Lanmu2_id="";
+             var Lanmu3_id="";
+        </script>
+        
+        <div class="banner_box" id="banner_box">
+            <!-- 代码 开始 -->
+            <div id="inner">
+                <div class="hot-event">
+                    <div class="switch-nav"><a href="#" onclick="return false;" class="prev"><i class="ico i-prev"></i><span class="hide-clip">上一个</span></a><a href="#" onclick="return false;" class="next"><i class="ico i-next"></i><span class="hide-clip">下一个</span></a></div>
+                    <div class="event-item" style="display: block;">
+                        <a target="_blank" href="#" class="banner">
+                            <img src="images/banner1.jpg" class="photo" alt="" style="width: 1000px; height: 259px;" />
+                        </a>
+                    </div>
+                    <div class="event-item" style="display: none;">
+                        <a target="_blank" href="#" class="banner">
+                            <img src="images/banner2.jpg" class="photo" alt="" style="width: 1000px; height: 259px;" />
+                        </a>
+                    </div>
+                    <div class="event-item" style="display: none;">
+                        <a target="_blank" href="#" class="banner">
+                            <img src="images/banner3.jpg" class="photo" alt="" style="width: 1000px; height: 259px;" />
+                        </a>
+                    </div>
+                    <div class="event-item" style="display: none;">
+                        <a target="_blank" href="#" class="banner">
+                            <img src="images/banner4.jpg" class="photo" alt="" style="width: 1000px; height: 259px;" />
+                        </a>
+                    </div>
+                    <div class="event-item" style="display: none;">
+                        <a target="_blank" href="#" class="banner">
+                            <img src="images/banner5.jpg" class="photo" alt="" style="width: 1000px; height: 259px;" />
+                        </a>
+                    </div>
+                    <div class="event-item" style="display: none;">
+                        <a target="_blank" href="#" class="banner">
+                            <img src="images/banner6.jpg" class="photo" alt="" style="width: 1000px; height: 259px;" />
+                        </a>
+                    </div>
+                    <div class="event-item" style="display: none;">
+                        <a target="_blank" href="#" class="banner">
+                            <img src="images/banner7.jpg" class="photo" alt="" style="width: 1000px; height: 259px;" />
+                        </a>
+                    </div>
+                    <div class="event-item" style="display: none;">
+                        <a target="_blank" href="#" class="banner">
+                            <img src="images/banner8.jpg" class="photo" alt="" style="width: 1000px; height: 259px;" />
+                        </a>
+                    </div>
+                    <div class="event-item" style="display: none;">
+                        <a target="_blank" href="#" class="banner">
+                            <img src="images/banner9.jpg" class="photo" alt="" style="width: 1000px; height: 259px;" />
+                        </a>
+                    </div>
+                    <div class="switch-tab">
+                        <a href="#" onclick="return false;" class="current">1</a>
+                        <a href="#" onclick="return false;">2</a>
+                        <a href="#" onclick="return false;">3</a>
+                        <a href="#" onclick="return false;">4</a>
+                        <a href="#" onclick="return false;">5</a>
+                        <a href="#" onclick="return false;">6</a>
+                        <a href="#" onclick="return false;">7</a>
+                        <a href="#" onclick="return false;">8</a>
+                        <a href="#" onclick="return false;">9</a>
+                    </div>
+                </div>
+            </div>
+            <script type="text/javascript">
+                 $('#inner').nav({ t: 2000, a: 1000 });
+            </script>
+        </div>
+        
+        <div class="lanmu_box_style1" id="lanmu_style1">
+                <div class="lanmu_box_style1_left" id="lanmu_style1_left">
+
+                    <div id="Nav_37" class="nav_box">
+
+                        <div class="nav_title"><span class="nav_sign">竞赛公告</span><span class="nav_more" style="display:none;"><a href="#" target="_self">more</a></span></div>
+
+
+                        <div id="Nav_Conent_37" class="nav_list">
+
+                            <div id="Nav_Demo_37" style="height:60px">
+                                <div id="Nav_Demo_1_37">
+                                    <ul id="Nav_Normal_37"><!--#begineditable name="标题列表" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/tpltitlelist.jsp" tpltype="1" contype="news" clone="" viewid="202062" contentviewid="" tagname="标题列表"--><script language="javascript" src="/system/resource/js/dynclicks.js"></script><li class="nav_list_style_1">
+  &bull; <a href="info/1017/1233.htm" class="nav_list_title" target="_self">2018年第八届桂林电子科技大学 “五四杯”网球赛...</a><span class="nav_list_date">&nbsp;[04-26]</span>
+</li>                                        
+<li class="nav_list_style_1">
+  &bull; <a href="info/1017/1234.htm" class="nav_list_title" target="_self">2018年桂林电子科技大学 “第九届定向越野赛”竞...</a><span class="nav_list_date">&nbsp;[04-24]</span>
+</li>                                        
+<li class="nav_list_style_1">
+  &bull; <a href="info/1017/1235.htm" class="nav_list_title" target="_self">桂林电子科技大学 2018年“五四杯”排球联赛竞赛...</a><span class="nav_list_date">&nbsp;[04-24]</span>
+</li>                                        
+<li class="nav_list_style_1">
+  &bull; <a href="info/1017/1236.htm" class="nav_list_title" target="_self">桂林电子科技大学2018年五四杯国术比赛规程</a><span class="nav_list_date">&nbsp;[04-24]</span>
+</li>                                        
+<li class="nav_list_style_1">
+  &bull; <a href="info/1017/1237.htm" class="nav_list_title" target="_self">篮球竞赛规程</a><span class="nav_list_date">&nbsp;[04-13]</span>
+</li>                                        
+<script>_showDynClickBatch(['dynclicks_u0_1233','dynclicks_u0_1234','dynclicks_u0_1235','dynclicks_u0_1236','dynclicks_u0_1237'],[1233,1234,1235,1236,1237],"wbnews", 1411890727)</script>
+<!--#endeditable--></ul>
+
+
+                                </div><div id="Nav_Demo_2_37"></div>
+                            </div>
+
+                        </div>
+                    </div>
+
+                    <script type="text/javascript">
+                        var NavRoll_37=new PARoll
+                        (
+                        {
+                            speed:80,
+                            box:"Nav_Demo_37",
+                            box1:"Nav_Demo_1_37",
+                            box2:"Nav_Demo_2_37",
+                            objname:"NavRoll_37",
+                            width:"",
+                            height:"",
+                            direction:"top"
+                        }
+                        )
+                    </script>
+
+                    <div id="Nav_51" class="nav_box">
+
+                        <div class="nav_title"><span class="nav_sign">表格下载</span><span class="nav_more" style="display:none;"><a href="" target="_self">more</a></span></div>
+
+
+                        <div id="Nav_Conent_51" class="nav_list">
+
+                            <div id="Nav_Demo_51" style="height:60px">
+                                <div id="Nav_Demo_1_51">
+
+
+                                    <ul id="Nav_Normal_51"><!--#begineditable name="表格下载列表" action="" layout="" tpltype="" contype="" clone="" viewid="202070" contentviewid="" tagname="表格下载列表"--><li class="nav_list_style_1">
+  &bull; <a href="info/1018/1249.htm" class="nav_list_title" target="_self">校第十四届运动会报名表</a><span class="nav_list_date">&nbsp;[09-29]</span>
+</li>                                        
+<li class="nav_list_style_1">
+  &bull; <a href="info/1018/1244.htm" class="nav_list_title" target="_self">2019年第九届桂林电子科技大学“五四杯”网球赛...</a><span class="nav_list_date">&nbsp;[04-17]</span>
+</li>                                        
+<li class="nav_list_style_1">
+  &bull; <a href="info/1018/1245.htm" class="nav_list_title" target="_self">桂林电子科技大学第八届 “五四杯”网球赛报名表</a><span class="nav_list_date">&nbsp;[04-26]</span>
+</li>                                        
+<li class="nav_list_style_1">
+  &bull; <a href="info/1018/1246.htm" class="nav_list_title" target="_self">2018五四杯篮球赛报名表</a><span class="nav_list_date">&nbsp;[04-13]</span>
+</li>                                        
+<li class="nav_list_style_1">
+  &bull; <a href="info/1018/1247.htm" class="nav_list_title" target="_self">达标测试免测申请表</a><span class="nav_list_date">&nbsp;[11-03]</span>
+</li>                                        
+<script>_showDynClickBatch(['dynclicks_u1_1249','dynclicks_u1_1244','dynclicks_u1_1245','dynclicks_u1_1246','dynclicks_u1_1247'],[1249,1244,1245,1246,1247],"wbnews", 1411890727)</script>
+<!--#endeditable--></ul>
+
+                                </div><div id="Nav_Demo_2_51"></div>
+                            </div>
+
+                        </div>
+                    </div>
+
+                    <script type="text/javascript">
+                        var NavRoll_51=new PARoll
+                        (
+                        {
+                            speed:80,
+                            box:"Nav_Demo_51",
+                            box1:"Nav_Demo_1_51",
+                            box2:"Nav_Demo_2_51",
+                            objname:"NavRoll_51",
+                            width:"",
+                            height:"",
+                            direction:"top"
+                        }
+                        )
+                    </script>
+
+
+                    <div id="Nav_56" class="nav_box">
+
+                        <div class="nav_title"><span class="nav_sign">友情链接</span><span class="nav_more" style="display:none;"><a href="#">more</a></span></div>
+
+
+                        <div id="Nav_Conent_56" class="nav_content">
+                            <div class="link_box"><select onchange="Link_Open(this.options[this.selectedIndex].value,'1')"><option value="">======友情链接======</option><option value="http://www.guet.edu.cn">桂林电子科技大学</option></select></div>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="lanmu_box_style1_right" id="lanmu_style1_right">
+
+                    <div class="template_box_layout_left" style="width:65%;">
+                        <div id="Template_22" class="template_box" style="width:100%;">
+
+                            <div class="template_title" style="background:url(images/gsjj.jpg) no-repeat 10px 0px;height:30px;margin:0px 10px 0 0"><span class="template_sign" style="display:none">部门简介</span><span class="template_more" style="display:;"><a href="gywm/bmjs.htm" target="">more</a></span></div>
+
+                            <div class="template_box_1">
+                                <div id="Template_Content_22" class="template_introduct_content" style="margin:0px 0px 0 0"><!--#begineditable name="头条文章带摘要" action="webber.wbst.com.news.FirstNews" layout="/system/_component/news/list/firstnews2.jsp" tpltype="0" contype="" clone="" viewid="202084" contentviewid="" tagname="头条文章带摘要"--><style>
+A.f202084:link{COLOR: #222222;}  
+A.f202084:visited{COLOR: #222222;}  
+A.f202084:active{COLOR: #CC0000;}  
+A.f202084:hover{COLOR: #CC0000;}  
+</style>  
+<table width="100%" cellspacing="10" cellpadding="0">
+    <tr><td align="center" nowrap>
+    
+        <a href="info/1007/1355.htm" class="c202084" title="体育部党员志愿者为西校区筑起一扇“防疫门”" target="_blank">体育部党员志愿者为西校区筑起一扇“防疫门”</a>
+		    
+
+    </td></tr>
+    <tr>
+        <td><span class="sumstyle202084">&nbsp;&nbsp;&nbsp;&nbsp;    疫情就是号角。学校党委下发《关于组织动员各基层党组织和广大党员干部积极投身学校疫情防控工作的实施方案》后，体育部党员干部立即行动，纷纷报名参加志愿活动，冲在一线，奋力打赢疫情防控阻击战。根据学校应急处置组统筹，体育部直属党支部负责包干西校区大门出入口出入人员防控协助工作，自值班以来志愿者都能提前到岗，在做好自我保护的同时，严格监督安保人员对车辆和人员的测温登记等工作，必要时还协助做...&nbsp;&nbsp;</span>
+
+        	<a href="info/1007/1355.htm" title="体育部党员志愿者为西校区筑起一扇“防疫门”" target="_blank">
+        		<span class="detailstyle202084">[详细]</span>
+        	</a>
+      
+        </td>
+    </tr>
+</table><!--#endeditable--></div>
+                            </div>
+
+                        </div>
+
+                        <div id="Template_37" class="template_box" style="width:100%;">
+
+                            <div class="template_title"><span class="template_sign">新闻动态</span><span class="template_more"><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1008" style="display:none">more</a></span></div>
+
+
+                            <div class="template_box_1">
+
+                                <div id="Template_Content_37" class="template_list_box"><!--#begineditable name="新闻动态标题列表" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/tpltitlelist.jsp" tpltype="1" contype="news" clone="" viewid="202081" contentviewid="" tagname="新闻动态标题列表"--><ul class="template_list_title_box">
+    <li class="template_list_title_left"><a href="info/1008/1382.htm" class="template_list_title" target="_self">体育部直属党支部开展2020年第一次理论中心组学习（图）</a></li>
+    <li class="template_list_title_right"><span>2020-04-11</span></li>
+</ul>                                    
+<ul class="template_list_title_box">
+    <li class="template_list_title_left"><a href="info/1008/1381.htm" class="template_list_title" target="_self">【疫情防控】体育部积极开展体育课程网络教学</a></li>
+    <li class="template_list_title_right"><span>2020-04-11</span></li>
+</ul>                                    
+<ul class="template_list_title_box">
+    <li class="template_list_title_left"><a href="info/1008/1375.htm" class="template_list_title" target="_self">体育部召开关于体育教学过程中落实思政教育会议</a></li>
+    <li class="template_list_title_right"><span>2020-03-30</span></li>
+</ul>                                    
+<ul class="template_list_title_box">
+    <li class="template_list_title_left"><a href="info/1008/1374.htm" class="template_list_title" target="_self">2020年新学期体育场馆安全检查</a></li>
+    <li class="template_list_title_right"><span>2020-03-22</span></li>
+</ul>                                    
+<ul class="template_list_title_box">
+    <li class="template_list_title_left"><a href="info/1008/1373.htm" class="template_list_title" target="_self">停学不停训 桂电运动健儿积极进行“云训练”</a></li>
+    <li class="template_list_title_right"><span>2020-03-19</span></li>
+</ul>                                    
+<ul class="template_list_title_box">
+    <li class="template_list_title_left"><a href="info/1008/1362.htm" class="template_list_title" target="_self">响应党的号召，体育部广大党员踊跃捐款支持抗疫</a></li>
+    <li class="template_list_title_right"><span>2020-03-01</span></li>
+</ul>                                    
+<script>_showDynClickBatch(['dynclicks_u3_1382','dynclicks_u3_1381','dynclicks_u3_1375','dynclicks_u3_1374','dynclicks_u3_1373','dynclicks_u3_1362'],[1382,1381,1375,1374,1373,1362],"wbnews", 1411890727)</script>
+<!--#endeditable--></div>
+
+                            </div>
+                        </div>
+
+                    </div>
+                    <div id="Template_36" class="template_box_layout_right" style="width:auto;">
+
+                        <div class="template_title_layout_right" style="background:url(images/gcal.jpg) no-repeat 20px 0px;height:30px;margin:0px 5px 0 0"><span class="template_sign" style="display:none">合作交流</span><span class="template_more" style="display:;float:right;font-weight:normal;padding:1px 16px 0 10px;margin:0 0 0 0;background:url(images/more_icon.gif) no-repeat 0 7px;"><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1027" target="">more</a></span></div>
+
+
+                        <div class="template_box_1_layout_right"><!--#begineditable name="变换图片文章" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/imagechangenews.jsp" tpltype="0" contype="news" clone="" viewid="202064" contentviewid="" tagname="变换图片文章"-->
+<LINK href="/system/resource/style/component/news/list/imagechangenews.css" type="text/css" rel="stylesheet">
+<script language="javascript" src="/system/resource/js/news/imagechangenews.js"></script><script language="JavaScript">
+var u_u4_icn = new ImageChangeNews("u_u4_", 230, 150, 4, 2.0, true, false, false, true);
+
+//初始化图片, 并启动定时
+function u_u4_init_img()
+{
+
+    u_u4_icn.addimg("\/__local\/B\/B5\/80\/CB085213B425513556A1565CD47_961EDD00_CF83.jpg", "info\/1027\/1003.htm", "广州学院到我校进行篮球交流", "");
+
+    u_u4_icn.addimg("\/__local\/F\/B5\/30\/5B5FB947EEDB20EA59D5C45F762_66C2884A_7C8A.jpg", "info\/1027\/1002.htm", "青岛科技大学到我部调研交流", "");
+
+    u_u4_icn.addimg("\/__local\/0\/50\/F3\/8E6FA0E4913296875D0AE8AC613_9D3BEFED_6E52.jpg", "info\/1027\/1165.htm", "更新理念、科学训练再创我...", "");
+
+    u_u4_icn.changeimg(0);
+}
+</script><table cellspacing="0" cellpadding="0" border="0" style="padding:0px margin:0px; border:0px">
+    <tr><td>
+        <div style="OVERFLOW: hidden;height:150px;width:230px">
+            <div id="u_u4_div" align="center" style="padding:0px;margin:0px;border:0px solid black;background-color:#000000;FILTER: progid:DXImageTransform.Microsoft.RevealTrans (duration=2.0,transition=23);height:150px;width:230px">
+                <div id="u_u4_imgdiv" style="padding:0px;border:0px;"><a id="u_u4_url" target="_blank"><img id="u_u4_pic" border="0" width="230" height="150" src="/system/resource/images/space.gif"></a></div>
+            </div>
+            <div style="filter:alpha(style=1,opacity=10,finishOpacity=80);width:230px;height:19px;text-align:right;top:-19px;position:relative;padding:0px;margin:0px;border:0px;">
+<a href="javascript:u_u4_icn.changeimg(0)" ; id="u_u4_selectNode0" class="imagechangenews_pnode" target="_self">1</a><a href="javascript:u_u4_icn.changeimg(1)" ; id="u_u4_selectNode1" class="imagechangenews_pnode" target="_self">2</a><a href="javascript:u_u4_icn.changeimg(2)" ; id="u_u4_selectNode2" class="imagechangenews_pnode" target="_self">3</a>
+            </div></div></td></tr>
+       
+    <tr><td height="25">
+        <div align="center" style="overflow:hidden;text-overflow:ellipsis;height:25px;width:230px;"><a target="_blank" class="titlestyle202064" id="u_u4_newstitle"></a></div>
+    </td></tr>
+<div align="left" display="none" style="overflow:hidden;text-overflow:ellipsis;height:0px;width:230px;padding-left:2px;padding-right:2px"><a target="_blank" class="summarystyle202064" id="u_u4_newssummary"></a></div>   
+</table><SCRIPT language="JavaScript">u_u4_init_img();</SCRIPT><!--#endeditable--></div>
+
+                    </div>
+
+
+                    <div id="Template_20" class="template_box" style="width:100%;">
+
+                        <div class="template_title" style="background:url(images/cptj.jpg) no-repeat 10px 10px;height:30px;margin:0px 20px 0 0"><span class="template_sign" style="display:none">体育赛事</span><span class="template_more" style="display:;float:right;font-weight:normal;padding:12px 3px 0 10px;margin:0 0 0 0;background:url(images/more_icon.gif) no-repeat 0 18px;"><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1015">more</a></span></div>
+
+
+                        <div class="template_box_1">
+                            <div id="Template_Content_20" class="template_pic_box" style="margin:20px 20px 20px 15px"><!--#begineditable name="滚动图片文章" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/imagescrollnews.jsp" tpltype="0" contype="news" clone="" viewid="202080" contentviewid="" tagname="滚动图片文章"-->                  
+                   
+<script language="javascript" src="/system/resource/js/vsbpreloadimg.js"></script>
+<TABLE width="600" height="122" cellSpacing="0" cellPadding="0" align="center" border="0">                   
+  <TR>                   
+    <TD>                   
+      <DIV id="u_u5_demo" style="OVERFLOW: hidden; WIDTH: 600px;">
+      <TABLE cellSpacing="0" cellPadding="0" align="left" border="0" cellspace="0">                   
+        <TR>                   
+          <TD id="u_u5_demo1" vAlign="top">
+           <table width="600" border="0" cellpadding="0" cellspacing="0">
+            <tr>                   
+                               
+                <td width="150" valign="top" align="center" style="padding-left:7px;padding-right:8px">
+                <div style="Padding: 0px; width: 150px"><table cellpadding="3" cellspacing="0" bgcolor="#f5f5f5" style="border:1px solid #e3e3e3;"><tr><td width="150" height="112" valign="middle" align="center"><a href="info/1015/1272.htm" target="_blank"><img border="0" name="u_u5_img" src="/system/resource/images/loading.gif" alt="区运会我校足球挺进决赛" hspace="0" vspace="0"></a></td></tr></table></div>
+                               
+                <div class="titlestyle202080" style="text-align:center;vertical-align:bottom">区运会我校足球挺进决赛</div>
+                               
+                </td>                   
+                               
+                <td width="150" valign="top" align="center" style="padding-left:7px;padding-right:8px">
+                <div style="Padding: 0px; width: 150px"><table cellpadding="3" cellspacing="0" bgcolor="#f5f5f5" style="border:1px solid #e3e3e3;"><tr><td width="150" height="112" valign="middle" align="center"><a href="info/1015/1275.htm" target="_blank"><img border="0" name="u_u5_img" src="/system/resource/images/loading.gif" alt="桂电田径队再创新辉煌" hspace="0" vspace="0"></a></td></tr></table></div>
+                               
+                <div class="titlestyle202080" style="text-align:center;vertical-align:bottom">桂电田径队再创新辉煌</div>
+                               
+                </td>                   
+                               
+                <td width="150" valign="top" align="center" style="padding-left:7px;padding-right:8px">
+                <div style="Padding: 0px; width: 150px"><table cellpadding="3" cellspacing="0" bgcolor="#f5f5f5" style="border:1px solid #e3e3e3;"><tr><td width="150" height="112" valign="middle" align="center"><a href="info/1015/1278.htm" target="_blank"><img border="0" name="u_u5_img" src="/system/resource/images/loading.gif" alt="2018中国杯国际定向越野巡回赛广西巴马站圆满结束" hspace="0" vspace="0"></a></td></tr></table></div>
+                               
+                <div class="titlestyle202080" style="text-align:center;vertical-align:bottom">2018中国杯国际定向越野巡...</div>
+                               
+                </td>                   
+                               
+                <td width="150" valign="top" align="center" style="padding-left:7px;padding-right:8px">
+                <div style="Padding: 0px; width: 150px"><table cellpadding="3" cellspacing="0" bgcolor="#f5f5f5" style="border:1px solid #e3e3e3;"><tr><td width="150" height="112" valign="middle" align="center"><a href="info/1015/1279.htm" target="_blank"><img border="0" name="u_u5_img" src="/system/resource/images/loading.gif" alt="2018桂林市高校篮球联赛我校女篮夺冠" hspace="0" vspace="0"></a></td></tr></table></div>
+                               
+                <div class="titlestyle202080" style="text-align:center;vertical-align:bottom">2018桂林市高校篮球联赛我...</div>
+                               
+                </td>                   
+                               
+                <td width="150" valign="top" align="center" style="padding-left:7px;padding-right:8px">
+                <div style="Padding: 0px; width: 150px"><table cellpadding="3" cellspacing="0" bgcolor="#f5f5f5" style="border:1px solid #e3e3e3;"><tr><td width="150" height="112" valign="middle" align="center"><a href="info/1015/1280.htm" target="_blank"><img border="0" name="u_u5_img" src="/system/resource/images/loading.gif" alt="第八届“五四杯”网球团体赛圆满结束" hspace="0" vspace="0"></a></td></tr></table></div>
+                               
+                <div class="titlestyle202080" style="text-align:center;vertical-align:bottom">第八届“五四杯”网球团体...</div>
+                               
+                </td>                   
+                               
+            </tr>                   
+           </table>                   
+          </TD>                   
+          <TD id="u_u5_demo2" vAlign="top">&nbsp;</TD>                   
+        </TR>                   
+      </TABLE>                   
+      </DIV>                   
+    </TD>
+  </TR>                   
+</TABLE>                   
+<SCRIPT language="javascript">
+    var u_u5_imgs = new VsbPreloadImgArray();
+    
+    //初始化图片
+    function u_u5_init_img()
+    {
+
+            u_u5_imgs.addImg("\/__local\/A\/4A\/03\/8BC2AC65404FCAD7CC2348FDC50_6BB74B8B_3D07.jpg", "0", u_u5_onimgload);
+
+            u_u5_imgs.addImg("\/__local\/3\/5F\/FB\/2B94806E9B358DCB8BDA509EC07_39383AFA_5157.jpg", "1", u_u5_onimgload);
+
+            u_u5_imgs.addImg("\/__local\/3\/B0\/FD\/7A4459DE5D6EEB1BF903045E1EF_799F29DC_11238.jpg", "2", u_u5_onimgload);
+
+            u_u5_imgs.addImg("\/__local\/2\/5F\/FD\/EA360A7EFA80FEBBBAC55CB0BA0_38832503_CCE2.jpg", "3", u_u5_onimgload);
+
+            u_u5_imgs.addImg("\/__local\/1\/50\/AA\/D88075A552D447552C328065B3B_43CB92AF_B653.jpg", "4", u_u5_onimgload);
+
+    }
+    function u_u5_onimgload(img, imgid)
+    {
+        var imgobjs = document.getElementsByName("u_u5_img");
+        var imgindex = new Number(imgid);
+        
+        img.showImg(imgobjs[imgindex], 150, 112, true, true);
+        img.showImg(imgobjs[imgindex+ 5], 150, 112, true, true);
+    }
+
+    var u_u5_MyMar;
+    var u_u5_speed3;
+    var u_u5_move = true;
+    var u_u5_movenum = 0;
+    var u_u5_pos = null; //td位置组
+    
+    function u_u5_initpos()
+    {
+        u_u5_pos = new Array();
+        
+        var tds1 = document.getElementById("u_u5_demo1").childNodes[0].rows[0].cells;
+        
+        for(i = 0 ;i < tds1.length; i++)
+        {
+            u_u5_pos[u_u5_pos.length] = tds1[i].offsetLeft;
+        }
+        
+        var tds2 = document.getElementById("u_u5_demo2").childNodes[0].rows[0].cells;
+        var tds2offset = document.getElementById("u_u5_demo2").offsetLeft;
+        for(i = 0 ;i < tds2.length; i++)
+        {
+            u_u5_pos[u_u5_pos.length] = tds2[i].offsetLeft + tds2offset;
+        }
+    }
+    function u_u5_getpos(scrollpos)
+    {
+        for(i = 0; i < u_u5_pos.length; i++)
+        {
+            if(scrollpos < u_u5_pos[i])
+                return i-1;
+        }
+    }
+
+    function u_u5_Marquee() 
+    {
+        try 
+        { 
+            if(!u_u5_move)
+                return;
+            
+            var demoobj = document.getElementById("u_u5_demo");
+            var demo1obj = document.getElementById("u_u5_demo1");
+            //滚动步长
+            var scrollstep = 5
+            
+            //当前位置
+            var oldscrollLeft = demoobj.scrollLeft;
+            
+            //更新后的位置, 已考虑过回滚
+            var newscrollLeft = (oldscrollLeft + scrollstep)%demo1obj.scrollWidth;
+            
+            demoobj.scrollLeft = newscrollLeft; 
+            
+        } 
+        catch(e) 
+        { 
+        } 
+    } 
+    function u_u5_clearInterval()
+    {
+        clearInterval(u_u5_MyMar);
+    }
+    
+    function u_u5_setInterval()
+    {
+        u_u5_MyMar = setInterval(u_u5_Marquee,u_u5_speed3);
+    }
+    
+    function u_u5_stopmove()
+    {
+        u_u5_move = false;
+    }
+    function u_u5_startmove()
+    {
+        u_u5_move = true;
+    }
+    
+    function u_u5_init()
+    {
+        u_u5_speed3 = 100;
+        if(u_u5_speed3 < 1)
+        {
+            u_u5_speed3 = 1;
+        }
+        
+        document.getElementById("u_u5_demo").onmouseover = u_u5_stopmove;
+        document.getElementById("u_u5_demo").onmouseout = u_u5_startmove;
+        document.getElementById("u_u5_demo2").innerHTML = document.getElementById("u_u5_demo1").innerHTML;
+        
+        u_u5_init_img();
+
+        u_u5_setInterval();
+
+    }
+    
+    u_u5_init();
+</SCRIPT> <!--#endeditable--></div>
+                        </div>
+                    </div>
+
+                    <script type="text/javascript">
+                        var TMRoll_20=new PARoll
+                        (
+                        {
+                            speed:30,
+                            box:"Template_Content_20",
+                            box1:"Template_Content_1_20",
+                            box2:"Template_Content_2_20",
+                            objname:"TMRoll_20",
+                            width:"",
+                            height:"",
+                            direction:"left"
+                        }
+                        )
+                    </script>
+
+
+                </div>
+                <div class="clear" id="lanmu_style1_bottom"></div>
+            </div>
+        <script type="text/javascript">
+
+
+   var lanmu_nav_menu=document.getElementById("Nav_Menu_");
+   var   lanmu_nav_submenu=document.getElementById("Nav_submenu_");
+   if(lanmu_nav_menu!=null)
+    {
+      lanmu_nav_menu.style.display="";
+    }
+   if(lanmu_nav_submenu!=null)
+    {
+      lanmu_nav_submenu.style.display="";
+    }
+            </script>
+        <div class="bottom_box"><p align="center">&nbsp; <span class="STYLE6">桂林电子科技大学体育部 版权所有&nbsp;Copyright <span style="font-family: Arial">&copy;</span> 2019</span>&nbsp;</p></div>
+     </div>
+</body>
+</html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>体育部</title><META Name="keywords" Content="体育部" />
+
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <link href="style/lanmu.css" type="text/css" rel="stylesheet" />
+    <link href="style/public.css" type="text/css" rel="stylesheet" />
+    <link href="style/dropmenu.css" type="text/css" rel="stylesheet" /> 
+    <link href="style/nav.css" rel="stylesheet" />
+    <script src="js/jquery-1.9.1.min.js" type="text/javascript"></script>
+    <script src="js/jquery.nav.js" type="text/javascript"></script>  
+    <script src="js/all.js" type="text/javascript"></script>
+    <script type="text/javascript">        
+        function Link_Open(link,Target) { if(link!="") { if(Target=="1") { window.open(link,"_target"); } else { location.href=link; } } }
+    </script>
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547565350574503070003 -->
+<link rel="stylesheet" type="text/css" href="index.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1411890727)</script>
+</head>
+<body>
+    <div class="page_style">
+        <div class="menu_box">
+            <div class="menu_box_style1_1">
+                <ul>
+                    <li class="menu_box_style1_1_1"><a href=""><img id="ctl00_Logo_image" src="images/logo.png" style="border-width:0px;" /></a></li>
+                    <li class="menu_box_style1_1_2"><br /></li>
+                    <li class="clear"></li>
+                </ul>
+            </div>
+            <div class="menu_box_style1_2" id="MainMenu">
+                <ul>
+
+                    <li class="menu_style_1" id="MainMenuItem" name="MainMenuItem">
+                        <a href="" class="menu_1" id="Menu_1" target="_self">网站首页</a>
+                    </li>
+
+                    <li class="menu_style_1" id="MainMenuItem" name="MainMenuItem">
+                        <a href="gywm/bmjs.htm" class="menu_1" id="Menu_3" target="_self">关于我们</a><ul>
+                            <li><a href="gywm/bmjs.htm" target="">部门介绍</a></li>
+                            <li><a href="gywm/xrld.htm" target="">现任领导</a></li>
+                            <li><a href="gywm/zzjg.htm" target="">组织架构</a></li>
+                            <li><a href="gywm/fzlc.htm" target="">发展历程</a></li>
+                        </ul>
+                    </li>
+
+                    <li class="menu_style_1" id="MainMenuItem" name="MainMenuItem">
+                        <a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1008" class="menu_1" id="Menu_5" target="_self">新闻动态</a><ul>
+                            <li><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1008">部门新闻</a></li>
+                            <li><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1009">院校动态</a></li>
+                        </ul>
+                    </li>
+
+                    <li class="menu_style_1" id="MainMenuItem" name="MainMenuItem">
+                        <a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1011" class="menu_1" id="Menu_23" target="_self">体育教学</a><ul>
+                            <li><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1011">本科教学</a></li>
+                            <li><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1012">研究生教学</a></li>
+                            <li><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1013">精品课程</a></li>
+                        </ul>
+                    </li>
+
+                    <li class="menu_style_1" id="MainMenuItem" name="MainMenuItem">
+                        <a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1015" class="menu_1" id="Menu_6" target="_self">运动竞赛</a><ul>
+                            <li><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1015">精彩赛事</a></li>
+                            <li><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1016">竞赛规则</a></li>
+                            <li><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1017">竞赛公告</a></li>
+                            <li><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1018">表格下载</a></li>
+                            <li><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1019">校队组建</a></li>
+                        </ul>
+                    </li>
+
+                    <li class="menu_style_1" id="MainMenuItem" name="MainMenuItem">
+                        <a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1021" class="menu_1" id="Menu_24" target="_self">体育场馆</a><ul>
+                            <li><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1021">管理条例</a></li>
+                            <li><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1022">管理职责</a></li>
+                        </ul>
+                    </li>
+
+                    <li class="menu_style_1" id="MainMenuItem" name="MainMenuItem">
+                        <a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1024" class="menu_1" id="Menu_7" target="_self">党建工作</a><ul>
+                            <li><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1024">专题活动</a></li>
+                            <li><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1025">理论学习</a></li>
+                            <li><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1026">基层动态</a></li>
+                        </ul>
+                    </li>
+
+                    <li class="menu_style_1" id="MainMenuItem" name="MainMenuItem">
+                        <a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1027" class="menu_1" id="Menu_4" target="_self">合作交流</a>
+                    </li>
+
+                    <li class="menu_style_1" id="MainMenuItem" name="MainMenuItem">
+                        <a href="lxwm.htm" class="menu_1" id="Menu_8" target="_self">联系我们</a>
+                    </li>
+
+                </ul>
+            </div>
+            
+        </div>
+        <script type="text/javascript">
+             var Lanmu2_id="";
+             var Lanmu3_id="";
+        </script>
+        
+        <div class="banner_box" id="banner_box">
+            <!-- 代码 开始 -->
+            <div id="inner">
+                <div class="hot-event">
+                    <div class="switch-nav"><a href="#" onclick="return false;" class="prev"><i class="ico i-prev"></i><span class="hide-clip">上一个</span></a><a href="#" onclick="return false;" class="next"><i class="ico i-next"></i><span class="hide-clip">下一个</span></a></div>
+                    <div class="event-item" style="display: block;">
+                        <a target="_blank" href="#" class="banner">
+                            <img src="images/banner1.jpg" class="photo" alt="" style="width: 1000px; height: 259px;" />
+                        </a>
+                    </div>
+                    <div class="event-item" style="display: none;">
+                        <a target="_blank" href="#" class="banner">
+                            <img src="images/banner2.jpg" class="photo" alt="" style="width: 1000px; height: 259px;" />
+                        </a>
+                    </div>
+                    <div class="event-item" style="display: none;">
+                        <a target="_blank" href="#" class="banner">
+                            <img src="images/banner3.jpg" class="photo" alt="" style="width: 1000px; height: 259px;" />
+                        </a>
+                    </div>
+                    <div class="event-item" style="display: none;">
+                        <a target="_blank" href="#" class="banner">
+                            <img src="images/banner4.jpg" class="photo" alt="" style="width: 1000px; height: 259px;" />
+                        </a>
+                    </div>
+                    <div class="event-item" style="display: none;">
+                        <a target="_blank" href="#" class="banner">
+                            <img src="images/banner5.jpg" class="photo" alt="" style="width: 1000px; height: 259px;" />
+                        </a>
+                    </div>
+                    <div class="event-item" style="display: none;">
+                        <a target="_blank" href="#" class="banner">
+                            <img src="images/banner6.jpg" class="photo" alt="" style="width: 1000px; height: 259px;" />
+                        </a>
+                    </div>
+                    <div class="event-item" style="display: none;">
+                        <a target="_blank" href="#" class="banner">
+                            <img src="images/banner7.jpg" class="photo" alt="" style="width: 1000px; height: 259px;" />
+                        </a>
+                    </div>
+                    <div class="event-item" style="display: none;">
+                        <a target="_blank" href="#" class="banner">
+                            <img src="images/banner8.jpg" class="photo" alt="" style="width: 1000px; height: 259px;" />
+                        </a>
+                    </div>
+                    <div class="event-item" style="display: none;">
+                        <a target="_blank" href="#" class="banner">
+                            <img src="images/banner9.jpg" class="photo" alt="" style="width: 1000px; height: 259px;" />
+                        </a>
+                    </div>
+                    <div class="switch-tab">
+                        <a href="#" onclick="return false;" class="current">1</a>
+                        <a href="#" onclick="return false;">2</a>
+                        <a href="#" onclick="return false;">3</a>
+                        <a href="#" onclick="return false;">4</a>
+                        <a href="#" onclick="return false;">5</a>
+                        <a href="#" onclick="return false;">6</a>
+                        <a href="#" onclick="return false;">7</a>
+                        <a href="#" onclick="return false;">8</a>
+                        <a href="#" onclick="return false;">9</a>
+                    </div>
+                </div>
+            </div>
+            <script type="text/javascript">
+                 $('#inner').nav({ t: 2000, a: 1000 });
+            </script>
+        </div>
+        
+        <div class="lanmu_box_style1" id="lanmu_style1">
+                <div class="lanmu_box_style1_left" id="lanmu_style1_left">
+
+                    <div id="Nav_37" class="nav_box">
+
+                        <div class="nav_title"><span class="nav_sign">竞赛公告</span><span class="nav_more" style="display:none;"><a href="#" target="_self">more</a></span></div>
+
+
+                        <div id="Nav_Conent_37" class="nav_list">
+
+                            <div id="Nav_Demo_37" style="height:60px">
+                                <div id="Nav_Demo_1_37">
+                                    <ul id="Nav_Normal_37"><!--#begineditable name="标题列表" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/tpltitlelist.jsp" tpltype="1" contype="news" clone="" viewid="202062" contentviewid="" tagname="标题列表"--><script language="javascript" src="/system/resource/js/dynclicks.js"></script><li class="nav_list_style_1">
+  &bull; <a href="info/1017/1233.htm" class="nav_list_title" target="_self">2018年第八届桂林电子科技大学 “五四杯”网球赛...</a><span class="nav_list_date">&nbsp;[04-26]</span>
+</li>                                        
+<li class="nav_list_style_1">
+  &bull; <a href="info/1017/1234.htm" class="nav_list_title" target="_self">2018年桂林电子科技大学 “第九届定向越野赛”竞...</a><span class="nav_list_date">&nbsp;[04-24]</span>
+</li>                                        
+<li class="nav_list_style_1">
+  &bull; <a href="info/1017/1235.htm" class="nav_list_title" target="_self">桂林电子科技大学 2018年“五四杯”排球联赛竞赛...</a><span class="nav_list_date">&nbsp;[04-24]</span>
+</li>                                        
+<li class="nav_list_style_1">
+  &bull; <a href="info/1017/1236.htm" class="nav_list_title" target="_self">桂林电子科技大学2018年五四杯国术比赛规程</a><span class="nav_list_date">&nbsp;[04-24]</span>
+</li>                                        
+<li class="nav_list_style_1">
+  &bull; <a href="info/1017/1237.htm" class="nav_list_title" target="_self">篮球竞赛规程</a><span class="nav_list_date">&nbsp;[04-13]</span>
+</li>                                        
+<script>_showDynClickBatch(['dynclicks_u0_1233','dynclicks_u0_1234','dynclicks_u0_1235','dynclicks_u0_1236','dynclicks_u0_1237'],[1233,1234,1235,1236,1237],"wbnews", 1411890727)</script>
+<!--#endeditable--></ul>
+
+
+                                </div><div id="Nav_Demo_2_37"></div>
+                            </div>
+
+                        </div>
+                    </div>
+
+                    <script type="text/javascript">
+                        var NavRoll_37=new PARoll
+                        (
+                        {
+                            speed:80,
+                            box:"Nav_Demo_37",
+                            box1:"Nav_Demo_1_37",
+                            box2:"Nav_Demo_2_37",
+                            objname:"NavRoll_37",
+                            width:"",
+                            height:"",
+                            direction:"top"
+                        }
+                        )
+                    </script>
+
+                    <div id="Nav_51" class="nav_box">
+
+                        <div class="nav_title"><span class="nav_sign">表格下载</span><span class="nav_more" style="display:none;"><a href="" target="_self">more</a></span></div>
+
+
+                        <div id="Nav_Conent_51" class="nav_list">
+
+                            <div id="Nav_Demo_51" style="height:60px">
+                                <div id="Nav_Demo_1_51">
+
+
+                                    <ul id="Nav_Normal_51"><!--#begineditable name="表格下载列表" action="" layout="" tpltype="" contype="" clone="" viewid="202070" contentviewid="" tagname="表格下载列表"--><li class="nav_list_style_1">
+  &bull; <a href="info/1018/1249.htm" class="nav_list_title" target="_self">校第十四届运动会报名表</a><span class="nav_list_date">&nbsp;[09-29]</span>
+</li>                                        
+<li class="nav_list_style_1">
+  &bull; <a href="info/1018/1244.htm" class="nav_list_title" target="_self">2019年第九届桂林电子科技大学“五四杯”网球赛...</a><span class="nav_list_date">&nbsp;[04-17]</span>
+</li>                                        
+<li class="nav_list_style_1">
+  &bull; <a href="info/1018/1245.htm" class="nav_list_title" target="_self">桂林电子科技大学第八届 “五四杯”网球赛报名表</a><span class="nav_list_date">&nbsp;[04-26]</span>
+</li>                                        
+<li class="nav_list_style_1">
+  &bull; <a href="info/1018/1246.htm" class="nav_list_title" target="_self">2018五四杯篮球赛报名表</a><span class="nav_list_date">&nbsp;[04-13]</span>
+</li>                                        
+<li class="nav_list_style_1">
+  &bull; <a href="info/1018/1247.htm" class="nav_list_title" target="_self">达标测试免测申请表</a><span class="nav_list_date">&nbsp;[11-03]</span>
+</li>                                        
+<script>_showDynClickBatch(['dynclicks_u1_1249','dynclicks_u1_1244','dynclicks_u1_1245','dynclicks_u1_1246','dynclicks_u1_1247'],[1249,1244,1245,1246,1247],"wbnews", 1411890727)</script>
+<!--#endeditable--></ul>
+
+                                </div><div id="Nav_Demo_2_51"></div>
+                            </div>
+
+                        </div>
+                    </div>
+
+                    <script type="text/javascript">
+                        var NavRoll_51=new PARoll
+                        (
+                        {
+                            speed:80,
+                            box:"Nav_Demo_51",
+                            box1:"Nav_Demo_1_51",
+                            box2:"Nav_Demo_2_51",
+                            objname:"NavRoll_51",
+                            width:"",
+                            height:"",
+                            direction:"top"
+                        }
+                        )
+                    </script>
+
+
+                    <div id="Nav_56" class="nav_box">
+
+                        <div class="nav_title"><span class="nav_sign">友情链接</span><span class="nav_more" style="display:none;"><a href="#">more</a></span></div>
+
+
+                        <div id="Nav_Conent_56" class="nav_content">
+                            <div class="link_box"><select onchange="Link_Open(this.options[this.selectedIndex].value,'1')"><option value="">======友情链接======</option><option value="http://www.guet.edu.cn">桂林电子科技大学</option></select></div>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="lanmu_box_style1_right" id="lanmu_style1_right">
+
+                    <div class="template_box_layout_left" style="width:65%;">
+                        <div id="Template_22" class="template_box" style="width:100%;">
+
+                            <div class="template_title" style="background:url(images/gsjj.jpg) no-repeat 10px 0px;height:30px;margin:0px 10px 0 0"><span class="template_sign" style="display:none">部门简介</span><span class="template_more" style="display:;"><a href="gywm/bmjs.htm" target="">more</a></span></div>
+
+                            <div class="template_box_1">
+                                <div id="Template_Content_22" class="template_introduct_content" style="margin:0px 0px 0 0"><!--#begineditable name="头条文章带摘要" action="webber.wbst.com.news.FirstNews" layout="/system/_component/news/list/firstnews2.jsp" tpltype="0" contype="" clone="" viewid="202084" contentviewid="" tagname="头条文章带摘要"--><style>
+A.f202084:link{COLOR: #222222;}  
+A.f202084:visited{COLOR: #222222;}  
+A.f202084:active{COLOR: #CC0000;}  
+A.f202084:hover{COLOR: #CC0000;}  
+</style>  
+<table width="100%" cellspacing="10" cellpadding="0">
+    <tr><td align="center" nowrap>
+    
+        <a href="info/1007/1355.htm" class="c202084" title="体育部党员志愿者为西校区筑起一扇“防疫门”" target="_blank">体育部党员志愿者为西校区筑起一扇“防疫门”</a>
+		    
+
+    </td></tr>
+    <tr>
+        <td><span class="sumstyle202084">&nbsp;&nbsp;&nbsp;&nbsp;    疫情就是号角。学校党委下发《关于组织动员各基层党组织和广大党员干部积极投身学校疫情防控工作的实施方案》后，体育部党员干部立即行动，纷纷报名参加志愿活动，冲在一线，奋力打赢疫情防控阻击战。根据学校应急处置组统筹，体育部直属党支部负责包干西校区大门出入口出入人员防控协助工作，自值班以来志愿者都能提前到岗，在做好自我保护的同时，严格监督安保人员对车辆和人员的测温登记等工作，必要时还协助做...&nbsp;&nbsp;</span>
+
+        	<a href="info/1007/1355.htm" title="体育部党员志愿者为西校区筑起一扇“防疫门”" target="_blank">
+        		<span class="detailstyle202084">[详细]</span>
+        	</a>
+      
+        </td>
+    </tr>
+</table><!--#endeditable--></div>
+                            </div>
+
+                        </div>
+
+                        <div id="Template_37" class="template_box" style="width:100%;">
+
+                            <div class="template_title"><span class="template_sign">新闻动态</span><span class="template_more"><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1008" style="display:none">more</a></span></div>
+
+
+                            <div class="template_box_1">
+
+                                <div id="Template_Content_37" class="template_list_box"><!--#begineditable name="新闻动态标题列表" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/tpltitlelist.jsp" tpltype="1" contype="news" clone="" viewid="202081" contentviewid="" tagname="新闻动态标题列表"--><ul class="template_list_title_box">
+    <li class="template_list_title_left"><a href="info/1008/1382.htm" class="template_list_title" target="_self">体育部直属党支部开展2020年第一次理论中心组学习（图）</a></li>
+    <li class="template_list_title_right"><span>2020-04-11</span></li>
+</ul>                                    
+<ul class="template_list_title_box">
+    <li class="template_list_title_left"><a href="info/1008/1381.htm" class="template_list_title" target="_self">【疫情防控】体育部积极开展体育课程网络教学</a></li>
+    <li class="template_list_title_right"><span>2020-04-11</span></li>
+</ul>                                    
+<ul class="template_list_title_box">
+    <li class="template_list_title_left"><a href="info/1008/1375.htm" class="template_list_title" target="_self">体育部召开关于体育教学过程中落实思政教育会议</a></li>
+    <li class="template_list_title_right"><span>2020-03-30</span></li>
+</ul>                                    
+<ul class="template_list_title_box">
+    <li class="template_list_title_left"><a href="info/1008/1374.htm" class="template_list_title" target="_self">2020年新学期体育场馆安全检查</a></li>
+    <li class="template_list_title_right"><span>2020-03-22</span></li>
+</ul>                                    
+<ul class="template_list_title_box">
+    <li class="template_list_title_left"><a href="info/1008/1373.htm" class="template_list_title" target="_self">停学不停训 桂电运动健儿积极进行“云训练”</a></li>
+    <li class="template_list_title_right"><span>2020-03-19</span></li>
+</ul>                                    
+<ul class="template_list_title_box">
+    <li class="template_list_title_left"><a href="info/1008/1362.htm" class="template_list_title" target="_self">响应党的号召，体育部广大党员踊跃捐款支持抗疫</a></li>
+    <li class="template_list_title_right"><span>2020-03-01</span></li>
+</ul>                                    
+<script>_showDynClickBatch(['dynclicks_u3_1382','dynclicks_u3_1381','dynclicks_u3_1375','dynclicks_u3_1374','dynclicks_u3_1373','dynclicks_u3_1362'],[1382,1381,1375,1374,1373,1362],"wbnews", 1411890727)</script>
+<!--#endeditable--></div>
+
+                            </div>
+                        </div>
+
+                    </div>
+                    <div id="Template_36" class="template_box_layout_right" style="width:auto;">
+
+                        <div class="template_title_layout_right" style="background:url(images/gcal.jpg) no-repeat 20px 0px;height:30px;margin:0px 5px 0 0"><span class="template_sign" style="display:none">合作交流</span><span class="template_more" style="display:;float:right;font-weight:normal;padding:1px 16px 0 10px;margin:0 0 0 0;background:url(images/more_icon.gif) no-repeat 0 7px;"><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1027" target="">more</a></span></div>
+
+
+                        <div class="template_box_1_layout_right"><!--#begineditable name="变换图片文章" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/imagechangenews.jsp" tpltype="0" contype="news" clone="" viewid="202064" contentviewid="" tagname="变换图片文章"-->
+<LINK href="/system/resource/style/component/news/list/imagechangenews.css" type="text/css" rel="stylesheet">
+<script language="javascript" src="/system/resource/js/news/imagechangenews.js"></script><script language="JavaScript">
+var u_u4_icn = new ImageChangeNews("u_u4_", 230, 150, 4, 2.0, true, false, false, true);
+
+//初始化图片, 并启动定时
+function u_u4_init_img()
+{
+
+    u_u4_icn.addimg("\/__local\/B\/B5\/80\/CB085213B425513556A1565CD47_961EDD00_CF83.jpg", "info\/1027\/1003.htm", "广州学院到我校进行篮球交流", "");
+
+    u_u4_icn.addimg("\/__local\/F\/B5\/30\/5B5FB947EEDB20EA59D5C45F762_66C2884A_7C8A.jpg", "info\/1027\/1002.htm", "青岛科技大学到我部调研交流", "");
+
+    u_u4_icn.addimg("\/__local\/0\/50\/F3\/8E6FA0E4913296875D0AE8AC613_9D3BEFED_6E52.jpg", "info\/1027\/1165.htm", "更新理念、科学训练再创我...", "");
+
+    u_u4_icn.changeimg(0);
+}
+</script><table cellspacing="0" cellpadding="0" border="0" style="padding:0px margin:0px; border:0px">
+    <tr><td>
+        <div style="OVERFLOW: hidden;height:150px;width:230px">
+            <div id="u_u4_div" align="center" style="padding:0px;margin:0px;border:0px solid black;background-color:#000000;FILTER: progid:DXImageTransform.Microsoft.RevealTrans (duration=2.0,transition=23);height:150px;width:230px">
+                <div id="u_u4_imgdiv" style="padding:0px;border:0px;"><a id="u_u4_url" target="_blank"><img id="u_u4_pic" border="0" width="230" height="150" src="/system/resource/images/space.gif"></a></div>
+            </div>
+            <div style="filter:alpha(style=1,opacity=10,finishOpacity=80);width:230px;height:19px;text-align:right;top:-19px;position:relative;padding:0px;margin:0px;border:0px;">
+<a href="javascript:u_u4_icn.changeimg(0)" ; id="u_u4_selectNode0" class="imagechangenews_pnode" target="_self">1</a><a href="javascript:u_u4_icn.changeimg(1)" ; id="u_u4_selectNode1" class="imagechangenews_pnode" target="_self">2</a><a href="javascript:u_u4_icn.changeimg(2)" ; id="u_u4_selectNode2" class="imagechangenews_pnode" target="_self">3</a>
+            </div></div></td></tr>
+       
+    <tr><td height="25">
+        <div align="center" style="overflow:hidden;text-overflow:ellipsis;height:25px;width:230px;"><a target="_blank" class="titlestyle202064" id="u_u4_newstitle"></a></div>
+    </td></tr>
+<div align="left" display="none" style="overflow:hidden;text-overflow:ellipsis;height:0px;width:230px;padding-left:2px;padding-right:2px"><a target="_blank" class="summarystyle202064" id="u_u4_newssummary"></a></div>   
+</table><SCRIPT language="JavaScript">u_u4_init_img();</SCRIPT><!--#endeditable--></div>
+
+                    </div>
+
+
+                    <div id="Template_20" class="template_box" style="width:100%;">
+
+                        <div class="template_title" style="background:url(images/cptj.jpg) no-repeat 10px 10px;height:30px;margin:0px 20px 0 0"><span class="template_sign" style="display:none">体育赛事</span><span class="template_more" style="display:;float:right;font-weight:normal;padding:12px 3px 0 10px;margin:0 0 0 0;background:url(images/more_icon.gif) no-repeat 0 18px;"><a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1015">more</a></span></div>
+
+
+                        <div class="template_box_1">
+                            <div id="Template_Content_20" class="template_pic_box" style="margin:20px 20px 20px 15px"><!--#begineditable name="滚动图片文章" action="webber.wbst.com.news.ColumnNews" layout="/system/_component/news/list/imagescrollnews.jsp" tpltype="0" contype="news" clone="" viewid="202080" contentviewid="" tagname="滚动图片文章"-->                  
+                   
+<script language="javascript" src="/system/resource/js/vsbpreloadimg.js"></script>
+<TABLE width="600" height="122" cellSpacing="0" cellPadding="0" align="center" border="0">                   
+  <TR>                   
+    <TD>                   
+      <DIV id="u_u5_demo" style="OVERFLOW: hidden; WIDTH: 600px;">
+      <TABLE cellSpacing="0" cellPadding="0" align="left" border="0" cellspace="0">                   
+        <TR>                   
+          <TD id="u_u5_demo1" vAlign="top">
+           <table width="600" border="0" cellpadding="0" cellspacing="0">
+            <tr>                   
+                               
+                <td width="150" valign="top" align="center" style="padding-left:7px;padding-right:8px">
+                <div style="Padding: 0px; width: 150px"><table cellpadding="3" cellspacing="0" bgcolor="#f5f5f5" style="border:1px solid #e3e3e3;"><tr><td width="150" height="112" valign="middle" align="center"><a href="info/1015/1272.htm" target="_blank"><img border="0" name="u_u5_img" src="/system/resource/images/loading.gif" alt="区运会我校足球挺进决赛" hspace="0" vspace="0"></a></td></tr></table></div>
+                               
+                <div class="titlestyle202080" style="text-align:center;vertical-align:bottom">区运会我校足球挺进决赛</div>
+                               
+                </td>                   
+                               
+                <td width="150" valign="top" align="center" style="padding-left:7px;padding-right:8px">
+                <div style="Padding: 0px; width: 150px"><table cellpadding="3" cellspacing="0" bgcolor="#f5f5f5" style="border:1px solid #e3e3e3;"><tr><td width="150" height="112" valign="middle" align="center"><a href="info/1015/1275.htm" target="_blank"><img border="0" name="u_u5_img" src="/system/resource/images/loading.gif" alt="桂电田径队再创新辉煌" hspace="0" vspace="0"></a></td></tr></table></div>
+                               
+                <div class="titlestyle202080" style="text-align:center;vertical-align:bottom">桂电田径队再创新辉煌</div>
+                               
+                </td>                   
+                               
+                <td width="150" valign="top" align="center" style="padding-left:7px;padding-right:8px">
+                <div style="Padding: 0px; width: 150px"><table cellpadding="3" cellspacing="0" bgcolor="#f5f5f5" style="border:1px solid #e3e3e3;"><tr><td width="150" height="112" valign="middle" align="center"><a href="info/1015/1278.htm" target="_blank"><img border="0" name="u_u5_img" src="/system/resource/images/loading.gif" alt="2018中国杯国际定向越野巡回赛广西巴马站圆满结束" hspace="0" vspace="0"></a></td></tr></table></div>
+                               
+                <div class="titlestyle202080" style="text-align:center;vertical-align:bottom">2018中国杯国际定向越野巡...</div>
+                               
+                </td>                   
+                               
+                <td width="150" valign="top" align="center" style="padding-left:7px;padding-right:8px">
+                <div style="Padding: 0px; width: 150px"><table cellpadding="3" cellspacing="0" bgcolor="#f5f5f5" style="border:1px solid #e3e3e3;"><tr><td width="150" height="112" valign="middle" align="center"><a href="info/1015/1279.htm" target="_blank"><img border="0" name="u_u5_img" src="/system/resource/images/loading.gif" alt="2018桂林市高校篮球联赛我校女篮夺冠" hspace="0" vspace="0"></a></td></tr></table></div>
+                               
+                <div class="titlestyle202080" style="text-align:center;vertical-align:bottom">2018桂林市高校篮球联赛我...</div>
+                               
+                </td>                   
+                               
+                <td width="150" valign="top" align="center" style="padding-left:7px;padding-right:8px">
+                <div style="Padding: 0px; width: 150px"><table cellpadding="3" cellspacing="0" bgcolor="#f5f5f5" style="border:1px solid #e3e3e3;"><tr><td width="150" height="112" valign="middle" align="center"><a href="info/1015/1280.htm" target="_blank"><img border="0" name="u_u5_img" src="/system/resource/images/loading.gif" alt="第八届“五四杯”网球团体赛圆满结束" hspace="0" vspace="0"></a></td></tr></table></div>
+                               
+                <div class="titlestyle202080" style="text-align:center;vertical-align:bottom">第八届“五四杯”网球团体...</div>
+                               
+                </td>                   
+                               
+            </tr>                   
+           </table>                   
+          </TD>                   
+          <TD id="u_u5_demo2" vAlign="top">&nbsp;</TD>                   
+        </TR>                   
+      </TABLE>                   
+      </DIV>                   
+    </TD>
+  </TR>                   
+</TABLE>                   
+<SCRIPT language="javascript">
+    var u_u5_imgs = new VsbPreloadImgArray();
+    
+    //初始化图片
+    function u_u5_init_img()
+    {
+
+            u_u5_imgs.addImg("\/__local\/A\/4A\/03\/8BC2AC65404FCAD7CC2348FDC50_6BB74B8B_3D07.jpg", "0", u_u5_onimgload);
+
+            u_u5_imgs.addImg("\/__local\/3\/5F\/FB\/2B94806E9B358DCB8BDA509EC07_39383AFA_5157.jpg", "1", u_u5_onimgload);
+
+            u_u5_imgs.addImg("\/__local\/3\/B0\/FD\/7A4459DE5D6EEB1BF903045E1EF_799F29DC_11238.jpg", "2", u_u5_onimgload);
+
+            u_u5_imgs.addImg("\/__local\/2\/5F\/FD\/EA360A7EFA80FEBBBAC55CB0BA0_38832503_CCE2.jpg", "3", u_u5_onimgload);
+
+            u_u5_imgs.addImg("\/__local\/1\/50\/AA\/D88075A552D447552C328065B3B_43CB92AF_B653.jpg", "4", u_u5_onimgload);
+
+    }
+    function u_u5_onimgload(img, imgid)
+    {
+        var imgobjs = document.getElementsByName("u_u5_img");
+        var imgindex = new Number(imgid);
+        
+        img.showImg(imgobjs[imgindex], 150, 112, true, true);
+        img.showImg(imgobjs[imgindex+ 5], 150, 112, true, true);
+    }
+
+    var u_u5_MyMar;
+    var u_u5_speed3;
+    var u_u5_move = true;
+    var u_u5_movenum = 0;
+    var u_u5_pos = null; //td位置组
+    
+    function u_u5_initpos()
+    {
+        u_u5_pos = new Array();
+        
+        var tds1 = document.getElementById("u_u5_demo1").childNodes[0].rows[0].cells;
+        
+        for(i = 0 ;i < tds1.length; i++)
+        {
+            u_u5_pos[u_u5_pos.length] = tds1[i].offsetLeft;
+        }
+        
+        var tds2 = document.getElementById("u_u5_demo2").childNodes[0].rows[0].cells;
+        var tds2offset = document.getElementById("u_u5_demo2").offsetLeft;
+        for(i = 0 ;i < tds2.length; i++)
+        {
+            u_u5_pos[u_u5_pos.length] = tds2[i].offsetLeft + tds2offset;
+        }
+    }
+    function u_u5_getpos(scrollpos)
+    {
+        for(i = 0; i < u_u5_pos.length; i++)
+        {
+            if(scrollpos < u_u5_pos[i])
+                return i-1;
+        }
+    }
+
+    function u_u5_Marquee() 
+    {
+        try 
+        { 
+            if(!u_u5_move)
+                return;
+            
+            var demoobj = document.getElementById("u_u5_demo");
+            var demo1obj = document.getElementById("u_u5_demo1");
+            //滚动步长
+            var scrollstep = 5
+            
+            //当前位置
+            var oldscrollLeft = demoobj.scrollLeft;
+            
+            //更新后的位置, 已考虑过回滚
+            var newscrollLeft = (oldscrollLeft + scrollstep)%demo1obj.scrollWidth;
+            
+            demoobj.scrollLeft = newscrollLeft; 
+            
+        } 
+        catch(e) 
+        { 
+        } 
+    } 
+    function u_u5_clearInterval()
+    {
+        clearInterval(u_u5_MyMar);
+    }
+    
+    function u_u5_setInterval()
+    {
+        u_u5_MyMar = setInterval(u_u5_Marquee,u_u5_speed3);
+    }
+    
+    function u_u5_stopmove()
+    {
+        u_u5_move = false;
+    }
+    function u_u5_startmove()
+    {
+        u_u5_move = true;
+    }
+    
+    function u_u5_init()
+    {
+        u_u5_speed3 = 100;
+        if(u_u5_speed3 < 1)
+        {
+            u_u5_speed3 = 1;
+        }
+        
+        document.getElementById("u_u5_demo").onmouseover = u_u5_stopmove;
+        document.getElementById("u_u5_demo").onmouseout = u_u5_startmove;
+        document.getElementById("u_u5_demo2").innerHTML = document.getElementById("u_u5_demo1").innerHTML;
+        
+        u_u5_init_img();
+
+        u_u5_setInterval();
+
+    }
+    
+    u_u5_init();
+</SCRIPT> <!--#endeditable--></div>
+                        </div>
+                    </div>
+
+                    <script type="text/javascript">
+                        var TMRoll_20=new PARoll
+                        (
+                        {
+                            speed:30,
+                            box:"Template_Content_20",
+                            box1:"Template_Content_1_20",
+                            box2:"Template_Content_2_20",
+                            objname:"TMRoll_20",
+                            width:"",
+                            height:"",
+                            direction:"left"
+                        }
+                        )
+                    </script>
+
+
+                </div>
+                <div class="clear" id="lanmu_style1_bottom"></div>
+            </div>
+        <script type="text/javascript">
+
+
+   var lanmu_nav_menu=document.getElementById("Nav_Menu_");
+   var   lanmu_nav_submenu=document.getElementById("Nav_submenu_");
+   if(lanmu_nav_menu!=null)
+    {
+      lanmu_nav_menu.style.display="";
+    }
+   if(lanmu_nav_submenu!=null)
+    {
+      lanmu_nav_submenu.style.display="";
+    }
+            </script>
+        <div class="bottom_box"><p align="center">&nbsp; <span class="STYLE6">桂林电子科技大学体育部 版权所有&nbsp;Copyright <span style="font-family: Arial">&copy;</span> 2019</span>&nbsp;</p></div>
+     </div>
+</body>
+</html>
